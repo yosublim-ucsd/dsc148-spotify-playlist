@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-197 songs - 11 hr 57 min
+198 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cherry](https://open.spotify.com/track/5JOWR8OXp4FcpDcsxL8lZr) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/1dP4dfdYnGaYTt1gYWqOSA) | 3:22 | 2022-05-25 | 2022-07-29 |
 | [Cherry Ball Blues](https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Boomer's Story](https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz) | 4:13 | 2022-05-25 |  |
 | [Coffee Blues](https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Rediscovered](https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p) | 3:46 | 2022-07-29 |  |
+| [Colt 45](https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Colt 45](https://open.spotify.com/album/43rZvzAOV4kJkDW4gffAJK) | 2:45 | 2023-08-18 |  |
 | [Crow Jane](https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James Live Vol\. 2 Bloomington 1968 Part 1](https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM) | 2:23 | 2022-05-27 |  |
 | [Death Valley Blues](https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:43 | 2023-04-28 |  |
 | [Death Valley Blues](https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Death Valley Blues](https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM) | 2:43 | 2022-09-20 | 2023-04-30 |
@@ -70,7 +71,7 @@
 | [For The Last Time \- Alternate Take 1](https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(50th Anniversary Edition\)](https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16) | 5:05 | 2022-07-29 |  |
 | [Forever On My Mind](https://open.spotify.com/track/7HOXfx0rEgpQFufREOKFvD) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Forever On My Mind](https://open.spotify.com/album/4wZsN1DR2EUgMwDW5IEf4a) | 5:36 | 2022-05-25 |  |
 | [Fussin' and Fightin' \(Blues\)](https://open.spotify.com/track/479M29eunSUcosQ608slSc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:00 | 2022-10-14 |  |
-| [Gambler's Blues](https://open.spotify.com/track/3d2B9Hdzj1kGVFDfPTz3Vp) | [Jantso Jokelin](https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA) | [Silver Lining](https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC) | 1:58 | 2023-02-03 |  |
+| [Gambler's Blues](https://open.spotify.com/track/3d2B9Hdzj1kGVFDfPTz3Vp) | [Jantso Jokelin](https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA) | [Silver Lining](https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC) | 1:58 | 2023-02-03 | 2023-08-20 |
 | [Get out of My Life Woman](https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Ride Your Pony](https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF) | 2:26 | 2022-05-25 |  |
 | [God Moves On the Water](https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 2:59 | 2022-10-10 |  |
 | [God Moves on the Water](https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ) | [Elly Wininger](https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ) | [The Blues Never End](https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1) | 3:01 | 2022-06-14 |  |

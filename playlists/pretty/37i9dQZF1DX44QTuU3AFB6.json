@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 246065,
+  "num_followers": 246649,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTMwNTAxMjI3NjZjOTU1MGMxZjNjZDQ5ZDlhNGIxZjFlYjE3MGQ4",
+  "snapshot_id": "MCw1OGFjYTliZmY2ZWUwOTk1NGM5ZWNjNjgyNjUyYjM4ZTcwNGJjYjA1",
   "tracks": [
     {
       "added_at": "2023-05-15 21:37:27",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "No Se Va (EN VIVO)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - EN VIVO",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "El Hijo Mayor",
         "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 113019,
       "name": "Dijeron Que No La Iba Lograr",
       "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "No Se Va (EN VIVO)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - EN VIVO",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "No Es Por Ac\u00e1",
-        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 167692,
-      "name": "No Es Por Ac\u00e1",
-      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 199320,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "No Es Por Ac\u00e1",
+        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "No Es Por Ac\u00e1",
+      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -631,22 +631,18 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+      "duration_ms": 167373,
+      "name": "De Los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -687,18 +683,22 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
         }
       ],
-      "duration_ms": 167373,
-      "name": "De Los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
+        "name": "Ni Diablo Ni Santo",
+        "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Ni Diablo Ni Santo",
+      "url": "https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 163223,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
-        "name": "Ni Diablo Ni Santo",
-        "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Ni Diablo Ni Santo",
-      "url": "https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me la Avente",
-      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 219373,
       "name": "El Amor De Su Vida",
       "url": "https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Se Me Solt\u00f3 El Hocico",
         "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 175319,
       "name": "Se Me Solt\u00f3 El Hocico",
       "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Ni Con Labios Prestados",
-        "url": "https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Ni Con Labios Prestados",
-      "url": "https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "De Hoy En Adelante, Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 176280,
       "name": "La Hice Sufrir",
       "url": "https://open.spotify.com/track/4fi5t10Lh945PobS1uwKwK"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Ni Con Labios Prestados",
+        "url": "https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "Ni Con Labios Prestados",
+      "url": "https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "La Chapiza",
-        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "La Chapiza",
-      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -1427,22 +1411,18 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "No Me Beses",
-        "url": "https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic"
+        "name": "La Chapiza",
+        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 174173,
-      "name": "No Me Beses",
-      "url": "https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR"
+      "duration_ms": 152750,
+      "name": "La Chapiza",
+      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -1475,6 +1455,26 @@
       "duration_ms": 203520,
       "name": "Ya Lo S\u00e9",
       "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "No Me Beses",
+        "url": "https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "No Me Beses",
+      "url": "https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "El Ejemplo",
-        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Golpes En El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/50cYfOvLztlxfHMX1klklK"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 181986,
       "name": "Amor Confuso",
       "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "El Ejemplo",
+        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Golpes En El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/50cYfOvLztlxfHMX1klklK"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Sabor de Enga\u00f1o",
-      "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 170672,
       "name": "En La Bola (feat. El De La Guitarra)",
       "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Sabor de Enga\u00f1o",
+      "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -2571,6 +2571,22 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 217283,
+      "name": "As\u00ed Quer\u00eda Mirarte",
+      "url": "https://open.spotify.com/track/2NzprDAMQJGOxRpgmPk70G"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
         "name": "Corridos Underground",
         "url": "https://open.spotify.com/album/5Wj7VIPBinifu9nvB0HylN"
       },
@@ -2583,22 +2599,6 @@
       "duration_ms": 154464,
       "name": "No Eres Tu, Soy Yo! - Bonus Track",
       "url": "https://open.spotify.com/track/1fqs4VH6AVUk0CnZ6YGmeC"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
-        "name": "Exitos De Los Invasores De Nuevo Leon",
-        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 135653,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6Ty1gDf8oUZfqf9TotnSSe"
     }
   ],
   "unique_name": "Puras Pa' Pistear",

@@ -896,7 +896,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -6333,6 +6333,28 @@
     },
     {
       "album": {
+        "name": "Kures Drill",
+        "url": "https://open.spotify.com/album/4IsnFljZY7pcz5fhHBe7Q6"
+      },
+      "artists": [
+        {
+          "name": "Dollar Prync",
+          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Drill p\u00e1rty",
+      "url": "https://open.spotify.com/track/1aPoBYaPuCZ6ahLuHUNFf4"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -11496,7 +11518,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -11996,7 +12018,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 173589,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/03RojRDRvvbFEPpabo3Aan"
@@ -14496,7 +14518,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -20148,6 +20170,28 @@
       "duration_ms": 188219,
       "name": "Re\u0165aze",
       "url": "https://open.spotify.com/track/1qHZrVjQrXxpb0lTdOmM7K"
+    },
+    {
+      "album": {
+        "name": "Kures Drill",
+        "url": "https://open.spotify.com/album/4IsnFljZY7pcz5fhHBe7Q6"
+      },
+      "artists": [
+        {
+          "name": "Dollar Prync",
+          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+        },
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186782,
+      "name": "Re\u017eim neru\u0161it",
+      "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
     },
     {
       "album": {

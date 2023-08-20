@@ -4,7 +4,7 @@
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-146 songs - 12 hr 58 min
+148 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Circles](https://open.spotify.com/track/2xU4Ejdq5h5EE7YcIbjnZe) | [Nicolas Taboada](https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE) | [A\-Sides, Vol\. 11](https://open.spotify.com/album/3uDzg42dI0fxJUojkmN1aY) | 6:23 | 2022-11-25 |  |
 | [Claptrap](https://open.spotify.com/track/1wxgrpzFQPePRLW4YKYvJN) | [Crossbow](https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV) | [Claptrap](https://open.spotify.com/album/1w2LMklzYKEjJYT5yCqvyc) | 4:36 | 2023-03-09 |  |
 | [Clarity](https://open.spotify.com/track/0YTa8TqgoTRjPznEJYNDDW) | [A.S.H](https://open.spotify.com/artist/2ES9p7AUwZWCR0xfGsCKTC) | [Obsession](https://open.spotify.com/album/5fzpNfrjHhr7z3fk3jEnYn) | 7:15 | 2022-02-03 | 2023-04-24 |
+| [Come With Me](https://open.spotify.com/track/1kNsgWpbSPHtGZC5cdHm5R) | [Jo Poole](https://open.spotify.com/artist/3d8oVrrMiYpjm8iHGj7CYF) | [In Control](https://open.spotify.com/album/34ButLQg3S3CugEn6CPQ9s) | 3:28 | 2023-08-15 |  |
 | [Concentrate](https://open.spotify.com/track/2BPrwqxSpvENgsehOYgFJB) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Badlands](https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD) | 3:49 | 2023-03-31 |  |
 | [Connect](https://open.spotify.com/track/1XsCduhjiJEwFlkNxnTI6S) | [Alessandro Grops](https://open.spotify.com/artist/07Glpj38nleLSAo3mJmcQH) | [Connect EP](https://open.spotify.com/album/1HC64k8KzGmEg5bgfSo283) | 5:35 | 2022-05-17 |  |
 | [Constellation](https://open.spotify.com/track/0KxenwZHOqXRQYV9GSaLxY) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Matteo Vitanza](https://open.spotify.com/artist/5NjFXNobjTKu8ZV2lFiXRa) | [Respekt Rebels, Vol\. 4](https://open.spotify.com/album/65AIbwBS7j6HSf6uD47Hda) | 3:27 | 2022-12-28 |  |
@@ -62,6 +63,7 @@
 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-03-09 |  |
 | [I Feel so Free](https://open.spotify.com/track/63pwXzqYI7oolrfSCp3BJp) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Pablo Say](https://open.spotify.com/artist/6SaiHV8IusL0jz3eGbGMDU) | [I Feel so Free](https://open.spotify.com/album/03CF5a4PQUeWX5MtkqO5Ii) | 3:52 | 2023-04-23 | 2023-06-29 |
 | [I Like It](https://open.spotify.com/track/7obRdwgCw7AWykXSwh7EvW) | [Gary Beck](https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC) | [I Like It](https://open.spotify.com/album/3lpFS44HeamiKNxWvMapxw) | 6:12 | 2022-11-25 |  |
+| [In Control](https://open.spotify.com/track/6SdZhw93QmruQx0myotn6B) | [Jo Poole](https://open.spotify.com/artist/3d8oVrrMiYpjm8iHGj7CYF) | [In Control](https://open.spotify.com/album/34ButLQg3S3CugEn6CPQ9s) | 3:48 | 2023-08-15 |  |
 | [In My Mind](https://open.spotify.com/track/6v5eh78XkjHCSkG9A9kAew) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [You Can't Control Me](https://open.spotify.com/album/4LZ4dRm9IZCYD3YlhUYckx) | 5:33 | 2022-04-18 |  |
 | [Indecision](https://open.spotify.com/track/0Rstpcbxc6EOzMJcp8YWdO) | [BK](https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW) | [Rampage](https://open.spotify.com/album/7mdj42dRWVQlGymjVO99OE) | 6:07 | 2023-03-09 |  |
 | [Inertia](https://open.spotify.com/track/74utOOe35IIADzUxx6JuuD) | [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Premonition](https://open.spotify.com/album/7xovWTrsRTgPzdMfgTzcOa) | 3:44 | 2023-03-09 |  |

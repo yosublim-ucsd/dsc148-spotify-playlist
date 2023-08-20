@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-643 songs - 1 day 3 hr 56 min
+645 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Infatuation](https://open.spotify.com/track/6ZwJ6siwR4uUw7qhUkJLUp) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Infatuation](https://open.spotify.com/album/0Snt5AfbgRQQMDcOKFLDJm) | 2:00 | 2022-04-21 | 2022-07-21 |
 | [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2022-04-21 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2022-04-21 |  |
-| [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 | 2022-04-21 |  |
+| [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 | 2022-04-21 | 2023-08-20 |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2022-04-21 |  |
 | [Intimita \- Futatabi](https://open.spotify.com/track/6tUBHCAKCnlqbyEqJjXJSo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Intimita \- Futatabi](https://open.spotify.com/album/4JnQ9RJjw3BaE18z8fccAE) | 1:57 | 2022-04-21 | 2022-07-21 |
 | [Involution](https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR) | [Chris DiGiorgio](https://open.spotify.com/artist/2TzK3jTz6ETUS8ElO97lHl) | [Involution](https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4) | 2:43 | 2022-04-21 |  |
@@ -328,6 +328,7 @@
 | [Mandeville](https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Mandeville](https://open.spotify.com/album/5MuXyJBi2fK0SDWdDwAQPS) | 2:17 | 2022-04-21 |  |
 | [Manus in Mano](https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr) | [Jacques Moni](https://open.spotify.com/artist/4jfYO6eSH5i7WlvIasFP6b) | [Manus in Mano](https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa) | 3:00 | 2022-04-21 |  |
 | [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2022-04-21 |  |
+| [Marche Lente](https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Marche Lente](https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN) | 2:11 | 2023-08-14 |  |
 | [Marée](https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Marée](https://open.spotify.com/album/22dbfN4ag9uCzk6ic7TH8V) | 3:02 | 2022-04-21 | 2022-09-24 |
 | [Matria](https://open.spotify.com/track/03wyufh9uNomZdlKIcQ0E4) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 2:32 | 2022-04-21 |  |
 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 | 2022-04-21 |  |
@@ -456,6 +457,7 @@
 | [Revel](https://open.spotify.com/track/5vAk9iXST0XynoiZaBo6cI) | [Linda Smuģe](https://open.spotify.com/artist/6LoUigEkesA4Bg7e248z15) | [Revel](https://open.spotify.com/album/0L7Mb55WomYt8DDVBtYSv2) | 2:36 | 2022-04-21 | 2022-09-24 |
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-04-21 | 2023-08-15 |
 | [Reverence](https://open.spotify.com/track/5q2VSybNASfP0KNdAQRDY8) | [Fouad Elalamy](https://open.spotify.com/artist/6Or9xpEuw1FBRFX6BrVmqQ) | [Reverence](https://open.spotify.com/album/2TjufIYzYzKd17aScCxQMc) | 1:59 | 2022-04-21 | 2022-07-21 |
+| [Reverie](https://open.spotify.com/track/5IifgRe4ed99fgkCbuUIQU) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Reverie](https://open.spotify.com/album/6PZ32yJJXZk1aPBB6367lf) | 2:16 | 2023-08-14 |  |
 | [Ricordarsi](https://open.spotify.com/track/3RuTCzfsjBoat5ZliUAC4a) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ricordarsi](https://open.spotify.com/album/63LrcK9pRwS6QE63iCVurd) | 2:30 | 2022-04-21 | 2022-10-13 |
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2022-04-21 |  |
 | [Rites of Passage](https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 3:11 | 2022-04-21 |  |
@@ -519,7 +521,7 @@
 | [Soudainement](https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Soudainement](https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX) | 2:48 | 2022-04-21 | 2023-03-04 |
 | [South Road](https://open.spotify.com/track/6IHwCVzlZl4wRzHO7iag9s) | [Anne Dubbot](https://open.spotify.com/artist/2Du8SzCwTpfWaUvU5d4Gdc) | [South Road](https://open.spotify.com/album/6GmIlyvmNLiAq0IeE2tinY) | 2:26 | 2022-04-21 | 2022-09-24 |
 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-04-21 | 2022-07-21 |
-| [Spring Shower](https://open.spotify.com/track/6mjeJniGJxw9q29cBHQKRH) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Spring Shower](https://open.spotify.com/album/5cTl20iAy3UHlc1IIYyfWE) | 2:46 | 2022-04-21 |  |
+| [Spring Shower](https://open.spotify.com/track/6mjeJniGJxw9q29cBHQKRH) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Spring Shower](https://open.spotify.com/album/5cTl20iAy3UHlc1IIYyfWE) | 2:46 | 2022-04-21 | 2023-08-20 |
 | [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 | 2022-04-21 | 2023-08-15 |
 | [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 | 2022-04-21 | 2022-09-24 |
 | [Starling](https://open.spotify.com/track/0deHuVvihpR7Xi8CZCy23s) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Maxine](https://open.spotify.com/album/46o6wVwjYewCk2cFa239XN) | 4:04 | 2022-04-21 | 2022-09-24 |

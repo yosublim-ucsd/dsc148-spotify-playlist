@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 47200,
+  "num_followers": 47227,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWZiNDc1NDAxNDkxYmQwNDM5MmIzMGMxYjliZWQyNjg1NDE4ZjJj",
+  "snapshot_id": "MCxmMTUzYzdlMzBiYmVkMWMxMTkxYzBlNjlmMDMzZDExN2RjNDRiODQx",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Morning Blue",
         "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 217136,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "Make Me Wanna",
+        "url": "https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "Pulang",
         "url": "https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 260000,
       "name": "Pulang",
       "url": "https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Make Me Wanna",
-        "url": "https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Right Person, Wrong Time",
-        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
-      },
-      "artists": [
-        {
-          "name": "shazza",
-          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
-        }
-      ],
-      "duration_ms": 238410,
-      "name": "Right Person, Wrong Time",
-      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "hi, i like you.",
         "url": "https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8"
       },
@@ -951,26 +935,6 @@
       "duration_ms": 187898,
       "name": "comeoutside",
       "url": "https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4"
-      },
-      "artists": [
-        {
-          "name": "JAIE",
-          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
-        },
-        {
-          "name": "NYK",
-          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
-        }
-      ],
-      "duration_ms": 239307,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -995,18 +959,38 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "the boy",
-        "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
+        "name": "Right Person, Wrong Time",
+        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
         }
       ],
-      "duration_ms": 216530,
-      "name": "the boy",
-      "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
+      "duration_ms": 238410,
+      "name": "Right Person, Wrong Time",
+      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4"
+      },
+      "artists": [
+        {
+          "name": "JAIE",
+          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
+        },
+        {
+          "name": "NYK",
+          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1023,6 +1007,22 @@
       "duration_ms": 166480,
       "name": "Pager",
       "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "the boy",
+        "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 216530,
+      "name": "the boy",
+      "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "bad together",
+        "url": "https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        },
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        },
+        {
+          "name": "Irwinandfire",
+          "url": "https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "bad together",
+      "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "oh to be in love",
         "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
@@ -1091,22 +1115,6 @@
       "duration_ms": 222167,
       "name": "Bad Haircut (feat. JVKE)",
       "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Vibin",
-        "url": "https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT"
-      },
-      "artists": [
-        {
-          "name": "Ylona Garcia",
-          "url": "https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR"
-        }
-      ],
-      "duration_ms": 165096,
-      "name": "Vibin",
-      "url": "https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1131,26 +1139,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "bad together",
-        "url": "https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5"
+        "name": "Vibin",
+        "url": "https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT"
       },
       "artists": [
         {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        },
-        {
-          "name": "TY:DEL",
-          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
-        },
-        {
-          "name": "Irwinandfire",
-          "url": "https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa"
+          "name": "Ylona Garcia",
+          "url": "https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR"
         }
       ],
-      "duration_ms": 170909,
-      "name": "bad together",
-      "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
+      "duration_ms": 165096,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m"
     },
     {
       "added_at": "2023-04-20 15:55:01",

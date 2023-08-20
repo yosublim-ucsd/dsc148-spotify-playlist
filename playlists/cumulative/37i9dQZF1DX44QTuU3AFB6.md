@@ -4,7 +4,7 @@
 
 > ¡Rolas pa' sacar las chelas y el tequila!
 
-462 songs - 1 day 0 hr 50 min
+463 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Acábame De Matar](https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:08 | 2022-05-20 |  |
 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 | 2022-05-20 |  |
 | [Aguanta Corazón](https://open.spotify.com/track/3Dldh6miuxuar39LFNufcI) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Esto Es Lo Nuestro](https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn) | 2:12 | 2022-05-20 | 2022-08-06 |
-| [Aguanta Corazón](https://open.spotify.com/track/6Ty1gDf8oUZfqf9TotnSSe) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Exitos De Los Invasores De Nuevo Leon](https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C) | 2:15 | 2022-05-20 |  |
+| [Aguanta Corazón](https://open.spotify.com/track/6Ty1gDf8oUZfqf9TotnSSe) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Exitos De Los Invasores De Nuevo Leon](https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C) | 2:15 | 2022-05-20 | 2023-08-20 |
 | [Aguanta Corazón](https://open.spotify.com/track/6E5gZOwEMVED0hNBeaTu9k) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:16 | 2022-05-20 | 2022-07-17 |
 | [Al Cien Y Pasadito](https://open.spotify.com/track/0skFLH6DHqdcmbAjl0LoE0) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Al Cien Y Pasadito](https://open.spotify.com/album/4gmCa5puyQMd415GA4Lg4k) | 2:37 | 2022-05-20 | 2022-08-06 |
 | [Al Final De Nuestra Historia](https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/4ktSTdeZtFaDRy7HzslcAU) | 3:17 | 2022-05-20 | 2022-08-06 |
@@ -51,6 +51,7 @@
 | [Arrancame El Corazon](https://open.spotify.com/track/2ujUDOUTM7Wt11uhMolOIY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey \- 30 Joyas Musicales](https://open.spotify.com/album/22zGSXwVHPmZqSrMXaZkNk) | 3:53 | 2022-05-20 | 2022-08-06 |
 | [Así Nací](https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:47 | 2022-12-31 |  |
 | [Así Quería Mirarte](https://open.spotify.com/track/1U0TaW2UNfdD8Hr5IEJXXv) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy) | 3:37 | 2022-05-20 | 2023-07-22 |
+| [Así Quería Mirarte](https://open.spotify.com/track/2NzprDAMQJGOxRpgmPk70G) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ) | 3:37 | 2023-05-15 |  |
 | [Baraja De Oro](https://open.spotify.com/track/6HnIGBFzbyMTyaSm4fUXj8) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Homenaje A Los Relampagos Del Norte](https://open.spotify.com/album/6YyhZxj7KSyLyHBBcxAR1Q) | 3:23 | 2022-05-20 | 2022-10-15 |
 | [Basta Ya \- Banda](https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:03 | 2022-05-20 | 2022-08-06 |
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2022-12-31 |  |

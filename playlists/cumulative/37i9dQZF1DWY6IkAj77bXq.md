@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-155 songs - 7 hr 42 min
+156 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Breath Of Life](https://open.spotify.com/track/0whxteXpbXv6WUTOfAtmZb) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:34 | 2022-07-19 | 2022-07-28 |
 | [Breath Of Life](https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:34 | 2022-07-19 |  |
 | [Calm Waves](https://open.spotify.com/track/46pzk2tSufIR5xYB0VvPVW) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/7FtzJPkuvDEb1yWqRhVtce) | 2:46 | 2022-07-05 | 2022-07-28 |
-| [Calm Waves](https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj) | 2:46 | 2022-11-11 |  |
+| [Calm Waves](https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj) | 2:46 | 2022-11-11 | 2023-08-20 |
 | [Capella](https://open.spotify.com/track/4An1Q5SqarQjbKLXCChQ58) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Capella](https://open.spotify.com/album/1rDpaLp8PXWQ6DOcA7YpYR) | 2:37 | 2022-07-05 | 2022-07-29 |
 | [Capella](https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Capella](https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE) | 2:37 | 2022-07-19 | 2023-04-30 |
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-05 |  |
@@ -59,6 +59,7 @@
 | [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 | 2023-02-17 |  |
 | [Floating Without Gravity](https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh) | 2:42 | 2022-07-19 |  |
 | [Floating Without Gravity](https://open.spotify.com/track/2CZNgun4NU3Ui9cVbL3c9h) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/4SsWdFTjKxD0vLwr0IS065) | 2:42 | 2022-07-05 | 2022-07-28 |
+| [Forgettable](https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO) | [Theia Kenor](https://open.spotify.com/artist/1ZyOejwpAb6jzeoLSrPc3l) | [Insights](https://open.spotify.com/album/5yB1iHwxoDqs4UqPtQravz) | 2:45 | 2023-08-18 |  |
 | [Free Of Hesitation](https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Free Of Hesitation](https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr) | 2:40 | 2023-01-13 |  |
 | [Gentle Dreams](https://open.spotify.com/track/3Y8h3LXQ1jR3jsdbdR7nmt) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [​Gentle Dreams](https://open.spotify.com/album/6JR2chegFWuuoU7KqOU1BG) | 3:15 | 2022-07-19 | 2022-07-26 |
 | [Glasslike](https://open.spotify.com/track/5as5bE8AUagyTwRxmMceVF) | [Jaumey](https://open.spotify.com/artist/5rKn2xAv2XuWjf5EdlTc20) | [Glasslike](https://open.spotify.com/album/184KNeTWudGRr8psDgZg7B) | 2:19 | 2022-07-19 |  |

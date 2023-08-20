@@ -4,7 +4,7 @@
 
 > Estamos listas para un festival único • <a href="https://www.ticketek.com.ar/festival\-equal/hipodromo\-de\-palermo">Comprá tu entrada acá</a> <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
 
-797 songs - 1 day 18 hr 53 min
+798 songs - 1 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Cristianas](https://open.spotify.com/track/1eaPEMcksRVTM18pwfltIE) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Cristianas](https://open.spotify.com/album/1PqHQVuTUIctPdnwMH3aZF) | 2:51 | 2021-12-17 | 2022-02-03 |
 | [Crudo](https://open.spotify.com/track/3QP7UaXnfLRYIvbUYwqwYn) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Crudo](https://open.spotify.com/album/4xLWlcNBB3tL4kTlphsdu8) | 3:24 | 2023-02-01 | 2023-03-02 |
 | [Cruel y Despiadado](https://open.spotify.com/track/3WIFpEA6e0iuYpWSD9wTSy) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Cruel y Despiadado](https://open.spotify.com/album/31YUrRCLP8Ysb83zW8aFCm) | 3:57 | 2023-02-01 | 2023-03-02 |
-| [Cuando Me Abandone el Alma](https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 3:24 | 2022-09-07 |  |
+| [Cuando Me Abandone el Alma](https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 3:24 | 2022-09-07 | 2023-08-20 |
 | [Cuando vuelva a encontrarte](https://open.spotify.com/track/3rCX9nWMuNlpILaIo8otaL) | [Mili Escudero y Agus Solá](https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU) | [Cuando Vuelva a encontrarte](https://open.spotify.com/album/6QOXVaBClkF46LEXMIaGnW) | 2:31 | 2022-09-07 | 2022-10-06 |
 | [Cuarto Creciente](https://open.spotify.com/track/2Qqaf2keyqm5IHbWVsVFjq) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:58 | 2022-04-06 | 2022-05-05 |
 | [cuatro veinte](https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:13 | 2022-11-30 | 2023-04-06 |
@@ -641,6 +641,7 @@
 | [Romper Platos](https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal](https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1) | 3:13 | 2023-03-01 | 2023-04-06 |
 | [Rota](https://open.spotify.com/track/5flqJsQDTDxJ2i2269Be2P) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Rota](https://open.spotify.com/album/1TTZVw7gOyWXzJ1yIttZTS) | 4:15 | 2022-11-30 | 2023-02-02 |
 | [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 | 2023-04-05 | 2023-08-12 |
+| [Rothmans](https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7) | 3:11 | 2023-08-18 |  |
 | [Run Run Se Fue Pa'l Norte \- En Vivo](https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Antigüedades \(En Vivo\)](https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B) | 5:03 | 2023-07-05 | 2023-07-28 |
 | [Rápido Lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Rápido Lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 | 2022-01-05 | 2022-02-03 |
 | [Rápido y Furioso](https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [Rápido y Furioso](https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx) | 2:33 | 2023-02-01 |  |

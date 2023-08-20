@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 313748,
+  "num_followers": 313842,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGFmZjE5NjBiZWU4NWY4NmFlOWQ1MDc1NWMyNDE1NzY0YzA1M2Nh",
+  "snapshot_id": "MCxkYzEyZmVjZDhkZTAyNDk4YmI3NjlhZjZiZDc1NjljZTk2OWZiMDM0",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Good F**King Music",
-        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 206433,
-      "name": "Good F**King Music",
-      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Immortal",
         "url": "https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 248576,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Good F**King Music",
+        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 206433,
+      "name": "Good F**King Music",
+      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -971,18 +971,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
       },
       "artists": [
         {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+      "duration_ms": 259401,
+      "name": "Our Fire",
+      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1007,22 +1011,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
         }
       ],
-      "duration_ms": 259401,
-      "name": "Our Fire",
-      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
-      },
-      "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Light Up The Sky (feat. Scott Stapp)",
         "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
@@ -1307,6 +1287,42 @@
       "duration_ms": 284425,
       "name": "Light Up The Sky (feat. Scott Stapp)",
       "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Let Them Only See Butterflies",
+        "url": "https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "SURRENDER PEACE!",
+      "url": "https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1375,42 +1391,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Angst - RMX by twocolors",
-      "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
-      },
-      "artists": [
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Baptize (Sullivan King Remix)",
         "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 250241,
       "name": "Baptize - Sullivan King Remix",
       "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Angst - RMX by twocolors",
+      "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1467,38 +1467,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Let Them Only See Butterflies",
-        "url": "https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ"
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
         }
       ],
-      "duration_ms": 194906,
-      "name": "SURRENDER PEACE!",
-      "url": "https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
+      "duration_ms": 160941,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1519,6 +1499,26 @@
       "duration_ms": 164897,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "F\u00d8\u00d8L (INHUMAN Remix)",
-        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
-      },
-      "artists": [
-        {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        },
-        {
-          "name": "INHUMAN",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        }
-      ],
-      "duration_ms": 188730,
-      "name": "F\u00d8\u00d8L - INHUMAN Remix",
-      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "The Catastrophists EP",
         "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "F\u00d8\u00d8L (INHUMAN Remix)",
+        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        },
+        {
+          "name": "INHUMAN",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        }
+      ],
+      "duration_ms": 188730,
+      "name": "F\u00d8\u00d8L - INHUMAN Remix",
+      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1751,22 +1751,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Bad Luck",
-        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
+        "name": "Core (That's Who We Are)",
+        "url": "https://open.spotify.com/album/1NOroK7CIZ5CocdGBya87u"
       },
       "artists": [
         {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "Kiz Keyz",
-          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 171243,
-      "name": "Bad Luck",
-      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
+      "duration_ms": 178909,
+      "name": "Core (That's Who We Are)",
+      "url": "https://open.spotify.com/track/2msXxN1Ta2UiDq7orsqvKc"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1807,42 +1807,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Core (That's Who We Are)",
-        "url": "https://open.spotify.com/album/1NOroK7CIZ5CocdGBya87u"
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
         },
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Kiz Keyz",
+          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
         }
       ],
-      "duration_ms": 178909,
-      "name": "Core (That's Who We Are)",
-      "url": "https://open.spotify.com/track/2msXxN1Ta2UiDq7orsqvKc"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Don't Miss (The Bloody Beetroots Remix)",
-        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
-      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
+      "duration_ms": 171243,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1867,6 +1847,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Don't Miss (The Bloody Beetroots Remix)",
+        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
+      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -1879,26 +1879,6 @@
       "duration_ms": 219789,
       "name": "come around",
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Superstars",
-        "url": "https://open.spotify.com/album/0d0hlFmmPN2ez86f5jgzBJ"
-      },
-      "artists": [
-        {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        },
-        {
-          "name": "REEBZ",
-          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
-        }
-      ],
-      "duration_ms": 269461,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/0wR44usvM0qPk1TiLkjovX"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1939,6 +1919,26 @@
       "duration_ms": 193103,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Superstars",
+        "url": "https://open.spotify.com/album/0d0hlFmmPN2ez86f5jgzBJ"
+      },
+      "artists": [
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        },
+        {
+          "name": "REEBZ",
+          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
+        }
+      ],
+      "duration_ms": 269461,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/0wR44usvM0qPk1TiLkjovX"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2167,6 +2167,30 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
+      },
+      "artists": [
+        {
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Dichotomy",
         "url": "https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V"
       },
@@ -2287,30 +2311,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
-      },
-      "artists": [
-        {
-          "name": "WE ARE FURY",
-          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
-        },
-        {
-          "name": "Brassie",
-          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
       },
@@ -2343,6 +2343,26 @@
       "duration_ms": 214758,
       "name": "Fade With Me",
       "url": "https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
+      },
+      "artists": [
+        {
+          "name": "LILO",
+          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
+        },
+        {
+          "name": "Yung Honi",
+          "url": "https://open.spotify.com/artist/3YAIpWMMHRspIoz6yVJOeq"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2447,26 +2467,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
-      },
-      "artists": [
-        {
-          "name": "LILO",
-          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
-        },
-        {
-          "name": "Yung Honi",
-          "url": "https://open.spotify.com/artist/3YAIpWMMHRspIoz6yVJOeq"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Time Isn't Real",
         "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
       },
@@ -2487,22 +2487,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Money Makes The World Go Round",
-        "url": "https://open.spotify.com/album/46EIJuzWWUL56issUXlSaw"
+        "name": "All To You (feat. Micah Martin)",
+        "url": "https://open.spotify.com/album/1GyqD7X9T1UxyiYGdhvqE8"
       },
       "artists": [
         {
-          "name": "JAXSON GAMBLE",
-          "url": "https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI"
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
         },
         {
-          "name": "New Politics",
-          "url": "https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU"
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Money Makes The World Go Round",
-      "url": "https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC"
+      "duration_ms": 189554,
+      "name": "All To You (feat. Micah Martin)",
+      "url": "https://open.spotify.com/track/4cQzvfSsPLcUxieNmesdzb"
     }
   ],
   "unique_name": "Rocktronic",

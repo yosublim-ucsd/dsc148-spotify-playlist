@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Shania Twain",
-  "num_followers": 449069,
+  "num_followers": 449113,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTllMWQ0YzQ4OTBlYWYzY2M4MTlmMTUyMDA2MWUzNWM2ZjJkNjll",
+  "snapshot_id": "MCxjNTM3MTI4ZTk2YWUyNTBkYzYxZjZmMzdlYTI5NGEzNGY5MDMwNzVh",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Penthouse",
-      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "One Thing At A Time (Sampler)",
         "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "29: Written In Stone",
-        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "What He Didn't Do",
-      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Teenage Dixie",
         "url": "https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 167266,
       "name": "Me On You",
       "url": "https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+        "name": "Dear Alcohol",
+        "url": "https://open.spotify.com/album/6TtLuu7MV4ptXoXBCIq6xL"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
         }
       ],
-      "duration_ms": 170906,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
+      "duration_ms": 236307,
+      "name": "Dear Alcohol",
+      "url": "https://open.spotify.com/track/3HgmGFYiO8967EFji8CSdM"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Dear Alcohol",
-        "url": "https://open.spotify.com/album/6TtLuu7MV4ptXoXBCIq6xL"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 236307,
-      "name": "Dear Alcohol",
-      "url": "https://open.spotify.com/track/3HgmGFYiO8967EFji8CSdM"
+      "duration_ms": 170906,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "5 Leaf Clover",
-        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 211053,
-      "name": "5 Leaf Clover",
-      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "She Likes It (feat. Jake Scott)",
         "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "5 Leaf Clover",
+        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Boys",
-        "url": "https://open.spotify.com/album/6H0eKPDymJDEshAdu9OW7C"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        },
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        }
-      ],
-      "duration_ms": 158320,
-      "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/3DpYNk8DsTwZ8rtTTTrKyf"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "No Bad Days (featuring Jimmie Allen)",
         "url": "https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 145499,
       "name": "No Bad Days (featuring Jimmie Allen)",
       "url": "https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/6H0eKPDymJDEshAdu9OW7C"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        },
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "duration_ms": 158320,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/3DpYNk8DsTwZ8rtTTTrKyf"
     },
     {
       "added_at": "2023-08-18 04:01:00",

@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-302 songs - 20 hr 10 min
+303 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2023-01-17 |  |
 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 | 2023-01-17 |  |
 | [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 | 2023-01-17 |  |
-| [Diary of a Rose](https://open.spotify.com/track/610xMaOMK9GylOrNXNY86R) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Dolphine](https://open.spotify.com/album/24kBQl1dUCiUu5PQgpKhJi) | 4:39 | 2023-01-17 |  |
+| [Diary of a Rose](https://open.spotify.com/track/610xMaOMK9GylOrNXNY86R) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Dolphine](https://open.spotify.com/album/24kBQl1dUCiUu5PQgpKhJi) | 4:39 | 2023-01-17 | 2023-08-20 |
 | [Dive](https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ) | 4:15 | 2023-01-17 |  |
 | [DIVER](https://open.spotify.com/track/0ZFl3lTd1hPcmC3ibzsNEr) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [I Want The Door To Open](https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl) | 3:01 | 2023-01-17 |  |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2023-01-17 |  |
@@ -287,6 +287,7 @@
 | [Unpeopled Space](https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 6:09 | 2023-01-17 |  |
 | [Used To Be Lonely](https://open.spotify.com/track/2ya75bvL17SgjKvytJrBAm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:48 | 2023-01-17 |  |
 | [Vagabond](https://open.spotify.com/track/4MxHAB3fHQ8oI2jRXSLQ9p) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:01 | 2023-01-17 |  |
+| [Valentine Shmalentine](https://open.spotify.com/track/1wpZZJYzdXGRdYZnffm4NQ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:58 | 2023-01-17 |  |
 | [Vincent](https://open.spotify.com/track/0hQkqM37pYkOuWDDoxk3Ce) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Vincent](https://open.spotify.com/album/4vjfq4dTATQzRcyKqPQotw) | 5:09 | 2023-01-17 |  |
 | [Wake Up With the Sun](https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:36 | 2023-01-17 |  |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2023-01-17 |  |

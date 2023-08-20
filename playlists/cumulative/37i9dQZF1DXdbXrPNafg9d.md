@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Sufjan Stevens
 
-5,719 songs - 13 day 22 hr 38 min
+5,720 songs - 13 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1268,7 +1268,7 @@
 | [Dirtbag Transformation \(Still Dirty\)](https://open.spotify.com/track/22jIDSIjnT1lmW2zrMZR3v) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Dirtbag Transformation \(Still Dirty\)](https://open.spotify.com/album/5EZhEQ1p48myR6KLhO2Rl4) | 3:05 | 2022-05-13 | 2022-06-22 |
 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 | 2022-06-10 | 2022-07-16 |
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-02-11 | 2022-03-26 |
-| [Dirty Magazine](https://open.spotify.com/track/0DqCOPqqHhNoIb6EBiRo6g) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM), [Joey Cavallo](https://open.spotify.com/artist/2rW7hFI9K4Q5Z1MK1hSyRx) | [Dirty Magazine](https://open.spotify.com/album/5P9VQk390o7gxUSBrZ1EUx) | 3:27 | 2023-08-18 |  |
+| [Dirty Magazine](https://open.spotify.com/track/0DqCOPqqHhNoIb6EBiRo6g) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [Dirty Magazine](https://open.spotify.com/album/5P9VQk390o7gxUSBrZ1EUx) | 3:27 | 2023-08-18 |  |
 | [Dirty Shoes](https://open.spotify.com/track/1w1vqj9peesTLCyiO3yX2U) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [Dirty Shoes](https://open.spotify.com/album/5qlIh1U73Zvdunvgch1ajx) | 2:50 | 2022-11-25 | 2022-12-17 |
 | [disappear](https://open.spotify.com/track/4DMkUjlB4wS3fxlrSFCBgL) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [disappear](https://open.spotify.com/album/0o3qljChTuYLJsjbdJj9cW) | 2:17 | 2023-06-09 | 2023-07-15 |
 | [Disappointment](https://open.spotify.com/track/3q08Ty0Y32SXBDumtlFT8v) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Disappointment](https://open.spotify.com/album/3vdEPdCmjkdxlprWNkgRsZ) | 3:48 | 2023-03-10 | 2023-04-22 |
@@ -5255,7 +5255,8 @@
 | [Utah](https://open.spotify.com/track/3HEBe9g9vNZ6AaAnRtsjvh) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I) | [Utah](https://open.spotify.com/album/3hWfrYNExzE25TccvjpHEC) | 2:49 | 2022-12-16 | 2023-01-21 |
 | [Utopian Fantasy](https://open.spotify.com/track/0NOYbQ52ecRMLPsZUe9sFw) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Utopian Fantasy](https://open.spotify.com/album/6GiPCfEZVy3jC3058XhZwE) | 4:45 | 2022-10-21 | 2022-12-03 |
 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 | 2022-02-04 | 2022-03-05 |
-| [Vacation](https://open.spotify.com/track/5VieQH9z7lj6UIGfTkkmiM) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Vacation](https://open.spotify.com/album/4nteDNfkJVsJuWQhOnnHFN) | 3:32 | 2023-08-04 |  |
+| [Vacation](https://open.spotify.com/track/5F1gAs2j6FLTITQ1FJni0O) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:32 | 2023-08-04 |  |
+| [Vacation](https://open.spotify.com/track/5VieQH9z7lj6UIGfTkkmiM) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Vacation](https://open.spotify.com/album/4nteDNfkJVsJuWQhOnnHFN) | 3:32 | 2023-08-04 | 2023-08-20 |
 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 | 2022-02-18 | 2022-04-16 |
 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 | 2021-09-18 | 2021-10-23 |
 | [Valley](https://open.spotify.com/track/6qxOcJ6gFpcwFPYTmXmuIj) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/0laieZ0AIqtsAFTaljjmLc) | 4:04 | 2020-10-16 | 2020-12-04 |

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/1f6GKy69ltGq9j7EfJJ1BL) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7EeBLXTesaRmxWoQ2sAMVo) | 0:00 | 2021-10-01 | 2022-07-26 |
-| [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2021-10-01 | 2023-08-08 |
+| [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2021-10-01 |  |
 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 | 2021-10-01 | 2022-07-28 |
 | [Aladdin's Story](https://open.spotify.com/track/7iJJBAXSeuu9ymCdiPPscE) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [The Contino Sessions](https://open.spotify.com/album/4qUKzyXuy3GSzQD5RTJLdq) | 4:44 | 2021-10-01 | 2022-07-29 |
 | [Aladdin's Story](https://open.spotify.com/track/0CatBYe6rcqDFfCV1lA6n2) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [The Contino Sessions](https://open.spotify.com/album/6CAxtEPd8QesIfCp76Wuqt) | 4:45 | 2021-10-01 | 2022-11-13 |
@@ -78,7 +78,7 @@
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2021-10-01 |  |
 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 | 2021-10-01 |  |
 | [Outdoor Miner](https://open.spotify.com/track/2WzZo5zzYL1sn8vjTUnXWV) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [For Love](https://open.spotify.com/album/1h0ppp7vyFT9hNrY5DMj2L) | 2:51 | 2021-10-01 | 2022-03-10 |
-| [Pearl](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 | 2021-10-01 |  |
+| [Pearl](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 | 2021-10-01 | 2023-08-20 |
 | [Pearl \- Edit](https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:50 | 2021-10-01 | 2022-07-29 |
 | [Pulling Our Weight](https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4) | 3:20 | 2021-10-01 |  |
 | [Pulling Our Weight](https://open.spotify.com/track/22tKhWXrNZ3XxlOIBXJlkm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/4vIEzWfChYUpciMNXdfHwZ) | 3:21 | 2021-10-01 | 2022-07-29 |

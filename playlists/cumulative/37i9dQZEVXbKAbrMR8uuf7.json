@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 139672,
       "name": "Bobo - Remix",
       "url": "https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep"
@@ -4922,7 +4922,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 180000,
       "name": "Dile a Ella",
       "url": "https://open.spotify.com/track/2QSsW4a37dX8BFYfnkhEZp"
@@ -5900,6 +5900,24 @@
       "duration_ms": 235431,
       "name": "EN LA ORILLA",
       "url": "https://open.spotify.com/track/3WdR6kP1JJm2kDLaL6nAyH"
+    },
+    {
+      "album": {
+        "name": "En las Bahamas",
+        "url": "https://open.spotify.com/album/4op0LEjj34M4ZJNTynE5hb"
+      },
+      "artists": [
+        {
+          "name": "Dariel J",
+          "url": "https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198591,
+      "name": "En las Bahamas",
+      "url": "https://open.spotify.com/track/2X1ufApPzGGWd5jkMrXRMG"
     },
     {
       "album": {
@@ -8422,7 +8440,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -12428,7 +12446,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 159272,
       "name": "Mucha Playa",
       "url": "https://open.spotify.com/track/71lg0Qf6i3Qme2OAsGAslT"
@@ -13708,7 +13726,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 242796,
       "name": "Paleta Pa To El Mundo",
       "url": "https://open.spotify.com/track/00WeA6cTYkmAbBuTmhCHYq"

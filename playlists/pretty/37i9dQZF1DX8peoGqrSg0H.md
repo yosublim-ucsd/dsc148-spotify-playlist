@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Gemini Norawit
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,089 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,301 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ชอบคุณนะ \- Unsend](https://open.spotify.com/track/0nKRTd3kTf0xyU9q608e8S) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [ชอบคุณนะ \(Unsend\)](https://open.spotify.com/album/7GewzqYmhU1NAX5W380oTn) | 2:48 |
 | 65 | [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 |
 
-Snapshot ID: `MCw5Zjk5N2E5ZDNkZDUwYTVkN2E2ZjU2MmIzZGQ4NzM5MzFhYzU1N2Qz`
+Snapshot ID: `MCw4NzE2Yzk5ZGRkYTA5Nzk1YzRhMGEzY2M4Yjc4ZjliYzU3NjU1MmQw`

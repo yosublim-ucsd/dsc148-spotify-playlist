@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 215864,
+  "num_followers": 216212,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDQ3Mjk0NGE3MWQ2YWQ2OGQzYjlhZmM5NzkxODViYjdiMjg5ZmFh",
+  "snapshot_id": "MCwwYWI1MTQzZmNiYTI1NmJmMmUwNTdiY2FmZGI3MzBjOTllYWZhMWFj",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -959,18 +959,22 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "Laconia",
-        "url": "https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w"
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
       "artists": [
         {
-          "name": "Sam Shure",
-          "url": "https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
         }
       ],
-      "duration_ms": 515059,
-      "name": "Louna",
-      "url": "https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA"
+      "duration_ms": 144500,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
     }
   ],
   "unique_name": "Tulum Party",

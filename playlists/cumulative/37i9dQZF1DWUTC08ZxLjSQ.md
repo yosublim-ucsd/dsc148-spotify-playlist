@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Seina\. Artwork: Isu Kim
 
-212 songs - 11 hr 48 min
+213 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Uncovered](https://open.spotify.com/track/59aIHEHhiwvnlGCmwumfgH) | [Abdu B](https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE) | [Uncovered](https://open.spotify.com/album/66ZJVQmOhlQAcF7yUDLtXg) | 2:32 | 2023-02-14 | 2023-08-02 |
 | [waht if\_6](https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [waht if\_6](https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf) | 1:31 | 2023-04-05 | 2023-08-02 |
 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 | 2023-04-26 |  |
-| [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-06 |  |
+| [Watch Me](https://open.spotify.com/track/2MrJjA7IsGMImbA6qwhCiW) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [Watch Me](https://open.spotify.com/album/0ENzBRcf1PtiP8sl1Nsnxy) | 2:35 | 2023-08-01 |  |
+| [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-06 | 2023-08-20 |
 | [way too much](https://open.spotify.com/track/4W64FXQzz1vEvs4xH3wOal) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6) | [way too much](https://open.spotify.com/album/1PkiCzZ4rpTLpcVRUqItrZ) | 1:58 | 2023-07-18 |  |
 | [Way Up](https://open.spotify.com/track/4VLws1htn1cLel6LpUe3D4) | [Laila Beshara](https://open.spotify.com/artist/1jLZGIAr5dV3MrPxe4EKJD), [AMR OMAR](https://open.spotify.com/artist/3FMgXCU1dPKbTexcI0yVND) | [Things You Don't Tell Yourself](https://open.spotify.com/album/6BtKroE9NthS2kTSsYv8dT) | 3:19 | 2023-06-20 |  |
 | [What I Mean](https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [What I Mean](https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY) | 2:49 | 2022-11-08 | 2023-04-05 |

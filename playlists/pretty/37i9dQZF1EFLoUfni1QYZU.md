@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636 likes - 84 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 641 likes - 84 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 15 | [One Last Time](https://open.spotify.com/track/3b5rN0v3y5T70UUX9zayTy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/73yPks0QhGEUpg7jcWHVso) | 3:13 |
 | 16 | [Night Like This](https://open.spotify.com/track/5uZbXwM8gGGHSD1Dqv8kCu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:00 |
 | 17 | [When I'm Over You](https://open.spotify.com/track/1JueotTuCnkcTA7tBA5hLR) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:26 |
-| 18 | [Tokyo Sunrise](https://open.spotify.com/track/1oOPzxeYO9Z8Y6QAwxnYDL) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:24 |
-| 19 | [Shaken](https://open.spotify.com/track/33Vpz0V1ytEaRQuIb1LqGv) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:45 |
+| 18 | [Shaken](https://open.spotify.com/track/33Vpz0V1ytEaRQuIb1LqGv) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:45 |
+| 19 | [Tokyo Sunrise](https://open.spotify.com/track/1oOPzxeYO9Z8Y6QAwxnYDL) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:24 |
 | 20 | [Waiting Outside The Lines](https://open.spotify.com/track/5AdFiDqYP1E0OwXyUt9UGI) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Hold On ‘Til The Night](https://open.spotify.com/album/5Vbc1cKq8E0TxSAL5rTD57) | 3:51 |
 | 21 | [Dreamer](https://open.spotify.com/track/53N2lUWiXmZHNlR8ydET2p) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:25 |
 | 22 | [N'oublie pas](https://open.spotify.com/track/7FIpYtyMksImC785MQ6rk0) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Désobéissance](https://open.spotify.com/album/5YDET5CVSy7YvV7I3s5wAI) | 3:39 |
@@ -63,14 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 53 | [Hey Nice To Know Ya](https://open.spotify.com/track/46oEi1KC1eNDyNdCbGdZ1d) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:24 |
 | 54 | [Special](https://open.spotify.com/track/5BmFkMlzo74gvl4h1dObB9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:21 |
 | 55 | [Fighting with Myself \- Live](https://open.spotify.com/track/6mbS6Fks9pPJNNIYqUyzew) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:36 |
-| 56 | [Savannah](https://open.spotify.com/track/7AXpgz9M22NapnpCUcxG7Y) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:14 |
-| 57 | [I'll Do It](https://open.spotify.com/track/3BhTustDGXOU8l9JcFhAoa) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [whore1234](https://open.spotify.com/album/3zMQGfWBTanmtjLcsf4vPX) | 3:33 |
+| 56 | [I'll Do It](https://open.spotify.com/track/3BhTustDGXOU8l9JcFhAoa) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [whore1234](https://open.spotify.com/album/3zMQGfWBTanmtjLcsf4vPX) | 3:33 |
+| 57 | [Savannah](https://open.spotify.com/track/7AXpgz9M22NapnpCUcxG7Y) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:14 |
 | 58 | [Magic](https://open.spotify.com/track/3LJaFfGJSxqanKkgEUXuPy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:05 |
 | 59 | [Broken Vow](https://open.spotify.com/track/6oif5BcrVJ2YP589p6SZ9K) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [The Best Of..\. So Far \(Deluxe\)](https://open.spotify.com/album/44hfSt45S1YSvgCca4qifK) | 4:26 |
 | 60 | [Medicine Man](https://open.spotify.com/track/3HI8a7Fw9eALgHzloLX7uQ) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:34 |
 | 61 | [Red](https://open.spotify.com/track/7mIiDiPYWsUXH6h8dSkVHb) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Deluxe Edition\)](https://open.spotify.com/album/2nlX67uuNKD2avQ17vItT9) | 3:06 |
-| 62 | [Blackout](https://open.spotify.com/track/3o7FxQBVhnjCfi8TY0Hbo7) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:30 |
-| 63 | [Cling to Me](https://open.spotify.com/track/2e4dV55FccXOQPg5Fbx8cc) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Cling to Me](https://open.spotify.com/album/0fJsVicsUavBWSiiLBDwNJ) | 4:03 |
+| 62 | [Cling to Me](https://open.spotify.com/track/2e4dV55FccXOQPg5Fbx8cc) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Cling to Me](https://open.spotify.com/album/0fJsVicsUavBWSiiLBDwNJ) | 4:03 |
+| 63 | [Blackout](https://open.spotify.com/track/3o7FxQBVhnjCfi8TY0Hbo7) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:30 |
 | 64 | [Lost in the World](https://open.spotify.com/track/3QZ9HHT5HAdz4Ly45pFPxC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:03 |
 | 65 | [Road to Ruin](https://open.spotify.com/track/2UmhCjVXLGpvsPspmJu5Jo) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:43 |
 | 66 | [I’m Still Hot \- Original](https://open.spotify.com/track/3SYfAEAIkw66szw7cFKyty) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [I'm Still Hot](https://open.spotify.com/album/7cibzBkdJPPFpwsaOdNpy3) | 3:06 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `MjgxOTUzMzAsMDAwMDAwMDA0NjA3YWExMmI5MDJjYjIxMjlmMTIyOTYzZmUzNjE3OQ==`
+Snapshot ID: `MjgyMDgyOTAsMDAwMDAwMDA0MTFiMzkyY2YwYzI3ODVmOGQ0NTcyMGM2MTBjZDYwYg==`

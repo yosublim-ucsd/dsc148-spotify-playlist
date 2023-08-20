@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 58069,
+  "num_followers": 58125,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTA5YThlMTFiNzU2YWJjZDA2MzlkYzM5N2EwODczNzI4MjNjYzgx",
+  "snapshot_id": "MCxlODgwZjFlM2M0OTU0ZDRhZGYyZDNkNmQ5NTk0MTI4NzY5NDJlY2E5",
   "tracks": [
     {
       "added_at": "2023-08-16 12:54:59",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-08-16 12:54:59",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Kathy's Waltz",
-      "url": "https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30"
-    },
-    {
-      "added_at": "2023-08-16 12:54:59",
-      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 204480,
       "name": "Come Rain Or Come Shine (Take 5)",
       "url": "https://open.spotify.com/track/13KYyenapQ2RMEGBJuRkUa"
+    },
+    {
+      "added_at": "2023-08-16 12:54:59",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Kathy's Waltz",
+      "url": "https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30"
     },
     {
       "added_at": "2023-08-16 12:54:59",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-16 12:54:59",
       "album": {
-        "name": "Jazz At Oberlin (OJC Remaster)",
-        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 390400,
-      "name": "Stardust - Live At Finney Chapel / 1953",
-      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
-    },
-    {
-      "added_at": "2023-08-16 12:54:59",
-      "album": {
         "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
         "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 338732,
       "name": "Monaco - Set 1 / Live From Cafe Bohemia/1956",
       "url": "https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi"
+    },
+    {
+      "added_at": "2023-08-16 12:54:59",
+      "album": {
+        "name": "Jazz At Oberlin (OJC Remaster)",
+        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "Stardust - Live At Finney Chapel / 1953",
+      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
     },
     {
       "added_at": "2023-08-16 12:54:59",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-08-16 12:54:59",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
       },
       "artists": [
         {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Show Me - Instrumental",
-      "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
+      "duration_ms": 598026,
+      "name": "Afternoon in Paris",
+      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
     },
     {
       "added_at": "2023-08-16 12:54:59",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-08-16 12:54:59",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
         }
       ],
-      "duration_ms": 598026,
-      "name": "Afternoon in Paris",
-      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
+      "duration_ms": 221693,
+      "name": "Show Me - Instrumental",
+      "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
     },
     {
       "added_at": "2023-08-16 12:54:59",

@@ -1,12 +1,12 @@
 {
   "description": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e2b\u0e19\u0e49\u0e32\u0e23\u0e49\u0e2d\u0e19 \u0e41\u0e15\u0e48\u0e17\u0e33\u0e44\u0e21\u0e21\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 95684,
+  "num_followers": 95759,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzdmNWUyODE2NjgyZWRkZmRiMGM2NzczMzUxYWNmNDljMGNiZmJj",
+  "snapshot_id": "MCwzNzUyOTc0ZmMwNzhmNTk2NTVhMjNlNDUyMmE0NDNjMGJmYWZmOGI3",
   "tracks": [
     {
       "added_at": "2023-06-09 09:59:32",
@@ -451,22 +451,22 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
+        "name": "It's Gonna Be OK",
+        "url": "https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL"
       },
       "artists": [
         {
-          "name": "Bow Maylada",
-          "url": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
         },
         {
-          "name": "Lipta",
-          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz"
         }
       ],
-      "duration_ms": 200000,
-      "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
+      "duration_ms": 217787,
+      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19 \u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19 (Just Being Friendly)",
+      "url": "https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -487,22 +487,22 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "It's Gonna Be OK",
-        "url": "https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL"
+        "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
       },
       "artists": [
         {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+          "name": "Bow Maylada",
+          "url": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
         },
         {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz"
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
         }
       ],
-      "duration_ms": 217787,
-      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19 \u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19 (Just Being Friendly)",
-      "url": "https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y"
+      "duration_ms": 200000,
+      "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
+        "name": "The Lift",
+        "url": "https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV"
+      },
+      "artists": [
+        {
+          "name": "Groove Riders",
+          "url": "https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
         "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 (IF YOU LOVE)",
         "url": "https://open.spotify.com/album/49h8RHuCZSrOZKqsE9q8JM"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 215485,
       "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 (IF YOU LOVE)",
       "url": "https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
-        "name": "The Lift",
-        "url": "https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV"
-      },
-      "artists": [
-        {
-          "name": "Groove Riders",
-          "url": "https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19",
-      "url": "https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
-        "url": "https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF"
-      },
-      "artists": [
-        {
-          "name": "PRETZELLE",
-          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
-        }
-      ],
-      "duration_ms": 246935,
-      "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
-      "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e42\u0e2d\u0e19\u0e34",
         "url": "https://open.spotify.com/album/30NpS3bdoQuLb6zhSuTC4H"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 184421,
       "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e42\u0e2d\u0e19\u0e34",
       "url": "https://open.spotify.com/track/3seGmbdxubyOV7rAnUYAWh"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
+        "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
+        "url": "https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF"
+      },
+      "artists": [
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "duration_ms": 246935,
+      "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
+      "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
+        "name": "I JUST WANNA PEN FAN YOU DAI BOR ? (\u0e2d\u0e49\u0e32\u0e22\u0e08\u0e31\u0e2a\u0e27\u0e2d\u0e19\u0e19\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e22\u0e39\u0e44\u0e14\u0e49\u0e1a\u0e48 ?)",
+        "url": "https://open.spotify.com/album/6G2oqaD3wdiXVAgubTcDzP"
+      },
+      "artists": [
+        {
+          "name": "Singto Numchok",
+          "url": "https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL"
+        }
+      ],
+      "duration_ms": 228068,
+      "name": "I JUST WANNA PEN FAN YOU DAI BOR ? (\u0e2d\u0e49\u0e32\u0e22\u0e08\u0e31\u0e2a\u0e27\u0e2d\u0e19\u0e19\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e22\u0e39\u0e44\u0e14\u0e49\u0e1a\u0e48 ?)",
+      "url": "https://open.spotify.com/track/7DLdnWK7OYDsRf7I15Ze0L"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
         "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
         "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "I JUST WANNA PEN FAN YOU DAI BOR ? (\u0e2d\u0e49\u0e32\u0e22\u0e08\u0e31\u0e2a\u0e27\u0e2d\u0e19\u0e19\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e22\u0e39\u0e44\u0e14\u0e49\u0e1a\u0e48 ?)",
-        "url": "https://open.spotify.com/album/6G2oqaD3wdiXVAgubTcDzP"
+        "name": "The White Room",
+        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
       },
       "artists": [
         {
-          "name": "Singto Numchok",
-          "url": "https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL"
+          "name": "Singular",
+          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
         }
       ],
-      "duration_ms": 228068,
-      "name": "I JUST WANNA PEN FAN YOU DAI BOR ? (\u0e2d\u0e49\u0e32\u0e22\u0e08\u0e31\u0e2a\u0e27\u0e2d\u0e19\u0e19\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e22\u0e39\u0e44\u0e14\u0e49\u0e1a\u0e48 ?)",
-      "url": "https://open.spotify.com/track/7DLdnWK7OYDsRf7I15Ze0L"
+      "duration_ms": 243346,
+      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
+      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "The White Room",
-        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
-      },
-      "artists": [
-        {
-          "name": "Singular",
-          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
-      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "\u0e41\u0e23\u0e01",
         "url": "https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX"
-      },
-      "artists": [
-        {
-          "name": "FLUKIE",
-          "url": "https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t"
-        }
-      ],
-      "duration_ms": 183300,
-      "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "\u0e1a\u0e31\u0e07\u0e40\u0e2d\u0e34\u0e0d\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/49Qf1EQQSsZ0QqDQCji7on"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 178000,
       "name": "\u0e1a\u0e31\u0e07\u0e40\u0e2d\u0e34\u0e0d\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/6bm7Zdq8xy3LGBNua0jqjL"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
+        "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX"
+      },
+      "artists": [
+        {
+          "name": "FLUKIE",
+          "url": "https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t"
+        }
+      ],
+      "duration_ms": 183300,
+      "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
+        "name": "\u0e41\u0e15\u0e48\u0e07\u0e04\u0e23\u0e31\u0e1a",
+        "url": "https://open.spotify.com/album/4ONMohUWPUXBwhld8J1sy4"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "\u0e41\u0e15\u0e48\u0e07\u0e04\u0e23\u0e31\u0e1a",
+      "url": "https://open.spotify.com/track/7dCCicrhsZZ38arGWGTkLb"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
         "name": "begins",
         "url": "https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR"
       },
@@ -1527,18 +1547,18 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
-        "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
+        "name": "TRINITY : THE 1ST MINI ALBUM \u201cTHE ELEMENTS\u201d",
+        "url": "https://open.spotify.com/album/2PFKJTwY7Zqh2uTl5ZkDKz"
       },
       "artists": [
         {
-          "name": "The 38 Years Ago",
-          "url": "https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8"
+          "name": "TRINITY",
+          "url": "https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM"
         }
       ],
-      "duration_ms": 210598,
-      "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
-      "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
+      "duration_ms": 244664,
+      "name": "Hidden Track",
+      "url": "https://open.spotify.com/track/1XfzWbu66N3Pl1Q8rOUmJH"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1563,38 +1583,18 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "TRINITY : THE 1ST MINI ALBUM \u201cTHE ELEMENTS\u201d",
-        "url": "https://open.spotify.com/album/2PFKJTwY7Zqh2uTl5ZkDKz"
+        "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
+        "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
       },
       "artists": [
         {
-          "name": "TRINITY",
-          "url": "https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM"
+          "name": "The 38 Years Ago",
+          "url": "https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8"
         }
       ],
-      "duration_ms": 244664,
-      "name": "Hidden Track",
-      "url": "https://open.spotify.com/track/1XfzWbu66N3Pl1Q8rOUmJH"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
-        "name": "\u0e41\u0e15\u0e48\u0e07\u0e04\u0e23\u0e31\u0e1a",
-        "url": "https://open.spotify.com/album/4ONMohUWPUXBwhld8J1sy4"
-      },
-      "artists": [
-        {
-          "name": "Lipta",
-          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
-        },
-        {
-          "name": "F.HERO",
-          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "\u0e41\u0e15\u0e48\u0e07\u0e04\u0e23\u0e31\u0e1a",
-      "url": "https://open.spotify.com/track/7dCCicrhsZZ38arGWGTkLb"
+      "duration_ms": 210598,
+      "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
+      "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
     },
     {
       "added_at": "2023-06-09 09:59:32",

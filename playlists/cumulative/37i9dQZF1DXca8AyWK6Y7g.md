@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Sabrina Carpenter
 
-1,763 songs - 3 day 17 hr 23 min
+1,764 songs - 3 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,7 +579,7 @@
 | [Gimme](https://open.spotify.com/track/6mFOjnwU4Naf5dphwwhbqx) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Gimme](https://open.spotify.com/album/5iIlBzTfYxXIMM7rhTSsSO) | 3:05 | 2022-11-25 | 2022-12-24 |
 | [Girl](https://open.spotify.com/track/69kAcS8DhobvRRPnqosUIC) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [Girl](https://open.spotify.com/album/0vtO2fobzGsMZ8F7XrR4vL) | 3:09 | 2019-12-08 | 2020-04-14 |
 | [Girl Like Me](https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Girl Like Me](https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv) | 2:29 | 2022-12-09 |  |
-| [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 |  |
+| [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 | 2023-08-20 |
 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 | 2022-05-13 | 2022-06-25 |
 | [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 | 2022-06-17 | 2022-10-28 |
 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 | 2023-06-02 |  |
@@ -1532,6 +1532,7 @@
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 | 2022-09-17 |
 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 | 2023-08-19 |
 | [talking to yourself](https://open.spotify.com/track/15v3hWfg1p3gfjMZ3wJ4WA) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [you only call when you want something](https://open.spotify.com/album/0BuooxaM5TypVtfhdyAA14) | 2:38 | 2021-10-09 | 2021-11-27 |
+| [Talkin’ About It \(Feat\. 24kGoldn\)](https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 2:50 | 2023-08-18 |  |
 | [Tall Boi](https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Tall Boi](https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl) | 2:30 | 2023-04-28 | 2023-07-01 |
 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 | 2020-08-20 | 2021-11-10 |
 | [Tangerine](https://open.spotify.com/track/0WRPGrwIiWYa2lCE6OVdtl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Tangerine](https://open.spotify.com/album/0h2FVsj0pDzutT9kvlqDY1) | 3:27 | 2020-10-17 | 2021-01-15 |

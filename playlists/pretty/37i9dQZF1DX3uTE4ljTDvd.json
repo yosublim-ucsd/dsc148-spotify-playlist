@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Vit\u00f3ria Souza",
-  "num_followers": 112720,
+  "num_followers": 112749,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTRhMTE5ZWU2ZGI4ODVlMDAyYzljNWIwZjNmOWQ3MGZlNDlhNzg3",
+  "snapshot_id": "MCw5MmZhYzk5MTM4MWNhZWYxNzQ5MzI3OWYzYmEzYTZjMzU0ZmMxYjM3",
   "tracks": [
     {
       "added_at": "2022-12-09 06:14:16",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
+        "name": "S\u00f3 Faz Ajudar",
+        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 267983,
+      "name": "S\u00f3 Faz Ajudar",
+      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
         "name": "Tua Presen\u00e7a Vale Mais (Ao Vivo)",
         "url": "https://open.spotify.com/album/4vUCJMvYEyDx8Osu1I6W49"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 461818,
       "name": "N\u00e3o Temo Ondas - Ao Vivo",
       "url": "https://open.spotify.com/track/6Q9QRqD40yE9jn0iRRg5qX"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "S\u00f3 Faz Ajudar",
-        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 267983,
-      "name": "S\u00f3 Faz Ajudar",
-      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -303,18 +303,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Eu Me Rendo",
-        "url": "https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H"
+        "name": "Ele Vem",
+        "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
       },
       "artists": [
         {
-          "name": "Man\u00fa Paiva",
-          "url": "https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER"
+          "name": "Samuel Miranda",
+          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
+        },
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 294661,
-      "name": "Eu Me Rendo",
-      "url": "https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I"
+      "duration_ms": 359352,
+      "name": "Ele Vem",
+      "url": "https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -355,22 +359,18 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Ele Vem",
-        "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
+        "name": "Eu Me Rendo",
+        "url": "https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H"
       },
       "artists": [
         {
-          "name": "Samuel Miranda",
-          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
-        },
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+          "name": "Man\u00fa Paiva",
+          "url": "https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER"
         }
       ],
-      "duration_ms": 359352,
-      "name": "Ele Vem",
-      "url": "https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2"
+      "duration_ms": 294661,
+      "name": "Eu Me Rendo",
+      "url": "https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Me Mostra Tua Face",
-        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
-      },
-      "artists": [
-        {
-          "name": "RL Worship",
-          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
-        }
-      ],
-      "duration_ms": 384724,
-      "name": "Me Mostra Tua Face",
-      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Andar Sobre As \u00c1guas",
         "url": "https://open.spotify.com/album/2hQPAbaRfmLotiqzdMGMuT"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 263260,
       "name": "Andar Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/40VTLWDGsKNLK9sHKIzZ7F"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Me Mostra Tua Face",
+        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
+      },
+      "artists": [
+        {
+          "name": "RL Worship",
+          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
+        }
+      ],
+      "duration_ms": 384724,
+      "name": "Me Mostra Tua Face",
+      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
-      },
-      "artists": [
-        {
-          "name": "Jayana Moreira",
-          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
-        }
-      ],
-      "duration_ms": 291253,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Minha can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 273514,
       "name": "Minha can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
+      },
+      "artists": [
+        {
+          "name": "Jayana Moreira",
+          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+        }
+      ],
+      "duration_ms": 291253,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
-      },
-      "artists": [
-        {
-          "name": "Tamara Pyller",
-          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
-        }
-      ],
-      "duration_ms": 251936,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Tu Me Fascinas (Ao Vivo)",
         "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 283235,
       "name": "Tu Me Fascinas - Ao Vivo",
       "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
+      },
+      "artists": [
+        {
+          "name": "Tamara Pyller",
+          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
+        }
+      ],
+      "duration_ms": 251936,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "N\u00e3o Serei o Mesmo",
-        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
-      },
-      "artists": [
-        {
-          "name": "Renata Reis",
-          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
-        }
-      ],
-      "duration_ms": 397096,
-      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
-      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "N\u00e3o Serei o Mesmo",
+        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
+      },
+      "artists": [
+        {
+          "name": "Renata Reis",
+          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
+        }
+      ],
+      "duration_ms": 397096,
+      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
+      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
     }
   ],
   "unique_name": "Revela\u00e7\u00e3o Gospel",

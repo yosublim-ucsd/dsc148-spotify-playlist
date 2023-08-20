@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Gato e’ Monte.
 
-451 songs - 1 day 3 hr 17 min
+452 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 | 2021-12-24 |  |
 | [Al tanto de tanto](https://open.spotify.com/track/7JafkMOPn8P7eDN2QxlC7E) | [Adriano Galante](https://open.spotify.com/artist/41Z5pGw3fHpaZicVCWNOxx), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [TODA UNA ALEGRÍA](https://open.spotify.com/album/7hs7pHyrd3a0Sr1CoOFP04) | 5:47 | 2023-05-12 | 2023-05-30 |
 | [Alamedas](https://open.spotify.com/track/67wQoV3kJhahodFdKTu1yu) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Material Particulado en Suspensión](https://open.spotify.com/album/4WQyQ0EHrHRTOpQHJtAdct) | 4:11 | 2023-05-19 | 2023-06-17 |
+| [Ale](https://open.spotify.com/track/1yDi6XDgOuhQxE5M2q7i9Z) | [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Ale](https://open.spotify.com/album/6L2j0NdKnephA0aVhZOa6j) | 6:42 | 2023-08-18 |  |
 | [Alexandra](https://open.spotify.com/track/5XvxiFYmS8HFB2tubbGnqM) | [Berenice](https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc), [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [Alexandra](https://open.spotify.com/album/5DGYnMnqvxJ7HKEHubFStA) | 3:45 | 2023-05-19 | 2023-05-30 |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA) | 4:39 | 2022-07-22 | 2022-10-14 |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2022-12-23 | 2023-05-20 |
@@ -114,7 +115,7 @@
 | [Dame Más \(En Acústico\)](https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo) | 3:39 | 2023-05-05 |  |
 | [Danza](https://open.spotify.com/track/3Bc3GtEleSnPNc3ZJBDBxG) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a) | [Danza](https://open.spotify.com/album/0vZZOv2c14DmaNRhSHk606) | 1:16 | 2023-07-28 | 2023-08-18 |
 | [Danza Olvidada](https://open.spotify.com/track/5xX0qlWXOQqOGH6VEcSBSA) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Danza Olvidada](https://open.spotify.com/album/2aFioZ5TRqGee2CvNn5SgD) | 3:31 | 2023-05-12 | 2023-06-03 |
-| [De balde](https://open.spotify.com/track/0ByOfMa6l6XcnlQAkAsACF) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [De balde](https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN) | 4:43 | 2022-11-11 |  |
+| [De balde](https://open.spotify.com/track/0ByOfMa6l6XcnlQAkAsACF) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [De balde](https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN) | 4:43 | 2022-11-11 | 2023-08-20 |
 | [De carne y hueso](https://open.spotify.com/track/4hf9GhpfyuLsksKOBkpdD2) | [Volver al Mar](https://open.spotify.com/artist/29VStMD9gyW6PxNqpZAd2M) | [De carne y hueso](https://open.spotify.com/album/2ZKeYMXqNOxgJhnevS4Kqu) | 3:15 | 2022-04-08 | 2022-04-23 |
 | [De No Haberte Conocido](https://open.spotify.com/track/3AQkfvH36YJnp3hdBfhj7C) | [Cheo](https://open.spotify.com/artist/1P6xk2vcFnmOZRKqujdpCj), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Dónde](https://open.spotify.com/album/5LSssy7XGPGIiWlK6y5UtY) | 3:16 | 2021-12-24 | 2022-04-23 |
 | [De todas las flores](https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De todas las flores](https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP) | 5:22 | 2022-10-10 | 2023-01-28 |

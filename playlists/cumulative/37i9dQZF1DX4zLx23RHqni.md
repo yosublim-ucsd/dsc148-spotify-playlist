@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie
 
-55 songs - 3 hr 43 min
+56 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Naan Kudikka Poren](https://open.spotify.com/track/7dz92P4LmPOl81fNcHjEUV) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [Naan Kudikka Poren](https://open.spotify.com/album/2CXDwEEnfbSuMEQXTejOkw) | 4:17 | 2022-07-05 |  |
 | [Neeye](https://open.spotify.com/track/4sbR5eyctZyWWrN6JAPOHR) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Neeye](https://open.spotify.com/album/35cyKG8a4BvAGsW617H9w3) | 5:07 | 2021-12-01 |  |
 | [Nenjinile Rebirth](https://open.spotify.com/track/0pM7PCxuclmb1qsjTqt6WX) | [Chris G.](https://open.spotify.com/artist/0UuXsNfPKHnsxqO6ReEUS3), [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Nenjinile Rebirth](https://open.spotify.com/album/5ofUC9Rbhk7rknQbDp4GIG) | 3:35 | 2021-12-01 |  |
-| [Nenjodu \(Live Jazz Version\)](https://open.spotify.com/track/0YMltlt35Z1Dx6wxdZV4Rj) | [Vishal\-Aditya,Vishal Ramakrishnan](https://open.spotify.com/artist/5PxoZ7gW7rGidm9Kpd4JXn) | [Two](https://open.spotify.com/album/4SdhkjnRGPHYrVl06pF5vl) | 3:04 | 2021-12-01 |  |
+| [Nenjodu \(Live Jazz Version\)](https://open.spotify.com/track/7iFRWJk0FqjzEqAL8hDGVL) | [Vishal \- Aditya](https://open.spotify.com/artist/18Gn0S8ERNbuv5GA8FB0xT), [Vishal Ramakrishnan](https://open.spotify.com/artist/1KSeWs9MdFRE8H5jDa3ojg) | [Two](https://open.spotify.com/album/1Oiggp6OzsfJfSaBtzrQxN) | 3:04 | 2021-12-01 |  |
+| [Nenjodu \(Live Jazz Version\)](https://open.spotify.com/track/0YMltlt35Z1Dx6wxdZV4Rj) | [Vishal\-Aditya,Vishal Ramakrishnan](https://open.spotify.com/artist/5PxoZ7gW7rGidm9Kpd4JXn) | [Two](https://open.spotify.com/album/4SdhkjnRGPHYrVl06pF5vl) | 3:04 | 2021-12-01 | 2023-08-20 |
 | [Nesamaguren](https://open.spotify.com/track/6P8dmbcOEz7XPFQjd1V6d5) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Nesamaguren](https://open.spotify.com/album/4nkEN2RptSMX4WAj45u1SK) | 4:23 | 2021-12-01 |  |
 | [Nila Mugam \(Original Soundtrack\)](https://open.spotify.com/track/0Ov9nKu1EY14LKeGpWAJBV) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Sebastin Rozario](https://open.spotify.com/artist/6zn3QoKgnSOZx7Q2QE2dVF), [Ahamed Shyam](https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn) | [Nila Mugam \(Original Soundtrack\)](https://open.spotify.com/album/38CANBgULMTQb6XwT4wUCL) | 3:53 | 2023-02-13 |  |
 | [Nin Kannil \- Ambient Version \(feat\. Nikhil Mathew\)](https://open.spotify.com/track/2ZJEID5SahUchMMHNVJpzS) | [Vishal \- Aditya](https://open.spotify.com/artist/18Gn0S8ERNbuv5GA8FB0xT), [Vishal Ramakrishnan](https://open.spotify.com/artist/1KSeWs9MdFRE8H5jDa3ojg) | [Two](https://open.spotify.com/album/1Oiggp6OzsfJfSaBtzrQxN) | 3:30 | 2021-12-01 |  |

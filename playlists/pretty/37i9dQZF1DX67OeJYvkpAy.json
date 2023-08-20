@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 87622,
+  "num_followers": 87627,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjM2NjZhMTQ4MzE3N2RmNzQ0ZmNhZGYzZTFlMjIyMjE3MDU1ODZi",
+  "snapshot_id": "MCxiZDc3MzU0NzY1NmQ3MDJmNzMxMDRhNmIwN2ZjNjQ2MzhhYmU3NmE3",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -227,22 +227,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Next Up - S4-E2",
-        "url": "https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE"
+        "name": "4am",
+        "url": "https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT"
       },
       "artists": [
         {
           "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
         }
       ],
-      "duration_ms": 120839,
-      "name": "Next Up - S4-E2, Pt. 1",
-      "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
+      "duration_ms": 193714,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -331,18 +327,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT"
+        "name": "Next Up - S4-E2",
+        "url": "https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE"
       },
       "artists": [
         {
           "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
         }
       ],
-      "duration_ms": 193714,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp"
+      "duration_ms": 120839,
+      "name": "Next Up - S4-E2, Pt. 1",
+      "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Why you gotta lie?",
-        "url": "https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE"
+        "name": "Love & Attention",
+        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
       },
       "artists": [
         {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
         }
       ],
-      "duration_ms": 156053,
-      "name": "Why you gotta lie?",
-      "url": "https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb"
+      "duration_ms": 157808,
+      "name": "Love & Attention",
+      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love & Attention",
-        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
+        "name": "Why you gotta lie?",
+        "url": "https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE"
       },
       "artists": [
         {
-          "name": "SamRecks",
-          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
         }
       ],
-      "duration_ms": 157808,
-      "name": "Love & Attention",
-      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
+      "duration_ms": 156053,
+      "name": "Why you gotta lie?",
+      "url": "https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
-      },
-      "artists": [
-        {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Rise Above Hate",
         "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 112043,
       "name": "SS Interlude",
       "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
+      },
+      "artists": [
+        {
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/5GLX9V0bREOnv5E2zFrnhH"
+      },
+      "artists": [
+        {
+          "name": "yknowdavibez",
+          "url": "https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 120000,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Broken Hearted Crook",
-        "url": "https://open.spotify.com/album/5GLX9V0bREOnv5E2zFrnhH"
-      },
-      "artists": [
-        {
-          "name": "yknowdavibez",
-          "url": "https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Broken Hearted Crook",
-      "url": "https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Home For Winter",
+        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
+      },
+      "artists": [
+        {
+          "name": "Teks Sinatra",
+          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 159753,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Home For Winter",
-        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
-      },
-      "artists": [
-        {
-          "name": "Teks Sinatra",
-          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Role Model",
-      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
     },
     {
       "added_at": "2023-08-01 17:14:44",

@@ -367,6 +367,32 @@
     },
     {
       "album": {
+        "name": "Christ is Lower Still",
+        "url": "https://open.spotify.com/album/6WDO8iw502euvnrfushQDL"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356666,
+      "name": "Christ is Lower Still",
+      "url": "https://open.spotify.com/track/3khXjhwcTYr2wcZX2umXUy"
+    },
+    {
+      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },

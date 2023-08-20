@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Parker McCollum is taking over to celebrate the release of his new album \"Never Enough\"! ",
-  "num_followers": 236063,
+  "num_followers": 236179,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmUzYWQzZmNjNWI4NmJjNmVlYzIzNGZjYWI4OGMxYWMyZjc2MGJk",
+  "snapshot_id": "MCw2ODgzNDY1MjIwYTgwZmJmODcyNWVlMGM3NGY5MjU3ZTUzMDljODUw",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+        "name": "'Til You Can\u2019t / Longer Than She Did",
+        "url": "https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 177083,
-      "name": "Settle Me Down",
-      "url": "https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9"
+      "duration_ms": 224773,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "'Til You Can\u2019t / Longer Than She Did",
-        "url": "https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Less Wise",
         "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 300680,
       "name": "Hippies and Cowboys",
       "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 177083,
+      "name": "Settle Me Down",
+      "url": "https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Cowboy Like Me",
+        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Dance Her Home",
+      "url": "https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Firewater",
         "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
       },
@@ -659,6 +675,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Lifers",
+        "url": "https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Must Be The Whiskey",
+      "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
       },
@@ -671,22 +703,6 @@
       "duration_ms": 177866,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Cowboy Like Me",
-        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Dance Her Home",
-      "url": "https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -719,22 +735,6 @@
       "duration_ms": 273035,
       "name": "Come Back Down",
       "url": "https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Lifers",
-        "url": "https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Must Be The Whiskey",
-      "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 233685,
-      "name": "February 28, 2016",
-      "url": "https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Diamonds & Gasoline",
         "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 234400,
       "name": "Diamonds & Gasoline",
       "url": "https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 233685,
+      "name": "February 28, 2016",
+      "url": "https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -935,22 +935,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 223062,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB"
+      "duration_ms": 289653,
+      "name": "7 & 7",
+      "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1019,8 +1015,28 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Diamonds & Gasoline",
-        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 223062,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Goodbye Normal Street",
+        "url": "https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP"
       },
       "artists": [
         {
@@ -1028,31 +1044,15 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 289653,
-      "name": "7 & 7",
-      "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
+      "duration_ms": 301000,
+      "name": "Good Lord Lorrie",
+      "url": "https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8"
     },
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 274716,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Just A Matter Of Time",
-        "url": "https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT"
+        "name": "Randy Rogers Band",
+        "url": "https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
         }
       ],
-      "duration_ms": 228893,
-      "name": "Kiss Me In The Dark",
-      "url": "https://open.spotify.com/track/3bZKIfJVpW8HktEafRnRP2"
+      "duration_ms": 318666,
+      "name": "In My Arms Instead",
+      "url": "https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1163,24 +1163,24 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Goodbye Normal Street",
-        "url": "https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP"
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 301000,
-      "name": "Good Lord Lorrie",
-      "url": "https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8"
+      "duration_ms": 274716,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b"
     },
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Randy Rogers Band",
-        "url": "https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup"
+        "name": "Just A Matter Of Time",
+        "url": "https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
         }
       ],
-      "duration_ms": 318666,
-      "name": "In My Arms Instead",
-      "url": "https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO"
+      "duration_ms": 228893,
+      "name": "Kiss Me In The Dark",
+      "url": "https://open.spotify.com/track/3bZKIfJVpW8HktEafRnRP2"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Every Single Kiss",
-        "url": "https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Every Single Kiss",
-      "url": "https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Ain't My Day",
         "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 303000,
       "name": "The Road Goes On Forever",
       "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Every Single Kiss",
+        "url": "https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Every Single Kiss",
+      "url": "https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj"
     },
     {
       "added_at": "2023-06-09 04:01:00",

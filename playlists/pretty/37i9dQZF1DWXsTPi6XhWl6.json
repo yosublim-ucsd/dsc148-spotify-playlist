@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33862,
+  "num_followers": 33863,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGI1ZmVhOTJhMTY0Y2Q3NTgzMjZhYjZjZThmZGIyMDQ5OTM5YjQx",
+  "snapshot_id": "MCxmYjkzODExOWYwYzFiY2Q1Y2JjYTc5YmI5NDA1N2ZjNzg3ODVlYWNh",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Mermaid Avenue",
         "url": "https://open.spotify.com/album/22rLwPW3QCaLB8UgWDY9bM"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 298533,
       "name": "California Stars",
       "url": "https://open.spotify.com/track/5B2mJIk8yso3ugyvfHR62A"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 173280,
-      "name": "House Of My Soul (You Light The Rooms)",
-      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+      "duration_ms": 223626,
+      "name": "Johnson Song",
+      "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Orange Blood",
-        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
         }
       ],
-      "duration_ms": 223626,
-      "name": "Johnson Song",
-      "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
+      "duration_ms": 173280,
+      "name": "House Of My Soul (You Light The Rooms)",
+      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -363,26 +363,6 @@
       "duration_ms": 307213,
       "name": "Ragged Wood",
       "url": "https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "The Way We Move",
-        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "The Way We Move",
-      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -451,6 +431,26 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "The Way We Move",
+        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "The Way We Move",
+      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "A Deeper Understanding",
         "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
       },
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "It Still Moves",
+        "url": "https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Sing Into My Mouth",
         "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "It Still Moves",
-        "url": "https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "From the Hills Below the City",
-        "url": "https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 146093,
-      "name": "On the Road",
-      "url": "https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Gimme Fiction (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 235560,
       "name": "I Summon You",
       "url": "https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "From the Hills Below the City",
+        "url": "https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "On the Road",
+      "url": "https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Can't Wake Up",
-        "url": "https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 270135,
-      "name": "Mansion Door",
-      "url": "https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Can't Wake Up",
+        "url": "https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 270135,
+      "name": "Mansion Door",
+      "url": "https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb"
     },
     {
       "added_at": "2022-06-17 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 434090,
+  "num_followers": 434184,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmFmYTExMGE2YzViY2YzM2M0MjM1Yjc0OGI4Y2EyN2UzZjY1ZThh",
+  "snapshot_id": "MCxjMWY2MDA5NDM3MjlmYmFhMmEwZmExZjlhMWY5NGVhMTU3NDJhOWI2",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Tu Alma M\u00eda / Adelita",
-      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Frecuencia Rebelde",
         "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 196093,
       "name": "Total",
       "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Tu Alma M\u00eda / Adelita",
+      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Rudi Records",
-        "url": "https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx"
-      },
-      "artists": [
-        {
-          "name": "Juantxo Skalari & La Rude Band",
-          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Rudi Not Dead",
-      "url": "https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Rudi Records",
+        "url": "https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx"
+      },
+      "artists": [
+        {
+          "name": "Juantxo Skalari & La Rude Band",
+          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Rudi Not Dead",
+      "url": "https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Contigo Me Encontr\u00e9",
-        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
-      },
-      "artists": [
-        {
-          "name": "Negros Vivos",
-          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Contigo Me Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Flamingo",
         "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 162930,
       "name": "Ska en la Playa",
       "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Contigo Me Encontr\u00e9",
+        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
+      },
+      "artists": [
+        {
+          "name": "Negros Vivos",
+          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Contigo Me Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Fuera de Ritmo",
-        "url": "https://open.spotify.com/album/0KtQlIksmdmm5FvxwpH5Av"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Dread",
-          "url": "https://open.spotify.com/artist/4upmyJmsVYEetRhB4ko8iV"
-        },
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 264354,
-      "name": "Fuera de Ritmo",
-      "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1515,18 +1495,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Kasualidad",
-        "url": "https://open.spotify.com/album/0FtTPER1MfrtYM8b94J7tT"
+        "name": "Fuera de Ritmo",
+        "url": "https://open.spotify.com/album/0KtQlIksmdmm5FvxwpH5Av"
       },
       "artists": [
         {
-          "name": "Ska Prensao",
-          "url": "https://open.spotify.com/artist/0zpJ9TatAuySVMfhTLV8Az"
+          "name": "Fuerza Dread",
+          "url": "https://open.spotify.com/artist/4upmyJmsVYEetRhB4ko8iV"
+        },
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 303812,
-      "name": "Kasualidad",
-      "url": "https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3"
+      "duration_ms": 264354,
+      "name": "Fuera de Ritmo",
+      "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Kasualidad",
+        "url": "https://open.spotify.com/album/0FtTPER1MfrtYM8b94J7tT"
+      },
+      "artists": [
+        {
+          "name": "Ska Prensao",
+          "url": "https://open.spotify.com/artist/0zpJ9TatAuySVMfhTLV8Az"
+        }
+      ],
+      "duration_ms": 303812,
+      "name": "Kasualidad",
+      "url": "https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Mugre",
         "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 222373,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "B-Side of Madness",
-        "url": "https://open.spotify.com/album/0kBU6p9eQCF4XHys30QKkg"
-      },
-      "artists": [
-        {
-          "name": "Marzela",
-          "url": "https://open.spotify.com/artist/7AdSQ6r60NhGQvFc70g76T"
-        }
-      ],
-      "duration_ms": 198618,
-      "name": "Rude Boys Unity",
-      "url": "https://open.spotify.com/track/6rVld2p50b7Wk2DldUOZBh"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1623,6 +1607,22 @@
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "B-Side of Madness",
+        "url": "https://open.spotify.com/album/0kBU6p9eQCF4XHys30QKkg"
+      },
+      "artists": [
+        {
+          "name": "Marzela",
+          "url": "https://open.spotify.com/artist/7AdSQ6r60NhGQvFc70g76T"
+        }
+      ],
+      "duration_ms": 198618,
+      "name": "Rude Boys Unity",
+      "url": "https://open.spotify.com/track/6rVld2p50b7Wk2DldUOZBh"
     },
     {
       "added_at": "2023-07-28 06:00:00",

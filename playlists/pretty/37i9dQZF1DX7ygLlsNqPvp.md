@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tLG\-F3cnSCubrrFrRWIHhw"> Jay Bahd</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,700 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,722 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Ride \(feat\. Terrist Carter & O'Kenneth\)](https://open.spotify.com/track/4EPXk7ufo9aCCPHNnEN0lZ) | [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Terrist Carter](https://open.spotify.com/artist/0kSLW8DI5S6rqiJJD5f1zF), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Ride \(feat\. Terrist Carter & O'Kenneth\)](https://open.spotify.com/album/6VX52TW9PBvJAroJE1vHHt) | 2:48 |
 | 50 | [Kɔɔ](https://open.spotify.com/track/5XCBMETHAG2klPDEcUP4Jy) | [Uncle Rich](https://open.spotify.com/artist/7B1cOpsjjQEadmCo3psX4l), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/5ZpVtG24m3h6pPcwPJQAqN) | [Kɔɔ](https://open.spotify.com/album/1x6Cii1tbEpe35hHklUJTD) | 3:46 |
 
-Snapshot ID: `MCxjNmIzOTdiZDY2ODQ5YTllMjU2NTIwYjFhMTkwYWNlZjNkOGIxY2Iz`
+Snapshot ID: `MCwzMDQzOWY1MGY0OTIyNWIwMzNjMGM1NzI2ZDM2MDIxYTJkMDE1NmM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,660 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,855 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 68 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 |
 | 69 | [Oh Baby \(feat\. bshp & Issey Cross\)](https://open.spotify.com/track/2F0dCzhF9W1tcXwXu99m28) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Oh Baby \(feat\. bshp & Issey Cross\)](https://open.spotify.com/album/7oXgMepNUWPk1dN6MpDn2C) | 2:28 |
 | 70 | [Like That](https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7) | [Seamus D](https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw) | [Like That](https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm) | 3:00 |
-| 71 | [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 |
+| 71 | [More Love \(feat\. Secondcity\)](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love \(feat\. Secondcity\)](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 |
 | 72 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 |
 | 73 | [All Night Long](https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [All Night Long](https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v) | 3:54 |
 | 74 | [Twust](https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij) | [HStikkytokky](https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb), [General G](https://open.spotify.com/artist/4mZZNSta0MoJhUVaYSYPHO) | [Twust](https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 99 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 |
 | 100 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 |
 
-Snapshot ID: `MCxkNGU2YTdjNDJiYjlkOGFiOWIyNWUyNTdlZGRlMGQ2NjhmMTA1YjUy`
+Snapshot ID: `MCw3Y2I4ZDZiZGM0Y2Y3NmE0MzkzNjcwYWFiMmE5NzA5MjQxNWViNjk5`

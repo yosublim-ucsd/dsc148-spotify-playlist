@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-140 songs - 10 hr 14 min
+141 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Lighthouse](https://open.spotify.com/track/6tQvy7dRyfRhqTf3M2xGqc) | [Raw Main](https://open.spotify.com/artist/65E9rTNIH8GfUwyLyiLQfg) | [Sacré Coeur](https://open.spotify.com/album/745eonJCDAf4cP87X8zXf8) | 7:18 | 2022-04-24 | 2022-07-29 |
 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-08-16 |  |
 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 | 2022-05-06 | 2023-03-15 |
-| [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 | 2022-04-24 |  |
+| [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 | 2022-04-24 | 2023-08-20 |
 | [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2022-03-29 |  |
 | [Luna](https://open.spotify.com/track/1tioHY3xfRwny9nFEjpKA9) | [Espinoza](https://open.spotify.com/artist/57DFN6UryjVpBcJrgmOg6n), [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Luna](https://open.spotify.com/album/4QQPki89hRKCSI1S36biu1) | 6:04 | 2022-04-24 | 2022-07-29 |
 | [Lunar Spirits](https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB) | [Canø](https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL) | [Lunar Spirits](https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0) | 6:39 | 2023-03-14 | 2023-07-22 |
@@ -143,6 +143,7 @@
 | [Who Loves The Sun](https://open.spotify.com/track/2u2aognU8U2C3bPJO5pVmz) | [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [We Love The Sun](https://open.spotify.com/album/68dHtIw94SJ33SIBiT1rcK) | 9:22 | 2022-04-24 | 2023-03-15 |
 | [Who Loves The Sun feat\. Jo.Ke \- Edit](https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [We Love The Sun \(Edit\)](https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt) | 4:16 | 2022-03-29 |  |
 | [Who You Are](https://open.spotify.com/track/6mkvEG10ftOIKrMZHVRMiY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Who You Are](https://open.spotify.com/album/6k28C6Pa6xkoueu3A5Kecz) | 3:25 | 2022-10-12 | 2023-07-29 |
+| [Winter](https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Winter](https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS) | 2:24 | 2022-10-12 |  |
 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-03-29 |  |
 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-25 | 2023-03-15 |
 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 | 2022-07-26 | 2023-01-11 |

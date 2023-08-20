@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 6128,
+  "num_followers": 6146,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmRmZmM2MmJiNzhiOTEyNjIxZmRhMjM1OTFhNDliMTAwMzJlZDk0",
+  "snapshot_id": "MCwzODg0NDM1NWFhNWI1NTBjOWY1MzcwMzIwNjI2ZTU5OTEwMDYwZDA1",
   "tracks": [
     {
       "added_at": "2023-08-18 13:43:50",
@@ -195,8 +195,8 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "I Want To Shout About It",
-        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
+        "name": "Lazy Poker Blues",
+        "url": "https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 252493,
-      "name": "I Want To Shout About It",
-      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
+      "duration_ms": 197186,
+      "name": "Lazy Poker Blues",
+      "url": "https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -279,8 +279,8 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "Lazy Poker Blues",
-        "url": "https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh"
+        "name": "I Want To Shout About It",
+        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
       },
       "artists": [
         {
@@ -288,25 +288,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 197186,
-      "name": "Lazy Poker Blues",
-      "url": "https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
-        "name": "Nothing But The Blues (Live and Stripped)",
-        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 182613,
-      "name": "Nothing But The Blues - Live and Stripped",
-      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
+      "duration_ms": 252493,
+      "name": "I Want To Shout About It",
+      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -323,6 +307,22 @@
       "duration_ms": 247319,
       "name": "Well Well Well",
       "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
+        "name": "Nothing But The Blues (Live and Stripped)",
+        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 182613,
+      "name": "Nothing But The Blues - Live and Stripped",
+      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "Hey God",
-        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "Hey God",
-      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
         "name": "Wild Flying Dove",
         "url": "https://open.spotify.com/album/7CbEruTsoJilsvpQjqoqCI"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 276283,
       "name": "Ugly Brain - Single Version",
       "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
+        "name": "Hey God",
+        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "Hey God",
+      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
+        "name": "Ain't Nobody (Pain)",
+        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Deal With the Devil (You'll Get Yours)",
+      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 135609,
       "name": "Al Infierno que Vayas",
       "url": "https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
-        "name": "Ain't Nobody (Pain)",
-        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Deal With the Devil (You'll Get Yours)",
-      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
+        "name": "Chrysomallousa",
+        "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
+      },
+      "artists": [
+        {
+          "name": "Demetris Mesimeris",
+          "url": "https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A"
+        }
+      ],
+      "duration_ms": 219954,
+      "name": "Chrysomallousa",
+      "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
         "name": "Gotta Bleed (Remix)",
         "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "Chrysomallousa",
-        "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
+        "name": "IDKWYCTD (I Came To Play)",
+        "url": "https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw"
       },
       "artists": [
         {
-          "name": "Demetris Mesimeris",
-          "url": "https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A"
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
         }
       ],
-      "duration_ms": 219954,
-      "name": "Chrysomallousa",
-      "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
+      "duration_ms": 180739,
+      "name": "IDKWYCTD (I Came To Play)",
+      "url": "https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -715,6 +731,22 @@
       "duration_ms": 248555,
       "name": "Can Opener",
       "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
+        "name": "Still Truckin",
+        "url": "https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms"
+      },
+      "artists": [
+        {
+          "name": "Marc A Ridge",
+          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
+        }
+      ],
+      "duration_ms": 310056,
+      "name": "Still Truckin",
+      "url": "https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -759,22 +791,6 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "Still Truckin",
-        "url": "https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms"
-      },
-      "artists": [
-        {
-          "name": "Marc A Ridge",
-          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
-        }
-      ],
-      "duration_ms": 310056,
-      "name": "Still Truckin",
-      "url": "https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/0J0KUFFKsjbeuUKpQS0NSK"
       },
@@ -807,6 +823,22 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
+        "name": "Daylight I Will Find",
+        "url": "https://open.spotify.com/album/6Iv7Fz1oSlDV7DoWZKfhbV"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 277655,
+      "name": "Daylight I Will Find",
+      "url": "https://open.spotify.com/track/35GkdK0Z7dYhF9CO57z6dw"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
       },
@@ -835,22 +867,6 @@
       "duration_ms": 210000,
       "name": "Crime",
       "url": "https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
-        "name": "Daylight I Will Find",
-        "url": "https://open.spotify.com/album/6Iv7Fz1oSlDV7DoWZKfhbV"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 277655,
-      "name": "Daylight I Will Find",
-      "url": "https://open.spotify.com/track/35GkdK0Z7dYhF9CO57z6dw"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -919,6 +935,22 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
+        "name": "So Free",
+        "url": "https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L"
+      },
+      "artists": [
+        {
+          "name": "Dirty Streets",
+          "url": "https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "So Free",
+      "url": "https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
         "name": "Guitar Kingdom",
         "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
       },
@@ -947,22 +979,6 @@
       "duration_ms": 201233,
       "name": "Jam With Me",
       "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
-        "name": "So Free",
-        "url": "https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L"
-      },
-      "artists": [
-        {
-          "name": "Dirty Streets",
-          "url": "https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "So Free",
-      "url": "https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
-      },
-      "artists": [
-        {
-          "name": "Arthur Terembula",
-          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
-        }
-      ],
-      "duration_ms": 134001,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
         "name": "Wayward Son",
         "url": "https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd"
       },
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "For the Love of Blues",
-        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
       },
       "artists": [
         {
-          "name": "Pontillo And The Vintage Crew",
-          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
         }
       ],
-      "duration_ms": 353226,
-      "name": "Sing the Blues",
-      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
+      "duration_ms": 134001,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
     },
     {
       "added_at": "2023-08-18 13:43:50",

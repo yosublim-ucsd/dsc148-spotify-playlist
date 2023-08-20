@@ -1,12 +1,12 @@
 {
   "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002Cover: KIRINJI ",
-  "num_followers": 51207,
+  "num_followers": 51240,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWVkYjA4YjRkZDMxMDdlMjcyMzgwOWVlZmNkZWY2M2YyMTVlMGFi",
+  "snapshot_id": "MCwwYjhmNjY4YWIxOTQzZDlkOWU2NjI3MGQ4ZDdiN2IxMzM4NzFkNjU2",
   "tracks": [
     {
       "added_at": "2023-08-17 15:30:29",
@@ -615,22 +615,18 @@
     {
       "added_at": "2023-08-17 15:30:29",
       "album": {
-        "name": "that place is burning",
-        "url": "https://open.spotify.com/album/4f6Ex2xbmAJLAxkp8d39ea"
+        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
       },
       "artists": [
         {
-          "name": "KID FRESINO",
-          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
-        },
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 335187,
-      "name": "that place is burning",
-      "url": "https://open.spotify.com/track/79pgNxvDw79toohZTCOgOR"
+      "duration_ms": 228573,
+      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
     },
     {
       "added_at": "2023-08-17 15:30:29",
@@ -651,18 +647,22 @@
     {
       "added_at": "2023-08-17 15:30:29",
       "album": {
-        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
+        "name": "that place is burning",
+        "url": "https://open.spotify.com/album/4f6Ex2xbmAJLAxkp8d39ea"
       },
       "artists": [
         {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+        },
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 228573,
-      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
+      "duration_ms": 335187,
+      "name": "that place is burning",
+      "url": "https://open.spotify.com/track/79pgNxvDw79toohZTCOgOR"
     },
     {
       "added_at": "2023-08-17 15:30:29",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-08-17 15:30:29",
       "album": {
+        "name": "\u6843\u6e90\u90f7",
+        "url": "https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30e3\u30a4\u30c8\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+        }
+      ],
+      "duration_ms": 243055,
+      "name": "\u6843\u6e90\u90f7",
+      "url": "https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo"
+    },
+    {
+      "added_at": "2023-08-17 15:30:29",
+      "album": {
         "name": "New Neighbors",
         "url": "https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 235813,
       "name": "Lapse",
       "url": "https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E"
-    },
-    {
-      "added_at": "2023-08-17 15:30:29",
-      "album": {
-        "name": "NEW BORN GHOST",
-        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 141793,
-      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE"
     },
     {
       "added_at": "2023-08-17 15:30:29",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-08-17 15:30:29",
       "album": {
-        "name": "\u6843\u6e90\u90f7",
-        "url": "https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3"
+        "name": "NEW BORN GHOST",
+        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
       },
       "artists": [
         {
-          "name": "\u30b7\u30e3\u30a4\u30c8\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 243055,
-      "name": "\u6843\u6e90\u90f7",
-      "url": "https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo"
+      "duration_ms": 141793,
+      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE"
     },
     {
       "added_at": "2023-08-17 15:30:29",
@@ -1179,6 +1179,38 @@
     {
       "added_at": "2023-08-17 15:30:29",
       "album": {
+        "name": "\u590f\u306e\u5922\u306f",
+        "url": "https://open.spotify.com/album/5g5omcP2NhrxMsQcMzyQWS"
+      },
+      "artists": [
+        {
+          "name": "Teikokukissa",
+          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "\u590f\u306e\u5922\u306f",
+      "url": "https://open.spotify.com/track/7x6kyQTNiScCMXbEQlqF1u"
+    },
+    {
+      "added_at": "2023-08-17 15:30:29",
+      "album": {
+        "name": "\u706f\u706b",
+        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "duration_ms": 219861,
+      "name": "\u706f\u706b",
+      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
+    },
+    {
+      "added_at": "2023-08-17 15:30:29",
+      "album": {
         "name": "\u5411\u65e5\u8475",
         "url": "https://open.spotify.com/album/3LNPXZvYpHWNHVrzO3jxHr"
       },
@@ -1207,38 +1239,6 @@
       "duration_ms": 200754,
       "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
       "url": "https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O"
-    },
-    {
-      "added_at": "2023-08-17 15:30:29",
-      "album": {
-        "name": "\u706f\u706b",
-        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
-      },
-      "artists": [
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        }
-      ],
-      "duration_ms": 219861,
-      "name": "\u706f\u706b",
-      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
-    },
-    {
-      "added_at": "2023-08-17 15:30:29",
-      "album": {
-        "name": "\u590f\u306e\u5922\u306f",
-        "url": "https://open.spotify.com/album/5g5omcP2NhrxMsQcMzyQWS"
-      },
-      "artists": [
-        {
-          "name": "Teikokukissa",
-          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "\u590f\u306e\u5922\u306f",
-      "url": "https://open.spotify.com/track/7x6kyQTNiScCMXbEQlqF1u"
     },
     {
       "added_at": "2023-08-17 15:30:29",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-08-17 15:30:29",
       "album": {
-        "name": "e o",
-        "url": "https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ"
-      },
-      "artists": [
-        {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
-        }
-      ],
-      "duration_ms": 269471,
-      "name": "Tableaux \u30bf\u30d6\u30ed\u30fc\u30ba",
-      "url": "https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2"
-    },
-    {
-      "added_at": "2023-08-17 15:30:29",
-      "album": {
         "name": "Wrecked",
         "url": "https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 128710,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH"
+    },
+    {
+      "added_at": "2023-08-17 15:30:29",
+      "album": {
+        "name": "e o",
+        "url": "https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "duration_ms": 269471,
+      "name": "Tableaux \u30bf\u30d6\u30ed\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2"
     },
     {
       "added_at": "2023-08-17 15:30:29",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-08-17 15:30:29",
       "album": {
-        "name": "\u30c1\u30eb\u30c1\u30eb\u30af\u30e9\u30d6",
-        "url": "https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "\u30c1\u30eb\u30c1\u30eb\u30af\u30e9\u30d6",
-      "url": "https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt"
-    },
-    {
-      "added_at": "2023-08-17 15:30:29",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2023-08-17 15:30:29",
       "album": {
-        "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
-        "url": "https://open.spotify.com/album/55M8zj4SdtQwVUxDqn7d6h"
+        "name": "\u30c1\u30eb\u30c1\u30eb\u30af\u30e9\u30d6",
+        "url": "https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7"
       },
       "artists": [
         {
-          "name": "domico",
-          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
         }
       ],
-      "duration_ms": 205068,
-      "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
-      "url": "https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV"
+      "duration_ms": 229000,
+      "name": "\u30c1\u30eb\u30c1\u30eb\u30af\u30e9\u30d6",
+      "url": "https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt"
     },
     {
       "added_at": "2023-08-17 15:30:29",
@@ -1499,18 +1483,34 @@
     {
       "added_at": "2023-08-17 15:30:29",
       "album": {
-        "name": "\u5c11\u5e74\u30bb\u30be\u30f3",
-        "url": "https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2"
+        "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
+        "url": "https://open.spotify.com/album/55M8zj4SdtQwVUxDqn7d6h"
       },
       "artists": [
         {
-          "name": "the dresscodes",
-          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+          "name": "domico",
+          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
         }
       ],
-      "duration_ms": 223248,
-      "name": "\u5c11\u5e74\u30bb\u30be\u30f3",
-      "url": "https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY"
+      "duration_ms": 205068,
+      "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
+      "url": "https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV"
+    },
+    {
+      "added_at": "2023-08-17 15:30:29",
+      "album": {
+        "name": "\u6674\u308c\u308b\u306a",
+        "url": "https://open.spotify.com/album/3ghXwssaEDLOwvzMXYCHgS"
+      },
+      "artists": [
+        {
+          "name": "Sundae May Club",
+          "url": "https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM"
+        }
+      ],
+      "duration_ms": 188528,
+      "name": "\u6674\u308c\u308b\u306a",
+      "url": "https://open.spotify.com/track/2YTSYQPXLljftwle3Q6Jom"
     },
     {
       "added_at": "2023-08-17 15:30:29",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-08-17 15:30:29",
       "album": {
+        "name": "\u5c11\u5e74\u30bb\u30be\u30f3",
+        "url": "https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "duration_ms": 223248,
+      "name": "\u5c11\u5e74\u30bb\u30be\u30f3",
+      "url": "https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY"
+    },
+    {
+      "added_at": "2023-08-17 15:30:29",
+      "album": {
         "name": "\u98a8\u306e\u5411\u304d\u304c\u5909\u308f\u3063\u3066",
         "url": "https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 302956,
       "name": "\u98a8\u306e\u5411\u304d\u304c\u5909\u308f\u3063\u3066",
       "url": "https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt"
-    },
-    {
-      "added_at": "2023-08-17 15:30:29",
-      "album": {
-        "name": "\u6674\u308c\u308b\u306a",
-        "url": "https://open.spotify.com/album/3ghXwssaEDLOwvzMXYCHgS"
-      },
-      "artists": [
-        {
-          "name": "Sundae May Club",
-          "url": "https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM"
-        }
-      ],
-      "duration_ms": 188528,
-      "name": "\u6674\u308c\u308b\u306a",
-      "url": "https://open.spotify.com/track/2YTSYQPXLljftwle3Q6Jom"
     },
     {
       "added_at": "2023-08-17 15:30:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Malen\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,827 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,835 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 24 | [Otra Manera](https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:13 |
 | 25 | [No Me Afecta](https://open.spotify.com/track/5NdattxSDaevBwA4TXT3ZY) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [No Me Afecta](https://open.spotify.com/album/5MBx8BOImNR9MsFAgA3DSP) | 4:44 |
 | 26 | [Veo Luces](https://open.spotify.com/track/63wvx0oN5gandg86x2FSup) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [Veo Luces](https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf) | 3:26 |
-| 27 | [Universitario de Deportes](https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Camino al Infierno Esta Lleno de Buenas Intenciones](https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj) | 1:56 |
+| 27 | [Astronauta](https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Polos Vol\. II](https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV) | 3:52 |
 | 28 | [HDLE \(Alejandro Molinari Remix\)](https://open.spotify.com/track/59NWUn5gX7xGA9bGQtprKp) | [Salas](https://open.spotify.com/artist/2PpOvXfwAG1KZfNz3pZy9M), [Alejandro Molinari](https://open.spotify.com/artist/6MVmGh11Jf6bh8FfwiLblE) | [HDLE \(Alejandro Molinari Remix\)](https://open.spotify.com/album/7teMjxTabyVbXSW7GNBdlQ) | 4:55 |
-| 29 | [Astronauta](https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Polos Vol\. II](https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV) | 3:52 |
+| 29 | [Universitario de Deportes](https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Camino al Infierno Esta Lleno de Buenas Intenciones](https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj) | 1:56 |
 | 30 | [Entrá](https://open.spotify.com/track/7nCEobOjhCLue88XZzhpzF) | [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2), [YOUNG KALIF](https://open.spotify.com/artist/0qLJUMYyKwh1nLfzczCzPi), [MIRACALI](https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG) | [Entrá](https://open.spotify.com/album/4yjujCVjUjlFxIpu4OaYh1) | 3:11 |
 | 31 | [Solo x hoy](https://open.spotify.com/track/1nePDxpBtQDuPuWdO0pi5d) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Solo x hoy](https://open.spotify.com/album/0fR8o1bg9r7afA9YoUdfT3) | 3:37 |
-| 32 | [A Veces No Da](https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [A Veces No Da](https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5) | 3:14 |
-| 33 | [MESITA DE NOCHE](https://open.spotify.com/track/17HkrgZwApp0tCjZAzygAK) | [Joa & Jalys](https://open.spotify.com/artist/4Qypd98pOg4Lp2kCxXBic9) | [MESITA DE NOCHE](https://open.spotify.com/album/4xTnQESh0KXrmHPK6r9vIi) | 2:55 |
+| 32 | [MESITA DE NOCHE](https://open.spotify.com/track/17HkrgZwApp0tCjZAzygAK) | [Joa & Jalys](https://open.spotify.com/artist/4Qypd98pOg4Lp2kCxXBic9) | [MESITA DE NOCHE](https://open.spotify.com/album/4xTnQESh0KXrmHPK6r9vIi) | 2:55 |
+| 33 | [A Veces No Da](https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [A Veces No Da](https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5) | 3:14 |
 | 34 | [5 MENOS 1](https://open.spotify.com/track/7vXuhIc6HzLoR2ix3OGDkS) | [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn) | [5 MENOS 1](https://open.spotify.com/album/084qaHSkGU48GZYMAXjqrI) | 2:07 |
 | 35 | [Dilema](https://open.spotify.com/track/7x9zDbwDr9jHzh5RwBhViJ) | [Eli](https://open.spotify.com/artist/5cUSmEvX8UAhepFmStBXc7), [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Dilema](https://open.spotify.com/album/6wfLmxoovY4zVbuIEZBoFq) | 2:51 |
 | 36 | [Ser el Sol](https://open.spotify.com/track/3u5RCxWZDTZKM2kdTx9cMa) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Ser el Sol](https://open.spotify.com/album/5xMPoe2HAK1J1a1I9niDGw) | 4:30 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 39 | [Algún Día](https://open.spotify.com/track/3dFs0Q4fIVI8Xg4s7g3dRx) | [Sepia Brown](https://open.spotify.com/artist/1M8BeEJhZIq4m5G4vaXs0K) | [Algún Día](https://open.spotify.com/album/4Zw4jjmbIHKVix13PV6VhE) | 2:45 |
 | 40 | [44](https://open.spotify.com/track/5Zj3NEkdiVvUBEwn28CWhM) | [Jardín Mojado](https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx) | [44](https://open.spotify.com/album/2XgjGhHVzOdeaI5pLIqdMT) | 3:42 |
 | 41 | [Melancolía](https://open.spotify.com/track/4SJtVttPzL6gV3M5jAOi2l) | [Absurdo](https://open.spotify.com/artist/7aQrNt7sbaSKDNQNfxBnfa), [Meri Jou](https://open.spotify.com/artist/1tZm8pBcMny4hPnAqDE8kA) | [Melancolía](https://open.spotify.com/album/4CBs4lTvb8Hzzx3LHnD5BW) | 2:31 |
-| 42 | [Me Consumo](https://open.spotify.com/track/7nCC23YdqpqIoJrLQslGMt) | [Despertar Después Del Mediodía](https://open.spotify.com/artist/7A1hjscGBGMWOfVcmCG0sZ) | [Me Consumo](https://open.spotify.com/album/03cMrNhkVToX2jyvacFBQS) | 3:55 |
-| 43 | [terminamos en el peor de los casos](https://open.spotify.com/track/37xvZNGDMf58uZ2YWEGIgF) | [Deser](https://open.spotify.com/artist/5QREXPJFppI5PzfpVb8Rny) | [terminamos en el peor de los casos](https://open.spotify.com/album/2CH684PROXeIxC0iYdHdAE) | 2:18 |
+| 42 | [terminamos en el peor de los casos](https://open.spotify.com/track/37xvZNGDMf58uZ2YWEGIgF) | [Deser](https://open.spotify.com/artist/5QREXPJFppI5PzfpVb8Rny) | [terminamos en el peor de los casos](https://open.spotify.com/album/2CH684PROXeIxC0iYdHdAE) | 2:18 |
+| 43 | [Me Consumo](https://open.spotify.com/track/7nCC23YdqpqIoJrLQslGMt) | [Despertar Después Del Mediodía](https://open.spotify.com/artist/7A1hjscGBGMWOfVcmCG0sZ) | [Me Consumo](https://open.spotify.com/album/03cMrNhkVToX2jyvacFBQS) | 3:55 |
 | 44 | [Introvertida](https://open.spotify.com/track/3BvvWXLMsFfgfT6umRv56H) | [Tomás Lauría](https://open.spotify.com/artist/0neHEgLsKKdPl2izN9qVzY) | [Introvertida](https://open.spotify.com/album/2HrS9hl4wGwTwsVw5f3PYm) | 2:24 |
 | 45 | [TANTO PA' TI](https://open.spotify.com/track/22mzH72Vzv9W8G7yLIteUP) | [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [TANTO PA' TI](https://open.spotify.com/album/6o6TomNm8GemmUvEEKCt7b) | 2:16 |
 | 46 | [Vuela](https://open.spotify.com/track/7nYRji38aKuawtCuYA3UpY) | [Shonny](https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft), [El Hijo del Búho](https://open.spotify.com/artist/3BPsGSg0myf7H0FCEeYqeq) | [Vuela](https://open.spotify.com/album/3NdPugHTrcBfSYc4SOjTg0) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Otra Parte](https://open.spotify.com/track/2OechYSYKG2QAZxaQZCcgv) | [Jerry kong](https://open.spotify.com/artist/4gj1z63pDjIvCr0inO1I8y) | [Otra Parte](https://open.spotify.com/album/6gLi1MncZFdMentsf1Q19J) | 2:59 |
 | 50 | [Nuevo Mundo](https://open.spotify.com/track/4VTMfxqu3lZUxYxey8N3rX) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Nuevo Mundo](https://open.spotify.com/album/3BpGRweJxhKdJBWAG0usMC) | 3:23 |
 
-Snapshot ID: `MCw2MDhjZmMxNTA1ZTZmMTg1ODMzNmRjN2UwYTY5ODY1MzVmZTVjMjdi`
+Snapshot ID: `MCw5YTgxYmNlZTQ4ZDM2OTlkMDJiODhlMWJmZjYyOWI0MWRiOWY1ODc2`

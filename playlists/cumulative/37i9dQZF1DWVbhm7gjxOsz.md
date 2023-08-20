@@ -4,11 +4,12 @@
 
 > Crusin' is not a crime, it's a lifestyle!
 
-152 songs - 8 hr 49 min
+153 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Agree to Disagree](https://open.spotify.com/track/7K4VGWx0F3XY3QQZQ3FWi2) | [Miriah Avila](https://open.spotify.com/artist/5DkWvpsvEvNmUd5t0jggNt) | [You in Love Again?](https://open.spotify.com/album/1dAwMHdr3KoPDh2MeY1s0r) | 2:58 | 2023-05-01 |  |
+| [Agree to Disagree](https://open.spotify.com/track/3BMePsiHhkMmUnGFYxvBiZ) | [Miriah Avila](https://open.spotify.com/artist/5DkWvpsvEvNmUd5t0jggNt) | [You in Love Again?](https://open.spotify.com/album/0eOvMyTEeBzG14IJM3eWBj) | 2:58 | 2023-05-01 |  |
+| [Agree to Disagree](https://open.spotify.com/track/7K4VGWx0F3XY3QQZQ3FWi2) | [Miriah Avila](https://open.spotify.com/artist/5DkWvpsvEvNmUd5t0jggNt) | [You in Love Again?](https://open.spotify.com/album/1dAwMHdr3KoPDh2MeY1s0r) | 2:58 | 2023-05-01 | 2023-08-20 |
 | [Ain't No Woman \(Like The One I've Got\)](https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Keeper Of The Castle](https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9) | 3:07 | 2023-05-01 |  |
 | [Always and Forever](https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 6:17 | 2023-05-01 |  |
 | [Always and Forever \- Single Version](https://open.spotify.com/track/6wiL61UORY5exOzXFBxPlc) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 4:50 | 2023-05-01 |  |

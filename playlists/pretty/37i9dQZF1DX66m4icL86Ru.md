@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,340 likes - 82 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,892 likes - 82 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 81 | [HOT](https://open.spotify.com/track/38gSLIGyzkLKykkG4S72v5) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [HOT](https://open.spotify.com/album/3vKu3E7Vrg0fDrzik36yXz) | 2:33 |
 | 82 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
 
-Snapshot ID: `MCwzMTZiOTdhYjlmNTNkOTRjNWEyNzgzZWY4MTI0ZDFmZmVhMmZiYTQ4`
+Snapshot ID: `MCwyNTQwMGVhODg2YjJiMzUxMWJjZjM2ZTM1NjU4YTEwZGEzZTIzZDZk`

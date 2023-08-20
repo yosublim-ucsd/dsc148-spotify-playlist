@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Colecciones de Oro",
+        "url": "https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216711,
+      "name": "El Solitario",
+      "url": "https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD"
+    },
+    {
+      "album": {
         "name": "Rebotando",
         "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
       },
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 254586,
       "name": "Te Llevar\u00e9",
       "url": "https://open.spotify.com/track/3ZiR1SuQvgKBb2cRGCFpyB"

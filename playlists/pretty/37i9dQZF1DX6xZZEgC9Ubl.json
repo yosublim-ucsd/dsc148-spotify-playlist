@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Chri$tian Gate$",
-  "num_followers": 1502318,
+  "num_followers": 1502811,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWIzMzk0YWQwYmE5ODZiMjNiMmZjNDUwMTM2ZDU2Y2E3M2Y1MzZi",
+  "snapshot_id": "MCw5MWNlZGIwNDMwMDMwMzRiM2UyYjk4NGI3ZWU0ZjYzYTEwYzIzZDA3",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "WHERE DOES YOUR SPIRIT GO?",
-        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "WHERE DOES YOUR SPIRIT GO?",
-      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Never Be Alright",
         "url": "https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "under the weather",
-        "url": "https://open.spotify.com/album/5EMWV3wcySNCCLpSvNWUyx"
+        "name": "WHERE DOES YOUR SPIRIT GO?",
+        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
       },
       "artists": [
         {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 106666,
-      "name": "under the weather",
-      "url": "https://open.spotify.com/track/3PYFSGwWNZWnQpiuGke2J9"
+      "duration_ms": 201183,
+      "name": "WHERE DOES YOUR SPIRIT GO?",
+      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -655,6 +639,22 @@
       "duration_ms": 154756,
       "name": "Hate Me!",
       "url": "https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "under the weather",
+        "url": "https://open.spotify.com/album/5EMWV3wcySNCCLpSvNWUyx"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "under the weather",
+      "url": "https://open.spotify.com/track/3PYFSGwWNZWnQpiuGke2J9"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -715,30 +715,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "why am i crying",
-        "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
-      },
-      "artists": [
-        {
-          "name": "LRN Slime",
-          "url": "https://open.spotify.com/artist/5J66vFlveTqn4j79SueFCA"
-        },
-        {
-          "name": "CORBAL",
-          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 204659,
-      "name": "Letter to Jarad",
-      "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "you never meant it",
         "url": "https://open.spotify.com/album/6qT7iBnEv3I56ESve2jgfn"
       },
@@ -763,6 +739,30 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "why am i crying",
+        "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
+      },
+      "artists": [
+        {
+          "name": "LRN Slime",
+          "url": "https://open.spotify.com/artist/5J66vFlveTqn4j79SueFCA"
+        },
+        {
+          "name": "CORBAL",
+          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 204659,
+      "name": "Letter to Jarad",
+      "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "God Mom",
         "url": "https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB"
       },
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
+        "name": "How To Kill A Rockstar",
+        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
       },
       "artists": [
         {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
         }
       ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
+      "duration_ms": 197217,
+      "name": "Psycho!",
+      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "How To Kill A Rockstar",
-        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
       },
       "artists": [
         {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
         }
       ],
-      "duration_ms": 197217,
-      "name": "Psycho!",
-      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Sad & Alone",
         "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "First Draft",
-        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 127934,
-      "name": "Save Me, Please",
-      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Never With You Again",
         "url": "https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 136776,
       "name": "On & On",
       "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Too High To the Clouds",
+        "url": "https://open.spotify.com/album/5KAQILGo8VxtosukwEIoKs"
+      },
+      "artists": [
+        {
+          "name": "Chini",
+          "url": "https://open.spotify.com/artist/3ls1Lwf5mCUgGljvESjcke"
+        }
+      ],
+      "duration_ms": 167487,
+      "name": "Too High To the Clouds",
+      "url": "https://open.spotify.com/track/5ntEGsiJZY4SaBHbJPJEwj"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Flooding the Gates",
         "url": "https://open.spotify.com/album/3qb2iS8suNWXclQEoAQJUJ"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 145503,
       "name": "welcome to my world",
       "url": "https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Too High To the Clouds",
-        "url": "https://open.spotify.com/album/5KAQILGo8VxtosukwEIoKs"
-      },
-      "artists": [
-        {
-          "name": "Chini",
-          "url": "https://open.spotify.com/artist/3ls1Lwf5mCUgGljvESjcke"
-        }
-      ],
-      "duration_ms": 167487,
-      "name": "Too High To the Clouds",
-      "url": "https://open.spotify.com/track/5ntEGsiJZY4SaBHbJPJEwj"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1507,8 +1507,8 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "It Was Fun While It Lasted (Deluxe)",
-        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
+        "name": "PRIMADONA",
+        "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
       },
       "artists": [
         {
@@ -1516,9 +1516,9 @@
           "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 163755,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
+      "duration_ms": 114200,
+      "name": "PRIMADONA",
+      "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "WOULDN'T IT BE NICE",
-        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
+        "name": "age tape 7",
+        "url": "https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q"
       },
       "artists": [
         {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
         }
       ],
-      "duration_ms": 182546,
-      "name": "WOULDN'T IT BE NICE",
-      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
+      "duration_ms": 123333,
+      "name": "starstruck",
+      "url": "https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "age tape 7",
-        "url": "https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q"
+        "name": "WOULDN'T IT BE NICE",
+        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
       },
       "artists": [
         {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
         }
       ],
-      "duration_ms": 123333,
-      "name": "starstruck",
-      "url": "https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9"
+      "duration_ms": 182546,
+      "name": "WOULDN'T IT BE NICE",
+      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1655,8 +1655,8 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "PRIMADONA",
-        "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
+        "name": "It Was Fun While It Lasted (Deluxe)",
+        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
       },
       "artists": [
         {
@@ -1664,9 +1664,9 @@
           "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 114200,
-      "name": "PRIMADONA",
-      "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
+      "duration_ms": 163755,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "thishouseisnotahome",
-        "url": "https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2"
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2lubPCgx6xQH6n9x4qVzFk"
       },
       "artists": [
         {
-          "name": "surrenderdorothy",
-          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
         }
       ],
-      "duration_ms": 80561,
-      "name": "whilesupplieslast",
-      "url": "https://open.spotify.com/track/2qG5bIQzb1oDwXu4aa2W4Y"
+      "duration_ms": 191976,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yePx3vjQVM5gPmbYBEnSc"
     }
   ],
   "unique_name": "tear drop",

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Bilal Saeed & Sunanda Sharma
 
-770 songs - 1 day 17 hr 50 min
+771 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [Tareefan](https://open.spotify.com/track/38fyfLQMYfsrspaWvqE4Js) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Tareefan](https://open.spotify.com/album/3fhpaWdEVfpp2q5eOHwY0d) | 3:22 | 2022-12-15 |  |
 | [Tareyaan Di Jodi](https://open.spotify.com/track/2ZBeF74dtWlfXPRf0UhtPI) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Tareyaan Di Jodi](https://open.spotify.com/album/6njW2aP7Ug9AVVPIggx7tx) | 3:09 | 2023-05-30 |  |
 | [Tasali](https://open.spotify.com/track/4DFrhdXZU0zlW2ImuZ970f) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:33 | 2022-02-01 | 2022-02-12 |
+| [Tasbih](https://open.spotify.com/track/4hFoqtvjxZK65wCO7s7hvT) | [Rooh Khan](https://open.spotify.com/artist/25N4st00HpawRFG3hgGGr3) | [Tasbih](https://open.spotify.com/album/07CvcVXvJAmnfuSPwzJh1O) | 3:13 | 2023-08-19 |  |
 | [Tasveer](https://open.spotify.com/track/7hvs8Rzzk3cVJAPGluISmG) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Flamboyant](https://open.spotify.com/album/5PtvEw4eDX5WoC6ruQxuW3) | 3:53 | 2023-01-20 | 2023-02-04 |
 | [Tasveeran](https://open.spotify.com/track/5OnRbQTFD5Ww9OoDQhRlJ4) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Tasveeran](https://open.spotify.com/album/7F4K9EG9c9NPuWdnNf20Kj) | 2:47 | 2022-08-19 | 2022-09-23 |
 | [Tenu Dil Vich Rakhan](https://open.spotify.com/track/3hEWZfIqeDyUiMnDYJMI3d) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sakshi Holkar](https://open.spotify.com/artist/1NzWmNFNge2tR9foXVCz7R), [Amjad Nadeem Aamir](https://open.spotify.com/artist/47alRXX8AZZKee6glPMZXq) | [Tenu Dil Vich Rakhan](https://open.spotify.com/album/6pbfvzLmWR6GQ0RoUSm7Ae) | 3:37 | 2022-08-03 | 2022-12-16 |

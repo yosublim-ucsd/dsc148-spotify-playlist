@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Bing Bong",
+        "url": "https://open.spotify.com/album/0oi9yfTN7iiEc28lamOFe3"
+      },
+      "artists": [
+        {
+          "name": "Augie Haas",
+          "url": "https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116994,
+      "name": "Bing Bong",
+      "url": "https://open.spotify.com/track/6oZkr9amNdp5I8CK9RXFoP"
+    },
+    {
+      "album": {
         "name": "Online Mall Music",
         "url": "https://open.spotify.com/album/38Ke6rGw4tcEqOXXpzEDxt"
       },
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 153333,
       "name": "Pixels",
       "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"

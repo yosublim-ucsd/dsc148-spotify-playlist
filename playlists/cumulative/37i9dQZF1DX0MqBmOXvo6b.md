@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-552 songs - 23 hr 34 min
+554 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-06-07 |  |
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-20 |  |
 | [Forsaken Land](https://open.spotify.com/track/3pWlQdfMNp4NabYbPAQcje) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Forsaken Land](https://open.spotify.com/album/2GrqPpnPembHDXm1cWE4oY) | 3:02 | 2022-07-19 |  |
-| [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2022-06-07 | 2023-08-09 |
+| [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2022-06-07 |  |
 | [franconia](https://open.spotify.com/track/398uIq8oIiP5cdb6zR2bst) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [franconia](https://open.spotify.com/album/7wXqijcw1roLeqDgbqSMuK) | 2:11 | 2022-06-07 | 2022-09-24 |
 | [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2022-06-07 |  |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2022-06-07 |  |
@@ -200,6 +200,7 @@
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2022-06-07 |  |
 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 | 2022-06-07 |  |
 | [Infatuation](https://open.spotify.com/track/3EOylKjaenyKmwO4R9IDBz) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Infatuation](https://open.spotify.com/album/3JpxCOI4NZtKKIiGjJcPCC) | 2:35 | 2022-06-07 | 2022-09-24 |
+| [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-08-15 |  |
 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-06-20 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2022-06-07 |  |
 | [Intermedanos](https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Intermedanos](https://open.spotify.com/album/39KxecFN1USX9DDlAU8ITO) | 2:35 | 2022-06-07 | 2022-12-06 |
@@ -217,6 +218,7 @@
 | [La gatta frettolosa fece i gattini ciechi](https://open.spotify.com/track/2DbJvzfZ5tb6Iz12uZrywG) | [Domenico Cattaneo](https://open.spotify.com/artist/0WYfSlkG5eMqZXQ0ePTLg5) | [La gatta frettolosa fece i gattini ciechi](https://open.spotify.com/album/6vrXwzmTmZ7aH9rRjt5bd8) | 1:47 | 2022-06-07 | 2022-09-24 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-06-07 |  |
 | [Laiski](https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Laiski](https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek) | 1:55 | 2023-05-03 | 2023-07-25 |
+| [Landet](https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Landet](https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9) | 2:06 | 2023-08-15 |  |
 | [Lanuza](https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Lanuza](https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ) | 2:52 | 2022-06-07 | 2022-09-15 |
 | [Larae](https://open.spotify.com/track/0afdVLpxfG1ZogyBWK6t7I) | [Isobel Noble](https://open.spotify.com/artist/36XAjwbcbVkRdcd2uEuVTq) | [Larae](https://open.spotify.com/album/2wBwCs72RrhJ69U9dvScL3) | 2:29 | 2022-06-07 | 2022-09-24 |
 | [Lasciare Andare](https://open.spotify.com/track/7k6BmWDRLOip7YGUg48SVp) | [Gino Delafiori](https://open.spotify.com/artist/2mLwZnRXgqPqosokl8VjwF) | [Umbria](https://open.spotify.com/album/3lhm2pyVEJihYdBmxgjgDL) | 3:27 | 2022-06-07 | 2023-02-07 |
@@ -240,7 +242,7 @@
 | [Lira](https://open.spotify.com/track/6qXXV5IzR4C1qUkkZFeTJ6) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Elegía de la Juventud](https://open.spotify.com/album/1pcymuDxT29Yg9a9Uy1IMT) | 3:07 | 2022-09-14 | 2023-08-16 |
 | [Little Home](https://open.spotify.com/track/0Zi9n2e0CCh9PipP8FI4Hn) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Different Kinds of Silence](https://open.spotify.com/album/6uWIBPRBygQToejf8rWu0a) | 2:51 | 2023-02-06 |  |
 | [Little Home](https://open.spotify.com/track/3jJpGbcFO68CduWReWo1oV) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Little Home](https://open.spotify.com/album/61DvnLfaBfNvoIf0dDcDsM) | 2:51 | 2022-06-07 | 2023-02-23 |
-| [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 | 2022-06-07 |  |
+| [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 | 2022-06-07 | 2023-08-20 |
 | [Little While](https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Little While](https://open.spotify.com/album/11gmPF0r2oGtFQ6WP943jU) | 2:35 | 2022-06-07 |  |
 | [Loire](https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m) | [Coralie Millet](https://open.spotify.com/artist/3h7raNEnMaJcwnLeOr4TQV) | [Loire](https://open.spotify.com/album/1oH7qGWFBBYNekfY2blTNS) | 2:14 | 2022-06-07 | 2022-07-20 |
 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 | 2022-06-07 |  |
@@ -259,7 +261,7 @@
 | [Marche Lente](https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Marche Lente](https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN) | 2:11 | 2023-08-15 |  |
 | [Marginal Way](https://open.spotify.com/track/6CUBqFUFxIwiHAriS5DZbU) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Marginal Way](https://open.spotify.com/album/4rbI0VO0b720o9jaz4686h) | 2:58 | 2022-06-07 | 2022-09-15 |
 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 | 2022-06-07 | 2022-12-24 |
-| [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 | 2022-06-07 |  |
+| [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 | 2022-06-07 | 2023-08-20 |
 | [Matria](https://open.spotify.com/track/03wyufh9uNomZdlKIcQ0E4) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 2:32 | 2022-06-07 | 2022-09-15 |
 | [Meandering](https://open.spotify.com/track/4jpRyLpvGSUPVSx8oO8xWo) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Meandering](https://open.spotify.com/album/2Q4TRJ0g4yMoOUcCciKZr9) | 2:53 | 2022-06-07 |  |
 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2023-05-19 |  |
@@ -273,7 +275,7 @@
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2022-06-07 |  |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-06-07 | 2022-09-15 |
 | [Mon Soleil](https://open.spotify.com/track/66QPTjE4c7QhJf8moxu0UE) | [Soraya Blix](https://open.spotify.com/artist/745G3QJNAiGbS5g8h9MTWQ) | [Mon Soleil](https://open.spotify.com/album/6TjZEUu50N5pKYKNXGGHAe) | 2:23 | 2022-06-07 | 2022-11-11 |
-| [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2022-06-07 |  |
+| [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2022-06-07 | 2023-08-20 |
 | [Mondegreen](https://open.spotify.com/track/6BKGokQ3PKLFqBlCBjCy8J) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Mondegreen](https://open.spotify.com/album/1TWsYhkMKywsJN0fNA08Yt) | 2:24 | 2022-06-07 |  |
 | [Morning Skyline](https://open.spotify.com/track/0W9zDuwcQaRyxk7Z4peRmM) | [Dale Brenan](https://open.spotify.com/artist/3SZHAoiLC6bI4R1Ih2iD5W) | [Morning Skyline](https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs) | 2:29 | 2022-06-07 | 2022-07-20 |
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-06-07 | 2022-12-24 |

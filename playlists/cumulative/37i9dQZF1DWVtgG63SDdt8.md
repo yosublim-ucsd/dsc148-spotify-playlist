@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4?si=c7a288487c28483d">Tauren Wells</a>
 
-4,230 songs - 11 day 19 hr 26 min
+4,231 songs - 11 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1557,7 +1557,8 @@
 | [Holy Hallelujah \- Live](https://open.spotify.com/track/0rLMg3eCwLHCNKQcN0TZ3I) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Carrington Gaines](https://open.spotify.com/artist/06KVH7flbJYpynOJ0pcUwZ) | [Holy Hallelujah \(Live\)](https://open.spotify.com/album/7rfV4Idh5eq0yEam2mviM2) | 9:07 | 2023-05-05 | 2023-05-13 |
 | [HOLY ONLY \(feat\. Tony Fresh & Chaquanna Iman\)](https://open.spotify.com/track/63wxAGw6zp0Y2EcXQNUrJj) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Tony Fresh](https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I), [Chaquanna Iman](https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe) | [TENT REVIVAL](https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw) | 5:39 | 2022-08-19 | 2022-09-03 |
 | [holy spirit](https://open.spotify.com/track/46NHmcicLMvjEarjTJTi44) | [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [holy spirit](https://open.spotify.com/album/0zI0sLZUCZFQgj3bpOZ6SF) | 2:45 | 2022-06-10 | 2022-06-26 |
-| [Holy Spirit \- Live](https://open.spotify.com/track/1GiTQQi36ThygGBzjl0fg9) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Holy Spirit \(Live\)](https://open.spotify.com/album/4UfZeGdn1aTzeeaD3HMoAq) | 5:22 | 2023-08-11 |  |
+| [Holy Spirit \- Live](https://open.spotify.com/track/1GiTQQi36ThygGBzjl0fg9) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Holy Spirit \(Live\)](https://open.spotify.com/album/4UfZeGdn1aTzeeaD3HMoAq) | 5:22 | 2023-08-11 | 2023-08-20 |
+| [Holy Spirit \- Live](https://open.spotify.com/track/6hNaCgXrclSFQAEyqN2iyG) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Thank You \(Live\)](https://open.spotify.com/album/5X7EtUR7UCAdH97YIJCuiT) | 5:22 | 2023-08-18 |  |
 | [Holy Spirit Come](https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Holy Spirit Come](https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG) | 4:14 | 2022-08-19 | 2022-09-03 |
 | [Holy, Holy, Holy](https://open.spotify.com/track/3nzt8vYVGPZ63ZKVsjctcu) | [Emu Music](https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip) | [Holy, Holy, Holy](https://open.spotify.com/album/10AgcuUsiNxzLVcIrNot8e) | 3:46 | 2022-05-27 | 2022-06-04 |
 | [home](https://open.spotify.com/track/3f2nncGJy6DcBiNiPlogf2) | [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [home](https://open.spotify.com/album/7Mwc5AMvPLzGJQp0GgIdt9) | 3:13 | 2022-11-25 | 2023-01-06 |

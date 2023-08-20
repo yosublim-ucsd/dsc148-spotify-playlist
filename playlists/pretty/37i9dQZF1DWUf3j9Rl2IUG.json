@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut?si=BGHe2ejMSAi-KZsqtJjIHQ\"> Tekno </a>   ",
-  "num_followers": 67926,
+  "num_followers": 68029,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGY4YmYxMDQ0MjAyOWU3MTcxOWFhOWM4MjkwMThjNWQ5ZjY3ODQz",
+  "snapshot_id": "MCxjNDJkNTAyNGMwNWRjYTcwOGFiNjY3MDk5NjI3NTdkMTNmNjczYTlj",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Bayanni",
-        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 159425,
-      "name": "Ta Ta Ta",
-      "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 154512,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Bayanni",
+        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 159425,
+      "name": "Ta Ta Ta",
+      "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -259,22 +259,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+        "name": "YAWA",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 194040,
-      "name": "KANTE (feat. Fave)",
-      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
+      "duration_ms": 180000,
+      "name": "YAWA",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -295,18 +291,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "YAWA",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 180000,
-      "name": "YAWA",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+      "duration_ms": 194040,
+      "name": "KANTE (feat. Fave)",
+      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
       },
       "artists": [
         {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 198801,
+      "name": "OVER DEM",
+      "url": "https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 204631,
       "name": "Normally",
       "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 198801,
-      "name": "OVER DEM",
-      "url": "https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+      "duration_ms": 162603,
+      "name": "Soro",
+      "url": "https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Tequila Ever After",
-        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 162603,
-      "name": "Soro",
-      "url": "https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis"
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Trench to Triumph",
+        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Feel Different",
         "url": "https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 179454,
       "name": "Feel Different",
       "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Trench to Triumph",
-        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Ngozi",
-      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1327,8 +1327,8 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "RTID (Rich Till I Die)",
-        "url": "https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV"
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
       },
       "artists": [
         {
@@ -1336,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 172881,
-      "name": "RTID (Rich Till I Die)",
-      "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
+      "duration_ms": 160770,
+      "name": "My G",
+      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1375,30 +1375,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
-      },
-      "artists": [
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "WO WO (Remix)",
         "url": "https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi"
       },
@@ -1423,6 +1399,30 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "NSV",
         "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
       },
@@ -1443,8 +1443,8 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+        "name": "RTID (Rich Till I Die)",
+        "url": "https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV"
       },
       "artists": [
         {
@@ -1452,9 +1452,9 @@
           "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 160770,
-      "name": "My G",
-      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
+      "duration_ms": 172881,
+      "name": "RTID (Rich Till I Die)",
+      "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
     }
   ],
   "unique_name": "Gbedu",

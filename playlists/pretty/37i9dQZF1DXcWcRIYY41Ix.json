@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Gato e\u2019 Monte.",
-  "num_followers": 115479,
+  "num_followers": 115522,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjFhOWI3NTE3M2U5MGQ0MGY2OGQ5ZTQ2MWRkYzUxZGViYjAwMDQ1",
+  "snapshot_id": "MCwxYzVhNTE1NmZmMGI5NDMwY2RjNTI3OTgxYzQ3ZmM4OGIxMDU5YTZi",
   "tracks": [
     {
       "added_at": "2023-08-18 12:43:48",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Viento Sur",
-        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 273332,
-      "name": "Lejos de la ciudad",
-      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "Civilizado Como Los Animales",
         "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 301935,
       "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
       "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Viento Sur",
+        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 273332,
+      "name": "Lejos de la ciudad",
+      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -747,22 +747,18 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Camino Que Pasa",
-        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
+        "name": "Interludio para mi Julita",
+        "url": "https://open.spotify.com/album/3C6poAVbvKcs2CY8P2SzwH"
       },
       "artists": [
         {
-          "name": "Sandra Bernardo",
-          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
-        },
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
         }
       ],
-      "duration_ms": 180157,
-      "name": "Camino Que Pasa",
-      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+      "duration_ms": 89174,
+      "name": "Interludio para mi Julita",
+      "url": "https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -783,6 +779,26 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
+        "name": "Camino Que Pasa",
+        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Bernardo",
+          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
+        },
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Camino Que Pasa",
+      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
         "name": "TANDA",
         "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
@@ -795,38 +811,6 @@
       "duration_ms": 240904,
       "name": "Como Viene Se Va",
       "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "Interludio para mi Julita",
-        "url": "https://open.spotify.com/album/3C6poAVbvKcs2CY8P2SzwH"
-      },
-      "artists": [
-        {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
-        }
-      ],
-      "duration_ms": 89174,
-      "name": "Interludio para mi Julita",
-      "url": "https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -847,6 +831,22 @@
       "duration_ms": 211493,
       "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
+        "name": "tal vez, no s\u00e9",
+        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
+      },
+      "artists": [
+        {
+          "name": "Poli Sallustro",
+          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 224599,
+      "name": "tal vez, no s\u00e9",
+      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
         "name": "Pasajeros",
         "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
       },
@@ -1011,22 +1031,34 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "tal vez, no s\u00e9",
-        "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
+        "name": "La Malquerida",
+        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
       },
       "artists": [
         {
-          "name": "Poli Sallustro",
-          "url": "https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 224599,
-      "name": "tal vez, no s\u00e9",
-      "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
+      "duration_ms": 485717,
+      "name": "La Malquerida - En Vivo",
+      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "C\u00f3smosis",
+        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "C\u00f3smosis",
+      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1051,50 +1083,18 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "C\u00f3smosis",
-        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 246720,
-      "name": "C\u00f3smosis",
-      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "La Malquerida",
-        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 485717,
-      "name": "La Malquerida - En Vivo",
-      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+      "duration_ms": 236361,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
         }
       ],
-      "duration_ms": 236361,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0ZZW0cNuUB7zAh4sIPTzUR"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Despierta",
-      "url": "https://open.spotify.com/track/4fNuz1LcISE4tAFIJgJkTT"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "La Certeza del Dolor",
         "url": "https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 212203,
       "name": "Nadie me lo ense\u00f1\u00f3",
       "url": "https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0ZZW0cNuUB7zAh4sIPTzUR"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/4fNuz1LcISE4tAFIJgJkTT"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "La Sangre del Mundo",
         "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 134956,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 134956,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 290250,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "R\u00fabrica X",
-        "url": "https://open.spotify.com/album/1NOmwE4eto86tiCnzwoWEq"
-      },
-      "artists": [
-        {
-          "name": "Malva Vela",
-          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
-        }
-      ],
-      "duration_ms": 185036,
-      "name": "Chavela",
-      "url": "https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1507,6 +1491,22 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "R\u00fabrica X",
+        "url": "https://open.spotify.com/album/1NOmwE4eto86tiCnzwoWEq"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        }
+      ],
+      "duration_ms": 185036,
+      "name": "Chavela",
+      "url": "https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1575,6 +1575,22 @@
       "duration_ms": 271200,
       "name": "Alma Sola",
       "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Ale",
+        "url": "https://open.spotify.com/album/6L2j0NdKnephA0aVhZOa6j"
+      },
+      "artists": [
+        {
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+        }
+      ],
+      "duration_ms": 402936,
+      "name": "Ale",
+      "url": "https://open.spotify.com/track/1yDi6XDgOuhQxE5M2q7i9Z"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1727,26 +1743,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Visiones Doradas",
-        "url": "https://open.spotify.com/album/5RcL7gPipFECCe8MAAZRUS"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        },
-        {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        }
-      ],
-      "duration_ms": 166048,
-      "name": "Visiones Doradas",
-      "url": "https://open.spotify.com/track/55Kk2Tx8dtv3JxeSCEHueP"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "Para la pena no",
         "url": "https://open.spotify.com/album/7czoUPcYZGaVjeWlMDK4ez"
       },
@@ -1763,6 +1759,26 @@
       "duration_ms": 225287,
       "name": "Para la pena no",
       "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Visiones Doradas",
+        "url": "https://open.spotify.com/album/5RcL7gPipFECCe8MAAZRUS"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        }
+      ],
+      "duration_ms": 166048,
+      "name": "Visiones Doradas",
+      "url": "https://open.spotify.com/track/55Kk2Tx8dtv3JxeSCEHueP"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1807,22 +1823,6 @@
       "duration_ms": 109000,
       "name": "La Melancol\u00eda",
       "url": "https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "De balde",
-        "url": "https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN"
-      },
-      "artists": [
-        {
-          "name": "Gecko Turner",
-          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
-        }
-      ],
-      "duration_ms": 283373,
-      "name": "De balde",
-      "url": "https://open.spotify.com/track/0ByOfMa6l6XcnlQAkAsACF"
     }
   ],
   "unique_name": "Cancionistas",

@@ -1,12 +1,12 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring Halle, Calvin Harris, Harry Styles &amp; more! Cover: Halle",
-  "num_followers": 8681,
+  "num_followers": 8683,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjM1MSw3NDNiZDg4MGYzOTdjZjAwYWJkMzc5MGNjY2IwZGRhYTBjMGFhYWM3",
+  "snapshot_id": "NjM1OSxiZTJiOTcyNzQ4MzFkMjE5NmU5MjUzNmQ4N2Q2MTAzY2I0ZjM0OTE1",
   "tracks": [
     {
       "added_at": "2023-08-04 14:23:08",
@@ -23,6 +23,78 @@
       "duration_ms": 219133,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
+    },
+    {
+      "added_at": "2023-08-11 04:43:34",
+      "album": {
+        "name": "Piggy",
+        "url": "https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 267320,
+      "name": "Dog",
+      "url": "https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG"
+    },
+    {
+      "added_at": "2023-08-11 04:44:01",
+      "album": {
+        "name": "Speak To Me (HI-LO Remix)",
+        "url": "https://open.spotify.com/album/46xiRR85sqnTRCWmQx4IDa"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "Speak To Me - HI-LO Remix",
+      "url": "https://open.spotify.com/track/3l6EYiI1qc6tMCZ3ACU3bG"
+    },
+    {
+      "added_at": "2023-08-11 04:44:25",
+      "album": {
+        "name": "Benihachi",
+        "url": "https://open.spotify.com/album/10T6cisf5HcSWxEGAua82B"
+      },
+      "artists": [
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        }
+      ],
+      "duration_ms": 130449,
+      "name": "Benihachi",
+      "url": "https://open.spotify.com/track/66m8jtJMnhtJzNfBfnrIs8"
+    },
+    {
+      "added_at": "2023-08-11 04:44:46",
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/23hJo7IAqe0eTGbwkBf3kz"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/6QYbx8JJwNQmsLd8AWkVqt"
     },
     {
       "added_at": "2023-08-04 14:23:37",
@@ -55,58 +127,6 @@
       "duration_ms": 192857,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e"
-    },
-    {
-      "added_at": "2023-08-04 14:23:56",
-      "album": {
-        "name": "look i like",
-        "url": "https://open.spotify.com/album/3p6KDw92pUoX3zOtDiBRPY"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 156786,
-      "name": "look i like",
-      "url": "https://open.spotify.com/track/4N8PYbgwWgzUbfdxoNXpra"
-    },
-    {
-      "added_at": "2023-08-04 14:24:06",
-      "album": {
-        "name": "Doppelg\u00e4nger",
-        "url": "https://open.spotify.com/album/7L14vX6K0BxZdxmZOzchhk"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Doppelg\u00e4nger",
-      "url": "https://open.spotify.com/track/2iNNtNfAGVjO3woehIxvFa"
-    },
-    {
-      "added_at": "2023-08-04 14:24:16",
-      "album": {
-        "name": "Sorry 4 The Wait... (Deluxe)",
-        "url": "https://open.spotify.com/album/1ZhwOV5hoXbZayFi89D4EL"
-      },
-      "artists": [
-        {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Gang Gang (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/1nLUcjQbw4rOc6DMNGzQDu"
     },
     {
       "added_at": "2023-07-28 04:16:56",
@@ -147,54 +167,6 @@
       "duration_ms": 147180,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
-    },
-    {
-      "added_at": "2023-07-28 04:17:42",
-      "album": {
-        "name": "I'm Not Prettier",
-        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 178191,
-      "name": "I'm Not Pretty - Acoustic",
-      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
-    },
-    {
-      "added_at": "2023-07-28 04:18:30",
-      "album": {
-        "name": "flounder (deluxe)",
-        "url": "https://open.spotify.com/album/7jGLYHzIlEVCTNbhu1jYlM"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "gold ring (flounder bonus track)",
-      "url": "https://open.spotify.com/track/6FIq8R2juA9GvlNE5SjwsU"
-    },
-    {
-      "added_at": "2023-07-28 04:18:44",
-      "album": {
-        "name": "Someday Soon",
-        "url": "https://open.spotify.com/album/3MQydUeTQjd1jjVTikawoq"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 165649,
-      "name": "Someday Soon",
-      "url": "https://open.spotify.com/track/3jXd0vfbaY99gpqBthXnQJ"
     },
     {
       "added_at": "2023-07-21 23:26:57",
@@ -273,20 +245,20 @@
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
     },
     {
-      "added_at": "2023-07-14 05:09:02",
+      "added_at": "2023-08-11 04:45:55",
       "album": {
-        "name": "poison",
-        "url": "https://open.spotify.com/album/7H2fiL5ulsAjU5BDC5Th4F"
+        "name": "2ND FULL ALBUM 'REBOOT'",
+        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
       },
       "artists": [
         {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 168291,
-      "name": "poison",
-      "url": "https://open.spotify.com/track/6ot4Zf5bWG6NL6NfEAIicP"
+      "duration_ms": 212901,
+      "name": "BONA BONA",
+      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
     },
     {
       "added_at": "2023-07-07 18:55:16",

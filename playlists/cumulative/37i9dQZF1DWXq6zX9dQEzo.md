@@ -4,7 +4,7 @@
 
 > Music blasting, faith on swole\.  Get your beast mode on!  Guest Curated by <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=ee8a724b019b4d6d">KB</a>
 
-456 songs - 22 hr 54 min
+457 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Flashy](https://open.spotify.com/track/2AHoi03XAHDv5df9AJjLYs) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Flashy](https://open.spotify.com/album/6xbofFdMv6ZQCUTHs8CyIi) | 2:28 | 2022-10-01 | 2022-10-05 |
 | [Fo' Rilly Flow](https://open.spotify.com/track/0h9O7fUWZFuVZLbec9f1Qz) | [Scribe Music](https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n), [Marc Stevens](https://open.spotify.com/artist/1fmn2V2H1bqmwk9SCdnuCd), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Fo' Rilly Flow](https://open.spotify.com/album/4NYHAo56V6kokxfU2w80VF) | 2:54 | 2022-02-04 |  |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2022-03-23 | 2022-04-21 |
-| [Fomo](https://open.spotify.com/track/5Ja76bp5YMG6VueTslLKY1) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [Fomo](https://open.spotify.com/album/6nxKmkJaErcYxUifCLY4Kv) | 2:30 | 2022-04-30 |  |
+| [Fomo](https://open.spotify.com/track/5Ja76bp5YMG6VueTslLKY1) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [Fomo](https://open.spotify.com/album/6nxKmkJaErcYxUifCLY4Kv) | 2:30 | 2022-04-30 | 2023-08-20 |
 | [Forever](https://open.spotify.com/track/5hgv7WVjHPUjPBxY4M9fHB) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk) | [Forever](https://open.spotify.com/album/6Y3FWXwfalkRuK7lU73dmC) | 2:29 | 2022-07-17 |  |
 | [Free Indeed](https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Free Indeed](https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13) | 3:07 | 2023-08-11 |  |
 | [Freedom \- Amapiano](https://open.spotify.com/track/1RfHFStdEXyJWorqSQmMUU) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Denga](https://open.spotify.com/album/1RLgrGJKZ9jRVIXyNoGiGZ) | 4:23 | 2022-02-04 | 2022-04-30 |
@@ -341,6 +341,7 @@
 | [RESPECT](https://open.spotify.com/track/7KUeFWTXZAiq1v5Y0lBxaK) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [RESPECT](https://open.spotify.com/album/75ILqfSbQN5CzVjpXLzthl) | 2:49 | 2022-02-04 | 2022-07-29 |
 | [Respect My Team](https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Respect My Team](https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe) | 3:47 | 2022-07-17 | 2023-08-12 |
 | [RICH](https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [RICH](https://open.spotify.com/album/5P1RmCAG4yB80keglreodA) | 2:42 | 2023-08-11 |  |
+| [RIGHT NOW](https://open.spotify.com/track/6TgtYkd4elXHLR4W2D6n7B) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Tre'Gadd](https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH) | [RIGHT NOW](https://open.spotify.com/album/2A0L5NLUV0X56PZqDQtrIE) | 1:58 | 2023-08-11 |  |
 | [Right over Wrong](https://open.spotify.com/track/3Z1rWYlWSHr1lozBA6w2Pj) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [Heavenly Emotions](https://open.spotify.com/album/0GhKzhbAU7hNOKJQGhCrwq) | 2:28 | 2022-11-04 | 2023-08-12 |
 | [Ring](https://open.spotify.com/track/40Iqcgia1MPuiFyggF3nbv) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Ring](https://open.spotify.com/album/6FwfqO7BETJiYMcDaIF5Q1) | 2:01 | 2022-12-16 | 2023-02-03 |
 | [Rise Up \(Lazarus\) \[FRANKLIN Remix\]](https://open.spotify.com/track/0hD5WoXq5PfWYWPcZnIEXm) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Rise Up \(Lazarus\) \[FRANKLIN Remix\]](https://open.spotify.com/album/2vi7eJheb0Tis7qfw6p1kD) | 4:00 | 2022-02-04 | 2023-08-12 |

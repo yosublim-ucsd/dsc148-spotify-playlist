@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Eladio Carri\u00f3n",
-  "num_followers": 1527305,
+  "num_followers": 1527381,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDRmYjRkOWY1M2NjZTFjMDE5OWQ2NzkzMWY1YjkyNzljZTc3MTYw",
+  "snapshot_id": "MCxjYjJkMGVjYzU5MjNkZWYyYzUwM2Y1YTJkNDQ4NjE3OWU1Mjg4Njkw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 107906,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR"
       },
@@ -907,22 +927,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 219705,
-      "name": "QSY",
-      "url": "https://open.spotify.com/track/2HOjq5fN9BN9nWwm0LHT1G"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "G Spot",
         "url": "https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc"
       },
@@ -999,42 +1003,38 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Fendi & Valentino",
-        "url": "https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9"
+        "name": "La Mini",
+        "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
         },
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Sahir",
-          "url": "https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Fendi & Valentino",
-      "url": "https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn"
+      "duration_ms": 213831,
+      "name": "La Mini",
+      "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 262722,
-      "name": "Nosotros",
-      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
+      "duration_ms": 219705,
+      "name": "QSY",
+      "url": "https://open.spotify.com/track/2HOjq5fN9BN9nWwm0LHT1G"
     }
   ],
   "unique_name": "Trap Land",

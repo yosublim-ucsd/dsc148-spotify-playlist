@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Beauty School Dropout
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,761 likes - 126 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,910 likes - 126 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 78 | [too young.](https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [too young.](https://open.spotify.com/album/6M3vNH4T111GlOh17AYKFB) | 3:19 |
 | 79 | [Little Bit Lonely](https://open.spotify.com/track/1TbyXPimQ5GBFARdBJvWv7) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Little Bit Lonely](https://open.spotify.com/album/4p7ru5v5uMbWdcUjZcY0uY) | 3:32 |
 | 80 | [Shakin' Yer Hips](https://open.spotify.com/track/6l1dFhJPPbBPkz3uM6F30O) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Shakin' Yer Hips](https://open.spotify.com/album/0WtqIVwmpFTOjuVNzrgQvX) | 2:56 |
-| 81 | [Racecar](https://open.spotify.com/track/76pfVPGA4aLABgTmxIECdy) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Racecar](https://open.spotify.com/album/23hXAexOyAYC7ib8DBqNnu) | 3:09 |
+| 81 | [Racecar](https://open.spotify.com/track/61TahHsLdwY2tk3GAT2ZKQ) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Racecar](https://open.spotify.com/album/3czaepL4PjwRRD8v2Gp4Lp) | 3:09 |
 | 82 | [Wicked Styley](https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Wicked Styley](https://open.spotify.com/album/1H5rc0kUITrP2PfdQyypUX) | 2:32 |
 | 83 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
 | 84 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [A Feeling](https://open.spotify.com/track/2ZutXbnInegCq7HuzlowoU) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [A Feeling](https://open.spotify.com/album/1sABhF8EK5cn1ErlTOD48M) | 2:35 |
 | 126 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 
-Snapshot ID: `MCwxYWU4YTJmOWQ3ODgwMjA0MjJkY2NkZDdjODE4NDJjMGY3NWQyNDNk`
+Snapshot ID: `MCxmZDI2ZDU0ZDhjNWQyMDY5YzM3YzBjN2ZjNzJkOTM3MTg5M2ZjOGIy`

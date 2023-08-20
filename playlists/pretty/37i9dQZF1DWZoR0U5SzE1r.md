@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,462 likes - 100 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,575 likes - 100 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 93 | [No Other](https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [Clarity](https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup) | 3:52 |
 | 94 | [I Stand Here](https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Overflow](https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y) | 3:44 |
 | 95 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word \(Live\)](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
-| 96 | [Holy Desire \(From Worship Nights at the Barn\)](https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 9:29 |
-| 97 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 |
+| 96 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 |
+| 97 | [Holy Desire \(From Worship Nights at the Barn\)](https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 9:29 |
 | 98 | [Heroes](https://open.spotify.com/track/5YnFuvg0E9L8oIIlavjaNH) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV) | 4:17 |
 | 99 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS) | 5:44 |
 | 100 | [Take Courage \(Live\)](https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation](https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv) | 5:50 |
 
-Snapshot ID: `MCw0YzFhY2RhNzMyMTM4MDllNjQ2NWE2NzE3YTQ2ZGM2M2U2NGVkZWZi`
+Snapshot ID: `MCwwNzdjZDhmNGMxNTVkNjMxYWVlYzhjYWZlZmI4NWRmYzZkNzg3Nzdi`

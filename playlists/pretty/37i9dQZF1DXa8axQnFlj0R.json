@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 68712,
+  "num_followers": 68702,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDRhMzhiZDg3Mjg0MWY5Mjk5YjlhM2I2NWM2ZGEzMDcxYjRlZGQ0",
+  "snapshot_id": "MCw3NWE5ZDI2YWM3NjY5NjEzOGM0YzY2OTFmOTczMTUyMTQ2NTMwMDM4",
   "tracks": [
     {
       "added_at": "2022-12-02 19:02:37",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 285634,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -371,18 +371,22 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -403,22 +407,18 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 256124,
-      "name": "Snow On The Beach (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
+        "name": "Pete's Dragon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1YrocR69AHthl982tykNpQ"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/7A0FGrZsLgOUmeNtMTnt4z"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 213920,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
-        "name": "Pete's Dragon (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1YrocR69AHthl982tykNpQ"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/7A0FGrZsLgOUmeNtMTnt4z"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Mountaineer",
-        "url": "https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7"
-      },
-      "artists": [
-        {
-          "name": "Arliston",
-          "url": "https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh"
-        }
-      ],
-      "duration_ms": 221875,
-      "name": "Mountaineer",
-      "url": "https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "False Floors",
         "url": "https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 256535,
       "name": "The Wolves and the Ravens",
       "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Mountaineer",
+        "url": "https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7"
+      },
+      "artists": [
+        {
+          "name": "Arliston",
+          "url": "https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh"
+        }
+      ],
+      "duration_ms": 221875,
+      "name": "Mountaineer",
+      "url": "https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
+        "name": "Devon or Las Vegas",
+        "url": "https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade"
+      },
+      "artists": [
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
         "name": "Holding",
         "url": "https://open.spotify.com/album/3EsHX6QnZU5XVed717arFh"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 197460,
       "name": "Wild",
       "url": "https://open.spotify.com/track/7GbRC3WWnBGF9Uc9N2BUDh"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
-        "name": "Devon or Las Vegas",
-        "url": "https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade"
-      },
-      "artists": [
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P"
     },
     {
       "added_at": "2022-12-02 19:02:37",

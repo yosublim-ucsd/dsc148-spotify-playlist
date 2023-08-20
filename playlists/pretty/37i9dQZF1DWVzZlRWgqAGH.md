@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Jessie Reyez, Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,153 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,271 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 4 | [crying through my teeth \- A COLORS SHOW](https://open.spotify.com/track/2zbzndFcAtAUH4x5J2pcF7) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [crying through my teeth \- A COLORS SHOW](https://open.spotify.com/album/7ICsxmgIN0HSJh70kzlePZ) | 2:21 |
 | 5 | [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 |
 | 6 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
-| 7 | [Bewilderment](https://open.spotify.com/track/4qqNPAiQmGVdwxLrfYmYDg) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/6lhy077vcpLXGOSSCkP3wM) | 3:38 |
+| 7 | [Bewilderment](https://open.spotify.com/track/5PAS1dyZn7mb7Eq3JM0ejK) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:38 |
 | 8 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 |
 | 9 | [THE GLADE](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [THE GLADE](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 |
 | 10 | [balloons \(feat\. Jay Electronica & Eryn Allen Kane\)](https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [This Too](https://open.spotify.com/track/7E0ck3kZmSzHTsnkXRINPv) | [hxzel](https://open.spotify.com/artist/5vzywo9BwgSd4vK5hz9qA8), [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [This Too](https://open.spotify.com/album/4vtdwsnDNvj0tKjONcqA45) | 2:37 |
 | 100 | [Move](https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [At First Light](https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM) | 3:37 |
 
-Snapshot ID: `MCxiYTBiYzMxNjUyM2JmMTdkYmNmM2QwYjdlM2UxZGNkNmYyMGY1OGZj`
+Snapshot ID: `MCxlMjdkMWIwOWRmNjAxODI4OThlZjRiZWNmNjgzMWFjMDhiMDlkYmIy`

@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023: Sufjan graces us with a new track fit for Carrie & Lowell fanatics. ",
-  "num_followers": 2228956,
+  "num_followers": 2229135,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjA2ZTg5ZmUxNWY4MTA2NjAyZWE4NGEzOGEyMjNhZTI2NjQzZGE0",
+  "snapshot_id": "MCxmZWQzZjdmYThkOTAxMGRmYzZjNzllMDQ3NGE5OWRlNWVhY2Y3N2Zh",
   "tracks": [
     {
       "added_at": "2023-08-16 21:09:27",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
     },
     {
+      "added_at": "2023-08-08 22:20:55",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
         "name": "the record",
@@ -567,22 +583,6 @@
       "duration_ms": 251510,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze"
-    },
-    {
-      "added_at": "2023-08-08 22:20:55",
-      "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Red Wine Supernova",
+        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Bubblegum",
@@ -983,22 +999,6 @@
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Red Wine Supernova",
-        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
     },
     {
       "added_at": "2023-08-01 23:37:51",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Spirit 2.0",
-        "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 289962,
-      "name": "Spirit 2.0",
-      "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
-    },
-    {
       "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "People In Motion",
@@ -1099,6 +1083,22 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Spirit 2.0",
+        "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 289962,
+      "name": "Spirit 2.0",
+      "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1169,6 +1169,26 @@
       "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
     },
     {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        },
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Diving (feat. Holly Humberstone)",
@@ -1225,26 +1245,6 @@
       "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
-      },
-      "artists": [
-        {
-          "name": "Julia Pratt",
-          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
-        },
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "A Little Love",
-      "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Bioluminescence",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT"
     },
     {
-      "added_at": "2023-07-17 18:25:56",
-      "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Pink + White - Live at Electric Lady",
-      "url": "https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Me & Me",
@@ -1307,6 +1291,22 @@
       "duration_ms": 147596,
       "name": "Me & Me",
       "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+    },
+    {
+      "added_at": "2023-07-17 18:25:56",
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Pink + White - Live at Electric Lady",
+      "url": "https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1509,26 +1509,6 @@
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
-      "added_at": "2023-07-13 00:37:25",
-      "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Morning Pages",
-      "url": "https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n"
-    },
-    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Miami Baby",
@@ -1559,6 +1539,26 @@
       "duration_ms": 201022,
       "name": "Candlelight - Spotify Singles",
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
+    },
+    {
+      "added_at": "2023-07-13 00:37:25",
+      "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Morning Pages",
+      "url": "https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1629,6 +1629,22 @@
       "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
     },
     {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 197811,
+      "name": "3D Feelings",
+      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
+    },
+    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
@@ -1651,18 +1667,38 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+        "name": "NYE [Feat. Suki Waterhouse]",
+        "url": "https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP"
       },
       "artists": [
         {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 197811,
-      "name": "3D Feelings",
-      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
+      "duration_ms": 175020,
+      "name": "NYE [Feat. Suki Waterhouse]",
+      "url": "https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Where Are You Going?",
+        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 212985,
+      "name": "Now I Know You",
+      "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1699,38 +1735,6 @@
       "duration_ms": 186000,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Where Are You Going?",
-        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 212985,
-      "name": "Now I Know You",
-      "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
-    },
-    {
-      "added_at": "2023-07-20 21:12:49",
-      "album": {
-        "name": "Black Fins",
-        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 262727,
-      "name": "Black Fins",
-      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
     }
   ],
   "unique_name": "Front Page Indie",

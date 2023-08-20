@@ -4,7 +4,7 @@
 
 > Foam and Sand, AKA Robot Koch's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-33 songs - 3 hr 1 min
+34 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [dlp 1.3](https://open.spotify.com/track/07xAmnJmWBdg1vfbZruWPN) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/40A7AUK48laVRKEINMRK2M) | 11:57 | 2023-04-11 |  |
 | [dlp 1.3](https://open.spotify.com/track/3hFipULsVstcUDjujwyNr5) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/4Vs8o9MQur5NHGGr5kqXn6) | 11:57 | 2023-03-24 | 2023-04-26 |
 | [Entrance](https://open.spotify.com/track/1kLoPLQc1XYXijQGjA9Crk) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Entrance](https://open.spotify.com/album/4c0B46pCSc9p0j2vJE254Q) | 6:52 | 2023-03-24 | 2023-07-30 |
-| [Entrance](https://open.spotify.com/track/3Z8EMUxl5nl1OYsesqGF41) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN) | 6:52 | 2023-06-30 |  |
+| [Entrance](https://open.spotify.com/track/3Z8EMUxl5nl1OYsesqGF41) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN) | 6:52 | 2023-06-30 | 2023-08-20 |
+| [Entrance](https://open.spotify.com/track/65OwXLlRaJp5u0KjP3rsSy) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/6c3fg9k7oV8ShswoX0OifT) | 6:52 | 2023-06-30 |  |
 | [Fairy Light](https://open.spotify.com/track/5xGPWuqxOJbw2xs6FRI59G) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Fairy Light](https://open.spotify.com/album/13vaFAUPTL3Tf1DepswBgk) | 2:47 | 2023-03-24 |  |
 | [Fond \- Rework](https://open.spotify.com/track/1NR4lmznMMB07hzvy4PN74) | [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Fond \(Rework\)](https://open.spotify.com/album/4JcX4CjnRbPzSgT2wADcIE) | 3:44 | 2023-03-24 |  |
 | [Hideaway \- Julien Marchal Remix](https://open.spotify.com/track/1W1oG50BEmDhtvN1TF2c4S) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Savannah Jo Lack](https://open.spotify.com/artist/5iyvceRZc6xv3JC02bcssM), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Particle Fields Reimagined](https://open.spotify.com/album/7a9sTKSf2fmon38WC0xShx) | 1:56 | 2023-03-24 |  |

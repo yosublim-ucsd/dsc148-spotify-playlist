@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-501 songs - 1 day 10 hr 6 min
+502 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [atoms:arpeggi](https://open.spotify.com/track/3bWs6s31PD86lrCnqCzIXg) | [カムパネルラ](https://open.spotify.com/artist/18SAolJ2AN8sWD4phnpUip) | [good night atoms](https://open.spotify.com/album/1NRIaCnYcCSEQVQeAW6pnv) | 5:15 | 2022-10-20 | 2022-11-30 |
 | [Babylonia](https://open.spotify.com/track/2A7oXmM3Xmiick54UNgtmB) | [Osteoleuco](https://open.spotify.com/artist/42u1RJUE0BhUW7VkXntJ99) | [Babylonia](https://open.spotify.com/album/1De6SSZ08u82FIBspPG68M) | 2:46 | 2022-12-13 | 2023-02-15 |
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-10 | 2023-04-10 |
-| [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 | 2023-04-18 |  |
+| [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 | 2023-04-18 | 2023-08-20 |
 | [Belief](https://open.spotify.com/track/4NEQrLQUbGX5XZtJzlXkgP) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:32 | 2023-02-28 | 2023-03-25 |
 | [Berceuse](https://open.spotify.com/track/2aj9gk89sJ9Rj8kE6EfxM3) | [Armas Järnefelt](https://open.spotify.com/artist/0DDOvrV9wGcN6EPZU2KeRK), [Erkki Rautio](https://open.spotify.com/artist/0mrn7eJEcqV7KPopqH5UYy), [Izumi Tateno](https://open.spotify.com/artist/1IDW9jgQRukXDqINZyrkue) | [Finland 100 Years: Classical Music](https://open.spotify.com/album/7hCQ6pzgHwpyKFPSoS2sym) | 3:21 | 2022-12-01 | 2023-02-01 |
 | [Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/track/54EA2jYguG3h7L5i22NZ8y) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kotaro Fukuma](https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK) | [Chopin Legacy](https://open.spotify.com/album/0ybt3QM7jBuI78W9UpkLTN) | 4:43 | 2022-12-01 | 2023-04-21 |
@@ -366,6 +366,7 @@
 | [Starting Again](https://open.spotify.com/track/1WRwWWwaxm9zJKysz91T31) | [Timaeus](https://open.spotify.com/artist/5DWCBR1B1PkfYbWtGq9wLT) | [Starting Again](https://open.spotify.com/album/6f2umrRIEGBL3e5JcPoaT3) | 3:52 | 2023-03-23 | 2023-04-19 |
 | [Stay in the light \- reprise](https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [RAKEL](https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 4:24 | 2023-02-16 | 2023-06-28 |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-02-17 |
+| [Streets Of Heaven](https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Streets Of Heaven](https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD) | 3:08 | 2023-08-17 |  |
 | [stroll](https://open.spotify.com/track/2OA5j0qpdH9eBnZ98SjbRq) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [A journey to recovery](https://open.spotify.com/album/6irBGY6ICtVY3pSSW7UeU6) | 2:53 | 2023-07-20 |  |
 | [stroll](https://open.spotify.com/track/4cFiCccBG5fSDC7yqxtsKW) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [stroll](https://open.spotify.com/album/3nytpuSr8cJmcI48MUhrOx) | 2:53 | 2023-06-13 | 2023-06-15 |
 | [stroll](https://open.spotify.com/track/6vuuRxPKfb9TqXlXagatrR) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [stroll](https://open.spotify.com/album/3NYFZtTXEzWoPgp3FZ9BmE) | 2:53 | 2023-06-13 | 2023-07-22 |

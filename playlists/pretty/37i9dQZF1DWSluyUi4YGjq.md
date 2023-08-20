@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. quannnic on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,321 likes - 101 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,064 likes - 101 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 38 | [Beauty \- Bonus Track](https://open.spotify.com/track/3uROaybnOXpcvQrv47ChcN) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure \(10th Anniversary Edition\)](https://open.spotify.com/album/2WSCMIIjNRdYTGvko0E6xS) | 6:09 |
 | 39 | [daze](https://open.spotify.com/track/66TIegJdKMYXuYSxaPIR4A) | [cherry pick](https://open.spotify.com/artist/5yCDU2cbUX69GwblH65Et5) | [daze](https://open.spotify.com/album/0knbxdlY8bc21f6U1E9Zdk) | 3:01 |
 | 40 | [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 |
-| 41 | [Vacation](https://open.spotify.com/track/5VieQH9z7lj6UIGfTkkmiM) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Vacation](https://open.spotify.com/album/4nteDNfkJVsJuWQhOnnHFN) | 3:32 |
+| 41 | [Vacation](https://open.spotify.com/track/5F1gAs2j6FLTITQ1FJni0O) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:32 |
 | 42 | [Heaven Hanging Low](https://open.spotify.com/track/0XyBzQ0hOpfmXSjG2CwIqk) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Heaven Hanging Low](https://open.spotify.com/album/0C15Fq2phrRsuF38ny28Hk) | 3:40 |
 | 43 | [That I](https://open.spotify.com/track/53UazAHPCpRwkrsGBEIZzV) | [D.B.Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [That I](https://open.spotify.com/album/4l3WEaz9RRGERXY9h5MMjP) | 3:42 |
 | 44 | [dark out](https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [dark out](https://open.spotify.com/album/2WobrgmAwkqkh8iCKEoMa7) | 2:25 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 100 | [Sour Punch](https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Possessions](https://open.spotify.com/album/1sZkGikz7VbeytHdaBgWhr) | 2:32 |
 | 101 | [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 |
 
-Snapshot ID: `MCxhMTQ3MTc4MzUxYmYxZjAxZjAzOGU5MjUxM2ExMTdiNWRkZTM3Yjlj`
+Snapshot ID: `MCw0MGU5NzFhNDI5N2Y4NWEzOTZhMjFmM2RlOGY4YmQwOTA3NWQ3MzFi`

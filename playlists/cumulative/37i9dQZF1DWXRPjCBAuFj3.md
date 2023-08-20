@@ -4,7 +4,7 @@
 
 > Il rap più forte del mondo in una sola playlist\. Cover: Travis Scott
 
-399 songs - 20 hr 50 min
+400 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Big Budz No Dust \(feat\. Krept & Konan\)](https://open.spotify.com/track/3Axaiyq4iyZYzqpL5weQD3) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Big Budz No Dust \(feat\. Krept & Konan\)](https://open.spotify.com/album/1FhZRKWdsHgcVDESftN5sX) | 3:50 | 2023-08-18 |  |
 | [BIG TIME \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:53 | 2022-08-26 | 2022-11-19 |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-07-26 | 2023-08-19 |
+| [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 | 2023-08-18 |  |
 | [Blackout](https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blackout](https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV) | 3:16 | 2023-04-06 | 2023-06-24 |
 | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt) | 2:49 | 2023-08-18 |  |
 | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 | 2023-06-20 | 2023-08-19 |
@@ -303,7 +304,7 @@
 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 | 2023-06-02 | 2023-08-19 |
 | [PUTO \(feat\. French Montana\)](https://open.spotify.com/track/5R1RXd5Og15AT9RfUX8nJ1) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:53 | 2022-05-10 | 2022-07-29 |
 | [Que te vaya bien](https://open.spotify.com/track/63lpWMzGpcjpN9DGoDbl7W) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Que te vaya bien](https://open.spotify.com/album/1iIi4atC1br3SvGbIK2Wzg) | 3:24 | 2023-04-28 | 2023-05-26 |
-| [Racks](https://open.spotify.com/track/5U8zamxqHKlE6s14fa766t) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [No Borders: European Compilation Project](https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP) | 3:08 | 2023-08-18 |  |
+| [Racks](https://open.spotify.com/track/5U8zamxqHKlE6s14fa766t) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [No Borders: European Compilation Project](https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP) | 3:08 | 2023-08-18 | 2023-08-20 |
 | [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:08 | 2022-12-02 | 2023-08-19 |
 | [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/4qf2G3v1ychaRZ0glmrkES) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:08 | 2022-12-02 | 2022-12-08 |
 | [RAPPEL](https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [RAPPEL](https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD) | 3:37 | 2022-07-01 | 2022-09-12 |

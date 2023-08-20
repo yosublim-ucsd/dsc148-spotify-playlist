@@ -4,7 +4,7 @@
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Baka Not Nice
 
-95 songs - 4 hr 45 min
+96 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bionic Man](https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS) | [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [Bionic Man](https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd) | 3:12 | 2023-03-03 |  |
 | [Body & A Face](https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J) | 2:39 | 2023-04-06 |  |
 | [Brk Frm Nrml](https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Added Sugar](https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6) | 2:40 | 2023-03-03 | 2023-06-20 |
-| [BURN EVERYTHING](https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [BURN EVERYTHING](https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow) | 2:49 | 2023-06-16 |  |
+| [BURN EVERYTHING](https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [BURN EVERYTHING](https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow) | 2:49 | 2023-06-16 | 2023-08-20 |
 | [Canada Goose](https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Canada Goose](https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14) | 3:55 | 2023-03-03 |  |
 | [Champion \(feat\. Travis Scott\)](https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:15 | 2023-03-03 |  |
 | [Come Inside \(Kaytranada Edit\)](https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [002 / LOVE ME](https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok) | 4:26 | 2023-03-03 |  |
@@ -40,6 +40,7 @@
 | [Dwayne Carter Flow](https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Dwayne Carter Flow](https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d) | 2:10 | 2023-03-03 |  |
 | [Everywhere We Go](https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Everywhere We Go Single](https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2) | 3:18 | 2023-03-03 |  |
 | [Examples](https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [T\-jin](https://open.spotify.com/artist/6rSB5wNriTJ9FOXwhkCNgN) | [Examples](https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq) | 2:36 | 2023-03-03 | 2023-08-02 |
+| [Examples](https://open.spotify.com/track/7poCHtHRWvgSaRezTWcW76) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [T\-jin](https://open.spotify.com/artist/6rSB5wNriTJ9FOXwhkCNgN) | [Examples](https://open.spotify.com/album/3v7DpJF9d1XoAI8e0cnn6h) | 2:36 | 2023-08-11 |  |
 | [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 | 2023-03-03 |  |
 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 | 2023-06-29 |  |
 | [Fly](https://open.spotify.com/track/6jawC4HnwfnVzb7vCbN8Mt) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Fly](https://open.spotify.com/album/5t0IgR1t1Xn4juP7Fb65nb) | 2:40 | 2023-03-03 | 2023-04-26 |

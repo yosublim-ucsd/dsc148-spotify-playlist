@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8016025,
+  "num_followers": 8019123,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTQ1M2JiZGQ5OGFkYTE3YmZhYTZhMWEwNjQ0YWU0ZTI5Y2JhMmQy",
+  "snapshot_id": "MCw0ZmM4ZTMzODA0MmFmOTM2YjU3ZWI4NmM5ODMyOGQ1NTE4ZTEwODc3",
   "tracks": [
     {
       "added_at": "2023-08-10 13:01:21",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
@@ -571,22 +591,6 @@
       "duration_ms": 293973,
       "name": "N.Y. State of Mind",
       "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -607,22 +611,18 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Vol. 3... Life And Times Of S. Carter",
-        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "UGK",
-          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 283066,
-      "name": "Big Pimpin'",
-      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "It Ain't Hard to Tell",
-      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "Nigga Please",
         "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 239546,
       "name": "Got Your Money (feat. Kelis)",
       "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Friday (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 305573,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1387,22 +1371,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Labcabincalifornia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g"
       },
@@ -1415,6 +1383,22 @@
       "duration_ms": 296266,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "Conspiracy (PA)",
+        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
+      },
+      "artists": [
+        {
+          "name": "Junior M.A.F.I.A.",
+          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+        }
+      ],
+      "duration_ms": 274937,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "Naughty By Nature",
         "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
       },
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Conspiracy (PA)",
-        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
+        "name": "Return of the Boom Bap",
+        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
       },
       "artists": [
         {
-          "name": "Junior M.A.F.I.A.",
-          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
         }
       ],
-      "duration_ms": 274937,
-      "name": "Get Money",
-      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
+      "duration_ms": 258506,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1615,22 +1615,6 @@
       "duration_ms": 338186,
       "name": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",
       "url": "https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Return of the Boom Bap",
-        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
-      },
-      "artists": [
-        {
-          "name": "KRS-One",
-          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1755,22 +1739,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "The Master",
-        "url": "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
-      },
-      "artists": [
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "When I B On Tha Mic",
-      "url": "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -1787,18 +1755,18 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Extinction Level Event: The Final World Front",
-        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
+        "name": "The Master",
+        "url": "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
         }
       ],
-      "duration_ms": 158466,
-      "name": "Gimme Some More",
-      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
+      "duration_ms": 222933,
+      "name": "When I B On Tha Mic",
+      "url": "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1815,6 +1783,22 @@
       "duration_ms": 173159,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Extinction Level Event: The Final World Front",
+        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "Gimme Some More",
+      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1871,6 +1855,22 @@
       "duration_ms": 214066,
       "name": "Hip-Hop",
       "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Mecca And The Soul Brother",
+        "url": "https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp"
+      },
+      "artists": [
+        {
+          "name": "Pete Rock & C.L. Smooth",
+          "url": "https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq"
+        }
+      ],
+      "duration_ms": 286693,
+      "name": "They Reminisce Over You (T.R.O.Y.)",
+      "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

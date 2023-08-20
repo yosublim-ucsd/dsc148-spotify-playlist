@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > sain é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247,980 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,039 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Se eu não lembrar](https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:57 |
 | 50 | [bode](https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:51 |
 
-Snapshot ID: `MCxhNGUzMmVjMWUzNTA0NDQyMTU4NzkwMzBmOWNlZWZiY2RhM2E2ZTBh`
+Snapshot ID: `MCxhOWZmZTY5NDM2MGQ0ZDhlNDFmODY1ZTM3ODVmMWJhMDQ0ZTU2NmYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIo7GVosb3w.md) - [plain]
 
 > ジャンルレスな作品性と、美麗なファルセット・ヴォイスが魅力のSSW、ビッケブランカ のオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,398 likes - 73 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,400 likes - 73 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIo7GVosb3w.md) - [plain]
 | 72 | [Divided](https://open.spotify.com/track/1qr5E38dVYiZSbgrk5RMiC) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [FATE](https://open.spotify.com/album/2TLSG2US3Gn5KKstbM6ipZ) | 2:51 |
 | 73 | [Death Dance](https://open.spotify.com/track/0riYOHLigw6ij7rteObpO6) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [FATE](https://open.spotify.com/album/2TLSG2US3Gn5KKstbM6ipZ) | 2:31 |
 
-Snapshot ID: `MCxlMDBhMTNkZjcxOTE5YzViN2EzY2QzYmI5MGI3Zjk0M2E1NTg3ZTA5`
+Snapshot ID: `MCwxNTYyZDhkMmYwMTNiOTVmOGFiOTY4YThhMTIzMzQyNWVkMWVkMGIw`

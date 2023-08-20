@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 284287,
+  "num_followers": 284339,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzA1MTZiNzIyZTBhZTI3NDUyZmJmODA1ZTczNmJlMjk4Yzg1MjRh",
+  "snapshot_id": "MCwyN2U0ODIzNjgyMzFhOWE0ODI1NTNlNDY3MDExMjkwNTZjYTAyMWI5",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -385,6 +385,26 @@
       "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
     },
     {
+      "added_at": "2023-08-08 14:58:46",
+      "album": {
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 265772,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
+    },
+    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Summer Madness",
@@ -431,26 +451,6 @@
       "duration_ms": 193015,
       "name": "when the party\u2019s over",
       "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
-    },
-    {
-      "added_at": "2023-08-08 14:58:46",
-      "album": {
-        "name": "Different Now",
-        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        },
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 265772,
-      "name": "Different Now",
-      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Cooking",
-        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Cooking",
-      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Seeking Thrills (The Ultimate Thrills Edition)",
         "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
       },
@@ -603,6 +587,42 @@
       "duration_ms": 188694,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
+    },
+    {
+      "added_at": "2023-08-18 19:30:00",
+      "album": {
+        "name": "Attack of the Ghost Riders",
+        "url": "https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "The Raveonettes",
+          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Attack of the Ghost Riders",
+      "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Cooking",
+        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 171315,
+      "name": "Cooking",
+      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -637,26 +657,6 @@
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
-      "added_at": "2023-08-18 19:30:00",
-      "album": {
-        "name": "Attack of the Ghost Riders",
-        "url": "https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "The Raveonettes",
-          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Attack of the Ghost Riders",
-      "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Dancing on My Own",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "The Georgia EP",
+        "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
+    },
+    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Charm You (Blondshell Version)",
@@ -707,22 +723,6 @@
       "duration_ms": 178928,
       "name": "Charm You - Blondshell Version",
       "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "The Georgia EP",
-        "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "keep your head up",
-        "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 206672,
-      "name": "keep your head up",
-      "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Fix You",
@@ -851,6 +835,22 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "keep your head up",
+        "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 206672,
+      "name": "keep your head up",
+      "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -973,6 +973,26 @@
       "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
     },
     {
+      "added_at": "2023-08-18 19:30:00",
+      "album": {
+        "name": "Broken Glass, Vol. 6",
+        "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        },
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "He Thinks He'll Keep Her",
+      "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
+    },
+    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Can I Call You Tonight? / Quarterback",
@@ -1011,26 +1031,6 @@
       "duration_ms": 172500,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
-    },
-    {
-      "added_at": "2023-08-18 19:30:00",
-      "album": {
-        "name": "Broken Glass, Vol. 6",
-        "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        },
-        {
-          "name": "Goodwerks",
-          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "He Thinks He'll Keep Her",
-      "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+      },
+      "artists": [
+        {
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+        }
+      ],
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Go Easy, Kid (with James Blake)",
         "url": "https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 267946,
       "name": "Go Easy, Kid (with James Blake)",
       "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
-      },
-      "artists": [
-        {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 154869,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 154869,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
       },
@@ -1215,26 +1215,6 @@
       "duration_ms": 274506,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "You've Got a Woman",
-        "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
-      },
-      "artists": [
-        {
-          "name": "Natalie Bergman",
-          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 205220,
-      "name": "You've Got a Woman",
-      "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1255,6 +1235,26 @@
       "duration_ms": 240002,
       "name": "Steal My Sunshine (feat. Cherry Glazerr)",
       "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "You've Got a Woman",
+        "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 205220,
+      "name": "You've Got a Woman",
+      "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 262714,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
     },
     {
-      "added_at": "2023-07-20 17:53:48",
-      "album": {
-        "name": "Gente Corriente",
-        "url": "https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ"
-      },
-      "artists": [
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 211695,
-      "name": "Gente Corriente",
-      "url": "https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "I Kissed a Boy",
@@ -1559,6 +1543,22 @@
       "duration_ms": 182213,
       "name": "I Kissed a Boy",
       "url": "https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG"
+    },
+    {
+      "added_at": "2023-07-20 17:53:48",
+      "album": {
+        "name": "Gente Corriente",
+        "url": "https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 211695,
+      "name": "Gente Corriente",
+      "url": "https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "I Would Die 4 U",
-        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
-      },
-      "artists": [
-        {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
-        }
-      ],
-      "duration_ms": 199062,
-      "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Float On",
         "url": "https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
+        "name": "I Would Die 4 U",
+        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
         }
       ],
-      "duration_ms": 224706,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
+      "duration_ms": 199062,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1655,6 +1639,22 @@
       "duration_ms": 206000,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     },
     {
       "added_at": "2023-08-08 14:58:46",

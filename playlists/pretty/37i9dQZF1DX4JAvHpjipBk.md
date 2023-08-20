@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Doechii, Quavo, D4vd, Renee Rapp, Charlie Puth, Anitta and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,158,333 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,158,950 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 54 | [WARFARE](https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 2:36 |
 | 55 | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 |
 | 56 | [By Chance \(feat\. 21 Savage\)](https://open.spotify.com/track/5bcb7UnSeKIfGNeNmxOG2L) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 3:22 |
-| 57 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
+| 57 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
 | 58 | [High Five](https://open.spotify.com/track/0onjg2qlZcouXn8WoKvx1p) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [Luna](https://open.spotify.com/album/4fhfwiNZaMuMrVst1cY7d4) | 2:49 |
 | 59 | [Boomerang](https://open.spotify.com/track/6yEANV0C15jXJg2lsHf6F5) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Boomerang](https://open.spotify.com/album/5dRqkoDZOtMANCUqYyhswt) | 3:02 |
 | 60 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Favourite](https://open.spotify.com/track/4VfjUbKtTaZsQriNud6Iz2) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Favourite](https://open.spotify.com/album/0MOXOTpfhSdr2sOUg1EZcQ) | 2:56 |
 | 100 | [Masterpiece](https://open.spotify.com/track/6yposourraxoag0EGmpVQ1) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Masterpiece](https://open.spotify.com/album/7y1dXbEm0e6qPPA4qpCxnp) | 4:46 |
 
-Snapshot ID: `MCwyOWZkN2FiYjIyYTYxNjBiMDJkODUyZWU3MWM1NzkyMzZjNTAyNjNj`
+Snapshot ID: `MCwzMjQzM2U0NDMxYTQ5NDE1ZmEwMTkzODRmNzRiODVkMzU4NzM5YjQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,239 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,373 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 63 | [Sentimento Bom](https://open.spotify.com/track/1FfIyMHfZKzGkJRE76pz9O) | [Circuito Reggae](https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly), [Filosofia Reggae](https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD) | [Circuito Reggae, Vol\. 7](https://open.spotify.com/album/3MpDXGTk8iSBPa5arnlAg5) | 4:02 |
 | 64 | [Acorda Pra Vida](https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1) | [Nazirê](https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO) | [Acorda Pra Vida](https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef) | 3:33 |
 | 65 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 |
-| 66 | [Pra Voar / Posso Ser \- Acústico](https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Pra Voar / Posso Ser \(Acústico\)](https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV) | 4:21 |
-| 67 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
+| 66 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
+| 67 | [Pra Voar / Posso Ser \- Acústico](https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Pra Voar / Posso Ser \(Acústico\)](https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV) | 4:21 |
 | 68 | [Onda do Arraial \- Ao Vivo](https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:25 |
 | 69 | [Saudades Do Tempo \- Ao Vivo Em São Paulo](https://open.spotify.com/track/4CROpP2nRsHjCWUxJ7Ewpy) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:56 |
 | 70 | [De Tanto Sol \(Acústico\)](https://open.spotify.com/track/4zOn4Xw4QIXZkFME9IIr5R) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [De Tanto Sol \(Acústico\)](https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 74 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 |
 | 75 | [Corre Pro Meu Mar \- Acústico / Ao Vivo](https://open.spotify.com/track/6o1uuE7FrCUUN1zqB37nLR) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Corre Pro Meu Mar \(Acústico / Ao Vivo\)](https://open.spotify.com/album/6MYUGgADS5UKWNKwwdOyCw) | 3:23 |
 
-Snapshot ID: `MCw5ZGVhNGYwNjVkYTk1NDQxYzUwZmVmOTU3YTU1YmMxY2MwODVjZjdj`
+Snapshot ID: `MCwyYzkxNjkxN2M2MDViN2FmODRmYTMzMjJmZjNhMzllYzI2OTRkNjEw`

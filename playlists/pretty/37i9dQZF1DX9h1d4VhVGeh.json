@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 161009,
+  "num_followers": 161110,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjA2YTQwYTM1M2RiOWJiMjQzYjJmYzQ3ZmZlOGQxZjAzZDJmZDM4",
+  "snapshot_id": "MCwwYjllNThiNDBlZWVmZjM3ZjVlMzNiNDFlZWEzMzFlMjI3YzgwMmFi",
   "tracks": [
     {
       "added_at": "2023-05-30 10:21:10",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "El Album",
-        "url": "https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd"
-      },
-      "artists": [
-        {
-          "name": "Massar Egbari",
-          "url": "https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4"
-        }
-      ],
-      "duration_ms": 231177,
-      "name": "Fakra",
-      "url": "https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "K'lma",
         "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 310000,
       "name": "Warda Ala Warda",
       "url": "https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "El Album",
+        "url": "https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd"
+      },
+      "artists": [
+        {
+          "name": "Massar Egbari",
+          "url": "https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4"
+        }
+      ],
+      "duration_ms": 231177,
+      "name": "Fakra",
+      "url": "https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Hikayi",
-        "url": "https://open.spotify.com/album/2DPOCdXwCUpJSSrJZDfkFD"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 190712,
-      "name": "Kil Ma T'illi",
-      "url": "https://open.spotify.com/track/08wMCxGLgcE3VXwSSgMzJK"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "El Nour",
         "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 199171,
       "name": "Sahar El Layali (Kan Enna Tahoun)",
       "url": "https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Hikayi",
+        "url": "https://open.spotify.com/album/2DPOCdXwCUpJSSrJZDfkFD"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 190712,
+      "name": "Kil Ma T'illi",
+      "url": "https://open.spotify.com/track/08wMCxGLgcE3VXwSSgMzJK"
     },
     {
       "added_at": "2023-05-30 10:21:10",

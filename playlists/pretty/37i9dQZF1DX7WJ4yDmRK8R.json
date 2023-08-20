@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Jeff Rosenstock ",
-  "num_followers": 356438,
+  "num_followers": 356521,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmU1M2IxM2MxZmIyM2Q1MjI3YTE4ZWJmMGE3Y2QzMmJmOGExY2E2",
+  "snapshot_id": "MCxjNTY2Y2IyODA2Y2RjN2M3ZDE3ZDI3MzU0NmViMGUxMGViMGZiZWQ0",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Hello Rockview",
         "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 211400,
       "name": "All My Best Friends Are Metalheads",
       "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Funky Kingston",
-        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "The Best Of Us For The Rest Of Us",
         "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 199253,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "The Science of Selling Yourself Short",
+      "url": "https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7"
+        "name": "Funky Kingston",
+        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
       },
       "artists": [
         {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
         }
       ],
-      "duration_ms": 186266,
-      "name": "The Science of Selling Yourself Short",
-      "url": "https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ"
+      "duration_ms": 295666,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Never Look Back",
         "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Ska and Rocksteady Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
       },
       "artists": [
         {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
         }
       ],
-      "duration_ms": 159381,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -855,6 +839,22 @@
       "duration_ms": 121666,
       "name": "Road Rash",
       "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Ska and Rocksteady Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "duration_ms": 159381,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "180 Degrees",
+      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 188640,
       "name": "Break The Glass",
       "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "180 Degrees",
-      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "In Black And White",
-        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 137960,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Honey I'm Homely",
         "url": "https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "In Black And White",
+        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
@@ -1195,38 +1195,6 @@
       "duration_ms": 180066,
       "name": "House Of Fun",
       "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 185088,
-      "name": "Enjoy Yourself",
-      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "South Somewhere Else",
-        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
-      },
-      "artists": [
-        {
-          "name": "Nana Grizol",
-          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
-        }
-      ],
-      "duration_ms": 95500,
-      "name": "Future Version",
-      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1263,6 +1231,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Wasted Days",
-        "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
+        "name": "South Somewhere Else",
+        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
       },
       "artists": [
         {
-          "name": "The Slackers",
-          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
+          "name": "Nana Grizol",
+          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
         }
       ],
-      "duration_ms": 248413,
-      "name": "Wasted Days",
-      "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
+      "duration_ms": 95500,
+      "name": "Future Version",
+      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 206523,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Wasted Days",
+        "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
+      },
+      "artists": [
+        {
+          "name": "The Slackers",
+          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Wasted Days",
+      "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
-      },
-      "artists": [
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 216900,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Gemini, Her Majesty",
         "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "The Toasters: 30th Anniversary",
-        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
       },
       "artists": [
         {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
         }
       ],
-      "duration_ms": 197040,
-      "name": "2Tone Army",
-      "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+      "duration_ms": 216900,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1563,6 +1547,22 @@
       "duration_ms": 274250,
       "name": "I Bet They're Asleep In New York",
       "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "The Toasters: 30th Anniversary",
+        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "2Tone Army",
+      "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
     },
     {
       "added_at": "2023-07-28 06:00:00",

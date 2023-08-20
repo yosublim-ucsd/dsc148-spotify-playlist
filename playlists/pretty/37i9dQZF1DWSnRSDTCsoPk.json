@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 589036,
+  "num_followers": 589436,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzZiZTU0YzQ5MjQzMDRjNDk4ZDU5N2M1YjA2ZjNkNzAyNGRhMDAx",
+  "snapshot_id": "MCwwMDgzZTk2NGNmNDg5ZTFjODMxNzM0MDllMjRlNTViNjU1YjUzYzcy",
   "tracks": [
     {
       "added_at": "2023-08-09 05:33:20",
@@ -627,6 +627,26 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "duration_ms": 174646,
+      "name": "That That (prod. & feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 200306,
       "name": "Love Shot",
       "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
-        }
-      ],
-      "duration_ms": 174646,
-      "name": "That That (prod. & feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Pretty Savage",
+      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Pretty Savage",
-      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "HARD - The 8th Album",
-        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "HARD",
-      "url": "https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "A Midsummer NMIXX\u2019s Dream",
         "url": "https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 183546,
       "name": "Party O'Clock",
       "url": "https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "HARD",
+      "url": "https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
+        "name": "I Am The Best",
+        "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 208730,
+      "name": "I Am The Best",
+      "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "PANDORA'S BOX",
-        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
-      },
-      "artists": [
-        {
-          "name": "MAVE:",
-          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "PANDORA",
-      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1251,34 +1251,18 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "I Am The Best",
-        "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
+        "name": "PANDORA'S BOX",
+        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
       },
       "artists": [
         {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+          "name": "MAVE:",
+          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
         }
       ],
-      "duration_ms": 208730,
-      "name": "I Am The Best",
-      "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 184117,
-      "name": "JIKJIN",
-      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
+      "duration_ms": 196826,
+      "name": "PANDORA",
+      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1299,6 +1283,22 @@
       "duration_ms": 204991,
       "name": "MOMMAE",
       "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 184117,
+      "name": "JIKJIN",
+      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 170805,
-      "name": "Blessed-Cursed",
-      "url": "https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "THE WORLD EP.1 : MOVEMENT",
         "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 170805,
+      "name": "Blessed-Cursed",
+      "url": "https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "Twicetagram",
         "url": "https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 207813,
       "name": "Likey",
       "url": "https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 181432,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
       "added_at": "2023-08-09 05:33:20",

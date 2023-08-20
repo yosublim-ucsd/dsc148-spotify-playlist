@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 258048,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
+    },
+    {
+      "album": {
         "name": "No Te Apartes De M\u00ed",
         "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
       },
@@ -732,7 +750,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 208902,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"

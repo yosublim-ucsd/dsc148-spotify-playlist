@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 131558,
       "name": "9 bis 9",
       "url": "https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8"
@@ -6430,7 +6430,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -7730,6 +7730,28 @@
       "duration_ms": 154955,
       "name": "Connexion",
       "url": "https://open.spotify.com/track/3OiVezwUqRu6R5byvFV6qA"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/28HuskBhTDgNdZMzbWOOwG"
+      },
+      "artists": [
+        {
+          "name": "Instant Cult",
+          "url": "https://open.spotify.com/artist/3KR6dBEcQOUgPLXOlQywYT"
+        },
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2qCX72yNuIAJAHhhctvlky"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/30AOgA7I2O46bc9AEDl5P8"
     },
     {
       "album": {
@@ -19613,6 +19635,24 @@
     },
     {
       "album": {
+        "name": "Liquor Store",
+        "url": "https://open.spotify.com/album/3VB6IOnqQVWvQlDf2IMqaC"
+      },
+      "artists": [
+        {
+          "name": "EAZ",
+          "url": "https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179326,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/4GqzVCIrLyuqTb9LLsjsYD"
+    },
+    {
+      "album": {
         "name": "Lejla",
         "url": "https://open.spotify.com/album/53x7B8BDvMkahv2DdP9jaC"
       },
@@ -22962,7 +23002,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 141026,
       "name": "mietfrei",
       "url": "https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq"
@@ -24410,7 +24450,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
@@ -28419,6 +28459,24 @@
     },
     {
       "album": {
+        "name": "Pse",
+        "url": "https://open.spotify.com/album/7p4AEWKPGmkwHyKxqtQ2zl"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Pse",
+      "url": "https://open.spotify.com/track/3r7sw5soVrbMM5jX6ScvYX"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -29186,7 +29244,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 194285,
       "name": "Really Hot",
       "url": "https://open.spotify.com/track/1N8FYci1cFOIPaLRN8jQA0"
@@ -29280,7 +29338,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 152195,
       "name": "Reminds Me Of You",
       "url": "https://open.spotify.com/track/762jSO6S09ufQ5ZfD6JmDk"
@@ -30102,7 +30160,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
@@ -30698,6 +30756,28 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "album": {
+        "name": "Schei\u00df auf eure Party 2.0",
+        "url": "https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte"
+      },
+      "artists": [
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149458,
+      "name": "Schei\u00df auf eure Party 2.0",
+      "url": "https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz"
     },
     {
       "album": {
@@ -31540,7 +31620,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 171428,
       "name": "SI MUA",
       "url": "https://open.spotify.com/track/0kxmrAmFaEI0lQ8MZ6nXGM"
@@ -32142,7 +32222,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -34300,6 +34380,28 @@
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "album": {
+        "name": "Theater\u2605",
+        "url": "https://open.spotify.com/album/2VqZQpC4erfX9dNVkE5AZS"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155670,
+      "name": "Theater\u2605",
+      "url": "https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw"
     },
     {
       "album": {

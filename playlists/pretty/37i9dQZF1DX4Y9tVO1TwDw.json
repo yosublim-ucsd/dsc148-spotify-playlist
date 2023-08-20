@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: DannyLux",
-  "num_followers": 162,
+  "num_followers": 185,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODhmMzE0N2UwNjNkZDJiN2UwYWEzZGYwMjU4YWFmNWVhNjY2Mzcx",
+  "snapshot_id": "MCw2NGVkYzUzNDUwOTIxZDY5MTAyZmRjOTQzOWNmYmQzNTQ1YzBjODg1",
   "tracks": [
     {
       "added_at": "2023-08-18 20:32:46",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-08-18 20:32:46",
       "album": {
+        "name": "Dreaming Lucid",
+        "url": "https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 138223,
+      "name": "A letter to my younger self",
+      "url": "https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB"
+    },
+    {
+      "added_at": "2023-08-18 20:32:46",
+      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2023-08-18 20:32:46",
       "album": {
-        "name": "Dreaming Lucid",
-        "url": "https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O"
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
       "artists": [
         {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 138223,
-      "name": "A letter to my younger self",
-      "url": "https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB"
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
       "added_at": "2023-08-18 20:32:46",
@@ -559,22 +575,6 @@
     {
       "added_at": "2023-08-18 20:32:46",
       "album": {
-        "name": "Solo Tu",
-        "url": "https://open.spotify.com/album/67LhYiGtxWU8v9cWeN6bwR"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Solo Tu",
-      "url": "https://open.spotify.com/track/2DXJ3zARm8DQCYYIRA1BEM"
-    },
-    {
-      "added_at": "2023-08-18 20:32:46",
-      "album": {
         "name": "Mi Estilo",
         "url": "https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 166500,
       "name": "Menciones",
       "url": "https://open.spotify.com/track/7ydgxBTlslEdoPxB0vElCd"
+    },
+    {
+      "added_at": "2023-08-18 20:32:46",
+      "album": {
+        "name": "Solo Tu",
+        "url": "https://open.spotify.com/album/67LhYiGtxWU8v9cWeN6bwR"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/2DXJ3zARm8DQCYYIRA1BEM"
     },
     {
       "added_at": "2023-08-18 20:32:46",
@@ -847,22 +863,6 @@
       "duration_ms": 204000,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/07Q87LERyXdyuVN38bdbjg"
-    },
-    {
-      "added_at": "2023-08-18 20:32:46",
-      "album": {
-        "name": "Surrounds Me",
-        "url": "https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD"
-      },
-      "artists": [
-        {
-          "name": "Danny Bonilla",
-          "url": "https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Surrounds Me",
-      "url": "https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n"
     }
   ],
   "unique_name": "Hyphenated",

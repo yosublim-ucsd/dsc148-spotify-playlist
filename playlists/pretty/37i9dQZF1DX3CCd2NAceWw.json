@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/taylorrooks/\">Taylor Rooks</a> ",
-  "num_followers": 34,
+  "num_followers": 36,
   "original_name": "Taylor Rook's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTA4NTFkNzUyYTgzM2ZhODg5Y2QyZmM2ZDZjMjFmYmE3NDE0MDY3",
+  "snapshot_id": "MCxmZWRkNjg0OGQ3MmJmMGRkOWFiNTE1YjM3OGU3ODNiZmVkNzMxOWMy",
   "tracks": [
     {
       "added_at": "2023-08-01 18:49:51",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2023-08-01 18:49:51",
+      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 147666,
       "name": "To Summer, From Cole - Audio Hug",
       "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
-    },
-    {
-      "added_at": "2023-08-01 18:49:51",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2023-08-01 18:49:51",
@@ -287,22 +287,18 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
       },
       "artists": [
         {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 137579,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
     },
     {
       "added_at": "2023-08-01 18:49:51",
@@ -323,34 +319,22 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
-    },
-    {
-      "added_at": "2023-08-01 18:49:51",
-      "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 118796,
-      "name": "Is That Ight?",
-      "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
       "added_at": "2023-08-01 18:49:51",
@@ -371,6 +355,22 @@
       "duration_ms": 199426,
       "name": "Far Away (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/14qNHvX8h6HoynFuV0RxWS"
+    },
+    {
+      "added_at": "2023-08-01 18:49:51",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 118796,
+      "name": "Is That Ight?",
+      "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
     },
     {
       "added_at": "2023-08-01 18:49:51",

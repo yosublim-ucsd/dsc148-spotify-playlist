@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -656,7 +656,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 209826,
       "name": "Adieu vous di, tres doulce compaynie",
       "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 232226,
       "name": "Baros, de mon dan covit",
       "url": "https://open.spotify.com/track/1U3otmteHYCdAG6uypylkA"
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 214066,
       "name": "Be-m pac d'ivern e d'estiu",
       "url": "https://open.spotify.com/track/6q4HfPcuMBLVU5LehISylM"
@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 258560,
       "name": "Cl\u00e9reau: Les Odes de Pierre de Ronsard \u00e0 3 parties: No. 9, La lune est coustumiere De naistre tous les mois",
       "url": "https://open.spotify.com/track/3UHF9CPqE7Y2PGaGGGIANc"
@@ -4918,7 +4918,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 181973,
       "name": "Congaudeat Turba Fidelium: Trope de Benedicamus",
       "url": "https://open.spotify.com/track/09nkDpQeRx4OYmHrVADuo7"
@@ -5154,7 +5154,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 185133,
       "name": "Da Perugia: La greygnour bien",
       "url": "https://open.spotify.com/track/0cxbQqHg35BQ0X7lVOhkfE"
@@ -6094,7 +6094,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 224364,
       "name": "Dolce fortuna",
       "url": "https://open.spotify.com/track/5T8LknaA1taIpevLAYsUhL"
@@ -7232,7 +7232,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 224933,
       "name": "Favus Distillans Ursula Virgo: R\u00e9pons",
       "url": "https://open.spotify.com/track/3tTuC8wdEZ00Pto1UxbbgN"
@@ -7829,6 +7829,32 @@
     },
     {
       "album": {
+        "name": "Regina Pretiosa: Una Celebrazione Mariana del Trecento Fiorentino",
+        "url": "https://open.spotify.com/album/0dHxXDSu8y8eaa3rRDO1ww"
+      },
+      "artists": [
+        {
+          "name": "Gherardello da Firenze",
+          "url": "https://open.spotify.com/artist/3Ei7qcsfsLzQ5B3rG9CSPu"
+        },
+        {
+          "name": "Homme Arme, L'",
+          "url": "https://open.spotify.com/artist/6fUIE4qsEW8VbAp8830pDh"
+        },
+        {
+          "name": "Fabio Lombardo",
+          "url": "https://open.spotify.com/artist/6e2EG36jkK3T3YSo0IHRNs"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252346,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/6TAXFsnZRyGChrRiDXb3R2"
+    },
+    {
+      "album": {
         "name": "Echoes of an Old Hall",
         "url": "https://open.spotify.com/album/0jZlK9XM9wbBI6bFIl0Tfd"
       },
@@ -8060,7 +8086,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 365226,
       "name": "Helas piti\u00e9 envers moy dort si fort",
       "url": "https://open.spotify.com/track/10wxPwzGtW6G35gMgY9TWi"
@@ -9130,7 +9156,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 269226,
       "name": "Io son s\u00ed vaga della mia bellezza",
       "url": "https://open.spotify.com/track/5nPSIByLch1Z5WVYMGhX9W"
@@ -10802,7 +10828,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 263813,
       "name": "Lamento du Val fourni",
       "url": "https://open.spotify.com/track/24p8WaY0k1soeNrjurAUpf"
@@ -11308,7 +11334,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 228493,
       "name": "Le Jeune: Le Printemps: No. 1, Revecy venir du Printans",
       "url": "https://open.spotify.com/track/3Cl0tyeqMCsKDWDn5pRuEZ"
@@ -11564,7 +11590,7 @@
       ],
       "date_added": "2020-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 377555,
       "name": "Lo clar temps",
       "url": "https://open.spotify.com/track/6Fq3R9Kv0pavfOqfA9pSuq"
@@ -11930,7 +11956,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 225640,
       "name": "Mayenzeit one Neidt",
       "url": "https://open.spotify.com/track/6iMWiImwzpVNkeCFhjaZgR"
@@ -12244,7 +12270,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 724173,
       "name": "Mevlana",
       "url": "https://open.spotify.com/track/6UakGxhmXoj7mjMGF8LgBg"
@@ -12960,7 +12986,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 330973,
       "name": "Musique profane: I. Una panthera in compagnia di marte",
       "url": "https://open.spotify.com/track/6WG5bLKCHkQQv8LjHDJYO3"
@@ -13336,7 +13362,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 501840,
       "name": "Non puesc sofrir (Bornelh) - Contrafactum: Ar me puesc (Cardenal)",
       "url": "https://open.spotify.com/track/4snCx4JKm4l4ougpvJCqmC"
@@ -14514,7 +14540,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 241840,
       "name": "Ow\u00ea dirre n\u00f4t!",
       "url": "https://open.spotify.com/track/7M6q0jtU96kKmXPUoC2DG2"
@@ -15576,7 +15602,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 600373,
       "name": "Pres du soloil deduissant s\u2019esbanoye",
       "url": "https://open.spotify.com/track/63BgaB61VpsJDbhEjLbONE"
@@ -16562,7 +16588,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 545029,
       "name": "Requiem: Offertoire \"Domine, Jesu Christe\"",
       "url": "https://open.spotify.com/track/0XIkNh31ABlbtO3V3nnH6C"
@@ -16658,7 +16684,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 192440,
       "name": "Robins m\u00b4aime - Jeu de Robin et Marion",
       "url": "https://open.spotify.com/track/3UO8RwcMFCp70lbqKOyX70"
@@ -18176,7 +18202,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 255066,
       "name": "Trai-ri deluriau, Robin m'aime",
       "url": "https://open.spotify.com/track/6ajlhguNohurx8cV1HYlvZ"
@@ -18740,7 +18766,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 197693,
       "name": "Ve mundo",
       "url": "https://open.spotify.com/track/5AY9Ki94Or7KNPUZjy8Ocs"

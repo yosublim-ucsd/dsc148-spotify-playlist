@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Etta Marcus
 
-467 songs - 1 day 2 hr 12 min
+470 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 | 2022-04-01 | 2022-09-23 |
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-01 | 2022-07-29 |
 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 | 2022-03-10 | 2022-09-23 |
-| [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 | 2022-10-21 |  |
+| [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 | 2022-10-21 | 2023-08-20 |
 | [anyway](https://open.spotify.com/track/3egmebMbMAFYAjCw8gV8SW) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [anyway](https://open.spotify.com/album/5TaH4wLzrMgEhd1KMcXiwE) | 3:36 | 2021-06-25 | 2022-03-11 |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/1cRk9clJhi67mcfTxNfnjU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [It Took A Lot To Get To This](https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ) | 4:07 | 2022-09-01 | 2022-10-14 |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-08-18 | 2022-09-04 |
@@ -75,7 +75,7 @@
 | [Break Right In](https://open.spotify.com/track/5CGI3BH6qXG6tSRwq6E8IQ) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Break Right In](https://open.spotify.com/album/6vyfTT54LDqMiX8BoakH0k) | 3:17 | 2022-01-17 | 2022-07-29 |
 | [Break Right In](https://open.spotify.com/track/6uUIfHixhGAsm3PcMOmv1Q) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [A Passionate Life](https://open.spotify.com/album/6xfTNIzi9KL3Lxzz6jbzSp) | 3:17 | 2022-04-01 | 2022-08-19 |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 |  |
-| [Can't Do Anything](https://open.spotify.com/track/0XhYsNRgZkCDmvdKS5pd5k) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Can't Do Anything](https://open.spotify.com/album/64S1U9gVicwqHcggv5oZJx) | 2:44 | 2023-07-21 |  |
+| [Can't Do Anything](https://open.spotify.com/track/0XhYsNRgZkCDmvdKS5pd5k) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Can't Do Anything](https://open.spotify.com/album/64S1U9gVicwqHcggv5oZJx) | 2:44 | 2023-07-21 | 2023-08-20 |
 | [Can't Get In](https://open.spotify.com/track/0RTuA2AWVjFw0MURes4kse) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Can't Get In](https://open.spotify.com/album/13Ww6VJNr0lIkBQ2KAgpqB) | 2:41 | 2022-10-13 | 2023-07-22 |
 | [Can't Get In](https://open.spotify.com/track/3WvkThjf7gG0VAKAJqtSd7) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Can't Get In](https://open.spotify.com/album/0suGkSaH3iTAGptBvRrjAU) | 2:41 | 2022-09-29 | 2022-11-09 |
 | [Carolina Reaper](https://open.spotify.com/track/4O717610RkQp7cpTdVfmko) | [Chilli Jesson](https://open.spotify.com/artist/0P82gDbkEJK1FBV6vKZLqc) | [Carolina Reaper](https://open.spotify.com/album/6kkeTinxEaRFMyVYsOItnL) | 3:38 | 2022-11-18 | 2023-07-22 |
@@ -264,6 +264,7 @@
 | [Liffey](https://open.spotify.com/track/6JWsaKAJaqznc19DLk5d00) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:19 | 2021-03-09 | 2022-01-22 |
 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 | 2022-01-17 | 2022-08-19 |
 | [Loser at Best](https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Loser at Best](https://open.spotify.com/album/5kCYiAEMWTDztfN77A7FDk) | 3:10 | 2023-05-18 | 2023-08-05 |
+| [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 | 2023-08-17 |  |
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-18 | 2022-09-09 |
 | [Love For Two](https://open.spotify.com/track/4h0yZCpf4CunKMi06y8kqZ) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Green Dream in F\#](https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq) | 2:05 | 2022-10-13 | 2023-01-14 |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-10-13 |  |
@@ -335,6 +336,7 @@
 | [Return My Head](https://open.spotify.com/track/7hbvq2vHYcYTgRs2tJgiel) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Return My Head](https://open.spotify.com/album/7268G8ZBtoLP1tU5y4FtBW) | 2:45 | 2023-01-13 | 2023-03-26 |
 | [rid of me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-09-22 | 2022-12-17 |
 | [rid of me](https://open.spotify.com/track/42rzGiopJljAAAPqS9zEnx) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS \(Deluxe Edition\)](https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP) | 3:37 | 2022-12-22 | 2023-01-19 |
+| [Right Here, For Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2023-08-17 |  |
 | [Risk to my Reward](https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Risk to my Reward](https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw) | 2:51 | 2023-02-10 | 2023-05-20 |
 | [Roadkill](https://open.spotify.com/track/5o0KFn33JBbKfoVXUkD1sd) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63) | 3:25 | 2021-06-25 | 2022-08-19 |
 | [Rockstar](https://open.spotify.com/track/0MfFiBddXSbI73TLpjjMV3) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/7A1taOMSajIBn3qCW0OYBg) | 3:09 | 2022-02-28 | 2022-08-19 |
@@ -410,6 +412,7 @@
 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-08-10 |  |
 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 | 2022-10-13 | 2023-02-04 |
 | [The Dance You Sell](https://open.spotify.com/track/3qA9TSRQp8ImNqkl6gbwer) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/5SxaGaRMHhnRdTA4YU8xrK) | 4:02 | 2022-09-29 | 2022-10-14 |
+| [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-17 |  |
 | [The Deep End](https://open.spotify.com/track/46vIG0pxtuxyLEnJgAzm3R) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Deep End](https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8) | 3:17 | 2023-05-18 | 2023-06-19 |
 | [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 | 2022-08-18 | 2022-09-26 |
 | [The Drop](https://open.spotify.com/track/3kBeOovTQnNlsRL6nxoWeD) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 2:58 | 2022-09-22 | 2022-10-13 |
@@ -437,7 +440,7 @@
 | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/track/42SeGdgNjDJxzuc9YRVOn6) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/album/764Zqu3swQwYLSLz5qftq6) | 4:30 | 2022-08-18 | 2022-11-18 |
 | [Try Try Try](https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:51 | 2022-04-01 | 2022-09-23 |
 | [TV or Not TV](https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:40 | 2021-10-29 | 2022-08-19 |
-| [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 | 2023-05-18 |  |
+| [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 | 2023-05-18 | 2023-08-20 |
 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 | 2022-02-04 | 2022-09-09 |
 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 | 2023-08-10 |  |
 | [Veronica](https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Veronica](https://open.spotify.com/album/2n1i0zYQTMmmj8b8nJpVPA) | 2:15 | 2023-01-13 | 2023-08-05 |

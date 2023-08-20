@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 17325,
+  "num_followers": 17460,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDVhYTk4OWVhNDg0ZTE2OGUzNzY2ZDQwODM3ZGI2ZjY2YjIwYmYx",
+  "snapshot_id": "MCwxMTJlYWFiYTU5NGM0ZTBlMDlmOWZhYTVhMWJkZGI5MGM3ZGMwNTlh",
   "tracks": [
     {
       "added_at": "2023-05-17 20:35:57",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0"
     },
     {
-      "added_at": "2023-07-14 16:15:11",
-      "album": {
-        "name": "Big Hammer",
-        "url": "https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 240742,
-      "name": "Big Hammer",
-      "url": "https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG"
-    },
-    {
       "added_at": "2023-05-17 20:35:57",
       "album": {
         "name": "Sparks",
@@ -643,6 +627,22 @@
       "duration_ms": 181149,
       "name": "Marijuana",
       "url": "https://open.spotify.com/track/63PEsIWyy3QgiPy4u5I9pG"
+    },
+    {
+      "added_at": "2023-07-14 16:15:11",
+      "album": {
+        "name": "Big Hammer",
+        "url": "https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 240742,
+      "name": "Big Hammer",
+      "url": "https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Want You In My Soul",
         "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 497521,
       "name": "Want You In My Soul",
       "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Yore",
-        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
-      },
-      "artists": [
-        {
-          "name": "Evenings",
-          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 217120,
       "name": "Life Round Here",
       "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Yore",
+        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
+      },
+      "artists": [
+        {
+          "name": "Evenings",
+          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "duration_ms": 345560,
+      "name": "Blind - Radio Edit",
+      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Warm Water (Snakehips Remix)",
         "url": "https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
       "artists": [
         {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 345560,
-      "name": "Blind - Radio Edit",
-      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
+      "duration_ms": 311893,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Flume: Deluxe Edition",
-        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 209376,
-      "name": "Sleepless feat. Jezzabell Doran",
-      "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Movements",
         "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 300266,
       "name": "Body Language - Interpretation",
       "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Flume: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 209376,
+      "name": "Sleepless feat. Jezzabell Doran",
+      "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
-      },
-      "artists": [
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
-        }
-      ],
-      "duration_ms": 75429,
-      "name": "Easy Fraction",
-      "url": "https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Joli Mai",
         "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 226479,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
+      },
+      "artists": [
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
+        }
+      ],
+      "duration_ms": 75429,
+      "name": "Easy Fraction",
+      "url": "https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 209573,
       "name": "obedear",
       "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Easier",
         "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 308741,
       "name": "Gimme Some",
       "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK"
       },
       "artists": [
         {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
+      "duration_ms": 312000,
+      "name": "Nothing - Original Mix",
+      "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Nothing - Original Mix",
-      "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Someday Somewhere",
         "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 196546,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "BULLETS",
-      "url": "https://open.spotify.com/track/54B9SGrQI1Yfu0vuoBZBGy"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Genesis Series",
         "url": "https://open.spotify.com/album/1X4yodq8QzdlHOf2EgwhWU"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 230720,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/1NB0VPwAw6Rx8b9qvDKB5M"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "BULLETS",
+      "url": "https://open.spotify.com/track/54B9SGrQI1Yfu0vuoBZBGy"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Multi-Love",
-        "url": "https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR"
+        "name": "Electric Lines (Bonus Edition)",
+        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
         }
       ],
-      "duration_ms": 256066,
-      "name": "Can\u2019t Keep Checking My Phone",
-      "url": "https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn"
+      "duration_ms": 239076,
+      "name": "Truth Is Light",
+      "url": "https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Electric Lines (Bonus Edition)",
-        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
+        "name": "Multi-Love",
+        "url": "https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR"
       },
       "artists": [
         {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 239076,
-      "name": "Truth Is Light",
-      "url": "https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF"
+      "duration_ms": 256066,
+      "name": "Can\u2019t Keep Checking My Phone",
+      "url": "https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn"
     },
     {
       "added_at": "2023-05-17 20:35:57",

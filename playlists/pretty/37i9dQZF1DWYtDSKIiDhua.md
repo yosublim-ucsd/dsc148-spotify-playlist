@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,838 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,888 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [Venus](https://open.spotify.com/track/7id0zfnNZdDIq3dQRCrSDJ) | [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG) | [Venus](https://open.spotify.com/album/2KusxJLjxuaiIwK47i4IqJ) | 1:55 |
 | 85 | [TO YOU](https://open.spotify.com/track/1wuGvgHmbDgBHKASwgJqPK) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [TO YOU](https://open.spotify.com/album/33c4mtFY9EXLNkQGRiAAic) | 2:36 |
 
-Snapshot ID: `MCw5OTQ2MGMyMTY5YjAyZWIzMTRiNmJiM2IzMDZiNWVjZGYxNWRmMzJm`
+Snapshot ID: `MCwxNWI3ZmZhZDdlYjhmMzEyZTkxZDM0OTMwYTNkMDkxZjRiOWY5ZWUy`

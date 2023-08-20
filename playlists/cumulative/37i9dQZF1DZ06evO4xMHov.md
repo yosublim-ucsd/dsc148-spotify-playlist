@@ -4,7 +4,7 @@
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-51 songs - 5 hr 53 min
+52 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Dependo de Ti \(feat\. Nívea Soares\)](https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:39 | 2023-07-10 |  |
 | [Deus do Impossível, YAHWEH \- Ao Vivo](https://open.spotify.com/track/22xPTz1KSuxHCwIcKVmAtl) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Deus do Impossível, YAHWEH \(Ao Vivo\)](https://open.spotify.com/album/1gWiTsl8U6Mgxm6MxVRhGh) | 5:46 | 2023-07-10 |  |
 | [Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 13:10 | 2023-07-10 |  |
-| [Emanuel](https://open.spotify.com/track/2ScEp4HglMaKLvCKaungiC) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Emanuel](https://open.spotify.com/album/1qQC3sdmgS6NUwen0kh6EN) | 6:20 | 2023-07-10 |  |
+| [Emanuel](https://open.spotify.com/track/2ScEp4HglMaKLvCKaungiC) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Emanuel](https://open.spotify.com/album/1qQC3sdmgS6NUwen0kh6EN) | 6:20 | 2023-07-10 | 2023-08-20 |
 | [Enche Este Lugar \- Ao Vivo em Curitiba](https://open.spotify.com/track/4rhzNUHKdJrPztV2edciTB) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 14:57 | 2023-07-22 |  |
 | [Este é o Som da Tua Noiva \| Eu Só Quero Te Amar](https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Este é o Som da Tua Noiva \| Eu Só Quero Te Amar](https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN) | 11:03 | 2023-07-10 |  |
 | [Eu Vou Construir](https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu Vou Construir](https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH) | 6:49 | 2023-07-10 |  |
@@ -59,5 +59,6 @@
 | [Vem \- Ao Vivo](https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vem \(Ao Vivo\)](https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms) | 9:31 | 2023-07-10 |  |
 | [Vem Outra Vez](https://open.spotify.com/track/077OxZSUz2tYD4YTWQbdoh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Vem Outra Vez](https://open.spotify.com/album/4eqhn6IGvu2iQ1CrQIHhcU) | 7:27 | 2023-07-10 |  |
 | [Venceu \- Ao Vivo](https://open.spotify.com/track/60uNbORdBL8fkHgTKqhUik) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/24CaJ8EwyWW9kEtmBfKDlg) | 5:19 | 2023-07-10 |  |
+| [Águas Vivas](https://open.spotify.com/track/1IDHsyS7G9AA3pQzV1Nzqo) | [Higor Rosa](https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Águas Vivas](https://open.spotify.com/album/1Sez3oXBENOdi0Ainef5AJ) | 7:37 | 2023-08-19 |  |
 
 \*This playlist was first scraped on 2023-07-11. Prior content cannot be recovered.

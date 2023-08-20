@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 272351,
+  "num_followers": 272603,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDIzNjNiMDIyMmY2NTNkZTg2MWIyZDYzNGVlNDFiNzFmYzdlMTQ5",
+  "snapshot_id": "MCwxYTk3ZjQzN2I3ZDgzYTkwNTNmYTBmYTExNDM0OWM4YTk3NTVhMTIy",
   "tracks": [
     {
       "added_at": "2023-05-04 21:27:18",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Music Sounds Better with You",
+        "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 198305,
+      "name": "Music Sounds Better with You",
+      "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Music Sounds Better with You",
-        "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 198305,
-      "name": "Music Sounds Better with You",
-      "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        }
-      ],
-      "duration_ms": 177498,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "If This Is House I Want My Money Back 3",
         "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "duration_ms": 177498,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE"
     },
     {
       "added_at": "2023-05-04 21:27:18",

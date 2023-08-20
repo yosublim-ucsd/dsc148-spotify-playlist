@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Kaestyle & Leriq",
-  "num_followers": 211372,
+  "num_followers": 211491,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjBiM2MxNTQ4ZDU2MGUxMmVmMGYzMmUzNTQ2NTc0MDQ3MzAyODI3",
+  "snapshot_id": "MCxkZmE1ZTljMTdhYThlOTlkMTZhYmUyY2EyYzJmOWFlM2FhODk2NDVm",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -859,26 +859,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "I Wish (feat. Libianca)",
-        "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
-      "duration_ms": 163813,
-      "name": "I Wish (feat. Libianca)",
-      "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
+      "duration_ms": 262973,
+      "name": "Blessed (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -915,22 +911,26 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "I Wish (feat. Libianca)",
+        "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         },
         {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 262973,
-      "name": "Blessed (feat. Damian Marley)",
-      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
+      "duration_ms": 163813,
+      "name": "I Wish (feat. Libianca)",
+      "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -947,26 +947,6 @@
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -991,6 +971,26 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 176293,
       "name": "Coming Back For You",
       "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "AWAY",
+        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "AWAY",
-        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 164571,
-      "name": "AWAY",
-      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
+      "duration_ms": 177000,
+      "name": "Fashion Killer",
+      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 165283,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Fashion Killer",
-      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Someone",
-        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 157722,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 157722,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "All Over You / Mon B\u00e9b\u00e9",
-        "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        }
-      ],
-      "duration_ms": 140246,
-      "name": "All Over You",
-      "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Folake",
         "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 168979,
       "name": "Folake",
       "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "All Over You / Mon B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "duration_ms": 140246,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Not Worthy (feat. Nonso Amadi)",
-        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 192208,
-      "name": "Not Worthy (feat. Nonso Amadi)",
-      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Relationship",
         "url": "https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 98000,
       "name": "Sempe - Acoustic",
       "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Not Worthy (feat. Nonso Amadi)",
+        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 192208,
+      "name": "Not Worthy (feat. Nonso Amadi)",
+      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
     }
   ],
   "unique_name": "Ginger Me",

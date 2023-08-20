@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-112 songs - 6 hr 37 min
+113 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [We Wish You The Merriest](https://open.spotify.com/track/64BOvPBfvWbBPIGKTFWIpG) | [John Tesh](https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r) | [Big Band Christmas](https://open.spotify.com/album/2qm9Aa5cwAnIg3KnMcDJdN) | 2:13 | 2021-11-12 |  |
 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7j1XQuI82j3ui6ERkKgwdI) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/6spVlRmap6agzx74iGSxao) | 4:38 | 2022-11-25 |  |
 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/2pPuNt9XzSz79qnrCl5hBf) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 4:09 | 2021-11-12 | 2022-07-22 |
-| [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7DESENONjlQosUbxToDKOy) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:06 | 2021-11-12 |  |
+| [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7DESENONjlQosUbxToDKOy) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:06 | 2021-11-12 | 2023-08-20 |
 | [What Child Is This](https://open.spotify.com/track/2MRpLORsZ2AwJ3nylbUM7U) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/58icpaZ35NuKczovWzvZeF) | 3:15 | 2021-11-12 | 2022-07-21 |
 | [What Child Is This?](https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 3:15 | 2021-11-12 |  |
 | [What Child Is This?](https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 4:46 | 2021-11-12 | 2023-04-21 |
@@ -120,5 +120,6 @@
 | [Winter Wonderland](https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 2:52 | 2021-11-12 | 2023-08-18 |
 | [Wonderful Christmastime](https://open.spotify.com/track/6qaVpEUBt6tLOrzZkRjhJB) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [European Quartet: A Little Christmas Music](https://open.spotify.com/album/2KxLBRm5ZqsiiTs6efbZHb) | 5:20 | 2022-11-11 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/7pDKjFyrECfNrXScLg5MM9) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [Wonderful Christmastime](https://open.spotify.com/album/3fa8tkY8qCM6rmxp4p2xUd) | 5:20 | 2022-11-11 | 2022-11-27 |
+| [You're a Mean One, Mr\. Grinch](https://open.spotify.com/track/0Fwkp0jkEylKAOo9xep0JO) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [You're a Mean One, Mr\. Grinch](https://open.spotify.com/album/4Evqychsx6JVmElWlLHkyE) | 3:58 | 2022-11-04 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

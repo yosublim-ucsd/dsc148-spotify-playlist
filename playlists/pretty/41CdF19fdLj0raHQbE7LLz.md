@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/41CdF19fdLj0raHQbE7LLz.md) - [plain]
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-[spektrelive](https://open.spotify.com/user/spektrelive) - 1,374 likes - 101 songs - 8 hr 41 min
+[spektrelive](https://open.spotify.com/user/spektrelive) - 1,372 likes - 103 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,7 @@ pretty - [cumulative](/playlists/cumulative/41CdF19fdLj0raHQbE7LLz.md) - [plain]
 | 99 | [In My Mind](https://open.spotify.com/track/6v5eh78XkjHCSkG9A9kAew) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [You Can't Control Me](https://open.spotify.com/album/4LZ4dRm9IZCYD3YlhUYckx) | 5:33 |
 | 100 | [Hope](https://open.spotify.com/track/0iiVsLzLvth1usasLqva9o) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Hope](https://open.spotify.com/album/1LFsNoA9oC2fBGa5aAxZbQ) | 6:18 |
 | 101 | [Renegade](https://open.spotify.com/track/33jUhN85Ly3yaOdSoVyp1d) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Maketech](https://open.spotify.com/artist/31jG1iSnjTnEoLgbe8uDTb) | [Renegade](https://open.spotify.com/album/7dVQk4IqAYbp15APZ5hf5v) | 3:45 |
+| 102 | [In Control](https://open.spotify.com/track/6SdZhw93QmruQx0myotn6B) | [Jo Poole](https://open.spotify.com/artist/3d8oVrrMiYpjm8iHGj7CYF) | [In Control](https://open.spotify.com/album/34ButLQg3S3CugEn6CPQ9s) | 3:48 |
+| 103 | [Come With Me](https://open.spotify.com/track/1kNsgWpbSPHtGZC5cdHm5R) | [Jo Poole](https://open.spotify.com/artist/3d8oVrrMiYpjm8iHGj7CYF) | [In Control](https://open.spotify.com/album/34ButLQg3S3CugEn6CPQ9s) | 3:28 |
 
-Snapshot ID: `MTc0MiwxNDI3ODI4YjJkMDZhMGM3YjYwMTI4NGMwYWIxNmVkZDViZWM5MmQ2`
+Snapshot ID: `MTc0NCxjMzQzMjk2MThiMzdjMjBlY2EwNjM2MjI0Njg1ZTNjZWIwNDRjOWQ0`

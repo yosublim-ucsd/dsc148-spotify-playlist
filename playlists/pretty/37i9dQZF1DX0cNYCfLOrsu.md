@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,645 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,728 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 52 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
 | 53 | [Bet Mi Money](https://open.spotify.com/track/2taU9obeNJpV0sDiiu3oNt) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Bet Mi Money \- Single](https://open.spotify.com/album/4zHe5UZXTojzY5HnDxX3XG) | 2:49 |
 | 54 | [Run Di Road](https://open.spotify.com/track/6motja4C4U6oCgtojBTyCI) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Run Di Road](https://open.spotify.com/album/0BKb9d38XK9xmTF3IOoTBc) | 2:24 |
-| 55 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
-| 56 | [Play Tune \(So so So\) \[Radio Edit\]](https://open.spotify.com/track/1MB6CjaR3z8YA3yIo4HdFv) | [Dj Coss](https://open.spotify.com/artist/4IdDstOFVfpr5iLAezYLOw), [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Play Tune \(So so So\)](https://open.spotify.com/album/4RpaPKaKYPz6FBv1a01xKn) | 2:47 |
+| 55 | [Play Tune \(So so So\) \[Radio Edit\]](https://open.spotify.com/track/1MB6CjaR3z8YA3yIo4HdFv) | [Dj Coss](https://open.spotify.com/artist/4IdDstOFVfpr5iLAezYLOw), [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Play Tune \(So so So\)](https://open.spotify.com/album/4RpaPKaKYPz6FBv1a01xKn) | 2:47 |
+| 56 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
 | 57 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
 | 58 | [Senseless](https://open.spotify.com/track/20GrAO16fXHWO241JeYKWP) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Senseless](https://open.spotify.com/album/2y6X069vn7n8YbnX8gDY4o) | 3:03 |
 | 59 | [Intercourse \(feat\. Popcaan & Mustard\)](https://open.spotify.com/track/05b94NgTfntKGZra5TMEcx) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 3:17 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 62 | [Key Fi Mi Life](https://open.spotify.com/track/1lrrO0ker7afjH7DfmFD5X) | [Vershon](https://open.spotify.com/artist/42NCKSFJsf7cFevs2BuG2g) | [Key Fi Mi Life \- Single](https://open.spotify.com/album/5BNb05N4r4LQYZ4x0m9oxA) | 3:22 |
 | 63 | [No Limit](https://open.spotify.com/track/5D8ChOpWBYGR5R1NFDhL1z) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [No Limit](https://open.spotify.com/album/48yig5ryaViHZ3Rh3itItz) | 2:38 |
 | 64 | [Nuh Reason](https://open.spotify.com/track/3AjY1Uq9a0eMmuhLzddY5G) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Preserve Mi Life](https://open.spotify.com/album/27zFlK0mhEIf4tkjbVBAMR) | 3:18 |
-| 65 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
-| 66 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 |
+| 65 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 |
+| 66 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
 | 67 | [Heels On](https://open.spotify.com/track/0NWgQIhsa5Jn9OtmMq56zm) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Heels On \- Single](https://open.spotify.com/album/32QwqUCDMihv6W0jcts4oo) | 3:50 |
 | 68 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |
 | 69 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
-| 70 | [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 |
-| 71 | [Banana](https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Banana](https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu) | 2:30 |
-| 72 | [Tek Weh Yuhself](https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [The Biggest Ragga Dancehall Anthems 2007](https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx) | 2:56 |
-| 73 | [Don Walk](https://open.spotify.com/track/72MXBT0ZqohXULxmkYVKRz) | [Rymez](https://open.spotify.com/artist/6lUWb46h9Y8H8cqpW3i0pc), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Don Walk](https://open.spotify.com/album/5YwjKEC86hGgSwR5RM77PI) | 3:28 |
-| 74 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 |
-| 75 | [Where We Come From](https://open.spotify.com/track/1UXBxulT5ezQKMk99DZ602) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Where We Come From](https://open.spotify.com/album/3iZe5yKemYO68gNG9hQ33C) | 4:02 |
+| 70 | [Tek Weh Yuhself](https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [The Biggest Ragga Dancehall Anthems 2007](https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx) | 2:56 |
+| 71 | [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 |
+| 72 | [Don Walk](https://open.spotify.com/track/72MXBT0ZqohXULxmkYVKRz) | [Rymez](https://open.spotify.com/artist/6lUWb46h9Y8H8cqpW3i0pc), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Don Walk](https://open.spotify.com/album/5YwjKEC86hGgSwR5RM77PI) | 3:28 |
+| 73 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 |
+| 74 | [Where We Come From](https://open.spotify.com/track/1UXBxulT5ezQKMk99DZ602) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Where We Come From](https://open.spotify.com/album/3iZe5yKemYO68gNG9hQ33C) | 4:02 |
+| 75 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 |
 
-Snapshot ID: `MCw3ZTI2YWFmYzA3Zjg4MjY3ZDU5MzlmMzY1ZDA2NWRiOWIxZGMyZDQw`
+Snapshot ID: `MCxhMzVhMDg4OWE4ZGIwYzVjMGNmNDg5OGQ3NzJmMWRiMzNmN2QyM2Iz`

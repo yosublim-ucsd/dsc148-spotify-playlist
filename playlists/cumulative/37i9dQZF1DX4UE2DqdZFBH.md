@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-102 songs - 8 hr 32 min
+103 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Ex\-Animo](https://open.spotify.com/track/5msnjQgoFGir5Wn9NFIMmm) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 3:24 | 2022-06-10 |  |
 | [Garden Lounge](https://open.spotify.com/track/5yYy5YAfL3KaheD5qlRAnp) | [Sharat Chandra Srivastava](https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U) | [No Passport Control](https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I) | 9:42 | 2022-06-10 |  |
 | [Govind Bolo, Shri Krishna Govind \- Instrumental](https://open.spotify.com/track/51PKSVnXdhOKA9JD1Hs2UU) | [Ramachandra Murthy](https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736), [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Divine Melodies \- The Greatest Devotional Instrumentals](https://open.spotify.com/album/2U2atbhUFumw0Q1ZIJXVMb) | 5:46 | 2022-06-10 |  |
-| [Haze](https://open.spotify.com/track/5tzJJvvmTxVf5D4hchXVu8) | [Shubh Saran](https://open.spotify.com/artist/2F9WG9ugzneeesOZfmQ18V) | [Hmayra](https://open.spotify.com/album/3ZqJ9lLpVNWNBxd3nV8TeY) | 6:04 | 2022-06-10 |  |
+| [Haze](https://open.spotify.com/track/5tzJJvvmTxVf5D4hchXVu8) | [Shubh Saran](https://open.spotify.com/artist/2F9WG9ugzneeesOZfmQ18V) | [Hmayra](https://open.spotify.com/album/3ZqJ9lLpVNWNBxd3nV8TeY) | 6:04 | 2022-06-10 | 2023-08-20 |
 | [Hey 2020](https://open.spotify.com/track/4nVNpumEiHV7TrK2Y5d04E) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Hindsight Is 2020](https://open.spotify.com/album/4JqFv2qEGyJylss14D0BYM) | 2:57 | 2022-06-10 |  |
 | [Hues \(feat\. Seb Read & Sandeep Chowta\)](https://open.spotify.com/track/0T80o0Ah5dUVZMsX710Fn0) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Seb Read](https://open.spotify.com/artist/5IdebZbdwhXbLRj9dVVPOR) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 5:43 | 2022-06-10 |  |
 | [Indian Sunrise](https://open.spotify.com/track/7MQBHGabpM1KU2ZtjCpPHb) | [Abhinav Saxena](https://open.spotify.com/artist/6DnllNEDcZEheXYPuDKM40) | [Look up and Smile](https://open.spotify.com/album/4kRz9aLUskgpbGtSwQyKyE) | 2:33 | 2022-06-10 |  |
@@ -67,6 +67,7 @@
 | [Mind In Wonderland](https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [My Journey with Ebony & Ivory](https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk) | 3:35 | 2022-06-10 |  |
 | [Moham](https://open.spotify.com/track/4PfJiqveZXLbVBFtjs0x49) | [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Moham](https://open.spotify.com/album/1UVHplxcDWk2hRZXtUJoCx) | 5:16 | 2022-06-10 |  |
 | [Mon Kharaper Bristi](https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [My Journey with Ebony & Ivory](https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk) | 3:03 | 2022-06-10 |  |
+| [Monsoon Melodies](https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU) | [Bhooshan Gogad](https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B) | [Monsoon Melodies](https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60) | 4:56 | 2023-08-19 |  |
 | [Mukti](https://open.spotify.com/track/6n5ZoPiavpCUYSl9pmDXIj) | [Madhav Gopi Nair](https://open.spotify.com/artist/40Ww8FrhtcfhUOkCZdS3W0), [Akash S Menon](https://open.spotify.com/artist/4Ymsfydwf88TZH86sHDW8D) | [Mukti](https://open.spotify.com/album/6sqUHY8P1HVLfMCLJng7tY) | 1:51 | 2022-06-10 |  |
 | [Mumtaz](https://open.spotify.com/track/2Fehmrt3lh2kBdFjRI8v3f) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Bombay Dub Orchestra](https://open.spotify.com/album/4vRhEwSJAPGam5L9qv9FAV) | 4:11 | 2022-06-10 |  |
 | [Need I Say More](https://open.spotify.com/track/5kYAOHvOI5nkG2KUsmccSr) | [Indosoul by Karthick Iyer](https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9) | [Two Sides of Karma](https://open.spotify.com/album/4WawflRDbhDVOY3H6KAWZi) | 6:20 | 2022-06-10 |  |

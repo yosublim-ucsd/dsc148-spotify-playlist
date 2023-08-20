@@ -4,7 +4,7 @@
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-86 songs - 3 hr 32 min
+87 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Fuck Euphemism](https://open.spotify.com/track/2GBrJjTBrCDY10chjDi4sJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 2:14 | 2022-10-12 |  |
 | [Getting High on the Down Low](https://open.spotify.com/track/1VYCjvOWb3Xy9CcMKLxKK1) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 1:13 | 2022-10-11 | 2022-10-13 |
 | [Green Corn](https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 1:44 | 2022-09-16 |  |
+| [Hobophobic \(Scared of Bums\)](https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Heavy Petting Zoo](https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2) | 0:48 | 2023-08-19 |  |
 | [I Am an Alcoholic](https://open.spotify.com/track/2IFrfL2yAlMpGodYe26e0M) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 2:36 | 2022-09-16 | 2022-12-04 |
 | [I Believe in Goddess](https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 1:34 | 2023-02-10 |  |
 | [I Don't Like Me Anymore](https://open.spotify.com/track/01w1IdzXfNmu033rWe4XrT) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 2:30 | 2022-09-16 |  |
@@ -67,7 +68,7 @@
 | [Please Play This Song On The Radio](https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:16 | 2022-09-16 |  |
 | [Punk Rock Cliché](https://open.spotify.com/track/4s0DdV6CwjzFaZuIVKuj9x) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk Rock Cliché](https://open.spotify.com/album/5hfLFZaRWTnYl0kcXeCSWE) | 3:22 | 2022-11-04 | 2022-12-13 |
 | [Quart In Session](https://open.spotify.com/track/35L8JI1o2llRWMuc8NK3pN) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:38 | 2022-09-16 | 2022-10-13 |
-| [See Her Pee](https://open.spotify.com/track/4civZE6DnycEynRO2VeK5u) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 0:31 | 2022-10-16 |  |
+| [See Her Pee](https://open.spotify.com/track/4civZE6DnycEynRO2VeK5u) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 0:31 | 2022-10-16 | 2023-08-20 |
 | [Seeing Double at the Triple Rock](https://open.spotify.com/track/5QegaMGMY7mORFEBngkFxy) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:09 | 2022-09-16 |  |
 | [She's Gone](https://open.spotify.com/track/4UorLuTcNNjQ67w8rFF3V8) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:56 | 2022-10-04 | 2022-10-12 |
 | [Six Years on Dope](https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 1:32 | 2022-09-16 |  |

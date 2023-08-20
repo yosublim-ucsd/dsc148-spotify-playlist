@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48933,
+      "name": "Hobophobic (Scared of Bums)",
+      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
+    },
+    {
+      "album": {
         "name": "Coaster",
         "url": "https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X"
       },
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 31573,
       "name": "See Her Pee",
       "url": "https://open.spotify.com/track/4civZE6DnycEynRO2VeK5u"

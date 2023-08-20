@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ",
-  "num_followers": 522547,
+  "num_followers": 522776,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTEyZDcxY2QyOWUzMmM4MjExMDM5YjgxODM2ZjlkM2E5MTRjZmE5",
+  "snapshot_id": "MCxhNjhiZDI2OGQ4ODk1MGZhZTg1MTRlYmZjNmJmYWI5MjYyZDk0MDc1",
   "tracks": [
     {
       "added_at": "2023-08-14 17:47:19",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "froge.mp3",
         "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Ant Pile",
-        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126233,
-      "name": "Ant Pile",
-      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Lately EP",
         "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 157303,
       "name": "Lava",
       "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Ant Pile",
+        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126233,
+      "name": "Ant Pile",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 352178,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Heaven To A Tortured Mind",
         "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 106102,
       "name": "Romanticist",
       "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 352178,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 58801,
+      "name": "60 Seconds",
+      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "Mamacita (feat. A$AP Rocky)",
         "url": "https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 185749,
       "name": "Mamacita (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 58801,
-      "name": "60 Seconds",
-      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Toronto Funhouse",
+        "url": "https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 120693,
+      "name": "Toronto Funhouse",
+      "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "Tantrum (Pace Yourself)",
         "url": "https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Toronto Funhouse",
-        "url": "https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV"
+        "name": "Just Sayin' Shit",
+        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
       },
       "artists": [
         {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+          "name": "Flower in Bloom",
+          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
         }
       ],
-      "duration_ms": 120693,
-      "name": "Toronto Funhouse",
-      "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
+      "duration_ms": 61717,
+      "name": "Just Sayin' Shit",
+      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1287,22 +1303,6 @@
       "duration_ms": 90447,
       "name": "nice",
       "url": "https://open.spotify.com/track/37EATWuDC8BUrJ2Kt2JE5Q"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Just Sayin' Shit",
-        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
-      },
-      "artists": [
-        {
-          "name": "Flower in Bloom",
-          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
-        }
-      ],
-      "duration_ms": 61717,
-      "name": "Just Sayin' Shit",
-      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Oranges",
+        "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 103688,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "Cry Alone",
         "url": "https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Oranges",
-        "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 103688,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
       },
@@ -1431,38 +1431,6 @@
       "duration_ms": 134142,
       "name": "Shimmy",
       "url": "https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 318917,
-      "name": "Dancing Elephants",
-      "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 108626,
-      "name": "No Good Reason",
-      "url": "https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1487,22 +1455,34 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "FLOOR",
-        "url": "https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
         {
-          "name": "Flozigg",
-          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
-        },
-        {
-          "name": "Icee Red",
-          "url": "https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 125688,
-      "name": "FLOOR",
-      "url": "https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9"
+      "duration_ms": 108626,
+      "name": "No Good Reason",
+      "url": "https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 318917,
+      "name": "Dancing Elephants",
+      "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1543,6 +1523,26 @@
       "duration_ms": 239624,
       "name": "michelin man",
       "url": "https://open.spotify.com/track/2bVZGuKUU6MEf45VlCLfTi"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "FLOOR",
+        "url": "https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        },
+        {
+          "name": "Icee Red",
+          "url": "https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC"
+        }
+      ],
+      "duration_ms": 125688,
+      "name": "FLOOR",
+      "url": "https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "CRYING AROUND AND IN COLOR",
         "url": "https://open.spotify.com/album/47qEHOZkmbSDXiN1oVa6UN"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 67768,
       "name": "UDANCE?",
       "url": "https://open.spotify.com/track/4S5sRziA27r5N3bi5dvMyD"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2023-08-14 17:47:19",

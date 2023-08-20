@@ -4,7 +4,7 @@
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-181 songs - 10 hr 44 min
+182 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,13 +28,14 @@
 | [BE MINE](https://open.spotify.com/track/2offXFLPgX8MdU72dXDw34) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [Paradise](https://open.spotify.com/album/4F8XrBym6NyfDnvlxI69aL) | 3:26 | 2022-04-19 | 2022-07-29 |
 | [Be Mine](https://open.spotify.com/track/3Ase3jvjv2RYIa92MMfu82) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [Over The TOP](https://open.spotify.com/album/3AnWl2Q3EXf5nomLjvYJg5) | 3:26 | 2022-04-19 |  |
 | [Be My Baby](https://open.spotify.com/track/4H3nLd4sDY2OBsugvJc0ql) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Wonder World](https://open.spotify.com/album/1vEiOIYInN3Y2LpvXTcEyK) | 3:31 | 2022-04-19 | 2023-08-07 |
+| [Be My Baby](https://open.spotify.com/track/5GCixDdpW0HcfR8ewmOOcI) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Wonder World](https://open.spotify.com/album/318RAh1OyVhnegQ7oZ8Fib) | 3:31 | 2022-04-19 |  |
 | [Beautiful](https://open.spotify.com/track/6CDtmm9IbYYKnWWRgUmVRo) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Lights Go On Again](https://open.spotify.com/album/5r0br4nupSu65kd5TzNQEe) | 3:37 | 2022-04-19 | 2023-08-09 |
 | [Beautiful Night](https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Midnight Sun](https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu) | 3:38 | 2022-04-19 |  |
 | [Beautiful Target](https://open.spotify.com/track/6sECoPPkNmP6RIzYXEhvxA) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It B1A4](https://open.spotify.com/album/4GcNaUPBrQkqgm31puP0wt) | 3:17 | 2022-04-19 |  |
 | [Because of you](https://open.spotify.com/track/53PNN2kVM1eFU8C9KRs1jT) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Because of You](https://open.spotify.com/album/5gYRiAIuyb6yFdrG5sXfLG) | 3:58 | 2022-04-19 | 2022-08-20 |
 | [Because of you](https://open.spotify.com/track/5liz7gUkM2OPy8TIDqVa1F) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Because of You](https://open.spotify.com/album/6RvFZkZDXEJjhniVyGADwI) | 4:00 | 2022-04-19 |  |
 | [Better Together](https://open.spotify.com/track/6r2RWys84mPOYBMHXbrPZN) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Digital Bounce](https://open.spotify.com/album/5WdFwkGiwtXM4DiXxl02CM) | 3:38 | 2022-04-19 | 2022-07-29 |
-| [Black & White](https://open.spotify.com/track/3fvZGpslpQexu8e8AsKgCU) | [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA) | [Black & White](https://open.spotify.com/album/0bmc5WouIbima9CO2owVnw) | 3:28 | 2022-04-19 |  |
+| [Black & White](https://open.spotify.com/track/3fvZGpslpQexu8e8AsKgCU) | [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA) | [Black & White](https://open.spotify.com/album/0bmc5WouIbima9CO2owVnw) | 3:28 | 2022-04-19 | 2023-08-20 |
 | [Break It](https://open.spotify.com/track/2lHP5YcZEazkYIfFToqoPh) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Blooming](https://open.spotify.com/album/1WrAVc79uejo170B7Zpk35) | 3:15 | 2022-04-19 | 2022-06-06 |
 | [Breath](https://open.spotify.com/track/1NaAFfXjzS6GNaMQCnGieB) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Mastermind](https://open.spotify.com/album/5PIRcYwnYYwgozWeICJYc1) | 3:31 | 2022-04-19 | 2022-07-27 |
 | [Can't Stop](https://open.spotify.com/track/2sdf2x4YLaHb1k9HtE9cBs) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Can't Stop](https://open.spotify.com/album/1FezVdVT78L4wviMeDX7tn) | 3:57 | 2022-04-19 |  |

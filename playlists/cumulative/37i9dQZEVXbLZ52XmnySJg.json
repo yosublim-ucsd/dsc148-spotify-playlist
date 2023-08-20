@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 207838,
       "name": "Aam Jahe Munde",
       "url": "https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4"
@@ -402,10 +402,36 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 214750,
       "name": "Admirin' You (feat. Preston Pablo)",
       "url": "https://open.spotify.com/track/6NJ8Z5GDoHe47R6gGX6sLq"
+    },
+    {
+      "album": {
+        "name": "Making Memories",
+        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        },
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214750,
+      "name": "Admirin' You (feat. Preston Pablo)",
+      "url": "https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe"
     },
     {
       "album": {
@@ -2960,7 +2986,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 131077,
       "name": "Daku",
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
@@ -3500,7 +3526,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 233666,
       "name": "Dil Nu",
       "url": "https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm"
@@ -11752,7 +11778,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 228855,
       "name": "Ranjha (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
@@ -13454,7 +13480,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 177391,
       "name": "Summer High",
       "url": "https://open.spotify.com/track/1aL9518P5G72N92b48tuKw"
@@ -13512,7 +13538,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 184117,
       "name": "System Pe System",
       "url": "https://open.spotify.com/track/3uzmqeJjMKb3iCfjPHGmwa"
@@ -13698,6 +13724,32 @@
       "duration_ms": 254173,
       "name": "Tera Ghata",
       "url": "https://open.spotify.com/track/0JBhoxPKHJc1ZeJrjSt0VO"
+    },
+    {
+      "album": {
+        "name": "Best of Romance: Atif Aslam & Pritam",
+        "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Alisha Chinai",
+          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299827,
+      "name": "Tera Hone Laga Hoon",
+      "url": "https://open.spotify.com/track/48Ix6ReYdJf2H4mKb3TIpj"
     },
     {
       "album": {
@@ -14468,6 +14520,28 @@
       "duration_ms": 117972,
       "name": "True Stories",
       "url": "https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z"
+    },
+    {
+      "album": {
+        "name": "Making Memories",
+        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195360,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T"
     },
     {
       "album": {

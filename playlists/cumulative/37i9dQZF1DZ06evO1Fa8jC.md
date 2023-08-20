@@ -4,7 +4,7 @@
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-79 songs - 5 hr 47 min
+80 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Si Te Da lo Mismo \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2A3mfvW9RaldwHe3yG8lIm) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:34 | 2022-10-11 | 2022-10-13 |
 | [Si Te Vas](https://open.spotify.com/track/0NbdZ9fS7saRQAyyTqBWBE) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:16 | 2022-05-25 |  |
 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 | 2022-05-25 |  |
+| [Sin Gamulán](https://open.spotify.com/track/1ccEBfPmipV4R41R6Y3ouy) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:44 | 2023-08-19 |  |
 | [Sinsemilla](https://open.spotify.com/track/3rE0BjJXdWN4XozxPptoVf) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Frecuencia Cafre](https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK) | 4:45 | 2022-06-03 |  |
 | [So Please \- Versión 25 Años](https://open.spotify.com/track/3Uqykrseya62eyLuusZsM0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:26 | 2022-07-10 | 2022-07-12 |
 | [Suena la Alarma](https://open.spotify.com/track/2Bykx7Sa2MB0JhgM1U770v) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vivo a Lo Cafre](https://open.spotify.com/album/1TvNdTWV1EhWnlOfze5taj) | 2:16 | 2022-05-25 |  |
@@ -82,7 +83,7 @@
 | [Una Perla en Mi Vida \- Versión 25 Años](https://open.spotify.com/track/3yoT4Lsk5dwmM95lAWTiWL) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:40 | 2022-05-31 |  |
 | [Velas y Sahumerios](https://open.spotify.com/track/3ANlhNoOuwdQBgh9p8GW3Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:26 | 2022-05-25 |  |
 | [Verte Bien](https://open.spotify.com/track/3UE4HKwbSFNjk3LdhJ4qhG) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 3:30 | 2022-05-25 |  |
-| [Vos sabés](https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vos Sabés](https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo) | 3:58 | 2022-05-25 |  |
+| [Vos sabés](https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vos Sabés](https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo) | 3:58 | 2022-05-25 | 2023-08-20 |
 | [Waitin en Vano](https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Quique Neira](https://open.spotify.com/artist/21R24s5D1g9dIOpYj6TacH) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 5:14 | 2022-05-25 |  |
 | [Waiting en Vano](https://open.spotify.com/track/5sAK5JZrlRF0QMY6AL0Ygl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vivo a Lo Cafre](https://open.spotify.com/album/1TvNdTWV1EhWnlOfze5taj) | 4:58 | 2022-05-25 |  |
 | [Woman](https://open.spotify.com/track/5fpFzu6nqLodx3UZbmpIFX) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:36 | 2022-10-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 299534,
+  "num_followers": 299597,
   "original_name": "Body & Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmFmNTM5ZGQ3N2Y2OTFlMTU5ZDA4NGQwMjFjZmNmODc3NmY5Mzdi",
+  "snapshot_id": "MCwwZWVjZGRmMWY0M2M3MDI0ZWUyOGQzMGYyMWUzM2I4OTJiZjE4Mjc5",
   "tracks": [
     {
       "added_at": "2023-02-21 15:51:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-02-21 15:51:11",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc"
-      },
-      "artists": [
-        {
-          "name": "Jr. Walker & The All Stars",
-          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc"
-    },
-    {
-      "added_at": "2023-02-21 15:51:11",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 128173,
       "name": "Papa's Got A Brand New Bag",
       "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
+    },
+    {
+      "added_at": "2023-02-21 15:51:11",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc"
+      },
+      "artists": [
+        {
+          "name": "Jr. Walker & The All Stars",
+          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc"
     },
     {
       "added_at": "2023-02-21 15:51:11",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-02-21 15:51:11",
       "album": {
-        "name": "Soul Manifesto: 1964-1970",
-        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
+      "duration_ms": 231044,
+      "name": "Kissing My Love",
+      "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
     }
   ],
   "unique_name": "Body & Soul",

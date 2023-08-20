@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: legallyrxx",
-  "num_followers": 65546,
+  "num_followers": 65555,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzMzMGNlMmE4MWY0OTBiY2EyZTY5NTVlMzI0MTE1MDg4ZmQ5Njhm",
+  "snapshot_id": "MCxhMTI4OTZjNDg4N2EwNzM1NjE3MDE0YjBmNDY0MDBhMTYzNTE5ZTZk",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "COLABORACIONES",
-        "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
-      },
-      "artists": [
-        {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
-        },
-        {
-          "name": "WANDA ORIGINAL",
-          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
-        }
-      ],
-      "duration_ms": 125026,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Pa\u00b4 Mi Casa",
         "url": "https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 241693,
       "name": "Pa\u00b4 Mi Casa",
       "url": "https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "COLABORACIONES",
+        "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
+      },
+      "artists": [
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "duration_ms": 125026,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "COMO TE VEO",
+        "url": "https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "COMO TE VEO",
+      "url": "https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "MAMi QU\u00c9 FUE?",
         "url": "https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 167814,
       "name": "MAMi QU\u00c9 FUE?",
       "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "COMO TE VEO",
-        "url": "https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "COMO TE VEO",
-      "url": "https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa"
     },
     {
       "added_at": "2023-06-29 22:00:00",

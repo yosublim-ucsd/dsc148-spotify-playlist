@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 134794,
+  "num_followers": 134966,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGZiMDFhNjBiZjljNjI2NjJiMGNiN2I4NDdlMTIwMGE2MTU0NDE2",
+  "snapshot_id": "MCwwOGRmMjg3Y2UxNmI5MTU3ZDRmN2M4MTJkY2E2NGIwODViYmE5ODc1",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 241097,
-      "name": "Tenderness",
-      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 241097,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "forevher",
@@ -747,6 +731,22 @@
       "duration_ms": 247346,
       "name": "religion (u can lay your hands on me)",
       "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Tears can be so soft",
-        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 311928,
-      "name": "Tears can be so soft",
-      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "My Friend Mica",
@@ -795,6 +779,22 @@
       "duration_ms": 173905,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 311928,
+      "name": "Tears can be so soft",
+      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "death proof",
-      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Set My Heart On Fire Immediately",
         "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 185826,
       "name": "Jason",
       "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "death proof",
+      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Smog",
-        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 194451,
-      "name": "Smog",
-      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "DEACON",
@@ -1055,6 +1039,22 @@
       "duration_ms": 219320,
       "name": "Fellowship",
       "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Smog",
+        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 194451,
+      "name": "Smog",
+      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
     },
     {
       "added_at": "2023-03-07 19:29:41",

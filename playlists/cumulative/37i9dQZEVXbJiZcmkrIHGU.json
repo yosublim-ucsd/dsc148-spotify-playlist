@@ -5861,6 +5861,32 @@
     },
     {
       "album": {
+        "name": "Bra Musik",
+        "url": "https://open.spotify.com/album/5wz0pT6iGjfs4RsCkzyWbU"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Ozan",
+          "url": "https://open.spotify.com/artist/6Oo895Ry8JlDgxkCnYIV0E"
+        },
+        {
+          "name": "Ilatch",
+          "url": "https://open.spotify.com/artist/3TezFTtdgpx4KvqxvQjrDz"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211711,
+      "name": "Bra Musik",
+      "url": "https://open.spotify.com/track/5pjVUG4PRdUsMN1OTkVOsk"
+    },
+    {
+      "album": {
         "name": "Bitches brauchen Rap",
         "url": "https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp"
       },
@@ -5890,7 +5916,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 131163,
       "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
       "url": "https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi"
@@ -11383,6 +11409,24 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/65fLoemRF0WKgXoKqvWmQA"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108155,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/3pbdBhVPVKpPwItqgTMbIA"
+    },
+    {
+      "album": {
         "name": "EUPHORIA",
         "url": "https://open.spotify.com/album/3lbRR6P1ii0y7Hwg4Fef77"
       },
@@ -15695,6 +15739,24 @@
     },
     {
       "album": {
+        "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
+        "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150369,
+      "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
+      "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
+    },
+    {
+      "album": {
         "name": "Bitches brauchen Rap",
         "url": "https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp"
       },
@@ -16722,7 +16784,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -22883,6 +22945,28 @@
     },
     {
       "album": {
+        "name": "Masochist",
+        "url": "https://open.spotify.com/album/46HJZ6shQu16r9w0K7tr8e"
+      },
+      "artists": [
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162495,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/2cAEOFTR4jmcrrPMUONhuu"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
@@ -23382,7 +23466,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -24222,7 +24306,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -29375,6 +29459,24 @@
     },
     {
       "album": {
+        "name": "Pse",
+        "url": "https://open.spotify.com/album/7p4AEWKPGmkwHyKxqtQ2zl"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Pse",
+      "url": "https://open.spotify.com/track/3r7sw5soVrbMM5jX6ScvYX"
+    },
+    {
+      "album": {
         "name": "Pueblo",
         "url": "https://open.spotify.com/album/1qBCVCsaRPOgqFvvpkvEGL"
       },
@@ -29492,6 +29594,32 @@
       "duration_ms": 170080,
       "name": "Push It",
       "url": "https://open.spotify.com/track/4vsDPNuvcN56CDpKKWzrkZ"
+    },
+    {
+      "album": {
+        "name": "Push Up (Pusher Babe)",
+        "url": "https://open.spotify.com/album/0ltiwZYAZlN3aY40yTLrJa"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Push Up (Pusher Babe)",
+      "url": "https://open.spotify.com/track/3vh4Xnm5Fi1lezdC1y5dZv"
     },
     {
       "album": {
@@ -31581,6 +31709,28 @@
     },
     {
       "album": {
+        "name": "Schei\u00df auf eure Party 2.0",
+        "url": "https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte"
+      },
+      "artists": [
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149458,
+      "name": "Schei\u00df auf eure Party 2.0",
+      "url": "https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz"
+    },
+    {
+      "album": {
         "name": "Schei\u00dfe baut sich nicht von alleine",
         "url": "https://open.spotify.com/album/2vZufDUhOnh2rH70ahnBSW"
       },
@@ -32646,7 +32796,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 151319,
       "name": "Sie wei\u00df (feat. Mero)",
       "url": "https://open.spotify.com/track/7DyDjhZMEIK5Ied4juTCyc"
@@ -35599,6 +35749,28 @@
     },
     {
       "album": {
+        "name": "Theater\u2605",
+        "url": "https://open.spotify.com/album/2VqZQpC4erfX9dNVkE5AZS"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155670,
+      "name": "Theater\u2605",
+      "url": "https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw"
+    },
+    {
+      "album": {
         "name": "Nightmare Before Christmas",
         "url": "https://open.spotify.com/album/2qmppQg4IgJRMFbWuwQLw7"
       },
@@ -37340,7 +37512,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
@@ -39888,7 +40060,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 165000,
       "name": "WIR BLEIBEN WACH",
       "url": "https://open.spotify.com/track/4dEpuVKrtwpLbLenXAEQa2"
@@ -40662,7 +40834,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 137837,
       "name": "Zelten auf Kies",
       "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"

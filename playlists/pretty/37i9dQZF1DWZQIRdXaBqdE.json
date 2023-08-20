@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 374206,
+  "num_followers": 374438,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWJhZjU1MWRhMmMxODhhODA0OWVkMjAwM2M1ODZkMjg2ZTQwN2U0",
+  "snapshot_id": "MCw4YmY5ZDE4Mjc2MGMxYjk1NDAwNGM5ZjQ1NjJjMmJkZGQwMjI0ODVj",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "The Essential Alabama 3.0",
-        "url": "https://open.spotify.com/album/4UUE6qWrIn7L54UZxv0DDQ"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Dixieland Delight - Single Edit",
-      "url": "https://open.spotify.com/track/6ZijsJ9Oh0xgOdY0O1xCWN"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Mama Tried/ Pride In What I Am",
         "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 134453,
       "name": "Mama Tried",
       "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "The Essential Alabama 3.0",
+        "url": "https://open.spotify.com/album/4UUE6qWrIn7L54UZxv0DDQ"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Dixieland Delight - Single Edit",
+      "url": "https://open.spotify.com/track/6ZijsJ9Oh0xgOdY0O1xCWN"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "The Best Of Sammi Smith",
-        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
-      },
-      "artists": [
-        {
-          "name": "Sammi Smith",
-          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Help Me Make It Through The Night",
-      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Back To The Barrooms",
         "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 181800,
       "name": "She's Got You - Single Version",
       "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "The Best Of Sammi Smith",
+        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
+      },
+      "artists": [
+        {
+          "name": "Sammi Smith",
+          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Help Me Make It Through The Night",
+      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Walking the Line",
         "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 286066,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N"
     },
     {
       "added_at": "2022-05-06 19:37:58",

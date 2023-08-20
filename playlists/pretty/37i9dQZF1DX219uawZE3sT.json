@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 124025,
+  "num_followers": 124145,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjk0ODQ2ZTVkNjMxMTFkNTM4ZDRiZDZlYjRiODZlODY1YzZmODVl",
+  "snapshot_id": "MCxkYjFkOTk1Y2ZjZmFjODUwYWQ3YTUyYjJmOThhNGIyZmM4ZjRlYWE1",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -279,6 +279,38 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Mis Romances",
+        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Amor (Amor, amor, amor)",
+      "url": "https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -319,22 +351,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Rom\u00e1ntico Desliz",
         "url": "https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 203906,
       "name": "La Descarada",
       "url": "https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Mis Romances",
-        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Amor (Amor, amor, amor)",
-      "url": "https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "El Amor Manda",
+        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Porque El Amor Manda",
+      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 191306,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "El Amor Manda",
-        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Porque El Amor Manda",
-      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Ni\u00f1a Amada Mia",
-        "url": "https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Ni\u00f1a Amada M\u00eda",
-      "url": "https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Viento A Favor",
         "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 197840,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Ni\u00f1a Amada Mia",
+        "url": "https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Ni\u00f1a Amada M\u00eda",
+      "url": "https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Ma\u00f1ana Es Para Siempre",
+      "url": "https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Original Masters",
         "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 236080,
       "name": "Ayer La Vi",
       "url": "https://open.spotify.com/track/2DcgfpjjP0EDY11XiBKUnX"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Ma\u00f1ana Es Para Siempre",
-      "url": "https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A"
     },
     {
       "added_at": "2022-05-06 18:32:26",

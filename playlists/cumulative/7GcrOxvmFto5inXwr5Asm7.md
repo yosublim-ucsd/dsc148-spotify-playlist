@@ -4,7 +4,7 @@
 
 > Welcome to our curated playlist of lofi beats, chillhop, and jazzhop \- the perfect background music for studying, relaxing, and sleeping\. If you&\#x27;re looking to study for hours on end, or simply need to chill and get some rest, our playlist is here to help you find your zen\. From classic to new tracks
 
-140 songs - 5 hr 15 min
+142 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Above](https://open.spotify.com/track/1BLscWIhIvXNYXpZ8fIwJR) | [Eden Ladin](https://open.spotify.com/artist/1KK4PFwYqPm4Dt9VmUT0ka), [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Above](https://open.spotify.com/album/34dc0NOBqCljU4MjaW63FH) | 2:53 | 2023-04-28 |  |
 | [Almost](https://open.spotify.com/track/49tsnQ27XoHQogtYK1umDd) | [Rugawd](https://open.spotify.com/artist/1WQu4fIxlWqP30gbyv3ALR) | [Everybody Wants to Be a Cat](https://open.spotify.com/album/6P1J8TSiR9k42W3wTpHKm4) | 1:55 | 2023-07-19 |  |
 | [among us](https://open.spotify.com/track/7cakxR5Q9TqhVL5Tv3rVfs) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [among us](https://open.spotify.com/album/6Twm4iICJzFFPuOsdWmnhu) | 2:17 | 2023-07-28 |  |
+| [Another Time](https://open.spotify.com/track/35AgISyiaKpVocnBreul7N) | [Dan Ceder](https://open.spotify.com/artist/1wpW3MXgayftZxS5ML16Kg) | [Another Time](https://open.spotify.com/album/0bO6qJccGHbc3IVhEUwYkj) | 2:13 | 2023-08-14 |  |
 | [at my place](https://open.spotify.com/track/1NMWcjywktBQa2fP5AW7BX) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [at my place](https://open.spotify.com/album/0v8QwHoXGK5gGR1MVSfFPc) | 1:50 | 2023-04-28 | 2023-07-17 |
 | [Aura](https://open.spotify.com/track/5dAPGnKs4i8M52qE5cETYq) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Aura](https://open.spotify.com/album/2qsNcHBi8s2pzyXBm6ssK4) | 2:11 | 2023-07-19 |  |
 | [Auto\- Pilot](https://open.spotify.com/track/0kqJ95cQNqDZzCS8v19BqK) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Three Of A Kind](https://open.spotify.com/album/2SKNFLIMxfS3Y9x6Zscjmx) | 2:03 | 2023-07-28 |  |
@@ -53,6 +54,7 @@
 | [Futurism](https://open.spotify.com/track/76n2793OqUOGPjYMEIvahV) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Futurism](https://open.spotify.com/album/7Lh5KuZFnyY1q0wQACL9hj) | 2:09 | 2023-07-19 |  |
 | [Halo](https://open.spotify.com/track/1mNtxaLiMO5rxrAVzqyERI) | [Tethys](https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv) | [Halo](https://open.spotify.com/album/5a4Lyd2iv4fNhkaViCPA1U) | 1:54 | 2023-07-28 |  |
 | [hanna](https://open.spotify.com/track/4zQvO9D1hfguvTDqwuiVEJ) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [hanna](https://open.spotify.com/album/24dau6DPrH3oKMA1RssGmz) | 2:08 | 2023-07-19 |  |
+| [Happy Mind](https://open.spotify.com/track/5bSKFNnt1WtiiBFTb2nj9l) | [Dan Ceder](https://open.spotify.com/artist/1wpW3MXgayftZxS5ML16Kg) | [Happy Mind](https://open.spotify.com/album/6OddcU44u9a1zEWGqV4CUn) | 2:04 | 2023-08-14 |  |
 | [hidden gardens](https://open.spotify.com/track/3qKjG9rjjsvIm8VApzgFnx) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [hidden gardens](https://open.spotify.com/album/1ZCwndFnnTmROHtC5vfrW7) | 1:30 | 2023-07-19 |  |
 | [Holiday](https://open.spotify.com/track/24UTc4qZvJ4UjqDvavcRXg) | [Dan Ceder](https://open.spotify.com/artist/1wpW3MXgayftZxS5ML16Kg) | [Holiday](https://open.spotify.com/album/2pAegSwxGxTw3PXXGb3b7H) | 2:19 | 2023-05-19 | 2023-07-29 |
 | [Hometown](https://open.spotify.com/track/2z2mwCEkYqMVwc10HGwUBY) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Hometown](https://open.spotify.com/album/2YCtXEENFVa2u1RewQbP7P) | 2:06 | 2023-06-25 | 2023-07-09 |

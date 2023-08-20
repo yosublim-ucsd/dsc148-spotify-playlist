@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 595488,
+  "num_followers": 595781,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDQwZjM5NDA3YTZjOGFmMGI2ODVhZTY3MDFlZDUxOWFhM2YxYjZm",
+  "snapshot_id": "MCwzM2ViNTQ1MmFjMGJiOTljMDY3YmQ4NjQwNGQ3NzM1YmMwNmY4NDdh",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/6klYyVkzntFBjJch93UB6y"
-      },
-      "artists": [
-        {
-          "name": "Kublai Khan TX",
-          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
-        }
-      ],
-      "duration_ms": 157770,
-      "name": "Us & Them",
-      "url": "https://open.spotify.com/track/34t86NDIJo7Q0pdqcK9SSw"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Ghost Inside",
         "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 230507,
       "name": "Pressure Point",
       "url": "https://open.spotify.com/track/1ZlOfxQ36tb3fYHU8DYbDv"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/6klYyVkzntFBjJch93UB6y"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "duration_ms": 157770,
+      "name": "Us & Them",
+      "url": "https://open.spotify.com/track/34t86NDIJo7Q0pdqcK9SSw"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Killing Season",
-        "url": "https://open.spotify.com/album/4BshWHZrni9fCgIqKOD43f"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Killing Season",
-      "url": "https://open.spotify.com/track/2p6sku9MUxNZZ2n9Fd4u69"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Hornet's Nest",
         "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 279811,
       "name": "Hornet's Nest",
       "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Killing Season",
+        "url": "https://open.spotify.com/album/4BshWHZrni9fCgIqKOD43f"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Killing Season",
+      "url": "https://open.spotify.com/track/2p6sku9MUxNZZ2n9Fd4u69"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "You Will Never Be One of Us",
-        "url": "https://open.spotify.com/album/0mcy7rGwHhNsPQTaNbvaac"
-      },
-      "artists": [
-        {
-          "name": "Nails",
-          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
-        }
-      ],
-      "duration_ms": 89867,
-      "name": "You Will Never Be One of Us",
-      "url": "https://open.spotify.com/track/3rjNoyEanqWA5znCy2rAdO"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "A New Kind of Horror",
         "url": "https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 209100,
       "name": "Forward!",
       "url": "https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "You Will Never Be One of Us",
+        "url": "https://open.spotify.com/album/0mcy7rGwHhNsPQTaNbvaac"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "duration_ms": 89867,
+      "name": "You Will Never Be One of Us",
+      "url": "https://open.spotify.com/track/3rjNoyEanqWA5znCy2rAdO"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "The Legacy of Shi",
+        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "Nekketsu",
+      "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Firsthand Accounts",
         "url": "https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 154628,
       "name": "Death Perception",
       "url": "https://open.spotify.com/track/7F9mf1qxNAU9T886jeUoUA"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "The Legacy of Shi",
-        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "Nekketsu",
-      "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tBqYNxRj9fUW6s7OuzBnz"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 239441,
-      "name": "The Death Of Us",
-      "url": "https://open.spotify.com/track/4QWm4vWg9I9kCKY5lPQh43"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Posthuman",
         "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 197879,
       "name": "Human Carrying Capacity",
       "url": "https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tBqYNxRj9fUW6s7OuzBnz"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 239441,
+      "name": "The Death Of Us",
+      "url": "https://open.spotify.com/track/4QWm4vWg9I9kCKY5lPQh43"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Dreh auf!",
-        "url": "https://open.spotify.com/album/6wfCf6I0akMdGasL0DcywD"
-      },
-      "artists": [
-        {
-          "name": "We Butter The Bread With Butter",
-          "url": "https://open.spotify.com/artist/1oA1SW4FRAis6e8krh5YAf"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "Dreh auf!",
-      "url": "https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "In The Court Of The Dragon",
         "url": "https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 309029,
       "name": "In The Court Of The Dragon",
       "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Dreh auf!",
+        "url": "https://open.spotify.com/album/6wfCf6I0akMdGasL0DcywD"
+      },
+      "artists": [
+        {
+          "name": "We Butter The Bread With Butter",
+          "url": "https://open.spotify.com/artist/1oA1SW4FRAis6e8krh5YAf"
+        }
+      ],
+      "duration_ms": 184363,
+      "name": "Dreh auf!",
+      "url": "https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "With Devils Amongst Us All",
-        "url": "https://open.spotify.com/album/4GqDYU0PYzdRm09Ndq44ZG"
-      },
-      "artists": [
-        {
-          "name": "Walls of Jericho",
-          "url": "https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "A Trigger Full Of Promises",
-      "url": "https://open.spotify.com/track/0ysRXybOUX5lvpU4RF8fHs"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Built from War",
         "url": "https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 204661,
       "name": "Built from War",
       "url": "https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "With Devils Amongst Us All",
+        "url": "https://open.spotify.com/album/4GqDYU0PYzdRm09Ndq44ZG"
+      },
+      "artists": [
+        {
+          "name": "Walls of Jericho",
+          "url": "https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "A Trigger Full Of Promises",
+      "url": "https://open.spotify.com/track/0ysRXybOUX5lvpU4RF8fHs"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Obsidian",
-        "url": "https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP"
-      },
-      "artists": [
-        {
-          "name": "Viscera",
-          "url": "https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd"
-        }
-      ],
-      "duration_ms": 291923,
-      "name": "Obsidian",
-      "url": "https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Level Above Human",
         "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 258245,
       "name": "Invidious",
       "url": "https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP"
+      },
+      "artists": [
+        {
+          "name": "Viscera",
+          "url": "https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd"
+        }
+      ],
+      "duration_ms": 291923,
+      "name": "Obsidian",
+      "url": "https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "The Preservation Of Hate",
+        "url": "https://open.spotify.com/album/5uGmDOy7SqZ1hXGyns00YN"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "The Preservation Of Hate",
+      "url": "https://open.spotify.com/track/22ukl1QrvD95MlnSSw22QS"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Rules",
         "url": "https://open.spotify.com/album/7FH1a9pkDnGALu3wUpURs3"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 282850,
       "name": "Curse Us",
       "url": "https://open.spotify.com/track/7rST24w7mbPpLXbPtJHtD4"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "The Preservation Of Hate",
-        "url": "https://open.spotify.com/album/5uGmDOy7SqZ1hXGyns00YN"
-      },
-      "artists": [
-        {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "The Preservation Of Hate",
-      "url": "https://open.spotify.com/track/22ukl1QrvD95MlnSSw22QS"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Habitual Decline",
+        "url": "https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "duration_ms": 191548,
+      "name": "Habitual Decline",
+      "url": "https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Tethra",
         "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
       },
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Habitual Decline",
-        "url": "https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE"
-      },
-      "artists": [
-        {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "Habitual Decline",
-      "url": "https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "For the Cause",
         "url": "https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 211746,
       "name": "Smile Now Pay Later",
       "url": "https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Eternal Forward Motion",
-        "url": "https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp"
-      },
-      "artists": [
-        {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Eternal Forward Motion",
-      "url": "https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1619,6 +1603,22 @@
       "duration_ms": 280683,
       "name": "Collapse",
       "url": "https://open.spotify.com/track/6aleU9GhOnPe1HG9AJatiO"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Eternal Forward Motion",
+        "url": "https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Eternal Forward Motion",
+      "url": "https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Poverty of Self",
+        "url": "https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 205669,
+      "name": "Poverty of Self",
+      "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Gaining Purpose Through Passionate Hatred",
         "url": "https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO"
       },
@@ -1883,18 +1899,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Poverty of Self",
-        "url": "https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU"
+        "name": "One Day Closer to the End of the World",
+        "url": "https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm"
       },
       "artists": [
         {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+          "name": "Cattle Decapitation",
+          "url": "https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn"
         }
       ],
-      "duration_ms": 205669,
-      "name": "Poverty of Self",
-      "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
+      "duration_ms": 227398,
+      "name": "One Day Closer to the End of the World",
+      "url": "https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1911,22 +1927,6 @@
       "duration_ms": 143493,
       "name": "Brotherhood",
       "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "One Day Closer to the End of the World",
-        "url": "https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm"
-      },
-      "artists": [
-        {
-          "name": "Cattle Decapitation",
-          "url": "https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn"
-        }
-      ],
-      "duration_ms": 227398,
-      "name": "One Day Closer to the End of the World",
-      "url": "https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP"
     },
     {
       "added_at": "2023-01-18 15:54:17",

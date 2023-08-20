@@ -1,12 +1,12 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
-  "num_followers": 2657204,
+  "num_followers": 2658009,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTZjNDMzMTljMTYzN2U1OTQ1NzdiNjkyZTkyMGJkZDM2NjVjOTI2",
+  "snapshot_id": "MCxiNWJjZDdkNjhhYWJjNmY2NmVjM2Q3OTNkZWRhMDEyMGQ3NGFhN2Zh",
   "tracks": [
     {
       "added_at": "2023-08-16 22:39:27",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-08-16 22:39:27",
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
+    },
+    {
+      "added_at": "2023-08-16 22:39:27",
+      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-08-16 22:39:27",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
-    },
-    {
-      "added_at": "2023-08-16 22:39:27",
-      "album": {
         "name": "I Hate U",
         "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 174000,
       "name": "I Hate U",
       "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2023-08-16 22:39:27",
-      "album": {
-        "name": "Kauai",
-        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
     },
     {
       "added_at": "2023-08-16 22:39:27",
@@ -703,18 +687,34 @@
     {
       "added_at": "2023-08-16 22:39:27",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+        "name": "Kauai",
+        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 199120,
-      "name": "Coaster",
-      "url": "https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt"
+      "duration_ms": 252013,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+    },
+    {
+      "added_at": "2023-08-16 22:39:27",
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": "2023-08-16 22:39:27",
@@ -731,6 +731,22 @@
       "duration_ms": 265120,
       "name": "Doing It Wrong",
       "url": "https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM"
+    },
+    {
+      "added_at": "2023-08-16 22:39:27",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "Coaster",
+      "url": "https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt"
     },
     {
       "added_at": "2023-08-16 22:39:27",
@@ -763,22 +779,6 @@
       "duration_ms": 226693,
       "name": "Missin You Crazy",
       "url": "https://open.spotify.com/track/4ve2uzqdwnHr20G5YgMMqr"
-    },
-    {
-      "added_at": "2023-08-16 22:39:27",
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": "2023-08-16 22:39:27",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-08-16 22:39:27",
       "album": {
-        "name": "Want U Around (feat. Ruel)",
-        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Want U Around (feat. Ruel)",
-      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
-    },
-    {
-      "added_at": "2023-08-16 22:39:27",
-      "album": {
         "name": "aiMless",
         "url": "https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 200214,
       "name": "Waiting For (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
+    },
+    {
+      "added_at": "2023-08-16 22:39:27",
+      "album": {
+        "name": "Want U Around (feat. Ruel)",
+        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Want U Around (feat. Ruel)",
+      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
     },
     {
       "added_at": "2023-08-16 22:39:27",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-16 22:39:27",
       "album": {
-        "name": "More Than Enough",
-        "url": "https://open.spotify.com/album/0xfm90Zo2EQ9rSECde8uOq"
-      },
-      "artists": [
-        {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
-        }
-      ],
-      "duration_ms": 151462,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/1NjQZi2ajwmJsfnimLr41I"
-    },
-    {
-      "added_at": "2023-08-16 22:39:27",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 206728,
       "name": "MUTUAL FRIEND",
       "url": "https://open.spotify.com/track/6PFyd6Gmp2LZHI1IpkZGgy"
+    },
+    {
+      "added_at": "2023-08-16 22:39:27",
+      "album": {
+        "name": "More Than Enough",
+        "url": "https://open.spotify.com/album/0xfm90Zo2EQ9rSECde8uOq"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 151462,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/1NjQZi2ajwmJsfnimLr41I"
     },
     {
       "added_at": "2023-08-16 22:39:27",

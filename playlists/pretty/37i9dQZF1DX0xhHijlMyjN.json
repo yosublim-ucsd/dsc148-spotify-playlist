@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 355826,
+  "num_followers": 355916,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTFmNDE2YTYwYWNlZjI0NDhhY2QyNjNlNDY0YTcxODhjNmVhMzRm",
+  "snapshot_id": "MCxkOWQwNWFhZTMzZmUzMmI4NWQ0M2VlOTQyNzJhOWFkMGExZTIxMDEx",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Visperas De Carnaval",
+        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
+      },
+      "artists": [
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Te Pintaron Pajaritos",
         "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 172558,
       "name": "Te Pintaron Pajaritos",
       "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Visperas De Carnaval",
-        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
-      },
-      "artists": [
-        {
-          "name": "La Mosca Tse-Tse",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 223111,
       "name": "Destination Calabria - Radio Edit",
       "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -803,22 +803,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Fast Five (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
+        "name": "Andas En Mi Cabeza",
+        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
         },
         {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 198386,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
+      "duration_ms": 247493,
+      "name": "Andas En Mi Cabeza",
+      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -839,22 +839,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Andas En Mi Cabeza",
-        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
+        "name": "Fast Five (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
       },
       "artists": [
         {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
         }
       ],
-      "duration_ms": 247493,
-      "name": "Andas En Mi Cabeza",
-      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
+      "duration_ms": 198386,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "duration_ms": 204798,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
@@ -1083,26 +1103,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
-        }
-      ],
-      "duration_ms": 204798,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "It's Pony Time/Let's Twist Again",
-        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "La Bamba / Charlena",
         "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 174186,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Let's Twist Again",
+      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "Fastlove, Pt. 1",
-      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "La Bomba",
         "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 199106,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "Fastlove, Pt. 1",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Furia Latina",
-        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Quiero tener tu presencia",
-      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 180866,
       "name": "Mi gran noche",
       "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Furia Latina",
+        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "I Was so Unpopular in School and Now They're Giving Me This Beautyful Bicycle",
-        "url": "https://open.spotify.com/album/59jGJxb4vXRCMbjqVgUI41"
-      },
-      "artists": [
-        {
-          "name": "Billie The Vision & The Dancers",
-          "url": "https://open.spotify.com/artist/5Gpi2vZtZtUPrMnlBDdpre"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Summercat",
-      "url": "https://open.spotify.com/track/1G5JaDf4CTkyoLRAO0pAYH"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "The King Is Back",
         "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 169720,
       "name": "Mal De Amores",
       "url": "https://open.spotify.com/track/2SDFbkrxwLfKg5u7fGCXmh"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "I Was so Unpopular in School and Now They're Giving Me This Beautyful Bicycle",
+        "url": "https://open.spotify.com/album/59jGJxb4vXRCMbjqVgUI41"
+      },
+      "artists": [
+        {
+          "name": "Billie The Vision & The Dancers",
+          "url": "https://open.spotify.com/artist/5Gpi2vZtZtUPrMnlBDdpre"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Summercat",
+      "url": "https://open.spotify.com/track/1G5JaDf4CTkyoLRAO0pAYH"
     },
     {
       "added_at": "2023-06-09 09:38:51",

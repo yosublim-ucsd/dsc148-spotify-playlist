@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: Asmaa lmnawar\n\n",
-  "num_followers": 10966,
+  "num_followers": 11022,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzZhMjkwYTIyODQxYjk4YTRlMmQ5YTlkOGM3YTYyYmYwYzFhM2Nm",
+  "snapshot_id": "MCxhM2MxYjdkMGZlOTRkM2RhNTU2YTdmYmNlNmU4YjY1YTFlNDY5Nzc0",
   "tracks": [
     {
       "added_at": "2023-08-17 20:10:52",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-17 20:10:52",
       "album": {
-        "name": "Tetr Mosalsal Alnoon Wama Yalamoon",
-        "url": "https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl"
-      },
-      "artists": [
-        {
-          "name": "Aseel Hameem",
-          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
-        }
-      ],
-      "duration_ms": 169172,
-      "name": "Alnoon Wama Yalamoon",
-      "url": "https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi"
-    },
-    {
-      "added_at": "2023-08-17 20:10:52",
-      "album": {
         "name": "Baadni Bhebak",
         "url": "https://open.spotify.com/album/1Zg9xXXVmJvySNnlA9DBqJ"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-08-17 20:10:52",
       "album": {
-        "name": "Nasskha Menni",
-        "url": "https://open.spotify.com/album/3ZfctpYyVO0LKI61ShOV1T"
+        "name": "Tetr Mosalsal Alnoon Wama Yalamoon",
+        "url": "https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl"
       },
       "artists": [
         {
-          "name": "Carole Samaha",
-          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
         }
       ],
-      "duration_ms": 209684,
-      "name": "Nasskha Menni",
-      "url": "https://open.spotify.com/track/6P2lURWGJdFnLDz0p1RUSS"
+      "duration_ms": 169172,
+      "name": "Alnoon Wama Yalamoon",
+      "url": "https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi"
     },
     {
       "added_at": "2023-08-17 20:10:52",
@@ -491,34 +475,18 @@
     {
       "added_at": "2023-08-17 20:10:52",
       "album": {
-        "name": "Habeetah",
-        "url": "https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I"
+        "name": "Nasskha Menni",
+        "url": "https://open.spotify.com/album/3ZfctpYyVO0LKI61ShOV1T"
       },
       "artists": [
         {
-          "name": "Zena Emad",
-          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
         }
       ],
-      "duration_ms": 260424,
-      "name": "Habeetah",
-      "url": "https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg"
-    },
-    {
-      "added_at": "2023-08-17 20:10:52",
-      "album": {
-        "name": "Setohom",
-        "url": "https://open.spotify.com/album/0FUQtskWerR5kanIdP0uG2"
-      },
-      "artists": [
-        {
-          "name": "Habiba",
-          "url": "https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG"
-        }
-      ],
-      "duration_ms": 149702,
-      "name": "Setohom",
-      "url": "https://open.spotify.com/track/3EuYY09tMEEAytakj5AXYT"
+      "duration_ms": 209684,
+      "name": "Nasskha Menni",
+      "url": "https://open.spotify.com/track/6P2lURWGJdFnLDz0p1RUSS"
     },
     {
       "added_at": "2023-08-17 20:10:52",
@@ -539,6 +507,22 @@
     {
       "added_at": "2023-08-17 20:10:52",
       "album": {
+        "name": "Habeetah",
+        "url": "https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I"
+      },
+      "artists": [
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+        }
+      ],
+      "duration_ms": 260424,
+      "name": "Habeetah",
+      "url": "https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg"
+    },
+    {
+      "added_at": "2023-08-17 20:10:52",
+      "album": {
         "name": "\u0648 \u0643\u0623\u0646\u0643 \u0633\u0643\u0631",
         "url": "https://open.spotify.com/album/1GCEK4U0hPAG4QJi9Blq4z"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 228468,
       "name": "\u0648 \u0643\u0623\u0646\u0643 \u0633\u0643\u0631",
       "url": "https://open.spotify.com/track/15h5ScWGj3I5ug5IWTMvFc"
+    },
+    {
+      "added_at": "2023-08-17 20:10:52",
+      "album": {
+        "name": "Setohom",
+        "url": "https://open.spotify.com/album/0FUQtskWerR5kanIdP0uG2"
+      },
+      "artists": [
+        {
+          "name": "Habiba",
+          "url": "https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG"
+        }
+      ],
+      "duration_ms": 149702,
+      "name": "Setohom",
+      "url": "https://open.spotify.com/track/3EuYY09tMEEAytakj5AXYT"
     },
     {
       "added_at": "2023-08-17 20:10:52",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-08-17 20:10:52",
       "album": {
+        "name": "\u0647\u0632\u0647\u0632\u0647",
+        "url": "https://open.spotify.com/album/23YwHiontIeiG7E4TPRSWd"
+      },
+      "artists": [
+        {
+          "name": "Cyrine Abdel Noor",
+          "url": "https://open.spotify.com/artist/6Dclk6RIvbl0c7U42WxehG"
+        }
+      ],
+      "duration_ms": 124946,
+      "name": "\u0647\u0632\u0647\u0632\u0647",
+      "url": "https://open.spotify.com/track/5PGD581fRybnPqDAMgAD6L"
+    },
+    {
+      "added_at": "2023-08-17 20:10:52",
+      "album": {
         "name": "Wesh Yes3edk",
         "url": "https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos"
       },
@@ -695,38 +711,6 @@
       "duration_ms": 258467,
       "name": "Wesh Yes3edk",
       "url": "https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR"
-    },
-    {
-      "added_at": "2023-08-17 20:10:52",
-      "album": {
-        "name": "Kheles El Kalam",
-        "url": "https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL"
-      },
-      "artists": [
-        {
-          "name": "Shaimaa El Maghraby",
-          "url": "https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "Kheles El Kalam",
-      "url": "https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR"
-    },
-    {
-      "added_at": "2023-08-17 20:10:52",
-      "album": {
-        "name": "Ya Lali",
-        "url": "https://open.spotify.com/album/5h91hNUsiZ9hjuU99fERoi"
-      },
-      "artists": [
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Ya Lali",
-      "url": "https://open.spotify.com/track/0yTenAHL5lYER6mzMR00Wp"
     },
     {
       "added_at": "2023-08-17 20:10:52",
@@ -747,18 +731,34 @@
     {
       "added_at": "2023-08-17 20:10:52",
       "album": {
-        "name": "\u0647\u0632\u0647\u0632\u0647",
-        "url": "https://open.spotify.com/album/23YwHiontIeiG7E4TPRSWd"
+        "name": "Ya Lali",
+        "url": "https://open.spotify.com/album/5h91hNUsiZ9hjuU99fERoi"
       },
       "artists": [
         {
-          "name": "Cyrine Abdel Noor",
-          "url": "https://open.spotify.com/artist/6Dclk6RIvbl0c7U42WxehG"
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
         }
       ],
-      "duration_ms": 124946,
-      "name": "\u0647\u0632\u0647\u0632\u0647",
-      "url": "https://open.spotify.com/track/5PGD581fRybnPqDAMgAD6L"
+      "duration_ms": 156000,
+      "name": "Ya Lali",
+      "url": "https://open.spotify.com/track/0yTenAHL5lYER6mzMR00Wp"
+    },
+    {
+      "added_at": "2023-08-17 20:10:52",
+      "album": {
+        "name": "Kheles El Kalam",
+        "url": "https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL"
+      },
+      "artists": [
+        {
+          "name": "Shaimaa El Maghraby",
+          "url": "https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "Kheles El Kalam",
+      "url": "https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR"
     },
     {
       "added_at": "2023-08-17 20:10:52",

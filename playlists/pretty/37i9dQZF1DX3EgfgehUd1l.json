@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 153256,
+  "num_followers": 153281,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2FkOTkzNjYzMjBkZDA5NTFjYzk1OTRlZTMwMDkwNWQzM2U5MzE3",
+  "snapshot_id": "MCw5ZWE5MjE1MTVlZjAxMDg2MWMzODZiZGFkYTM0OWNiOTY0NDFmNDE2",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -467,6 +467,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Greatest Hits: Walking To New Orleans",
+        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 143440,
+      "name": "Blueberry Hill - Remastered 2002",
+      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -487,38 +503,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Greatest Hits: Walking To New Orleans",
-        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 143440,
-      "name": "Blueberry Hill - Remastered 2002",
-      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "It\u2019s All In The Game",
-        "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
-      },
-      "artists": [
-        {
-          "name": "Tommy Edwards",
-          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "It's All In The Game",
-      "url": "https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "The Best Of Frankie Lymon & The Teenagers",
         "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 139666,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "It\u2019s All In The Game",
+        "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
+      },
+      "artists": [
+        {
+          "name": "Tommy Edwards",
+          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Romance: Songs From The Heart",
-        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Dance To The Bop",
         "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 123346,
       "name": "It Doesn't Matter Anymore",
       "url": "https://open.spotify.com/track/38s1KAGSzopcquTCeN6jnj"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Romance: Songs From The Heart",
+        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172546,
+      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 119986,
-      "name": "I'm In Love Again",
-      "url": "https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Sinatra 80th: All The Best",
         "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 158760,
       "name": "Love And Marriage",
       "url": "https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 119986,
+      "name": "I'm In Love Again",
+      "url": "https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -827,22 +827,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
-        "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Grace Kelly",
-          "url": "https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 185051,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
+      "duration_ms": 225426,
+      "name": "Three Coins In The Fountain",
+      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -871,18 +867,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+        "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
+        "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji"
         }
       ],
-      "duration_ms": 225426,
-      "name": "Three Coins In The Fountain",
-      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
+      "duration_ms": 185051,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -947,6 +947,22 @@
       "duration_ms": 201453,
       "name": "Island In The Sun",
       "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Frankie Laine's Greatest Hits",
         "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 187586,
       "name": "Stranger in Paradise",
       "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Learnin' The Blues",
+      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+        "name": "The Legendary Masters Series (Volume 1)",
+        "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 181906,
-      "name": "Learnin' The Blues",
-      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+      "duration_ms": 153666,
+      "name": "Poor Little Fool",
+      "url": "https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1187,22 +1203,6 @@
       "duration_ms": 179146,
       "name": "Little Things Mean a Lot",
       "url": "https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Legendary Masters Series (Volume 1)",
-        "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Poor Little Fool",
-      "url": "https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ"
     },
     {
       "added_at": "2020-07-08 17:36:08",

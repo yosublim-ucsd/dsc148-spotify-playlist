@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Bayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,359 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,430 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 12 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 |
 | 13 | [Seventeenth](https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe) | [Seventeenth](https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg) | 3:51 |
 | 14 | [Good Girl](https://open.spotify.com/track/6kNSoY1EvwNK1O9jBj5KTd) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Good Girl](https://open.spotify.com/album/5tZWQSuWSeW96L59PCll80) | 3:02 |
-| 15 | [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 |
+| 15 | [Watch Me](https://open.spotify.com/track/2MrJjA7IsGMImbA6qwhCiW) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [Watch Me](https://open.spotify.com/album/0ENzBRcf1PtiP8sl1Nsnxy) | 2:35 |
 | 16 | [Can't Keep Up](https://open.spotify.com/track/1qoDPqAfOGz0STUUN8G2IO) | [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Can't Keep Up](https://open.spotify.com/album/4Mf12pqdYijMWkerNxZZRk) | 3:34 |
 | 17 | [ELEPHANT in the room](https://open.spotify.com/track/6ZyM3trBytgnYgRfh2stYu) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [ELEPHANT in the room](https://open.spotify.com/album/3t98yciKCkgEvjLYwtrNPg) | 2:54 |
 | 18 | [Nasty Remix ft Saint Levant](https://open.spotify.com/track/6ONNprntoihbrQMFkNUPlO) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nasty Remix ft Saint Levant](https://open.spotify.com/album/0RtZh2OWBGwidoGGZ221GM) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 |
 | 50 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
 
-Snapshot ID: `MCw5Y2NhYmJlYzkzNzU4MzI3YjJiMTQ2Yzk3ODhlMDdkOTExYzFiNWQ0`
+Snapshot ID: `MCwzMzM5ZDQ5MmNlZDU1ODE5NjU4Njc1YzRmNGQ4MWY5ZGNmMjFmOGI2`

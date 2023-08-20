@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 42817,
+  "num_followers": 42849,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTc0ZmE1ZmVmNjE4NDhkNjdmNDk0MmViMThhZDc2NDk3MDM2MjIx",
+  "snapshot_id": "MCw2ZWMzYzY3MjNhOWNjMjU0N2JkNTRhY2RjY2YxZmExZmNhNWNiMmY4",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+      },
+      "artists": [
+        {
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+        }
+      ],
+      "duration_ms": 144166,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 190706,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
-      },
-      "artists": [
-        {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
-        }
-      ],
-      "duration_ms": 144166,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
+      },
+      "artists": [
+        {
+          "name": "Vernon Dilworth",
+          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
+      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 286893,
       "name": "Rhythm In The Barnyard",
       "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Shorty",
-        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
-      },
-      "artists": [
-        {
-          "name": "Vernon Dilworth",
-          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
-      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
     },
     {
       "added_at": "2022-03-28 19:44:25",

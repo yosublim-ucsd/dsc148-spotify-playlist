@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 67787,
+  "num_followers": 67798,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTkwMTQyYzc1MzY1MjI0NDM1MWExMjlmODE0ZDBkOGQwZDljZTAx",
+  "snapshot_id": "MCw5NGZlOTQxNzBkZWYzYzU3ODhiMzc5ZjM2MzFjMTI1Mjc2MWM3MjYy",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Kalibreraren",
-        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
-      },
-      "artists": [
-        {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        }
-      ],
-      "duration_ms": 194988,
-      "name": "Spontanitet",
-      "url": "https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
         "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
       },
@@ -423,6 +407,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Kalibreraren",
+        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
+      },
+      "artists": [
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        }
+      ],
+      "duration_ms": 194988,
+      "name": "Spontanitet",
+      "url": "https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Dancehall",
         "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
       },
@@ -435,54 +435,6 @@
       "duration_ms": 198805,
       "name": "Som Bob Marley",
       "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Som Salomos S\u00e5ng",
-        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Bonus P\u00e5 Kortet",
-      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Blacka Rasta",
-        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Sm\u00e5 svarta \u00e4nglar",
-      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Tippa p\u00e5 t\u00e5",
-        "url": "https://open.spotify.com/album/5JgVSX1xqeYviplcfs3qfu"
-      },
-      "artists": [
-        {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Tippa p\u00e5 t\u00e5",
-      "url": "https://open.spotify.com/track/1PKRouxQ3KghcyU2UovQlF"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -511,6 +463,38 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Blacka Rasta",
+        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Sm\u00e5 svarta \u00e4nglar",
+      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Rudeboy Love",
+        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 220201,
+      "name": "Rudeboy Love",
+      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Dimman",
         "url": "https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 217142,
       "name": "Dimman",
       "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
+      },
+      "artists": [
+        {
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "Bonus P\u00e5 Kortet",
+      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -583,8 +583,24 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Rudeboy Love",
-        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
+        "name": "Tippa p\u00e5 t\u00e5",
+        "url": "https://open.spotify.com/album/5JgVSX1xqeYviplcfs3qfu"
+      },
+      "artists": [
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Tippa p\u00e5 t\u00e5",
+      "url": "https://open.spotify.com/track/1PKRouxQ3KghcyU2UovQlF"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "\u00d6ver Min D\u00f6da",
+        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
       },
       "artists": [
         {
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 220201,
-      "name": "Rudeboy Love",
-      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
+      "duration_ms": 213019,
+      "name": "\u00d6ver Min D\u00f6da",
+      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -631,26 +647,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Kalibreraren",
-        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
-      },
-      "artists": [
-        {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        },
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Kontakt",
-      "url": "https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Rotl\u00f6sa Singlar",
         "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
@@ -683,22 +679,6 @@
       "duration_ms": 208551,
       "name": "Wayback",
       "url": "https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "G\u00f6r Det \u00c4nd\u00e5",
-        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Vakna",
-      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -759,22 +739,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "\u00d6ver Min D\u00f6da",
-        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 213019,
-      "name": "\u00d6ver Min D\u00f6da",
-      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Slutpl\u00e4deringen",
         "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
       },
@@ -799,6 +763,42 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Kalibreraren",
+        "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
+      },
+      "artists": [
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        },
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Kontakt",
+      "url": "https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "G\u00f6r Det \u00c4nd\u00e5",
+        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Som Salomos S\u00e5ng",
         "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 227333,
       "name": "Reggaeprofil",
       "url": "https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Resa Sig Opp",
-        "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Du Vill S\u00e5 Du Kan",
-      "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -871,6 +855,26 @@
       "duration_ms": 205011,
       "name": "Make Sense",
       "url": "https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "The Tomtations Show",
+        "url": "https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6stFolk",
+          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 282124,
+      "name": "Aina \u00c4lskar Reggae",
+      "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
     },
     {
       "added_at": "2023-07-13 22:00:00",

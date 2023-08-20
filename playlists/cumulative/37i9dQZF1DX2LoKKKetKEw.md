@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-139 songs - 7 hr 7 min
+140 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 | 2022-12-16 | 2023-07-25 |
 | [Siyahamba](https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Sy\-1](https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [Siyahamba](https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6) | 2:59 | 2022-07-30 |  |
 | [So Special](https://open.spotify.com/track/0HM72vX16oaPUCedrNrtGP) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [So Special](https://open.spotify.com/album/6ozNe8OmYeqWKHJot14CWr) | 2:03 | 2022-09-11 |  |
+| [Spirit Move](https://open.spotify.com/track/5OOrmtWISmgUF9m5iCSurG) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Se Ok](https://open.spotify.com/artist/3IqJXZCA5miX8xpz4YekS8), [Dave Cobs](https://open.spotify.com/artist/3STr2mUS8xTE5Fgb5WW4rW) | [Spirit Move](https://open.spotify.com/album/5lmU2DbwD1b3XgCw2NdVfS) | 3:47 | 2023-05-19 |  |
 | [Standing](https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Joy](https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4) | 3:13 | 2022-12-16 |  |
 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 | 2022-07-30 |  |
 | [Stranger](https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Stranger](https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b) | 3:14 | 2023-05-19 | 2023-05-26 |
@@ -138,7 +139,7 @@
 | [Wait 4 Me](https://open.spotify.com/track/1hoD8vWdFVWzKRiD2BFgZl) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Wait 4 Me](https://open.spotify.com/album/7pSEGaQlzam71MMqCONXDM) | 3:02 | 2022-07-30 | 2022-10-30 |
 | [What I Want](https://open.spotify.com/track/7mEz7ksXNBD3wdbfb87DVT) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [OJIH](https://open.spotify.com/artist/6Y6d14w9X4lOD4mQqgsb8M) | [What I Want](https://open.spotify.com/album/2VyPYgNlJ77Q3XAVY1gU21) | 3:00 | 2023-05-19 |  |
 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 | 2023-05-19 |  |
-| [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 | 2022-07-30 |  |
+| [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 | 2022-07-30 | 2023-08-20 |
 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 | 2022-07-30 |  |
 | [You](https://open.spotify.com/track/1xaeMB6qDw01j79mhMgYPy) | [WE GOT LOVE PROJECT](https://open.spotify.com/artist/1Y1t2u6opQXonxsxLQ7XMR), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [WE GOT LOVE](https://open.spotify.com/album/6LAveITCLWKB6ewa9yGe1x) | 2:44 | 2022-12-16 |  |
 | [You Are Good](https://open.spotify.com/track/7GUIH3PAQ12qAIBl9jGBGn) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [You Are Good](https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf) | 2:07 | 2022-12-16 |  |

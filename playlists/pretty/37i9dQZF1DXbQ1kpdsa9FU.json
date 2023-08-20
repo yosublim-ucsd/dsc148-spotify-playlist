@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 593795,
+  "num_followers": 593933,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGJmZWZkY2E4ZTE4MjNhNDdkYmY5YmJjNjhiNThlY2E3MjY1NDU4",
+  "snapshot_id": "MCw2MTcwMDg3MDM1ZDNkYWY2NDYwNTQ1YTE4ZWMzMDBiZmRmMDY4NjQw",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Raise a Hallelujah (Studio Version)",
         "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 244040,
       "name": "Raise a Hallelujah (Studio Version)",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -371,6 +371,30 @@
       "duration_ms": 221080,
       "name": "Just Be Held",
       "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 373691,
+      "name": "No Longer Slaves (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -455,30 +479,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 373691,
-      "name": "No Longer Slaves (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Neon Steeple",
         "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
       },
@@ -491,6 +491,26 @@
       "duration_ms": 289746,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 385053,
+      "name": "It Is Well - Live",
+      "url": "https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -559,26 +579,6 @@
       "duration_ms": 267066,
       "name": "Amazing Grace (My Chains Are Gone)",
       "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 385053,
-      "name": "It Is Well - Live",
-      "url": "https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 233774,
-      "name": "Tell Your Heart To Beat Again",
-      "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Fresh Start",
         "url": "https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 331613,
       "name": "Eye of the Storm (feat. Gabe Real)",
       "url": "https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 233774,
+      "name": "Tell Your Heart To Beat Again",
+      "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
       },
       "artists": [
         {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
+      "duration_ms": 192926,
+      "name": "Fear No More",
+      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 192926,
-      "name": "Fear No More",
-      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Pieces Of A Real Heart",
         "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 228800,
       "name": "Lead Me",
       "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "All Sons & Daughters",
-        "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
-      },
-      "artists": [
-        {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        }
-      ],
-      "duration_ms": 296343,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Beautiful Offerings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 306253,
       "name": "The Lion and the Lamb",
       "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "All Sons & Daughters",
+        "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "duration_ms": 296343,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Lydia Laird",
-        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 204865,
-      "name": "Hallelujah Even Here",
-      "url": "https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Listen To The Sound",
         "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 200373,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Lydia Laird",
+        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 204865,
+      "name": "Hallelujah Even Here",
+      "url": "https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "God's Not Done with You",
-        "url": "https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 195617,
-      "name": "God's Not Done with You - Single Version",
-      "url": "https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "God Is on the Move",
         "url": "https://open.spotify.com/album/717joDA6v1pvhMq13mCSfV"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 176615,
       "name": "God Is on the Move",
       "url": "https://open.spotify.com/track/72aVbNngCMhTFl31ydjHCG"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "God's Not Done with You",
+        "url": "https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 195617,
+      "name": "God's Not Done with You - Single Version",
+      "url": "https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "HARD CUTS: Songs from the H A R D L O V E Sessions",
-        "url": "https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "WALKING ON WATER",
-      "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Fill This Place (Live)",
         "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 248854,
       "name": "I'm Listening - Radio Version",
       "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "HARD CUTS: Songs from the H A R D L O V E Sessions",
+        "url": "https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "WALKING ON WATER",
+      "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
     }
   ],
   "unique_name": "Everyday Inspiration",

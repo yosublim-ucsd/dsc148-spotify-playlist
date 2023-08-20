@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228304,
+  "num_followers": 228322,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
+  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Private Suite (Vol. 1)",
-        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Freelance",
-      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Tentretiene",
         "url": "https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "TRAPPHONE",
-        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
+        "name": "Private Suite (Vol. 1)",
+        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
       },
       "artists": [
         {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
         }
       ],
-      "duration_ms": 107984,
-      "name": "TRAPPHONE",
-      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
+      "duration_ms": 197280,
+      "name": "Freelance",
+      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -659,6 +643,22 @@
       "duration_ms": 199120,
       "name": "Piratas",
       "url": "https://open.spotify.com/track/0a3UB6hOlLPlgv1GIhWsed"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "TRAPPHONE",
+        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
+      },
+      "artists": [
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        }
+      ],
+      "duration_ms": 107984,
+      "name": "TRAPPHONE",
+      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/57bcr49I6EUlgp1UKzUFdg"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/7AG2CdeWrcdkhQpQuXS9nv"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Palestina",
         "url": "https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 234240,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/57bcr49I6EUlgp1UKzUFdg"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/7AG2CdeWrcdkhQpQuXS9nv"
     },
     {
       "added_at": "2023-06-09 20:20:12",

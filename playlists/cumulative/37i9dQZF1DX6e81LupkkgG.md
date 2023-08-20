@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-232 songs - 13 hr 30 min
+233 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-02-07 |  |
 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 | 2022-02-18 | 2023-04-09 |
 | [Can't Help Falling in Love \(From the Original Motion Picture Soundtrack ELVIS\) DELUXE EDITION \- Bonus Track](https://open.spotify.com/track/4gi1hTYfNDi7kKY8Jk3K1C) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Can't Help Falling in Love \(From the Original Motion Picture Soundtrack ELVIS\) DELUXE EDITION \[Bonus Track\]](https://open.spotify.com/album/5AgPMMiJLGNN6arHRfr8WQ) | 2:22 | 2023-03-10 | 2023-07-15 |
-| [Carry It Well](https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well](https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy) | 3:35 | 2022-11-04 |  |
+| [Carry It Well](https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well](https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy) | 3:35 | 2022-11-04 | 2023-08-20 |
 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 | 2022-07-22 |  |
 | [Carry Me Away](https://open.spotify.com/track/6TL3MOcVW8i1UiJkvhpDbR) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Carry Me Away](https://open.spotify.com/album/5KvmuOTWNRFPAQdz0KRPcf) | 2:39 | 2022-02-18 | 2022-07-29 |
 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 | 2022-02-18 |  |
@@ -183,6 +183,7 @@
 | [Somewhere in Ann Arbor](https://open.spotify.com/track/3ceEHZ1xOcRcO7bqB2PnKK) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:32 | 2022-07-22 | 2023-02-08 |
 | [Somewhere in Ann Arbor](https://open.spotify.com/track/7EurJLsr9GPEp8Aq5LJvOK) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Somewhere in Ann Arbor](https://open.spotify.com/album/7zt3lJbBlBnA58fYD619Me) | 3:32 | 2022-02-18 | 2022-07-29 |
 | [Somewhere Only We Know](https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Somewhere Only We Know](https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv) | 3:28 | 2022-02-18 |  |
+| [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-18 |  |
 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 | 2023-02-10 | 2023-07-09 |
 | [Stars](https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Deluxe\)](https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd) | 2:52 | 2022-02-18 | 2023-07-16 |
 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2022-08-12 | 2022-12-25 |

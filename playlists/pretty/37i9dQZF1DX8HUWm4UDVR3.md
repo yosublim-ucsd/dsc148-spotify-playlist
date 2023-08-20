@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Louis Albi
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,972 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,992 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 39 | [Amour de vacances](https://open.spotify.com/track/4JMho5csY0dkiVxhC5rxcY) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT) | [Amour de vacances](https://open.spotify.com/album/5OwhMbwUQcTDHHEt1XKsEm) | 2:51 |
 | 40 | [Hold Up \(à l'eau de rose\)](https://open.spotify.com/track/6a0Ad99CVzcR9FS9XJr9VP) | [Sara Saphir](https://open.spotify.com/artist/64WmkM3KtYsEfK2niBa4Jl) | [Pansements](https://open.spotify.com/album/09p6CCTiy6jIdGDgyFSnTB) | 3:10 |
 
-Snapshot ID: `MCxjYjg3OGNiODU2MDFmYjUwYTAzNDM2M2U2YzM5YzA5N2U1MDBjN2Nj`
+Snapshot ID: `MCw2MWM1MjdkMjUwYmZkMWExNWZiNDY5MDNkMjhiZjBlNzQyYzkzNGQ5`

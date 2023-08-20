@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,700,367 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703,197 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [If We Ever Broke Up \- Sped Up](https://open.spotify.com/track/5aBfiBLoIznSLQoPZMoPUJ) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [If We Ever Broke Up \(Sped Up\)](https://open.spotify.com/album/4cEguU8mbgtWH22YeUMYKw) | 2:04 |
 | 100 | [die first \- sped up version](https://open.spotify.com/track/3lEqXRwPi98ZvKm5bsZTGi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [die first \(love forever\)](https://open.spotify.com/album/3Pqcill829HN55wmRCDFRw) | 2:24 |
 
-Snapshot ID: `MCxjODIwZTE1ZWM4ZTZhYWY5MGFmNTIxNjEyYWE1ZTQwOTUyZWQyYWY4`
+Snapshot ID: `MCw2ZjFhMzJiYTFmMGVhY2Q2MjE1Y2ZkZWY2ZTJmMWZkYTc3NzE0OGFm`

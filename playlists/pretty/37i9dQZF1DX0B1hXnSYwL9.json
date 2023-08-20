@@ -1,12 +1,12 @@
 {
   "description": "Canciones para sacarle brillo a la pista de baile.",
-  "num_followers": 92257,
+  "num_followers": 92315,
   "original_name": "Sal\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjViNjYzODcyMmVhMjM3MmY4Y2U4NDU0ZDgyMjE5OGZkNzU2ZjRm",
+  "snapshot_id": "MCxiNDAwNWJjNDRiMzY5YjU4YjhlN2VjNzBjOWE5MmQyNTk3MTM2Zjdl",
   "tracks": [
     {
       "added_at": "2023-08-14 15:51:23",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "God's Project",
         "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 263346,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 231410,
-      "name": "Aquel Lugar",
-      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
+      "duration_ms": 231410,
+      "name": "Aquel Lugar",
+      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
-        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "Tus Jefes No Me Quieren",
-      "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 177293,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
+        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 221359,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 259959,
       "name": "Te Quiero Igual Que Ayer - Bachata",
       "url": "https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 221359,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Due\u00f1o de tu amor",
+        "url": "https://open.spotify.com/album/0kQb2pG5TJxQNecwJMzArN"
+      },
+      "artists": [
+        {
+          "name": "Jorge Dominguez y su Grupo Super Class",
+          "url": "https://open.spotify.com/artist/45qPqiZHXOlAo41ESJc5hh"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "Romeo y Julieta",
+      "url": "https://open.spotify.com/track/1PD6BmSC7JULxOlJWAI2jJ"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
         "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 227200,
       "name": "Sabes A Chocolate",
       "url": "https://open.spotify.com/track/4KCIR5WfyhPPeTy8KQzMXf"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Due\u00f1o de tu amor",
-        "url": "https://open.spotify.com/album/0kQb2pG5TJxQNecwJMzArN"
-      },
-      "artists": [
-        {
-          "name": "Jorge Dominguez y su Grupo Super Class",
-          "url": "https://open.spotify.com/artist/45qPqiZHXOlAo41ESJc5hh"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "Romeo y Julieta",
-      "url": "https://open.spotify.com/track/1PD6BmSC7JULxOlJWAI2jJ"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Lo Mas Ka-Bron Sonidero",
-        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
-      },
-      "artists": [
-        {
-          "name": "Kual",
-          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
-        }
-      ],
-      "duration_ms": 300906,
-      "name": "Soy Maraquero",
-      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
         "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 311386,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Lo Mas Ka-Bron Sonidero",
+        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
+      },
+      "artists": [
+        {
+          "name": "Kual",
+          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
+        }
+      ],
+      "duration_ms": 300906,
+      "name": "Soy Maraquero",
+      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
     },
     {
       "added_at": "2023-08-14 15:51:23",

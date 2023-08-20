@@ -2011,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Traficando",
+        "url": "https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ"
+      },
+      "artists": [
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267633,
+      "name": "Traficando",
+      "url": "https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ"
+    },
+    {
+      "album": {
         "name": "Traficando (Remix)",
         "url": "https://open.spotify.com/album/0ZGRJJ7WqmOK0NRt8VFUZs"
       },
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 229333,
       "name": "Tratemos",
       "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"

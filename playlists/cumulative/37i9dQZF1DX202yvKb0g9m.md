@@ -4,7 +4,7 @@
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-84 songs - 7 hr 58 min
+85 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Cornish Acid](https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 2:14 | 2021-10-22 |  |
 | [Cornish Acid](https://open.spotify.com/track/5c3ZNT6iY8Kz6nHBATTeRs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 2:14 | 2021-10-22 | 2023-02-03 |
 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 | 2021-10-22 |  |
-| [DEFIANT ORDER](https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B) | 3:41 | 2021-10-22 |  |
+| [DEFIANT ORDER](https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B) | 3:41 | 2021-10-22 | 2023-08-20 |
+| [Defiant order](https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35) | 3:42 | 2021-10-22 |  |
 | [Defiant Order \- Orignal Mix](https://open.spotify.com/track/4eyaNZGe1fJ6UDqJdxquqI) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order EP](https://open.spotify.com/album/0Hqvo8eP1Kov1dxTkL7bwY) | 3:43 | 2021-10-22 | 2022-07-29 |
 | [Do I Do \- Extended Mix](https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C) | 7:14 | 2021-10-22 |  |
 | [Do You Feel The Same?](https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [The Feast Of The Broken Heart](https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH) | 4:41 | 2021-10-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,689 likes - 200 songs - 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,895 likes - 200 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 10 | [Closer](https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Closer](https://open.spotify.com/album/2aVYyjgHni7OpuNf53KUH0) | 4:55 |
 | 11 | [Colonial Mentality / Roforofo Fight](https://open.spotify.com/track/5PbtrSZzIZnF5t0Brecr4D) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Brass Mafia](https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1), [Mike Olmos](https://open.spotify.com/artist/59p14paXscMtw20ZxHaihg) | [Colonial Mentality / Roforofo Fight](https://open.spotify.com/album/5MiIrsDaNKGK593XM37OwC) | 8:18 |
 | 12 | [Serpentine](https://open.spotify.com/track/3exot3dINaZOhGhw9kL9vX) | [Apollo Suns](https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW) | [Serpentine](https://open.spotify.com/album/3HDZIVNyEpxMEVYg2LGjgQ) | 3:48 |
-| 13 | [I Can't Get Enough](https://open.spotify.com/track/0KfQn6DHPUM0uwXPdofn30) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [I Can't Get Enough](https://open.spotify.com/album/7crmaW8Z1HEy4wKmbUtj2x) | 2:45 |
+| 13 | [I Can't Get Enough \- Live](https://open.spotify.com/track/0OKkwSP8g0yt5grOVxfZlJ) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [LIVE](https://open.spotify.com/album/359rFc1v3kX1prkjLXU7dY) | 2:45 |
 | 14 | [Iskhathi](https://open.spotify.com/track/6cK0RRZ0HA18cB7VxeMoTS) | [Nongoma](https://open.spotify.com/artist/3O7kSCL3mt0T0lBnvNyWwj), [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Iskhathi](https://open.spotify.com/album/0atF8hOC4T98gG6BPRSk4y) | 5:46 |
 | 15 | [The Grid Generation](https://open.spotify.com/track/0psCd4ntI6P1lrTZI6TRP2) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [The Grid Generation](https://open.spotify.com/album/1nqz0Wb3iGIB3zJ9OO3Ewx) | 4:45 |
 | 16 | [Safely Far](https://open.spotify.com/track/5zOImk9SuJVNISeMUd1m3y) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Safely Far](https://open.spotify.com/album/66MMnVPMTFD2yRIApV7CDn) | 3:05 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 |
 | 200 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 |
 
-Snapshot ID: `MCxjYjdjYzI1OTIxZmU2NzJlZjBiMWE0MzAwNThjYWE4NTFlMTUxNmVm`
+Snapshot ID: `MCwyYjBkYjg0YWMzYjA4ZTAzMDM1M2EzYmMyMDg4YWUyYWI0NGJlYTQz`

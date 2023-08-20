@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: James Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,293 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,308 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [How I'm Feeling Now](https://open.spotify.com/track/5AGS8VxsLyHQOWz0ZTuwIN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:46 |
 | 100 | [Can't Get Enough](https://open.spotify.com/track/2qx9v2aAKz5AQ2PaXMDdb1) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Can't Get Enough](https://open.spotify.com/album/0C4H93VXSWTYU9rRqLhtSg) | 3:51 |
 
-Snapshot ID: `MCw4OWYyNzgwZWY2MTg3YTcxZmEyMTkyNWVhNjVhMzNkMDQ5ZTE5OWI0`
+Snapshot ID: `MCwzMzZjZWYxYzczZjMzNTI0NWU0NDRkZWNkNmNlMmFmZjU4NDQ1MGY4`

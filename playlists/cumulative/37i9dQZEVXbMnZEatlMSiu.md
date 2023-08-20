@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-692 songs - 1 day 17 hr 33 min
+694 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-13 | 2022-12-04 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-01-12 | 2023-03-20 |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2023-03-20 | 2023-03-25 |
+| [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-08-19 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-11-10 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-14 | 2021-06-27 |
 | [Kitsch](https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/12p68ehzb26xvidlV2ypur) | 3:15 | 2023-03-28 | 2023-03-30 |
@@ -364,7 +365,7 @@
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-28 | 2022-07-31 |
 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-17 | 2023-03-30 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-26 | 2022-12-28 |
-| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-02 |  |
+| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-02 | 2023-08-20 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-02-07 | 2023-02-28 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-30 | 2022-10-14 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-02 | 2023-07-24 |
@@ -421,6 +422,7 @@
 | [不期而遇的夏天 \- 電影《不期而遇的夏天》主題曲](https://open.spotify.com/track/5QRgqxZ4XQadnaOBjt2dN1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [不期而遇的夏天 \(電影《不期而遇的夏天》主題曲\)](https://open.spotify.com/album/2nLHmTomlBgsZP7OWxpEjC) | 3:30 | 2021-09-25 | 2021-09-26 |
 | [与我无关](https://open.spotify.com/track/4BYVQGBJUKSDkfRrCd9M2e) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [与我无关](https://open.spotify.com/album/5yPinjqLoVyKhcc4QNTYUg) | 4:00 | 2022-07-01 | 2022-07-04 |
 | [与我无关](https://open.spotify.com/track/5g3SAbi3NE8YXI0Z9aDFoZ) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [与我无关](https://open.spotify.com/album/4gZyFXOfAR3Ic87D19AaMa) | 4:00 | 2022-10-15 | 2022-10-23 |
+| [乘著無人光影的遠行](https://open.spotify.com/track/6OmeRpm2rmf3BoOboNexV0) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [乘著無人光影的遠行](https://open.spotify.com/album/26Ng5PX95XAECI5JlhNL6p) | 6:09 | 2023-08-19 |  |
 | [人洞山](https://open.spotify.com/track/1sVa1skVE7TerpNTWVyrGh) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:27 | 2023-05-22 | 2023-05-30 |
 | [什麼都不必說 \- 2022 Remix](https://open.spotify.com/track/1Sfb8BFB0eZyzvBRz31GpT) | [比莉](https://open.spotify.com/artist/50PlAIy0jv3INiwksQtCeh), [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [什麼都不必說 \(2022 Remix\)](https://open.spotify.com/album/7oIc0LSFU9ZRJr9Eip8Wxq) | 3:30 | 2022-07-20 | 2022-08-18 |
 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 | 2022-08-19 | 2022-08-21 |
@@ -487,7 +489,7 @@
 | [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 | 2021-06-04 | 2022-12-01 |
 | [失重前幸褔](https://open.spotify.com/track/0NHsxQj4j6gPz8PdRc5KKh) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [失重前幸褔](https://open.spotify.com/album/462ekXKIYZgxtRXMmRcioa) | 3:42 | 2021-03-27\* | 2021-04-15 |
 | [她沒在看我](https://open.spotify.com/track/5QbK5PrR9wbog3M5vVAn2n) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Outta Body靈魂出竅](https://open.spotify.com/album/5qiMTeDKaY3cfqZeBG0xUY) | 2:58 | 2021-03-27\* | 2021-10-27 |
-| [好不容易 \(《華燈初上》片尾曲\)](https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [好不容易](https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg) | 4:55 | 2021-12-15 |  |
+| [好不容易 \(《華燈初上》片尾曲\)](https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [好不容易](https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg) | 4:55 | 2021-12-15 | 2023-08-20 |
 | [好心情](https://open.spotify.com/track/6EgON1H8N1DtJQSPYD2nVA) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [Sunny Day 好心情](https://open.spotify.com/album/1l27426A8E0QFaZu670vNo) | 4:54 | 2023-07-07 | 2023-07-09 |
 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2021-11-09 |  |
 | [如果能幸福 \- HBO Asia原創影集《戒指流浪記》片尾曲](https://open.spotify.com/track/0TVrlU8El0K6U1pC2LOt09) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [如果能幸福 \(HBO Asia原創影集《戒指流浪記》片尾曲\)](https://open.spotify.com/album/72fDUWj0QsUgA9EoGv2Yoq) | 4:19 | 2021-03-27\* | 2021-08-17 |

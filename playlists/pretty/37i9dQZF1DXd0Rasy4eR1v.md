@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Jawad
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,796 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,805 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 22 | [Rangrasiya Re](https://open.spotify.com/track/4Cd2tRh1CRcruyPB4mh8yE) | [Shahzad e Ali](https://open.spotify.com/artist/1dAsGM47WYaYMOs6dpgeSk) | [Rangrasiya Re](https://open.spotify.com/album/6LdeDB74iQlKmESMp0lgOH) | 4:34 |
 | 23 | [Ali Ali](https://open.spotify.com/track/3Akh5yIVkkHJImEobcrXRp) | [Afaq Munir](https://open.spotify.com/artist/2xpY02EIF6tEPh6MwaW0MU) | [Ali Ali](https://open.spotify.com/album/5HOkWmLlJfuIQZRQehlEUS) | 2:42 |
 | 24 | [CRYLOOP \#3](https://open.spotify.com/track/0Akl3Cf0skenbL3iuC2w6y) | [Sinan Rajput](https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY) | [CRYLOOP \#3](https://open.spotify.com/album/2YZ89jks9afPqasSOX0HuC) | 2:33 |
-| 25 | [Chhat Uttay](https://open.spotify.com/track/55SUJhsM6eqaXBn4KHIwhR) | [Adeel Sadiq](https://open.spotify.com/artist/7v9Dhi9y2PIk18QNXZu9LV), [Syed Hamza](https://open.spotify.com/artist/0RheAMGevH3hj1IEupfdfW) | [Chhat Uttay](https://open.spotify.com/album/7wlzyQSmz03nEqMEOXoAO0) | 2:58 |
+| 25 | [Chhat Uttay](https://open.spotify.com/track/55SUJhsM6eqaXBn4KHIwhR) | [Adeel Sadiq](https://open.spotify.com/artist/7v9Dhi9y2PIk18QNXZu9LV), [Syed Hamza](https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ) | [Chhat Uttay](https://open.spotify.com/album/7wlzyQSmz03nEqMEOXoAO0) | 2:58 |
 | 26 | [Lagi Re](https://open.spotify.com/track/08AcussJ3YzmsN59Oxp9eK) | [Jawwad Qureshi](https://open.spotify.com/artist/1GX2A1UdgG3MtBIe2aLZfg), [Ibrahim Hanif](https://open.spotify.com/artist/5oD3ueoAln2wAhz7btGK0G) | [Lagi Re](https://open.spotify.com/album/00NEJ87K07C1hLQFhqiA98) | 3:30 |
 | 27 | [Chaar Din](https://open.spotify.com/track/2CiqH1lJgqkAZJWuIjBlSm) | [Saif Altaf](https://open.spotify.com/artist/2dIHcU5M4hH1kv6xthhqnV), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Chaar Din](https://open.spotify.com/album/0wxagCB4GLuofc9opbaMkS) | 3:40 |
 | 28 | [Mohtaj](https://open.spotify.com/track/0kXoyJFa9MLGvXuI2TUL0i) | [Faisal Wadood](https://open.spotify.com/artist/5m4QU1DZCVqWwJqj4ZdxWa) | [Mohtaj](https://open.spotify.com/album/4oeu9m0X5N9yBlUw3GP2pH) | 2:26 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 64 | [Iltija](https://open.spotify.com/track/2lJci2lnP9579hnJmsVcyB) | [Junaid Javed](https://open.spotify.com/artist/0zqUu1gYO6WjlWUEaOQtQ9) | [Iltija](https://open.spotify.com/album/4LZTZU0KGhuTegxGVA0qmh) | 4:10 |
 | 65 | [haaray](https://open.spotify.com/track/6HlvOvKDzPufgj9dhnlEkI) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [haaray](https://open.spotify.com/album/6LJG4mMK5Ahw94MrMvucx5) | 2:40 |
 
-Snapshot ID: `MCwwNTJmMzA0NWJlNzExOTZhMTZjNWE4YmQ1ODAyYTg3ODIyYjVkNmE2`
+Snapshot ID: `MCxlYTU3ZDMwMjdkZDEwY2VjNDAxY2Q4ZWFhMGEyMmFiMzE3ZDVmYTU4`

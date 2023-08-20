@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-102 songs - 5 hr 25 min
+103 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Não Sei o Que Lá](https://open.spotify.com/track/28m65cMH7QXHzFnZSTtNHY) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 2:49 | 2023-01-03 |  |
 | [Não, Não Vou](https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl) | 2:53 | 2023-01-03 |  |
 | [Nêga](https://open.spotify.com/track/3b5iBusDt6w3EYuMuqIuL6) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [A Nova Cara das Vaquejadas](https://open.spotify.com/album/5cMhZUlCGsc1BN9bw10bqx) | 4:18 | 2023-01-03 |  |
+| [O Ex da Sua Vida](https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 2](https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh) | 2:59 | 2023-01-03 |  |
 | [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 | 2023-01-03 |  |
 | [Parada Louca](https://open.spotify.com/track/72g37RoelSnovZakG5MwnF) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Parada Louca](https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn) | 2:59 | 2023-01-03 |  |
 | [Passatempo](https://open.spotify.com/track/3Mb45IlghhbP7WteEQldz0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws Sem Limites \(De Luxe\)](https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD) | 2:42 | 2023-01-03 |  |
@@ -100,7 +101,7 @@
 | [Só Tem Eu](https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Só Tem Eu](https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e) | 2:44 | 2023-01-03 |  |
 | [Só Você](https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Na Pressão](https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ) | 3:07 | 2023-01-03 |  |
 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 | 2023-01-03 |  |
-| [Teste de Farmácia \- Ao Vivo](https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:38 | 2023-01-03 |  |
+| [Teste de Farmácia \- Ao Vivo](https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:38 | 2023-01-03 | 2023-08-20 |
 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 | 2023-01-03 |  |
 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 | 2023-01-03 |  |
 | [Tá Rocheda](https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [As Melhores 2018](https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP) | 3:23 | 2023-01-03 |  |

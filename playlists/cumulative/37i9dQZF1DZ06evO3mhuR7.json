@@ -296,10 +296,32 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 85896,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/1SFuW1Sh6V9JJf0ezWIPbJ"
+    },
+    {
+      "album": {
+        "name": "Orbserving the Star House in Dub",
+        "url": "https://open.spotify.com/album/2AKZakkQgcQd6SDGhzjDYu"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102480,
+      "name": "Ashes - Instrumental",
+      "url": "https://open.spotify.com/track/5vlGUqV9vlrAFZ8fCDuCM7"
     },
     {
       "album": {
@@ -914,7 +936,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 126866,
       "name": "His Immortal Logness",
       "url": "https://open.spotify.com/track/4Ar51FLzmqkDv0wiBnjZxP"
@@ -936,7 +958,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 261141,
       "name": "Hold Me Upsetter",
       "url": "https://open.spotify.com/track/3bMR9NyBHxt1pZadTvGbRs"
@@ -1281,7 +1303,7 @@
     },
     {
       "album": {
-        "name": "Metallic Spheres (feat. David Gilmour)",
+        "name": "Metallic Spheres",
         "url": "https://open.spotify.com/album/7Kj5DZcW4jlqGjYnu0UTT7"
       },
       "artists": [
@@ -1296,10 +1318,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 1721786,
-      "name": "Metallic Side (feat. David Gilmour) - Stereo Version",
+      "name": "Metallic Side - Stereo Version",
       "url": "https://open.spotify.com/track/6MyKagqW2c9kA0bh7j8emc"
+    },
+    {
+      "album": {
+        "name": "Metallic Spheres In Colour: Movement 1 - Excerpt",
+        "url": "https://open.spotify.com/album/4GecjGVxIqh9KGvo92FbUh"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281333,
+      "name": "Metallic Spheres In Colour: Movement 1 - Excerpt",
+      "url": "https://open.spotify.com/track/206zO5RTPKKjXnVq2UjJ1W"
     },
     {
       "album": {
@@ -1975,7 +2019,7 @@
     },
     {
       "album": {
-        "name": "Metallic Spheres (feat. David Gilmour)",
+        "name": "Metallic Spheres",
         "url": "https://open.spotify.com/album/7Kj5DZcW4jlqGjYnu0UTT7"
       },
       "artists": [
@@ -1990,9 +2034,9 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 1208120,
-      "name": "Spheres Side (feat. David Gilmour) - Stereo Version",
+      "name": "Spheres Side - Stereo Version",
       "url": "https://open.spotify.com/track/4B18MaOudRkiTmaGO3pTN3"
     },
     {
@@ -2320,7 +2364,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 900773,
       "name": "Towers Of Dub",
       "url": "https://open.spotify.com/track/3pNjlSAs2YVvx5dAY68ObX"
@@ -2392,7 +2436,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 456066,
       "name": "Valley",
       "url": "https://open.spotify.com/track/06iL7u9ZQPKeQf0kMKoPBE"

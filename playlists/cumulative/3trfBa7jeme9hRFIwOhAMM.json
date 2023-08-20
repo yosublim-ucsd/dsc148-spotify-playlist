@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "Body 2 Body",
+        "url": "https://open.spotify.com/album/04ROjiO1DUUYSYSWduvTjZ"
+      },
+      "artists": [
+        {
+          "name": "Hollaphonic",
+          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
+        },
+        {
+          "name": "Deep West",
+          "url": "https://open.spotify.com/artist/36RMbpJsvVmrdHwWUI3nk0"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Body 2 Body",
+      "url": "https://open.spotify.com/track/4pxsmsAZjXuHfxZPrP6bDS"
+    },
+    {
+      "album": {
         "name": "Body Tingler",
         "url": "https://open.spotify.com/album/28rAbsAWjImoxWVBBafmdH"
       },
@@ -184,7 +206,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 155562,
       "name": "Body Tingler",
       "url": "https://open.spotify.com/track/4IRpPbNa7D3vfGNguZWcPd"
@@ -246,6 +268,24 @@
       "duration_ms": 166962,
       "name": "Crave The Bassline",
       "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
+    },
+    {
+      "album": {
+        "name": "Deepest Desire",
+        "url": "https://open.spotify.com/album/4qZCTPwQZXA5ALBfaHdb4L"
+      },
+      "artists": [
+        {
+          "name": "Mike Helan",
+          "url": "https://open.spotify.com/artist/6RgzXg8hKaOYoRLYuo1lVi"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173976,
+      "name": "Deepest Desire",
+      "url": "https://open.spotify.com/track/6Hr2KZ6JXV8QwCrJ4f72Pi"
     },
     {
       "album": {
@@ -392,6 +432,32 @@
       "duration_ms": 153508,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp"
+    },
+    {
+      "album": {
+        "name": "Furious (feat. Habstrakt)",
+        "url": "https://open.spotify.com/album/6AjMyBpMC6rPryBLp4SuuZ"
+      },
+      "artists": [
+        {
+          "name": "Illegal Music",
+          "url": "https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u"
+        },
+        {
+          "name": "Kohmi",
+          "url": "https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Furious (feat. Habstrakt)",
+      "url": "https://open.spotify.com/track/1sdgGeVefZ8zkMxCQSEbYQ"
     },
     {
       "album": {
@@ -640,6 +706,28 @@
       "duration_ms": 190080,
       "name": "La Revolution",
       "url": "https://open.spotify.com/track/356nHbjGvIjIn5JCppGmzW"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/66QmKxpY9JLUMbQrrqDgCT"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "ANML KNGDM",
+          "url": "https://open.spotify.com/artist/2YsRLHY6KXEs9mHcM99WXS"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184782,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/6Qj1eG0u2XDdDs4c0ySess"
     },
     {
       "album": {
@@ -911,7 +999,7 @@
     },
     {
       "album": {
-        "name": "NaNa Djon (feat. Victor D\u00e9m\u00e9)",
+        "name": "NaNa Djon",
         "url": "https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA"
       },
       "artists": [
@@ -932,7 +1020,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161520,
-      "name": "NaNa Djon (feat. Victor D\u00e9m\u00e9)",
+      "name": "NaNa Djon",
       "url": "https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E"
     },
     {
@@ -1022,6 +1110,28 @@
       "duration_ms": 220952,
       "name": "One Chance (feat. Marlhy)",
       "url": "https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd"
+    },
+    {
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
     },
     {
       "album": {
@@ -1282,7 +1392,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 185595,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2NLUhPapw9f686xkUQP3HT"
@@ -1412,7 +1522,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 158408,
       "name": "The Sub",
       "url": "https://open.spotify.com/track/4tDa6lrRntdzRurg2IyWTN"
@@ -1508,7 +1618,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 161612,
       "name": "Valentino",
       "url": "https://open.spotify.com/track/5gpspXTVqjqoIlcIBZ6ZE5"
@@ -1636,6 +1746,24 @@
       "duration_ms": 156190,
       "name": "Watch",
       "url": "https://open.spotify.com/track/1L97rUfj3FJuc4qaHZ1rOW"
+    },
+    {
+      "album": {
+        "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/7eR7UTDYSnHzdm60bvFOpm"
+      },
+      "artists": [
+        {
+          "name": "Larce",
+          "url": "https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/3XPlFMrSk6pdGX7bkWAenR"
     },
     {
       "album": {

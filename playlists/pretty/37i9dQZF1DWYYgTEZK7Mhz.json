@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 19557,
+  "num_followers": 19650,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzgwOTYxMzQ4YzkwMjA2ODg4M2I2YWE3ZDY3OTcxNzgxMTEzODQ3",
+  "snapshot_id": "MCw5MTZhZTQyN2NhNzJhYjJiYWY4OWU5YTkyMWUxMTZiZDVjMTgzZjY0",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
-        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Riccardo Del Turco",
         "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 191693,
       "name": "Luglio",
       "url": "https://open.spotify.com/track/083VTM4yXnNrspPRcVadTm"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
+        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Ritratto di Mina: I singoli, Vol. 1",
-        "url": "https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Tintarella di luna",
-      "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Rocco: Zijn Story In 21 Liedjes",
         "url": "https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 164453,
       "name": "Marina",
       "url": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Ritratto di Mina: I singoli, Vol. 1",
+        "url": "https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 179060,
+      "name": "Tintarella di luna",
+      "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Amore Mio (Les plus belles chansons d'amour Italiennes)",
-        "url": "https://open.spotify.com/album/3iCbyFhMUuMQbJjoG5FnZg"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celetano",
-          "url": "https://open.spotify.com/artist/6XDjliEwwXtUBoFwqtPeGc"
-        }
-      ],
-      "duration_ms": 136080,
-      "name": "24,000 baci",
-      "url": "https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Catherine Spaak",
         "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 129573,
       "name": "L'esercito del surf",
       "url": "https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Amore Mio (Les plus belles chansons d'amour Italiennes)",
+        "url": "https://open.spotify.com/album/3iCbyFhMUuMQbJjoG5FnZg"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celetano",
+          "url": "https://open.spotify.com/artist/6XDjliEwwXtUBoFwqtPeGc"
+        }
+      ],
+      "duration_ms": 136080,
+      "name": "24,000 baci",
+      "url": "https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM"
     },
     {
       "added_at": "2023-06-05 07:42:38",

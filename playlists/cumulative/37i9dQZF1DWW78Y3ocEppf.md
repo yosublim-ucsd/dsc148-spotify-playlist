@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Dee Gatti
 
-542 songs - 1 day 4 hr 30 min
+543 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Feeling Lucky](https://open.spotify.com/track/50xaiGmgb5AspAtX7IAQGF) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 2:36 | 2022-02-18 | 2022-07-29 |
 | [Feelings 4 You](https://open.spotify.com/track/6FyadQAUc4Rrv9WT8sa8Ro) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/2kuH27HnAi396mXM1LqZ8q) | 4:16 | 2022-02-18 | 2022-02-26 |
 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 | 2022-05-20 | 2023-03-18 |
-| [Feels](https://open.spotify.com/track/1BANaaZNg6PsCv5JpSuD3z) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [Feels](https://open.spotify.com/album/6pfRdR3FNPQ9O7WHQtEKwq) | 4:07 | 2023-05-12 | 2023-08-18 |
+| [Feels](https://open.spotify.com/track/1BANaaZNg6PsCv5JpSuD3z) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [Feels](https://open.spotify.com/album/6pfRdR3FNPQ9O7WHQtEKwq) | 4:07 | 2023-05-12 |  |
 | [Fell Asleep](https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:37 | 2022-12-09 |  |
 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 | 2022-10-14 | 2023-07-08 |
 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 | 2022-03-25 | 2022-07-27 |
@@ -448,7 +448,7 @@
 | [Spin the Block](https://open.spotify.com/track/6qmKEl7vp9UOhFEUlH1k2X) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/0WIyWP0I9sOm5zZkvFdc0u) | 3:49 | 2022-11-11 | 2023-08-14 |
 | [Spin the Block](https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:49 | 2022-11-11 |  |
 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 | 2022-09-09 | 2022-12-03 |
-| [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 | 2023-03-24 |  |
+| [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 | 2023-03-24 | 2023-08-20 |
 | [Stay](https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Stay](https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo) | 3:23 | 2023-06-02 |  |
 | [Stay Mad](https://open.spotify.com/track/3bNyIdiGPnepE6D6bOhGoQ) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Stay Mad](https://open.spotify.com/album/0F3csopuNUJxURyr9oZx1V) | 2:11 | 2021-12-15 | 2022-01-27 |
 | [Step 2 Me](https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Soulection](https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft) | [Soulection Takeover: 2K23 Edition](https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1) | 1:50 | 2023-01-27 |  |
@@ -467,6 +467,7 @@
 | [Sunset Eyes](https://open.spotify.com/track/43JDDAnJu7fyNToaRUsjGH) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:26 | 2022-05-06 | 2022-07-27 |
 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 | 2023-03-03 |  |
 | [Take It Back](https://open.spotify.com/track/3UJ8XNSmK5MKkIVsZPMMh7) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Take It Back](https://open.spotify.com/album/41lbIMunApS8mpyLtUW81W) | 3:18 | 2022-03-25 | 2022-07-15 |
+| [Talk To Me](https://open.spotify.com/track/0Yb6xqb1lqVJKc71pzqjic) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Talk To Me](https://open.spotify.com/album/4kg6StXbKPakx9iOoguXov) | 3:14 | 2023-08-18 |  |
 | [Talkback](https://open.spotify.com/track/616rALOBxvc3bbp38iiud5) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:04 | 2023-03-10 |  |
 | [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 | 2023-03-10 | 2023-04-27 |
 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 | 2022-09-16 | 2022-10-15 |
@@ -478,7 +479,7 @@
 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-12-15 | 2023-02-24 |
 | [The Distance](https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [The Distance](https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d) | 3:22 | 2022-02-04 | 2022-04-20 |
 | [The Homie](https://open.spotify.com/track/40s9fTqos9irqz2kmNRbCq) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:40 | 2021-12-15 | 2022-07-29 |
-| [The One](https://open.spotify.com/track/4THEDAFFfKafxc78eZm2dj) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [4 PM In The Ville](https://open.spotify.com/album/5B1HM6z8jWC9LoRaKmfGqP) | 2:53 | 2023-06-23 |  |
+| [The One](https://open.spotify.com/track/4THEDAFFfKafxc78eZm2dj) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [4 PM In The Ville](https://open.spotify.com/album/5B1HM6z8jWC9LoRaKmfGqP) | 2:53 | 2023-06-23 | 2023-08-20 |
 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2022-12-02 | 2023-07-22 |
 | [Thug Cry](https://open.spotify.com/track/0sATEUoYEAH1zjfYSKIo8N) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Thug Cry](https://open.spotify.com/album/1MeVoCVoD5smZ3Z7urlmtu) | 2:59 | 2021-12-15 | 2022-07-10 |
 | [Thug Passion](https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Pray for a Beautiful Sky](https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M) | 3:49 | 2023-06-23 |  |
@@ -489,7 +490,7 @@
 | [Tired](https://open.spotify.com/track/7GJQYvyEw709xFtZuqysVA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 4:17 | 2022-10-28 | 2022-11-19 |
 | [Too Good](https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Too Good](https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l) | 2:48 | 2023-06-16 |  |
 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 | 2021-12-15 | 2023-02-18 |
-| [Toxic](https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [Toxic](https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93) | 2:33 | 2023-06-23 |  |
+| [TOXIC](https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [Toxic](https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93) | 2:33 | 2023-06-23 |  |
 | [Toxic](https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Toxic](https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu) | 2:15 | 2023-02-03 | 2023-04-15 |
 | [Tragic](https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Tragic](https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz) | 3:27 | 2021-12-15 | 2022-07-28 |
 | [Trap Smarter](https://open.spotify.com/track/2ijWuJRQXSJBhceabkVaN5) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [SAFE & Sound](https://open.spotify.com/album/0HIkH4CAMzpCtIpQ6LtvvM) | 1:34 | 2023-06-16 | 2023-08-02 |

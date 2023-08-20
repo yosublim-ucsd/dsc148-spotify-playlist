@@ -3554,7 +3554,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 154736,
       "name": "DARTE OTRA VEZ",
       "url": "https://open.spotify.com/track/6NcSACpZFPvhKfAQEpGNez"
@@ -5386,7 +5386,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 218630,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/2NxWFEYOxwBCYtp5lEPbs6"
@@ -9048,7 +9048,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -10086,7 +10086,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
@@ -10384,7 +10384,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
@@ -13210,7 +13210,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
@@ -13768,7 +13768,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -16636,6 +16636,24 @@
       "duration_ms": 201818,
       "name": "Tus ganas",
       "url": "https://open.spotify.com/track/1HyaCxCL0gdcS02Oe1PgAH"
+    },
+    {
+      "album": {
+        "name": "Tus Labios",
+        "url": "https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175662,
+      "name": "Tus Labios",
+      "url": "https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY"
     },
     {
       "album": {

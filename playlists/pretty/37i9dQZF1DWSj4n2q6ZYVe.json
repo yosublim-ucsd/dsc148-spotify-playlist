@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 395820,
+  "num_followers": 396308,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzkzZThkMDAxNmY1MWM2MjcwN2ZjZjIwNmI5NmY1NjUzMzg5ZmU0",
+  "snapshot_id": "MCwyNWVhZTU3MjNhYjU2M2ZhMTk5ZDVhZGY4Y2VlNGU3YzgwZmIwYmI1",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -555,22 +555,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Noah's Arc Soundtrack",
-        "url": "https://open.spotify.com/album/6KTtZ9lo4BFO4yYsesb7fK"
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
       },
       "artists": [
         {
-          "name": "Bob Sinclair",
-          "url": "https://open.spotify.com/artist/3L3BRPgvibPQ7N7eZXw1uT"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
         }
       ],
-      "duration_ms": 200400,
-      "name": "World, Hold On",
-      "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"
+      "duration_ms": 285533,
+      "name": "Where's Your Head At",
+      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -595,18 +591,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+        "name": "Noah's Arc Soundtrack",
+        "url": "https://open.spotify.com/album/6KTtZ9lo4BFO4yYsesb7fK"
       },
       "artists": [
         {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+          "name": "Bob Sinclair",
+          "url": "https://open.spotify.com/artist/3L3BRPgvibPQ7N7eZXw1uT"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
         }
       ],
-      "duration_ms": 285533,
-      "name": "Where's Your Head At",
-      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
+      "duration_ms": 200400,
+      "name": "World, Hold On",
+      "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Aerodynamic",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Music & You",
         "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 212413,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Love Foolosophy - Radio Edit",
-      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Leave The World Behind",
         "url": "https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 161718,
       "name": "Leave The World Behind - Radio Edit",
       "url": "https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Love Foolosophy - Radio Edit",
+      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Belle Epoque",
         "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 231093,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "5 Years of mau5",
+        "url": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+        }
+      ],
+      "duration_ms": 328733,
+      "name": "Ghosts 'n' Stuff - Extended Mix",
+      "url": "https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "See Clear Now",
         "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
       },
@@ -1303,26 +1323,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Gro\u00dfstadtm\u00e4rchen",
-        "url": "https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/2gct3VkeQT2IuGNFNJVj1J"
-        }
-      ],
-      "duration_ms": 340560,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "The Stadium Techno Experience",
         "url": "https://open.spotify.com/album/6SLDe9QuNJd0L9XoaPOa9R"
       },
@@ -1339,22 +1339,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "5 Years of mau5",
-        "url": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2"
+        "name": "Gro\u00dfstadtm\u00e4rchen",
+        "url": "https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
         },
         {
-          "name": "Rob Swire",
-          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/2gct3VkeQT2IuGNFNJVj1J"
         }
       ],
-      "duration_ms": 328733,
-      "name": "Ghosts 'n' Stuff - Extended Mix",
-      "url": "https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI"
+      "duration_ms": 340560,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
     },
     {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "No Silence",
-        "url": "https://open.spotify.com/album/1z3EKLq7IsSUyElIqqulb0"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/0wYVNC09iLBVIqHB07Hckt"
-    },
-    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Twenty",
@@ -1527,6 +1511,22 @@
       "duration_ms": 210786,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "No Silence",
+        "url": "https://open.spotify.com/album/1z3EKLq7IsSUyElIqqulb0"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/0wYVNC09iLBVIqHB07Hckt"
     },
     {
       "added_at": "2021-04-29 18:40:15",

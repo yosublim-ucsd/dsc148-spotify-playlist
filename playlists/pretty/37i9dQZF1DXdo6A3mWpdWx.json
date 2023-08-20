@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 643588,
+  "num_followers": 644773,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDRkZDAxNTgxNGU1NWZhNDkzN2JhNTcwZGIzYzFjY2NhN2Q2ZWFm",
+  "snapshot_id": "MCxkZWIxZmRmY2I1NmM3ZWU2OGU4ZGFlZjcwODYzM2FjNmFmYTk0NWI3",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 260906,
       "name": "Music Sounds Better With You - Radio Edit",
       "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Very Necessary",
         "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 248573,
       "name": "Shoop",
       "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
         "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "World Clique",
         "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 231786,
       "name": "Groove Is in the Heart",
       "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Tubthumper",
+        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
+      },
+      "artists": [
+        {
+          "name": "Chumbawamba",
+          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
+        }
+      ],
+      "duration_ms": 278778,
+      "name": "Tubthumping",
+      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 279600,
       "name": "Would I Lie To You?",
       "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Tubthumper",
-        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
-      },
-      "artists": [
-        {
-          "name": "Chumbawamba",
-          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
-        }
-      ],
-      "duration_ms": 278778,
-      "name": "Tubthumping",
-      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Ecuador - Original Radio Edit",
-      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 170000,
       "name": "The Shoop Shoop Song (It's In His Kiss)",
       "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Ecuador - Original Radio Edit",
+      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Cosmic Girl - Remastered",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "1992 - 2012",
         "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
       "artists": [
         {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
+      "duration_ms": 244146,
+      "name": "Cosmic Girl - Remastered",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 272093,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Doctor Jones",
-      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Movin' Melodies",
         "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 193880,
       "name": "9Pm (Till I Come)",
       "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Doctor Jones",
+      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "'N Sync UK Version",
+        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "I Want You Back - Radio Edit",
+      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Back For Good",
         "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
       },
@@ -1883,18 +1899,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "'N Sync UK Version",
-        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
         }
       ],
-      "duration_ms": 200440,
-      "name": "I Want You Back - Radio Edit",
-      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1927,26 +1947,6 @@
       "duration_ms": 285106,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Encore Une Fois - Future Breeze Edit",
-      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 388400,
-      "name": "Freedom! '90",
-      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Get Ready",
         "url": "https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 222911,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 388400,
+      "name": "Freedom! '90",
+      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Born Slippy (Nuxx) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 264187,
-      "name": "Born Slippy (Nuxx) - Radio Edit",
-      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Swing Batta Swing!",
         "url": "https://open.spotify.com/album/0BFZy6FBVmJmSK5FjQj2RN"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 239733,
       "name": "Come Baby Come",
       "url": "https://open.spotify.com/track/2b8RCiPb2rtG5AQ1FwyUZX"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Born Slippy (Nuxx) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 264187,
+      "name": "Born Slippy (Nuxx) - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
     },
     {
       "added_at": "2022-10-11 00:00:00",

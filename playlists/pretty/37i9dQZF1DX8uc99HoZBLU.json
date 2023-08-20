@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9",
-  "num_followers": 763930,
+  "num_followers": 764098,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODA2MzkxMzhmMTQxMDRkM2M2MjU3ZDdjODBjYjUzMWQyZTE2MjA1",
+  "snapshot_id": "MCwxYTEyMjFhYmU1YjkyY2ViN2E0MjFhNzRkOGQ2MDVmMjcwZWZlYmEz",
   "tracks": [
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Sunflower, Vol. 6",
-      "url": "https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 173286,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Sunflower, Vol. 6",
+      "url": "https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Animal Kingdom",
-        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 329049,
-      "name": "Boys Will Be Bugs",
-      "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 162794,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "Animal Kingdom",
+        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 329049,
+      "name": "Boys Will Be Bugs",
+      "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
     },
     {
       "added_at": "2023-08-17 16:24:24",

@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,211 likes - 20 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,453 likes - 20 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crucify Your Mind](https://open.spotify.com/track/2Xn7NadvZ56D0B2D7x2CSL) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:32 |
 | 2 | [I Think Of You](https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:25 |
 | 3 | [Ecuador](https://open.spotify.com/track/4pdARdDcofXEGh29NYoo98) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 5:55 |
-| 4 | [I'm Gonna Live Till I Die \- Recorded Live at The Triple Door, Seattle, June 23, 2009](https://open.spotify.com/track/1fa9thKzMq5TmeUs1OJaRO) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Record Store Day 7"](https://open.spotify.com/album/6ssxScXjJlSttC1JE0n7Mp) | 3:33 |
+| 4 | [I'll Slip Away](https://open.spotify.com/track/5TFaVFcq4sblM4fW5wzG2Y) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 2:51 |
 | 5 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 |
 | 6 | [Silver Words?](https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 2:04 |
-| 7 | [I'll Slip Away](https://open.spotify.com/track/5TFaVFcq4sblM4fW5wzG2Y) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 2:51 |
-| 8 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
+| 7 | [I'm Gonna Live Till I Die \- Recorded Live at The Triple Door, Seattle, June 23, 2009](https://open.spotify.com/track/1fa9thKzMq5TmeUs1OJaRO) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Record Store Day 7"](https://open.spotify.com/album/6ssxScXjJlSttC1JE0n7Mp) | 3:33 |
+| 8 | [Street Boy](https://open.spotify.com/track/1qckRGY4rDziXQv86ofYzW) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:47 |
 | 9 | [Hate Street Dialogue](https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:33 |
-| 10 | [Climb Up On My Music](https://open.spotify.com/track/2Gu7LqbawC5nQ4pQBJHNeQ) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 4:54 |
-| 11 | [Street Boy](https://open.spotify.com/track/1qckRGY4rDziXQv86ofYzW) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:47 |
-| 12 | [Learnin' the Blues](https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 2:32 |
-| 13 | [Rich Folks Hoax](https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:05 |
-| 14 | [Cause](https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 5:30 |
-| 15 | [Can't Get Away](https://open.spotify.com/track/6pmDqTidfGwyMtUXPogaOM) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:56 |
-| 16 | [Somebody to Love](https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 4:01 |
-| 17 | [Sugar Man](https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:49 |
-| 18 | [Sandrevan Lullaby \- Lifestyles](https://open.spotify.com/track/5gqr1A0TGIceLkmEGI3irE) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 6:37 |
-| 19 | [Forget It](https://open.spotify.com/track/3hgVJGSwCFY8M84FavQwdD) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 1:50 |
+| 10 | [Cause](https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 5:30 |
+| 11 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
+| 12 | [Can't Get Away](https://open.spotify.com/track/6pmDqTidfGwyMtUXPogaOM) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:56 |
+| 13 | [Forget It](https://open.spotify.com/track/3hgVJGSwCFY8M84FavQwdD) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 1:50 |
+| 14 | [Climb Up On My Music](https://open.spotify.com/track/2Gu7LqbawC5nQ4pQBJHNeQ) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 4:54 |
+| 15 | [Learnin' the Blues](https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 2:32 |
+| 16 | [Rich Folks Hoax](https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:05 |
+| 17 | [Sandrevan Lullaby \- Lifestyles](https://open.spotify.com/track/5gqr1A0TGIceLkmEGI3irE) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 6:37 |
+| 18 | [Somebody to Love](https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 4:01 |
+| 19 | [Sugar Man](https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:49 |
 | 20 | [Halfway Up The Stairs](https://open.spotify.com/track/3g9vVwKpMzMsMa9t4u1WgT) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 2:27 |
 
-Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAwNDAwNjc3MzUwM2I3MTE3ZjNiZWZiMWIwNjM0OTNkMQ==`
+Snapshot ID: `MjgyMDc0NTIsMDAwMDAwMDA5ZmM4NmZkNDdiN2NjYjQwMzk0Njk4ZWZhYTQ2MTc3Nw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,803 likes - 38 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,789 likes - 38 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 3 | [lady](https://open.spotify.com/track/1h9HxkDH67X8cig593BBOb) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:36 |
 | 4 | [farfalle](https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 2:44 |
 | 5 | [INSUPERABILE](https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER](https://open.spotify.com/album/6et3LALeDMavQqtIn2AC3Z) | 2:52 |
-| 6 | [Virale](https://open.spotify.com/track/2UaTiaxdp9uaRb6fMy8qpR) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Virale](https://open.spotify.com/album/0rSZMkAo12juM5issAjerT) | 3:04 |
-| 7 | [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 |
+| 6 | [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 |
+| 7 | [Virale](https://open.spotify.com/track/2UaTiaxdp9uaRb6fMy8qpR) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Virale](https://open.spotify.com/album/0rSZMkAo12juM5issAjerT) | 3:04 |
 | 8 | [SaN LoREnZo \(feat\. Annalisa\)](https://open.spotify.com/track/2n6ZWiGk5VLYhHZUBc0SiI) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [NoRd](https://open.spotify.com/album/1F0O90sZiD6E1iKVizRn2s) | 3:22 |
 | 9 | [Furore](https://open.spotify.com/track/1grE7P4DFbcgWrG8uTW6W0) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Per Sempre](https://open.spotify.com/album/4cHkEbaasmk9Bk5W5bXpgO) | 2:56 |
 | 10 | [scossa](https://open.spotify.com/track/7aoU4HfD4yc1LhpyldWFtm) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/67LfyhhnPgGxXKMDuXzLnT) | 3:01 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 37 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
 | 38 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 
-Snapshot ID: `MjgxOTUzMjAsMDAwMDAwMDA0Y2ZjYjFkODhmMGRmYjRjZDJlZTU3NTdkNDU5MzhiNg==`
+Snapshot ID: `MjgyMDgyODAsMDAwMDAwMDBhNWFjN2JlZDFjNDI1YjIwNzBjZjhlMmJjNWNiMDYwMw==`

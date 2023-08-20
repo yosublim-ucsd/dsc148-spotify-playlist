@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,244 likes - 102 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,263 likes - 102 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 77 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
 | 78 | [cry/dance](https://open.spotify.com/track/5xlqC38FzUI80czGvrLn8o) | [Dog Park](https://open.spotify.com/artist/6Kop7MbTrWy5WGNqxsi8Xl) | [Gemini](https://open.spotify.com/album/7AXLsVfxnrp1waIHzIYA8O) | 3:09 |
 | 79 | [Vi 2 \(Gimme More\)](https://open.spotify.com/track/0mZzJa0wOKIDOyqpBU5OBv) | [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [Vi 2 \(Gimme More\)](https://open.spotify.com/album/5oEkQApeKkngvJP4CVyrR7) | 2:13 |
-| 80 | [The Craziest Thing \(Lost Boy Remix\) \- Official Song European Table Tennis Championship 2023](https://open.spotify.com/track/4XnZDTY6faWn4KNpJH5dcf) | [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg), [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Lost Boy](https://open.spotify.com/artist/2AiNqs2e9dbEg1Ob8l7RQw) | [The Craziest Thing \(Lost Boy Remix\) \[Official Song European Table Tennis Championship 2023\]](https://open.spotify.com/album/2uLuplKxpnZaXd9rdG2Yq0) | 3:05 |
-| 81 | [Sommarregn](https://open.spotify.com/track/48OlJQaF6vkfHvJFGfTOPH) | [Magnus Carlson](https://open.spotify.com/artist/4Ag5mrJhXH238pExZYJcaM), [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Sommarregn](https://open.spotify.com/album/7tT4bL5Y1dyEziMu3ueo0Z) | 4:34 |
+| 80 | [The Craziest Thing \(Lost Boy Remix\) \- Official Song European Table Tennis Championship 2023](https://open.spotify.com/track/4XnZDTY6faWn4KNpJH5dcf) | [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg), [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Helena Josefsson](https://open.spotify.com/artist/01o8zdH2NoWSZ4CEsYS44r), [Dea Norberg](https://open.spotify.com/artist/1s2NADRmVmkEjLZlE6vHvE), [Lost Boy](https://open.spotify.com/artist/2AiNqs2e9dbEg1Ob8l7RQw) | [The Craziest Thing \(Official Song European Table Tennis Championship 2023\)](https://open.spotify.com/album/2uLuplKxpnZaXd9rdG2Yq0) | 3:05 |
+| 81 | [Sommarregn](https://open.spotify.com/track/48OlJQaF6vkfHvJFGfTOPH) | [Magnus Carlson](https://open.spotify.com/artist/4Ag5mrJhXH238pExZYJcaM) | [Sommarregn](https://open.spotify.com/album/7tT4bL5Y1dyEziMu3ueo0Z) | 4:34 |
 | 82 | [IYKYK](https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [IYKYK](https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t) | 3:28 |
 | 83 | [Gulag](https://open.spotify.com/track/4iW5JEmHMQ8ilQgmSN3oRc) | [5iftyy](https://open.spotify.com/artist/56hM6Y3Cw2g8xZOfZrHBuS), [Nummeruno](https://open.spotify.com/artist/3fqyGN8369e3uhq4TjsSiJ) | [Gulag](https://open.spotify.com/album/6qxICwTLoyoAtm1m3TJZDK) | 2:28 |
 | 84 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 101 | [Glasgowkyss](https://open.spotify.com/track/0KyqGOCLIyyYGa9UMXS5si) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Glasgowkyss](https://open.spotify.com/album/2diuedXxsq0lRszTiK28uN) | 3:54 |
 | 102 | [Our Energy](https://open.spotify.com/track/4KM8bp4QcSxlnq4VNszzNg) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Gina Livia](https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh) | [Our Energy](https://open.spotify.com/album/0baRBtUwBjjD5xWPyGAJeV) | 3:02 |
 
-Snapshot ID: `MCw1MzIwZjI1ZjA1YmM3ZDRkOGZkMzlhN2Y1MjRhY2RhNGZkYmNiZjZl`
+Snapshot ID: `MCwyNDY0ODQ0NWY2ODcxOGZjNmNiMWU5MzNlNGUyMWZiYTRjZmFmY2M5`

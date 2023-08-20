@@ -4,7 +4,7 @@
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 45 min
+60 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Tengo una chica](https://open.spotify.com/track/2ryq4M0wF5EqpGbxLTbHYM) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 3:52 | 2022-10-26 |  |
 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 | 2022-10-26 |  |
 | [Un par de palabras](https://open.spotify.com/track/1oYZ1XlKVR2l9teqqIsZes) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:16 | 2022-10-26 |  |
-| [Una mujer de bandera \- Remaster 2015](https://open.spotify.com/track/46g7tfZA95BFRUuTvkQROw) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 3:05 | 2022-10-26 |  |
+| [Una mujer de bandera](https://open.spotify.com/track/0QHmjX6DKlKLKPGqqIsRC4) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:06 | 2023-08-19 |  |
+| [Una mujer de bandera \- Remaster 2015](https://open.spotify.com/track/46g7tfZA95BFRUuTvkQROw) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 3:05 | 2022-10-26 | 2023-08-20 |
 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 | 2022-10-26 |  |
 | [Visite nuestro bar](https://open.spotify.com/track/65Lg0BbJnzTIPMlnXN3Knv) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:21 | 2022-10-26 |  |
 | [Voy a pasármelo bien](https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Voy A Pasarmelo Bien](https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv) | 3:55 | 2022-10-26 |  |

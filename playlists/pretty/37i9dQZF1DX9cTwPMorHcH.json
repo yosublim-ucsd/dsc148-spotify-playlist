@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 72514,
+  "num_followers": 72606,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDYxNzg0M2MwODRkNzAwYWFkZmI0M2Y0NTkxOWVmMzFhYmU0ZjEy",
+  "snapshot_id": "MCw1MjE0Mzg4OGY2MDhiYTNhZDBlNzI3M2E5MTkzNGMwY2I1NDUxYWU1",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 264240,
       "name": "Riding With the King",
       "url": "https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Wolf Den",
-        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "Take It All",
-      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Wolf Den",
+        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 248035,
       "name": "Outside Of This Town",
       "url": "https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Suitcase",
-        "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Life Is Beautiful",
-      "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -859,18 +843,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Bright Lights EP",
-        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
+        "name": "Suitcase",
+        "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 215866,
-      "name": "Don't Owe You a Thang",
-      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
+      "duration_ms": 256493,
+      "name": "Life Is Beautiful",
+      "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -887,6 +871,22 @@
       "duration_ms": 478746,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Bright Lights EP",
+        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Don't Owe You a Thang",
+      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Blues Breakers",
+        "url": "https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 240493,
       "name": "Flesh & Bone (Dedicated to B.B. King) (with Van Morrison)",
       "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Blues Breakers",
-        "url": "https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 319253,
-      "name": "Bulletproof - Tangle Eye Mix",
-      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Self Made Man",
@@ -1459,6 +1443,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 319253,
+      "name": "Bulletproof - Tangle Eye Mix",
+      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Trouble Is...",
         "url": "https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 231880,
       "name": "Signs, High Times",
       "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV"
     },
     {
       "added_at": "2022-11-03 15:55:35",

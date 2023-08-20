@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 宇多田ヒカル\(Hikaru Utada\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,111 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,421 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [DAY feat\. PUNPEE](https://open.spotify.com/track/2SnYJgNCLeLmYqLBDn4PVx) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [DAY feat\. PUNPEE](https://open.spotify.com/album/6m4Ju35ORC4APD8X9bQREC) | 3:46 |
 | 50 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 |
 
-Snapshot ID: `MCwxYjdlZTEyNWEzM2EwYWVlNzRlNzM5ZDNjOTY3ZTRiYTVlYmMzN2Ey`
+Snapshot ID: `MCxjMTk5OTFkY2NkMGEzM2RjMjNkNzljODJmMDhhNGY1YmNiZDEwOTkz`

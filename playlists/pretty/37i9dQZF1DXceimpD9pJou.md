@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL?si=877493346f384810">Niko Eme</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,930 likes - 99 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,995 likes - 99 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 2 | [For Kanye](https://open.spotify.com/track/1tZl3gUVPmR8APqBrQn7i6) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [For Kanye](https://open.spotify.com/album/65VugZKk4WpMv1QnIkenOQ) | 2:17 |
 | 3 | [Fuego](https://open.spotify.com/track/6zbgq7VRSPRzOnLDww8kRb) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Eva Nova 316](https://open.spotify.com/artist/5CbDz8EWLDk7P8xgYBtOD3) | [Fuego](https://open.spotify.com/album/0IaWMrGjs1xll03VvlcROx) | 2:55 |
 | 4 | [Alfarero](https://open.spotify.com/track/1oitWKR0XCDsrHxjAUOBwg) | [Jennifer Hurtado](https://open.spotify.com/artist/4F1wRYU0CoLIhLMjdmoEXx), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Alfarero](https://open.spotify.com/album/4r4XKumnrS1IHjnA8X5egq) | 3:12 |
-| 5 | [Libre](https://open.spotify.com/track/1CYi5ZlZyscOKa2mvFvaVY) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [Caribeño](https://open.spotify.com/album/3EYX2ghdMCIrm7SUZM5TRV) | 3:57 |
+| 5 | [Libre](https://open.spotify.com/track/1CYi5ZlZyscOKa2mvFvaVY) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [Caribeño](https://open.spotify.com/album/3EYX2ghdMCIrm7SUZM5TRV) | 3:58 |
 | 6 | [Diccionario](https://open.spotify.com/track/7xXKf603uv2ih4vt8RsLcY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [Diccionario](https://open.spotify.com/album/4CuBXwhaOixyOGBAlJFN0y) | 3:14 |
 | 7 | [El Día En Que La Muerte Murió](https://open.spotify.com/track/79o7CaZCTWxN4VV6g6RJr9) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [El Día En Que La Muerte Murió](https://open.spotify.com/album/0sqZYyIRoM7qcfqd9Ixdh6) | 3:31 |
 | 8 | [Nochebuena](https://open.spotify.com/track/1PXcH4A7ntMeC4DdFzWaRi) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Nochebuena](https://open.spotify.com/album/3HE1bKzi574kVsjTswXgmh) | 2:45 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [FlowPiQ](https://open.spotify.com/track/1LXy8GFZW8cpOxTtQngHoX) | [Dr\. Roca](https://open.spotify.com/artist/5gHzgHg9sEAWIClpJNgZ2J), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [FlowPiQ](https://open.spotify.com/album/0ByK1hBqDggwDLgRoLrzBY) | 2:33 |
 | 99 | [Roquero, Pt\. 2](https://open.spotify.com/track/51eMCfgWL4cCL9SqZnPuR1) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Jymba](https://open.spotify.com/artist/0FN1WCqzw7rwFm03jLNLzA) | [Roquero, Pt\. 2](https://open.spotify.com/album/4yNlzqANs18RNQetFydRU5) | 3:04 |
 
-Snapshot ID: `MCxhNzAzMjNjMzQ5ZWRhOWRmYWI0MTc5ZDk2YzBiNmU4MzM0OTdkNmY0`
+Snapshot ID: `MCw1NmM1ZTNmNTM2YmEzOGVlN2Y0NGRlYzQ2YTY1YzkwZDlkN2MwYTI0`

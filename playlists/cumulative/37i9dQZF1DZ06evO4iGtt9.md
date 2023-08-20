@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-85 songs - 4 hr 47 min
+86 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Born to Win](https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:53 | 2022-03-23 |  |
 | [Born to Win](https://open.spotify.com/track/7aMI3W4ZCeTe6Ehw17SCAr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Born to Win](https://open.spotify.com/album/321Mt20RKG05X44Ta4JvKF) | 2:53 | 2021-12-28 | 2022-03-24 |
 | [Bow Down](https://open.spotify.com/track/4qa7gYSpbGV4UKYuq20qB3) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 3:24 | 2021-12-28 | 2023-08-09 |
-| [Bum Bum](https://open.spotify.com/track/2khTwf0sIaNkodJRHRgk6s) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 3:38 | 2021-12-28 |  |
-| [Buru](https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:38 | 2022-10-27 | 2023-05-02 |
+| [Bum Bum](https://open.spotify.com/track/2khTwf0sIaNkodJRHRgk6s) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 3:38 | 2021-12-28 | 2023-08-20 |
+| [Bum Bum](https://open.spotify.com/track/4XMGNnGcv1dcTqBPCDnvgz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/6TqxXp18xYFYqwxXR6qCOE) | 3:38 | 2023-08-19 |  |
+| [Buru](https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:38 | 2022-10-27 |  |
 | [Charger](https://open.spotify.com/track/5IMX7sh5kGdVX7iWqN5Url) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Charger](https://open.spotify.com/album/5jvsWsFqZzym9fMhBtDKZ8) | 3:26 | 2022-03-20 | 2023-07-02 |
 | [Chop Life](https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chop Life](https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM) | 2:25 | 2023-03-25 |  |
 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 | 2021-12-28 |  |
@@ -73,7 +74,7 @@
 | [Ogede](https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [The Gehn Gehn Album](https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS) | 3:27 | 2022-09-10 |  |
 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 | 2021-12-28 |  |
 | [One Chance \(feat\. Timaya\)](https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:04 | 2021-12-28 | 2022-10-13 |
-| [Plantain Boy](https://open.spotify.com/track/4BgsF8GGZkTaBEx44pcKRH) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 4:06 | 2021-12-28 |  |
+| [Plantain Boy](https://open.spotify.com/track/4BgsF8GGZkTaBEx44pcKRH) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 4:06 | 2021-12-28 | 2023-08-20 |
 | [Pull Up](https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 | 2021-12-28 |  |
 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 | 2021-12-28 |  |
 | [Sanko](https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:07 | 2021-12-28 |  |

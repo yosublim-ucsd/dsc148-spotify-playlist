@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1971222,
+  "num_followers": 1971368,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGZjMTg0NDQyZDdkMjZlNTY5MWMwZTMyYjJhZjNjMTIxOTUyY2Rl",
+  "snapshot_id": "MCw2NzE4NzcyNWFjNTRiNjNhNmRjYzIzYzZlZmQ3NjZiNjgwNTFiYWRj",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "WHERE WE ARE",
-      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Hey Julia",
         "url": "https://open.spotify.com/album/161llzgJp98MoWom3IJOJp"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 119590,
       "name": "Hey Julia",
       "url": "https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 241706,
       "name": "Shake",
       "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Olly Olly",
-        "url": "https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 189282,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 156360,
       "name": "I Keep Ticking On",
       "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Olly Olly",
+        "url": "https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 189282,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Shaky Ground",
         "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 192893,
       "name": "Shaky Ground",
       "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Put It Together",
-      "url": "https://open.spotify.com/track/0qau061S9oIy7S5xHruwHA"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Half Moon Light",
         "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
       },
@@ -1471,6 +1451,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Put It Together",
+      "url": "https://open.spotify.com/track/0qau061S9oIy7S5xHruwHA"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Shabang",
         "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Nightjar and the Nightingale",
-        "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "I Just Love You",
-      "url": "https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Graveclothes",
         "url": "https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 227105,
       "name": "Graveclothes",
       "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Nightjar and the Nightingale",
+        "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "I Just Love You",
+      "url": "https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6KDS26ap7qW6zDI45PWEUF"
+        "name": "Hold On For Dear Life",
+        "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
       "artists": [
         {
-          "name": "Tors",
-          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        },
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 179750,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/5SJVX5HeliCen2YqfkzubC"
+      "duration_ms": 227117,
+      "name": "Hold On For Dear Life",
+      "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
     }
   ],
   "unique_name": "Happy Folk",

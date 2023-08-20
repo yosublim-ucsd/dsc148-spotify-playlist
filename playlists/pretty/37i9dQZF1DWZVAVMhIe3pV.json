@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 330983,
+  "num_followers": 331176,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2M0NTFmYjcwZDMwNTQ0MTU5MGI3ZTQ2YzI1NGViNDZlOWE2NjQ1",
+  "snapshot_id": "MCw3Y2NkZTc3ZDcyYTg0NzQ2MmYxYjdlMjU2NzkyOGY1ZjRjYTg1NmEz",
   "tracks": [
     {
       "added_at": "2023-07-23 20:36:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-07-23 20:36:00",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 374333,
-      "name": "Rooster (2022 Remaster)",
-      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-    },
-    {
-      "added_at": "2023-07-23 20:36:00",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-07-23 20:36:00",
       "album": {
-        "name": "Transformers: Revenge Of The Fallen The Album",
-        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 268613,
-      "name": "New Divide",
-      "url": "https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd"
+      "duration_ms": 374333,
+      "name": "Rooster (2022 Remaster)",
+      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
     },
     {
       "added_at": "2023-07-23 20:36:00",
@@ -747,6 +731,22 @@
       "duration_ms": 207213,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
+    },
+    {
+      "added_at": "2023-07-23 20:36:00",
+      "album": {
+        "name": "Transformers: Revenge Of The Fallen The Album",
+        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "New Divide",
+      "url": "https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd"
     },
     {
       "added_at": "2023-07-23 20:36:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-23 20:36:00",
       "album": {
-        "name": "Wonder What's Next (Expanded Edition)",
-        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "Send the Pain Below",
-      "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
-    },
-    {
-      "added_at": "2023-07-23 20:36:00",
-      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2023-07-23 20:36:00",
       "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+        "name": "Wonder What's Next (Expanded Edition)",
+        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
       "artists": [
         {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
         }
       ],
-      "duration_ms": 187693,
-      "name": "Hollywood Baby",
-      "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
+      "duration_ms": 252360,
+      "name": "Send the Pain Below",
+      "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
     },
     {
       "added_at": "2023-07-23 20:36:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 313946,
       "name": "Plush - 2017 Remaster",
       "url": "https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4"
+    },
+    {
+      "added_at": "2023-07-23 20:36:00",
+      "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Hollywood Baby",
+      "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
     }
   ],
   "unique_name": "Energy Booster: Rock",

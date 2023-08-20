@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-425 songs - 21 hr 21 min
+426 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Bandido Não Dança](https://open.spotify.com/track/5WGTBzRLbjj0Sm3Br8X1rI) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bandido Não Dança](https://open.spotify.com/album/6pGEl2UutstK1XclQQgFz0) | 2:06 | 2023-01-10 | 2023-07-18 |
 | [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 | 2023-05-29 |  |
 | [Barbie De Chapéu](https://open.spotify.com/track/66sx8aUdhRlj4VAdjDOoUJ) | [laykied](https://open.spotify.com/artist/7zNLR0qe42FgFmcUkooGNC) | [Barbie De Chapéu](https://open.spotify.com/album/7xUcl62eBxWtI9jcv5LiIe) | 2:40 | 2023-07-25 | 2023-08-01 |
-| [Barbie de Chapéu](https://open.spotify.com/track/3MGgfEpCPrq2DkK5zSeOjK) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/1BlOheCJJsO77LKcmDG1XO) | 2:44 | 2023-07-28 |  |
+| [Barbie de Chapéu](https://open.spotify.com/track/3MGgfEpCPrq2DkK5zSeOjK) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/1BlOheCJJsO77LKcmDG1XO) | 2:44 | 2023-07-28 | 2023-08-20 |
+| [Barbie de Chapéu](https://open.spotify.com/track/4gPTuFFq4wt2aqAjJzXA5a) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/32XxuSbQZrMPxi0Bu84ZFE) | 2:44 | 2023-08-17 |  |
 | [barbie de chapéu \- funk](https://open.spotify.com/track/4MB8rQqtjrIrQw4ThCPf8e) | [Dj Paiva](https://open.spotify.com/artist/2383IwhdilQ7mXGRSR5VvM) | [barbie de chapéu \(funk\)](https://open.spotify.com/album/2gMfiCskXsisEV7LsqFLaB) | 2:33 | 2023-08-15 |  |
 | [Beat Snap \(Viral Tiktok\)](https://open.spotify.com/track/0Knr7VNVvi3Y7ODKDkWZQG) | [Sr\. Nescau](https://open.spotify.com/artist/6Tgacqoj19pdr24530Fqjd) | [Beat Snap \(Viral Tiktok\)](https://open.spotify.com/album/4OioZfSJyB6ivP6lNExXhE) | 2:21 | 2022-09-05 | 2022-09-15 |
 | [Bebezinhas da Facul](https://open.spotify.com/track/3571WJGuiFHQkWl1w5qR79) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Bruderr](https://open.spotify.com/artist/0aUnOozGoBOVn8guTaU2qK), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bebezinhas da Facul](https://open.spotify.com/album/6WZ2LVBwfhOqDky5QuN4L0) | 3:56 | 2023-06-19 |  |

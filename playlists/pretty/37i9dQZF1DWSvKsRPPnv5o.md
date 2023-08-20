@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Zoe Osama
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,155 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,236 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
+| 1 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
 | 2 | [From The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4knQpcVbbWsFPIa6qBzTV0) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [From The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/58P9jc9vetnETNS7prGuv4) | 2:07 |
 | 3 | [Gangsta Boogie](https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi) | 3:54 |
 | 4 | [Hobby](https://open.spotify.com/track/2CoecjHauRD4qpFeeaxzgJ) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [7 Figures Later](https://open.spotify.com/album/4UPLpDv0gIwzLnvVKLoGKn) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 74 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 | 75 | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g) | 3:03 |
 
-Snapshot ID: `MCxmMzU4Nzc1MzA1NzU1YjM1ZmNjZjljMmUyYjEwZTkwMDhiMDU1ZTEz`
+Snapshot ID: `MCwzNzA0Nzk0ZTNlYjhiMTg2NmVhNzIwYTgzMDk5YmQyYjUwODZmNzBh`

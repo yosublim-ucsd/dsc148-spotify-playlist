@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,544 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,685 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [La Discusion Fue Una Yegua](https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 2:47 |
 | 50 | [Ezequiel Rodriguez](https://open.spotify.com/track/49HTMbHr98K8GDok9CHHDR) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 3:02 |
 
-Snapshot ID: `MjgyMDYwNDgsMDAwMDAwMDBkODZlN2RhODQyZWFhN2Y1MDU5ZjlmOTZjMzk2MmM3OQ==`
+Snapshot ID: `MjgyMDc0NTIsMDAwMDAwMDA3YjZmM2QxNmEwOTlmNGIwMDRiMGU0NGQ0NTExYTEwNg==`

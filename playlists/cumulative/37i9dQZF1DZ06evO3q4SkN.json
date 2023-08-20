@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 88282,
       "name": "Buscando Trabajo",
       "url": "https://open.spotify.com/track/0MjgwZTsMxJ79gsD10Fll2"
@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47866,
+      "name": "Crab Fishing",
+      "url": "https://open.spotify.com/track/1EKBIa8fnpuyXqLtb9kTf8"
+    },
+    {
+      "album": {
         "name": "Shovel Buddies (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 44425,
       "name": "Dan and Sammy",
       "url": "https://open.spotify.com/track/4bAXGp1XEo83RqLYe46jw9"
@@ -356,6 +374,28 @@
       "duration_ms": 54373,
       "name": "Don't Give Up You Two",
       "url": "https://open.spotify.com/track/6MyB4Txgtsq7YTHMAOPD71"
+    },
+    {
+      "album": {
+        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71853,
+      "name": "Dora and the Lost City of Gold",
+      "url": "https://open.spotify.com/track/3Y5eHVnO7FFsVH0sjo5r3t"
     },
     {
       "album": {
@@ -450,7 +490,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 71400,
       "name": "George And Doris",
       "url": "https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck"
@@ -486,7 +526,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 61293,
       "name": "George's Pancake Practice",
       "url": "https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G"
@@ -562,7 +602,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 61853,
       "name": "Helicopter to Reunions",
       "url": "https://open.spotify.com/track/6SpjiHht08N1jfKzsqfWuJ"
@@ -878,7 +918,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 65306,
       "name": "No Such Thing as Magic",
       "url": "https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ"
@@ -936,7 +976,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 91453,
       "name": "Royal Car",
       "url": "https://open.spotify.com/track/2lsmyzXbFXVOsq91rMirAS"
@@ -972,7 +1012,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 86133,
       "name": "Simiana Derby Race",
       "url": "https://open.spotify.com/track/2LTelmAAj58iqRUmjxWwiq"
@@ -1012,6 +1052,24 @@
       "duration_ms": 244255,
       "name": "The Box",
       "url": "https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn"
+    },
+    {
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49120,
+      "name": "The King's Royal Toys",
+      "url": "https://open.spotify.com/track/7yEH6l5TiI0jsFDzFWZbLa"
     },
     {
       "album": {

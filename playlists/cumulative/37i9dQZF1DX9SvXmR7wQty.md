@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Aya Nakamura
 
-1,990 songs - 4 day 10 hr 14 min
+1,991 songs - 4 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Banque de Beats Mondiale](https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Banque de Beats Mondiale](https://open.spotify.com/album/62KeY1v3G53EralWy54EJh) | 2:15 | 2023-06-16 | 2023-06-24 |
 | [Bar\-Mitzvah](https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Bar\-Mitzvah](https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0) | 2:07 | 2022-07-22 | 2022-08-20 |
 | [Barbade](https://open.spotify.com/track/5zzOE42zx3RsAt8YSHeFrk) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [45 Degrés](https://open.spotify.com/album/0uffrPthhPnBvRdfdYvd4s) | 3:12 | 2022-07-22 | 2022-08-20 |
-| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 |  |
+| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 | 2023-08-20 |
 | [Barrières](https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K) | [Fifo](https://open.spotify.com/artist/5OFfXZvVHDQ76SarIJtG0a), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Barrières](https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF) | 3:25 | 2022-10-21 | 2022-11-05 |
 | [Battleship](https://open.spotify.com/track/2RgRCdL6UgBkPUFabrM36G) | [David Jalbert](https://open.spotify.com/artist/73hJgSbsD0XvlYzI1ZmVpa) | [Le doigt d'honneur Tome II](https://open.spotify.com/album/18YetqWoWPzenG5RtA5pt0) | 3:17 | 2022-03-18 | 2022-03-26 |
 | [Bavard](https://open.spotify.com/track/6R3tleNvmMHJyHCDU5fxET) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Renaissance](https://open.spotify.com/album/2zMexOBKvZIyu0LGwwZZu0) | 3:37 | 2022-01-21 | 2022-02-05 |
@@ -205,6 +205,7 @@
 | [Bon Appétit](https://open.spotify.com/track/6WDFHawIT5KH6iBsE48CLQ) | [EL GARRA](https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA), [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh) | [Bon Appétit](https://open.spotify.com/album/3GcZO8Xxo6KGM1YwDt9fmp) | 2:54 | 2022-09-09 | 2022-09-24 |
 | [Bon voyage](https://open.spotify.com/track/6934xZ6P9VOCybFXgnx7nk) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Bon voyage](https://open.spotify.com/album/6Hy11BQnSBxrsBRekvMiib) | 4:05 | 2022-02-18 | 2022-03-05 |
 | [Bonita](https://open.spotify.com/track/4u5yF9901XzjO8TmccIE59) | [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA) | [Bonita](https://open.spotify.com/album/2qwuTEQGT5TLBpG0KBPn4C) | 2:33 | 2022-08-26 | 2022-09-10 |
+| [Bonjour](https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bonjour](https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7) | 2:16 | 2023-08-18 |  |
 | [BONKASA](https://open.spotify.com/track/62u6D0NgRPtFcCdF5rNLeh) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [BONKASA](https://open.spotify.com/album/4WfVv45jeLIbqBm5zriHs6) | 2:25 | 2022-07-22 | 2022-08-20 |
 | [Bonne Manière](https://open.spotify.com/track/5J5j58spTAqwweov7OyP5T) | [EL GARRA](https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA), [KOWZIE](https://open.spotify.com/artist/6gdUs4sLyfyUhZi598baea) | [Bonne Manière](https://open.spotify.com/album/3g5E6UMZkynwsB39sDcEkV) | 3:00 | 2022-10-07 | 2022-10-15 |
 | [Bonsaï](https://open.spotify.com/track/6LzREVOgZqgUhHkfuj209f) | [Gros Mené](https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT) | [Pax et Bonum](https://open.spotify.com/album/46cTZARrHo7jivv9B8mg9f) | 3:43 | 2022-04-01 | 2022-04-16 |

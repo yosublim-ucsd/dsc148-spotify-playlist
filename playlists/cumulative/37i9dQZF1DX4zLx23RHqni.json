@@ -732,6 +732,28 @@
     {
       "album": {
         "name": "Two",
+        "url": "https://open.spotify.com/album/1Oiggp6OzsfJfSaBtzrQxN"
+      },
+      "artists": [
+        {
+          "name": "Vishal - Aditya",
+          "url": "https://open.spotify.com/artist/18Gn0S8ERNbuv5GA8FB0xT"
+        },
+        {
+          "name": "Vishal Ramakrishnan",
+          "url": "https://open.spotify.com/artist/1KSeWs9MdFRE8H5jDa3ojg"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184999,
+      "name": "Nenjodu (Live Jazz Version)",
+      "url": "https://open.spotify.com/track/7iFRWJk0FqjzEqAL8hDGVL"
+    },
+    {
+      "album": {
+        "name": "Two",
         "url": "https://open.spotify.com/album/4SdhkjnRGPHYrVl06pF5vl"
       },
       "artists": [
@@ -742,7 +764,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 184999,
       "name": "Nenjodu (Live Jazz Version)",
       "url": "https://open.spotify.com/track/0YMltlt35Z1Dx6wxdZV4Rj"

@@ -392,10 +392,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 218826,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/2khTwf0sIaNkodJRHRgk6s"
+    },
+    {
+      "album": {
+        "name": "Best Of Timaya",
+        "url": "https://open.spotify.com/album/6TqxXp18xYFYqwxXR6qCOE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/4XMGNnGcv1dcTqBPCDnvgz"
     },
     {
       "album": {
@@ -410,7 +428,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 158320,
       "name": "Buru",
       "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 246120,
       "name": "Plantain Boy",
       "url": "https://open.spotify.com/track/4BgsF8GGZkTaBEx44pcKRH"

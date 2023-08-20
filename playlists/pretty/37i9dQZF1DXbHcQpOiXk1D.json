@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Yussef Dayes",
-  "num_followers": 294505,
+  "num_followers": 294585,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmQ3NjU4NTY4YWZhMjg1YTI2ZTgzMGUzNDE2NWIyMzE3ZjI2YWZl",
+  "snapshot_id": "MCxlZTVhMWUwY2ViMzQ4NzcwMTFkZDM0ZDEyNjY3Mjg0NDIwYTlkMTdh",
   "tracks": [
     {
       "added_at": "2023-08-18 13:17:14",
@@ -259,18 +259,22 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
-        "name": "Calder Shapes",
-        "url": "https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe"
+        "name": "Rust (feat. Tom Misch)",
+        "url": "https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0"
       },
       "artists": [
         {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 428653,
-      "name": "Calder Shapes",
-      "url": "https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt"
+      "duration_ms": 238786,
+      "name": "Rust (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb"
     },
     {
       "added_at": "2023-08-18 13:17:14",
@@ -291,22 +295,18 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
-        "name": "Rust (feat. Tom Misch)",
-        "url": "https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0"
+        "name": "Calder Shapes",
+        "url": "https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe"
       },
       "artists": [
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
         }
       ],
-      "duration_ms": 238786,
-      "name": "Rust (feat. Tom Misch)",
-      "url": "https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb"
+      "duration_ms": 428653,
+      "name": "Calder Shapes",
+      "url": "https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt"
     },
     {
       "added_at": "2023-08-18 13:17:14",
@@ -331,6 +331,30 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
+        "name": "Magnolia II",
+        "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Corey Fonville",
+          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Magnolia II",
+      "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
+    },
+    {
+      "added_at": "2023-08-18 13:17:14",
+      "album": {
         "name": "The Spoon",
         "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
       },
@@ -343,22 +367,6 @@
       "duration_ms": 426240,
       "name": "The Spoon",
       "url": "https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9"
-    },
-    {
-      "added_at": "2023-08-18 13:17:14",
-      "album": {
-        "name": "Mountains, Trees and Seas",
-        "url": "https://open.spotify.com/album/16xRAk41n6Qpmz0kput949"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 306093,
-      "name": "Mountains, Trees and Seas",
-      "url": "https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD"
     },
     {
       "added_at": "2023-08-18 13:17:14",
@@ -415,30 +423,6 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
-        "name": "Magnolia II",
-        "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        },
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Corey Fonville",
-          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Magnolia II",
-      "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
-    },
-    {
-      "added_at": "2023-08-18 13:17:14",
-      "album": {
         "name": "Everything Is Going to Be OK",
         "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 287992,
       "name": "Everything Is Going to Be OK",
       "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
+    },
+    {
+      "added_at": "2023-08-18 13:17:14",
+      "album": {
+        "name": "Mountains, Trees and Seas",
+        "url": "https://open.spotify.com/album/16xRAk41n6Qpmz0kput949"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 306093,
+      "name": "Mountains, Trees and Seas",
+      "url": "https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD"
     },
     {
       "added_at": "2023-08-18 13:17:14",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
+    },
+    {
+      "added_at": "2023-08-18 13:17:14",
+      "album": {
         "name": "Green Grass",
         "url": "https://open.spotify.com/album/75CB1iYaNf6pwIS366jB2o"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
-    },
-    {
-      "added_at": "2023-08-18 13:17:14",
-      "album": {
         "name": "Leader",
         "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
       },
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
-        "name": "Beggin' Man",
-        "url": "https://open.spotify.com/album/3ruRVM6PyTJ0uwBXkxoQD3"
-      },
-      "artists": [
-        {
-          "name": "Evil Genius",
-          "url": "https://open.spotify.com/artist/60BHUa95k7tplx1kHjHfhF"
-        },
-        {
-          "name": "Isaac Waddington",
-          "url": "https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH"
-        }
-      ],
-      "duration_ms": 202901,
-      "name": "Beggin' Man",
-      "url": "https://open.spotify.com/track/5xb5LmpDzZqvthEfwX7uwU"
-    },
-    {
-      "added_at": "2023-08-18 13:17:14",
-      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -663,22 +643,22 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
+        "name": "Beggin' Man",
+        "url": "https://open.spotify.com/album/3ruRVM6PyTJ0uwBXkxoQD3"
       },
       "artists": [
         {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+          "name": "Evil Genius",
+          "url": "https://open.spotify.com/artist/60BHUa95k7tplx1kHjHfhF"
         },
         {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+          "name": "Isaac Waddington",
+          "url": "https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH"
         }
       ],
-      "duration_ms": 302822,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
+      "duration_ms": 202901,
+      "name": "Beggin' Man",
+      "url": "https://open.spotify.com/track/5xb5LmpDzZqvthEfwX7uwU"
     },
     {
       "added_at": "2023-08-18 13:17:14",
@@ -707,6 +687,26 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
+      },
+      "artists": [
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 302822,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
+    },
+    {
+      "added_at": "2023-08-18 13:17:14",
+      "album": {
         "name": "Saturnine",
         "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 293298,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
+    },
+    {
+      "added_at": "2023-08-18 13:17:14",
+      "album": {
+        "name": "No Good For Me",
+        "url": "https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+        }
+      ],
+      "duration_ms": 282785,
+      "name": "No Good For Me",
+      "url": "https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB"
     },
     {
       "added_at": "2023-08-18 13:17:14",
@@ -739,38 +755,6 @@
       "duration_ms": 220001,
       "name": "Woe Is Me",
       "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"
-    },
-    {
-      "added_at": "2023-08-18 13:17:14",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 450240,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
-    },
-    {
-      "added_at": "2023-08-18 13:17:14",
-      "album": {
-        "name": "No Good For Me",
-        "url": "https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS"
-      },
-      "artists": [
-        {
-          "name": "Joseph Lawrence",
-          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
-        }
-      ],
-      "duration_ms": 282785,
-      "name": "No Good For Me",
-      "url": "https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB"
     },
     {
       "added_at": "2023-08-18 13:17:14",
@@ -811,6 +795,22 @@
       "duration_ms": 161771,
       "name": "5k",
       "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
+    },
+    {
+      "added_at": "2023-08-18 13:17:14",
+      "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 450240,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
     },
     {
       "added_at": "2023-08-18 13:17:14",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
+        "name": "your intuition is your friend (radio edit)",
+        "url": "https://open.spotify.com/album/57enkmVamHuaYnkD5ZoEvB"
+      },
+      "artists": [
+        {
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        },
+        {
+          "name": "Edward Wakili-Hick",
+          "url": "https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "your intuition is your friend - radio edit",
+      "url": "https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM"
+    },
+    {
+      "added_at": "2023-08-18 13:17:14",
+      "album": {
         "name": "Yellow (Deluxe)",
         "url": "https://open.spotify.com/album/43qGIZWwRrL3wQLvNyLxQz"
       },
@@ -1327,50 +1347,6 @@
       "duration_ms": 221000,
       "name": "Searching",
       "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
-    },
-    {
-      "added_at": "2023-08-18 13:17:14",
-      "album": {
-        "name": "your intuition is your friend (radio edit)",
-        "url": "https://open.spotify.com/album/57enkmVamHuaYnkD5ZoEvB"
-      },
-      "artists": [
-        {
-          "name": "muva of Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
-        },
-        {
-          "name": "Edward Wakili-Hick",
-          "url": "https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "your intuition is your friend - radio edit",
-      "url": "https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM"
-    },
-    {
-      "added_at": "2023-08-18 13:17:14",
-      "album": {
-        "name": "Did You Know",
-        "url": "https://open.spotify.com/album/5NE5pwqeHNLe3w12T6Gxc3"
-      },
-      "artists": [
-        {
-          "name": "Alabaster DePlume",
-          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
-        },
-        {
-          "name": "Momoko Gill",
-          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
-        },
-        {
-          "name": "MettaShiba",
-          "url": "https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "Did You Know",
-      "url": "https://open.spotify.com/track/79boh9EDpwEBn8Lww0qWNE"
     },
     {
       "added_at": "2023-08-18 13:17:14",
@@ -1439,6 +1415,22 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
+        "name": "Y Gwydd (Radio Edit)",
+        "url": "https://open.spotify.com/album/4W0NOkttgn5fjLfOoyMdcT"
+      },
+      "artists": [
+        {
+          "name": "Huw Marc Bennett",
+          "url": "https://open.spotify.com/artist/6uYq0k8pis5LPGzdFRM5FJ"
+        }
+      ],
+      "duration_ms": 338040,
+      "name": "Y Gwydd",
+      "url": "https://open.spotify.com/track/4jH14vQY3MDSWyU5EFQuPY"
+    },
+    {
+      "added_at": "2023-08-18 13:17:14",
+      "album": {
         "name": "Lady (Ezra Collective Version)",
         "url": "https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3"
       },
@@ -1455,18 +1447,26 @@
     {
       "added_at": "2023-08-18 13:17:14",
       "album": {
-        "name": "Y Gwydd (Radio Edit)",
-        "url": "https://open.spotify.com/album/4W0NOkttgn5fjLfOoyMdcT"
+        "name": "Did You Know",
+        "url": "https://open.spotify.com/album/5NE5pwqeHNLe3w12T6Gxc3"
       },
       "artists": [
         {
-          "name": "Huw Marc Bennett",
-          "url": "https://open.spotify.com/artist/6uYq0k8pis5LPGzdFRM5FJ"
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        },
+        {
+          "name": "Momoko Gill",
+          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        },
+        {
+          "name": "MettaShiba",
+          "url": "https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy"
         }
       ],
-      "duration_ms": 338040,
-      "name": "Y Gwydd",
-      "url": "https://open.spotify.com/track/4jH14vQY3MDSWyU5EFQuPY"
+      "duration_ms": 234906,
+      "name": "Did You Know",
+      "url": "https://open.spotify.com/track/79boh9EDpwEBn8Lww0qWNE"
     }
   ],
   "unique_name": "Jazz UK",

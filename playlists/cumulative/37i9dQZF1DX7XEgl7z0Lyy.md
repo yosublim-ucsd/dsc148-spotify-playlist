@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-70 songs - 2 hr 13 min
+71 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [THIRST FOR ME!](https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [EXTAPHORIC!](https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr) | 1:25 | 2023-07-28 |  |
 | [Thot K](https://open.spotify.com/track/5VPbUZPVASN9scsXak9kDB) | [iluvern!](https://open.spotify.com/artist/5B1esX3IbuEZQqcx95bMzS) | [Thot K](https://open.spotify.com/album/1uXiSa6UrQXZdbxMVnrYm5) | 3:05 | 2023-07-21 |  |
 | [true perspective](https://open.spotify.com/track/1uwiTdqmW7fwgsNNcSoqxN) | [lostrushi](https://open.spotify.com/artist/5Q2SPodgRF5DgI5Vs8y0Ve) | [true perspective](https://open.spotify.com/album/6gY2HApVOnrMbn4y47Im0q) | 2:05 | 2023-07-28 |  |
-| [TURN BACK P3](https://open.spotify.com/track/5IYOaCf1kUbImJxFncErqC) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [TURN BACK P3](https://open.spotify.com/album/2p67Iqg2GlAj7Jmea4VTDq) | 1:01 | 2023-07-21 |  |
+| [TURN BACK P3](https://open.spotify.com/track/039D36IMlhimlh3C3491hc) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [TURN BACK P3](https://open.spotify.com/album/63LHq3Lga7YpGkybxU8dXZ) | 1:01 | 2023-07-28 |  |
+| [TURN BACK P3](https://open.spotify.com/track/5IYOaCf1kUbImJxFncErqC) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [TURN BACK P3](https://open.spotify.com/album/2p67Iqg2GlAj7Jmea4VTDq) | 1:01 | 2023-07-21 | 2023-08-20 |
 | [UDNTHAVE2KNOW](https://open.spotify.com/track/1O8FFruddXtdS97wBbsbqK) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [UDNTHAVE2KNOW](https://open.spotify.com/album/2VUWjYLGWXE6cWsqY4tkXj) | 2:54 | 2023-07-21 |  |
 | [uhh p2.](https://open.spotify.com/track/0zdq7gjKevgTyG470OL9fB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [COME MESS WIT ME!](https://open.spotify.com/album/2NkAZGW41Rv51ABPHvKhDB) | 1:21 | 2023-07-21 |  |
 | [vampire love](https://open.spotify.com/track/6HcEJg4rcHWNEI0bD5Wvvp) | [nami](https://open.spotify.com/artist/3E2CPSMNaUMT0OosI4ogam) | [vampire love](https://open.spotify.com/album/0EIqsSmwIP5GZJesgYTchK) | 2:43 | 2023-08-18 |  |

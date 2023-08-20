@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 
 > Find your study focus with high pitched azure noise \- perfect for masking disruptive noises.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,770 likes - 73 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,802 likes - 73 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 | 72 | [Blue Noise Notched at 2500 Hertz for Tinnitus Therapy](https://open.spotify.com/track/1Dy8XVCG0Zv8gLbNRe25wN) | [Vaporwave](https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb) | [Notch Blue Noise: Tinnitus Therapy, Vol\. 1](https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M) | 5:00 |
 | 73 | [Blue Noise For ADHD \(Loopable No Fade\)](https://open.spotify.com/track/5zHseiNJMitditpUoQmpEC) | [Dream Supplier](https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp), [Baby Sleeps](https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ), [Background White Noise](https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh) | [Best Blue Noise For Sleep Or Focus \(Loopable\)](https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct) | 2:22 |
 
-Snapshot ID: `MCxmMTdlNmNjNDViNTQ2YTFlOGE4ZGViNWNjNGNhYTY5MDU0M2RmMmZk`
+Snapshot ID: `MCxiNWFjOWYwZTVlYmVlNzU4YzZhMzNlNGZjOWI2MzY0N2Q5YjMwOWEx`

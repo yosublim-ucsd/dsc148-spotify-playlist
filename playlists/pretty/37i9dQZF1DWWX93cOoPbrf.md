@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Codiciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,454 likes - 74 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,694 likes - 74 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:35 |
+| 1 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:28 |
 | 2 | [El Rey Del Pop \(En Vivo\)](https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 3:42 |
 | 3 | [El Corrido de los Grandes \- En Vivo](https://open.spotify.com/track/6d5iXH16vOYMmDnkcIFCX0) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Miguel Montoya](https://open.spotify.com/artist/2NvVZWWKjs0Rf9mX0arPDL) | [El Corrido de los Grandes \(En Vivo\)](https://open.spotify.com/album/0KSThTYtinwoRjx8pWfRKQ) | 3:14 |
 | 4 | [Asi Es La Vida En California \- En Vivo](https://open.spotify.com/track/6x4ooyD8BnIegKWNjD9hev) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Asi Es La Vida En California \(En Vivo\)](https://open.spotify.com/album/1Z6wE2sxe1My8Hav8Wkr7f) | 4:06 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 73 | [El Cartel](https://open.spotify.com/track/3QDZ8JRgs2iKp3yejxpSaU) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [El Cartel](https://open.spotify.com/album/0HqCmk2VoIZHC93BcseRpE) | 3:35 |
 | 74 | [Blindajes Peña \(En Vivo\)](https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 4:05 |
 
-Snapshot ID: `MCxkNjgyOTFiYjIyNWM4N2E1ODg1MDkwZWUwNTI2NjYzODc5YzJhMzg2`
+Snapshot ID: `MCw1YjhjZmY4MjE0MWYwZjg2MTQ3OGJiOGQyNGQ4MjE0ZmVmYjIzNTk2`

@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 51153,
+  "num_followers": 51259,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmJmY2Q3MzM2MjQwMGQwYTEzN2YyYjk5ODllMjgwNjk4ZjEwZWI1",
+  "snapshot_id": "MCw5OGM5ZjU0MTZmZjNhNDQ5M2FjMGM4ODE5MWMwYzI5ZDE5MmU0NjIz",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+        "name": "TRUCK BED",
+        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 223320,
-      "name": "Does To Me (feat. Eric Church)",
-      "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1187,6 +1183,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 223320,
+      "name": "Does To Me (feat. Eric Church)",
+      "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Pecos & the Rooftops",
         "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 280000,
       "name": "This Damn Song",
       "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "TRUCK BED",
-        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 167534,
-      "name": "TRUCK BED",
-      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+        "name": "Dylan Scott (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 197120,
-      "name": "Somewhere On A Beach",
-      "url": "https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa"
+      "duration_ms": 197640,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO"
     }
   ],
   "unique_name": "Country Gaming",

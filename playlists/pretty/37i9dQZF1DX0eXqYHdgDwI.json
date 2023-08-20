@@ -1,12 +1,12 @@
 {
   "description": "canzoni su cui piangere \ud83e\udd40",
-  "num_followers": 103637,
+  "num_followers": 103663,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2VlYjYyMGE3Yzk3MmRmNTk4NTI4YWFjZDE1MGZiODIyY2MzYTNi",
+  "snapshot_id": "MCw2MzBlNzg4MDhkMDA3M2E2ZDgzZjMxOWI5ZmFmMDM1MThlOGNlMzlm",
   "tracks": [
     {
       "added_at": "2023-08-18 08:27:31",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-08-18 08:27:31",
       "album": {
-        "name": "Acr\u00f3stico",
-        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 170785,
-      "name": "Acr\u00f3stico",
-      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
-    },
-    {
-      "added_at": "2023-08-18 08:27:31",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+    },
+    {
+      "added_at": "2023-08-18 08:27:31",
+      "album": {
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
       "added_at": "2023-08-18 08:27:31",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-08-18 08:27:31",
       "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "18",
-      "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
-    },
-    {
-      "added_at": "2023-08-18 08:27:31",
-      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
+    },
+    {
+      "added_at": "2023-08-18 08:27:31",
+      "album": {
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "18",
+      "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
     },
     {
       "added_at": "2023-08-18 08:27:31",

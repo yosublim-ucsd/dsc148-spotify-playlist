@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,547 likes - 280 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,604 likes - 280 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,4 +289,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 279 | [Sintra \- Ambient Mix](https://open.spotify.com/track/6Jvp6beybIW9umUJkjkWXV) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 |
 | 280 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 |
 
-Snapshot ID: `MCw4MjIxMDc4Y2RjOTg1NjJiZDJiMmU2OTUwYTM2MjJjOTQ1ZTVjZjNi`
+Snapshot ID: `MCxkNWY5ZDViY2I4YmExY2IyNzViNmI1ODVkODY2MzY5NzJhNWRiM2Q2`

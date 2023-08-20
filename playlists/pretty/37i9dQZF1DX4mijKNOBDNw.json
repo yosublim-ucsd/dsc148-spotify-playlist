@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 53164,
+  "num_followers": 53172,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjQ4ZTRlOWE0OTdlN2VjYmRiMDIzMzFmYzk0M2NmNmM5MDBjNDQw",
+  "snapshot_id": "MCw0MzkzNTAyN2JhNjE1MDM5YWI4M2M0ODUyZjFhOGQzZDAxNWEzZGUw",
   "tracks": [
     {
       "added_at": "2023-07-21 16:32:57",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "La Cumbia Feminazi",
-        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
-      },
-      "artists": [
-        {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "La Cumbia Feminazi",
-      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Alma de Cantaora",
         "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 290093,
       "name": "Alma de Cantaora",
       "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "La Cumbia Feminazi",
+        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
+      },
+      "artists": [
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "La Cumbia Feminazi",
+      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Pa'fuera y Pa'dentro",
-        "url": "https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "Se Quem\u00f3",
-      "url": "https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Brujas",
         "url": "https://open.spotify.com/album/4fVKCgpWN1lWkMses30NqQ"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 174545,
       "name": "Brujas",
       "url": "https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "Pa'fuera y Pa'dentro",
+        "url": "https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "Se Quem\u00f3",
+      "url": "https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "SE BUSCA",
-        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Volando en la nube",
         "url": "https://open.spotify.com/album/2tqgFSQTNinupDQBPqNov9"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 191499,
       "name": "Volando en la nube",
       "url": "https://open.spotify.com/track/1H4MZgDsdMXwmIhsfZy4C2"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Cuentas Pendientes",
-        "url": "https://open.spotify.com/album/4DDnKiQFpoYi6kRZXZJSb6"
-      },
-      "artists": [
-        {
-          "name": "Tremenda Jaur\u00eda",
-          "url": "https://open.spotify.com/artist/2PHostfMixbU0kfU62poO8"
-        },
-        {
-          "name": "Kumbia Queers",
-          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
-        }
-      ],
-      "duration_ms": 208158,
-      "name": "Nos Deseo",
-      "url": "https://open.spotify.com/track/4dSMI9UzUk9dmJ4hmUNLWw"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Nosotras Tenemos Otros Datos",
         "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 201290,
       "name": "Nosotras Tenemos Otros Datos",
       "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "Cuentas Pendientes",
+        "url": "https://open.spotify.com/album/4DDnKiQFpoYi6kRZXZJSb6"
+      },
+      "artists": [
+        {
+          "name": "Tremenda Jaur\u00eda",
+          "url": "https://open.spotify.com/artist/2PHostfMixbU0kfU62poO8"
+        },
+        {
+          "name": "Kumbia Queers",
+          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
+        }
+      ],
+      "duration_ms": 208158,
+      "name": "Nos Deseo",
+      "url": "https://open.spotify.com/track/4dSMI9UzUk9dmJ4hmUNLWw"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "La Manada",
-        "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 164507,
-      "name": "La Manada",
-      "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Somos Hermanas",
         "url": "https://open.spotify.com/album/2VdoxpDbGIyzgXJDMyKSPR"
       },
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+        "name": "La Manada",
+        "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
       },
       "artists": [
         {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
+      "duration_ms": 164507,
+      "name": "La Manada",
+      "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
     },
     {
       "added_at": "2023-07-21 16:32:57",

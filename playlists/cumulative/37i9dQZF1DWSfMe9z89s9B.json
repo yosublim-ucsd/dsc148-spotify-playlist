@@ -1070,10 +1070,36 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 148645,
       "name": "Another Half",
       "url": "https://open.spotify.com/track/0L9bKKN3Qs1tifjiLeukFW"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Price",
+        "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Joshua Karpeh",
+          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Another Half",
+      "url": "https://open.spotify.com/track/70FlNeIrLCupwr5s80h8h1"
     },
     {
       "album": {
@@ -2208,6 +2234,24 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/5dRqkoDZOtMANCUqYyhswt"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182745,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/6yEANV0C15jXJg2lsHf6F5"
     },
     {
       "album": {
@@ -3600,6 +3644,24 @@
       "duration_ms": 198857,
       "name": "Cry No More",
       "url": "https://open.spotify.com/track/6OwH1gyEMEZHDfQ3li6R3z"
+    },
+    {
+      "album": {
+        "name": "crying through my teeth - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7ICsxmgIN0HSJh70kzlePZ"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141611,
+      "name": "crying through my teeth - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2zbzndFcAtAUH4x5J2pcF7"
     },
     {
       "album": {
@@ -10701,6 +10763,24 @@
     },
     {
       "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
+    },
+    {
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/5tVG29NcCqvk0e1cQUbdKu"
       },
@@ -10846,7 +10926,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 245466,
       "name": "OCCASION",
       "url": "https://open.spotify.com/track/3f8qaN6X27sLRXlYwf3UKC"
@@ -11774,7 +11854,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 142624,
       "name": "PLAY",
       "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
@@ -13254,7 +13334,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 187863,
       "name": "Sent from Above",
       "url": "https://open.spotify.com/track/5dVS5WKUYJnNk3iAj7nsLU"
@@ -15374,7 +15454,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 280603,
       "name": "The Greatest Smile",
       "url": "https://open.spotify.com/track/2IpRdVSZln1OqYEyajRccA"
@@ -16268,6 +16348,28 @@
       "duration_ms": 99840,
       "name": "unexplainable",
       "url": "https://open.spotify.com/track/37xUx7Bb8geiSpFwUK1x1Y"
+    },
+    {
+      "album": {
+        "name": "KARPEH",
+        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153366,
+      "name": "Unfinished House",
+      "url": "https://open.spotify.com/track/076OMje4i6IaJ6n9fp1aGZ"
     },
     {
       "album": {

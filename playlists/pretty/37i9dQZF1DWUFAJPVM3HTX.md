@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Natanya\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,485 likes - 205 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,578 likes - 205 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 77 | [Hate to Love](https://open.spotify.com/track/37IzLyItZBc3lRdyaP5G0r) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb) | [Hate to Love](https://open.spotify.com/album/2vsnxa0Q26mW3L0sod7bjQ) | 2:33 |
 | 78 | [am i stupid?](https://open.spotify.com/track/6FjtQIOvAn6ovdXtKgKKCg) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [am i stupid?](https://open.spotify.com/album/1rADFgudc7i6sKnypoDOk7) | 2:03 |
 | 79 | [Girls Like Us](https://open.spotify.com/track/0DsJ6I0aMSkmNfFomOwLkc) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Litany](https://open.spotify.com/album/69xzFbHAfSnA9TAxkXg6rz) | 2:23 |
-| 80 | [Sunshine](https://open.spotify.com/track/7jvzEFmrbnWTs9CtJN3UHO) | [Sidibe](https://open.spotify.com/artist/5XWrDs9DhuuC96bXWAS6cj) | [Sunshine](https://open.spotify.com/album/5T4tgFDirbV5hIP7FA7t0U) | 3:05 |
+| 80 | [Sunshine](https://open.spotify.com/track/0vO7abRwchJlceGglv3Y1z) | [Sidibe](https://open.spotify.com/artist/5XWrDs9DhuuC96bXWAS6cj) | [Sunshine](https://open.spotify.com/album/4oCoGz6cMTGG0xFTc7iVzQ) | 3:05 |
 | 81 | [Strawberry Skies](https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Strawberry Skies](https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09) | 3:06 |
 | 82 | [Steal My Love](https://open.spotify.com/track/5Jg9PoqXj2ejhNMBFJ9crl) | [ØHENRY](https://open.spotify.com/artist/4zL1qNBQ4ZVhWFUXbyFCqI) | [Steal My Love](https://open.spotify.com/album/4ZPo0DavuldHsPVCnYMPva) | 2:36 |
 | 83 | [Payback](https://open.spotify.com/track/4NnIHzJPBXDlOEUwf1C7DJ) | [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4), [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG) | [god is my witness](https://open.spotify.com/album/0hXeIYGHB55vabgbKs42bw) | 2:10 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 204 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 |
 | 205 | [Borderline](https://open.spotify.com/track/1wuboor2JTlBQMAdeVoGpi) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [Borderline](https://open.spotify.com/album/5lz9iL7GHSTZ9HOUK8WFvw) | 4:09 |
 
-Snapshot ID: `MCw4NTkxNGQ4ZGRmYzRmNWQwNjJhNGRmMGEwYTViM2UzYzAzYWU5MGI3`
+Snapshot ID: `MCw3NTEwMjc0OWFlMTc1OWI2MzA4MWE1ZThmYzRjZWRhZTU3YzI0N2I1`

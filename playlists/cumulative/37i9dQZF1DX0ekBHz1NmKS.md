@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-746 songs - 1 day 15 hr 26 min
+748 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 | 2021-12-16 | 2022-05-13 |
 | [Failure](https://open.spotify.com/track/56CBitpBTs1eY3Vk1wmW6b) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Failure](https://open.spotify.com/album/6xo9QswGgLtPkeNRtYQxCU) | 3:01 | 2022-10-15 | 2022-12-16 |
 | [Fake Front](https://open.spotify.com/track/1NK9I6zrU9TbVtV82umZHe) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Fake Front](https://open.spotify.com/album/6ltm5Hbwmss9RyCBhOJqPB) | 3:13 | 2022-05-26 | 2022-06-11 |
+| [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 | 2023-08-17 |  |
 | [Faller](https://open.spotify.com/track/2ap9hdHdrR9QOiosR9vcwu) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr), [Simeon](https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk) | [Faller](https://open.spotify.com/album/0prJNOqGxgOhTVs52VUlFY) | 2:40 | 2021-12-16 | 2022-03-06 |
 | [Faller](https://open.spotify.com/track/5HhWunSVvHtEGoYYrFobvK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Faller](https://open.spotify.com/album/4KG76mDkkFzMeKhSPgColG) | 3:53 | 2022-02-17 | 2022-05-12 |
 | [Faller tillbaks](https://open.spotify.com/track/7p1kRbPVjeXLSFk3ZFKlyH) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Moa Michaeli](https://open.spotify.com/artist/3L0guCaIo8WSeLTgBJHRsc) | [Faller tillbaks](https://open.spotify.com/album/17dugdiTQctuhzPaPAEeYb) | 2:48 | 2021-12-16 | 2022-03-11 |
@@ -368,7 +369,7 @@
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
 | [La La La](https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [La La La](https://open.spotify.com/album/7MoHttJ87Iih7fEDFlaMeC) | 3:59 | 2022-03-10 | 2022-05-05 |
 | [La La La](https://open.spotify.com/track/6MV4043JueYwL8WZgWKq6t) | [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [La La La](https://open.spotify.com/album/2Y9bjGUDJj5zf6DdW1n4cL) | 3:22 | 2022-03-10 | 2022-04-20 |
-| [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 |  |
+| [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 | 2023-08-20 |
 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 | 2023-07-28 |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-06-02 |  |
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |
@@ -498,6 +499,7 @@
 | [Poppade en till](https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Poppade en till](https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ) | 3:29 | 2023-01-27 | 2023-04-25 |
 | [Poppis Visa](https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 3:15 | 2022-05-20 | 2022-11-11 |
 | [Precious Cargo](https://open.spotify.com/track/1mcDSDrKxkDYJ3At0K5VpU) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Precious Cargo](https://open.spotify.com/album/65BYiMcbsbO8ZUdlMKltgV) | 2:55 | 2021-12-16 | 2022-03-28 |
+| [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 | 2023-08-17 |  |
 | [Psykopat](https://open.spotify.com/track/5K8auXWAl0Tm89m1CX6Geo) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Puss & Kram](https://open.spotify.com/track/55Naz76St5cjVtWnmo8SBs) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:35 | 2021-12-16 | 2022-01-11 |
 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 | 2022-03-10 | 2022-09-16 |
@@ -630,7 +632,7 @@
 | [Sweet Jackie](https://open.spotify.com/track/1S4LYxSNKv8NGGl5Jnledy) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sweet Jackie](https://open.spotify.com/album/5BUAq7X644KHxL5cGWIUVH) | 2:46 | 2021-12-16 | 2022-03-11 |
 | [Sweet Tea](https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Sweet Tea](https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp) | 4:07 | 2023-08-03 |  |
 | [Swishers](https://open.spotify.com/track/7zIwP1iP2CdyEeP3PB8ie9) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Swishers](https://open.spotify.com/album/0pOCk5fpyULfYKqDbpCOtC) | 3:24 | 2021-12-16 | 2022-01-06 |
-| [Symfoni](https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Symfoni](https://open.spotify.com/album/2dYBO9CDVhABuAuX8lynWI) | 2:58 | 2023-03-23 |  |
+| [Symfoni](https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Symfoni](https://open.spotify.com/album/2dYBO9CDVhABuAuX8lynWI) | 2:58 | 2023-03-23 | 2023-08-20 |
 | [Synd om dig](https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5) | [Malin Christin](https://open.spotify.com/artist/7yf7WsRvoRDq5va1SKGgBa) | [Synd om dig](https://open.spotify.com/album/3k2w8Li8JZC47hql6XnLSs) | 2:58 | 2022-02-26 | 2022-07-24 |
 | [Säg det som du menar det](https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Säg det som du menar det](https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst) | 2:20 | 2022-04-07 | 2023-01-29 |
 | [Säg Nåt](https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Säg Nåt](https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY) | 2:46 | 2022-11-04 | 2023-07-22 |

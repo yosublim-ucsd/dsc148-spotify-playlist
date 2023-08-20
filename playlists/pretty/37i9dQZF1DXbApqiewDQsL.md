@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Carin Leon & Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,910 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,941 likes - 79 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 52 | [Está Dañada \- Remix](https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Está Dañada \(Remix\)](https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO) | 3:59 |
 | 53 | [La Verdad](https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [La Verdad](https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA) | 2:21 |
 | 54 | [Kilos de Amor](https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kilos de Amor](https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp) | 3:56 |
-| 55 | [Me Metí en el Ruedo \- Remix](https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Metí en el Ruedo \(Remix\)](https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb) | 2:54 |
-| 56 | [Brindo](https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Brindo](https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ) | 3:02 |
+| 55 | [Brindo](https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Brindo](https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ) | 3:02 |
+| 56 | [Me Metí en el Ruedo \- Remix](https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Metí en el Ruedo \(Remix\)](https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb) | 2:54 |
 | 57 | [Crónicas de un Gallo](https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 3:22 |
 | 58 | [Corrido Espacial](https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 3:42 |
 | 59 | [Tranquilito \- Remix](https://open.spotify.com/track/1nUj6NRv9nq9pEIdl6ZOoc) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Tranquilito \(Remix\)](https://open.spotify.com/album/5nBGRd7waHG9FKOab6nsGc) | 3:40 |
@@ -86,6 +86,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 76 | [No Lo Vi Venir](https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 |
 | 77 | [Corrido Tumbero](https://open.spotify.com/track/56Mx6yWQj6UWk37LHMHqI4) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Corrido Tumbero](https://open.spotify.com/album/0sfDrji2Qr5KJPAvVzMVT8) | 3:32 |
 | 78 | [El Cambio \(Mariachi\) \(Feat\. Grupo Firme\) \(Mariachi\)](https://open.spotify.com/track/5tH8Te1w2FwlmImxxqwC3k) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Cambio \(Mariachi\) \(Feat\. Grupo Firme\) \(Mariachi\)](https://open.spotify.com/album/5uTECABgpbG1BPXcUqDcwa) | 3:00 |
-| 79 | [DEL Barrio a la Ciudad](https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [DEL Barrio a la Ciudad](https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx) | 3:37 |
+| 79 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 |
 
-Snapshot ID: `MCw3OTZjODE0MTUyZmQwMGVhZmQ5MDg1NThkNDZkZjMwYmEwOTQxZjg4`
+Snapshot ID: `MCw5M2I0NDgxNzEyZWViYmFlNjhjN2U3YjAwNTc0NDhjZGM0MWY3ODlh`

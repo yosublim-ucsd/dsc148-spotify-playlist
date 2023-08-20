@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-57 songs - 3 hr 50 min
+58 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-08-11 |  |
 | [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-08-11 |  |
 | [Moar Ghosts 'n' Stuff \- Extended Mix](https://open.spotify.com/track/1iAzwiJpnYXCI3xRfoEuYk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [For Lack of A Better Name \(The Extended Mixes\)](https://open.spotify.com/album/2KAXIfaWLIK2WJFL9bBubR) | 4:57 | 2023-08-11 | 2023-08-19 |
+| [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
 | [No Guestlist \(feat\. Angelala\)](https://open.spotify.com/track/4RFrq3f4QrVORVgo8V633v) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Angelala](https://open.spotify.com/artist/5CJ01auuddLMVSm1dKCOys) | [No Guestlist \(feat\. Angelala\)](https://open.spotify.com/album/207i0ymIRSh6PCZY9UrDm7) | 4:51 | 2023-08-11 |  |
 | [Novaacation \(Solomun Remix\)](https://open.spotify.com/track/69V3ab9N7fahkgWc4vLddT) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Novaacation \(Solomun Remix\)](https://open.spotify.com/album/6aVjBTKbhhhjAN4OlEUzvd) | 3:41 | 2023-08-11 |  |
 | [On Off](https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN) | [Cirez D](https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB) | [On Off / Fast Forward](https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9) | 9:07 | 2023-08-11 | 2023-08-19 |
@@ -64,6 +65,6 @@
 | [Variant](https://open.spotify.com/track/1pyU3Kumkerbf4lGOsQdtG) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Variant](https://open.spotify.com/album/1K5offBi5sFYxwHzI18KRB) | 4:50 | 2023-08-11 | 2023-08-19 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-11 |  |
 | [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 | 2023-08-11 |  |
-| [Whole Again 2.0 \(with FOVOS\)](https://open.spotify.com/track/01SObBTN7qitRlP40pWp22) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Whole Again 2.0 \(with FOVOS\)](https://open.spotify.com/album/250HFdRGLXOpJ21R8PA98O) | 2:51 | 2023-08-11 |  |
+| [Whole Again 2.0 \(with FOVOS\)](https://open.spotify.com/track/01SObBTN7qitRlP40pWp22) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Whole Again 2.0 \(with FOVOS\)](https://open.spotify.com/album/250HFdRGLXOpJ21R8PA98O) | 2:51 | 2023-08-11 | 2023-08-20 |
 
 \*This playlist was first scraped on 2023-08-12. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
-  "description": "The romantic side of classic rock and metal",
-  "num_followers": 621988,
+  "description": "El lado rom\u00e1ntico del rock cl\u00e1sico y el metal.",
+  "num_followers": 622592,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDI0YzQ0YWNkMzkzZWMwMzVhOTI5YjM2ZDFiMDc4NDExMjliYTIy",
+  "snapshot_id": "MCw1YTZiNjIyNTY4MzE4YzU1OWY2NmVlYTZhYTg4MzZiZTlkYjZlNWZh",
   "tracks": [
     {
       "added_at": "2023-03-26 23:54:36",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-03-26 23:54:36",
       "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
         "name": "Purple (2019 Remaster)",
         "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 194853,
       "name": "Interstate Love Song - 2019 Remaster",
       "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
     },
     {
       "added_at": "2023-03-26 23:54:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-26 23:54:36",
       "album": {
-        "name": "Bad Animals",
-        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
-    },
-    {
-      "added_at": "2023-03-26 23:54:36",
-      "album": {
         "name": "Results May Vary",
         "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 269973,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
+    },
+    {
+      "added_at": "2023-03-26 23:54:36",
+      "album": {
+        "name": "Bad Animals",
+        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
       "added_at": "2023-03-26 23:54:36",

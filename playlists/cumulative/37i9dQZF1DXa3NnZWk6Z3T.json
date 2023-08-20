@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Calendario",
+        "url": "https://open.spotify.com/album/6tVWQlp1uMxgCx7BmBqy8u"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Calendario",
+      "url": "https://open.spotify.com/track/4Ywbd4VT9fx4wECiUbTU61"
+    },
+    {
+      "album": {
         "name": "Calle Cima",
         "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
       },
@@ -4948,7 +4966,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 196133,
       "name": "Se Acaba Todo",
       "url": "https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH"

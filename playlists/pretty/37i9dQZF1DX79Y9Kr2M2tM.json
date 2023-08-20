@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 845479,
+  "num_followers": 845550,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGEwZWQ3OTJiMGE3N2QzMjYxZDM3NjgyZmE0ZGQxMzNiMmY1Zjg5",
+  "snapshot_id": "MCxmZWY2OTc5NTE3MjBjYzEyMzQ1ODhjZmM4YWU3NmJkM2Q0ZGFhNDM2",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "notre dame",
-        "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 258430,
-      "name": "notre dame",
-      "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "I Forget Where We Were",
         "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 213440,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "notre dame",
+        "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 258430,
+      "name": "notre dame",
+      "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Far Out Dust",
-        "url": "https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv"
-      },
-      "artists": [
-        {
-          "name": "Talos",
-          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "To Each His Own",
-      "url": "https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "howling",
         "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 213720,
       "name": "howling",
       "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Far Out Dust",
+        "url": "https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv"
+      },
+      "artists": [
+        {
+          "name": "Talos",
+          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "To Each His Own",
+      "url": "https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "You Stay by the Sea (Deluxe)",
-        "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 256394,
-      "name": "Sea Creatures",
-      "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Anjunadeep 08",
         "url": "https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 214933,
       "name": "Hunger Of The Pine - Jody Wisternoff & James Grant Remix",
       "url": "https://open.spotify.com/track/6jrztnYIBYFo121nj0Oajx"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "You Stay by the Sea (Deluxe)",
+        "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 256394,
+      "name": "Sea Creatures",
+      "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Everyone's Moving Out East",
-        "url": "https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Everyone's Moving Out East",
-      "url": "https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 187370,
       "name": "Haven Lea",
       "url": "https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Everyone's Moving Out East",
+        "url": "https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Everyone's Moving Out East",
+      "url": "https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "There's Always Glimmer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Smoke - Acoustic",
-      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u"
       },
@@ -1591,22 +1575,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Arc - Stripped",
-        "url": "https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ"
-      },
-      "artists": [
-        {
-          "name": "Yoste",
-          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
-        }
-      ],
-      "duration_ms": 206669,
-      "name": "Arc - Stripped",
-      "url": "https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Mountain Whisper",
         "url": "https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0"
       },
@@ -1619,6 +1587,38 @@
       "duration_ms": 274568,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "There's Always Glimmer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Smoke - Acoustic",
+      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Arc - Stripped",
+        "url": "https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ"
+      },
+      "artists": [
+        {
+          "name": "Yoste",
+          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
+        }
+      ],
+      "duration_ms": 206669,
+      "name": "Arc - Stripped",
+      "url": "https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN"
     },
     {
       "added_at": "2023-06-16 04:00:00",

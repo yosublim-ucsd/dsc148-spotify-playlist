@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,541 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,549 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Maha Ganapathim](https://open.spotify.com/track/0DY2HqSTGGBtTFKfsshNYd) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Maha Ganapathim](https://open.spotify.com/album/4CHgztUDbbXxRZSTohaQvQ) | 4:09 |
 | 75 | [Neene Illade](https://open.spotify.com/track/6lo8HaKpbucdA2eGaHFSYs) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG) | [Neene Illade](https://open.spotify.com/album/2v8IFuiNx11xHjNpmA4PGk) | 3:23 |
 
-Snapshot ID: `MCwzYTM2OTMyYjU3Yzc4YmYxYmQwZjRiYzdmN2JlMjFlYTRmZmFjOTg5`
+Snapshot ID: `MCw4NDM4ZjU1NzVlOTI3ZjIwYzY4NDQ4NjRjNWZhMWU1MGUwNGYxYmMx`

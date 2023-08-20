@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,866,918 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,867,168 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Flying :\)\)](https://open.spotify.com/track/6gDrPmfRqagFxMK1DZiRV4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:59 |
 | 100 | [On Your Way \- Acoustic](https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect \(Deluxe\)](https://open.spotify.com/album/15utleqV2llYGHYuD72rs8) | 3:08 |
 
-Snapshot ID: `MCw5ZGE3ODE3Y2Y4NWViMTRmYzFmYjIyZWU3ZWRlNDc0NjUyNDRlMTE3`
+Snapshot ID: `MCxmYmYyM2VmYjllMzQ3Mjk2NTI3OTlhYmI1ZWIxYmNiMTQ0MjVhMWM2`

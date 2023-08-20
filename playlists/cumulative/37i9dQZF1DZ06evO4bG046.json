@@ -502,10 +502,40 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 296693,
       "name": "Hijos de la Tierra",
       "url": "https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra (En Vivo)",
+        "url": "https://open.spotify.com/album/2EOP4MmPOOAXYtXHuHSZC3"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Ankatu Alquinta",
+          "url": "https://open.spotify.com/artist/589TezEaFGuNyZkaiq97Es"
+        },
+        {
+          "name": "Eloy Alquinta",
+          "url": "https://open.spotify.com/artist/0KIMeyA9BADCcGD15YeOS0"
+        },
+        {
+          "name": "Aurora Alquinta Monsalve",
+          "url": "https://open.spotify.com/artist/0YVr9RHlXx2emUtkjzeczI"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289290,
+      "name": "Hijos de la Tierra - En Vivo",
+      "url": "https://open.spotify.com/track/5UkY5OcXJEBmxtwgIbtwgO"
     },
     {
       "album": {
@@ -968,7 +998,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 388800,
       "name": "Tan Lejos del Sol",
       "url": "https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK"

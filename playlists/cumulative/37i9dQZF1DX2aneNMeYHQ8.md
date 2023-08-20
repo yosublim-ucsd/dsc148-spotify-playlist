@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: The Revivalists
 
-321 songs - 19 hr 29 min
+322 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [If We Were Vampires \(feat\. Wesley Schultz\) \- Spotify Singles](https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 3:37 | 2023-05-12 |  |
 | [In Memory \(Of When I Cared\)](https://open.spotify.com/track/6ckJkoKEqCJi0jmtEVuvGc) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [In Memory \(Of When I Cared\)](https://open.spotify.com/album/4JmtSJv4Hl3QAVhIjJKIT4) | 2:53 | 2022-05-25 | 2022-07-09 |
 | [in the wake of your leave](https://open.spotify.com/track/4vjB69VckVUeu0GzAxoZRm) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [in the wake of your leave](https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7) | 4:03 | 2022-01-11 | 2023-02-11 |
-| [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 | 2022-11-11 |  |
+| [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 | 2022-11-11 | 2023-08-20 |
+| [Insomnia](https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1) | 3:12 | 2023-08-18 |  |
 | [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 | 2022-08-28 |  |
 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 | 2021-11-12 | 2022-10-01 |
 | [It’s Fine](https://open.spotify.com/track/3xDa6ui2haGzVZJpyFRCHj) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [It's Fine](https://open.spotify.com/album/5cWGHnWOhetbCvCAhyYSSA) | 3:46 | 2023-05-12 | 2023-06-01 |
@@ -158,7 +159,7 @@
 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 | 2023-02-24 |  |
 | [Life](https://open.spotify.com/track/01YuUwKN7RFa09q72o0hBF) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Life](https://open.spotify.com/album/3fiPEJT6tp9blTffNsRPgi) | 3:06 | 2021-10-29 | 2022-02-12 |
 | [Live Like You](https://open.spotify.com/track/3RqP7ov8PZyZbBjgipuTkP) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/4Bl6s5laPvfeIIvmeS6teE) | 3:01 | 2021-01-29 | 2022-07-29 |
-| [Live Like You](https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda) | 3:01 | 2022-07-01 |  |
+| [Live Like You](https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda) | 3:01 | 2022-07-01 | 2023-08-20 |
 | [Living Proof](https://open.spotify.com/track/6bIXN4xCot0hiEfzl2xFZR) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Living Proof](https://open.spotify.com/album/5KxYGbvy6UPe6at4W8hE45) | 4:53 | 2021-07-23 | 2022-01-15 |
 | [LONEDON](https://open.spotify.com/track/7IFvkycsxZNtfdl2htZgFr) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [LONEDON](https://open.spotify.com/album/6hVb6tsYyQ6nD7nDpgfRe6) | 3:14 | 2022-10-21 | 2022-11-12 |
 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 | 2021-09-08 |  |
@@ -285,7 +286,7 @@
 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 | 2021-01-29 |  |
 | [The Best Part of Letting Go](https://open.spotify.com/track/6yvTqQtBaZEQGcrnuVjgRF) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/10CEMFXxts5hhJbIimhf0F) | 3:25 | 2022-10-21 | 2022-11-12 |
 | [The Best Part of Letting Go](https://open.spotify.com/track/64nduduwh4o6m0PXplVum0) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/4wMICcEMpmsBz771u42o7h) | 3:28 | 2021-10-29 | 2022-07-26 |
-| [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-10-29 | 2023-08-19 |
+| [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-10-29 |  |
 | [The Haves](https://open.spotify.com/track/2HSg6TSfOlPu9XT7nO7S8P) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [The Haves](https://open.spotify.com/album/1LDXF0EzuqLl6ZthDJDo8E) | 5:06 | 2021-11-19 | 2022-01-15 |
 | [The Kitchen](https://open.spotify.com/track/14ZAryaOGjWc52i84ApWh0) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [The Kitchen](https://open.spotify.com/album/7hXIoUSA4AMI9zOGsepWXv) | 3:21 | 2022-05-25 | 2022-07-02 |
 | [The Magic](https://open.spotify.com/track/09AXTeXynbiu9RyyHzs07h) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [The Magic](https://open.spotify.com/album/2sVFKGHXygegcFVSPWKHLA) | 3:12 | 2021-11-26 | 2022-11-12 |

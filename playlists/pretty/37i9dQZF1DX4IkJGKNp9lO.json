@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29253,
+  "num_followers": 29265,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGIxYjZkOTc3Yjk0Mjk4ODMzNWYwODgyY2FkNDAwZDkwNDg4MDM4",
+  "snapshot_id": "MCw1MzFmNDdmYjRiYTI4NjA5MTE3ZmM2YjYzMzE2YWIxOGFmYzQ1Y2Y0",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Sanningens Morgon",
-        "url": "https://open.spotify.com/album/1B6iEAikOQLI4PmePPzL9A"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6ttgrottorna",
-          "url": "https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "\u00c4lska Mig",
-      "url": "https://open.spotify.com/track/6t7INXbHQUZiubnZ232MoE"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Noppriga Tights Och Moonboots",
         "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 144266,
       "name": "Fina Flickor",
       "url": "https://open.spotify.com/track/7H69MJpL8m8QrpcBVMbEfr"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Sanningens Morgon",
+        "url": "https://open.spotify.com/album/1B6iEAikOQLI4PmePPzL9A"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6ttgrottorna",
+          "url": "https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "\u00c4lska Mig",
+      "url": "https://open.spotify.com/track/6t7INXbHQUZiubnZ232MoE"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "En F\u00f6r Alla Ingen F\u00f6r N\u00e5n",
-        "url": "https://open.spotify.com/album/5usEd1n4iAj3AdSAHlu7os"
-      },
-      "artists": [
-        {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Patriarkatet",
-      "url": "https://open.spotify.com/track/1l55KW7G3lKMgDWaeBDE8n"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Feber",
         "url": "https://open.spotify.com/album/0zgmxxpsQDiLBcWLKTZMld"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Versace Style",
-        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
+        "name": "En F\u00f6r Alla Ingen F\u00f6r N\u00e5n",
+        "url": "https://open.spotify.com/album/5usEd1n4iAj3AdSAHlu7os"
       },
       "artists": [
         {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
         }
       ],
-      "duration_ms": 128080,
-      "name": "Punkrockarflicka",
-      "url": "https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU"
+      "duration_ms": 190026,
+      "name": "Patriarkatet",
+      "url": "https://open.spotify.com/track/1l55KW7G3lKMgDWaeBDE8n"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -443,6 +427,22 @@
       "duration_ms": 130360,
       "name": "Troll Och H\u00e4xor",
       "url": "https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Versace Style",
+        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "duration_ms": 128080,
+      "name": "Punkrockarflicka",
+      "url": "https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+        "name": "Labyrint",
+        "url": "https://open.spotify.com/album/4KUhSI60vpQqSqWIWT9E5S"
       },
       "artists": [
         {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+          "name": "Radioaktiva R\u00e4ker",
+          "url": "https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd"
         }
       ],
-      "duration_ms": 149760,
-      "name": "Tyst f\u00f6r fan",
-      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
+      "duration_ms": 125733,
+      "name": "Dr\u00f6mmen",
+      "url": "https://open.spotify.com/track/5b0r4KGSNjxplg8fmpsnva"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Labyrint",
-        "url": "https://open.spotify.com/album/4KUhSI60vpQqSqWIWT9E5S"
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
       "artists": [
         {
-          "name": "Radioaktiva R\u00e4ker",
-          "url": "https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd"
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
         }
       ],
-      "duration_ms": 125733,
-      "name": "Dr\u00f6mmen",
-      "url": "https://open.spotify.com/track/5b0r4KGSNjxplg8fmpsnva"
+      "duration_ms": 149760,
+      "name": "Tyst f\u00f6r fan",
+      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Varje ensam natt",
-        "url": "https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y"
-      },
-      "artists": [
-        {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
-        }
-      ],
-      "duration_ms": 204109,
-      "name": "Varje ensam natt",
-      "url": "https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Snabbmat F\u00f6r Folk I Farten",
         "url": "https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 210333,
       "name": "Sibylla",
       "url": "https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Varje ensam natt",
+        "url": "https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y"
+      },
+      "artists": [
+        {
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+        }
+      ],
+      "duration_ms": 204109,
+      "name": "Varje ensam natt",
+      "url": "https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Ond saga",
-        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 140653,
-      "name": "Dom br\u00e4nner bilar",
-      "url": "https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "NITTONTUSENDAR",
         "url": "https://open.spotify.com/album/1sWs1yelZK5GawSRuqyGci"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 179547,
       "name": "Nittontusendar",
       "url": "https://open.spotify.com/track/6MQmYny1PX9IBdSfJa1eTk"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Ond saga",
+        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 140653,
+      "name": "Dom br\u00e4nner bilar",
+      "url": "https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "F\u00f6r alltid",
-        "url": "https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ"
+        "name": "Tretton \u00d6vningar i Mindfulness",
+        "url": "https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV"
       },
       "artists": [
         {
-          "name": "SARDO NUMSPA",
-          "url": "https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq"
+          "name": "EPA",
+          "url": "https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj"
         }
       ],
-      "duration_ms": 165466,
-      "name": "Vilse p\u00e5 \u00f6ppet hav",
-      "url": "https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v"
+      "duration_ms": 160148,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U"
     }
   ],
   "unique_name": "Svensk Punk",

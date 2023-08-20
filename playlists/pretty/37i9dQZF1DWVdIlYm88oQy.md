@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,507 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,574 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 52 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
 | 53 | [Un Gato en la Oscuridad \- Un Gato en Blu](https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 4:03 |
 | 54 | [Entre Dos Aguas](https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Mi Historia: Paco De Lucia](https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid) | 6:00 |
-| 55 | [Cisne Cuello Negro](https://open.spotify.com/track/5YjxeOP6VKBnSvQYcPjDDj) | [Basilio](https://open.spotify.com/artist/6h8tckbGautdVT00tAzTNX) | [Súper Exitos](https://open.spotify.com/album/2wbgFbyfAty8Wgt7aUzMO7) | 4:08 |
-| 56 | [Algo de Mí](https://open.spotify.com/track/18nmE6y2b2yWSLuZUdtkei) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Algo De Mi](https://open.spotify.com/album/1mOv8oF3LFRJd9bk5tvjHD) | 4:08 |
+| 55 | [Algo de Mí](https://open.spotify.com/track/18nmE6y2b2yWSLuZUdtkei) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Algo De Mi](https://open.spotify.com/album/1mOv8oF3LFRJd9bk5tvjHD) | 4:08 |
+| 56 | [Cisne Cuello Negro](https://open.spotify.com/track/5YjxeOP6VKBnSvQYcPjDDj) | [Basilio](https://open.spotify.com/artist/6h8tckbGautdVT00tAzTNX) | [Súper Exitos](https://open.spotify.com/album/2wbgFbyfAty8Wgt7aUzMO7) | 4:08 |
 | 57 | [Paloma Negra](https://open.spotify.com/track/3zurIMqOVQiriB1oJlZxA8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Joyas Rancheras Al Estilo](https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj) | 3:51 |
 | 58 | [¿Por Qué Te Vas?](https://open.spotify.com/track/4t2B8FYH9KkQ16Zw0JQinj) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Grandes Románticas, Vol\. 1](https://open.spotify.com/album/5PGPMjKIcP7m2d8LTPHvrO) | 3:25 |
 | 59 | [Lágrimas y Lluvia](https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:03 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 89 | [Por Creer en Ti](https://open.spotify.com/track/4rwhcZ5qKOae4CGp78LSjG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 Éxitos](https://open.spotify.com/album/3sMYq7e2hCexGBrFA73dS7) | 2:01 |
 | 90 | [Lágrimas y Lluvia](https://open.spotify.com/track/3rMg1HEQFyLnZBJTAmKd7o) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:59 |
 
-Snapshot ID: `MCxkMDgwNWQ0MDQ5MmNkZGI3NTczMjI0MTQ5YjlmY2FlNzA0ODJmNGQ5`
+Snapshot ID: `MCw5NzYzNTBmMTg0YzVjMmM3OWE0ZTlhODk4MGFmMmVkNDI4MDJjNTI1`

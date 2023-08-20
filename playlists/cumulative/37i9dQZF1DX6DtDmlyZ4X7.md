@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-605 songs - 1 day 2 hr 17 min
+608 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Be free now](https://open.spotify.com/track/2NQib98D1zn6r43H4k95lZ) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Be free now](https://open.spotify.com/album/0AQGYdHSModHxCM0SaQcv4) | 2:04 | 2021-12-07 | 2022-05-20 |
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-02-01 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 |  |
-| [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2021-12-07 |  |
+| [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2021-12-07 | 2023-08-20 |
 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 | 2021-12-07 | 2022-09-24 |
 | [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2023-03-15 |
 | [Beloved](https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Beloved](https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9) | 2:13 | 2021-12-07 | 2022-04-21 |
@@ -177,7 +177,7 @@
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2021-12-07 | 2022-06-08 |
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-20 |  |
 | [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2021-12-07 | 2023-07-30 |
-| [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2021-12-07 |  |
+| [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2021-12-07 | 2023-08-20 |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2021-12-07 |  |
 | [From Here to Eternity](https://open.spotify.com/track/64IBUAyeOxHHtV2VNl6CQ3) | [Chordialilies](https://open.spotify.com/artist/52Zsdd1lO36Y5DdJ19YVwp) | [From Here to Eternity](https://open.spotify.com/album/7IK1Yc1wqhmgZqq0iyTwZB) | 3:25 | 2021-12-07 | 2022-06-07 |
 | [Frozen Lake](https://open.spotify.com/track/1nhtusu73NEuqOOJTJ8gbc) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm) | [View](https://open.spotify.com/album/0Mdwjh11jzxtsFE29Xw5aU) | 2:01 | 2022-12-22 |  |
@@ -237,6 +237,7 @@
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2021-12-07 |  |
 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 | 2021-12-07 |  |
 | [In This Moment](https://open.spotify.com/track/0dHnMcMVjESThYMUpadvaz) | [Joshua Lee Flowers](https://open.spotify.com/artist/4Ps4VWJ07syyg7bAZ7OEVR) | [In This Moment](https://open.spotify.com/album/5pvw3nwZsTrJ2zSh9Nmoud) | 1:57 | 2021-12-07 | 2022-09-26 |
+| [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-08-15 |  |
 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-06-20 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2021-12-07 |  |
 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2021-12-07 | 2022-09-24 |
@@ -262,6 +263,7 @@
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-12-07 |  |
 | [Laiski](https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Laiski](https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek) | 1:55 | 2023-05-03 | 2023-07-25 |
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2021-12-07 |  |
+| [Landet](https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Landet](https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9) | 2:06 | 2023-08-15 |  |
 | [Landmannalaugar](https://open.spotify.com/track/7tEGou25bp3JObTEpfp2en) | [Oddur Klemenzson](https://open.spotify.com/artist/2rXVYffthMoPjCdmU2fzN1) | [Landmannalaugar](https://open.spotify.com/album/2hls5Cj9XC6jtQPBdyY4rL) | 2:13 | 2021-12-07 | 2022-05-16 |
 | [Lanes Mill](https://open.spotify.com/track/7oebNRU2rprgGdRg8nVo9a) | [Camille Laurent](https://open.spotify.com/artist/7abyHm5fBQV0OD8QJn2NOd) | [Kerala](https://open.spotify.com/album/5DQv0vgau8rwyWqioTZAaX) | 3:04 | 2021-12-07 | 2022-09-24 |
 | [Lanuza](https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Lanuza](https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ) | 2:52 | 2022-04-13 |  |
@@ -302,7 +304,7 @@
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2021-12-07 | 2022-06-08 |
 | [Lost For Words](https://open.spotify.com/track/5NH7f7qokbw0GmEbztG9qv) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [Miles Away](https://open.spotify.com/album/4Kl1CFQxhyCcdGB32jfSN8) | 2:47 | 2021-12-07 | 2022-05-21 |
 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-08-15 |  |
-| [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2021-12-07 |  |
+| [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2021-12-07 | 2023-08-20 |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2021-12-07 | 2022-12-24 |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-06-07 |  |
@@ -312,6 +314,7 @@
 | [Lure](https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Lure / Elegiac](https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC) | 2:43 | 2021-12-07 | 2023-03-22 |
 | [Léana](https://open.spotify.com/track/4RjIFSjFbvR43htmAHW6Gf) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Léana](https://open.spotify.com/album/2IFpHSZQyD8Oxn8IBnJ8Ss) | 2:21 | 2021-12-07 | 2022-09-16 |
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-01-04 |  |
+| [Marche Lente](https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Marche Lente](https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN) | 2:11 | 2023-08-15 |  |
 | [Marigold](https://open.spotify.com/track/2lKWcuILwTVURJflD1vka8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Marigold](https://open.spotify.com/album/64jyz6k12xJwCirt5ZIgvb) | 1:55 | 2021-12-07 | 2023-07-25 |
 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 | 2022-06-07 | 2022-09-16 |
 | [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 | 2021-12-07 | 2023-08-16 |

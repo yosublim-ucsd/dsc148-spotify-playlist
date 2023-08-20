@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Watch The Ride
 
-440 songs - 1 day 4 hr 18 min
+441 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Better Now](https://open.spotify.com/track/6sHEMuTKHJYwSJ8OK2pfpB) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [Better Now](https://open.spotify.com/album/637sHim0W1wbjkkZqoCsy4) | 3:51 | 2022-06-23 | 2022-11-22 |
 | [Better Than Gold](https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996), [Andrew Hellier](https://open.spotify.com/artist/5UAiCq7VKP2MrMG2RAkPl8) | [Better Than Gold](https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh) | 5:20 | 2023-04-27 |  |
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2022-06-16 | 2023-04-07 |
+| [Bittersweet Goodbye \- Lens Remix](https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Bittersweet Goodbye \(Lens Remix\)](https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY) | 3:21 | 2023-08-18 |  |
 | [Blame](https://open.spotify.com/track/75IFmtshyyobc56iL1CDBc) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [Blame EP](https://open.spotify.com/album/272qJn5xVuSyVuGelX1Bhc) | 4:58 | 2022-04-22 | 2022-04-30 |
 | [Blame You \(feat\. Dylan\)](https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Reflections](https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM) | 3:51 | 2022-04-08 | 2022-10-14 |
 | [Blocklist](https://open.spotify.com/track/0Axadm8LykCLkL0vC7ENYx) | [Junk Mail](https://open.spotify.com/artist/6wVoaI7lR9EKl2xBjt92x8), [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Blocklist](https://open.spotify.com/album/0GeFmFqYfRwN2uPco1n4q2) | 4:31 | 2022-07-29 | 2022-09-02 |
@@ -87,7 +88,7 @@
 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-02-03 |  |
 | [Could This Be \- Malux Remix](https://open.spotify.com/track/0Zk1BjKYDNOhOxCzLvHKDm) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Malux](https://open.spotify.com/artist/6CNd7Wpb36Ls8k7eHRWX3T) | [The Resonance I](https://open.spotify.com/album/4sHhgA2VkNByHjNX1ssCzC) | 3:29 | 2022-05-06 | 2022-05-14 |
 | [Cous Cous](https://open.spotify.com/track/1AC2Np13uqqDmhNnDpMaEu) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Cous Cous](https://open.spotify.com/album/3T2qY6oeQNDALRHTRBMzkY) | 3:44 | 2022-04-08 | 2022-04-21 |
-| [Crush \(feat\. Erika de Casier\) \- Live Edit](https://open.spotify.com/track/6qz1e5rvxbp41zNXyIHOlk) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph in the Wild](https://open.spotify.com/album/0vChzZ1D6SfrMhC9zNFoQU) | 3:03 | 2023-07-27 |  |
+| [Crush \(feat\. Erika de Casier\) \- Live Edit](https://open.spotify.com/track/6qz1e5rvxbp41zNXyIHOlk) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph in the Wild](https://open.spotify.com/album/0vChzZ1D6SfrMhC9zNFoQU) | 3:03 | 2023-07-27 | 2023-08-20 |
 | [D.L.P](https://open.spotify.com/track/65pDapueBkgH4GLp3CmIqq) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [D.L.P](https://open.spotify.com/album/6psXExUBdnxwrJJrTEMXzR) | 5:10 | 2022-08-24 | 2022-09-02 |
 | [Dance Together](https://open.spotify.com/track/3phgzhjfJnUOydU9NK8d0Y) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Dance Together](https://open.spotify.com/album/77sme3uYVwQDjc5FFoDURM) | 4:02 | 2022-04-08 | 2022-05-21 |
 | [Dancing in the Dark](https://open.spotify.com/track/0fL1ERqni8Gt57wzoEcJ6k) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Buunshin](https://open.spotify.com/artist/5ucX3eT8wlEQGRVwUyeqBj) | [Dancing in the Dark EP](https://open.spotify.com/album/24d1etUftr9aXCtrRQmgPr) | 2:47 | 2022-04-08 | 2022-07-26 |

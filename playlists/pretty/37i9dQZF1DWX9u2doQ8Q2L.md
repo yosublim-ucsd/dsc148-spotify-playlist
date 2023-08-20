@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,432 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,464 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 86 | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/track/4D6cgLFL83GNIpTQQjBzvi) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Nicholas Ryan Gant](https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS), [Suede Jury](https://open.spotify.com/artist/256MjcBz1G9sIN0LL932tr) | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/album/7MtotnJHqALhZyyX50egUA) | 3:08 |
 | 87 | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 |
 | 88 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 |
-| 89 | [˖嵐₊˚ˑ༄](https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [˖嵐₊˚ˑ༄](https://open.spotify.com/album/0sBf3Y2OJkD3K1Gkx96Hl0) | 3:20 |
+| 89 | [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 |
 | 90 | [Talkin' Talkin'](https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Talkin' Talkin'](https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9) | 3:44 |
-| 91 | [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 |
-| 92 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 |
-| 93 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [The Swallow \(feat\. Midories\)](https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq) | 3:37 |
+| 91 | [˖嵐₊˚ˑ༄](https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [˖嵐₊˚ˑ༄](https://open.spotify.com/album/0sBf3Y2OJkD3K1Gkx96Hl0) | 3:20 |
+| 92 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [The Swallow \(feat\. Midories\)](https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq) | 3:37 |
+| 93 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 |
 | 94 | [バケーションに沿って](https://open.spotify.com/track/0CnzkJ43YQpKu7IbBFxwvd) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [バケーションに沿って](https://open.spotify.com/album/6kmhdz9RBc5dfXl0vXEHSX) | 3:16 |
 | 95 | [39 Minutes](https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [39 Minutes](https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf) | 3:33 |
-| 96 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
-| 97 | [You Just Walked In My Life](https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [You Just Walked In My Life](https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz) | 2:59 |
+| 96 | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP) | 4:47 |
+| 97 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
 | 98 | [nestling](https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [nestling](https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq) | 3:47 |
-| 99 | [Like A Seraph](https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 2:54 |
+| 99 | [You Just Walked In My Life](https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [You Just Walked In My Life](https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz) | 2:59 |
 | 100 | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 |
 
-Snapshot ID: `MCw1MzEzYjMxMTVlNjE3YWRkZGU3OTEzOGJmODM4NDlkYTY0ODkzOWU2`
+Snapshot ID: `MCw3ODBjZGZjNjdjNThhZGVkMTVhZmIzNDlkNTliN2ZkZjAwYzVlOGEw`

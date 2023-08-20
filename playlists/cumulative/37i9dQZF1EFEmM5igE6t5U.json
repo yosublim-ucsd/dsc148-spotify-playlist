@@ -2473,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "The Foggie Pound 3",
+        "url": "https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr"
+      },
+      "artists": [
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171346,
+      "name": "Psalm 62",
+      "url": "https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp"
+    },
+    {
+      "album": {
         "name": "The Element Of Freedom",
         "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },

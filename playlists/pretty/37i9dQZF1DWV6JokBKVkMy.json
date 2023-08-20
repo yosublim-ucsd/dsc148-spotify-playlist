@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1186,
+  "num_followers": 1190,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTEzNzg3NzNmNGRmNWRkMWVjNWFiMmU5MGVhZjgyYThhNGEyOTc0",
+  "snapshot_id": "MCw2MzFiZDY1Nzc1OTIyZWQ4ODlmMDE4ZDhjYTkyNzQ1ZmEwNmY4MmFl",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 209128,
+      "name": "Longanis",
+      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Di pain griy\u00e9",
         "url": "https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 242826,
       "name": "Di pain griy\u00e9",
       "url": "https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 209128,
-      "name": "Longanis",
-      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "ZENFAN LAKAZ TOL",
+        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
+      },
+      "artists": [
+        {
+          "name": "Bigg Frankii",
+          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
+        }
+      ],
+      "duration_ms": 301287,
+      "name": "Granper Sorti Diego",
+      "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Le Roi du s\u00e9ga",
         "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "ZENFAN LAKAZ TOL",
-        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
+        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
+        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
       },
       "artists": [
         {
-          "name": "Bigg Frankii",
-          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
+          "name": "B.I.G",
+          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
         }
       ],
-      "duration_ms": 301287,
-      "name": "Granper Sorti Diego",
-      "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
+      "duration_ms": 262976,
+      "name": "Mo ti poule",
+      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -771,22 +787,6 @@
       "duration_ms": 278048,
       "name": "Vandredi Sen",
       "url": "https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
-        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
-      },
-      "artists": [
-        {
-          "name": "B.I.G",
-          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Mo ti poule",
-      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Music from Mauritius",
-        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
-      },
-      "artists": [
-        {
-          "name": "Denis Azor",
-          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
-        }
-      ],
-      "duration_ms": 370311,
-      "name": "Anita-Papa / Creole-Bar\u00e8",
-      "url": "https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Enn lot kouler",
         "url": "https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 215066,
       "name": "SA FAM LA",
       "url": "https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Music from Mauritius",
+        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
+      },
+      "artists": [
+        {
+          "name": "Denis Azor",
+          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
+        }
+      ],
+      "duration_ms": 370311,
+      "name": "Anita-Papa / Creole-Bar\u00e8",
+      "url": "https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a"
     },
     {
       "added_at": "2022-08-11 10:05:16",

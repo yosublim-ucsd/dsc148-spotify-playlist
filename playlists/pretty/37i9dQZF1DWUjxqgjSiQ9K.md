@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2?si=fcff82974cc74e50">Onell Diaz</a> y <a href="https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn?si=0bbd708a2be847a8">Dalex</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,862 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,094 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 | 100 | [SÁNAME](https://open.spotify.com/track/1UZiL3hX8vaaeGQKM8TBlI) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W) | [SÁNAME](https://open.spotify.com/album/4s3FBPFKLVx7orSMIUdsOJ) | 3:41 |
 
-Snapshot ID: `MCw2NmNhOTAwODIyYWM4OWFmZjJmZjZhZDliNDNjNjM4OGU0ZGI5MjUw`
+Snapshot ID: `MCwxNTk1NWVkZTQ0NjIyYThjMjNlMWZhNDE2NWM1NTJhZjVjNjc4OTQx`

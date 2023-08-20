@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: NGC Daddy, Meno Tody
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,542 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,619 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [FALTA POUCO](https://open.spotify.com/track/4OjrPYlHrc63TxZbxvlNZU) | [31couto](https://open.spotify.com/artist/7cUn4j1gy5RABIg4KADSbl), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [FALTA POUCO](https://open.spotify.com/album/5ZY9JnRai7n30JUCcswitf) | 1:45 |
 | 75 | [Sobrenatural ;7](https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sobrenatural ;7](https://open.spotify.com/album/2CJ5Vpgc8ibMiu0gchg4uL) | 3:12 |
 
-Snapshot ID: `MCxmYjNjOGVkNWRiYThjZTc3OWUwNTlhN2I3NGQ5OWRhMDA0NTgwNWIx`
+Snapshot ID: `MCw4OTRlMmQzNGQzNzUzZTEyZmRhYzgyODllOTM1NzA5MzNmN2EyN2Nk`

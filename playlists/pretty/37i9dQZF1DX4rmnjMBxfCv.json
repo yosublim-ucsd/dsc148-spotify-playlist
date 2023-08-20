@@ -1,12 +1,12 @@
 {
   "description": "The best dance and electronic songs in the MENA region. Cover: <a href=\"https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS?si=YxwaMq5IQm2YyF7DLjNHAQ\">Ash</a>",
-  "num_followers": 48154,
+  "num_followers": 48220,
   "original_name": "mint \u0646\u0639\u0646\u0639",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmM2NzkzMWY2OWM3ZmExNGY0MGZjNTM5NTk0ZTg4YzhlMmRiZmMy",
+  "snapshot_id": "MCw4MDk5ZmQ1MWUwMWNlOWE4YTNmOTVkMmEzMTZjNjFjM2VjYThmMDhj",
   "tracks": [
     {
       "added_at": "2023-08-18 08:23:57",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-08-18 08:23:57",
       "album": {
-        "name": "Yababa (Tunisian Mix)",
-        "url": "https://open.spotify.com/album/5h73R2jKggJ2O881UkV0Qf"
-      },
-      "artists": [
-        {
-          "name": "Pablo Fierro",
-          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
-        }
-      ],
-      "duration_ms": 335609,
-      "name": "Yababa - Tunisian Mix",
-      "url": "https://open.spotify.com/track/2RzpXFHgXybMjFCxHtOOnv"
-    },
-    {
-      "added_at": "2023-08-18 08:23:57",
-      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -111,22 +95,18 @@
     {
       "added_at": "2023-08-18 08:23:57",
       "album": {
-        "name": "Babale",
-        "url": "https://open.spotify.com/album/4U9EPs88vdcXt8Myq0ad4j"
+        "name": "Yababa (Tunisian Mix)",
+        "url": "https://open.spotify.com/album/5h73R2jKggJ2O881UkV0Qf"
       },
       "artists": [
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "FNX OMAR",
-          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
         }
       ],
-      "duration_ms": 227500,
-      "name": "Babale - FNX Omar Remix",
-      "url": "https://open.spotify.com/track/6wPq6H82E2mige9LIXk2Yx"
+      "duration_ms": 335609,
+      "name": "Yababa - Tunisian Mix",
+      "url": "https://open.spotify.com/track/2RzpXFHgXybMjFCxHtOOnv"
     },
     {
       "added_at": "2023-08-18 08:23:57",
@@ -143,6 +123,26 @@
       "duration_ms": 300582,
       "name": "Ahwak (Deeper Remix)",
       "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
+    },
+    {
+      "added_at": "2023-08-18 08:23:57",
+      "album": {
+        "name": "Sakaratou Achiqin",
+        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Mawal Lotfi",
+          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+        }
+      ],
+      "duration_ms": 139415,
+      "name": "Sakaratou Achiqin",
+      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
     },
     {
       "added_at": "2023-08-18 08:23:57",
@@ -187,66 +187,18 @@
     {
       "added_at": "2023-08-18 08:23:57",
       "album": {
-        "name": "Sakaratou Achiqin",
-        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+        "name": "Baglami",
+        "url": "https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM"
       },
       "artists": [
         {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Mawal Lotfi",
-          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+          "name": "DJ DALI",
+          "url": "https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS"
         }
       ],
-      "duration_ms": 139415,
-      "name": "Sakaratou Achiqin",
-      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
-    },
-    {
-      "added_at": "2023-08-18 08:23:57",
-      "album": {
-        "name": "Mesh Shayfenhom ( Coke Studio Egypt 2023 )",
-        "url": "https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs"
-      },
-      "artists": [
-        {
-          "name": "Hassan El Shafei",
-          "url": "https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x"
-        },
-        {
-          "name": "Bosy",
-          "url": "https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb"
-        },
-        {
-          "name": "Double Zuksh",
-          "url": "https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Mesh Shayfenhom ( Coke Studio Egypt 2023 )",
-      "url": "https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk"
-    },
-    {
-      "added_at": "2023-08-18 08:23:57",
-      "album": {
-        "name": "Chaghaf",
-        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Chaghaf",
-      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
+      "duration_ms": 330491,
+      "name": "Baglami",
+      "url": "https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1"
     },
     {
       "added_at": "2023-08-18 08:23:57",
@@ -271,34 +223,22 @@
     {
       "added_at": "2023-08-18 08:23:57",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+        "name": "Babale",
+        "url": "https://open.spotify.com/album/4U9EPs88vdcXt8Myq0ad4j"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2023-08-18 08:23:57",
-      "album": {
-        "name": "Baglami",
-        "url": "https://open.spotify.com/album/07C07uz3IJt6aixCnd2uvM"
-      },
-      "artists": [
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
         {
-          "name": "DJ DALI",
-          "url": "https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS"
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
         }
       ],
-      "duration_ms": 330491,
-      "name": "Baglami",
-      "url": "https://open.spotify.com/track/6ZTOjC8lXAXK5AUw4SRfn1"
+      "duration_ms": 227500,
+      "name": "Babale - FNX Omar Remix",
+      "url": "https://open.spotify.com/track/6wPq6H82E2mige9LIXk2Yx"
     },
     {
       "added_at": "2023-08-18 08:23:57",
@@ -327,18 +267,54 @@
     {
       "added_at": "2023-08-18 08:23:57",
       "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+        "name": "Rafat Rafat",
+        "url": "https://open.spotify.com/album/76PuKGEhebdwJSPxApNDDU"
       },
       "artists": [
         {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
         }
       ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+      "duration_ms": 384000,
+      "name": "Rafat Rafat",
+      "url": "https://open.spotify.com/track/0wxdCmO95St6JnlOLKciql"
+    },
+    {
+      "added_at": "2023-08-18 08:23:57",
+      "album": {
+        "name": "Arab Trap - EP.2",
+        "url": "https://open.spotify.com/album/64nugwneK97CluUKPSUAzb"
+      },
+      "artists": [
+        {
+          "name": "DJ KABOO",
+          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+        }
+      ],
+      "duration_ms": 138711,
+      "name": "Ya Rayah",
+      "url": "https://open.spotify.com/track/1KVpa83fBkART0ZZuRb3Bt"
+    },
+    {
+      "added_at": "2023-08-18 08:23:57",
+      "album": {
+        "name": "Chaghaf",
+        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "Chaghaf",
+      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
     },
     {
       "added_at": "2023-08-18 08:23:57",
@@ -367,6 +343,102 @@
     {
       "added_at": "2023-08-18 08:23:57",
       "album": {
+        "name": "Mesh Shayfenhom ( Coke Studio Egypt 2023 )",
+        "url": "https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs"
+      },
+      "artists": [
+        {
+          "name": "Hassan El Shafei",
+          "url": "https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x"
+        },
+        {
+          "name": "Bosy",
+          "url": "https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb"
+        },
+        {
+          "name": "Double Zuksh",
+          "url": "https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Mesh Shayfenhom ( Coke Studio Egypt 2023 )",
+      "url": "https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk"
+    },
+    {
+      "added_at": "2023-08-18 08:23:57",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-08-18 08:23:57",
+      "album": {
+        "name": "7 Seconds",
+        "url": "https://open.spotify.com/album/3qR13zIAjDhKtsXquwIJfQ"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        },
+        {
+          "name": "Pape Diouf",
+          "url": "https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA"
+        }
+      ],
+      "duration_ms": 315380,
+      "name": "7 Seconds",
+      "url": "https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn"
+    },
+    {
+      "added_at": "2023-08-18 08:23:57",
+      "album": {
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "duration_ms": 213394,
+      "name": "Freed From Desire",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+    },
+    {
+      "added_at": "2023-08-18 08:23:57",
+      "album": {
+        "name": "Seret El Hob Remix",
+        "url": "https://open.spotify.com/album/6ac2W6mJALSa62m9Rjf8WQ"
+      },
+      "artists": [
+        {
+          "name": "Aly Fathalla",
+          "url": "https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Seret El Hob Remix",
+      "url": "https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a"
+    },
+    {
+      "added_at": "2023-08-18 08:23:57",
+      "album": {
         "name": "Ketamine Girl",
         "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
       },
@@ -391,22 +463,6 @@
     {
       "added_at": "2023-08-18 08:23:57",
       "album": {
-        "name": "Rafat Rafat",
-        "url": "https://open.spotify.com/album/76PuKGEhebdwJSPxApNDDU"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Rafat Rafat",
-      "url": "https://open.spotify.com/track/0wxdCmO95St6JnlOLKciql"
-    },
-    {
-      "added_at": "2023-08-18 08:23:57",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/2Rz7LhGdUMCvUcPxNaojjx"
       },
@@ -427,18 +483,22 @@
     {
       "added_at": "2023-08-18 08:23:57",
       "album": {
-        "name": "Arab Trap - EP.2",
-        "url": "https://open.spotify.com/album/64nugwneK97CluUKPSUAzb"
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
       "artists": [
         {
-          "name": "DJ KABOO",
-          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 138711,
-      "name": "Ya Rayah",
-      "url": "https://open.spotify.com/track/1KVpa83fBkART0ZZuRb3Bt"
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
       "added_at": "2023-08-18 08:23:57",
@@ -479,30 +539,6 @@
       "duration_ms": 375555,
       "name": "Mbarka - Original Mix",
       "url": "https://open.spotify.com/track/55uwSianyiBX7CAwPY5Jnf"
-    },
-    {
-      "added_at": "2023-08-18 08:23:57",
-      "album": {
-        "name": "7 Seconds",
-        "url": "https://open.spotify.com/album/3qR13zIAjDhKtsXquwIJfQ"
-      },
-      "artists": [
-        {
-          "name": "Joezi",
-          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
-        },
-        {
-          "name": "Coco",
-          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
-        },
-        {
-          "name": "Pape Diouf",
-          "url": "https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA"
-        }
-      ],
-      "duration_ms": 315380,
-      "name": "7 Seconds",
-      "url": "https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn"
     },
     {
       "added_at": "2023-08-18 08:23:57",
@@ -579,22 +615,6 @@
     {
       "added_at": "2023-08-18 08:23:57",
       "album": {
-        "name": "Seret El Hob Remix",
-        "url": "https://open.spotify.com/album/6ac2W6mJALSa62m9Rjf8WQ"
-      },
-      "artists": [
-        {
-          "name": "Aly Fathalla",
-          "url": "https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "Seret El Hob Remix",
-      "url": "https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a"
-    },
-    {
-      "added_at": "2023-08-18 08:23:57",
-      "album": {
         "name": "Bom Bom Bom",
         "url": "https://open.spotify.com/album/2aRHgRSxnBHPmnfoc2LgWa"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 197560,
       "name": "Hasta El Fin - Radio Edit",
       "url": "https://open.spotify.com/track/6lc6OgZpWqwLdvSVOMFQNC"
-    },
-    {
-      "added_at": "2023-08-18 08:23:57",
-      "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
       "added_at": "2023-08-18 08:23:57",

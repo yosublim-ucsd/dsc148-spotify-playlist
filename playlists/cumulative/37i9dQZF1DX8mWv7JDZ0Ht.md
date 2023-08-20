@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva
 
-398 songs - 19 hr 46 min
+399 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Como cê tá?](https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Friozinho](https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5) | 2:44 | 2023-06-30 |  |
 | [Como Eu Quero](https://open.spotify.com/track/7dsFoAxXjAlvVOXhRkD4sb) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Como Eu Quero](https://open.spotify.com/album/2egRHyN8fmTQjDi7mRLQjB) | 2:47 | 2022-06-03 | 2022-12-10 |
 | [Como Se O Amanha Não Fosse Chegar \- Ao Vivo](https://open.spotify.com/track/4wxIhBInWQcvbZZMhPt21b) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 3:02 | 2022-10-10 | 2022-10-22 |
+| [Como Tinha Que Ser](https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Como Tinha Que Ser](https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg) | 3:35 | 2023-08-18 |  |
 | [Condição](https://open.spotify.com/track/27qcJqjaTfi0kNWLVaTxcH) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Condição](https://open.spotify.com/album/29ZkkYqN1Sy2p1K66HCGaO) | 2:39 | 2022-05-13 | 2022-06-15 |
 | [Contradição](https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Contradição](https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU) | 2:19 | 2023-02-10 | 2023-07-29 |
 | [Coração Teimoso](https://open.spotify.com/track/5muVEVnpZ3i7T4HQGpvigc) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Amor e Melancolia](https://open.spotify.com/album/4Uag7dntWK63TIrhDqAoBc) | 2:51 | 2023-03-24 | 2023-04-22 |
@@ -103,7 +104,7 @@
 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 | 2022-05-13 | 2022-12-03 |
 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 | 2022-05-13 | 2022-10-11 |
 | [Delírio](https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Delírio](https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN) | 2:42 | 2023-03-17 | 2023-06-10 |
-| [delírio coletivo](https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f) | [Chiara Maria](https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4) | [delírio coletivo](https://open.spotify.com/album/5bMy8kayllIR9Kq1eYMLEx) | 2:44 | 2023-08-18 |  |
+| [delírio coletivo](https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f) | [Chiara Maria](https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4) | [delírio coletivo](https://open.spotify.com/album/5bMy8kayllIR9Kq1eYMLEx) | 2:44 | 2023-08-18 | 2023-08-20 |
 | [Depois de Te Encontrar](https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Depois de Te Encontrar](https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB) | 3:13 | 2022-11-11 | 2023-06-24 |
 | [Depois do Fim](https://open.spotify.com/track/67Vs39lm6f8X2ClTgnRgyb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 3:29 | 2023-04-14 |  |
 | [Desapaixonar](https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Desapaixonar](https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv) | 3:49 | 2022-08-05 | 2022-09-17 |

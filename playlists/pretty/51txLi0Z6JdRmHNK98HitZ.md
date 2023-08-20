@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain]
 
 > Here is a playlist of all our songs released so far\. Our new single 'Highlands' is out now!
 
-[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,320 likes - 38 songs - 2 hr 9 min
+[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,344 likes - 38 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Highlands](https://open.spotify.com/track/24jwtRFRrpZUhFT7Tv6d7I) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/4Pib10N1DbpntGSE2qv8aW) | 3:31 |
-| 2 | [Bootleg Firecracker](https://open.spotify.com/track/4o1NDnqy0tuTXG2yoEqfQC) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bootleg Firecracker](https://open.spotify.com/album/6yxR2ZMUrvFrSpgXFSBs13) | 3:20 |
+| 1 | [Bootleg Firecracker](https://open.spotify.com/track/4o1NDnqy0tuTXG2yoEqfQC) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bootleg Firecracker](https://open.spotify.com/album/6yxR2ZMUrvFrSpgXFSBs13) | 3:20 |
+| 2 | [Highlands](https://open.spotify.com/track/24jwtRFRrpZUhFT7Tv6d7I) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/4Pib10N1DbpntGSE2qv8aW) | 3:31 |
 | 3 | [Drivers License \- triple j Like a Version](https://open.spotify.com/track/79z8mIUDwNYffZv2qy6Icj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Drivers License \(triple j Like a Version\)](https://open.spotify.com/album/7lEp6IiYhA8Z63g8Cl7Rr8) | 3:26 |
 | 4 | [Bad Neighbours](https://open.spotify.com/track/7nn9F7GffyZdg1EeJxycvi) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:10 |
 | 5 | [Cellophane \(Brain\)](https://open.spotify.com/track/3VjgAcJMk7x1QRZrA5UJlw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:30 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain]
 | 37 | [Doing It Right](https://open.spotify.com/track/0BJVbOwmNlHscHVR91L50B) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:07 |
 | 38 | [Today We're The Greatest](https://open.spotify.com/track/0zqJqiq9CIP7W77NrV1NpM) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:47 |
 
-Snapshot ID: `NzgsOTk4NDQzNmQxMDQ3ZTUyMjk1OTFiZmU1OTJmNmNkOGU3OWU1OTQ1NQ==`
+Snapshot ID: `NzksMDAxMzliY2M3Zjc2NTg4OWJhM2U0ZTE3MjU4YTUyYTAwM2NiOTM0ZQ==`

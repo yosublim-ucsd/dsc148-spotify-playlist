@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-339 songs - 1 day 2 hr 2 min
+340 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Hizuru \- Jazztronik Remix](https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o), [Hizuru](https://open.spotify.com/artist/0KMviWZDLVXQvl1Hl3RDoe) | [Hizuru \(Jazztronik Remix\)](https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd) | 4:01 | 2023-05-19 |  |
 | [HOT SPOT](https://open.spotify.com/track/7ySxS4T7m30PmljNgTl1M9) | [Sam Hankins](https://open.spotify.com/artist/247stQu5JNHdlL5QguVthj) | [HOT SPOT](https://open.spotify.com/album/5CDTFPJ9aOAGjbKVhJ0WrR) | 4:33 | 2021-08-02 |  |
 | [Humpty Dumpty \- 2006 Remastered Version](https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl) | [Marc Moulin](https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8) | [Placebo Years 1971 \- 1974](https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd) | 2:32 | 2020-10-09 |  |
-| [I Can't Get Enough](https://open.spotify.com/track/0KfQn6DHPUM0uwXPdofn30) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [I Can't Get Enough](https://open.spotify.com/album/7crmaW8Z1HEy4wKmbUtj2x) | 2:45 | 2023-07-21 |  |
+| [I Can't Get Enough](https://open.spotify.com/track/0KfQn6DHPUM0uwXPdofn30) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [I Can't Get Enough](https://open.spotify.com/album/7crmaW8Z1HEy4wKmbUtj2x) | 2:45 | 2023-07-21 | 2023-08-20 |
+| [I Can't Get Enough \- Live](https://open.spotify.com/track/0OKkwSP8g0yt5grOVxfZlJ) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [LIVE](https://open.spotify.com/album/359rFc1v3kX1prkjLXU7dY) | 2:45 | 2023-07-21 |  |
 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP) | [Reginald Chapman](https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB), [Kenneka Cook](https://open.spotify.com/artist/1SdMrNeKvyntOu9edUG4Zo), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Tennishu](https://open.spotify.com/artist/4SNZv6dF06QGC335mAsXeg), [R4nd4zzo](https://open.spotify.com/artist/4TaM7yPjrpK39ZozZDP7tA), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/album/59I04ZfQXvABeo3Q99ZjP0) | 4:13 | 2023-05-05 |  |
 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 | 2023-04-21 | 2023-08-19 |
 | [Iskhathi](https://open.spotify.com/track/6cK0RRZ0HA18cB7VxeMoTS) | [Nongoma](https://open.spotify.com/artist/3O7kSCL3mt0T0lBnvNyWwj), [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Iskhathi](https://open.spotify.com/album/0atF8hOC4T98gG6BPRSk4y) | 5:46 | 2023-05-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 954601,
+  "num_followers": 956589,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzM1OThhNjc2MjRiMjMwYmE5Mjk2NDk0MjI1Mjc4YzU5MzA2MDRh",
+  "snapshot_id": "MCwxYWI0ZjM1ZDc2MGIzZWIzM2IwNmYwNTNmNTA2MmEyYzVjYzhmYWY5",
   "tracks": [
     {
       "added_at": "2023-08-03 13:04:48",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-08-03 13:04:48",
       "album": {
+        "name": "3:15 (OG, Slowed Down + Reverb, Sped Up)",
+        "url": "https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "3:15 - Slowed Down + Reverb",
+      "url": "https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
         "name": "Only Love Can Hurt Like This (Slowed Down Version)",
         "url": "https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 257743,
       "name": "Only Love Can Hurt Like This - Slowed Down Version",
       "url": "https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8"
-    },
-    {
-      "added_at": "2023-08-03 13:04:48",
-      "album": {
-        "name": "3:15 (OG, Slowed Down + Reverb, Sped Up)",
-        "url": "https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "3:15 - Slowed Down + Reverb",
-      "url": "https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP"
     },
     {
       "added_at": "2023-08-03 13:04:48",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-03 13:04:48",
       "album": {
-        "name": "prolly my spookiest beat (slowed + reverb)",
-        "url": "https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1"
-      },
-      "artists": [
-        {
-          "name": "prodby668",
-          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
-        }
-      ],
-      "duration_ms": 141509,
-      "name": "prolly my spookiest beat (slowed + reverb)",
-      "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
-    },
-    {
-      "added_at": "2023-08-03 13:04:48",
-      "album": {
         "name": "The Arrival: Part I (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 279250,
       "name": "Renegade - (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "prolly my spookiest beat (slowed + reverb)",
+        "url": "https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1"
+      },
+      "artists": [
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "duration_ms": 141509,
+      "name": "prolly my spookiest beat (slowed + reverb)",
+      "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
     },
     {
       "added_at": "2023-08-03 13:04:48",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-03 13:04:48",
       "album": {
-        "name": "Go (Remixes)",
-        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "go - Lower & Slower",
-      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
-    },
-    {
-      "added_at": "2023-08-03 13:04:48",
-      "album": {
         "name": "Angel Baby (Slowed)",
         "url": "https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 262623,
       "name": "Angel Baby - Slowed",
       "url": "https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "Go (Remixes)",
+        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "go - Lower & Slower",
+      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
     },
     {
       "added_at": "2023-08-03 13:04:48",

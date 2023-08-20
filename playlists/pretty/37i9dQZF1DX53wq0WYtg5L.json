@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 545352,
+  "num_followers": 545462,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGNlYWNkYjY2NjcxYWFiNDE5MzY5MjBmYjA2NTNhMDJmNGUxMWYz",
+  "snapshot_id": "MCw5OTkwY2FhNTdmNTJiN2E4MTk3MTViOTRlZjEzNzc2ZjJmYjAxYjBl",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -411,8 +411,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Sinf\u00f3nico 3",
-        "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
+        "name": "Mariachi Total",
+        "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 512626,
-      "name": "Huapango de Moncayo",
-      "url": "https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6"
+      "duration_ms": 221831,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/17UQaysFON93fn278DeWqg"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -571,8 +571,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Total",
-        "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
+        "name": "Sinf\u00f3nico 3",
+        "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 221831,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/17UQaysFON93fn278DeWqg"
+      "duration_ms": 512626,
+      "name": "Huapango de Moncayo",
+      "url": "https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Lastima Que Seas Ajena",
-        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "Pica Que Pica",
-      "url": "https://open.spotify.com/track/1ruaLnFk2kciAKa68DLggN"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Rancheras",
         "url": "https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
       },
       "artists": [
         {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 117333,
-      "name": "La Adelita",
-      "url": "https://open.spotify.com/track/2GQUkQXwOgt3ZaQHLEuCfx"
+      "duration_ms": 185106,
+      "name": "Pica Que Pica",
+      "url": "https://open.spotify.com/track/1ruaLnFk2kciAKa68DLggN"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -863,6 +847,22 @@
       "duration_ms": 188472,
       "name": "El Tapatio",
       "url": "https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "La Adelita",
+      "url": "https://open.spotify.com/track/2GQUkQXwOgt3ZaQHLEuCfx"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Negra Linda",
-        "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
-      },
-      "artists": [
-        {
-          "name": "Mariachi America",
-          "url": "https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2"
-        }
-      ],
-      "duration_ms": 154940,
-      "name": "La Vaquilla (El Son De La Vaquilla)",
-      "url": "https://open.spotify.com/track/6t3WZj3a8HC39fw57SqQEz"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Trio Azteca: Folk Songs and Ballads",
         "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
       },
@@ -947,18 +931,34 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+        "name": "Negra Linda",
+        "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Mariachi America",
+          "url": "https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2"
         }
       ],
-      "duration_ms": 201747,
-      "name": "Mi Zacatecas Querido",
-      "url": "https://open.spotify.com/track/7HkXxQLscUki9gCeMMMwPM"
+      "duration_ms": 154940,
+      "name": "La Vaquilla (El Son De La Vaquilla)",
+      "url": "https://open.spotify.com/track/6t3WZj3a8HC39fw57SqQEz"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Rancho grande",
+      "url": "https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
       },
       "artists": [
         {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Rancho grande",
-      "url": "https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ"
+      "duration_ms": 201747,
+      "name": "Mi Zacatecas Querido",
+      "url": "https://open.spotify.com/track/7HkXxQLscUki9gCeMMMwPM"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Pepe Aguilar Con Tambora",
-        "url": "https://open.spotify.com/album/6t4HD7n8phLI7hrcMfxXL3"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 130647,
-      "name": "La Vaquilla",
-      "url": "https://open.spotify.com/track/2gtvXZKt40nfgRmnBaqZu0"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Aires de Mexico",
         "url": "https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 167836,
       "name": "All\u00e1 en el Rancho Grande",
       "url": "https://open.spotify.com/track/7zPgDdoFF6hEaryYF5nokL"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Pepe Aguilar Con Tambora",
+        "url": "https://open.spotify.com/album/6t4HD7n8phLI7hrcMfxXL3"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 130647,
+      "name": "La Vaquilla",
+      "url": "https://open.spotify.com/track/2gtvXZKt40nfgRmnBaqZu0"
     },
     {
       "added_at": "2022-09-12 17:32:54",

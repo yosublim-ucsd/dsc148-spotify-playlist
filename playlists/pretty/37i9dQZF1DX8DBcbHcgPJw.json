@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: El Villano, BM & Migrantes.",
-  "num_followers": 1212390,
+  "num_followers": 1212548,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTQ2NGJkZjkwOTliYWY0NDMyZmNlMTczNjU4OTJiMjI0M2RhZDUz",
+  "snapshot_id": "MCw5YjExMGE5NTdhZTVmYjllOWViZThkZTY5ODBiMGFlOWM4OThmZTk3",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -683,18 +683,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+        "name": "Pasatiempo",
+        "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
       },
       "artists": [
         {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         }
       ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+      "duration_ms": 197161,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -723,6 +727,22 @@
       "duration_ms": 162461,
       "name": "Hoy Volvi a Verte - Remix",
       "url": "https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -787,26 +807,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 312512,
-      "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -847,22 +847,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Pasatiempo",
-        "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
       "artists": [
         {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         },
         {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 197161,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
+      "duration_ms": 312512,
+      "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Cuesti\u00f3n de tiempo",
+        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "No hay m\u00e1s nada",
+      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 366812,
       "name": "Mix El Polaco - Fer Palacio",
       "url": "https://open.spotify.com/track/1CXg6010Ab3qHAXIhdcZ3e"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Cuesti\u00f3n de tiempo",
-        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "No hay m\u00e1s nada",
-      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "TQT",
-        "url": "https://open.spotify.com/album/5cmz8HfyenIdXjE6zIEi2s"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 151415,
-      "name": "TQT",
-      "url": "https://open.spotify.com/track/1JQ6X8VpXoSUxj9M6BOayg"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "CUMBIA DE BARRIO",
         "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 181354,
       "name": "CUMBIA DE BARRIO",
       "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "TQT",
+        "url": "https://open.spotify.com/album/5cmz8HfyenIdXjE6zIEi2s"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 151415,
+      "name": "TQT",
+      "url": "https://open.spotify.com/track/1JQ6X8VpXoSUxj9M6BOayg"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "De los Besos Que Te Di",
-        "url": "https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 186734,
-      "name": "De los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Perdido en Alcohol",
         "url": "https://open.spotify.com/album/4GqW2S0AJrh6ixNjihG273"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 182344,
       "name": "Perdido en Alcohol",
       "url": "https://open.spotify.com/track/3xCJJclq5ri6rkne87CE9i"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "De los Besos Que Te Di",
+        "url": "https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 186734,
+      "name": "De los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs"
     },
     {
       "added_at": "2023-08-18 03:00:00",

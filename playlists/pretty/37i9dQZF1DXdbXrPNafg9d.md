@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Sufjan Stevens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,322 likes - 150 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,394 likes - 150 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 17 | [Leave With Me](https://open.spotify.com/track/1qAY1Qa18jN50Pnn4CpVst) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Leave With Me](https://open.spotify.com/album/4xmzAJ3edr4asi2TSxS1od) | 3:16 |
 | 18 | [Around Around Around](https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Around Around Around](https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P) | 5:21 |
 | 19 | [try](https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [try](https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg) | 2:08 |
-| 20 | [Dirty Magazine](https://open.spotify.com/track/0DqCOPqqHhNoIb6EBiRo6g) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM), [Joey Cavallo](https://open.spotify.com/artist/2rW7hFI9K4Q5Z1MK1hSyRx) | [Dirty Magazine](https://open.spotify.com/album/5P9VQk390o7gxUSBrZ1EUx) | 3:27 |
+| 20 | [Dirty Magazine](https://open.spotify.com/track/0DqCOPqqHhNoIb6EBiRo6g) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [Dirty Magazine](https://open.spotify.com/album/5P9VQk390o7gxUSBrZ1EUx) | 3:27 |
 | 21 | [Trip to Mars](https://open.spotify.com/track/4Ck37ynkUxayjxsKST96uT) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Trip to Mars](https://open.spotify.com/album/3DRL4b6dIxcHdCi4Ob83UZ) | 3:49 |
 | 22 | [Headlights On](https://open.spotify.com/track/2GqjQzjkjdyRm4IER4rP9a) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Headlights On](https://open.spotify.com/album/0nFjeUseq5yUeoM4DiDFzV) | 3:40 |
 | 23 | [KITM](https://open.spotify.com/track/3ue43zm57WE4S38MbciN7r) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [KITM](https://open.spotify.com/album/4vktA14dskWnc23YCAgcDC) | 4:48 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 89 | [natural devotion 2](https://open.spotify.com/track/126S4GL29vBOGJBcgIIvBu) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [tapeworm / natural devotion 2](https://open.spotify.com/album/4TJBJOEp2oEQnjz30ZECfO) | 3:12 |
 | 90 | [Kiss City \- home demo](https://open.spotify.com/track/4AtHSoZluaYAyUEKD3rm2L) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Kiss City \(home demo\)](https://open.spotify.com/album/5yKysBZirD8MVCqgqi2FVT) | 2:25 |
 | 91 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
-| 92 | [Vacation](https://open.spotify.com/track/5VieQH9z7lj6UIGfTkkmiM) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Vacation](https://open.spotify.com/album/4nteDNfkJVsJuWQhOnnHFN) | 3:32 |
+| 92 | [Vacation](https://open.spotify.com/track/5F1gAs2j6FLTITQ1FJni0O) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:32 |
 | 93 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 94 | [Happiness Is An 8 Ball](https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Happiness Is An 8 Ball](https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR) | 2:31 |
 | 95 | [Guessing While It Goes Around](https://open.spotify.com/track/5IY9ZUB04G80DMD5SJEXvK) | [Dream Sitch](https://open.spotify.com/artist/3AZpyYJGXnWdPPwrGniSdF), [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs), [Floating Action](https://open.spotify.com/artist/01Ru0hfWYNVxQHtFkvYY7r) | [Guessing While It Goes Around](https://open.spotify.com/album/7jqA39Gz2vCY2KSFj26nJt) | 2:45 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [My Time As a Ghostly Someone Else](https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [My Time As a Ghostly Someone Else](https://open.spotify.com/album/2XRwNGOkqLRrUYnC9AdDDO) | 4:20 |
 | 150 | [All the Good Times Never Die](https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [All the Good Times Never Die](https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL) | 3:08 |
 
-Snapshot ID: `MCwxYTMwZmVmM2M1MjIxZDU3MjM2NmRjZGRlZjFkODBhZWU2ODBkNjg5`
+Snapshot ID: `MCw4NTViOWQwYjI5Yzc3OTExYmZjMmNhOWIxMzQ0YjI5NmQ3YWU1NThi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,784 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,944 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 57 | [Erotic Electronic](https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Erotic Electronic](https://open.spotify.com/album/2HZkihcW7WfCMaok4rTCEk) | 2:23 |
 | 58 | [WARFARE](https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 2:36 |
 | 59 | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 |
-| 60 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
+| 60 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
 | 61 | [High Five](https://open.spotify.com/track/0onjg2qlZcouXn8WoKvx1p) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [Luna](https://open.spotify.com/album/4fhfwiNZaMuMrVst1cY7d4) | 2:49 |
 | 62 | [Boomerang](https://open.spotify.com/track/6yEANV0C15jXJg2lsHf6F5) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Boomerang](https://open.spotify.com/album/5dRqkoDZOtMANCUqYyhswt) | 3:02 |
 | 63 | [Used To This](https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Used To This](https://open.spotify.com/album/5Ar51rB1zWxh7rAEEh2qUi) | 3:03 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 |
 | 99 | [Runaway](https://open.spotify.com/track/5zQjsdDEqcpXaluAax1jKn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Runaway](https://open.spotify.com/album/5kdzySpTqsyQNS00JQPFff) | 2:47 |
 
-Snapshot ID: `MCw5ZDQwODJkZTcwNWJlMGE4YjFhOWZmMjQ2ZDc4NzZjZDY3ZWU1MGZh`
+Snapshot ID: `MCw0YTMwNzdlZTg2OWEzMGM0NTRiNGJiNzNiMDJkOWIzOTQ4M2ZhNjBl`

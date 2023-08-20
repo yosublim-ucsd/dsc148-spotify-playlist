@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 16885,
+  "num_followers": 16887,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmNkMjM0NmM0ZDlkMDI1ZTJkZWRiMDZiMWFkYmI1OWM0ZTc0YmJl",
+  "snapshot_id": "MCwzOTkzYTMwODE4YTA0MmY4OWNlYWE5NzAzNTBhNDJmOWIxMTNmYzI3",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -275,18 +275,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Abaixo de Zero: Hello Hell",
-        "url": "https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT"
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
       },
       "artists": [
         {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 177077,
-      "name": "Vai Baby",
-      "url": "https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS"
+      "duration_ms": 223892,
+      "name": "O Mundo \u00e9 Nosso",
+      "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -307,22 +311,18 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
+        "name": "Abaixo de Zero: Hello Hell",
+        "url": "https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT"
       },
       "artists": [
         {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 223892,
-      "name": "O Mundo \u00e9 Nosso",
-      "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
+      "duration_ms": 177077,
+      "name": "Vai Baby",
+      "url": "https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -799,6 +799,30 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Nao Sei Mais",
+        "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Damassaclan",
+          "url": "https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Nao Sei Mais",
+      "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
         "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
       },
@@ -883,30 +907,6 @@
       "duration_ms": 523467,
       "name": "Poetas no Topo 2",
       "url": "https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Nao Sei Mais",
-        "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Damassaclan",
-          "url": "https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Nao Sei Mais",
-      "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
     },
     {
       "added_at": "2023-03-10 03:01:00",

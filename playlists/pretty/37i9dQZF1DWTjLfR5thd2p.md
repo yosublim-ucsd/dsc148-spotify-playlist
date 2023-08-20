@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > A cool breeze, a clear sky, and calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,018 likes - 387 songs - 16 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,057 likes - 387 songs - 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -345,7 +345,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 335 | [Dusk in Prague](https://open.spotify.com/track/1Do4i695EaKOsoiRqDXwXo) | [Sonja Lexis](https://open.spotify.com/artist/41W1W1Ytw4yyNHaUTSiGCL) | [Dusk in Prague](https://open.spotify.com/album/1r4sVfhQHW7sAQ9bq0kCcg) | 2:09 |
 | 336 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 |
 | 337 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
-| 338 | [Collected](https://open.spotify.com/track/2Y77tRg3Ssol4IiyqKyL2K) | [Joseph Caleb](https://open.spotify.com/artist/2rfwTWRvlhsyGYdDTqjwgI) | [Collected](https://open.spotify.com/album/6zDcR22GzR4XEL3vFAXWEJ) | 2:31 |
+| 338 | [Collected](https://open.spotify.com/track/2Y77tRg3Ssol4IiyqKyL2K) | [S.J Morgan](https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4) | [Collected](https://open.spotify.com/album/6zDcR22GzR4XEL3vFAXWEJ) | 2:31 |
 | 339 | [Infatuation](https://open.spotify.com/track/6ZwJ6siwR4uUw7qhUkJLUp) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Infatuation](https://open.spotify.com/album/0Snt5AfbgRQQMDcOKFLDJm) | 2:00 |
 | 340 | [Cottonwood Shores](https://open.spotify.com/track/7LdI63ErmNMgJ8LTCN5LmC) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [Cottonwood Shores](https://open.spotify.com/album/7A5IAEwkLrdU3C941R9yP4) | 2:19 |
 | 341 | [Dells Pond](https://open.spotify.com/track/5lefNG7G6OMsOTcwPX0Hfe) | [Elizabeth Bouknight](https://open.spotify.com/artist/75cwvPWWYghazFDw1Hvda4) | [Dells Pond](https://open.spotify.com/album/1hp6OfvkiYWV9LaaJbEQLu) | 2:15 |
@@ -371,7 +371,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 361 | [Innocence](https://open.spotify.com/track/7chUrds11BR9cV2sUv32or) | [Olga Menchki](https://open.spotify.com/artist/7JORhwq0wyUPMHaYjASzLS) | [Innocence](https://open.spotify.com/album/1bJt5dNbsCzyrzMCdF4Ebq) | 2:09 |
 | 362 | [I Try](https://open.spotify.com/track/2iqN4qtrdyp43YZONn3sgF) | [Helena Gabriel](https://open.spotify.com/artist/5AW3NFlJDX8SX4LoHNTZOO) | [I Try](https://open.spotify.com/album/6EZsJTZbEkW91ZFgpzCchU) | 1:49 |
 | 363 | [Outside](https://open.spotify.com/track/1R5P9ersiA9xKk00JEXfSU) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Outside](https://open.spotify.com/album/108OAvmRUCY02QqJ3C4OT0) | 1:58 |
-| 364 | [Kallsjön](https://open.spotify.com/track/2uyPvB17vM4oxgS8FV3PJR) | [August Wester](https://open.spotify.com/artist/3uBpvuGyzQzsXcJEVVeYL0) | [Kallsjön](https://open.spotify.com/album/4udm7ZuoIBCgayXyhoV1tc) | 1:51 |
+| 364 | [Hummelviken](https://open.spotify.com/track/2uyPvB17vM4oxgS8FV3PJR) | [S.J Morgan](https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4) | [Hummelviken](https://open.spotify.com/album/4udm7ZuoIBCgayXyhoV1tc) | 1:51 |
 | 365 | [Requiem](https://open.spotify.com/track/6nDq4tCu0Wz9rtrIRSXsDw) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Under Cold Water](https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq) | 2:59 |
 | 366 | [Opus I](https://open.spotify.com/track/3FGyavyOBVi9W1tk0yGeuX) | [Margrete Wiik](https://open.spotify.com/artist/01EAqoI4z03mFNMR8qd10e) | [Opus I](https://open.spotify.com/album/3pWZKLxAhle0wtjkmAYVBW) | 1:50 |
 | 367 | [Ringlus](https://open.spotify.com/track/4weTP460iZfnd8sREo32sX) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Süda](https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG) | 2:41 |
@@ -396,4 +396,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 386 | [wandering bird](https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [yellow fields & wandering bird](https://open.spotify.com/album/4fBLDgZ2H67fMlnN2evmp2) | 2:35 |
 | 387 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 |
 
-Snapshot ID: `MCxmODBlYjljMzdkZjRiMmU2ZDhmZDYxODZiYWQ3NzA4ZmFhZTc4YmVm`
+Snapshot ID: `MCxiMGIwNDhmN2M2YzY0ZmNhZTMyZDI2MThjMzVjNzVhOThiMTkwM2Fl`

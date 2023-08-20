@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Jungle
 
-882 songs - 2 day 9 hr 31 min
+883 songs - 2 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Dive](https://open.spotify.com/track/5jtoaV5EaF0lBJ6lHv29Gk) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Dive](https://open.spotify.com/album/0SxN5b4NiWiaBKpCbc01Ed) | 3:46 | 2022-05-06 | 2022-07-15 |
 | [Diversions](https://open.spotify.com/track/76mzQIXE9intMTM056dQvW) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Early Hours](https://open.spotify.com/album/2QTjE4fU8S5krkRDcjKtZj) | 4:53 | 2021-08-27 | 2022-02-09 |
 | [DO IT AGAIN \- Official Song of the FIFA Women’s World Cup 2023™](https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [DO IT AGAIN \(Official Song of the FIFA Women’s World Cup 2023™\)](https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub) | 2:56 | 2023-06-30 |  |
-| [Do Your Worst](https://open.spotify.com/track/0Vgvm8cSsoMYFoSMtrngmv) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Do Your Worst](https://open.spotify.com/album/5boyLvydg1vKZeIWY8LwxK) | 3:27 | 2023-07-28 |  |
+| [Do Your Worst](https://open.spotify.com/track/0Vgvm8cSsoMYFoSMtrngmv) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Do Your Worst](https://open.spotify.com/album/5boyLvydg1vKZeIWY8LwxK) | 3:27 | 2023-07-28 | 2023-08-20 |
 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 | 2022-06-10 | 2022-11-14 |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-26 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/7BVTMH2x5dTcZxfp6rT6ce) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Don't Be Afraid](https://open.spotify.com/album/2AtX3VmF8DDFW3AYsp4Ek5) | 3:23 | 2021-06-25 | 2022-07-29 |
@@ -649,6 +649,7 @@
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-02-18 | 2023-07-29 |
 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 | 2022-10-05 | 2023-07-29 |
 | [RISE \- Darius Remix](https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [RISE \(Darius Remix\)](https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL) | 7:31 | 2023-04-21 | 2023-05-13 |
+| [Rising](https://open.spotify.com/track/7xN80kFvkkSMtDu57pZ29w) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Rising](https://open.spotify.com/album/7lvWOiTh8oMtOldgbB4EWi) | 4:13 | 2023-08-18 |  |
 | [River \(feat\. Parson James\)](https://open.spotify.com/track/6OOkLUhFFnaj6l9LcPHzHN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [River \(feat\. Parson James\)](https://open.spotify.com/album/79KK6T8sXDlYgXWk8bi6VE) | 3:30 | 2021-10-22 | 2022-02-11 |
 | [River \(feat\. Parson James\) \[The Magician Remix\]](https://open.spotify.com/track/6GF8u7oem3HFXCtvAyJTWp) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [River \(feat\. Parson James\) \[The Magician Remix\]](https://open.spotify.com/album/5X5T4SqMFpi3GMLO1cA0FU) | 3:36 | 2021-11-12 | 2022-07-03 |
 | [Riverbed \(feat\. Birdy\)](https://open.spotify.com/track/6GaWzv1cSgyUCuncicStu5) | [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Riverbed \(feat\. Birdy\)](https://open.spotify.com/album/0szWQ0KtokRB3mpiSTDUR2) | 4:09 | 2022-08-05 | 2022-09-18 |

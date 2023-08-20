@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 176780,
       "name": "Hurt No More",
       "url": "https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy"
@@ -3002,6 +3002,24 @@
       "duration_ms": 166300,
       "name": "Out In The Middle",
       "url": "https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp"
+    },
+    {
+      "album": {
+        "name": "Life Upside Down EP",
+        "url": "https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185681,
+      "name": "Over For You",
+      "url": "https://open.spotify.com/track/09igKkkm150rRZIxu1gjh3"
     },
     {
       "album": {

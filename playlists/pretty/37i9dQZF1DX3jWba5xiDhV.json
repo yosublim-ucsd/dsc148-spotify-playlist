@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 151755,
+  "num_followers": 152155,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2MxZTQ3M2RhYjgyM2FkMjBhMjQ3OTcwNjUzY2VmZDY1ODU0ZDM1",
+  "snapshot_id": "MCxjYzQwOGQ1MzNhYTZmMDU5MjM2MGJiOWU3YjFhNDc4ZTI5MDdiN2Vm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
+        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
+      },
+      "artists": [
+        {
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "Il veliero",
+      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Qu\u00edmico Amor",
         "url": "https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 250680,
       "name": "Qu\u00edmico Amor",
       "url": "https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
-        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
-      },
-      "artists": [
-        {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "Il veliero",
-      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "The Sound of Tony Esposito",
+        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+      },
+      "artists": [
+        {
+          "name": "Tony Esposito",
+          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "Kalimba de luna",
+      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Che Caldo",
         "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 398733,
       "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
       "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "The Sound of Tony Esposito",
-        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
-      },
-      "artists": [
-        {
-          "name": "Tony Esposito",
-          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
-        }
-      ],
-      "duration_ms": 313133,
-      "name": "Kalimba de luna",
-      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Sciura Milanese",
-        "url": "https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
-        }
-      ],
-      "duration_ms": 190698,
-      "name": "Sciura Milanese",
-      "url": "https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Polydans Remixes",
         "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 376621,
       "name": "The Night - Original Remastered Version 2020",
       "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Sciura Milanese",
+        "url": "https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 190698,
+      "name": "Sciura Milanese",
+      "url": "https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Disco Fizz",
+        "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
+      },
+      "artists": [
+        {
+          "name": "Azoto",
+          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "San Salvador - Single Version",
+      "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Danza Organica (Musumeci Remix Hot Version)",
         "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 196957,
       "name": "Danza Organica - Musumeci Remix Hot Version",
       "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Disco Fizz",
-        "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
-      },
-      "artists": [
-        {
-          "name": "Azoto",
-          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "San Salvador - Single Version",
-      "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
     },
     {
       "added_at": "2023-07-28 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Marnik, Naeleck, VINAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,776,045 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,776,662 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 |
 | 50 | [What It Feels Like](https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [What It Feels Like](https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5) | 2:15 |
 
-Snapshot ID: `MCw4ZmRlNjZiODM1ZDA1ODE0Y2E1NzQ2MTM4YTRjYWI5YmNkNzE5Nzc1`
+Snapshot ID: `MCw2MTg4ZjFhY2FmNjNmMjhmZTdjNzk0MWJlMGY4ODIzMWNmM2Y2Mjc4`

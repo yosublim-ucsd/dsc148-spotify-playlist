@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,692 likes - 29 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,698 likes - 29 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 9 | [Fur Eyes](https://open.spotify.com/track/7LWjyfOdMrdRWnetsxqBsu) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:33 |
 | 10 | [Muscle Junkie](https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:16 |
 | 11 | [Blanket](https://open.spotify.com/track/08k7gNeLvsZamR6Thx8lzZ) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 3:48 |
-| 12 | [Lying on the Floor](https://open.spotify.com/track/4T9wBvnIkUC8bZDQVXW9BB) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT) | 3:23 |
+| 12 | [Lying On The Floor](https://open.spotify.com/track/6Z1M64sIAU2d2NNOEDZlkS) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:23 |
 | 13 | [Dope Calypso](https://open.spotify.com/track/0SUXtdt8aLCt6ENqPwrJ2V) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 5:04 |
 | 14 | [Tinderbox](https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Tinderbox](https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89) | 3:54 |
 | 15 | [So Sentimental](https://open.spotify.com/track/6QVLOVHtYM3oCbiLkr8B8K) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:12 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 28 | [Paper Plane](https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:01 |
 | 29 | [Here Be Dragons](https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:14 |
 
-Snapshot ID: `MjgyMDMyNjEsMDAwMDAwMDAzNTQyYzc5YmFhOWJkYmJiYTU4OTIzNTFlMjUxNDMyYg==`
+Snapshot ID: `MjgyMDc0NTIsMDAwMDAwMDA5OGQ1MTViNzdkOGM5ODYyYjYwMzYyM2JhNmJkNzRkNw==`

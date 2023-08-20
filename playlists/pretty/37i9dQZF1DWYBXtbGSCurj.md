@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Sotam
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,690 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,782 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Vitória Dobrada](https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Vitória Dobrada](https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f) | 2:34 |
 | 75 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
 
-Snapshot ID: `MCwzMGNmZTg3MjkyZTFiOWFiOTgxNDg5OWExMzBkYzI1YWJmNTIxODhl`
+Snapshot ID: `MCw3MmUyOTYyMmY0ZGQ0OGE2ZjRjMjBlMzhhMzgwYTNiNmI0ZGFlOTU5`

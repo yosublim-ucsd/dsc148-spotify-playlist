@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-169 songs - 11 hr 7 min
+170 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Give Me a Reason](https://open.spotify.com/track/5D5pXBwMzqo9Q7Htm54vPR) | [Selofan](https://open.spotify.com/artist/1StVGGYOC5FM3aNpJQ74Vj) | [Vitrioli](https://open.spotify.com/album/3as8D8sQme1il9W9o1MCs6) | 4:16 | 2023-04-28 |  |
 | [Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA) | [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Good Vibrations](https://open.spotify.com/album/7mMg251qbwAugLZdRNzEyw) | 3:00 | 2021-09-01 |  |
 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 | 2023-02-09 |  |
+| [Happy](https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 | 2023-07-21 |  |
 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2023-03-23 | 2023-08-13 |
 | [Heavy Wave](https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:29 | 2020-12-21 |  |
 | [Heroes](https://open.spotify.com/track/4ymjspgq2OvYoPjOnsztnw) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 4:46 | 2020-12-21 |  |
@@ -123,7 +124,7 @@
 | [Sensation](https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Sensation](https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf) | 4:36 | 2023-02-09 |  |
 | [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl) | [Portwave](https://open.spotify.com/artist/5g97nXsHBZDyY6wPKckqLc) | [Shadow Lady](https://open.spotify.com/album/5SqGemHRM0ZfooBHuC81qK) | 5:02 | 2023-02-09 |  |
 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 | 2023-02-09 |  |
-| [She Is Young, She Is Beautiful, She Is Next](https://open.spotify.com/track/2MBJZgztmtwcIsKXXwLxZI) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 5:04 | 2020-12-21 |  |
+| [She Is Young, She Is Beautiful, She Is Next](https://open.spotify.com/track/2MBJZgztmtwcIsKXXwLxZI) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 5:04 | 2020-12-21 | 2023-08-20 |
 | [Shoes At The Door](https://open.spotify.com/track/5MGFb7xPJRIdP0jn1L7Laj) | [Cactus Ponchos](https://open.spotify.com/artist/4puf0OYh6mMjTRFuprvekt) | [After The Show](https://open.spotify.com/album/4RYqUH75rF5jNWYWKztoAv) | 3:00 | 2023-03-07 | 2023-03-25 |
 | [Sleepy](https://open.spotify.com/track/5e20l8hl7vcF96rYn9FxAM) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Moondust](https://open.spotify.com/album/3FfcJSLi3vTvOEAjYgO7hB) | 3:32 | 2020-12-21 | 2023-04-13 |
 | [Sous la Nuit](https://open.spotify.com/track/0fvminDc9szFRP2pkg4s1L) | [LÜNE](https://open.spotify.com/artist/4giO85Ma0hNO0wBWLFtJsS) | [Sous la Nuit](https://open.spotify.com/album/67c5WjIJf5C757reDGImwN) | 3:50 | 2020-12-21 | 2023-02-10 |

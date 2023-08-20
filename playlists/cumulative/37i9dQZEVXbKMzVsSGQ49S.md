@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,443 songs - 3 day 7 hr 13 min
+1,444 songs - 3 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Dínamít](https://open.spotify.com/track/3808LH7NVd0ZaGCZpKcNRc) | [Úlfur Úlfur](https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Dínamít](https://open.spotify.com/album/76Z5RaiRyQEA0jLeTCntht) | 4:24 | 2022-09-23 | 2022-09-25 |
 | [Dínamít](https://open.spotify.com/track/7gGRbOhWFyWmjYD6xzauQ0) | [Úlfur Úlfur](https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Dínamít](https://open.spotify.com/album/5LKCy2Xp5V8VKiKBFvSpJF) | 4:24 | 2022-09-24 | 2022-09-26 |
 | [Dómsdags dans](https://open.spotify.com/track/2M45HQmK4fkeDyBnce3fHt) | [Celebs](https://open.spotify.com/artist/6FX8zqZ4QQsnFduMkk0080) | [Söngvakeppnin 2023](https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd) | 2:55 | 2023-02-20 | 2023-03-08 |
-| [Dýrð í dauðaþögn](https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Stór Agnarögn](https://open.spotify.com/album/7cIX2BGfObw0EjEX85eqTf) | 3:19 | 2023-06-06 |  |
+| [Dýrð í dauðaþögn](https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Stór Agnarögn](https://open.spotify.com/album/7cIX2BGfObw0EjEX85eqTf) | 3:19 | 2023-06-06 | 2023-08-20 |
 | [Dýrð í dauðaþögn](https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Stór agnarögn](https://open.spotify.com/album/3kD0eb4wgmccYXYOhFZoL1) | 3:19 | 2022-08-17 | 2023-06-07 |
 | [E45](https://open.spotify.com/track/4Bl4PdFzrDvmFJvKJrHqGg) | [Sultan Den Første](https://open.spotify.com/artist/1tv6vH2AmEXZUvQ8mqCY3U) | [E45](https://open.spotify.com/album/7ydZPJ4rPU3jgDkQYEppgq) | 3:18 | 2023-01-25 | 2023-01-27 |
 | [EAEA](https://open.spotify.com/track/1NzoDUn5bLqpS36GD00Smi) | [Blanca Paloma](https://open.spotify.com/artist/4wm4mhiGnYPzCerFg3venQ) | [EAEA](https://open.spotify.com/album/713ABLvroU275mKkUgr6ZJ) | 2:59 | 2023-05-14 | 2023-05-16 |
@@ -974,6 +974,7 @@
 | [Power](https://open.spotify.com/track/6V3PuVse7g4ACKljlzGY1Q) | [Diljá](https://open.spotify.com/artist/2Zy3uwssLs81VYxqIj1Hcv) | [Söngvakeppnin 2023](https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd) | 3:00 | 2023-02-19 | 2023-06-03 |
 | [POWER](https://open.spotify.com/track/6bOdKJKweHiUb9a47anbP8) | [Diljá](https://open.spotify.com/artist/2Zy3uwssLs81VYxqIj1Hcv) | [POWER](https://open.spotify.com/album/3GGTGI7EV95uOrONmIstx2) | 3:03 | 2023-03-06 | 2023-03-16 |
 | [POWER](https://open.spotify.com/track/7wD30C4OrUzpj8ycl4PeSt) | [Diljá](https://open.spotify.com/artist/2Zy3uwssLs81VYxqIj1Hcv) | [POWER](https://open.spotify.com/album/6VA3f0QiadO0atzIRCZdHw) | 3:03 | 2023-03-15 | 2023-05-24 |
+| [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-19 |  |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2021-10-13 | 2021-11-19 |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-19 |
 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 | 2022-07-02 | 2022-07-04 |

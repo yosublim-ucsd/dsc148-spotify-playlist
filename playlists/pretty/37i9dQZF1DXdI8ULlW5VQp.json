@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Caloncho en portada.",
-  "num_followers": 57915,
+  "num_followers": 57943,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2MzNTk3ZjhiZDg5MThhMzBmMjcxYWUzZTBiNjZjZDAxZjljODVm",
+  "snapshot_id": "MCwwYjFkYzBjZWI1NGU4NTIxZGU1NDY3NjA4NGU4ZjM5YTA1YTRiNDMy",
   "tracks": [
     {
       "added_at": "2023-07-28 18:38:54",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "FUE",
-        "url": "https://open.spotify.com/album/7agivcohsBICoHafttM2j7"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 242833,
-      "name": "FUE",
-      "url": "https://open.spotify.com/track/7EzMotErPHP0TJ2Gv987q7"
-    },
-    {
-      "added_at": "2023-07-28 18:38:54",
-      "album": {
         "name": "Diosa",
         "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 186333,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "added_at": "2023-07-28 18:38:54",
+      "album": {
+        "name": "FUE",
+        "url": "https://open.spotify.com/album/7agivcohsBICoHafttM2j7"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 242833,
+      "name": "FUE",
+      "url": "https://open.spotify.com/track/7EzMotErPHP0TJ2Gv987q7"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 183109,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
-    },
-    {
-      "added_at": "2023-07-28 18:38:54",
-      "album": {
         "name": "C\u00d3MO RESPIRAR???",
         "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 221075,
       "name": "C\u00d3MO RESPIRAR???",
       "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
+    },
+    {
+      "added_at": "2023-07-28 18:38:54",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
+        "name": "Contigo Quiero",
+        "url": "https://open.spotify.com/album/4XICGSUas3iNGZb7OxZlE5"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 259122,
+      "name": "Contigo Quiero",
+      "url": "https://open.spotify.com/track/71fHHYGL47wkCw3TQRmU14"
+    },
+    {
+      "added_at": "2023-07-28 18:38:54",
+      "album": {
         "name": "Quer\u00eda Volverte a Ver",
         "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
       },
@@ -955,26 +971,6 @@
       "duration_ms": 251760,
       "name": "Quer\u00eda Volverte a Ver",
       "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
-    },
-    {
-      "added_at": "2023-07-28 18:38:54",
-      "album": {
-        "name": "La Calle de las Sirenas",
-        "url": "https://open.spotify.com/album/2GuFTan2nM0JthPoVk7vXi"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Kabah",
-          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "La Calle de las Sirenas",
-      "url": "https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -999,18 +995,22 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Contigo Quiero",
-        "url": "https://open.spotify.com/album/4XICGSUas3iNGZb7OxZlE5"
+        "name": "La Calle de las Sirenas",
+        "url": "https://open.spotify.com/album/2GuFTan2nM0JthPoVk7vXi"
       },
       "artists": [
         {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
         }
       ],
-      "duration_ms": 259122,
-      "name": "Contigo Quiero",
-      "url": "https://open.spotify.com/track/71fHHYGL47wkCw3TQRmU14"
+      "duration_ms": 274601,
+      "name": "La Calle de las Sirenas",
+      "url": "https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L"
     },
     {
       "added_at": "2023-07-28 18:38:54",

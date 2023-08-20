@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 230400,
       "name": "...Ready For It?",
       "url": "https://open.spotify.com/track/7dMHikM2EFipQdSyDZbnsE"
@@ -4165,6 +4165,28 @@
     },
     {
       "album": {
+        "name": "Groovemasta / Beat It Up",
+        "url": "https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252121,
+      "name": "Groovemasta",
+      "url": "https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl"
+    },
+    {
+      "album": {
         "name": "Guesses",
         "url": "https://open.spotify.com/album/2jWPkteLzjDBXLJMbmiaI6"
       },
@@ -4242,7 +4264,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 227200,
       "name": "HAPPY SONG",
       "url": "https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b"
@@ -6486,7 +6508,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 174465,
       "name": "Neck Snap",
       "url": "https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK"
@@ -7565,6 +7587,28 @@
     },
     {
       "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264827,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n"
+    },
+    {
+      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl"
       },
@@ -7842,7 +7886,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 147420,
       "name": "Repeating",
       "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
@@ -8032,6 +8076,28 @@
       "duration_ms": 148000,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/3GC5RAYvVkAAQrYEs1S3sF"
+      },
+      "artists": [
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212444,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/3jOlncv2CNZ6v1479wYk4z"
     },
     {
       "album": {
@@ -9156,7 +9222,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 219031,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/4bq2Aaq3jtNKFo92BR3yhC"
@@ -9897,6 +9963,24 @@
     },
     {
       "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/0HGxdsvgj7TWcZyPXkytC3"
+      },
+      "artists": [
+        {
+          "name": "Seawayz",
+          "url": "https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/1UzOLSdRhvZzdpPBjRgrnp"
+    },
+    {
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/4wOJa4z6jAGZb1B5kQqxsX"
       },
@@ -10475,6 +10559,32 @@
     },
     {
       "album": {
+        "name": "GORILLA WARFARE",
+        "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "CELO",
+          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "WARFARE",
+      "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
+    },
+    {
+      "album": {
         "name": "Warmer",
         "url": "https://open.spotify.com/album/05PEAJk2RAUtqaAbixRJAG"
       },
@@ -10950,7 +11060,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"

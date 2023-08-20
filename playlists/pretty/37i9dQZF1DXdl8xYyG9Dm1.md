@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=ABWOCesUQZS5YxyjBmAjcAA"> Black Sherif</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,321 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,407 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 43 | [No Option](https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 2:32 |
 | 44 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
 | 45 | [Bigger \(feat\. Olamide & Nas\)](https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 3:22 |
-| 46 | [LiFT ME UP](https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR) | [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [ANXIETY+](https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ) | 5:32 |
+| 46 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
 | 47 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 |
-| 48 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
+| 48 | [LiFT ME UP](https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR) | [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [ANXIETY+](https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ) | 5:32 |
 | 49 | [Blackout](https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Blackout](https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg) | 2:17 |
 | 50 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 |
 | 51 | [Ye x4](https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Ye x4](https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a) | 2:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Ball Till We Fall](https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ball Till We Fall](https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx) | 2:23 |
 | 70 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
 
-Snapshot ID: `MCw3ZjM4MWNkM2Y4NGFkYWE5OTU4NmM5NjgxZTI3MjBjMjE4NWU1YzZl`
+Snapshot ID: `MCwwYmIyMTNjYmE0ZjllNWJlZGIzZGVhNGIwNDNlMmRiNTc3ZmMxZDlk`

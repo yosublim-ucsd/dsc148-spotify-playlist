@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 45858,
+  "num_followers": 45886,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTgwZDQyZjI2NWMxN2YxOWE2OThkNDc4N2FhMDAzOGFiN2ZlM2Nj",
+  "snapshot_id": "MCw2OWNlZjY5MjI4MjljZjlkMGE5ZTNlZTQzYjVhZTVlYjhmNzQ4ZTE4",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Water Memory",
-        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 363120,
-      "name": "Your Pond",
-      "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -327,38 +311,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Yes I",
-        "url": "https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR"
+        "name": "Water Memory",
+        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
       "artists": [
         {
-          "name": "Answer Code Request",
-          "url": "https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO"
-        },
-        {
-          "name": "Jan Wagner",
-          "url": "https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX"
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Yes I",
-      "url": "https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Novu Hisy",
-        "url": "https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Novu Hisy",
-      "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
+      "duration_ms": 363120,
+      "name": "Your Pond",
+      "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -379,6 +343,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Novu Hisy",
+        "url": "https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Novu Hisy",
+      "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Sequences",
         "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Yes I",
+        "url": "https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR"
+      },
+      "artists": [
+        {
+          "name": "Answer Code Request",
+          "url": "https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO"
+        },
+        {
+          "name": "Jan Wagner",
+          "url": "https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Yes I",
+      "url": "https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Wander Into",
+        "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Wander Into",
+      "url": "https://open.spotify.com/track/5xOv6ER7scPxk1LIIYFoLv"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Where Do You Get Your Dreams From?",
         "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Wander Into",
-        "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
-      },
-      "artists": [
-        {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Wander Into",
-      "url": "https://open.spotify.com/track/5xOv6ER7scPxk1LIIYFoLv"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Secret Garden",
         "url": "https://open.spotify.com/album/7Lhvt5nCdHqiKy07HgDWFd"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 281229,
       "name": "The Secret Garden",
       "url": "https://open.spotify.com/track/0I500KXvf7ecFdSbd2lQtR"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "St / Fr / Sp",
+        "url": "https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Starethrough - Transition Mix",
+      "url": "https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Journey To The Underworld EP",
         "url": "https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 389000,
       "name": "Dissolution",
       "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Together in Static",
-        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 155375,
-      "name": "Together in Static",
-      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "St / Fr / Sp",
-        "url": "https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w"
+        "name": "Together in Static",
+        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
       },
       "artists": [
         {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 304093,
-      "name": "Starethrough - Transition Mix",
-      "url": "https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg"
+      "duration_ms": 155375,
+      "name": "Together in Static",
+      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Moonbase Alpha",
-        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
-      },
-      "artists": [
-        {
-          "name": "Hermbot",
-          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "The Station Is Alive Again",
-      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "full/new",
         "url": "https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 452476,
       "name": "The Hermit",
       "url": "https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Moonbase Alpha",
+        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
+      },
+      "artists": [
+        {
+          "name": "Hermbot",
+          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "The Station Is Alive Again",
+      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Home Stories",
         "url": "https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 317393,
       "name": "BELOW",
       "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
-      },
-      "artists": [
-        {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
-        }
-      ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Sleep to Dream",
-        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
-        }
-      ],
-      "duration_ms": 263142,
-      "name": "Sleep to Dream",
-      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Milan",
         "url": "https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Sleep to Dream",
+        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 263142,
+      "name": "Sleep to Dream",
+      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Five Steps",
         "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Raum (Single Edit)",
-        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 442500,
-      "name": "Raum - Single Edit",
-      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "The Sparrow",
         "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 357906,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Raum (Single Edit)",
+        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 442500,
+      "name": "Raum - Single Edit",
+      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Geoglyph",
-        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
+        "name": "Aerious EP",
+        "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
       },
       "artists": [
         {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+          "name": "Tryst (UK)",
+          "url": "https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4"
         }
       ],
-      "duration_ms": 364460,
-      "name": "A1. J-Math",
-      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
+      "duration_ms": 277753,
+      "name": "Reflections On The Waterfront",
+      "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
     }
   ],
   "unique_name": "Modular Synths",

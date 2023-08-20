@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Sufjan graces us with a new track fit for Carrie & Lowell fanatics.
 
-1,738 songs - 4 day 8 hr 16 min
+1,739 songs - 4 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Bioluminescence](https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Bioluminescence](https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9) | 5:12 | 2023-07-28 |  |
 | [Birch \(feat\. Taylor Swift\)](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2021-09-02 | 2022-01-24 |
 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 | 2020-05-15 | 2020-10-29 |
-| [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 | 2023-07-20 |  |
+| [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 | 2023-07-20 | 2023-08-20 |
 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-16 | 2023-07-07 |
 | [Black Licorice](https://open.spotify.com/track/08D3zofNf3OwOSCAk50UFs) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Black Licorice](https://open.spotify.com/album/7J8OT7Iyo86JKISamIbvzM) | 3:39 | 2020-03-14 | 2020-08-07 |
 | [Black Rain](https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Black Rain](https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b) | 3:51 | 2020-12-04 | 2021-06-25 |
@@ -1081,6 +1081,7 @@
 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2019-05-26\* | 2019-08-13 |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-02-04 | 2022-06-20 |
 | [NYE](https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [NYE](https://open.spotify.com/album/0xIg9hAbN6BYXXoEVoMwqX) | 3:10 | 2023-05-19 | 2023-07-01 |
+| [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP) | 2:55 | 2023-08-11 |  |
 | [O.O.Y.O.](https://open.spotify.com/track/3AMrhCf84s9V9LYdabaY93) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [O.O.Y.O.](https://open.spotify.com/album/1dVUykuYltFbm0VhxNu82I) | 4:01 | 2023-01-20 | 2023-02-01 |
 | [Obsessed](https://open.spotify.com/track/32YXYwMitpm34hXO6c2eup) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Obsessed](https://open.spotify.com/album/4KNJvx8D3Re2PHLEb3QQT6) | 5:13 | 2019-05-26\* | 2019-06-21 |
 | [Obsessed](https://open.spotify.com/track/4A6KChEr6JtHy7SKNCRmYu) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Keepsake](https://open.spotify.com/album/7MtevXUL7jsGqW8LUh42mQ) | 5:13 | 2019-06-21 | 2019-08-13 |

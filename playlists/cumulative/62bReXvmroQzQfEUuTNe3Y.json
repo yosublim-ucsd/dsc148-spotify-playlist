@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+    },
+    {
+      "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
       },
@@ -682,6 +704,24 @@
       "duration_ms": 175505,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj"
+    },
+    {
+      "album": {
+        "name": "Bleecker",
+        "url": "https://open.spotify.com/album/3E7WTyyZV0bx1EcLJFQQDh"
+      },
+      "artists": [
+        {
+          "name": "ALBA",
+          "url": "https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210606,
+      "name": "Bleecker",
+      "url": "https://open.spotify.com/track/5GHXtGjgoX5EKQTiuNX6Fc"
     },
     {
       "album": {
@@ -2922,7 +2962,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 249012,
       "name": "I Can Make It",
       "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
@@ -4108,7 +4148,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 210988,
       "name": "Love's Not Over - Dawn Edit",
       "url": "https://open.spotify.com/track/4igakSDtom2NQ54wYfPSOx"
@@ -5398,6 +5438,32 @@
       "duration_ms": 237978,
       "name": "Radical (feat. Totally Enormous Extinct Dinosaurs) - Edit",
       "url": "https://open.spotify.com/track/5hladndw7yw0iSImREt8bq"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "MNRT",
+          "url": "https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99"
+        },
+        {
+          "name": "S:NE",
+          "url": "https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152298,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO"
     },
     {
       "album": {

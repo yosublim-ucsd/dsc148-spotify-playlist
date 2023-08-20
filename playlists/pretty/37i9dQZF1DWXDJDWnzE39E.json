@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Poppy",
-  "num_followers": 639676,
+  "num_followers": 640050,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWZiNTA4NTA0ZjhiNTRjYjM5OWZjYWMxYTUwYmZkMmVkZWMxYzE5",
+  "snapshot_id": "MCxjN2I2NmViMDYxOGIzOGNlZDYwMjY1MTQ5YTcxM2ZhZjJkYTlhMGM1",
   "tracks": [
     {
       "added_at": "2023-08-07 15:18:08",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -607,8 +607,8 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 244258,
-      "name": "Light and Darkness",
-      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "not my problem",
-        "url": "https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2"
-      },
-      "artists": [
-        {
-          "name": "TAELA",
-          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
-        }
-      ],
-      "duration_ms": 129399,
-      "name": "not my problem",
-      "url": "https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "Handshake with Hell",
         "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 338960,
       "name": "Handshake with Hell",
       "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "not my problem",
+        "url": "https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2"
+      },
+      "artists": [
+        {
+          "name": "TAELA",
+          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
+        }
+      ],
+      "duration_ms": 129399,
+      "name": "not my problem",
+      "url": "https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Brat",
-        "url": "https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3"
-      },
-      "artists": [
-        {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
-        }
-      ],
-      "duration_ms": 186601,
-      "name": "Brat",
-      "url": "https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "Faking It",
         "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 230181,
       "name": "Popular Monster",
       "url": "https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "Brat",
+        "url": "https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 186601,
+      "name": "Brat",
+      "url": "https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Cover You",
-        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 181853,
-      "name": "Cover You",
-      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "Noise",
         "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 340281,
       "name": "Noise",
       "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "Cover You",
+        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "Cover You",
+      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "METAL KINGDOM",
-        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 351354,
-      "name": "METAL KINGDOM",
-      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Cure 4 Psycho",
-        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
+        "name": "METAL KINGDOM",
+        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
       },
       "artists": [
         {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 157749,
-      "name": "Cure 4 Psycho",
-      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
+      "duration_ms": 351354,
+      "name": "METAL KINGDOM",
+      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1291,6 +1275,38 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
+        "name": "Cure 4 Psycho",
+        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Cure 4 Psycho",
+      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "Rip It Out",
+        "url": "https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Rip It Out",
+      "url": "https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
         "name": "Who Are The Girls?",
         "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 201013,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 136156,
-      "name": "molotov [OK]",
-      "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"
     }
   ],
   "unique_name": "Heavy Queens",

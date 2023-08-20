@@ -4,7 +4,7 @@
 
 > When you want to be alone and the Blues is your soundtrack.
 
-108 songs - 7 hr 57 min
+109 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bonnie](https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:37 | 2022-07-08 | 2022-11-16 |
 | [Brand New](https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Brand New](https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q) | 6:59 | 2022-05-13 |  |
 | [Broken & Blue \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 4:22 | 2023-03-24 |  |
+| [Burn](https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [Burn](https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O) | 4:20 | 2023-08-18 |  |
 | [By The Water](https://open.spotify.com/track/2OWa4hkdlpxPrb2ZvOwWCv) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/7CrxQyz0pFkETwJFlXN7L8) | 2:39 | 2022-05-13 | 2022-07-29 |
 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 | 2022-07-08 |  |
 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 | 2022-05-13 |  |
@@ -88,7 +89,7 @@
 | [Slow Burning Love](https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Slow Burning Love](https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0) | 3:11 | 2022-05-13 | 2023-07-27 |
 | [Slow Burning Love](https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Right Kinda Wrong](https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J) | 3:11 | 2023-06-30 |  |
 | [Someone Broke This Heart of Mine](https://open.spotify.com/track/1nAib0m89PRTuvauNATdOU) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Pretty Baby](https://open.spotify.com/album/1ck7nHDnXEfVJI1ee0IkuZ) | 2:15 | 2022-05-13 | 2022-07-28 |
-| [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 | 2022-08-19 |  |
+| [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 | 2022-08-19 | 2023-08-20 |
 | [Sometimes I Worry](https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Roll and Tumble](https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW) | 3:25 | 2023-04-21 |  |
 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 | 2022-05-27 |  |
 | [Still Here](https://open.spotify.com/track/48EXlenGFwcnZWdh6AqUW4) | [Ben Levin](https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci) | [Still Here](https://open.spotify.com/album/5KhHtOUptVZINgVHuyIgDD) | 4:10 | 2022-05-13 | 2023-05-01 |

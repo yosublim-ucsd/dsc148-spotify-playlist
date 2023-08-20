@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 3842,
+  "num_followers": 3849,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTIzYzMzNThmMzVmYWQ1ZTBmMWNjNGJkYjJhMjVlN2QzM2Q0MWJk",
+  "snapshot_id": "MCw3NzNiZWIwM2U2ZmFmMDQwMmNjNDAyZmUwYTQ0M2VmYjY1YjNhNDdl",
   "tracks": [
     {
       "added_at": "2023-08-17 22:02:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+        "name": "Things Happen That Way",
+        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
         }
       ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+      "duration_ms": 204800,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -571,22 +587,6 @@
       "duration_ms": 228431,
       "name": "This Time",
       "url": "https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
-        "name": "Things Happen That Way",
-        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "The Resurrectors",
-          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
-        }
-      ],
-      "duration_ms": 226710,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "Burning Down the Prairie",
         "url": "https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb"
       },
@@ -723,22 +703,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "The Epic Tale of the Stranded Man",
-        "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
-      },
-      "artists": [
-        {
-          "name": "VanWyck",
-          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
-        }
-      ],
-      "duration_ms": 212139,
-      "name": "Lola with the Light Eyes",
-      "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
       },
@@ -759,18 +723,38 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "Priest From Terre Haute",
-        "url": "https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH"
+        "name": "The Epic Tale of the Stranded Man",
+        "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
       },
       "artists": [
         {
-          "name": "Marcos Cabanas",
-          "url": "https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402"
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
         }
       ],
-      "duration_ms": 703561,
-      "name": "Priest From Terre Haute",
-      "url": "https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt"
+      "duration_ms": 212139,
+      "name": "Lola with the Light Eyes",
+      "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "duration_ms": 226710,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -787,6 +771,22 @@
       "duration_ms": 179573,
       "name": "Burlesque Desert Window",
       "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT"
+      },
+      "artists": [
+        {
+          "name": "Laura van Kaam",
+          "url": "https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT"
+        "name": "Priest From Terre Haute",
+        "url": "https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH"
       },
       "artists": [
         {
-          "name": "Laura van Kaam",
-          "url": "https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe"
+          "name": "Marcos Cabanas",
+          "url": "https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402"
         }
       ],
-      "duration_ms": 173053,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8"
+      "duration_ms": 703561,
+      "name": "Priest From Terre Haute",
+      "url": "https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt"
     },
     {
       "added_at": "2023-08-17 22:02:00",

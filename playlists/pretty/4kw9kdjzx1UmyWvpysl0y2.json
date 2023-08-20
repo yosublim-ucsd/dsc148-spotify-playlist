@@ -1,13 +1,113 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127272,
+  "num_followers": 127318,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDM0NiwyMjdhYzIzY2Q0YzVkZDk0NTBkZjJmYThkNjBmYWVlYmFlYzJhYmNi",
+  "snapshot_id": "NDM1NywwNzU4MzlkYmVlNDFiOGNhNGNhZTBmYWZhMGQzZGNiMTVmOGJiNjc1",
   "tracks": [
+    {
+      "added_at": "2023-08-17 17:40:18",
+      "album": {
+        "name": "GORILLA WARFARE",
+        "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "CELO",
+          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "WARFARE",
+      "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
+    },
+    {
+      "added_at": "2023-08-16 17:32:28",
+      "album": {
+        "name": "Groovemasta / Beat It Up",
+        "url": "https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        }
+      ],
+      "duration_ms": 252121,
+      "name": "Groovemasta",
+      "url": "https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl"
+    },
+    {
+      "added_at": "2023-08-15 19:21:40",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/3GC5RAYvVkAAQrYEs1S3sF"
+      },
+      "artists": [
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 212444,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/3jOlncv2CNZ6v1479wYk4z"
+    },
+    {
+      "added_at": "2023-08-14 17:57:17",
+      "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/0HGxdsvgj7TWcZyPXkytC3"
+      },
+      "artists": [
+        {
+          "name": "Seawayz",
+          "url": "https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/1UzOLSdRhvZzdpPBjRgrnp"
+    },
+    {
+      "added_at": "2023-08-14 17:34:23",
+      "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        }
+      ],
+      "duration_ms": 264827,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n"
+    },
     {
       "added_at": "2023-08-10 17:40:00",
       "album": {
@@ -1035,122 +1135,6 @@
       "duration_ms": 183200,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
-    },
-    {
-      "added_at": "2023-05-26 15:54:26",
-      "album": {
-        "name": "HAPPY SONG",
-        "url": "https://open.spotify.com/album/2X2n5AtyOVFBKajAVQkBg6"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "HAPPY SONG",
-      "url": "https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b"
-    },
-    {
-      "added_at": "2023-05-25 16:11:54",
-      "album": {
-        "name": "Repeating",
-        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 147420,
-      "name": "Repeating",
-      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
-    },
-    {
-      "added_at": "2023-05-25 16:11:30",
-      "album": {
-        "name": "...Ready For It?",
-        "url": "https://open.spotify.com/album/4DXlmR7JJ4epvcYOqL6jet"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        },
-        {
-          "name": "Skyelle",
-          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "...Ready For It?",
-      "url": "https://open.spotify.com/track/7dMHikM2EFipQdSyDZbnsE"
-    },
-    {
-      "added_at": "2023-05-25 16:11:01",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/5pqtjYOAyfkki8usZYPXAY"
-      },
-      "artists": [
-        {
-          "name": "ORACLE",
-          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
-        },
-        {
-          "name": "Holochrome",
-          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
-        }
-      ],
-      "duration_ms": 219031,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/4bq2Aaq3jtNKFo92BR3yhC"
-    },
-    {
-      "added_at": "2023-05-25 16:10:34",
-      "album": {
-        "name": "Neck Snap",
-        "url": "https://open.spotify.com/album/4H37lVlKGjTCzusxKyXrlo"
-      },
-      "artists": [
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        },
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 174465,
-      "name": "Neck Snap",
-      "url": "https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK"
-    },
-    {
-      "added_at": "2023-05-18 18:59:31",
-      "album": {
-        "name": "You Found Me",
-        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Clara Park",
-          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

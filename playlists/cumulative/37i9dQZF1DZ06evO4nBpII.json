@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Dookie (30th Anniversary 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187970,
+      "name": "Basket Case - 4-track demo",
+      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
+    },
+    {
+      "album": {
         "name": "BBC Sessions (Live)",
         "url": "https://open.spotify.com/album/7igexfyHGnY4qMAyOzc4q8"
       },
@@ -802,7 +820,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 183146,
       "name": "Nuclear Family",
       "url": "https://open.spotify.com/track/206n37mZTmloL45RYhmMlP"
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 221720,
       "name": "X-Kid",
       "url": "https://open.spotify.com/track/5i559orX0oL7i4AuZGKott"

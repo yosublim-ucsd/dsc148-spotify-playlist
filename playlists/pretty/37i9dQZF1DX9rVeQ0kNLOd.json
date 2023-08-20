@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 18195,
+  "num_followers": 18204,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGFhNzdjMzMwOWE1ZDYyOGFjZDgxNjBjNWYwYjE3MzBlMmI2MWM0",
+  "snapshot_id": "MCwyNzE5YTVhNDQwOWE4ZmY4MmVlY2RlYjc3NzE3YmE5MzE1ZjkzM2Zk",
   "tracks": [
     {
       "added_at": "2023-08-17 18:46:41",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-08-17 18:46:41",
       "album": {
-        "name": "\u7d19\u4e00\u91cd",
-        "url": "https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN"
+        "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
+        "url": "https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv"
       },
       "artists": [
         {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],
-      "duration_ms": 249477,
-      "name": "\u7d19\u4e00\u91cd",
-      "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
+      "duration_ms": 213600,
+      "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
+      "url": "https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ"
     },
     {
       "added_at": "2023-08-17 18:46:41",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-08-17 18:46:41",
       "album": {
-        "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
-        "url": "https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv"
+        "name": "\u7d19\u4e00\u91cd",
+        "url": "https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN"
       },
       "artists": [
         {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
         }
       ],
-      "duration_ms": 213600,
-      "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
-      "url": "https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ"
+      "duration_ms": 249477,
+      "name": "\u7d19\u4e00\u91cd",
+      "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
     },
     {
       "added_at": "2023-08-17 18:46:41",

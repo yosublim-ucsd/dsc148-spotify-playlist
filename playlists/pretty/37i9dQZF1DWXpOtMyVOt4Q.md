@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,803 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,839 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 |
 | 2 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
 | 3 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
-| 4 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
-| 5 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 |
+| 4 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 |
+| 5 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
 | 6 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
 | 7 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
 | 8 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 9 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
-| 10 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
-| 11 | [Fireflies](https://open.spotify.com/track/7FtKmHnpcW6NDCCLe83CjR) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/3GDrSVfvjeXnRUjXaE0XBb) | 4:58 |
-| 12 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
+| 10 | [Fireflies](https://open.spotify.com/track/7FtKmHnpcW6NDCCLe83CjR) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/3GDrSVfvjeXnRUjXaE0XBb) | 4:58 |
+| 11 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
+| 12 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
 | 13 | [Breeze](https://open.spotify.com/track/7qBHJ0nXHHsoOtqKwfkF35) | [Mvdb](https://open.spotify.com/artist/0hleYpwrJSPEh2pCRTU0AY) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:35 |
 | 14 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 |
 | 15 | [Last Words](https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:49 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 20 | [Forgotten](https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h) | [trxxshed](https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU), [Lomtre](https://open.spotify.com/artist/1k3LtgjJQgOGwjOyNSQuMJ) | [Far from Reality](https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i) | 2:07 |
 | 21 | [My Own World](https://open.spotify.com/track/12pqAvuELTFoNj8kQ6vKDH) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8), [Bumblebee](https://open.spotify.com/artist/00tp1VkcmbfeTDI2XhRtZx) | [My Own World](https://open.spotify.com/album/5r8j34q0RT3nYnZzd01Iz3) | 1:55 |
 | 22 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 |
-| 23 | [The Mist](https://open.spotify.com/track/5i7jug3QciEvwbozP3pVlM) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Secrets of Castle](https://open.spotify.com/album/3KrF7sJyvkwbL4b3NpXh3a) | 2:54 |
-| 24 | [jade tower](https://open.spotify.com/track/7ERaRrb9qbmnvbAbBQvqgA) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [New Game +](https://open.spotify.com/album/44CDggTdui1svEdyck7NOT) | 1:39 |
+| 23 | [jade tower](https://open.spotify.com/track/7ERaRrb9qbmnvbAbBQvqgA) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [New Game +](https://open.spotify.com/album/44CDggTdui1svEdyck7NOT) | 1:39 |
+| 24 | [The Mist](https://open.spotify.com/track/5i7jug3QciEvwbozP3pVlM) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Secrets of Castle](https://open.spotify.com/album/3KrF7sJyvkwbL4b3NpXh3a) | 2:54 |
 | 25 | [Theta](https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Theta](https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg) | 3:00 |
 | 26 | [I Still Like You](https://open.spotify.com/track/2P1pP6UfKgkUkCUzceAGEx) | [ビクター ＭＫＩＩ](https://open.spotify.com/artist/2lGJkXqpvUW77Kc6hcEIO8) | [Omoide](https://open.spotify.com/album/0N3ddx2vF7wsVEqtQRmfB1) | 2:20 |
 | 27 | [Crazy for You](https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx) | [Moai Beats](https://open.spotify.com/artist/5Zt96vfBQXmUB3fs3Qkm5q) | [Crazy for You](https://open.spotify.com/album/0RRw5IO6MRoPPOyQFq480D) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Arcade](https://open.spotify.com/track/7w1rgZiQ7aIVgqpHvFUifh) | [Chilled AF](https://open.spotify.com/artist/4MzsyH1fwjNcrEthWnphyJ) | [Arcade](https://open.spotify.com/album/3AXZhfhDvkujRCdKTwAugQ) | 1:42 |
 | 50 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 |
 
-Snapshot ID: `MCxhZjkyZGQyNjdkNTI3NTNjODFhYTRmNDU5MjQzYjI4YjZhOGM0OWE1`
+Snapshot ID: `MCwwZWUyZjlhODUzYTdjZWI0NzQ0OWNhNTBmYTBjMzdlNmMyMjkwNmFk`

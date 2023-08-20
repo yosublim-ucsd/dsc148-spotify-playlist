@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: \-真天地開闢集団\-ジグザグ
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,842 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,864 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [あのバスに乗って](https://open.spotify.com/track/5MlmEyuLHsBZjuMitCujuN) | [Schrödinger=Mushroom](https://open.spotify.com/artist/3wJ5EES7IOp3znVuMnhdAS) | [あのバスに乗って](https://open.spotify.com/album/2GkVCLvKsmyRwDDQboZE6J) | 4:36 |
 | 80 | [Lucky](https://open.spotify.com/track/4MLVdvJ5rUtCAfdPc0HlbK) | [TsuruSwing](https://open.spotify.com/artist/3De2RXEkhi0fnGg9M4P51O), [Katie Ford](https://open.spotify.com/artist/5FRFpmI7fFazXHgQqVellL) | [Lucky](https://open.spotify.com/album/5oCyaDbX9JpIWuQ9oqm9q5) | 2:10 |
 
-Snapshot ID: `MCw2MWUyZWQ2MjcyM2JjOGYxY2NhOTBkNmU0ZjhiM2IyZTMyODIwODM3`
+Snapshot ID: `MCw2MTQzNWYwMjI1MGYwNTNlNDFhZDM1NDRjMjU2NGY2ZjhiODQzZTgz`

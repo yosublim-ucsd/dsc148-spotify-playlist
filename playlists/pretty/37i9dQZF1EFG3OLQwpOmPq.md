@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4e1uL7ct1eJLYsIEob5yEp">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013 likes - 77 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012 likes - 77 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 42 | [mexico city](https://open.spotify.com/track/4yl95JyeOUopdg7GXlnY0o) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:27 |
 | 43 | [Yours for the Night](https://open.spotify.com/track/3P3FB3ssbwmEh1byLcXa0E) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6ImHqlbLXfWhPdP2l2toA9) | 3:13 |
 | 44 | [Hung Up](https://open.spotify.com/track/5piGbFZr6mMi7jfVvQUzGC) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [Hung Up](https://open.spotify.com/album/3lP2uvFc1EPkSL6Seyr6f5) | 4:18 |
-| 45 | [burn to dust](https://open.spotify.com/track/5fSG6RaEL2YA2nr4mCfjUt) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 3:31 |
-| 46 | [come over](https://open.spotify.com/track/7sg07HUwalXexpb0i0QPIm) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:50 |
+| 45 | [come over](https://open.spotify.com/track/7sg07HUwalXexpb0i0QPIm) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:50 |
+| 46 | [burn to dust](https://open.spotify.com/track/5fSG6RaEL2YA2nr4mCfjUt) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 3:31 |
 | 47 | [Autopilot](https://open.spotify.com/track/3KDqlDpIkoomdyTi64ESkt) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Sim City](https://open.spotify.com/album/1Cy4HnbLIBPwwpuC64erDU) | 3:15 |
 | 48 | [just another day](https://open.spotify.com/track/7J5lMhBctps6q86jQGAsUl) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:22 |
 | 49 | [Golden Roses](https://open.spotify.com/track/6CLvWzSVYzYNO2ePEqaQNl) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Blissful Ignorance](https://open.spotify.com/album/6teRzD3N6CNwWYHgHQyOPc) | 3:28 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 76 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 77 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `MjgxOTUyODAsMDAwMDAwMDA5NDdjYzIwN2E4ZDJiMDNhZTA1ZTE3OTcwOWE3ZWRkMA==`
+Snapshot ID: `MjgyMDgyNDAsMDAwMDAwMDAzYWYwMGY1Yzk4NjAwMTVkNjE1OTdmZTI5OTAwOGJkMg==`

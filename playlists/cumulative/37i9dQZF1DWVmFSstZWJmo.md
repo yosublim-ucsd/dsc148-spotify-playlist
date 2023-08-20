@@ -4,12 +4,13 @@
 
 > Is "indie sleaze" in the room with us now? ft\. Master Peace
 
-176 songs - 11 hr 1 min
+177 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-11-10 |  |
-| [212](https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 3:24 | 2022-11-10 |  |
+| [212](https://open.spotify.com/track/4D3eJvbNKjMF8DRQFVIHsG) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:23 | 2023-08-18 |  |
+| [212](https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 3:24 | 2022-11-10 | 2023-08-20 |
 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2022-11-10 |  |
 | [Accelerator](https://open.spotify.com/track/1VY409A6iWgta1FPxteEUK) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [XTRMNTR](https://open.spotify.com/album/1jRIP96i2Dx4bVKV2kwcC8) | 3:40 | 2023-04-14 | 2023-04-27 |
 | [Acceptable in the 80's](https://open.spotify.com/track/6x2xqg5fQNu9dNCXu83ezE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [I Created Disco](https://open.spotify.com/album/507DSnX3hTUOiBiBEDgwfx) | 5:32 | 2023-04-14 | 2023-04-27 |

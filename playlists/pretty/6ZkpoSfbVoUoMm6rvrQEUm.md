@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain]
 
 > Friday Haus \- Freshest house tunes every week\. Updated Every Friday !
 
-[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 6,328 likes - 20 songs - 1 hr 10 min
+[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 6,641 likes - 20 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain]
 | 19 | [Stop Time](https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Stop Time](https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4) | 3:13 |
 | 20 | [Make You Mine](https://open.spotify.com/track/2pq8Euv7ULQPETCrGwr4vE) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Ytram](https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ), [RA](https://open.spotify.com/artist/5KB4q7bGeG3ekRWMLX11Rs) | [Make You Mine](https://open.spotify.com/album/2pLH64By4z5MAkBLekr5b5) | 4:09 |
 
-Snapshot ID: `MzAzOSxmMDIxYjkyYzcxM2VlOGY0MjI3YzkzNGE1OTc5NGMxMzIwNTI5ODI4`
+Snapshot ID: `MzA0MSwzODdiODBjNTBiOTA4OGQ0MjVjZjljZTU0YzliY2MxNzI4ZmZiMmQz`

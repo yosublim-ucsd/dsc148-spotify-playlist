@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl?si=zHZ8NUFtQ02h5y\-P4OBYQg">Elikem Kofi </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,486 likes - 89 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,580 likes - 89 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 27 | [Hold On](https://open.spotify.com/track/0wbk0GOWBb49rGlYQtORwr) | [Cyfa](https://open.spotify.com/artist/3fItFJEQGwuAIQhFy92rJ9), [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [Hold On](https://open.spotify.com/album/6Ey0uFXJzDw2QNmSVVkYFc) | 2:54 |
 | 28 | [Dance Tonight](https://open.spotify.com/track/1iKAh7U7vqqPgxuTmRRbuw) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AMEN ALBUM](https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK) | 3:07 |
 | 29 | [I Love The Cross \- Radio Edit](https://open.spotify.com/track/6j8RopDLVla75gRzuam9So) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [I Love The Cross \(Radio Edit\)](https://open.spotify.com/album/6bjN3En1KZDZXxOluuy8O6) | 3:47 |
-| 30 | [Think Am](https://open.spotify.com/track/6AuBdPzW3KEFMK0HWLKKYI) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [Baron Jay](https://open.spotify.com/artist/3gTYdm7udgk8Xox16oai9V) | [Think Am](https://open.spotify.com/album/3fEhFgxFdEu24Zhkcl1Osd) | 2:32 |
+| 30 | [Think Am](https://open.spotify.com/track/6AuBdPzW3KEFMK0HWLKKYI) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Think Am](https://open.spotify.com/album/3fEhFgxFdEu24Zhkcl1Osd) | 2:32 |
 | 31 | [Osamudiamen \- Remix](https://open.spotify.com/track/40mgHRca5sLFb7w9IK6uKS) | [Bredjo](https://open.spotify.com/artist/216jcBv5bdbpFqfJF7iNuz), [Solomon Lange](https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN), [Ediale Bright](https://open.spotify.com/artist/6aQhghbZ7W1HwmpR3ldOBp) | [Osamudiamen \(Remix\)](https://open.spotify.com/album/769M2yaYfmr1oVGkmf5dB3) | 5:23 |
 | 32 | [Akuzike](https://open.spotify.com/track/6HvdB8sn4XF6VmpBxtxjmn) | [Mic Mash](https://open.spotify.com/artist/7hzFig3OAPKqQZQqwxpUEy), [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i), [Siggy Kim](https://open.spotify.com/artist/0StpXhIqIldjrDZvh6tted) | [Akuzike](https://open.spotify.com/album/5rApc4mQ4yHIJxSlkBPSuL) | 3:20 |
 | 33 | [Luke 15:4](https://open.spotify.com/track/0px1Jwd0rLBsCZUQQZ0ijc) | [Daniella Paul\-Enenche](https://open.spotify.com/artist/5cdE8RbLbG6QiQUzYZegRV), [Paul\-Daniel Paul\-Enenche](https://open.spotify.com/artist/37IbjRwNWMpYXHlPquCcWG) | [Luke 15:4](https://open.spotify.com/album/5CT7DQ8yCNkFALaHah78zN) | 3:31 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 88 | [Kara Kara](https://open.spotify.com/track/0iahFIVI5S6o8ERYbL9NzU) | [TNO](https://open.spotify.com/artist/6OW42Eluu7OEDdU898ZE6e) | [Kara Kara](https://open.spotify.com/album/1Q0qOETar1GzrjY183GpYW) | 3:19 |
 | 89 | [You're The Only One](https://open.spotify.com/track/59VmxTexNKtHLylCzLGcdl) | [The Matsiko World Orphan Choir](https://open.spotify.com/artist/4yRxWaKfnOplibd6dzOJLE) | [You're The Only One](https://open.spotify.com/album/5lzNVJnNy7UYiVidzPfLpy) | 3:36 |
 
-Snapshot ID: `MCw2ZTA2MDBiYTlhMjJjYzk0ZmJlMTI4MWRhMWRmM2Y1MmZhNDQ5NWVi`
+Snapshot ID: `MCxkM2IyNWNmNzU1YmNlYTA1YjMxNjc2MTU0NmI4ZDU5ZGViOGJmOGE1`

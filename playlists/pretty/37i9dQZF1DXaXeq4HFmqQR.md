@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paz Court.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,468 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,473 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 11 | [Divina](https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Divina](https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe) | 2:39 |
 | 12 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 |
 | 13 | [Ya Pasó la Vieja](https://open.spotify.com/track/3xIsKve8QasumCXEAJTeVK) | [AlmenDra DelPilar](https://open.spotify.com/artist/3Hw6f6nZQytsgW29Hy3gG4) | [Rectificar](https://open.spotify.com/album/30RXjLMWvfnWPIst1AOYwq) | 1:40 |
-| 14 | [Vivo imaginando cosas](https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Vivo imaginando cosas](https://open.spotify.com/album/5xgjARuucedrnidak56nWb) | 4:02 |
-| 15 | [BIG BANG](https://open.spotify.com/track/06xFmWwVcOUFy3RgmJWN6I) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
+| 14 | [BIG BANG](https://open.spotify.com/track/06xFmWwVcOUFy3RgmJWN6I) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
+| 15 | [Vivo imaginando cosas](https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Vivo imaginando cosas](https://open.spotify.com/album/5xgjARuucedrnidak56nWb) | 4:02 |
 | 16 | [ANTICUECA](https://open.spotify.com/track/4eLdTaWTE9qBjo4957vlQc) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 0:55 |
 | 17 | [Ulalá](https://open.spotify.com/track/3Iv6BQHkwA6zMUbqNm88Yz) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Qween C.](https://open.spotify.com/album/5R4Nti3wX2RFHX2qhzhEkv) | 4:03 |
 | 18 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 32 | [Nanai](https://open.spotify.com/track/5Gl6ibnuMpUU9jiJ6idF7Q) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 4:23 |
 | 33 | [Amante](https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:51 |
 | 34 | [Algo Real \- Acústico](https://open.spotify.com/track/3KFeZhnUFQTB34gh4kAtcw) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Solosiberia](https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1) | [No Me Detiene \(Acústico\)](https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs) | 2:28 |
-| 35 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
-| 36 | [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 |
+| 35 | [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 |
+| 36 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
 | 37 | [Rey secreto](https://open.spotify.com/track/1KG6D1n93vB5N79MncATlg) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Rey Secreto](https://open.spotify.com/album/0uvDf9ljskD5hI9XxvBIJI) | 3:19 |
 | 38 | [Me Atrapo](https://open.spotify.com/track/7hkW1zfCSUG3ydscxBI2Rb) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Me Atrapo](https://open.spotify.com/album/0ey9v3dXxNPZuSc9Vx27S6) | 4:10 |
 | 39 | [Quiero Estar Sola](https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX) | [María Colores](https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan) | [Quiero Estar Sola](https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
 | 50 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 
-Snapshot ID: `MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz`
+Snapshot ID: `MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0`

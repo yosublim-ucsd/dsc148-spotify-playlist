@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Atreyu on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,442,885 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,443,164 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Ancestry](https://open.spotify.com/track/3DNfmRFXFO65rHKWz3XyQD) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:50 |
 | 75 | [Waste Of Myself](https://open.spotify.com/track/05EAMJGwvxDcqcGxhT4t9R) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [The Aggression Sessions](https://open.spotify.com/album/3mPX3GO24FWBfxy1NqMkhl) | 3:21 |
 
-Snapshot ID: `MCxhZTY0M2U5NTk3MGVkZjJiNGY4M2QyMjc1OWZkNmM0Njg1ODU3YmUx`
+Snapshot ID: `MCw1MzI1NzQ2ZWRkYzJjYmM1ZTAwOTIwYWU5ZTM3YWRkNTk4Y2UyMTEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,151 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,179 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 24 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 |
 | 25 | [Air4](https://open.spotify.com/track/27JkxaTk7a8fBcpcB6Pf5y) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Air4](https://open.spotify.com/album/0ROMrhWRJh9ziRdlirb5Kc) | 2:24 |
 | 26 | [Tank And The Bangas \(feat\. Rapsody, Kota the Friend, Orleans Big, Dee\-1, Alex Isley\) \- Remix](https://open.spotify.com/track/3uUH1IlD2e2UWgVVUII9KS) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Orleans Big](https://open.spotify.com/artist/5LrIqLIweQz6rLfR8hc8K6), [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Black Folk \(Remix\)](https://open.spotify.com/album/1XDlBcu0t7TOpxLJmk2Dkn) | 5:59 |
-| 27 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
+| 27 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
 | 28 | [Ayinger Märzen](https://open.spotify.com/track/7yDhmKspr6Py5tBwGn0CoY) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Ayinger Märzen](https://open.spotify.com/album/14v3WF9GoDlIgzk8Nfi34J) | 1:16 |
 | 29 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 |
 | 30 | [Angel In The Marble](https://open.spotify.com/track/0LIYWVeuLISkSopjKzkLjv) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Angel In The Marble](https://open.spotify.com/album/4atJj8AYiUEmgXq4RhySaH) | 3:57 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 |
 | 49 | [Ice Spice](https://open.spotify.com/track/5urWEm3xpFTiek4qSHouQZ) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE) | [Ice Spice](https://open.spotify.com/album/1uvDNSW0TUyxkcfyLyZJtC) | 2:09 |
 
-Snapshot ID: `MCxlN2I5ODllNTkwZmE1ODFkZmRjMjhiOTBjNDFlZDBhMDE4M2NkMjRk`
+Snapshot ID: `MCxjZTUyNzY4NmMwM2Y2ZWI2OGJlODEzNDYzYmZhZTAzYmE4NTU2NmRj`

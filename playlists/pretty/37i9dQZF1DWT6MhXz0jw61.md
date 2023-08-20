@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,876 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,410 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
+| 1 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
 | 2 | [ROY G\. BIV](https://open.spotify.com/track/3APxSP7BFQn3pjZxkggWH7) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 1:54 |
 | 3 | [Moment Of Clarity](https://open.spotify.com/track/2NP1bo7cim3NK8MvYockG5) | [Rowlan](https://open.spotify.com/artist/1QQxgPT4qgPLps6RFTLCjJ), [Jon Connor](https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x), [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Moment Of Clarity](https://open.spotify.com/album/118iQ02A7PEYgQ3KCouuEy) | 3:46 |
 | 4 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Slipping Into Darkness](https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Slipping Into Darkness](https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N) | 4:16 |
 | 100 | [Hootz](https://open.spotify.com/track/4Q0QCJid9Sg0EKFfewCgw6) | [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Love Without Conditions](https://open.spotify.com/album/3pKvcDR1KlZ2uxRDVegJej) | 3:09 |
 
-Snapshot ID: `MCw2ZmVlMmYzMWJiMjUzYjY2MjQ5MWZjZDJjNTU0Y2NiYWY4YTVhMmNk`
+Snapshot ID: `MCw3OWQ4ZWEyYWUyODQwMTgzNDY5OTZhMTYzNmMyOWQ3NWQ1YjlkOTVi`

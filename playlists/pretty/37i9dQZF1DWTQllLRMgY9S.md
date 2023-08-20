@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 
 > Listen to brand new music as it arrives and all the classics from the true blue Queen of Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,272 likes - 59 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,560 likes - 59 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 | 8 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
 | 9 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
 | 10 | [Holiday](https://open.spotify.com/track/4k6ktr10Hczmh55NY3LfJy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 6:08 |
-| 11 | [4 Minutes \(feat\. Justin Timberlake & Timbaland\)](https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:09 |
+| 11 | [4 Minutes \(feat\. Justin Timberlake & Timbaland\)](https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:09 |
 | 12 | [Girl Gone Wild](https://open.spotify.com/track/6HlB4heRq3dA1pt38gmuqk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA \(Deluxe Version\)](https://open.spotify.com/album/6JlKrwy7tJKFBum4i9vxW2) | 3:43 |
 | 13 | [Give It 2 Me](https://open.spotify.com/track/6G7d2cbkZSaAOE0H6K1ohb) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk) | 4:47 |
 | 14 | [Music](https://open.spotify.com/track/2BcOZ4vOeu2qZowIHrvTYy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 3:45 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 | 58 | [Bitch I’m Loca \(feat\. Maluma\)](https://open.spotify.com/track/4EoMHVpNZTLVfAIgYzfufZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 2:50 |
 | 59 | [Killers Who Are Partying](https://open.spotify.com/track/68vWLW3xY35CHvYS2Sn55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 5:28 |
 
-Snapshot ID: `MCxlMGQzNzNjZjk2MGM2ZDI0OWIwYTRlNjM2MTgyZmNkMzQ3MzFlZmYx`
+Snapshot ID: `MCw0ZjFhNTNiNTliMDhlZmY2MTgwMmU1YTdjYWEzZWE5NTJiNmZjNjhj`

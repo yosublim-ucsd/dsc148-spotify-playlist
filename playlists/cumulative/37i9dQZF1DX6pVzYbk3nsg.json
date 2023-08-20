@@ -16,10 +16,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 174345,
       "name": "A La Buena Si",
       "url": "https://open.spotify.com/track/3BKuNccgeCFlAQ7KHljZ3V"
+    },
+    {
+      "album": {
+        "name": "A La Buena S\u00ed",
+        "url": "https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT"
+      },
+      "artists": [
+        {
+          "name": "Chamir Bonano",
+          "url": "https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174345,
+      "name": "A La Buena S\u00ed",
+      "url": "https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH"
     },
     {
       "album": {

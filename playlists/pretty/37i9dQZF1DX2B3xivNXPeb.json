@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 33898,
+  "num_followers": 33989,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTg5YmE0MTAzM2JjNDFmY2Q4NzEzY2I3NWJiY2IzN2JjYzBlZTVi",
+  "snapshot_id": "MCwwZDk3NmM3ZTBmMjdmZDRmMmJiZmFmNjhjODMxOTg1MWZiZjFiZmVm",
   "tracks": [
     {
       "added_at": "2023-06-16 14:02:21",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "I Want a Little Sugar In My Bowl",
-      "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Remember My Song",
         "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 395373,
       "name": "I Got The... - 2006 Remaster",
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "I Want a Little Sugar In My Bowl",
+      "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -859,8 +859,8 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+        "name": "The Sweetest Peaches [Part One (1940-1966)]",
+        "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
+      "duration_ms": 167426,
+      "name": "Something's Got A Hold On Me",
+      "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "The Sweetest Peaches [Part One (1940-1966)]",
-        "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Something's Got A Hold On Me",
-      "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
+      "duration_ms": 144000,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
         }
       ],
-      "duration_ms": 176048,
-      "name": "The Hardest Part (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR"
+      "duration_ms": 211426,
+      "name": "I Think I'll Call It Morning",
+      "url": "https://open.spotify.com/track/4ZquhgZ58o26fg9jC4npy2"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
       },
       "artists": [
         {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 211426,
-      "name": "I Think I'll Call It Morning",
-      "url": "https://open.spotify.com/track/4ZquhgZ58o26fg9jC4npy2"
+      "duration_ms": 176048,
+      "name": "The Hardest Part (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Why Don't You Touch Me",
-        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
+        "name": "Watch Me Dance",
+        "url": "https://open.spotify.com/album/5Hbogrukylm91E91osFIoE"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 197746,
-      "name": "Why Don't You Touch Me",
-      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
+      "duration_ms": 303586,
+      "name": "Watch Me Dance",
+      "url": "https://open.spotify.com/track/6nD7oFYIKMjGBFRhVX7vYz"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Watch Me Dance",
-        "url": "https://open.spotify.com/album/5Hbogrukylm91E91osFIoE"
+        "name": "Why Don't You Touch Me",
+        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 303586,
-      "name": "Watch Me Dance",
-      "url": "https://open.spotify.com/track/6nD7oFYIKMjGBFRhVX7vYz"
+      "duration_ms": 197746,
+      "name": "Why Don't You Touch Me",
+      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Please Love Me Again",
-        "url": "https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt"
-      },
-      "artists": [
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 186582,
-      "name": "Please Love Me Again",
-      "url": "https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Bad Company",
         "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 218680,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Please Love Me Again",
+        "url": "https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 186582,
+      "name": "Please Love Me Again",
+      "url": "https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "THE POWER IN US",
-        "url": "https://open.spotify.com/album/7qiwCfOn9JFpVZ1Q8qD6Vc"
-      },
-      "artists": [
-        {
-          "name": "Poppy Ajudha",
-          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "HOLIDAY FROM REALITY",
-      "url": "https://open.spotify.com/track/2RR6qhMCAhNS7rz1ueAFbj"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Taurus",
         "url": "https://open.spotify.com/album/65PxIf97kRctYT8rshapFc"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 186000,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "THE POWER IN US",
+        "url": "https://open.spotify.com/album/7qiwCfOn9JFpVZ1Q8qD6Vc"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "HOLIDAY FROM REALITY",
+      "url": "https://open.spotify.com/track/2RR6qhMCAhNS7rz1ueAFbj"
     },
     {
       "added_at": "2023-06-16 14:02:21",

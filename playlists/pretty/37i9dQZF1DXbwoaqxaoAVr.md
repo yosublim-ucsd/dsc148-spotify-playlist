@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,535 likes - 65 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,984 likes - 65 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 12 | [Never Let You Down](https://open.spotify.com/track/2Q2Md34uxHcRvSNzbCAgLH) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Never Let You Down](https://open.spotify.com/album/65I2WkH3rAmgb1E4ef55he) | 3:08 |
 | 13 | [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 |
 | 14 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
-| 15 | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \- Remix](https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [Noah Cronin](https://open.spotify.com/artist/2yqSHKgMDbDW3Mzrk2M5df) | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \[Remix\]](https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y) | 4:14 |
+| 15 | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \- Remix](https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [Noah Cronin](https://open.spotify.com/artist/7zVlPgqcPPfRMwK5cBulaH) | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \[Remix\]](https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y) | 4:14 |
 | 16 | [My Sweet Lord](https://open.spotify.com/track/0gVCFdvavY7YRsIpssaxaz) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [My Sweet Lord](https://open.spotify.com/album/7rbfhqkpS5J9JerwXt4OPq) | 5:04 |
 | 17 | [Blue Jeans \- Album Mix](https://open.spotify.com/track/0JUJEu66hmWMJsDDAP3IWk) | [Natty Bong](https://open.spotify.com/artist/212Jq222D4QnciSA0uWrVN) | [Flower Tattoos](https://open.spotify.com/album/3hRSarAnkIfFBobtATegjN) | 4:10 |
 | 18 | [Get Free](https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 64 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 |
 | 65 | [Magic Potion \(with Lion Rezz\)](https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM) | 4:12 |
 
-Snapshot ID: `MCxlMjM1NTA0M2U0NTg2NTc2NzFlODllMDc5NzA4NTNmNDVkNmI3Mjc4`
+Snapshot ID: `MCw5YTZjYjEzODUyODIzMTk4ZGRkMWRlNDU1ZTczOGRiNzAzZDkwMDdm`

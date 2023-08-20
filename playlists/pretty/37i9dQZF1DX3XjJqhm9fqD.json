@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 79887,
+  "num_followers": 79940,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjQ5M2JmYjQyNzc3NzQwMmViY2JmODhjNzBiMjdlYTBhZjRmYThi",
+  "snapshot_id": "MCw0ZGI1OTBiYzcyODk3NTZjYjQ5MWY2YjAwY2QzMmZiYzcyNWFkZmE0",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -279,18 +279,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Calypso : Winter Edition",
-        "url": "https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y"
+        "name": "Coming Your Way (with Anne-Marie & Becky G)",
+        "url": "https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg"
       },
       "artists": [
         {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 234453,
-      "name": "Fem voy\u00e9",
-      "url": "https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD"
+      "duration_ms": 145122,
+      "name": "Coming Your Way (with Anne-Marie & Becky G)",
+      "url": "https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -327,6 +335,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Calypso : Winter Edition",
+        "url": "https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Fem voy\u00e9",
+      "url": "https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "She's Hot",
         "url": "https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u"
       },
@@ -343,6 +367,26 @@
       "duration_ms": 238524,
       "name": "She's Hot",
       "url": "https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "$payforhaiti (feat. Mach-Hommy)",
+      "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -371,42 +415,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "$payforhaiti (feat. Mach-Hommy)",
-      "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "EXTRA EXTRA!",
-        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "MUST BE",
-      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Egyptian Sun",
         "url": "https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa"
       },
@@ -423,6 +431,22 @@
       "duration_ms": 257677,
       "name": "Egyptian Sun",
       "url": "https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "MUST BE",
+      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -459,6 +483,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "LAS",
+        "url": "https://open.spotify.com/album/01oPSFSY6fQmlFUDoNORvB"
+      },
+      "artists": [
+        {
+          "name": "Zafem",
+          "url": "https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9"
+        }
+      ],
+      "duration_ms": 313421,
+      "name": "Dlo Dous",
+      "url": "https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "HoneyComb",
         "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
@@ -479,22 +519,6 @@
       "duration_ms": 139752,
       "name": "HoneyComb",
       "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "LAS",
-        "url": "https://open.spotify.com/album/01oPSFSY6fQmlFUDoNORvB"
-      },
-      "artists": [
-        {
-          "name": "Zafem",
-          "url": "https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9"
-        }
-      ],
-      "duration_ms": 313421,
-      "name": "Dlo Dous",
-      "url": "https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -523,26 +547,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Clueless (with Oxlade)",
-        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Clueless (with Oxlade)",
-      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Welcome To Dinna",
         "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
       },
@@ -563,6 +567,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Clueless (with Oxlade)",
+        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Clueless (with Oxlade)",
+      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "40 %",
         "url": "https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS"
       },
@@ -575,6 +599,30 @@
       "duration_ms": 278000,
       "name": "40 %",
       "url": "https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Liki Tiki",
+        "url": "https://open.spotify.com/album/3HOMvaJTUweoeIdDEGGdQv"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Liki Tiki",
+      "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -627,50 +675,6 @@
       "duration_ms": 268240,
       "name": "Ou pati",
       "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Liki Tiki",
-        "url": "https://open.spotify.com/album/3HOMvaJTUweoeIdDEGGdQv"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        },
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Liki Tiki",
-      "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -759,8 +763,8 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm"
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88"
       },
       "artists": [
         {
@@ -768,13 +772,13 @@
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 133835,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/74sVNFKqFoOMqaeNYpeiIT"
+      "duration_ms": 142040,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -883,26 +887,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "F\u00f2s",
         "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
       },
@@ -919,6 +903,26 @@
       "duration_ms": 234248,
       "name": "Crush la",
       "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -963,22 +967,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Thug Love",
-        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Thug Love",
-      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Bizou",
         "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
       },
@@ -995,18 +983,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Premye Fwa",
-        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
       },
       "artists": [
         {
-          "name": "DANOLA",
-          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Premye Fwa",
-      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
+      "duration_ms": 188250,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1023,6 +1011,22 @@
       "duration_ms": 229489,
       "name": "2 Gouden",
       "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Premye Fwa",
+        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
+      },
+      "artists": [
+        {
+          "name": "DANOLA",
+          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Premye Fwa",
+      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1103,22 +1107,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "New Life Livin",
-        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
-      },
-      "artists": [
-        {
-          "name": "Kai Alce",
-          "url": "https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh"
-        }
-      ],
-      "duration_ms": 311098,
-      "name": "New Life Livin",
-      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Ti Kabrit",
         "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
       },
@@ -1131,6 +1119,22 @@
       "duration_ms": 161717,
       "name": "Ti Kabrit",
       "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "New Life Livin",
+        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
+      },
+      "artists": [
+        {
+          "name": "Kai Alce",
+          "url": "https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh"
+        }
+      ],
+      "duration_ms": 311098,
+      "name": "New Life Livin",
+      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1443,6 +1447,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "On va pas baisser les bras",
         "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
       },
@@ -1459,6 +1479,22 @@
       "duration_ms": 195692,
       "name": "On va pas baisser les bras",
       "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Plenyen Player Yo",
+        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
+      },
+      "artists": [
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 226542,
+      "name": "Plenyen Player Yo",
+      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1483,22 +1519,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Plenyen Player Yo",
-        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
-      },
-      "artists": [
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        }
-      ],
-      "duration_ms": 226542,
-      "name": "Plenyen Player Yo",
-      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Down With the Gouyad (Remix)",
         "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
@@ -1519,38 +1539,6 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Say It Like",
-        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
-      },
-      "artists": [
-        {
-          "name": "Sarina",
-          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Say It Like",
-      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1587,6 +1575,22 @@
       "duration_ms": 205030,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Say It Like",
+        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
+      },
+      "artists": [
+        {
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Say It Like",
+      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1699,22 +1703,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Foli",
-        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
-      },
-      "artists": [
-        {
-          "name": "Prophete",
-          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Foli",
-      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Can't Catch Me",
         "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
       },
@@ -1751,6 +1739,22 @@
       "duration_ms": 252000,
       "name": "Na Va W\u00e8 Yo",
       "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Foli",
+        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
+      },
+      "artists": [
+        {
+          "name": "Prophete",
+          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Foli",
+      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1823,26 +1827,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "P's & Q's",
-        "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
-      },
-      "artists": [
-        {
-          "name": "Dyna Edyne",
-          "url": "https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3"
-        },
-        {
-          "name": "Anonymuz",
-          "url": "https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm"
-        }
-      ],
-      "duration_ms": 196433,
-      "name": "P's & Q's",
-      "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Sol\u00e8y Midi",
         "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
       },
@@ -1859,6 +1843,26 @@
       "duration_ms": 229205,
       "name": "Sol\u00e8y Midi",
       "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "P's & Q's",
+        "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
+      },
+      "artists": [
+        {
+          "name": "Dyna Edyne",
+          "url": "https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3"
+        },
+        {
+          "name": "Anonymuz",
+          "url": "https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm"
+        }
+      ],
+      "duration_ms": 196433,
+      "name": "P's & Q's",
+      "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
     },
     {
       "added_at": "2023-08-18 04:00:00",

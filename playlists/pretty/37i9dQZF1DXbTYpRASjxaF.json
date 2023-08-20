@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: MC Maneirinho",
-  "num_followers": 119276,
+  "num_followers": 119402,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2JkNDI5ZmNjMmUwNDYzZTk3NWVhMzk5ZmIzYjAyNDEzOWJjYzg3",
+  "snapshot_id": "MCw1YzE1MDgxOTYxODM1YmMzNDQ0ODU4MTY1NThiY2I1M2YyNGY0NGMw",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -923,34 +923,18 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g"
+        "name": "Shots&Shots",
+        "url": "https://open.spotify.com/album/3UsReLmMGbNBS1Dgqhyh6s"
       },
       "artists": [
         {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
         }
       ],
-      "duration_ms": 295384,
-      "name": "Sarradeira",
-      "url": "https://open.spotify.com/track/7qeJNEyuXaWmYsHyPmzbFv"
+      "duration_ms": 245203,
+      "name": "Shots&Shots",
+      "url": "https://open.spotify.com/track/5yaFcw2ORM3Mwtdfe7ko4z"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1007,18 +991,34 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Shots&Shots",
-        "url": "https://open.spotify.com/album/3UsReLmMGbNBS1Dgqhyh6s"
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g"
       },
       "artists": [
         {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 245203,
-      "name": "Shots&Shots",
-      "url": "https://open.spotify.com/track/5yaFcw2ORM3Mwtdfe7ko4z"
+      "duration_ms": 295384,
+      "name": "Sarradeira",
+      "url": "https://open.spotify.com/track/7qeJNEyuXaWmYsHyPmzbFv"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1075,42 +1075,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g"
-      },
-      "artists": [
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lancei os Trajes",
-      "url": "https://open.spotify.com/track/1kxrDZEDihuelR3QlKJH7g"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Sereno",
         "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
       },
@@ -1131,6 +1095,34 @@
       "duration_ms": 136072,
       "name": "Sereno",
       "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "24 por 48",
+        "url": "https://open.spotify.com/album/79joqzdkoCRIGtHGiBt8PB"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Dazz",
+          "url": "https://open.spotify.com/artist/4NgSQ0eSMFB9HjBMEal1rA"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "24 por 48",
+      "url": "https://open.spotify.com/track/22akDLsI3H34M0Lc4upxKJ"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1171,30 +1163,38 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "24 por 48",
-        "url": "https://open.spotify.com/album/79joqzdkoCRIGtHGiBt8PB"
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g"
       },
       "artists": [
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
         },
         {
-          "name": "Dazz",
-          "url": "https://open.spotify.com/artist/4NgSQ0eSMFB9HjBMEal1rA"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
         },
         {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
         }
       ],
-      "duration_ms": 180923,
-      "name": "24 por 48",
-      "url": "https://open.spotify.com/track/22akDLsI3H34M0Lc4upxKJ"
+      "duration_ms": 213333,
+      "name": "Lancei os Trajes",
+      "url": "https://open.spotify.com/track/1kxrDZEDihuelR3QlKJH7g"
     },
     {
       "added_at": "2023-08-18 03:01:00",

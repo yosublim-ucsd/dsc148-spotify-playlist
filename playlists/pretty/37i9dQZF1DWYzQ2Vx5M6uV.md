@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Kizz Daniel & Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,833 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,896 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Sugarcane \- Latin Remix](https://open.spotify.com/track/5ArzZq6UEHyTBOraJVdL1N) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV) | [Sugarcane \(Latin Remix\)](https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366) | 4:18 |
 | 70 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 |
 
-Snapshot ID: `MCxhYTA1MDQwMjUyNzA5ZTk1M2E0NjhmOTc1YzU5Y2RjY2ExZjdjNjU5`
+Snapshot ID: `MCw3MTRmMDVmYjI0OGU5ZDk0NGZlNDIwMDFkNWRhOTI4MjkyODYzMDg3`

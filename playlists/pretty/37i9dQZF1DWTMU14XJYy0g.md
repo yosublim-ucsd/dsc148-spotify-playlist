@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Él Mató a un Policía Motorizado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,622 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,735 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Suelto](https://open.spotify.com/track/6pCeEWCyIlOuwG5J3q2pKP) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Suelto](https://open.spotify.com/album/1Mb36xDeCUR5xmgIEt869k) | 3:43 |
 | 100 | [Trinchera](https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera \- Single](https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm) | 3:20 |
 
-Snapshot ID: `MCwxMjkxY2IwMGFjZDIwYTdhNGNkZDBiZDg4MjM5ZGUyMjZjZmU3NzI2`
+Snapshot ID: `MCxhOGJmMDhhZmI4ZDM2Yzk4ZmUyMGZmNmI3MWY0Y2Q2ODI3ODBiOWNj`

@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Jessie Reyez, Miguel
 
-951 songs - 2 day 7 hr 57 min
+952 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Better Than I Imagined \[Feat\. H.E.R\. & Meshell Ndegeocello\] \- KAYTRANADA Remix](https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Better Than I Imagined \[Feat\. H.E.R\. & Meshell Ndegeocello\] \(KAYTRANADA Remix\)](https://open.spotify.com/album/7HRqZplSpqWZnL05hUJCcH) | 3:47 | 2020-12-04 | 2022-04-19 |
 | [Better Unsaid](https://open.spotify.com/track/7LRWlefaWAmv7HebeTxWpt) | [Liyah Knight](https://open.spotify.com/artist/5We4m1ZNMQBteKJNc7CvhF) | [Better Unsaid](https://open.spotify.com/album/1dFDgPWd8n152I8xnwpKvx) | 3:24 | 2020-10-16 | 2021-01-15 |
 | [Between Love and Happiness](https://open.spotify.com/track/5SCKyDjYNT1Egrj59FwK5y) | [Asta Hiroki](https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC), [Muhsinah](https://open.spotify.com/artist/2xMBRdUYQjgJezQ8lNGQq5) | [Between Love and Happiness](https://open.spotify.com/album/4Jgl2hu8CZJyjmsjbH6fih) | 2:22 | 2019-09-29\* | 2019-10-17 |
-| [Bewilderment](https://open.spotify.com/track/4qqNPAiQmGVdwxLrfYmYDg) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/6lhy077vcpLXGOSSCkP3wM) | 3:38 | 2023-07-28 |  |
+| [Bewilderment](https://open.spotify.com/track/4qqNPAiQmGVdwxLrfYmYDg) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/6lhy077vcpLXGOSSCkP3wM) | 3:38 | 2023-07-28 | 2023-08-20 |
+| [Bewilderment](https://open.spotify.com/track/5PAS1dyZn7mb7Eq3JM0ejK) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:38 | 2023-08-18 |  |
 | [Bipolar](https://open.spotify.com/track/1stlDAnoUlxaMaR1CIPn5f) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/13lsx3HiueZWyN5wSSNDEL) | 2:36 | 2020-05-22 | 2020-10-23 |
 | [Birthday](https://open.spotify.com/track/2jCSd2lOtWQKtwb7FdfvPQ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Birthday](https://open.spotify.com/album/0T3tWA8ootCRtdVX7ariF9) | 3:39 | 2020-08-30 | 2020-10-30 |
 | [Bitter Streets](https://open.spotify.com/track/11FAIgRREb9YdaLxmeaSM8) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Nine](https://open.spotify.com/album/7Kpv6XWZhGCwX6PSR4vWaX) | 4:02 | 2021-06-26 | 2022-04-16 |

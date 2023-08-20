@@ -2659,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Quelqu'un d'autre",
+        "url": "https://open.spotify.com/album/4fvXVtz9imF8xZlaK7G8ra"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Quelqu'un d'autre",
+      "url": "https://open.spotify.com/track/3Ni5MBq60khbNsor0UYlzk"
+    },
+    {
+      "album": {
         "name": "La Vie de Roni",
         "url": "https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef"
       },

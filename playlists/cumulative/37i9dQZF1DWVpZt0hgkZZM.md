@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-118 songs - 8 hr 6 min
+119 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 | 2021-12-16 |  |
 | [El Santo Cachon](https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:29 | 2021-12-16 | 2023-05-27 |
 | [El Santo Cachon](https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Exitos](https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L) | 4:29 | 2021-12-16 |  |
+| [El Solitario](https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Colecciones de Oro](https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe) | 3:36 | 2021-12-16 |  |
 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 | 2021-12-16 |  |
 | [El Viejo del Sombrerón](https://open.spotify.com/track/02bm1KDGRX3saB1iupRa3h) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 4:12 | 2021-12-16 |  |
 | [En Silencio Te Amaré](https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [30 Mejores: El Combo de las Estrellas](https://open.spotify.com/album/1z7GXxwkXxAlJz1m6Rh14v) | 3:57 | 2021-12-16 |  |
@@ -113,7 +114,7 @@
 | [Tabajo y Ron](https://open.spotify.com/track/7tTwwjaTdFMLUsrPM9jIZs) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 4:02 | 2021-12-16 | 2023-07-19 |
 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 | 2021-12-16 |  |
 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 | 2021-12-16 |  |
-| [Te Llevaré](https://open.spotify.com/track/3ZiR1SuQvgKBb2cRGCFpyB) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Sus Más Grandes Exitos](https://open.spotify.com/album/0WDHvpTdzU8urEhBDCJjKD) | 4:14 | 2021-12-16 |  |
+| [Te Llevaré](https://open.spotify.com/track/3ZiR1SuQvgKBb2cRGCFpyB) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Sus Más Grandes Exitos](https://open.spotify.com/album/0WDHvpTdzU8urEhBDCJjKD) | 4:14 | 2021-12-16 | 2023-08-20 |
 | [Te Va A Doler](https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:52 | 2021-12-16 |  |
 | [Te Voy a Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 | 2021-12-16 |  |
 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 | 2021-12-16 |  |

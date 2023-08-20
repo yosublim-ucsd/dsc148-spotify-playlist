@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5720,
+  "num_followers": 5728,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm",
+  "snapshot_id": "MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -383,6 +383,26 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "Shouldn't Have\u2026",
+        "url": "https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 212761,
+      "name": "Shouldn't Have\u2026",
+      "url": "https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "I hope I cross your mind",
         "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 285586,
       "name": "Three of Us (With Sing Si Kyung)",
       "url": "https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Shouldn't Have\u2026",
-        "url": "https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        },
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 212761,
-      "name": "Shouldn't Have\u2026",
-      "url": "https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 247496,
-      "name": "\uc21c\uc774 Sooni - I'm your fanatic girl",
-      "url": "https://open.spotify.com/track/6nodmyYwTeJJdixDD0GIg4"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Subtitle",
         "url": "https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 194508,
       "name": "\uc9dd\uc0ac\ub791 Zzak Sarang",
       "url": "https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 247496,
+      "name": "\uc21c\uc774 Sooni - I'm your fanatic girl",
+      "url": "https://open.spotify.com/track/6nodmyYwTeJJdixDD0GIg4"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "\ud654\ubd84",
-        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
-      },
-      "artists": [
-        {
-          "name": "Alex",
-          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
-      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "19to20",
         "url": "https://open.spotify.com/album/7HvpuKHVE5xQ1yloKOrBV2"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 219440,
       "name": "to him",
       "url": "https://open.spotify.com/track/2m84CF73KrOUcZ0MtcFEPG"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "\ud654\ubd84",
+        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
+      },
+      "artists": [
+        {
+          "name": "Alex",
+          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
+      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "One-sided love",
-        "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "One-sided love",
-      "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Fit Me",
         "url": "https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 250495,
       "name": "I Ain't Over",
       "url": "https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "One-sided love",
+        "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "One-sided love",
+      "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

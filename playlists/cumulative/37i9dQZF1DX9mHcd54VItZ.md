@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY?si=45WvUFO9R5G2H8\_5yJFU8w">Aya Nixon</a>
 
-318 songs - 18 hr 58 min
+319 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Baby Tjoklits](https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5) | [Groot Oom John Tenoor](https://open.spotify.com/artist/6JT9m3NJiQXCfXVwdJXH06) | [Sosiaal Gebreek](https://open.spotify.com/album/6aBLqzJka0CJfqOqC7HQbn) | 4:05 | 2023-07-06 |  |
 | [Badluck](https://open.spotify.com/track/7kR0o7XKyLiKxqqu98bupO) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 0:52 | 2022-02-10 | 2022-02-18 |
 | [Bag of Bones](https://open.spotify.com/track/4wBeiARY66bJ3FrrEjnlVa) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [Bag of Bones](https://open.spotify.com/album/4bpRUM7drDQpbwqhMzJeZ1) | 2:37 | 2022-09-15 | 2022-11-25 |
-| [BEAUTIFUL LIES](https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [BEAUTIFUL LIES](https://open.spotify.com/album/1S4TfRej2A4nZ8u42vtWml) | 3:52 | 2023-06-01 |  |
+| [BEAUTIFUL LIES](https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [BEAUTIFUL LIES](https://open.spotify.com/album/1S4TfRej2A4nZ8u42vtWml) | 3:52 | 2023-06-01 | 2023-08-20 |
 | [Begin Van Die Einde](https://open.spotify.com/track/7kfWuIVQ0vqTxBA5hAIbzG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Begin Van Die Einde](https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa) | 3:28 | 2021-02-25 | 2022-11-18 |
 | [Believer](https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Believer](https://open.spotify.com/album/0MX2naV6uywiYfLqPEYyvK) | 4:20 | 2022-02-17 | 2022-11-25 |
 | [Berlin](https://open.spotify.com/track/6unYH2tMnh3iCOHUW8ep8j) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Fuzz Machine EP](https://open.spotify.com/album/06IXnbdQxlYFYi7Ve7wB2F) | 3:20 | 2023-05-18 | 2023-07-29 |
@@ -229,6 +229,7 @@
 | [Raise a Glass](https://open.spotify.com/track/27RgZXuRhyJpxhomzhFi70) | [Kabaal Klankbaan](https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb) | [Hunted Women](https://open.spotify.com/album/1NLDUu7ubHfSYJhJG8nEUp) | 3:08 | 2021-11-11 | 2022-03-18 |
 | [Rave to the Grave](https://open.spotify.com/track/0yidnSQ53CqoAEhb4ZqNBK) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Elektrik Ram](https://open.spotify.com/album/4HpDEF8FVhuaXWAz1Sr4Je) | 2:52 | 2023-04-27 | 2023-07-29 |
 | [Ready to Die](https://open.spotify.com/track/0s0DYUz6tg1Ma14AV2zD9R) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Ready to Die](https://open.spotify.com/album/3stCq0SbASgsSGZH2cjMb1) | 3:50 | 2022-03-17 | 2022-09-23 |
+| [Reckless Love](https://open.spotify.com/track/6ECuZmmXiLXqDtoBOsId2M) | [Jackson Colt](https://open.spotify.com/artist/3gIIWO1zON6oNM0MSWUeJ4) | [Reckless Love](https://open.spotify.com/album/1KG0Gznjj6ieMsSQ86ZKO1) | 2:17 | 2023-08-19 |  |
 | [Red Handed](https://open.spotify.com/track/2G0YeSyBBpGRDk1p2xMZe8) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [Fine thanks, and you?](https://open.spotify.com/album/7w9HwmPatYwQd2MgIUqyM8) | 5:07 | 2022-03-31 | 2022-11-18 |
 | [Redgrave](https://open.spotify.com/track/0hhRBa8XLU01VpjzrBdmTZ) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Redgrave](https://open.spotify.com/album/77dtolOhRvRmsPHpu2FuIY) | 3:33 | 2023-04-14 | 2023-07-29 |
 | [Reincarnation](https://open.spotify.com/track/5MwoGlSxY2oLYW1wYBw5Pl) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Reincarnation](https://open.spotify.com/album/37wsV9XmhCSKIYMi9d7wf2) | 2:50 | 2023-04-20 | 2023-07-29 |

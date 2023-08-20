@@ -4,11 +4,12 @@
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-63 songs - 4 hr 33 min
+64 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A La Buena Si](https://open.spotify.com/track/3BKuNccgeCFlAQ7KHljZ3V) | [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [A La Buena Si](https://open.spotify.com/album/4uJmBA2GdFJExP1VUvTMUV) | 2:54 | 2023-06-13 |  |
+| [A La Buena Si](https://open.spotify.com/track/3BKuNccgeCFlAQ7KHljZ3V) | [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [A La Buena Si](https://open.spotify.com/album/4uJmBA2GdFJExP1VUvTMUV) | 2:54 | 2023-06-13 | 2023-08-20 |
+| [A La Buena Sí](https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH) | [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [A La Buena Sí](https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT) | 2:54 | 2023-06-13 |  |
 | [Afro Boricua](https://open.spotify.com/track/7feVDHYgNORokGJQqLgytd) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 5:38 | 2023-02-22 |  |
 | [Bomba para Afincar](https://open.spotify.com/track/4CJwiynberc8SHwRaDaMaU) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB) | 3:34 | 2023-02-22 |  |
 | [Bomba y Plena](https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 3:56 | 2023-02-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 90s. Cover: Brandy",
-  "num_followers": 3353577,
+  "num_followers": 3355069,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTQ2YjEyOWI0YWQxNTVmY2NlOGZmM2U2YzNlNzliYmE0NDRkMjE0",
+  "snapshot_id": "MCxjMzkwNWNjNGVkZjk2NDU4NjMxMzdjNGQ5ZDAzNWNiMDY2YTQwYjAy",
   "tracks": [
     {
       "added_at": "2022-09-16 08:12:46",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+      },
+      "artists": [
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Groove Theory",
-        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
-      },
-      "artists": [
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Meant To Be Mint",
-        "url": "https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr"
-      },
-      "artists": [
-        {
-          "name": "Mint Condition",
-          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
-        }
-      ],
-      "duration_ms": 356960,
-      "name": "Breakin' My Heart (Pretty Brown Eyes)",
-      "url": "https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH"
-    },
-    {
       "added_at": "2022-08-23 02:58:10",
       "album": {
         "name": "azz izz",
@@ -891,6 +875,22 @@
       "duration_ms": 254106,
       "name": "He's Mine",
       "url": "https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Meant To Be Mint",
+        "url": "https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr"
+      },
+      "artists": [
+        {
+          "name": "Mint Condition",
+          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
+        }
+      ],
+      "duration_ms": 356960,
+      "name": "Breakin' My Heart (Pretty Brown Eyes)",
+      "url": "https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "I'm So Into You",
-      "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
         "name": "From The Bottom Up",
         "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 304160,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "I'm So Into You",
+      "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07"
     },
     {
-      "added_at": "2022-10-27 04:00:00",
-      "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 332133,
-      "name": "Cherish the Day",
-      "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Secrets",
@@ -1223,6 +1207,22 @@
       "duration_ms": 267440,
       "name": "You're Makin' Me High",
       "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
+    },
+    {
+      "added_at": "2022-10-27 04:00:00",
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 332133,
+      "name": "Cherish the Day",
+      "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
     },
     {
       "added_at": "2021-08-20 04:02:00",

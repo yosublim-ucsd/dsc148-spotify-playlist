@@ -1,12 +1,12 @@
 {
   "description": "Entering my reputation era...",
-  "num_followers": 1078207,
+  "num_followers": 1079215,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzJjYjQzMDRlMjlkMTdjMDdkMDJkYmRhNDdiYTQ2ZTRmNGQ5MDZl",
+  "snapshot_id": "MCxmNWMzNTBkZjQ1MmYwNzEzMmJiZTBhZjY4ZGU0MWE1N2VhYmM3ZTM4",
   "tracks": [
     {
       "added_at": "2023-06-16 18:26:53",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "The Hills",
-      "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Broke with Expensive Taste",
-        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 168096,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "Marvin's Marvelous Mechanical Museum",
         "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
       },
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 185122,
-      "name": "If I Killed Someone For You",
-      "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -1247,6 +1215,22 @@
       "duration_ms": 257053,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 185122,
+      "name": "If I Killed Someone For You",
+      "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -1335,38 +1319,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "BADLANDS (Deluxe)",
-        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 214761,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "Cradles",
         "url": "https://open.spotify.com/album/746AA6hN51bj4yUlGBHgUX"
       },
@@ -1395,6 +1347,38 @@
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 214761,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
+    },
+    {
+      "added_at": "2023-06-16 18:26:53",
+      "album": {
         "name": "K-12",
         "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Glitter & Gold",
-      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
-    },
-    {
-      "added_at": "2023-06-16 18:26:53",
-      "album": {
         "name": "AVA",
         "url": "https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Cowboys And Angels",
-        "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 133973,
-      "name": "Cowboys And Angels",
-      "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
+      "duration_ms": 235946,
+      "name": "Dangerous Woman",
+      "url": "https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2023-06-16 18:26:53",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+        "name": "Cowboys And Angels",
+        "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 235946,
-      "name": "Dangerous Woman",
-      "url": "https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN"
+      "duration_ms": 133973,
+      "name": "Cowboys And Angels",
+      "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
     },
     {
       "added_at": "2023-06-16 18:26:53",
@@ -1655,6 +1639,22 @@
       "duration_ms": 422146,
       "name": "Achilles Come Down",
       "url": "https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs"
+    },
+    {
+      "added_at": "2023-08-03 02:37:29",
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 124373,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw"
     }
   ],
   "unique_name": "Villain Mode",

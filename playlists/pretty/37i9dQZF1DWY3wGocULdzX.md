@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,366 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,412 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 28 | [Hong Kong Mambo](https://open.spotify.com/track/1QLC5yG0vyDMXsShhpsGsX) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:45 |
 | 29 | [Mambo](https://open.spotify.com/track/5EHfeFLbEWeYeNDzTyFby2) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Cuba Salsa Sabrosa Vol\. 2](https://open.spotify.com/album/4TRIu8j6ea1pfnPMzbrHjT) | 3:12 |
 | 30 | [Que Rico](https://open.spotify.com/track/0h4r17dBbbT9TV5YZxQO0Z) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez..\. The Early Years](https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY) | 2:56 |
-| 31 | [Separarla También](https://open.spotify.com/track/2uUimJq18JcrZjgkuvLuMa) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [A Little Bit Of Everything](https://open.spotify.com/album/49CPTtkajDw9XAcUafNgrY) | 2:35 |
-| 32 | [Charanga Jam](https://open.spotify.com/track/3iHMDoxbOqkoA9uUJR2yes) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3) | [New York Salsa](https://open.spotify.com/album/1v4ffpwV9H6YkuZ2jVF9wu) | 4:25 |
+| 31 | [Charanga Jam](https://open.spotify.com/track/3iHMDoxbOqkoA9uUJR2yes) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3) | [New York Salsa](https://open.spotify.com/album/1v4ffpwV9H6YkuZ2jVF9wu) | 4:25 |
+| 32 | [Separarla También](https://open.spotify.com/track/2uUimJq18JcrZjgkuvLuMa) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [A Little Bit Of Everything](https://open.spotify.com/album/49CPTtkajDw9XAcUafNgrY) | 2:35 |
 | 33 | [Sasauma \- Mambo](https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Orquesta Sabor De Cuba](https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO) | [El Manisero](https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK) | 2:49 |
 | 34 | [Wild Jungle \- 2000 Remaster](https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Kenya](https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz) | 2:47 |
 | 35 | [Buchipluma Na' Ma'](https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [Pachito E Che](https://open.spotify.com/track/5ZYO9ETsTxLMXfhzSmUTfA) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Legends Of Cuban Music](https://open.spotify.com/album/6tviOtL10UFy6Or8rpjlfR) | 3:32 |
 | 50 | [Babarabatiri](https://open.spotify.com/track/1MOoJPNFcH78lkqYAO9lLs) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [The Early Years](https://open.spotify.com/album/5Psz0qL5gppaidAzChMEZY) | 13:53 |
 
-Snapshot ID: `MCw5NDYxYjhmNzQ2ZGU4ZWM3NTNmMjQ0ZmUxOWM4YTI1Zjg0ZjA2ZThh`
+Snapshot ID: `MCwwZDc1OTg1ODc0MzQyMDQ1ZGJiNGI5NjYwNDQ2MjljYmI1OGNjYTIz`

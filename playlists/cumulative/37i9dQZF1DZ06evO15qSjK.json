@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/2Axtzhd5r3gMzLBC1rLMwv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164234,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/4I88Qa7TIAUyaSqzyYeMNT"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP Party Playlist!",
         "url": "https://open.spotify.com/album/16RDmf5uQgqZ7GgEA1nyK9"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 187039,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3g3hE3WICIm03TSO4AUxfZ"

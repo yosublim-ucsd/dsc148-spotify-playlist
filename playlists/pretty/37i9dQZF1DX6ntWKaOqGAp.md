@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: マカロニえんぴつ
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,338 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,436 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 |
 | 100 | [NEO KAWAII, K?](https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW) | 2:34 |
 
-Snapshot ID: `MCxlZmU1OTVhOTM5OGMyYjdjNzQ0MWRiNDE1MmRkODcwOTk0YjQzMzg0`
+Snapshot ID: `MCw1YTE3ZWY4NzNlYjk1ZWVkNWYxNDg3YzlhNTgzOTJmOWE3MzZiOTVl`

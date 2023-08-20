@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "On Fleek: Adj. 1) a state of completeness and flawlessness [see: <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>]. Cover: BIA",
+  "description": "On Fleek: Adj. 1) a state of completeness and flawlessness [see: <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>]. Cover: Latto",
   "name": "On Fleek",
   "tracks": [
     {
@@ -502,6 +502,32 @@
       "duration_ms": 203816,
       "name": "Balance (feat. Skillibeng)",
       "url": "https://open.spotify.com/track/6DWsAyAZdQe478O3vQyvmK"
+    },
+    {
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224586,
+      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
       "album": {
@@ -1535,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Eightball Girl",
+        "url": "https://open.spotify.com/album/6IJarp7jqTQ8u7tus5bYBu"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Eightball Girl",
+      "url": "https://open.spotify.com/track/1TBTrssuZFzXXpK3OJk5m3"
+    },
+    {
+      "album": {
         "name": "INTERMISSION / ELEMENT",
         "url": "https://open.spotify.com/album/4WyBnMfIJdjPr58rUbZBWz"
       },
@@ -2454,6 +2498,24 @@
       "duration_ms": 166727,
       "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
       "url": "https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI"
+    },
+    {
+      "album": {
+        "name": "I <3 My Nigga",
+        "url": "https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "I <3 My Nigga",
+      "url": "https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci"
     },
     {
       "album": {
@@ -4517,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5kdzySpTqsyQNS00JQPFff"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167995,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5zQjsdDEqcpXaluAax1jKn"
+    },
+    {
+      "album": {
         "name": "Sabe",
         "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
       },
@@ -4843,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Skeleton",
+        "url": "https://open.spotify.com/album/756awsKsAClM5mfkZzPcco"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169123,
+      "name": "Skeleton",
+      "url": "https://open.spotify.com/track/0wdnfaD8CN0Yq97p63Ph4T"
+    },
+    {
+      "album": {
         "name": "Smoke (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
       },
@@ -4974,6 +5072,24 @@
       "duration_ms": 110769,
       "name": "Soufside",
       "url": "https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e"
+    },
+    {
+      "album": {
+        "name": "Speak Up",
+        "url": "https://open.spotify.com/album/5k6MkIqPglsnDjDdx6m9H3"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187383,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/5YZGn9s5e6YMXbcgks2nOZ"
     },
     {
       "album": {
@@ -5192,6 +5308,28 @@
       "duration_ms": 186600,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW"
+    },
+    {
+      "album": {
+        "name": "Technique (Sprite Limelight)",
+        "url": "https://open.spotify.com/album/2fXNBsNfcZUTQmoDpvXzy1"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143827,
+      "name": "Technique (Sprite Limelight)",
+      "url": "https://open.spotify.com/track/0E4Y7tBeOg2EhVW8y3sdSK"
     },
     {
       "album": {
@@ -5532,6 +5670,42 @@
       "duration_ms": 149471,
       "name": "Underground",
       "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
+    },
+    {
+      "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
+    },
+    {
+      "album": {
+        "name": "VAN GOGH",
+        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "VAN GOGH",
+      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
     },
     {
       "album": {
@@ -6008,6 +6182,24 @@
       "duration_ms": 150000,
       "name": "You",
       "url": "https://open.spotify.com/track/4NZkwpYuSVe8ki1UH4xNtz"
+    },
+    {
+      "album": {
+        "name": "you already know [demo_2021].wav",
+        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182169,
+      "name": "you already know [demo_2021].wav",
+      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
     },
     {
       "album": {

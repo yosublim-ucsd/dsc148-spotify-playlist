@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: The HU",
-  "num_followers": 331033,
+  "num_followers": 331217,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzQzMmMzMDg1MWE0MjE5OWQ5M2VhMzAwMjg4OWEzM2FjMjQ4MjU1",
+  "snapshot_id": "MCw1ZTgxZTlkYzYzNzc1YWM2MzZkNGM3NzEyYWQzY2YzNjMwYjUxMDVi",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Patient Number 9",
-        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 280206,
-      "name": "One of Those Days (feat. Eric Clapton)",
-      "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Spillways [Feat. Joe Elliott]",
         "url": "https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 199809,
       "name": "Spillways [Feat. Joe Elliott]",
       "url": "https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 280206,
+      "name": "One of Those Days (feat. Eric Clapton)",
+      "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
     },
     {
       "added_at": "2023-08-18 04:00:00",

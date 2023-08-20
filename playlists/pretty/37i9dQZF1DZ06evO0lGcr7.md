@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 
 > This is mxmtoon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,114 likes - 48 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,125 likes - 48 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 47 | [stuck](https://open.spotify.com/track/6ge4qsUuMkcMVTSjToFTxJ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [stuck](https://open.spotify.com/album/1HwNpS0NEep33gE2QFHmXk) | 4:09 |
 | 48 | [show and tell](https://open.spotify.com/track/1t78MrAlx8fVcxHgwZEBYS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 4:08 |
 
-Snapshot ID: `MjgyMDYwNDgsMDAwMDAwMDA0OWQ0MGMxMDFkZjI3ODRmNTU3NDMxNWVmNGY1MjYyOA==`
+Snapshot ID: `MjgyMDc0NTIsMDAwMDAwMDA2Mzg1MGY4MTFiNzE3N2UxNGZkYjY0OWVlY2NhNzQ0OA==`

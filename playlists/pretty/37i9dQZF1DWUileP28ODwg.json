@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave",
-  "num_followers": 308437,
+  "num_followers": 308667,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzgyOGU2YjE0ZjY1YWU0MDAwMjU0ZjQ1ZGE4ZDhlMzEwOTZlOTdk",
+  "snapshot_id": "MCw0NWViMjhlOWQ0OWYxNWJjZDdiYjRmYTkyOGM3YjI0OTA0YjM4OWVi",
   "tracks": [
     {
       "added_at": "2023-03-10 08:53:36",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Ain't Nobody",
-        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 213967,
-      "name": "Ain't Nobody - Radio Version",
-      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "I Speak Jesus",
         "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Whosoever",
-        "url": "https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ"
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 225755,
-      "name": "Hallelujah Anyway",
-      "url": "https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU"
+      "duration_ms": 213967,
+      "name": "Ain't Nobody - Radio Version",
+      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -711,6 +695,38 @@
       "duration_ms": 147390,
       "name": "My Light",
       "url": "https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Whosoever",
+        "url": "https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 225755,
+      "name": "Hallelujah Anyway",
+      "url": "https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Always Only Jesus",
+        "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 225681,
+      "name": "To Not Worship You",
+      "url": "https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -783,22 +799,6 @@
       "duration_ms": 166788,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Always Only Jesus",
-        "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 225681,
-      "name": "To Not Worship You",
-      "url": "https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "If The Lord Builds The House",
+        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "If The Lord Builds The House",
+      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "I'm So Blessed (Aaron Cole Mix)",
         "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "If The Lord Builds The House",
-        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "If The Lord Builds The House",
-      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Yours To Use",
-        "url": "https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 206048,
-      "name": "Yours To Use",
-      "url": "https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp"
+      "duration_ms": 228613,
+      "name": "What I'm Waiting For",
+      "url": "https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1247,34 +1243,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
+        "name": "Yours To Use",
+        "url": "https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH"
       },
       "artists": [
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "What I'm Waiting For",
-      "url": "https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "You've Already Won (Radio Version)",
-        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
-      },
-      "artists": [
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
         }
       ],
-      "duration_ms": 262540,
-      "name": "You've Already Won - Radio Version",
-      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
+      "duration_ms": 206048,
+      "name": "Yours To Use",
+      "url": "https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1291,6 +1275,22 @@
       "duration_ms": 248666,
       "name": "Always",
       "url": "https://open.spotify.com/track/1YoIJ1glQCGAxrPJgnoUCI"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "You've Already Won (Radio Version)",
+        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 262540,
+      "name": "You've Already Won - Radio Version",
+      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "This I Know (Jesus Loves Me)",
-        "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 222428,
-      "name": "This I Know (Jesus Loves Me)",
-      "url": "https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Then Christ Came",
         "url": "https://open.spotify.com/album/5lcngetkRmDaJCRCufVzYF"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 223586,
       "name": "Then Christ Came",
       "url": "https://open.spotify.com/track/3NRIwbb9GycU284G6MCZkM"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "This I Know (Jesus Loves Me)",
+        "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 222428,
+      "name": "This I Know (Jesus Loves Me)",
+      "url": "https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Phenomena (DA DA) [Remixes]",
-        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 154385,
-      "name": "Freedom Is Coming - Reimagined",
-      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Easy To Praise",
         "url": "https://open.spotify.com/album/1wk7GREA9OrScHj3wEB2i8"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 208143,
       "name": "Easy To Praise",
       "url": "https://open.spotify.com/track/6Sc4wQtKhcWdTLNjqlVgur"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Phenomena (DA DA) [Remixes]",
+        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Getting Started (Radio Version)",
-        "url": "https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 219444,
-      "name": "Getting Started - Radio Version",
-      "url": "https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "King Of Kings",
         "url": "https://open.spotify.com/album/2LO7j9mYezEdSEstvoFuKv"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 241933,
       "name": "King Of Kings",
       "url": "https://open.spotify.com/track/0bHChHKTmyzZkXxGz7qfVm"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Getting Started (Radio Version)",
+        "url": "https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 219444,
+      "name": "Getting Started - Radio Version",
+      "url": "https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU"
     },
     {
       "added_at": "2023-03-10 08:53:36",

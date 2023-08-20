@@ -5757,6 +5757,28 @@
     },
     {
       "album": {
+        "name": "Dum i haue",
+        "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144808,
+      "name": "Dum i haue",
+      "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
+    },
+    {
+      "album": {
         "name": "Dumme Kids",
         "url": "https://open.spotify.com/album/62F9A32Qz4sbudfa1NiHiO"
       },
@@ -7204,7 +7226,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -12609,6 +12631,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoskophimmel",
+        "url": "https://open.spotify.com/album/6t8SQHoM7vKxQU8SMs81F1"
+      },
+      "artists": [
+        {
+          "name": "Kaizers Orchestra",
+          "url": "https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384012,
+      "name": "Kaleidoskophimmel",
+      "url": "https://open.spotify.com/track/3wxkxuisoRkt3NNeUTUfpx"
+    },
+    {
+      "album": {
         "name": "kamera demon",
         "url": "https://open.spotify.com/album/3kcuw3B5Kvh8QNgkQ0PxX7"
       },
@@ -15082,7 +15122,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -20661,6 +20701,24 @@
     },
     {
       "album": {
+        "name": "Sommerkveld",
+        "url": "https://open.spotify.com/album/0c9fQawwPT0FabXiGqKoxq"
+      },
+      "artists": [
+        {
+          "name": "Hjorterud All\u00e9",
+          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "Sommerkveld",
+      "url": "https://open.spotify.com/track/3qSXpMKeFYCpWx8NuQeiOH"
+    },
+    {
+      "album": {
         "name": "Julestjerner",
         "url": "https://open.spotify.com/album/1M1Uysx0OAS9QeIkrcVUcW"
       },
@@ -22270,7 +22328,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 214500,
       "name": "The Hype",
       "url": "https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y"
@@ -22350,7 +22408,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -22774,6 +22832,24 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "album": {
+        "name": "Tre sekunder",
+        "url": "https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189773,
+      "name": "Tre sekunder",
+      "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"
     },
     {
       "album": {

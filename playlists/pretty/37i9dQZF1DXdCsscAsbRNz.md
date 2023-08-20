@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,541 likes - 224 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,547 likes - 224 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 72 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 |
 | 73 | [Circles](https://open.spotify.com/track/7g1G4ZwhXwaet50TftCAd9) | [Hannah Ziem](https://open.spotify.com/artist/1bdRW1L4YCIpq5BHPuIN6o) | [Circles](https://open.spotify.com/album/52SA4H2aQcljM4NOqE5aSr) | 2:45 |
 | 74 | [Grateful](https://open.spotify.com/track/05iwmG7u1JEo0MMZ2XEoIq) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:11 |
-| 75 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 |
+| 75 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [S.J Morgan](https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 |
 | 76 | [Persistent](https://open.spotify.com/track/1YRE1YKj2UIRdq2zT8PLNY) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Freestone](https://open.spotify.com/album/2lHrgdlTaEKof6m5rKoNmC) | 3:30 |
 | 77 | [Oceanbird Song](https://open.spotify.com/track/3bkDRZy33aVQHK8PZsIPLH) | [Europa Falls](https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz) | [Salt Dreams](https://open.spotify.com/album/2eoTpRBGtm9GtB88nb1aNS) | 3:25 |
 | 78 | [Hidden Path](https://open.spotify.com/track/2lCPESbQg9A5FVGqJsADxi) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [First Moon](https://open.spotify.com/album/6JtmRHcEyJsI52yIiX0eTf) | 3:14 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 223 | [Lost But Not Forgotten](https://open.spotify.com/track/50F8hTHpGzxthbPiEEvDfE) | [Pacific Humble](https://open.spotify.com/artist/0OhoLNQJv9eCwRiwEUjv4e) | [Lost But Not Forgotten](https://open.spotify.com/album/3poS1xDMOdeoRHHXE21McX) | 2:03 |
 | 224 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 |
 
-Snapshot ID: `MCxkMDM0ZTZlY2I0OWI1Y2FkNDYzMjU5MGNmMmM5ZjBiM2ViZGViNTIy`
+Snapshot ID: `MCwxMDRhMTlkZTNlNzRmNGRiMmYyNTM3MTA5MDM2MDM3MzA5MzYxY2E1`

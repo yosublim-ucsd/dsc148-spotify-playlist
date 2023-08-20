@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-91 songs - 5 hr 17 min
+92 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Daria Todo Por Ti](https://open.spotify.com/track/4mpGzQAET4KkqB3JrGtBIf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:04 | 2022-06-01 |  |
 | [Daría Todo Por Ti](https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv) | [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Daría Todo Por Ti](https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw) | 2:54 | 2022-06-11 |  |
 | [Debajo De Los Laureles](https://open.spotify.com/track/1nE96xj1A3TE8ZUnDb9snp) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [Debajo De Los Laureles](https://open.spotify.com/album/1VV6E6BA1ZaSGzJMzOBNQO) | 2:41 | 2022-06-01 | 2022-10-13 |
-| [Deja De Chingar](https://open.spotify.com/track/72qLlWqf657e3hEkP7LkHx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Deja De Chingar](https://open.spotify.com/album/0orJw54cnLfLmYPSVpkj64) | 3:19 | 2022-11-29 |  |
+| [Deja De Chingar](https://open.spotify.com/track/72qLlWqf657e3hEkP7LkHx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Deja De Chingar](https://open.spotify.com/album/0orJw54cnLfLmYPSVpkj64) | 3:19 | 2022-11-29 | 2023-08-20 |
 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 | 2022-09-10 |  |
 | [El Amigazo \(En Vivo\)](https://open.spotify.com/track/5UIA7eyt28flCy6kwIiuZ1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [El Amigazo \(En Vivo\)](https://open.spotify.com/album/6B0HeqQznYY6f7WEfQUjOJ) | 3:13 | 2022-09-03 | 2022-12-27 |
 | [El Signo Libra](https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mas Perdidos Que Nunca](https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie) | 4:09 | 2022-06-01 | 2022-11-30 |
@@ -96,6 +96,7 @@
 | [Una Pregunta Obvia](https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi) | [Dariel Ramirez Y Sus Perdidos](https://open.spotify.com/artist/3acX5lZj9MKXR1NcWyMeNU), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Sesión Acústica](https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak) | 4:14 | 2022-06-01 | 2023-06-12 |
 | [Voy a Amarte](https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:23 | 2022-06-01 |  |
 | [Voy a Amarte \- Remix](https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Voy a Amarte \(Remix\)](https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE) | 2:22 | 2023-07-13 |  |
+| [Vuelvo A Emborracharme](https://open.spotify.com/track/6SdTGtwcS47eKXL9P9MVCE) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 2:39 | 2023-08-19 |  |
 | [Y Sigues Siendo Tu \- En Vivo](https://open.spotify.com/track/74pskWmh7XTcaxqaPdZHJq) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:16 | 2022-06-01 |  |
 | [Ya Duele Menos](https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:04 | 2022-06-01 |  |
 | [Yo También Soy Bien Cabrón](https://open.spotify.com/track/0dWLTesLn3JYHQOID9vHqy) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Yo También Soy Bien Cabrón](https://open.spotify.com/album/6UH5kiYAjCUqL6SqJDjsQd) | 4:11 | 2022-12-12 | 2023-07-14 |

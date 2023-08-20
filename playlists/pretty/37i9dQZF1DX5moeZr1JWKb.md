@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Luis7Lunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,874 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,898 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 4 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 |
 | 5 | [Los Míos](https://open.spotify.com/track/4DSmk48N3Sq7VHwUGIiXNd) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Timeless](https://open.spotify.com/artist/2mdGS5s5gsHF3GPIxonulh) | [Los Míos](https://open.spotify.com/album/6ntGxUtgP9DseUBoHTQuZH) | 3:30 |
 | 6 | [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 |
-| 7 | [Let's Fly](https://open.spotify.com/track/5KMYTVBflb2wAo10mwgs3W) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq) | [Let’s Fly](https://open.spotify.com/album/46lG6zPVzEHqUnRN70kbRS) | 2:48 |
+| 7 | [Let's Fly](https://open.spotify.com/track/5KMYTVBflb2wAo10mwgs3W) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [Let’s Fly](https://open.spotify.com/album/46lG6zPVzEHqUnRN70kbRS) | 2:48 |
 | 8 | [Cuando Ya Esté Muerto](https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Cuando Ya Esté Muerto](https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v) | 3:28 |
 | 9 | [Desde el Fondo](https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr) | 3:39 |
 | 10 | [Sancochito](https://open.spotify.com/track/3pbkD8odeOPNdMJj2tkyWE) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Sancochito](https://open.spotify.com/album/2H9Ze7JCqDxQB8SUcHadbU) | 2:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 69 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 70 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 |
 
-Snapshot ID: `MCw4ODg5MzgwMzI4ODIzMjFmY2IzMmQwMWIxZWNmN2FhOTczNmYxMDYw`
+Snapshot ID: `MCw3MGUzZDA5MzM0YmJjYmEzOGEzMWIzYzNkZmMwNGUzYWYyMDBmYzQw`

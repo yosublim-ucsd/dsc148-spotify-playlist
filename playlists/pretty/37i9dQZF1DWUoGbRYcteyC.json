@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 2011246,
+  "num_followers": 2011483,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDM4ZjdhNDIwMDBkZTFlMDg4NTMyYzA5MzY5OWZkZTMwYTRjNWVj",
+  "snapshot_id": "MCw1ZDQ5MTZmZWQ4Nzk3NmUyZjE4Y2ZhMWM1MjhhMTIxM2QxOGFiZWQ1",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "No Hay Imposibles",
         "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 263666,
       "name": "Me Enamor\u00e9 de Ti",
       "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "\u00cdndigo",
-      "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Deja Que Te Bese",
         "url": "https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 244353,
       "name": "Deja Que Te Bese",
       "url": "https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Circo Soledad",
         "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
       },
@@ -1003,6 +987,38 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Mucha Cosa Buena",
+        "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Tengo Tu Love",
+      "url": "https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Plat\u00f3nico",
         "url": "https://open.spotify.com/album/2Xz6s5xkP24hNqWCWHSsww"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Mucha Cosa Buena",
-        "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
       },
       "artists": [
         {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 231573,
-      "name": "Tengo Tu Love",
-      "url": "https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT"
+      "duration_ms": 195970,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1091,38 +1107,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
+        "name": "M\u00e1s M\u00fasica + Alma + Sexo",
+        "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Si T\u00fa La Quieres",
-        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         },
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
         }
       ],
-      "duration_ms": 224761,
-      "name": "Si T\u00fa La Quieres",
-      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
+      "duration_ms": 216613,
+      "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
+      "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "M\u00e1s M\u00fasica + Alma + Sexo",
-        "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
+        "name": "Si T\u00fa La Quieres",
+        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         },
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 216613,
-      "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
-      "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
+      "duration_ms": 224761,
+      "name": "Si T\u00fa La Quieres",
+      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Amarillo",
-      "url": "https://open.spotify.com/track/5Qn56ssVeZJfNwDCme7Eo0"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
         "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 238853,
       "name": "Me Quiero Enamorar",
       "url": "https://open.spotify.com/track/2ae7jtHQeNWdPvs3HZ3kDi"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/5Qn56ssVeZJfNwDCme7Eo0"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1483,6 +1483,38 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Tan Enamorados",
+        "url": "https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 179031,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Tengamos Pasado",
+        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "Tengamos Pasado",
+      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Conv\u00e9nceme",
         "url": "https://open.spotify.com/album/6oxouERjg3yRQALERagHVx"
       },
@@ -1519,22 +1551,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Tan Enamorados",
-        "url": "https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 179031,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 144545,
       "name": "Beso En Las Rocas",
       "url": "https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Tengamos Pasado",
-        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 180648,
-      "name": "Tengamos Pasado",
-      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "D\u00e9cimo Cuarto",
         "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 160399,
       "name": "Bomb\u00f3n",
       "url": "https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
     },
     {
       "added_at": "2023-07-28 04:01:00",

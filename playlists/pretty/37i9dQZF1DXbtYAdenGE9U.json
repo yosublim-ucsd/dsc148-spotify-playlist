@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 452223,
+  "num_followers": 452780,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzY4NjdlZmNhNzZhMjIyNGM3NGZiNmNiMGIyZmY3NDBhZmVmN2Q4",
+  "snapshot_id": "MCxlYzUzNjM2ZjA2ZDdjMzQ5NjU0MDJjMTJmNjdjYzAxNjJiZTY5OWVk",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "As The Rush Comes",
-        "url": "https://open.spotify.com/album/1RUZtaNoGK9tvaNlFzVtrB"
-      },
-      "artists": [
-        {
-          "name": "Motorcycle",
-          "url": "https://open.spotify.com/artist/7DZ9xBelM79Mlk3Weia4oD"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "As The Rush Comes",
-      "url": "https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 202533,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "As The Rush Comes",
+        "url": "https://open.spotify.com/album/1RUZtaNoGK9tvaNlFzVtrB"
+      },
+      "artists": [
+        {
+          "name": "Motorcycle",
+          "url": "https://open.spotify.com/artist/7DZ9xBelM79Mlk3Weia4oD"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "As The Rush Comes",
+      "url": "https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Airwave",
-        "url": "https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8"
-      },
-      "artists": [
-        {
-          "name": "Rank 1",
-          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Airwave - Radio Vocal Edit",
-      "url": "https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Seven Days and One Week",
         "url": "https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5"
       },
@@ -419,22 +403,18 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
+        "name": "Airwave",
+        "url": "https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8"
       },
       "artists": [
         {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
         }
       ],
-      "duration_ms": 210786,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
+      "duration_ms": 179800,
+      "name": "Airwave - Radio Vocal Edit",
+      "url": "https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -491,6 +471,26 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Carte Blanche (Ilan Bluestone Remix)",
-        "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
+        "name": "Ten Top10 90s Hits",
+        "url": "https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz"
       },
       "artists": [
         {
-          "name": "Veracocha",
-          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
+          "name": "DJ Quicksilver",
+          "url": "https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew"
         }
       ],
-      "duration_ms": 204396,
-      "name": "Carte Blanche - FM Edit",
-      "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
+      "duration_ms": 194560,
+      "name": "Bellissima - Radio Edit",
+      "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Ten Top10 90s Hits",
-        "url": "https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz"
+        "name": "Carte Blanche (Ilan Bluestone Remix)",
+        "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
       },
       "artists": [
         {
-          "name": "DJ Quicksilver",
-          "url": "https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew"
+          "name": "Veracocha",
+          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
         }
       ],
-      "duration_ms": 194560,
-      "name": "Bellissima - Radio Edit",
-      "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
+      "duration_ms": 204396,
+      "name": "Carte Blanche - FM Edit",
+      "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
-      },
-      "artists": [
-        {
-          "name": "Airbase",
-          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Escape - Radio Edit",
-      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Trance Classics, Vol. 01",
         "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 238466,
       "name": "Ayla - DJ Taucher Radio Edit",
       "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
+      },
+      "artists": [
+        {
+          "name": "Airbase",
+          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Escape - Radio Edit",
+      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Bullet in the Gun 2000",
+        "url": "https://open.spotify.com/album/6rhPbYVEu7rVdSvsA0zvHi"
+      },
+      "artists": [
+        {
+          "name": "Planet Perfecto",
+          "url": "https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Bullet In the Gun 2000 - Radio Mix",
+      "url": "https://open.spotify.com/track/3c7aA2sPM4xcFTWkBINhty"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "25 Years, Vol. 3",
         "url": "https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV"
       },
@@ -715,38 +731,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Bullet in the Gun 2000",
-        "url": "https://open.spotify.com/album/6rhPbYVEu7rVdSvsA0zvHi"
-      },
-      "artists": [
-        {
-          "name": "Planet Perfecto",
-          "url": "https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Bullet In the Gun 2000 - Radio Mix",
-      "url": "https://open.spotify.com/track/3c7aA2sPM4xcFTWkBINhty"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Greece 2000",
-        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
-      },
-      "artists": [
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Greece 2000 - Edit",
-      "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Need To Feel Loved",
         "url": "https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 196093,
       "name": "Need To Feel Loved - Radio Edit",
       "url": "https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
+      },
+      "artists": [
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Greece 2000 - Edit",
+      "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/6qXV8qN7pKpEW9QrLrO1fm"
+      },
+      "artists": [
+        {
+          "name": "System F",
+          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/5fwONah6r8bm2UfcY8PGMz"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Retrospective (25 Years)",
         "url": "https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4"
       },
@@ -839,18 +855,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/6qXV8qN7pKpEW9QrLrO1fm"
+        "name": "I Believe / Follow Me",
+        "url": "https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv"
       },
       "artists": [
         {
-          "name": "System F",
-          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
+          "name": "Lange",
+          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
+        },
+        {
+          "name": "The Morrighan",
+          "url": "https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S"
         }
       ],
-      "duration_ms": 257760,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/5fwONah6r8bm2UfcY8PGMz"
+      "duration_ms": 392560,
+      "name": "Follow Me - Lange's Club Mix",
+      "url": "https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -871,22 +891,6 @@
       "duration_ms": 226673,
       "name": "We Control The Sunlight",
       "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
     }
   ],
   "unique_name": "Trance Classics",

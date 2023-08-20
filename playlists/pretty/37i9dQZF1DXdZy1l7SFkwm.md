@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 
 > El aderezo que te falta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,900 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,912 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 20 | [Garota de Ipanema](https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf) | [Paula Sergio](https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS) | [Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin](https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG) | 2:30 |
 | 21 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
 | 22 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
-| 23 | [Rudy, A Message To You](https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf) | 2:48 |
-| 24 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
+| 23 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
+| 24 | [Rudy, A Message To You](https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf) | 2:48 |
 | 25 | [Corcovado \(Quiet Nights Of Quiet Stars\) \- Single Version](https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:19 |
 | 26 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 |
 | 27 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 81 | [Smells Like Teen Spirit](https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu) | [Setenta](https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg) | [Latin Piece of Soul](https://open.spotify.com/album/4MyYzH7E0gpryzun66ebxl) | 3:06 |
 | 82 | [Deixa A Vida Me Levar](https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho Em Casa](https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0) | 4:35 |
 | 83 | [Beach Samba](https://open.spotify.com/track/2jCjSJuWQ4GSj9vhrFywDj) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Beach Samba](https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF) | 2:48 |
-| 84 | [Samba de Orfeu](https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 2:41 |
-| 85 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 |
+| 84 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 |
+| 85 | [Samba de Orfeu](https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 2:41 |
 | 86 | [Sweet and Dandy](https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:08 |
 | 87 | [Ain't No Sunshine](https://open.spotify.com/track/7DmExRy2zWKkM9QX8Wy7oM) | [Sivuca](https://open.spotify.com/artist/11L2rdluUfcxyWcX2feoCm) | [Loose & Juicy](https://open.spotify.com/album/1QrIXVqDiXZzmHLR0woYk7) | 4:49 |
 | 88 | [Captain Bacardi](https://open.spotify.com/track/0WP3ohqwUavEJHGxVpsQqY) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 99 | [No Me Den Candela](https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Guisando: Doing A Job](https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G) | 7:09 |
 | 100 | [Maracangalha](https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Para Sempre](https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs) | 2:46 |
 
-Snapshot ID: `MCw5YjFmYzcxYWViNjk0ZGJmZmRlYWM4ZTU5MWRjMjc2N2M2ZjhlNjA5`
+Snapshot ID: `MCwyM2JmZDUwMTkyMjA2ZjgzNmE3Mzg5ZGFjYTk3ZjhjMTUwZDIyYWYy`

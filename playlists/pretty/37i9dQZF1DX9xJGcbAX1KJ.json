@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 15300,
+  "num_followers": 15325,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjFlNzVlZTlkMjc5Yzg4Y2I4ZGU4MDFjNmRiNDI4N2IwMzMzZjRi",
+  "snapshot_id": "MCxhOWY1ODNkMWJkYzE4NWY2ZmJmNjA3MzU3MmEwOTZkNTM1NTllMmVi",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -303,22 +303,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -419,26 +419,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "As Long as You Love Me",
-        "url": "https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1"
-      },
-      "artists": [
-        {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
-        },
-        {
-          "name": "Charlotte Almgren",
-          "url": "https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua"
-        }
-      ],
-      "duration_ms": 151618,
-      "name": "As Long as You Love Me",
-      "url": "https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Little Talks",
         "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 219760,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "As Long as You Love Me",
+        "url": "https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1"
+      },
+      "artists": [
+        {
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+        },
+        {
+          "name": "Charlotte Almgren",
+          "url": "https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua"
+        }
+      ],
+      "duration_ms": 151618,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -511,22 +511,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Pink Strat",
         "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 155240,
       "name": "Whole Wide World",
       "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -647,22 +647,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 168849,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 199118,
       "name": "Walls",
       "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 168849,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -711,22 +711,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Superstition",
-        "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
-      },
-      "artists": [
-        {
-          "name": "Run River North",
-          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 316240,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Superstition",
+        "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
+      },
+      "artists": [
+        {
+          "name": "Run River North",
+          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
     },
     {
       "added_at": "2019-02-22 20:19:46",

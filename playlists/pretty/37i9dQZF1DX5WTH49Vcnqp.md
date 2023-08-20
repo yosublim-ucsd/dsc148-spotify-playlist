@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Tash Sultana
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,261 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,289 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
 | 80 | [Pets and Drugs](https://open.spotify.com/track/2OsegEPsE0MtkHtqGmZYcx) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Pets and Drugs](https://open.spotify.com/album/0a19vxCEadBJNSysmQUKjU) | 3:01 |
 
-Snapshot ID: `MCw5ZjU1YzBmMDVhMjhkNzU4YzZlMjA1MTlkZmEyMDc5NzBhNTU0NmE0`
+Snapshot ID: `MCxjODAxZWYyOWE4MjMxNDY3NTM2YmVlMzIxMTkyZWZiYmE1OTJiNzJk`

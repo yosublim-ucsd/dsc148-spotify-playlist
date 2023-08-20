@@ -4,7 +4,7 @@
 
 > Sommer, Sonne, Lieblingshits  ☀️
 
-94 songs - 4 hr 26 min
+95 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-26 |  |
 | [Do It Again](https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Do It Again](https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ) | 2:55 | 2023-07-26 |  |
 | [Ein Traum](https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Ein Traum](https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo) | 2:49 | 2023-08-18 |  |
-| [EMMA](https://open.spotify.com/track/2YsEPPso87BLyQ7fEAvDi7) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [ėmma](https://open.spotify.com/artist/3gkGClHNRnrOpV7GgripOx) | [EMMA](https://open.spotify.com/album/6wdIl8GilZy6316phLihIv) | 1:51 | 2023-08-18 |  |
+| [EMMA](https://open.spotify.com/track/2YsEPPso87BLyQ7fEAvDi7) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [ėmma](https://open.spotify.com/artist/3gkGClHNRnrOpV7GgripOx) | [EMMA](https://open.spotify.com/album/6wdIl8GilZy6316phLihIv) | 1:51 | 2023-08-18 | 2023-08-20 |
 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-26 |  |
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-07-26 |  |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2023-07-26 | 2023-07-29 |
@@ -49,6 +49,7 @@
 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2023-08-18 |  |
 | [Good Morning \(feat\. YOU\)](https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Good Morning \(feat\. YOU\)](https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0) | 2:55 | 2023-07-26 |  |
 | [Holding On](https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:52 | 2023-07-26 |  |
+| [How You Samba](https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH) | 2:31 | 2023-08-18 |  |
 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 | 2023-07-26 |  |
 | [I Need to Know \(feat\. Flynn\)](https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [I Need to Know \(feat\. Flynn\)](https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA) | 2:35 | 2023-07-26 |  |
 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy) | 2:22 | 2023-07-26 |  |

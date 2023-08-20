@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 135165,
+  "num_followers": 135261,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODg3ZmQwMDdmYTQ1OGQ4NjFjNzhhNGE3ZGQ0ZmI1YTdlMjI2NDkw",
+  "snapshot_id": "MCwxYjIzNWMzMGNmMmMwYmY5YzFiMDE3MzdjNmNjNGNhOGQ5YzdlNzEx",
   "tracks": [
     {
       "added_at": "2023-08-16 10:10:49",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 283893,
-      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
-      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
         "name": "This Is Not Jazz",
         "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 299106,
       "name": "Adventure Of A Lifetime",
       "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 283893,
+      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
+      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
-      },
-      "artists": [
-        {
-          "name": "Susan Wong",
-          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
-        }
-      ],
-      "duration_ms": 164652,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 282702,
       "name": "Make Someone Happy",
       "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
+      },
+      "artists": [
+        {
+          "name": "Susan Wong",
+          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
+        }
+      ],
+      "duration_ms": 164652,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
+        "name": "That's What Friends Are For",
+        "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "That's What Friends Are For",
+      "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
         "name": "My Soul Kitchen",
         "url": "https://open.spotify.com/album/1lRtenyGy9wvyxwrRNjtWD"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 274091,
       "name": "I Have Nothing Left for You",
       "url": "https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "That's What Friends Are For",
-        "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "That's What Friends Are For",
-      "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
-      },
-      "artists": [
-        {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
-        }
-      ],
-      "duration_ms": 253246,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
         "name": "All For One",
         "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "This Too Shall Pass",
-        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
       "artists": [
         {
-          "name": "Dennis van Aarssen",
-          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
         }
       ],
-      "duration_ms": 201979,
-      "name": "This Too Shall Pass",
-      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
+      "duration_ms": 253246,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1439,6 +1423,22 @@
       "duration_ms": 394997,
       "name": "Cup of Tea",
       "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "This Too Shall Pass",
+        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
+      },
+      "artists": [
+        {
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "This Too Shall Pass",
+      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1559,54 +1559,6 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "You Are My Everything",
-        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nosaczynski Bohovi\u010d",
-          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "You Are My Everything",
-      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "Break In",
-        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
-      },
-      "artists": [
-        {
-          "name": "TICO DE MORAES",
-          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Break In",
-      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
-      },
-      "artists": [
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 246423,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq"
       },
@@ -1627,6 +1579,54 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
+        "name": "Break In",
+        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
+      },
+      "artists": [
+        {
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Break In",
+      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "You Are My Everything",
+        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nosaczynski Bohovi\u010d",
+          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+      },
+      "artists": [
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 246423,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
       },
@@ -1639,54 +1639,6 @@
       "duration_ms": 229687,
       "name": "If I'd Had Your Heart",
       "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "Enough to Be on Your Way",
-        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 318175,
-      "name": "Enough to Be on Your Way",
-      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "Hey Laura",
-        "url": "https://open.spotify.com/album/5RVJgpxz5uWPDXdGWMCx1d"
-      },
-      "artists": [
-        {
-          "name": "Tiny Little Bigband",
-          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Hey Laura",
-      "url": "https://open.spotify.com/track/3WH078dURFTzcALQD8UBMw"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "What Love Is For",
-        "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
-      },
-      "artists": [
-        {
-          "name": "PRD",
-          "url": "https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "What Love Is For",
-      "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1707,6 +1659,54 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
+        "name": "Hey Laura",
+        "url": "https://open.spotify.com/album/5RVJgpxz5uWPDXdGWMCx1d"
+      },
+      "artists": [
+        {
+          "name": "Tiny Little Bigband",
+          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Hey Laura",
+      "url": "https://open.spotify.com/track/3WH078dURFTzcALQD8UBMw"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "Enough to Be on Your Way",
+        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 318175,
+      "name": "Enough to Be on Your Way",
+      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "What Love Is For",
+        "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
+      },
+      "artists": [
+        {
+          "name": "PRD",
+          "url": "https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "What Love Is For",
+      "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
         "name": "Free Afternoon",
         "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
       },
@@ -1719,22 +1719,6 @@
       "duration_ms": 233013,
       "name": "A Better One for You",
       "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "River",
-      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Sugilite",
-        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
+        "name": "River",
+        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
       },
       "artists": [
         {
-          "name": "Jeanne Newhall",
-          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
         }
       ],
-      "duration_ms": 278961,
-      "name": "Sugilite",
-      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
+      "duration_ms": 177680,
+      "name": "River",
+      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1791,6 +1775,22 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
+        "name": "Sugilite",
+        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Newhall",
+          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
+        }
+      ],
+      "duration_ms": 278961,
+      "name": "Sugilite",
+      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
         "name": "Take Me Off to Dreamland",
         "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
       },
@@ -1803,6 +1803,26 @@
       "duration_ms": 288535,
       "name": "Take Me Off to Dreamland",
       "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "Song Like Ours",
+        "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
+      },
+      "artists": [
+        {
+          "name": "Jazzy D",
+          "url": "https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR"
+        },
+        {
+          "name": "Angela Gooden",
+          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
+        }
+      ],
+      "duration_ms": 298549,
+      "name": "Song Like Ours",
+      "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1839,22 +1859,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Song Like Ours",
-        "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
+        "name": "Changing Lanes (from \"The Publicist\")",
+        "url": "https://open.spotify.com/album/3vYXzcHYfiJDrgzg4TakHm"
       },
       "artists": [
         {
-          "name": "Jazzy D",
-          "url": "https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR"
-        },
-        {
-          "name": "Angela Gooden",
-          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
         }
       ],
-      "duration_ms": 298549,
-      "name": "Song Like Ours",
-      "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
+      "duration_ms": 199408,
+      "name": "Changing Lanes (from \"The Publicist\")",
+      "url": "https://open.spotify.com/track/59BleZfCXAjHvpbfFJYnYZ"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1879,18 +1895,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Changing Lanes (from \"The Publicist\")",
-        "url": "https://open.spotify.com/album/3vYXzcHYfiJDrgzg4TakHm"
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
       },
       "artists": [
         {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
         }
       ],
-      "duration_ms": 199408,
-      "name": "Changing Lanes (from \"The Publicist\")",
-      "url": "https://open.spotify.com/track/59BleZfCXAjHvpbfFJYnYZ"
+      "duration_ms": 311002,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1915,22 +1931,6 @@
       "duration_ms": 184835,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/4pUe0F3de1wLLGYFkbhmmn"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 311002,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
+        "name": "Sunshine & Lullaby",
+        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hermosura",
+          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Sunshine & Lullaby",
+      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
         "name": "Featuring EP",
         "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
       },
@@ -2039,22 +2055,6 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Sorrows Into Silk",
-        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 138320,
-      "name": "Lime",
-      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
         "name": "Can't Fight Love",
         "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
       },
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Sunshine & Lullaby",
-        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
+        "name": "Sorrows Into Silk",
+        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
       },
       "artists": [
         {
-          "name": "Matthew Hermosura",
-          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
         }
       ],
-      "duration_ms": 247986,
-      "name": "Sunshine & Lullaby",
-      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
+      "duration_ms": 138320,
+      "name": "Lime",
+      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Kettle",
-        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Kettle",
-      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
         "name": "Collusion",
         "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
@@ -2175,18 +2159,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Humphrey and Me",
-        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
+        "name": "The Road Is Narrow",
+        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
       },
       "artists": [
         {
-          "name": "Claes Janson",
-          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
+          "name": "Jecca",
+          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
         }
       ],
-      "duration_ms": 267355,
-      "name": "Humphrey and me",
-      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
+      "duration_ms": 194823,
+      "name": "the road is narrow",
+      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -2211,18 +2195,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "The Road Is Narrow",
-        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+        "name": "Humphrey and Me",
+        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
       },
       "artists": [
         {
-          "name": "Jecca",
-          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+          "name": "Claes Janson",
+          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
         }
       ],
-      "duration_ms": 194823,
-      "name": "the road is narrow",
-      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+      "duration_ms": 267355,
+      "name": "Humphrey and me",
+      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -2239,6 +2223,54 @@
       "duration_ms": 235539,
       "name": "Love is Easy",
       "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "All For One",
+        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 282800,
+      "name": "My Ship",
+      "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "Kettle",
+        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Kettle",
+      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -2263,38 +2295,6 @@
       "duration_ms": 224400,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "All For One",
-        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 282800,
-      "name": "My Ship",
-      "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/1q9ZkhXNWMFhb3MAojQ3dC"
+      },
+      "artists": [
+        {
+          "name": "Ria Moran",
+          "url": "https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Outline",
+      "url": "https://open.spotify.com/track/6aekud8Ey1Wf7alKILoN1g"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
         "name": "Infant Eyes (Edit)",
         "url": "https://open.spotify.com/album/393PRcPTjHGLjUJrvFTihd"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 389983,
       "name": "Infant Eyes - Edit",
       "url": "https://open.spotify.com/track/0Vp28wPW0x7uV2nIgvzrQ1"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "Outline",
-        "url": "https://open.spotify.com/album/1q9ZkhXNWMFhb3MAojQ3dC"
-      },
-      "artists": [
-        {
-          "name": "Ria Moran",
-          "url": "https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Outline",
-      "url": "https://open.spotify.com/track/6aekud8Ey1Wf7alKILoN1g"
     },
     {
       "added_at": "2023-08-16 10:10:49",

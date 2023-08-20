@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 18 | [Baby Boy](https://open.spotify.com/track/2yDmqFRnT8u8H8CjhJGlrA) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7) | [Baby boy](https://open.spotify.com/album/7CCg4B39hahXihtW6eRiUl) | 3:16 |
 | 19 | [Aloco](https://open.spotify.com/track/21jAgbrS6blGdqf9CYA7Eb) | [Meesyz](https://open.spotify.com/artist/3ygeE9AJfIQ1QmhdSHM9ZK) | [Aloco](https://open.spotify.com/album/6U718ermfsqn0RfrYa8Izt) | 2:23 |
 | 20 | [Joga Bonito](https://open.spotify.com/track/6rzzy8g8STTKvAjiCb4iAy) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [Joga Bonito](https://open.spotify.com/album/2rs03Z7i8jNycSyDPoVgOB) | 2:50 |
-| 21 | [Baby Boy](https://open.spotify.com/track/6YZ1wM5gDnj0ocRvr5rJcc) | [Shaeena](https://open.spotify.com/artist/70KSCcSHaNET46lHaEXirS) | [Baby Boy](https://open.spotify.com/album/5DSW71brZ5hx1xjq6Q23kx) | 3:28 |
+| 21 | [Baby Boy](https://open.spotify.com/track/6YZ1wM5gDnj0ocRvr5rJcc) | [Shaeena](https://open.spotify.com/artist/2aV6ZxtgORLSSvTyvAc3IZ) | [Baby Boy](https://open.spotify.com/album/5DSW71brZ5hx1xjq6Q23kx) | 3:28 |
 | 22 | [RUN](https://open.spotify.com/track/1QA5AZ6qdDuv2fMInaVopl) | [Baeredith](https://open.spotify.com/artist/11gmga2kStANeq9nBa2TMa) | [RESET](https://open.spotify.com/album/7Fe3FMaXNzFVcUm9DZuq3e) | 2:17 |
 | 23 | [tu m'as ruinée](https://open.spotify.com/track/1phyVh2bA6W5ibHI4gMigh) | [noé](https://open.spotify.com/artist/7A7LNfNNZCCokfZudXF2La) | [tu m'as ruinée](https://open.spotify.com/album/7kVDs1biAH7G6mprT3SpML) | 2:54 |
 | 24 | [Encore](https://open.spotify.com/track/2nCRT5GUUrHFrTqJUJHT7U) | [LAURA LTX](https://open.spotify.com/artist/6R9YLj49EhRnmpe5OZ5vjN), [Blackbrown](https://open.spotify.com/artist/6oRauNWH0RFcITK3CF4PbQ) | [Encore](https://open.spotify.com/album/6tR2hrEphEYyLNChyuVlzv) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [SUR OFF](https://open.spotify.com/track/3CLl9VSu951Ns4lNRBpYJI) | [KT Gorique](https://open.spotify.com/artist/2UQaGEb3EMAa01ibiQaEsh), [Riga](https://open.spotify.com/artist/37t8K0CbC1jRSqmDYNEpPX) | [SUR OFF](https://open.spotify.com/album/4FKz9CRhicS2Kxj6em2YZD) | 2:16 |
 | 50 | [Toute la Nuit](https://open.spotify.com/track/264sEbGdVK1qFjC7Ywstrr) | [Sainte Victoire](https://open.spotify.com/artist/5CMBaPlxo9IOBSDRBaHPw0) | [Toute la Nuit](https://open.spotify.com/album/5VZv1I92rN3V5NAGNI93BZ) | 3:34 |
 
-Snapshot ID: `MCw2YzJiMTM0NDU2ZDBjYzYwYTI4NTU5YTcwZTIxZTU1ZWNkMjY5NWU0`
+Snapshot ID: `MCw4MzgxMGY2MDc2ZDg4NjQwY2VhZGIyZDI0Mzc3OWZjOTgxOGUxMGVk`

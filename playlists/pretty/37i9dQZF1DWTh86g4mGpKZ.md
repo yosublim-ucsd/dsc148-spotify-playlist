@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTh86g4mGpKZ.md) - [plain]
 
 > The internationally acclaimed singer, songwriter and producer <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a> drops a mix that pays homage to the different variants of dance music while pushing the boundaries of the genre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,247 likes - 25 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,254 likes - 25 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTh86g4mGpKZ.md) - [plain]
 | 24 | [Envious \- Kiddy Smile Remix \- Mixed](https://open.spotify.com/track/4ZJMwSwmHOxsNmcJXfqFbH) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Envious \- Kiddy Smile Remix \(Mixed\)](https://open.spotify.com/album/4kIr5PrEdeWDZLxuLbgdRy) | 3:12 |
 | 25 | [Forget About Me \- Nite Version \- Mixed](https://open.spotify.com/track/2FcaFrLSDrWb0uOz1PBYRs) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me \- Nite Version \(Mixed\)](https://open.spotify.com/album/098Mnc8yyUxvSQINQOp5TP) | 4:39 |
 
-Snapshot ID: `MCw5NWQ5ZTdlMzlmM2RmMDQ0YjAxMjQ1ODlhOTBlZTI4Mzk4NmU4MTQ2`
+Snapshot ID: `MCxiMDE0YjYyZDk3ODMyOTQxOGI1NThlZWUxZDU5MWE0N2Q2OWYzODQ2`

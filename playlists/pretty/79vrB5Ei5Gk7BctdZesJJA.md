@@ -2,39 +2,31 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 ### [DEADNOISE.FM](https://open.spotify.com/playlist/79vrB5Ei5Gk7BctdZesJJA)
 
-> Official Roadrunner Records Playlist \- Guest curator: Brian Audley from Incendiary! \(New guest curator every 2 weeks\)
+> Official Roadrunner Records Playlist \- Guest curator: Joey Chiaramonte from Koyo \(New guest curator every 2 weeks\)
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,532 likes - 28 songs - 1 hr 37 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,584 likes - 20 songs - 54 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Convenient Apocalypse](https://open.spotify.com/track/20ufZoo7L9g7MAhO577ru0) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [No Convenient Apocalypse](https://open.spotify.com/album/0oMWNvzmMUcLmPJc1Jh2qv) | 3:13 |
-| 2 | [Dream Come True](https://open.spotify.com/track/59Y5VsdKcY5BvMnOXScsBC) | [Indecision](https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM) | [Most Precious Blood](https://open.spotify.com/album/19VFvePmgu65tEiBzqZ8fq) | 1:57 |
-| 3 | [By the River](https://open.spotify.com/track/6Gu0htTmGIalXKO8mOuSTp) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [Imprint](https://open.spotify.com/album/2Zrw92RfpTDDctCre6Aqja) | 3:36 |
-| 4 | [Echo of Nothing](https://open.spotify.com/track/7hxumIJygJ658qV31snakL) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Change The Way You Think About Pain](https://open.spotify.com/album/2WfjxP33VNZGYdlXi0mjKb) | 2:56 |
-| 5 | [Mindset Overhaul](https://open.spotify.com/track/4pdAgfwAwmMiZiAyjj6rhE) | [Mind Over Matter](https://open.spotify.com/artist/02M7wv5qskaY1lPie7TcyZ) | [Security](https://open.spotify.com/album/75TyldFl6Sd9X2mh4Xapc6) | 3:33 |
-| 6 | [Life of the Party](https://open.spotify.com/track/5T25mxohxjQJBNrnlk10xb) | [Milhouse](https://open.spotify.com/artist/0Ra6nKqlaGrlOuIEWimfOG) | [Obscenity in the Milk](https://open.spotify.com/album/1yheyzzo0Z4ofWcdzVFiXz) | 1:22 |
-| 7 | [LongShortCut](https://open.spotify.com/track/1AQg8v90ktS13tPXiZbH98) | [C.R.](https://open.spotify.com/artist/2Hzt2x4rknHjpHRmJfM0Lk) | [Forty Six Songs](https://open.spotify.com/album/5ZKoabkN9c3l8JR68Vks2r) | 1:49 |
-| 8 | [You Think You're \(John Fucking Lennon\)](https://open.spotify.com/track/09VDpaucF3nSyTznLePzI7) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 5:16 |
-| 9 | […Shall Be Judged](https://open.spotify.com/track/63tjhtYmFWgZPbG7ddSPPD) | [Burn](https://open.spotify.com/artist/3iYk6FHhF5Op7mmVC8vaHc) | [Burn](https://open.spotify.com/album/7ExjOyaQ3uYtQfpjUYSoRX) | 2:19 |
-| 10 | [Blast Furnace](https://open.spotify.com/track/27i3SiwCNk3RPA43N5GstY) | [Fugitive](https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL) | [Blast Furnace b/w Standoff](https://open.spotify.com/album/0zIPyWb6TUrV8ZFUfC5dwZ) | 4:45 |
-| 11 | [Justice Replaced By Revenge](https://open.spotify.com/track/44pkYif4mpEclx6KGX14nX) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Justice Replaced By Revenge](https://open.spotify.com/album/4hfNMjJF59GYCH9IMzGwiL) | 2:08 |
-| 12 | [Dispossessed](https://open.spotify.com/track/50gyQdoewV6BUh7sT2uxQg) | [Iron Age](https://open.spotify.com/artist/5mFHJXwP6yNpilm7hokv89) | [The Sleeping Eye](https://open.spotify.com/album/5plnrPJUamWoVkPnm14F7P) | 4:45 |
-| 13 | [Terror Tactics](https://open.spotify.com/track/2mpgQFpYpCrwLViQHi7Nb2) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Psychosis](https://open.spotify.com/album/1meRKdWdUfwS4lbpqCXaCu) | 4:57 |
-| 14 | [Bleed](https://open.spotify.com/track/1eCBtrmxRuFywmne2gdZA0) | [Torena](https://open.spotify.com/artist/4ztw1osWvWdDUytjvTDk8b) | [Bleed](https://open.spotify.com/album/7uViS6K0KUDYgIi9K29xtc) | 2:56 |
-| 15 | [Still Anticipating](https://open.spotify.com/track/1MNVyP3HpxafkyBAAXyRqQ) | [King Nine](https://open.spotify.com/artist/4dxoFVMwyRk0a1yv9lghmS) | [Scared To Death](https://open.spotify.com/album/1y3ERMOYGLQaBn2NxTAzpb) | 3:35 |
-| 16 | [Never Die](https://open.spotify.com/track/2lMAePNPlYHtznSeEyvK4g) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp), [Sam Trapkin](https://open.spotify.com/artist/6We383NrzoPsEvElu6IeK2), [Justice Tripp](https://open.spotify.com/artist/008UbL8nKPVp5qTOVzG6S2) | [Outcry](https://open.spotify.com/album/1IKjEX9ixB5ZmNqBlS31fW) | 2:13 |
-| 17 | [As Real as It Gets](https://open.spotify.com/track/7tFWcrsHEYAaKFRPaYC1I1) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:02 |
-| 18 | [Actin' Up](https://open.spotify.com/track/0DkIEyzTbwVbG0IZyekIZb) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Actin' Up](https://open.spotify.com/album/6EKWmlEdfIOYggqHMc56s6) | 2:23 |
-| 19 | [Black Den](https://open.spotify.com/track/606eSkZeOT6dZYc4eKeV6g) | [Premonitions Of War](https://open.spotify.com/artist/60bCVsqdJv2JceoDjMX4gd) | [Left In Kowloon](https://open.spotify.com/album/49rhmFyPtbCyRh9nXachy4) | 5:30 |
-| 20 | [Laura Palmer](https://open.spotify.com/track/6Jx4a6GTcsAxEfZkXCGfCO) | [Skycamefalling](https://open.spotify.com/artist/4t1xUIySrHGdN5Gil3BYrv) | [10.21](https://open.spotify.com/album/3GhMLrHLUz77Fkz6zufSYL) | 4:48 |
-| 21 | [Pain Tolerance](https://open.spotify.com/track/3kSLnnS9ypzs1ERC7szmur) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Seething Malevolence](https://open.spotify.com/album/0Xx2aqF1535ESG8sAJuxKx) | 2:22 |
-| 22 | [Pierced from Within](https://open.spotify.com/track/6Z2McHf57ikVCiAkWvicg1) | [Suffocation](https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1) | [Pierced From Within](https://open.spotify.com/album/3DkYd4sSQypuGcrsw2sU5K) | 4:25 |
-| 23 | [Resist](https://open.spotify.com/track/1ug6few1sL8vR3W43UVo5N) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Truth In The Age Of Lies](https://open.spotify.com/album/1JJnIYpmSghQGIk0Sp7a7U) | 5:26 |
-| 24 | [B.R.C.](https://open.spotify.com/track/2hIQBUcVjtbJHpYyFznehh) | [Blood Runs Cold](https://open.spotify.com/artist/5C4XJI2vC85dH7nxUeiEyY) | [B.R.C.](https://open.spotify.com/album/2J8GwsrBLb8bqpUzOGST84) | 2:46 |
-| 25 | [The Order](https://open.spotify.com/track/3a9S13TkU2h8Scg6KHULWm) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Last Of The Sane](https://open.spotify.com/album/0FMWi1BtaWTIspzqkF6zfj) | 3:40 |
-| 26 | [Kill Their Past](https://open.spotify.com/track/4P8zVBsmfgkZXQJ9zT19QY) | [Buried Alive](https://open.spotify.com/artist/4RxGncdbzjsbKLa9g5mVyB) | [Death Of Your Perfect World](https://open.spotify.com/album/3zoACllYNhHyHjq6x0HhxU) | 1:54 |
-| 27 | [Killer of the Soul](https://open.spotify.com/track/78yHtmqx8InuYd9Fbjwew4) | [108](https://open.spotify.com/artist/3j2S24uHONLPeKvYjG14oH) | [Creation\. Sustenance\. Destruction.](https://open.spotify.com/album/6GZgnQJoTzNEBWXz7g8LXj) | 3:21 |
-| 28 | [Sadistic Sacred Whore](https://open.spotify.com/track/3OZZe46QrhSSYUgchnJ1kZ) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK) | 5:59 |
+| 1 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 |
+| 2 | [Another Better Day](https://open.spotify.com/track/4R7bwFYAhOBK8X8N8nh5IX) | [Restraining Order](https://open.spotify.com/artist/4HXv1CWVOyIO8ZNvGOSyEy) | [Locked In Time](https://open.spotify.com/album/0ZrL3ZytOIETmGjy3OAwl1) | 2:32 |
+| 3 | [In April](https://open.spotify.com/track/3WZcCUluDiabYGcMDCc4AX) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Little Green House](https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj) | 3:23 |
+| 4 | [Under My Skin](https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/3YjB0HnU6qIJIvyxxGovGo) | 2:52 |
+| 5 | [B.R.C.](https://open.spotify.com/track/2hIQBUcVjtbJHpYyFznehh) | [Blood Runs Cold](https://open.spotify.com/artist/5C4XJI2vC85dH7nxUeiEyY) | [B.R.C.](https://open.spotify.com/album/2J8GwsrBLb8bqpUzOGST84) | 2:46 |
+| 6 | [Break](https://open.spotify.com/track/3SMFeohr7Ntsf8QHEaPPe9) | [Big Boy](https://open.spotify.com/artist/3jOHrCdds0VE1VzdjPvvv1) | [Spring Promo 2023](https://open.spotify.com/album/2LKGwURhyFfTyva25KDTxs) | 1:49 |
+| 7 | [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 |
+| 8 | [For You](https://open.spotify.com/track/6Yg1gqM2s9vW9LVSf3wiIl) | [Life's Question](https://open.spotify.com/artist/3m7JHlRsZs6jkvzWAnkyuq) | [Promo 2022](https://open.spotify.com/album/04iEMwdlh2FZ2WfQ6Nfi9F) | 3:03 |
+| 9 | [Amityville Horror](https://open.spotify.com/track/0H9WK3geTdMJkys2k8ZS8s) | [Silent Majority](https://open.spotify.com/artist/5Mw7DZ0aCMxNzj43lUfvbX) | [You Would Love To Know](https://open.spotify.com/album/3aAPOUfQ00fj5LY7ouFoIb) | 4:21 |
+| 10 | [Honey Bee](https://open.spotify.com/track/12VSvtdrXqTA5YD75UnRL7) | [I Am The Avalanche](https://open.spotify.com/artist/60uj1W8gsOriVqdoqLcR2O) | [Honey Bee](https://open.spotify.com/album/27ahnGGb592XPJNtvlpHOl) | 2:15 |
+| 11 | [Overkill](https://open.spotify.com/track/3mR4q75jfWKQUTfJzRmk02) | [Momentum](https://open.spotify.com/artist/7l1y2qfjB7Rlqk1ordKmob) | [Momentum](https://open.spotify.com/album/6hAFWgczPF43EfX1Jlr09Z) | 1:55 |
+| 12 | [Lift It Up](https://open.spotify.com/track/3j3e3QQScS4K0LOMRDQSQS) | [Private Mind](https://open.spotify.com/artist/0vWAeFRAAdrxMS5jXbggw0) | [Private Mind](https://open.spotify.com/album/5peJeyVTtxndS0JNyfGYEn) | 3:05 |
+| 13 | [Under the Weight of a Blackened Sky](https://open.spotify.com/track/6EvjWWigm2j9695FB77ViL) | [Balmora](https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN) | [With Thorns of Glass and Petals of Grief](https://open.spotify.com/album/5DE3XyvfPG2Vr5tElMUAfo) | 4:16 |
+| 14 | [Drifter](https://open.spotify.com/track/2TsSflfoAvd196PD7eGdVD) | [Somerset Thrower](https://open.spotify.com/artist/5Ifk35ildPnmMtcnOWLITu) | [Paint My Memory](https://open.spotify.com/album/5b1TPbHGcXbruFrwnfgF9b) | 2:21 |
+| 15 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 |
+| 16 | [Trauma Bonds](https://open.spotify.com/track/1wT90Y3nYuDhTjytAfO6Cx) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Blending](https://open.spotify.com/album/2O3NneZDbRKj2kTyMK9jrw) | 4:38 |
+| 17 | [No Man's Land](https://open.spotify.com/track/4S7XcUvQUx0t76imsOvODh) | [Life Taken](https://open.spotify.com/artist/7CzmgErxEwI3SMDKpIN2CE) | [No Man's Land](https://open.spotify.com/album/3yjZyB0tCKApYSsXRc9OxL) | 2:32 |
+| 18 | [Id](https://open.spotify.com/track/4wmBBGmX57F4GHchln05BZ) | [Stand Still](https://open.spotify.com/artist/7Ep4mjRwM3fETDvQE9gZPb) | [A Practice in Patience](https://open.spotify.com/album/1KcMjLG8WNxxE3wIgxsxCE) | 2:30 |
+| 19 | [Hang You](https://open.spotify.com/track/6huXyeZ0bOwqZJCZIGaA3r) | [Last Laugh](https://open.spotify.com/artist/04MyvPxPcBCI6KSmrtHqAl) | [Summer '23 Sampler](https://open.spotify.com/album/3k1gQSBKTVGiBd1Zhhw9OF) | 0:56 |
+| 20 | [Searching For Soul](https://open.spotify.com/track/2iY09RwqNKQVQQqmJvJmdk) | [Wreckage](https://open.spotify.com/artist/44rq09D86R0gylTJkr6tEZ) | [Our Time](https://open.spotify.com/album/5jEyAyMvfwrVOlqwVB0UV4) | 1:58 |
 
-Snapshot ID: `MzA3Myw4YjViODA3ZTkxNGM4OTVmNjA5MzljNzdhZTM2MTRlNjUzYjM2NzBh`
+Snapshot ID: `MzA3Nyw5ODAxMjk2ZDBlNDY4Yjg2ZGQzYjc5YzVjZjM3OGE1NzU4MTg2Njk4`

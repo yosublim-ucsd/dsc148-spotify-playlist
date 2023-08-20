@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 35900,
+  "num_followers": 35912,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjFmYzcxYWViNjk0ZGJmZmRlYWM4ZTU5MWRjMjc2N2M2ZjhlNjA5",
+  "snapshot_id": "MCwyM2JmZDUwMTkyMjA2ZjgzNmE3Mzg5ZGFjYTk3ZjhjMTUwZDIyYWYy",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
-        "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
-      },
-      "artists": [
-        {
-          "name": "Dandy Livingstone",
-          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Rudy, A Message To You",
-      "url": "https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "I Get The Sweetest Feeling",
         "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 178373,
       "name": "I Get The Sweetest Feeling",
       "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
+        "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
+      },
+      "artists": [
+        {
+          "name": "Dandy Livingstone",
+          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Rudy, A Message To You",
+      "url": "https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "The New Sound of Brazil",
-        "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Samba de Orfeu",
-      "url": "https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
         "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 152226,
       "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
       "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "The New Sound of Brazil",
+        "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Samba de Orfeu",
+      "url": "https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce"
     },
     {
       "added_at": "2021-03-15 16:04:53",

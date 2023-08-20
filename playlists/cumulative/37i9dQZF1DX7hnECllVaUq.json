@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Life Upside Down EP",
+        "url": "https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178322,
+      "name": "On My Own Again",
+      "url": "https://open.spotify.com/track/7I5wXK9J0legvm0z3YUMMS"
+    },
+    {
+      "album": {
         "name": "One Of Them Girls",
         "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
       },
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 226626,
       "name": "Somebody's Daughter",
       "url": "https://open.spotify.com/track/212JC1fIZDB2Wp5B16eZON"

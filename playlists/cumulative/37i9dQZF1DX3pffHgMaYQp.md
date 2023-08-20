@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Vondré en portada.
 
-97 songs - 5 hr 18 min
+98 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [No Estoy](https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [No Estoy](https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg) | 2:33 | 2023-05-19 |  |
 | [No Lo Tomes a Mal \- No Me Toques, Ando Chido](https://open.spotify.com/track/5msSzMdmacwuVhribYz5nG) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [No Lo Tomes a Mal \(No Me Toques, Ando Chido\)](https://open.spotify.com/album/2zVGlxmvIeDr4Ob8qItIQn) | 3:31 | 2022-03-25 |  |
 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 | 2023-04-14 |  |
-| [Outro](https://open.spotify.com/track/0t1neSZWSIqtVHRxyYLWTO) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Outro](https://open.spotify.com/album/6bIYRN7ORcgvVf1CZ4BMmt) | 3:08 | 2022-03-25 |  |
+| [Outro](https://open.spotify.com/track/0t1neSZWSIqtVHRxyYLWTO) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Outro](https://open.spotify.com/album/6bIYRN7ORcgvVf1CZ4BMmt) | 3:08 | 2022-03-25 | 2023-08-20 |
+| [Outro](https://open.spotify.com/track/3HFtCewZzBRxOESSqk1nVn) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 3:08 | 2023-07-28 |  |
 | [P3da](https://open.spotify.com/track/4rxg8aTQOGGL7LV1yqqhHy) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ), [Roberta Pardo](https://open.spotify.com/artist/5SDCXW3v93K8R58xRLeV0b), [Isabela Costero](https://open.spotify.com/artist/3Jes9MS3tLqPDrCDxdUGQx), [Maria Villanueva](https://open.spotify.com/artist/10LgSuLJnpj2wkOxOQW1hF), [Valentina Reyes](https://open.spotify.com/artist/7gFOLjST0TuyozYrZUQWtw) | [P3da](https://open.spotify.com/album/5s7W0XNdHN2Sz3JviG3Rv8) | 1:21 | 2022-03-25 |  |
 | [Panteón](https://open.spotify.com/track/1NPuCNu2nAeNcAzht2WqRp) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Panteón](https://open.spotify.com/album/5AK4SkUnMWwuD95pMptlCN) | 1:35 | 2022-03-25 | 2022-12-12 |
 | [Panteón](https://open.spotify.com/track/4stvgopAieFBf2zabV5BKf) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 1:35 | 2022-03-25 |  |

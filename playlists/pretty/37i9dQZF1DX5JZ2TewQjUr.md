@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  COPAK
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,882 likes - 144 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,888 likes - 144 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 19 | [ALIVE](https://open.spotify.com/track/72EhouMPHQDFLogEyocYjO) | [KASA](https://open.spotify.com/artist/2npcg8bjHorVxVkRyy7iFO), [Arms Attraction](https://open.spotify.com/artist/7lWuDBtj52fegBOCCDfvbk) | [ALIVE](https://open.spotify.com/album/51ktLYJ5fHbJdK68fPSrKC) | 4:19 |
 | 20 | [Umm Pt.2](https://open.spotify.com/track/4urgur4c39ngdNEFJE1cUr) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Umm Pt.2](https://open.spotify.com/album/6tDd35AIWDdzgsGIg7hUP0) | 3:44 |
 | 21 | [天氣之女](https://open.spotify.com/track/6FsfLl1iG0zrbXfiJHl00y) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [天氣之女](https://open.spotify.com/album/1qyTHpCoEhSgSF4bQK1y1F) | 3:24 |
-| 22 | [You'll Never Know \(When I Was Younger\)](https://open.spotify.com/track/7kTAJ5Oyd6ODvld30mhNfE) | [LydiaBaoBao](https://open.spotify.com/artist/7MbU67Ry7QAHJwG45ZIwta) | [You'll Never Know \(When I Was Younger\)](https://open.spotify.com/album/5sLRWgvA5iFxFjqmmrn5AG) | 4:34 |
+| 22 | [You'll Never Know \(When I Was Younger\)](https://open.spotify.com/track/7kTAJ5Oyd6ODvld30mhNfE) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know \(When I Was Younger\)](https://open.spotify.com/album/5sLRWgvA5iFxFjqmmrn5AG) | 4:34 |
 | 23 | [Sound of Heartbreak](https://open.spotify.com/track/4JRvc4hdv95hMSANAKeJYs) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [Sound of Heartbreak](https://open.spotify.com/album/3LIpD2x8E2Xxs8G7lcB1dl) | 2:53 |
 | 24 | [好想大聲講我喜歡你](https://open.spotify.com/track/0xZWkmnX7dSXGlXmkjbeAR) | [新田公路](https://open.spotify.com/artist/1WU9RO61jcDqwnu2Aigzts) | [好想大聲講我喜歡你](https://open.spotify.com/album/5maKeiDNTqNBKuWnPzX9is) | 5:13 |
 | 25 | [Faded Blue Jeans](https://open.spotify.com/track/5C7Rve2YyqedV0Z8DAHtAK) | [CHARICE](https://open.spotify.com/artist/0tV7fUG9ZTRUs4mUyR3s4C) | [Faded Blue Jeans](https://open.spotify.com/album/5DkApJgKNiIUZGTr3IAteQ) | 3:04 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 48 | [其實我真的不想說話](https://open.spotify.com/track/4jcZvX5bmzJXCoUAZapQTI) | [LilCodyIsDead!](https://open.spotify.com/artist/4gy2G9kSw6lGDo358odR8u) | [其實我真的不想說話](https://open.spotify.com/album/0F7DyPV4IWJvvEAe0OYmPV) | 2:43 |
 | 49 | [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 |
 | 50 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 |
-| 51 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/7MbU67Ry7QAHJwG45ZIwta) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 |
+| 51 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 |
 | 52 | [二泊三日](https://open.spotify.com/track/1znnzG14xxoMvHYHvMyypO) | [N9](https://open.spotify.com/artist/3POd6Qa84pvklcv3bDWd0J) | [二泊三日](https://open.spotify.com/album/5ClMZZvNhlXfDSrBMXpiYR) | 3:12 |
 | 53 | [Tell Me](https://open.spotify.com/track/2b7oKA3KjWnZQtTRQ5m3Qp) | [Cassia Yap](https://open.spotify.com/artist/03gHMKatU9TQCfECHVmfcH) | [Tell Me](https://open.spotify.com/album/43KRHhPUNvsTUqGVGxho0x) | 3:38 |
 | 54 | [tell me i'm not annoying](https://open.spotify.com/track/15sM0O9U2nAhmUKmk4LVI9) | [Jennifer Chan](https://open.spotify.com/artist/3VsN7FZqKWUitDdVDrmAmr) | [tell me i'm not annoying](https://open.spotify.com/album/3Js7JSyGr54eWFahEUK8bO) | 4:01 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 143 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 144 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCxhMDk3MmI2ZDZlNDk5NWY2OGYxZjQyOTI4OWY2ODJiMWRlNzVlZjdk`
+Snapshot ID: `MCxmNDVmMmRlNjkxYmRmZWQ4YjMwZDEzZGM2MjQxN2ZlOTA4OWUxZDAz`

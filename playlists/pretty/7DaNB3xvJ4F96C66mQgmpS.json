@@ -1,183 +1,119 @@
 {
   "description": "Workout songs to get your mental right and blood pumping.",
-  "num_followers": 88129,
+  "num_followers": 88115,
   "original_name": "Workout Bangers",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MTY5NywwMzk4ODBlMzU3NDZlNmEzZDJjM2MyMzkwMDRmYzY4MDgxOTNiZTYy",
+  "snapshot_id": "MTY5OSxhZTUwOTlhMWY3YmU3YTVmNWQ0YjdlNzM0NWE1ZTBhZTI5NzMxMjNi",
   "tracks": [
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "REAL RAW!",
-        "url": "https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8"
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/17NmpNUsnsBlRgYUImCEBi"
       },
       "artists": [
         {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
         }
       ],
-      "duration_ms": 73061,
-      "name": "JUMP JUMP!",
-      "url": "https://open.spotify.com/track/6VloifAH9GhFnDKg7Bnrlo"
+      "duration_ms": 166451,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/7KJkPTJ74wOyLoa8iVjHY9"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
-        "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
+        "name": "Bussin",
+        "url": "https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n"
       },
       "artists": [
         {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 226542,
-      "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
-      "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
+      "duration_ms": 136760,
+      "name": "Bussin",
+      "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "Tell It To My Heart (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "Tell It To My Heart (feat. Hozier) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Adrenaline Rush",
-        "url": "https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "MORGAN",
-          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
-        }
-      ],
-      "duration_ms": 184542,
-      "name": "Adrenaline Rush",
-      "url": "https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Can't Get Rid Of Me (feat. Fergie Baby)",
-        "url": "https://open.spotify.com/album/5HsEj4CtAE03sm0H76uPhe"
-      },
-      "artists": [
-        {
-          "name": "HDBeenDope",
-          "url": "https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O"
-        },
-        {
-          "name": "Fergie Baby",
-          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
-        }
-      ],
-      "duration_ms": 150503,
-      "name": "Can't Get Rid Of Me (feat. Fergie Baby)",
-      "url": "https://open.spotify.com/track/2EoSee89OYP7n6mwxCHSlq"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Ocean Spray",
-        "url": "https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE"
+        "name": "See Wat I\u2019m Sayin",
+        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
       },
       "artists": [
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
         }
       ],
-      "duration_ms": 164776,
-      "name": "Ocean Spray",
-      "url": "https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj"
+      "duration_ms": 146732,
+      "name": "See Wat I\u2019m Sayin",
+      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
       "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
@@ -197,27 +133,79 @@
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "Where Did You Go?",
-        "url": "https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA"
+        "name": "HUMBLE. (SKRILLEX REMIX)",
+        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go?",
-      "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
+      "duration_ms": 156800,
+      "name": "HUMBLE. - SKRILLEX REMIX",
+      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Make My Day (with David Guetta)",
+      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 144651,
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
       "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
@@ -237,31 +225,159 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
+        "name": "Where Did You Go?",
+        "url": "https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
+      "duration_ms": 177689,
+      "name": "Where Did You Go?",
+      "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "How TF",
+        "url": "https://open.spotify.com/album/7uFrgDWyKZZb4KHYORcqQt"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        },
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 182941,
+      "name": "How TF (with SleazyWorld Go)",
+      "url": "https://open.spotify.com/track/3iBv2gYJk2SJJbuEGnvlLm"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 126579,
+      "name": "Pop Dat",
+      "url": "https://open.spotify.com/track/69IaTU22g3APresMDbF4g9"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Fly Sh!t",
+        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Fly Sh!t",
+      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "MEMPHIS MASSACRE III",
+        "url": "https://open.spotify.com/album/6zpMySpRlvtUlFhl3TkZ7k"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "Lil Thad",
+          "url": "https://open.spotify.com/artist/2YpTaAHmS8mK36GhjIF0pW"
+        },
+        {
+          "name": "Dubba G",
+          "url": "https://open.spotify.com/artist/3q6LWVdiXXVKUWUgfIfXta"
+        },
+        {
+          "name": "Glockianna",
+          "url": "https://open.spotify.com/artist/56JcMPQpx5pfbKnDfaqqfd"
+        }
+      ],
+      "duration_ms": 188407,
+      "name": "RESPECT (feat. Lil Thad, Dubba G & Glockianna)",
+      "url": "https://open.spotify.com/track/21Ba7pnsiV6GqsGJtCRBYN"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Ocean Spray",
+        "url": "https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Ocean Spray",
+      "url": "https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "One Right Now",
+        "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "One Right Now (with The Weeknd)",
+      "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
       "album": {
         "name": "Lonely Heart",
         "url": "https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q"
@@ -289,139 +405,187 @@
       "url": "https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "Bussin",
-        "url": "https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n"
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
       "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 192470,
+      "name": "Pure Water (with Migos)",
+      "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Blick Blick",
+        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "Blick Blick (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Loveless (with Teddy Swims)",
+        "url": "https://open.spotify.com/album/75MSTtzRgALg57B8yPJHAC"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 136760,
-      "name": "Bussin",
-      "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
+      "duration_ms": 183870,
+      "name": "Loveless (with Teddy Swims)",
+      "url": "https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "No Pressure (Pt. 1)",
-        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+        "name": "Shoot It Myself (feat. Future)",
+        "url": "https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN"
       },
       "artists": [
         {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 126579,
-      "name": "Pop Dat",
-      "url": "https://open.spotify.com/track/69IaTU22g3APresMDbF4g9"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Cinematic Songs (Vol. 6)",
-        "url": "https://open.spotify.com/album/5a2ea5hbnSiGjluplzuq0v"
-      },
-      "artists": [
-        {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         },
         {
-          "name": "Beacon Light",
-          "url": "https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk"
-        },
-        {
-          "name": "Sam Tinnesz",
-          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/5X3T8jHNIJSXviiDmiBdz0"
+      "duration_ms": 187843,
+      "name": "Shoot It Myself (feat. Future)",
+      "url": "https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Mi Gente (Alesso Remix)",
-        "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Mi Gente - Alesso Remix",
-      "url": "https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 144651,
-      "name": "Low Down",
-      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
@@ -445,99 +609,7 @@
       "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Loveless (with Teddy Swims)",
-        "url": "https://open.spotify.com/album/75MSTtzRgALg57B8yPJHAC"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Loveless (with Teddy Swims)",
-      "url": "https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 192470,
-      "name": "Pure Water (with Migos)",
-      "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Rich and Raw",
-        "url": "https://open.spotify.com/album/4IKZietJgrE6tBFwMGjPFf"
-      },
-      "artists": [
-        {
-          "name": "Dess Dior",
-          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Rich and Raw",
-      "url": "https://open.spotify.com/track/7ezc0ttQI1RdEdJXYk2OVg"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Fly Sh!t",
-        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Fly Sh!t",
-      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
@@ -557,75 +629,47 @@
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "I Decided.",
-        "url": "https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar"
+        "name": "Tell It To My Heart (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 222360,
-      "name": "Bounce Back",
-      "url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Moth To A Flame",
-        "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
+      "duration_ms": 175312,
+      "name": "Tell It To My Heart (feat. Hozier) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "Go Hard",
-        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+        "name": "REAL RAW!",
+        "url": "https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
         }
       ],
-      "duration_ms": 217610,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+      "duration_ms": 73061,
+      "name": "JUMP JUMP!",
+      "url": "https://open.spotify.com/track/6VloifAH9GhFnDKg7Bnrlo"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
         "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
         "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
@@ -653,27 +697,163 @@
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "How TF",
-        "url": "https://open.spotify.com/album/7uFrgDWyKZZb4KHYORcqQt"
+        "name": "I Decided.",
+        "url": "https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar"
       },
       "artists": [
         {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        },
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 182941,
-      "name": "How TF (with SleazyWorld Go)",
-      "url": "https://open.spotify.com/track/3iBv2gYJk2SJJbuEGnvlLm"
+      "duration_ms": 222360,
+      "name": "Bounce Back",
+      "url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Us vs. Them (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Us vs. Them (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Adrenaline Rush",
+        "url": "https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        }
+      ],
+      "duration_ms": 184542,
+      "name": "Adrenaline Rush",
+      "url": "https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Can't Get Rid Of Me (feat. Fergie Baby)",
+        "url": "https://open.spotify.com/album/5HsEj4CtAE03sm0H76uPhe"
+      },
+      "artists": [
+        {
+          "name": "HDBeenDope",
+          "url": "https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O"
+        },
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        }
+      ],
+      "duration_ms": 150503,
+      "name": "Can't Get Rid Of Me (feat. Fergie Baby)",
+      "url": "https://open.spotify.com/track/2EoSee89OYP7n6mwxCHSlq"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Mi Gente (Alesso Remix)",
+        "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Mi Gente - Alesso Remix",
+      "url": "https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Rich and Raw",
+        "url": "https://open.spotify.com/album/4IKZietJgrE6tBFwMGjPFf"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Rich and Raw",
+      "url": "https://open.spotify.com/track/7ezc0ttQI1RdEdJXYk2OVg"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
       "album": {
         "name": "To Be Real",
         "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
@@ -697,127 +877,7 @@
       "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 161636,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "One Right Now",
-        "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "One Right Now (with The Weeknd)",
-      "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Shoot It Myself (feat. Future)",
-        "url": "https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 187843,
-      "name": "Shoot It Myself (feat. Future)",
-      "url": "https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "See Wat I\u2019m Sayin",
-        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 146732,
-      "name": "See Wat I\u2019m Sayin",
-      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "BOOM",
-        "url": "https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "Make My Day (with David Guetta)",
-      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
         "name": "Off The Court (with Polo G & Einer Bankz)",
         "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
@@ -841,47 +901,71 @@
       "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "Blick Blick",
-        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
+        "name": "Cinematic Songs (Vol. 6)",
+        "url": "https://open.spotify.com/album/5a2ea5hbnSiGjluplzuq0v"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Beacon Light",
+          "url": "https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk"
+        },
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
         }
       ],
-      "duration_ms": 178413,
-      "name": "Blick Blick (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+      "duration_ms": 190200,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/5X3T8jHNIJSXviiDmiBdz0"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "HUMBLE. (SKRILLEX REMIX)",
-        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
+        "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
+        "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
         },
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 156800,
-      "name": "HUMBLE. - SKRILLEX REMIX",
-      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
+      "duration_ms": 226542,
+      "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
+      "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
+      "album": {
+        "name": "Ion Need",
+        "url": "https://open.spotify.com/album/1MBgUk435GEy7uiJ4YRCEM"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "duration_ms": 217246,
+      "name": "Ion Need",
+      "url": "https://open.spotify.com/track/03ZoOMBPSsRQZcu7077PcR"
+    },
+    {
+      "added_at": "2023-08-13 02:51:07",
       "album": {
         "name": "Carte Blanche (Deluxe)",
         "url": "https://open.spotify.com/album/29bm24DTwhCunUSVYbtXFT"
@@ -913,47 +997,7 @@
       "url": "https://open.spotify.com/track/16qyARqmuyJ6Dvb9LWa7AO"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Us vs. Them (feat. Gucci Mane)",
-        "url": "https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Us vs. Them (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
@@ -969,68 +1013,24 @@
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
     },
     {
-      "added_at": "2023-07-24 02:39:51",
+      "added_at": "2023-08-13 02:51:07",
       "album": {
-        "name": "MEMPHIS MASSACRE III",
-        "url": "https://open.spotify.com/album/6zpMySpRlvtUlFhl3TkZ7k"
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
       },
       "artists": [
         {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Lil Thad",
-          "url": "https://open.spotify.com/artist/2YpTaAHmS8mK36GhjIF0pW"
-        },
-        {
-          "name": "Dubba G",
-          "url": "https://open.spotify.com/artist/3q6LWVdiXXVKUWUgfIfXta"
-        },
-        {
-          "name": "Glockianna",
-          "url": "https://open.spotify.com/artist/56JcMPQpx5pfbKnDfaqqfd"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 188407,
-      "name": "RESPECT (feat. Lil Thad, Dubba G & Glockianna)",
-      "url": "https://open.spotify.com/track/21Ba7pnsiV6GqsGJtCRBYN"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "Ion Need",
-        "url": "https://open.spotify.com/album/1MBgUk435GEy7uiJ4YRCEM"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        }
-      ],
-      "duration_ms": 217246,
-      "name": "Ion Need",
-      "url": "https://open.spotify.com/track/03ZoOMBPSsRQZcu7077PcR"
-    },
-    {
-      "added_at": "2023-07-24 02:39:51",
-      "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/17NmpNUsnsBlRgYUImCEBi"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/7KJkPTJ74wOyLoa8iVjHY9"
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     }
   ],
   "unique_name": "Workout Bangers",

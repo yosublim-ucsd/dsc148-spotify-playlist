@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 7 min
+91 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Hell](https://open.spotify.com/track/0Xo1UKGBbgcy9Q6OwTEwqG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:19 | 2022-10-28 | 2023-06-19 |
 | [Hmhmm \(feat\. EST Gee\)](https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:24 | 2022-10-28 | 2022-11-21 |
 | [I Still Dont Feel Nun](https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:04 | 2022-10-28 |  |
+| [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 | 2023-08-19 |  |
 | [Ice Talk](https://open.spotify.com/track/4YeoYDiM7MHUb6Gb9sKYz9) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:31 | 2022-10-28 |  |
 | [IF I STOP NOW](https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [IF I STOP NOW](https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8) | 2:57 | 2023-01-28 | 2023-04-11 |
 | [Jeffery's Innocent](https://open.spotify.com/track/2msi6aUT3FldwSxMqj5074) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Pendleton](https://open.spotify.com/album/3WOrW5A7S4dADPx8mSkLMf) | 3:24 | 2023-04-05 | 2023-04-21 |

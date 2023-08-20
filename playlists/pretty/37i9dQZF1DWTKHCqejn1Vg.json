@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 24965,
+  "num_followers": 25011,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTIyOGYxM2Y2OWUzNDc1NWE0MWJiYTE5MmM3OTc1MTVhNzQyOGZj",
+  "snapshot_id": "MCxhYmYxZTkxZmRkYjJjY2FkZTg0NTFmMmQ5MGUzYjJhMjNmODRkMWUy",
   "tracks": [
     {
       "added_at": "2023-07-17 06:18:12",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 208786,
       "name": "She Said (with BIBI)",
       "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "In the Blur of the Rain",
+      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 185729,
       "name": "Pick up your phone (Feat. MOON)",
       "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "In the Blur of the Rain",
-      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
         "name": "FALL IN LUST",
         "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 199026,
       "name": "FALL IN LUST",
       "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
         "name": "K.I.S.S",
         "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 194645,
       "name": "Te Quiero(feat.BIBI)",
       "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
-        "name": "TIME DIFFERENCE",
-        "url": "https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX"
-      },
-      "artists": [
-        {
-          "name": "AARON",
-          "url": "https://open.spotify.com/artist/6xYGndMhmSaDbRZX97FWE7"
-        }
-      ],
-      "duration_ms": 197552,
-      "name": "TIME DIFFERENCE",
-      "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -967,6 +951,22 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
+        "name": "TIME DIFFERENCE",
+        "url": "https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX"
+      },
+      "artists": [
+        {
+          "name": "AARON",
+          "url": "https://open.spotify.com/artist/6xYGndMhmSaDbRZX97FWE7"
+        }
+      ],
+      "duration_ms": 197552,
+      "name": "TIME DIFFERENCE",
+      "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
         "name": "White Snow",
         "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 184133,
       "name": "White Snow (feat. prettyhappy)",
       "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 141355,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 141355,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
         "name": "Evergray",
         "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 210466,
       "name": "Kurkdjian",
       "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -1055,22 +1071,6 @@
       "duration_ms": 235933,
       "name": "Around (Feat. Yonko)",
       "url": "https://open.spotify.com/track/1qMbjpnSAJQRc4uKuNZKO6"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
-        "name": "Agency (Original Television Soundtrack, Pt. 5)",
-        "url": "https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM"
     },
     {
       "added_at": "2023-07-17 06:18:12",

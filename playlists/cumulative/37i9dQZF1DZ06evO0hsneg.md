@@ -4,7 +4,7 @@
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 1 min
+40 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Foreign](https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 3:42 | 2023-05-02 |  |
 | [gippal](https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:25 | 2023-05-02 |  |
 | [go commando](https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 | 2023-05-02 |  |
-| [Go Get That B](https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:32 | 2023-05-02 |  |
+| [Go Get That B](https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:32 | 2023-05-02 | 2023-08-20 |
 | [Go! \(I Can Be Your\)](https://open.spotify.com/track/5AlZgUEZwPcPkUXFTtkraM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Go! \(I Can Be Your\)](https://open.spotify.com/album/7GGvngihcEqrMm58EYZaYT) | 2:52 | 2023-05-02 |  |
 | [Hyperballin](https://open.spotify.com/track/2CvvpLLO9UBvfvLRC23no4) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Hyperballin](https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq) | 2:30 | 2023-05-02 |  |
 | [I AM ME](https://open.spotify.com/track/5Ga159MBI3o7b8cgSEpVWz) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I AM ME](https://open.spotify.com/album/2lnvGKz1MPILzM3G3aHw8c) | 3:38 | 2023-05-02 |  |
@@ -41,6 +41,7 @@
 | [Riphunter](https://open.spotify.com/track/0RHXZwwxuHBohTlA6yyLkw) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB), [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Bam Mastro](https://open.spotify.com/artist/3d3lSrhBBBazL5444IH8nC) | [MULTIVERSES \(Revisi Final Fix Banget\)](https://open.spotify.com/album/3OOL3zaZdN14LLDpzRWj8e) | 4:13 | 2023-05-02 |  |
 | [Take Me Back](https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:41 | 2023-05-02 |  |
 | [The Emo Song \(feat\. Sihk\)](https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:23 | 2023-05-02 |  |
+| [Tsundere](https://open.spotify.com/track/6ejAsuq9xOqhb9hlFE2h6m) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:57 | 2023-08-19 |  |
 | [Us vs](https://open.spotify.com/track/06Fl6Sd3IA4pdK7vlAdTvr) | [Rock N Roll Mafia](https://open.spotify.com/artist/6EK3t5PY9iBCzjujQFwYVc), [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Unreleased Project, Vol\. 1](https://open.spotify.com/album/2YFa7bbWA742O1sgbXfCZi) | 3:50 | 2023-05-02 |  |
 | [Vaselina \(feat\. euro\)](https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [euro](https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:37 | 2023-05-02 |  |
 | [WHACHU MEAN](https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHACHU MEAN](https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t) | 3:34 | 2023-05-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,881 likes - 129 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,906 likes - 129 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 | 107 | [Calme](https://open.spotify.com/track/0qv14ONcny4clF80mHowWQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Calme](https://open.spotify.com/album/1fX0KM5NIBaXTrmhYnuU6H) | 2:35 |
 | 108 | [Oceans](https://open.spotify.com/track/2I7nb1ZJZJrTAu1G9iXWxY) | [Delaney & Delaney](https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW) | [Oceans](https://open.spotify.com/album/36JQsFJobgqUjtYGS5shZa) | 2:11 |
 | 109 | [Pale Blue Dot](https://open.spotify.com/track/5c2CfIIsvjsMXWklKdCJGC) | [Adelie Aubin](https://open.spotify.com/artist/4CrVjHWrCPZ00IZg3zVIGB) | [Pale Blue Dot](https://open.spotify.com/album/7FqBkFYfBNhKky2UIL8ken) | 1:53 |
-| 110 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 |
+| 110 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [S.J Morgan](https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 |
 | 111 | [Capturing Wind](https://open.spotify.com/track/4RlCmuxG0KterqlcPwFlbH) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Capturing Wind](https://open.spotify.com/album/2VE7avTmGmlz4RAn4n3Jte) | 2:49 |
 | 112 | [Pragmatique](https://open.spotify.com/track/5lLjOkaJ7pqx2qOS7bN22M) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Pragmatique](https://open.spotify.com/album/4Ex97kKG6Boz9EYF6hivhc) | 2:00 |
 | 113 | [Wishful](https://open.spotify.com/track/5GfFG1yYeCVAnaRY8wmMZ3) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 3:04 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 | 128 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 |
 | 129 | [A Pillow For Her Mind](https://open.spotify.com/track/4rJ9FYsLQeB7oi7DSVEeUn) | [Roberta Leontini](https://open.spotify.com/artist/7B8dWi5admMjncLMdbxfns) | [A Pillow For Her Mind](https://open.spotify.com/album/0SVZiy0h2h4ALjd5wueeYw) | 2:19 |
 
-Snapshot ID: `MCxmMjBhZTI5ZmE2NWNmNmMzMjcxOTlhMGNlNTNlMGY5MWU4NzhiZTQ4`
+Snapshot ID: `MCw1ZGYxYjUxMTQ0MWZmNjU3YjgyMjZiOGQ3NzE3N2I3ZjYxYTg5Zjc3`

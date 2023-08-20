@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: AYLIVA",
-  "num_followers": 28441,
+  "num_followers": 28452,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWMzM2RkYTIwNWYyNzgzNjQzNGE5NzcyZTMxZjlhM2NhOGNmNGYz",
+  "snapshot_id": "MCwzNWM1Yzc5ZDM1NTA2N2FjY2FlZTI4NjEyYWNlOTIzMTA2YmY3M2Qx",
   "tracks": [
     {
       "added_at": "2023-08-08 06:06:22",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
-        "name": "Fruchtsaft",
-        "url": "https://open.spotify.com/album/6A7s8eHyJsVGR9XlWYjL98"
-      },
-      "artists": [
-        {
-          "name": "LAYLA",
-          "url": "https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy"
-        }
-      ],
-      "duration_ms": 120750,
-      "name": "Fruchtsaft",
-      "url": "https://open.spotify.com/track/2gcpea4r4aH9Hm0Ty0kmNt"
-    },
-    {
-      "added_at": "2023-08-08 06:06:22",
-      "album": {
         "name": "Nirwana",
         "url": "https://open.spotify.com/album/1rx2NgQhqPtaPRyyWr64ah"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 164500,
       "name": "Nirwana",
       "url": "https://open.spotify.com/track/2yp35w3aw4JDode0KFhOux"
+    },
+    {
+      "added_at": "2023-08-08 06:06:22",
+      "album": {
+        "name": "Fruchtsaft",
+        "url": "https://open.spotify.com/album/6A7s8eHyJsVGR9XlWYjL98"
+      },
+      "artists": [
+        {
+          "name": "LAYLA",
+          "url": "https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy"
+        }
+      ],
+      "duration_ms": 120750,
+      "name": "Fruchtsaft",
+      "url": "https://open.spotify.com/track/2gcpea4r4aH9Hm0Ty0kmNt"
     },
     {
       "added_at": "2023-08-08 06:06:22",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
-        "name": "Sag Mir",
-        "url": "https://open.spotify.com/album/2sGnyS8c8lYluA9nClevoF"
-      },
-      "artists": [
-        {
-          "name": "Haiyti",
-          "url": "https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Sag Mir",
-      "url": "https://open.spotify.com/track/2YG0wTvsEoOgEcVjz9age7"
-    },
-    {
-      "added_at": "2023-08-08 06:06:22",
-      "album": {
         "name": "Immer mehr",
         "url": "https://open.spotify.com/album/2EoXgzamMfjdsovHFqv0tt"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
-        "name": "Bitch",
-        "url": "https://open.spotify.com/album/6KxOcr7awsBTsQDOSvblzV"
+        "name": "Sag Mir",
+        "url": "https://open.spotify.com/album/2sGnyS8c8lYluA9nClevoF"
       },
       "artists": [
         {
-          "name": "Felicia Lu",
-          "url": "https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV"
+          "name": "Haiyti",
+          "url": "https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90"
         }
       ],
-      "duration_ms": 164211,
-      "name": "Bitch",
-      "url": "https://open.spotify.com/track/7vXeRpDn6QxlJoyoHOmJcu"
+      "duration_ms": 180018,
+      "name": "Sag Mir",
+      "url": "https://open.spotify.com/track/2YG0wTvsEoOgEcVjz9age7"
     },
     {
       "added_at": "2023-08-08 06:06:22",
@@ -387,18 +371,34 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7"
+        "name": "Bitch",
+        "url": "https://open.spotify.com/album/6KxOcr7awsBTsQDOSvblzV"
       },
       "artists": [
         {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+          "name": "Felicia Lu",
+          "url": "https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV"
         }
       ],
-      "duration_ms": 213647,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp"
+      "duration_ms": 164211,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/7vXeRpDn6QxlJoyoHOmJcu"
+    },
+    {
+      "added_at": "2023-08-08 06:06:22",
+      "album": {
+        "name": "What if I jump from a Bridge?",
+        "url": "https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 124861,
+      "name": "What if I jump from a Bridge?",
+      "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
     },
     {
       "added_at": "2023-08-08 06:06:22",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "duration_ms": 213647,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp"
+    },
+    {
+      "added_at": "2023-08-08 06:06:22",
+      "album": {
         "name": "Was Junge was",
         "url": "https://open.spotify.com/album/1lEyvoDuMCQejVlQiQP0Me"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 134307,
       "name": "Was Junge was",
       "url": "https://open.spotify.com/track/3Qg8LKffaRkjafolzopnCU"
-    },
-    {
-      "added_at": "2023-08-08 06:06:22",
-      "album": {
-        "name": "What if I jump from a Bridge?",
-        "url": "https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 124861,
-      "name": "What if I jump from a Bridge?",
-      "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
     },
     {
       "added_at": "2023-08-08 06:06:22",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
-        "name": "renn",
-        "url": "https://open.spotify.com/album/7501VlfqRQY4U2cvJehHTB"
+        "name": "Day Dreamer",
+        "url": "https://open.spotify.com/album/5k2mlBsJxmj7qEHfhW7EBb"
       },
       "artists": [
         {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
         }
       ],
-      "duration_ms": 151832,
-      "name": "renn",
-      "url": "https://open.spotify.com/track/5ondzWcRZXnixWizu8XlmH"
+      "duration_ms": 261230,
+      "name": "Day Dreamer",
+      "url": "https://open.spotify.com/track/5kSzLqWZ7fQUUea98lwtkJ"
     },
     {
       "added_at": "2023-08-08 06:06:22",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
-        "name": "Day Dreamer",
-        "url": "https://open.spotify.com/album/5k2mlBsJxmj7qEHfhW7EBb"
-      },
-      "artists": [
-        {
-          "name": "Alinka",
-          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
-        }
-      ],
-      "duration_ms": 261230,
-      "name": "Day Dreamer",
-      "url": "https://open.spotify.com/track/5kSzLqWZ7fQUUea98lwtkJ"
-    },
-    {
-      "added_at": "2023-08-08 06:06:22",
-      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/0pxyNXYrJA4BKsi9CyYHBI"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 194207,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/4uGylsvTzQHw8vH3pzSE8m"
+    },
+    {
+      "added_at": "2023-08-08 06:06:22",
+      "album": {
+        "name": "renn",
+        "url": "https://open.spotify.com/album/7501VlfqRQY4U2cvJehHTB"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "duration_ms": 151832,
+      "name": "renn",
+      "url": "https://open.spotify.com/track/5ondzWcRZXnixWizu8XlmH"
     },
     {
       "added_at": "2023-08-08 06:06:22",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
-        "name": "Ffm",
-        "url": "https://open.spotify.com/album/6ZiDviNMTvmvtV4ReAXIZj"
-      },
-      "artists": [
-        {
-          "name": "NyoMii",
-          "url": "https://open.spotify.com/artist/5SnIM9os0wEayiX4XxL9yD"
-        }
-      ],
-      "duration_ms": 112577,
-      "name": "Ffm",
-      "url": "https://open.spotify.com/track/0bewzvUl8QIgiH39VV8khI"
-    },
-    {
-      "added_at": "2023-08-08 06:06:22",
-      "album": {
         "name": "C'est la vie",
         "url": "https://open.spotify.com/album/25NlZ3o1R9nNc2FHcPeB9Q"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 208571,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/4Lrfvts1p6l3tTGZvGCrfM"
+    },
+    {
+      "added_at": "2023-08-08 06:06:22",
+      "album": {
+        "name": "Ffm",
+        "url": "https://open.spotify.com/album/6ZiDviNMTvmvtV4ReAXIZj"
+      },
+      "artists": [
+        {
+          "name": "NyoMii",
+          "url": "https://open.spotify.com/artist/5SnIM9os0wEayiX4XxL9yD"
+        }
+      ],
+      "duration_ms": 112577,
+      "name": "Ffm",
+      "url": "https://open.spotify.com/track/0bewzvUl8QIgiH39VV8khI"
     },
     {
       "added_at": "2023-08-08 06:06:22",
@@ -659,6 +659,22 @@
       "duration_ms": 155760,
       "name": "Are You Thinking of Me",
       "url": "https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj"
+    },
+    {
+      "added_at": "2023-08-08 06:06:22",
+      "album": {
+        "name": "he's not that special",
+        "url": "https://open.spotify.com/album/3FZRZNdnjc5doW9roMkcCn"
+      },
+      "artists": [
+        {
+          "name": "KeKe",
+          "url": "https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF"
+        }
+      ],
+      "duration_ms": 197691,
+      "name": "like a moon",
+      "url": "https://open.spotify.com/track/5n0TorNN3fIAQni1LGHzmi"
     },
     {
       "added_at": "2023-08-08 06:06:22",
@@ -707,22 +723,6 @@
       "duration_ms": 175120,
       "name": "WATER",
       "url": "https://open.spotify.com/track/5W3G03e0YRIP39aLjFatU2"
-    },
-    {
-      "added_at": "2023-08-08 06:06:22",
-      "album": {
-        "name": "he's not that special",
-        "url": "https://open.spotify.com/album/3FZRZNdnjc5doW9roMkcCn"
-      },
-      "artists": [
-        {
-          "name": "KeKe",
-          "url": "https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF"
-        }
-      ],
-      "duration_ms": 197691,
-      "name": "like a moon",
-      "url": "https://open.spotify.com/track/5n0TorNN3fIAQni1LGHzmi"
     },
     {
       "added_at": "2023-08-08 06:06:22",

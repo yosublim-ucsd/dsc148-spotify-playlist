@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Claptone.
 
-688 songs - 1 day 17 hr 57 min
+689 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Lo Que Soy](https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Lo Que Soy](https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu) | 2:50 | 2023-07-28 |  |
 | [Los Tamales](https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Los Tamales](https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW) | 5:34 | 2021-07-31 | 2022-04-20 |
 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 | 2023-05-12 |  |
+| [Lose Control](https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Lose Control](https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB) | 2:50 | 2023-08-18 |  |
 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 | 2023-04-28 |  |
 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2021-03-27\* | 2021-04-17 |
 | [Lost](https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Lost](https://open.spotify.com/album/1X994T3NOkN6NEfbZTwYXX) | 2:50 | 2023-06-02 | 2023-08-12 |
@@ -640,7 +641,7 @@
 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 | 2022-05-13 | 2023-05-20 |
 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 | 2022-10-28 | 2023-05-06 |
 | [Up All Night](https://open.spotify.com/track/5s7nFwGLm6V2PUVhX45Sbi) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Up All Night](https://open.spotify.com/album/30m8YVoT4er7XKeIaIurNW) | 2:41 | 2021-09-07 | 2022-07-20 |
-| [Very Last Drop](https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [DnH](https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb) | 4:03 | 2023-07-28 |  |
+| [Very Last Drop](https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [DnH](https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb) | 4:03 | 2023-07-28 | 2023-08-20 |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-28 | 2023-03-11 |
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-09 | 2023-08-12 |
 | [Vision Of Paradise \- Riva Starr Remix](https://open.spotify.com/track/6gkLCCmeMLCH9EyoQeJKeG) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [Vision Of Paradise \(Riva Starr Remix\)](https://open.spotify.com/album/4QMnOzimq3NuT63COBrLF5) | 2:43 | 2023-06-16 | 2023-07-29 |

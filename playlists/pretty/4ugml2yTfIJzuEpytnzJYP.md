@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,269 likes - 24 songs - 1 hr 35 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,277 likes - 27 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Broken](https://open.spotify.com/track/1IOn62t1Fs80TY4gY62fAh) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75), [Yaarrohs](https://open.spotify.com/artist/1j2rShn16JZPsBkQMmta8x) | [Broken](https://open.spotify.com/album/5NVnAh7AgcX9s1qAkfvhXw) | 4:03 |
 | 2 | [Underground \- Abstrakt Sonance Remix](https://open.spotify.com/track/3mODHK1VtKNJOCZ6F7TAY7) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp), [High Tara](https://open.spotify.com/artist/3AY3TKMf77gAK03Y2yPlOI) | [Underground \(Abstrakt Sonance Remix\)](https://open.spotify.com/album/6qWuUCE0dXYuT5lko0F4Fw) | 3:15 |
 | 3 | [Where I'm Going](https://open.spotify.com/track/1Xj0wD1Qhcsycc1W4Y5ifL) | [Zen Selekta](https://open.spotify.com/artist/35U1RcBFdxNezzySMgVVd3) | [Where I'm Going](https://open.spotify.com/album/15sAmxLmFlIHCYl50sPQ6W) | 3:53 |
-| 4 | [Descendo](https://open.spotify.com/track/15Er0c4Xm78iNQFlwdjqpT) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Descendo](https://open.spotify.com/album/59XLR9a1Td8OmglEaj63hE) | 3:32 |
+| 4 | [Terminal](https://open.spotify.com/track/6rXDUd6W1hn1PAEluvtmgH) | [Dominus](https://open.spotify.com/artist/7FhIV59gJWqj0nK49jRsf1) | [Terminal](https://open.spotify.com/album/2xFoza0HkxWq2X69R4rJhr) | 4:19 |
 | 5 | [Revive](https://open.spotify.com/track/79UD5yoL5Y1kVfG7o4USr8) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ), [Mah Ze Tar](https://open.spotify.com/artist/3t1vbZuEQhRqLTUKLraNDn) | [Immortals](https://open.spotify.com/album/6NyX2KnRzwp1zOK8s9JY53) | 3:46 |
 | 6 | [Immortals](https://open.spotify.com/track/2gSNgFzYBZMFzU7upbJIuU) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Immortals](https://open.spotify.com/album/6NyX2KnRzwp1zOK8s9JY53) | 3:46 |
 | 7 | [Eternal](https://open.spotify.com/track/5YVzXBX3kZEPNprKeGw4Yq) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Eternal](https://open.spotify.com/album/3g2RMZ1bw8e50PCG5X01nY) | 3:39 |
@@ -32,5 +32,8 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 22 | [Crestmoon](https://open.spotify.com/track/46laC2xpWtJSIBmFoFcpDm) | [Mungk](https://open.spotify.com/artist/24UUxM6HmNY61FJryfs7fk), [Ego Death](https://open.spotify.com/artist/3ylzaJJItjsKnPkvy87cZp) | [Sanskrit EP](https://open.spotify.com/album/6uGEF0BjZ08mAk7jqHPeGP) | 3:27 |
 | 23 | [Head Rearranger](https://open.spotify.com/track/7HSnE5WcCrebbcZWTnTiPg) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [Gallery Of Sound](https://open.spotify.com/album/78h5TmDIvJ6rBgLA3zOhoS) | 3:18 |
 | 24 | [Shake Junt](https://open.spotify.com/track/294cHNrHJPIfb5P6bmrgVf) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Snakes EP](https://open.spotify.com/album/63pVIy2B9lBCD5w2VknzzZ) | 4:13 |
+| 25 | [your armour will not protect me](https://open.spotify.com/track/6kV8M2ztarCdw9w872mj8v) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [your armour will not protect me](https://open.spotify.com/album/7HrT8nJ0eOyoqrqveBxVdn) | 2:10 |
+| 26 | [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 |
+| 27 | [Celestial Beings \- Halftime Version](https://open.spotify.com/track/14RFRGAaYuB332FMjfvLPR) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve), [yunis](https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g) | [Celestial Beings](https://open.spotify.com/album/35uN73pnha77AWEFb0iGQv) | 4:25 |
 
-Snapshot ID: `MjI1MSxiZDI4OGZmMGFhY2JhYWVkYjdhOTE0NWQ4ZWE1ZDhjYTkwNmY3OWE5`
+Snapshot ID: `MjI1Nyw1YzRkNjYxODNkMjQxZGRlYmE2YjNlNTZhODI4ZWRmYzAwMzJhNjdl`

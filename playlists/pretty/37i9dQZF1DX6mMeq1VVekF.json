@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Sainte & Cash Cobain",
-  "num_followers": 149938,
+  "num_followers": 150069,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmFlN2FhMzNiNWM5NmViNTlmN2ZjZmNhZjM3ZGNkMDRlMGJhMTMy",
+  "snapshot_id": "MCxjZGFhYWJmZDlkZWI0MmIyMjFkY2VjMTc1MjRmN2VkNmNkNmY4NmIw",
   "tracks": [
     {
       "added_at": "2023-08-18 08:12:16",
@@ -179,22 +179,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+        "name": "A Love Letter To You 5",
+        "url": "https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 307973,
-      "name": "Our 25th Birthday",
-      "url": "https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd"
+      "duration_ms": 168880,
+      "name": "Closed Doors (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -219,22 +219,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "A Love Letter To You 5",
-        "url": "https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg"
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         },
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 168880,
-      "name": "Closed Doors (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13"
+      "duration_ms": 307973,
+      "name": "Our 25th Birthday",
+      "url": "https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -555,6 +555,42 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "Quarter Past 3",
+      "url": "https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
         "name": "A N N I V E R S A R Y (Deluxe)",
         "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
       },
@@ -567,6 +603,42 @@
       "duration_ms": 188293,
       "name": "7:00",
       "url": "https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Local Mvp",
+        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Hunnids",
+      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "What's Poppin",
+        "url": "https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "What's Poppin",
+      "url": "https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -603,42 +675,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Local Mvp",
-        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
-      },
-      "artists": [
-        {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Hunnids",
-      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v"
-      },
-      "artists": [
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        },
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "Quarter Past 3",
-      "url": "https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "Los Pollos Hermanos",
         "url": "https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM"
       },
@@ -655,22 +691,18 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "What's Poppin",
-        "url": "https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam"
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
       "artists": [
         {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 195426,
-      "name": "What's Poppin",
-      "url": "https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu"
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -711,18 +743,18 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+        "name": "Booty Drop",
+        "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+      "duration_ms": 159560,
+      "name": "Booty Drop",
+      "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -747,22 +779,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "NO BONNIE N CLYDE",
-        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
-      },
-      "artists": [
-        {
-          "name": "KAHUKX",
-          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
-        }
-      ],
-      "duration_ms": 133400,
-      "name": "NO BONNIE N CLYDE",
-      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "Take Care of Yourself Blacko",
         "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
       },
@@ -775,6 +791,22 @@
       "duration_ms": 178340,
       "name": "SIMMER DOWN",
       "url": "https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "NO BONNIE N CLYDE",
+        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "duration_ms": 133400,
+      "name": "NO BONNIE N CLYDE",
+      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -1047,22 +1079,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 339906,
-      "name": "Don't Let Me Fall",
-      "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "SUMO",
         "url": "https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM"
       },
@@ -1075,34 +1091,6 @@
       "duration_ms": 180000,
       "name": "SUMO",
       "url": "https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
-        "name": "Tekky",
-        "url": "https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA"
-      },
-      "artists": [
-        {
-          "name": "Chip",
-          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        },
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        },
-        {
-          "name": "Krept",
-          "url": "https://open.spotify.com/artist/59u6HvxEwrOg7jrPhqxFWF"
-        }
-      ],
-      "duration_ms": 118386,
-      "name": "Tekky",
-      "url": "https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ"
     }
   ],
   "unique_name": "Free Form",

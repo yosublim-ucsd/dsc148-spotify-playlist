@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > Música para insubordinados\. Vondré en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,271 likes - 83 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,297 likes - 83 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 29 | [No Lo Tomes a Mal \- No Me Toques, Ando Chido](https://open.spotify.com/track/5msSzMdmacwuVhribYz5nG) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [No Lo Tomes a Mal \(No Me Toques, Ando Chido\)](https://open.spotify.com/album/2zVGlxmvIeDr4Ob8qItIQn) | 3:31 |
 | 30 | [Cochina Crop Top](https://open.spotify.com/track/4ScLWxzOMebsJ7TktbkePd) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Cochina Crop Top](https://open.spotify.com/album/1uVM0NzQXuTejFe1JKfvKq) | 2:31 |
 | 31 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 |
-| 32 | [Outro](https://open.spotify.com/track/0t1neSZWSIqtVHRxyYLWTO) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Outro](https://open.spotify.com/album/6bIYRN7ORcgvVf1CZ4BMmt) | 3:08 |
+| 32 | [Outro](https://open.spotify.com/track/3HFtCewZzBRxOESSqk1nVn) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 3:08 |
 | 33 | [i/O](https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70) | 3:15 |
 | 34 | [Viva la Muerte](https://open.spotify.com/track/3diPeeR8fI20qsVoUM3RuM) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Viva la Muerte \(Viva 2021\)](https://open.spotify.com/album/2sV9w7wqsnQ49uI43EnSc4) | 3:18 |
 | 35 | [Verde Pastel](https://open.spotify.com/track/1CWFgWVLWJEJ8JM0hBaGd7) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Limonada Rosa](https://open.spotify.com/album/3Gb7PPDBOwE7fXZqKhSVXI) | 2:13 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 82 | [Panteón](https://open.spotify.com/track/4stvgopAieFBf2zabV5BKf) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 1:35 |
 | 83 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 |
 
-Snapshot ID: `MCw5MjFlZTI0ZTAyOWRjODk1Mjk3MzExYjllYWE3ZjVhYThhN2ZkMWNl`
+Snapshot ID: `MCw4YjZkNmMxNDliNDBmZTQ2NDhkOGVjNWFlMDFlODIyZGQzYWM0M2Nm`

@@ -1,12 +1,12 @@
 {
   "description": "The African & West Indian diaspora united. Cover: Tyler ICU",
-  "num_followers": 295742,
+  "num_followers": 295800,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWRlZTAxNmU4MDVhNDZjZDRjYWI1YTU5ZWNkMTE4MjVkNDcwNjcw",
+  "snapshot_id": "MCw3ZDdkYzM5ZjA0NzA5NTcwZDdiYzQ0ZGIxNjFkODQzZjlhN2U2ZWM2",
   "tracks": [
     {
       "added_at": "2023-08-18 08:30:04",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-08-18 08:30:04",
       "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 155019,
+      "name": "Jinja",
+      "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
+    },
+    {
+      "added_at": "2023-08-18 08:30:04",
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
@@ -843,6 +859,26 @@
     {
       "added_at": "2023-08-18 08:30:04",
       "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ"
+    },
+    {
+      "added_at": "2023-08-18 08:30:04",
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -875,42 +911,6 @@
       "duration_ms": 197000,
       "name": "Kolomental",
       "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
-    },
-    {
-      "added_at": "2023-08-18 08:30:04",
-      "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 155019,
-      "name": "Jinja",
-      "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
-    },
-    {
-      "added_at": "2023-08-18 08:30:04",
-      "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Ole (feat. BNXN)",
-      "url": "https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ"
     },
     {
       "added_at": "2023-08-18 08:30:04",

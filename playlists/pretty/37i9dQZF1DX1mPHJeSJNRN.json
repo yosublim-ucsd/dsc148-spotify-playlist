@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13597,
+  "num_followers": 13596,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2E1ZjhmOTQwMTJlZWJhNmVkZGFhOTlhMDUzYTIwMWUzMDc1NDUw",
+  "snapshot_id": "MCxjOTIwY2Y2ZjhhNjEyYTFmMDM5Y2U0ODQ0ZjJjZGM3ODc3ZGI5ZGFl",
   "tracks": [
     {
       "added_at": "2023-08-17 06:56:40",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-08-17 06:56:40",
       "album": {
-        "name": "Sunset Bird",
-        "url": "https://open.spotify.com/album/5T8RbPb2QtCTkzYpeeRYqe"
-      },
-      "artists": [
-        {
-          "name": "Ola W Jansson",
-          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
-        },
-        {
-          "name": "W JAZZ TRIO",
-          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
-        }
-      ],
-      "duration_ms": 119887,
-      "name": "Sunset Bird",
-      "url": "https://open.spotify.com/track/64wBIhVs4h89Zd2jwuE1B1"
-    },
-    {
-      "added_at": "2023-08-17 06:56:40",
-      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "added_at": "2023-08-17 06:56:40",
+      "album": {
+        "name": "Sunset Bird",
+        "url": "https://open.spotify.com/album/5T8RbPb2QtCTkzYpeeRYqe"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "duration_ms": 119887,
+      "name": "Sunset Bird",
+      "url": "https://open.spotify.com/track/64wBIhVs4h89Zd2jwuE1B1"
     },
     {
       "added_at": "2023-08-17 06:56:40",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-08-17 06:56:40",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Here I'll Stay",
-      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
-    },
-    {
-      "added_at": "2023-08-17 06:56:40",
-      "album": {
         "name": "Moon Beams",
         "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 304466,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq"
+    },
+    {
+      "added_at": "2023-08-17 06:56:40",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Here I'll Stay",
+      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
     },
     {
       "added_at": "2023-08-17 06:56:40",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-17 06:56:40",
       "album": {
-        "name": "April In Paris: The Genius Of Charlie Parker #2",
-        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 214301,
-      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
-      "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
-    },
-    {
-      "added_at": "2023-08-17 06:56:40",
-      "album": {
         "name": "This Dream Of You",
         "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 220093,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/5xdgrltzlz2A5RH7VtShJx"
+    },
+    {
+      "added_at": "2023-08-17 06:56:40",
+      "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 214301,
+      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
+      "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
     },
     {
       "added_at": "2023-08-17 06:56:40",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-17 06:56:40",
       "album": {
-        "name": "The Sound the Rhythm",
-        "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
-      },
-      "artists": [
-        {
-          "name": "Jan Harbeck Quartet",
-          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
-        }
-      ],
-      "duration_ms": 444573,
-      "name": "Tangorrus Field",
-      "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
-    },
-    {
-      "added_at": "2023-08-17 06:56:40",
-      "album": {
         "name": "A Seasonal Thing...SPRING",
         "url": "https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2023-08-17 06:56:40",
       "album": {
-        "name": "Same Soul",
-        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
+        "name": "The Sound the Rhythm",
+        "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
       },
       "artists": [
         {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+          "name": "Jan Harbeck Quartet",
+          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
         }
       ],
-      "duration_ms": 240651,
-      "name": "Who Needs Paris",
-      "url": "https://open.spotify.com/track/5yA1ltXjiTkCaEvYi9nG8y"
+      "duration_ms": 444573,
+      "name": "Tangorrus Field",
+      "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
     },
     {
       "added_at": "2023-08-17 06:56:40",
@@ -939,6 +923,38 @@
       "duration_ms": 225520,
       "name": "Won't You Be My Neighbor",
       "url": "https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG"
+    },
+    {
+      "added_at": "2023-08-17 06:56:40",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 208391,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
+    },
+    {
+      "added_at": "2023-08-17 06:56:40",
+      "album": {
+        "name": "Same Soul",
+        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
+      },
+      "artists": [
+        {
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+        }
+      ],
+      "duration_ms": 240651,
+      "name": "Who Needs Paris",
+      "url": "https://open.spotify.com/track/5yA1ltXjiTkCaEvYi9nG8y"
     },
     {
       "added_at": "2023-08-17 06:56:40",
@@ -963,22 +979,6 @@
       "duration_ms": 346154,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80"
-    },
-    {
-      "added_at": "2023-08-17 06:56:40",
-      "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 208391,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
     },
     {
       "added_at": "2023-08-17 06:56:40",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-17 06:56:40",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 269856,
-      "name": "Promise of Spring",
-      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
-    },
-    {
-      "added_at": "2023-08-17 06:56:40",
-      "album": {
         "name": "Travelin'",
         "url": "https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 228403,
       "name": "On a Turquoise Cloud",
       "url": "https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs"
+    },
+    {
+      "added_at": "2023-08-17 06:56:40",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 269856,
+      "name": "Promise of Spring",
+      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
     },
     {
       "added_at": "2023-08-17 06:56:40",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-08-17 06:56:40",
       "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/57d7EP17867urAaj7vp3Tt"
+    },
+    {
+      "added_at": "2023-08-17 06:56:40",
+      "album": {
         "name": "It Happens Like That",
         "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2023-08-17 06:56:40",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/57d7EP17867urAaj7vp3Tt"
-    },
-    {
-      "added_at": "2023-08-17 06:56:40",
-      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 277866,
       "name": "Something 'bout the Rain",
       "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
-    },
-    {
-      "added_at": "2023-08-17 06:56:40",
-      "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
     },
     {
       "added_at": "2023-08-17 06:56:40",
@@ -1639,6 +1623,22 @@
       "duration_ms": 364626,
       "name": "Only Love Can Break Your Heart - Live",
       "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
+    },
+    {
+      "added_at": "2023-08-17 06:56:40",
+      "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
     },
     {
       "added_at": "2023-08-17 06:56:40",

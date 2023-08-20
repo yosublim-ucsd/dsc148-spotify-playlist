@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,765 songs - 3 day 22 hr 49 min
+1,766 songs - 3 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Best Of Me \(feat\. Dallas Smith\)](https://open.spotify.com/track/0ENxjYOmcON3vYqFkAWVWQ) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Best Of Me \(feat\. Dallas Smith\)](https://open.spotify.com/album/1GsUZtyhgT2Ho1CcGufHZO) | 4:00 | 2022-03-15 | 2022-03-17 |
 | [Better Be Good to Me \- 2015 Remaster](https://open.spotify.com/track/4N5HyZ1PlXuP6sryIa4hOQ) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 5:12 | 2023-05-26 | 2023-06-03 |
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-05 | 2022-09-12 |
+| [Between You & Me](https://open.spotify.com/track/16fnXtA8Uo7AV1bpQTfJws) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Between You & Me](https://open.spotify.com/album/6CQbXTn2PwRUuB6ohwIWjb) | 1:42 | 2023-08-19 |  |
 | [Beverly Hills](https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Beverly Hills](https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp) | 2:18 | 2021-12-31 | 2022-01-10 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-12-13 | 2022-12-28 |
 | [Big Boys](https://open.spotify.com/track/1b5y9c6KdLcLWzKX1dCFhU) | [cshsznxo!](https://open.spotify.com/artist/4ZSPh3z0AyE5XKFQqEH2YU) | [Big Boys](https://open.spotify.com/album/3fnpQVhNFfwH5BJyO1SZMl) | 2:58 | 2023-01-12 | 2023-01-22 |
@@ -674,7 +675,7 @@
 | [Hurts Me](https://open.spotify.com/track/0QnDrxQfXJIa8Tzr2pQwLp) | [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht), [Styrx](https://open.spotify.com/artist/0GN8ESzAOmWEc4tjr6bR52), [3ario](https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil) | [Hurts Me](https://open.spotify.com/album/3cXgzc1HnRRupfkcJXmbCs) | 2:16 | 2023-06-27 | 2023-07-01 |
 | [Hurts Me](https://open.spotify.com/track/6xsyuFNW7fbHVrUZ4MVm2t) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Hurts Me](https://open.spotify.com/album/2TzwTK3KL0Uhxjzs61t0Br) | 2:16 | 2023-07-07 | 2023-07-16 |
 | [Hurts Me](https://open.spotify.com/track/6jvMOuDD9ywNqCOyMdKZKo) | [Styrx](https://open.spotify.com/artist/0GN8ESzAOmWEc4tjr6bR52), [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht), [3ario](https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil) | [Hurts Me](https://open.spotify.com/album/0HYDgWv3XfAIMfWyAQEaPI) | 2:16 | 2023-06-30 | 2023-07-08 |
-| [Hurts Me](https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Hurts Me](https://open.spotify.com/album/5fMG2nwVGN3fBofLm9CB0x) | 2:20 | 2023-08-01 |  |
+| [Hurts Me](https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Hurts Me](https://open.spotify.com/album/5fMG2nwVGN3fBofLm9CB0x) | 2:20 | 2023-08-01 | 2023-08-20 |
 | [Hussan Illahi](https://open.spotify.com/track/3yIRuz28iurD1uJ2ND1R8S) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:20 | 2023-06-06 | 2023-06-28 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-23 | 2022-10-05 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-07 | 2022-08-03 |

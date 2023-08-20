@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-315 songs - 16 hr 22 min
+316 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Chop Life](https://open.spotify.com/track/64j2xnJweYeCQvycBGBmLR) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Chop Life](https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh) | 3:00 | 2023-04-20 | 2023-05-05 |
 | [CHUCULU \- Radio Edit](https://open.spotify.com/track/2xmnIFRxV0wO0AKAI8HHPL) | [Oksaf Mandela](https://open.spotify.com/artist/0Yk6OLWLq2cjIPljpYn3n1), [Jaxz Bond](https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X) | [CHUCULU \(Radio Edit\)](https://open.spotify.com/album/2ecXzVFVxLDAcZOPfXkzZi) | 3:25 | 2022-06-23 | 2022-07-28 |
 | [Close Am](https://open.spotify.com/track/0GUwRRC0lE53Hrx5cqRw4S) | [Sheye Banks](https://open.spotify.com/artist/00LOJMXU6GdbTX8cA0RvJr) | [Close Am](https://open.spotify.com/album/5K4pHBWaJpYCh0DtgikpDS) | 2:04 | 2022-02-03 | 2022-07-28 |
-| [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-30 |  |
+| [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-30 | 2023-08-20 |
 | [Comment Allez Vous](https://open.spotify.com/track/31rkhdlOuZLNpNseZHPbXS) | [Gerian](https://open.spotify.com/artist/07DL9OVC5jPi0d29RsF7xq), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ) | [Comment Allez Vous](https://open.spotify.com/album/3O2folrgcbs5AktzGNpVUr) | 2:37 | 2022-04-28 | 2022-07-26 |
 | [Concussion](https://open.spotify.com/track/4WJaHwTA2AEveZJxycUUyp) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn) | [Concussion](https://open.spotify.com/album/01L0fw4AWHmnE7nAJmhAL9) | 2:37 | 2023-06-30 | 2023-07-20 |
 | [Cough](https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Cough](https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx) | 2:57 | 2023-07-20 |  |
@@ -234,6 +234,7 @@
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 | 2023-06-10 |
 | [Peace of Mind](https://open.spotify.com/track/7grcWNFVuikupo8Q4hJ9E8) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peace of Mind](https://open.spotify.com/album/2JVeQNTDzn9CePwaPqiS01) | 2:51 | 2023-06-30 |  |
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-10 |  |
+| [Peppermint](https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peppermint](https://open.spotify.com/album/7H6BmqqRtsDXzdntW3tY7C) | 2:22 | 2023-08-17 |  |
 | [Peru \- Remix](https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Peru \(Remix\)](https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md) | 3:06 | 2022-02-11 | 2023-02-24 |
 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 | 2023-06-09 | 2023-06-17 |
 | [Polongo](https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE) | [Polongo](https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa) | 2:53 | 2022-07-14 | 2023-03-19 |

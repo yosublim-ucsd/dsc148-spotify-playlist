@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-352 songs - 1 day 1 hr 39 min
+353 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Make Believe Mambo](https://open.spotify.com/track/74V0PhSWlBtHvBQAMYMgsX) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Rei Momo](https://open.spotify.com/album/2JQU5ZvGycMsa7gITyaGb6) | 5:23 | 2023-07-10 |  |
 | [Mama África](https://open.spotify.com/track/4S18cCp2R0Z0SdbCwNC4ZL) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:34 | 2023-07-10 |  |
 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2023-07-10 |  |
-| [Mario Miguel](https://open.spotify.com/track/0fkjBZ4EO2OSsWUufd2chx) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Mario Miguel](https://open.spotify.com/album/15xLvUZmh6Lz6WvHh3h3PK) | 3:36 | 2023-07-10 |  |
+| [Mario Miguel](https://open.spotify.com/track/0fkjBZ4EO2OSsWUufd2chx) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Mario Miguel](https://open.spotify.com/album/15xLvUZmh6Lz6WvHh3h3PK) | 3:36 | 2023-07-10 | 2023-08-20 |
 | [Medcezir](https://open.spotify.com/track/1Pd3EASeP8JwbySp3cjN1H) | [Levent Yüksel](https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2) | [Med Cezir](https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO) | 4:33 | 2023-07-10 |  |
 | [Mentira](https://open.spotify.com/track/59hH7GJFrSd5v9FwgSZEw8) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 4:37 | 2023-07-10 |  |
 | [Milambi](https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Milambi](https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q) | 3:13 | 2023-07-10 |  |
@@ -333,6 +333,7 @@
 | [Trocitos de Madera](https://open.spotify.com/track/3DdAqXVMsW6D42ZyFImvUy) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/5pAJASef6SxMTZlm1eWHxH) | 4:35 | 2023-07-10 |  |
 | [Trust In Me](https://open.spotify.com/track/6htqZpvuPZGybVtNgmJj8J) | [Susheela Raman](https://open.spotify.com/artist/3uSVvh3bPDq5XMTHElgfC2) | [Salt Rain](https://open.spotify.com/album/2oCSrobEfBAwDBwRMJ7UWY) | 3:24 | 2023-07-10 |  |
 | [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Udhero Na](https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe) | 5:03 | 2023-07-10 |  |
+| [Uman](https://open.spotify.com/track/2FlnkloBvP7zEbzWzd4Pxd) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Uman](https://open.spotify.com/album/1M94nzk1ZJN8hcmcuxZRzj) | 5:12 | 2023-07-10 |  |
 | [Un Canto a Mi Tierra](https://open.spotify.com/track/3GTStXoQrapL8pMjrTXev0) | [Quantic and His Combo Barbaro](https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tradition in Transition](https://open.spotify.com/album/5hWsR84rqxZyLsm9VeLWlB) | 5:04 | 2023-07-10 |  |
 | [Un Tabaco Para Elegua](https://open.spotify.com/track/36ze6Z2Rujkoi4dGeal9NW) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Orquesta Akokán](https://open.spotify.com/album/26KJcVm7G2spS5bLXB1BAw) | 5:35 | 2023-07-10 |  |
 | [Una Música Brutal](https://open.spotify.com/track/6Xnri87uPZrNCYfo3rCIWG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La Revancha Del Tango](https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo) | 4:11 | 2023-07-10 |  |

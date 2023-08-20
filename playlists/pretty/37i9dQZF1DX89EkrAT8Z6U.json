@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 545556,
+  "num_followers": 546352,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWMzMjU0NGE5Yjk0YzUzYzQ4MzU5YmM2NDRmZjE3ZjI1MmZkYTkz",
+  "snapshot_id": "MCxlMTY2ODhlYmNkM2Y1MzlkZDg3MDJhMDk3MWUyYjljZjk1MTM2Mzg5",
   "tracks": [
     {
       "added_at": "2023-07-13 15:18:57",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "WET DREAMS (w/ Nimstarr)",
+        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+        }
+      ],
+      "duration_ms": 124711,
+      "name": "WET DREAMS (w/ Nimstarr)",
+      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "Hexada",
         "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 134769,
       "name": "Hate.",
       "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "WET DREAMS (w/ Nimstarr)",
-        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
-        }
-      ],
-      "duration_ms": 124711,
-      "name": "WET DREAMS (w/ Nimstarr)",
-      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -781,26 +781,6 @@
       "url": "https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch"
     },
     {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "2K FREESTYLE",
-        "url": "https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm"
-      },
-      "artists": [
-        {
-          "name": "Lazy3x",
-          "url": "https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI"
-        },
-        {
-          "name": "Lil Darkie",
-          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "2K FREESTYLE",
-      "url": "https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF"
-    },
-    {
       "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Nightmare on Peachtree Street (feat. Freddie Dredd)",
@@ -827,6 +807,26 @@
       "duration_ms": 192989,
       "name": "Nightmare on Peachtree Street (feat. Freddie Dredd)",
       "url": "https://open.spotify.com/track/1iSNk5qM7aScyTL3508KQ6"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "2K FREESTYLE",
+        "url": "https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm"
+      },
+      "artists": [
+        {
+          "name": "Lazy3x",
+          "url": "https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI"
+        },
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "2K FREESTYLE",
+      "url": "https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "Kujo Freestyle",
+        "url": "https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx"
+      },
+      "artists": [
+        {
+          "name": "Sinoda",
+          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
+        }
+      ],
+      "duration_ms": 115099,
+      "name": "Kujo Freestyle",
+      "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "Blood (Alucard Rap)",
         "url": "https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 160161,
       "name": "C'est La Vie (with bbno$ & Rich Brian)",
       "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "Kujo Freestyle",
-        "url": "https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx"
-      },
-      "artists": [
-        {
-          "name": "Sinoda",
-          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
-        }
-      ],
-      "duration_ms": 115099,
-      "name": "Kujo Freestyle",
-      "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "MK Plus Ultra",
-        "url": "https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg"
-      },
-      "artists": [
-        {
-          "name": "do not resurrect",
-          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
-        }
-      ],
-      "duration_ms": 130914,
-      "name": "MK Plus Ultra",
-      "url": "https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
         "url": "https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop"
       },
@@ -1299,22 +1283,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "SHOTGUN",
-        "url": "https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4"
+        "name": "MK Plus Ultra",
+        "url": "https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg"
       },
       "artists": [
         {
-          "name": "SXULCVTCHER",
-          "url": "https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+          "name": "do not resurrect",
+          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
         }
       ],
-      "duration_ms": 86400,
-      "name": "SHOTGUN",
-      "url": "https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3"
+      "duration_ms": 130914,
+      "name": "MK Plus Ultra",
+      "url": "https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1339,18 +1319,38 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "MAMBO",
-        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
+        "name": "SHOTGUN",
+        "url": "https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4"
       },
       "artists": [
         {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+          "name": "SXULCVTCHER",
+          "url": "https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
         }
       ],
-      "duration_ms": 127925,
-      "name": "MAMBO",
-      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
+      "duration_ms": 86400,
+      "name": "SHOTGUN",
+      "url": "https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "Bars No Jutsu",
+        "url": "https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT"
+      },
+      "artists": [
+        {
+          "name": "Louis Capone",
+          "url": "https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu"
+        }
+      ],
+      "duration_ms": 148642,
+      "name": "Bars No Jutsu",
+      "url": "https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae"
     }
   ],
   "unique_name": "sh\u014dnen",

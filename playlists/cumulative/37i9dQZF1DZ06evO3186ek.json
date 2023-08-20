@@ -579,6 +579,32 @@
     },
     {
       "album": {
+        "name": "God Problems",
+        "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590857,
+      "name": "God Problems",
+      "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
+    },
+    {
+      "album": {
         "name": "Milk & Honey",
         "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
       },

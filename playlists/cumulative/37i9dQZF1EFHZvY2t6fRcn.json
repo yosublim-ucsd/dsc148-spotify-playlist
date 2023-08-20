@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159242,
+      "name": "What You Wanna Try",
+      "url": "https://open.spotify.com/track/526fD9LiAEi3KKvhhYfWmm"
+    },
+    {
+      "album": {
         "name": "When It's Too Good",
         "url": "https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL"
       },

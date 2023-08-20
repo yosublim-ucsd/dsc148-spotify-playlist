@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,390 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,436 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 10 | [Two Bugs and a Roach](https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 4:19 |
 | 11 | [Back Door Man](https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:53 |
 | 12 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
-| 13 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 |
-| 14 | [She's Fine](https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW) | [A.C\. Reed](https://open.spotify.com/artist/1i31XKLddtEeOIr0nPcxdj) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:18 |
+| 13 | [She's Fine](https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW) | [A.C\. Reed](https://open.spotify.com/artist/1i31XKLddtEeOIr0nPcxdj) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:18 |
+| 14 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 |
 | 15 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
 | 16 | [Sittin' On Top Of The World](https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k) | [Eddie Shaw](https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO) | [Living Chicago Blues, Vol\. 1](https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu) | 3:42 |
 | 17 | [I Can't Quit You, Baby](https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 6:40 |
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 22 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 | 23 | [Lonesome Bedroom Blues](https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Blowin' Like Hell](https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp) | 5:45 |
 | 24 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
-| 25 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
+| 25 | [Drown In My Own Tears](https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG) | [Lacy Gibson](https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:40 |
 | 26 | [The Little Red Rooster](https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 3:36 |
-| 27 | [Drown In My Own Tears](https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG) | [Lacy Gibson](https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe) | [Living Chicago Blues, Vol\. 3](https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4) | 4:40 |
-| 28 | [Rock Me Baby](https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC) | [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL) | [The Sonet Blues Story](https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY) | 3:58 |
+| 27 | [Rock Me Baby](https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC) | [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL) | [The Sonet Blues Story](https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY) | 3:58 |
+| 28 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
 | 29 | [Call My Wife](https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1) | [Linsey Alexander](https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan) | [Come Back Baby](https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb) | 4:47 |
 | 30 | [They call me the snake](https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx) | [Luther "Snake Boy" Johnson](https://open.spotify.com/artist/0K2EuGHCPWyC0UK91mapEM) | [They call me the snake](https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU) | 5:37 |
 | 31 | [Everything's Gonna Be All Right](https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 4:39 |
 | 32 | [Worry, Worry](https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3) | [Johnny "Big Moose" Walker](https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU) | [Living Chicago Blues, Vol\. 2](https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R) | 4:16 |
 | 33 | [Gotta Move On](https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg) | [Eddy Clearwater](https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS) | [West Side Strut](https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k) | 4:40 |
-| 34 | [Kold Actions](https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Hot Wire 81 \(feat\. Richard Kirch, Sylvester Boines, Jimmy Schutte\) \[Blues Power\]](https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS) | 7:17 |
-| 35 | [Driving Wheel](https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC) | [Johnny Laws](https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6) | [Blues Burnin' In My Soul](https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY) | 3:53 |
+| 34 | [Driving Wheel](https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC) | [Johnny Laws](https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6) | [Blues Burnin' In My Soul](https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY) | 3:53 |
+| 35 | [Kold Actions](https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Hot Wire 81 \(feat\. Richard Kirch, Sylvester Boines, Jimmy Schutte\) \[Blues Power\]](https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS) | 7:17 |
 | 36 | [Ain't Times Hard](https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu) | [Nick Moss & The Flip Tops](https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk), [Barrelhouse Chuck](https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO), [Kate Moss](https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269) | [Count Your Blessings](https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl) | 4:01 |
 | 37 | [Lonesome Blues](https://open.spotify.com/track/4SP7Fdwo42okQx8dzWJYjM) | [Johnny B\. Moore](https://open.spotify.com/artist/1FIws8DXI9Bfv29LBhcRWX) | [Lonesome Blues](https://open.spotify.com/album/04EOFvLpk32AFaI2TrwzrP) | 7:23 |
 | 38 | [Little Red Rooster](https://open.spotify.com/track/3dwWMDLZlZxtkvTjVA5J1Z) | [Aron Burton](https://open.spotify.com/artist/5MtZAGnIXaVV2GaVkSFXxb) | [Aron Burton Live](https://open.spotify.com/album/7h72Z9ynR6pYW7zhGlbChV) | 6:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [Big Town Playboy](https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [Chess Blues](https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi) | 2:57 |
 | 50 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 
-Snapshot ID: `MCwzZmE5NWU4Yzc3OTRjZDkyNjMzN2ZjOWJmY2I3OGQ0NGJlZmMyMzdm`
+Snapshot ID: `MCxhOWRlZDU4YzhjMjEyMzMwYmNjMzU0MmU0YTNjZDZkNGNmZmY0MzFl`

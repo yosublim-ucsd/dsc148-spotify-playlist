@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 177977,
       "name": "Anti-todo",
       "url": "https://open.spotify.com/track/1UBLpmwFqty3My4THs0Yx5"
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 177728,
       "name": "CHIQUITA",
       "url": "https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD"
@@ -3734,7 +3734,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 137093,
       "name": "DIVA",
       "url": "https://open.spotify.com/track/3i6p7Lc6GSdhXBy8VEXEea"
@@ -4098,6 +4098,28 @@
       "duration_ms": 191489,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp"
+      },
+      "artists": [
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU"
     },
     {
       "album": {
@@ -10945,6 +10967,32 @@
     },
     {
       "album": {
+        "name": "Podemos Repetirlo (Remix)",
+        "url": "https://open.spotify.com/album/3UmFOFNVmfzGI6NKJkUImG"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280868,
+      "name": "Podemos Repetirlo (Remix)",
+      "url": "https://open.spotify.com/track/6AkCPRgpyt2jMF3RGjzJsw"
+    },
+    {
+      "album": {
         "name": "POLARIS (Remix)",
         "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
       },
@@ -13258,7 +13306,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 147224,
       "name": "te kiero ver",
       "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
@@ -13296,6 +13344,28 @@
       "duration_ms": 325174,
       "name": "Te Veo Bailar (feat. Brray & Alejandro Armes)",
       "url": "https://open.spotify.com/track/3CerlljsJSVaRrzESJQVWU"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107906,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM"
     },
     {
       "album": {
@@ -14042,6 +14112,24 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "album": {
+        "name": "Tus Labios",
+        "url": "https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175662,
+      "name": "Tus Labios",
+      "url": "https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 193928,
+  "num_followers": 194031,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGQwZDNiN2RmMzJlZDM4ODc3OTExZWExNDVjMjE4YjM4ZmRjMjg1",
+  "snapshot_id": "MCwxZTdhZjQ3MDA4NDcwYzM3NDIxNzQ1ZDRhNjI3OWNkM2Q0YTQ1ZjM0",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "What Doesn't Kill You Will Make You Stronger",
-        "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
-      },
-      "artists": [
-        {
-          "name": "Candiria",
-          "url": "https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Sound Of The Republic",
         "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 212573,
       "name": "You Ignore Them All",
       "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "What Doesn't Kill You Will Make You Stronger",
+        "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
+      },
+      "artists": [
+        {
+          "name": "Candiria",
+          "url": "https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp"
+        }
+      ],
+      "duration_ms": 196720,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -763,22 +763,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Get It Away",
-        "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
-      },
-      "artists": [
-        {
-          "name": "SS Decontrol",
-          "url": "https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a"
-        }
-      ],
-      "duration_ms": 78099,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Bulldog Edition",
         "url": "https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 144413,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/4XMYrzvwERu7QdF4lMSOv7"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Get It Away",
+        "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
+      },
+      "artists": [
+        {
+          "name": "SS Decontrol",
+          "url": "https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a"
+        }
+      ],
+      "duration_ms": 78099,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp"
     },
     {
       "added_at": "2020-12-08 15:12:11",

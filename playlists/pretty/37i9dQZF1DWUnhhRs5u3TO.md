@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,005 likes - 75 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,155 likes - 75 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 13 | [Locust](https://open.spotify.com/track/2A9BLDVuT6lfbRK3ZKBCFz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 7:36 |
 | 14 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
 | 15 | [Sail](https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Winter Kills \(Deluxe Version\)](https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P) | 4:06 |
-| 16 | [Lift Me Up](https://open.spotify.com/track/3EO0js63QHQQPqJt1TgBLQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:06 |
+| 16 | [Lift Me Up](https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 4:06 |
 | 17 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 |
 | 18 | [Addicted To Pain](https://open.spotify.com/track/74ODL6xFR2erTu2mvXFIDz) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Fortress](https://open.spotify.com/album/3oMt2cUO9IIttONwd6eHRO) | 4:16 |
 | 19 | [For The Swarm](https://open.spotify.com/track/0fHRW92VQHzEcvNqqx1tFQ) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Feathers & Flesh](https://open.spotify.com/album/6Phs3MTLtVe5GLwgfaNzYJ) | 1:54 |
 | 20 | [The Pale King](https://open.spotify.com/track/5SEXNeCl0i7Gzkw4kc9ln6) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Brotherhood of the Snake](https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu) | 4:51 |
 | 21 | [No Grave but the Sea](https://open.spotify.com/track/5ZOCDXK5pMJ3n3zBPTp1uT) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [No Grave but the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS) | 3:29 |
 | 22 | [RISE](https://open.spotify.com/track/46QdfDL0LnGlHLKmREiXP5) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:14 |
-| 23 | [Wrong Side of Heaven](https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:31 |
+| 23 | [Wrong Side of Heaven](https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7) | 4:31 |
 | 24 | [Breakin' Outta Hell](https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd) | 3:52 |
 | 25 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
 | 26 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 74 | [Sorceress](https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Sorceress](https://open.spotify.com/album/2GNdgq3pIVLYZoNK4wJtCP) | 5:49 |
 | 75 | [O Father O Satan O Sun!](https://open.spotify.com/track/5KzMpwYY3TPyZKQk9pgJ1k) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS) | 7:13 |
 
-Snapshot ID: `MCw5YTE3ODMwZTMzYzc3MjdhN2FlNDkxNmM2Y2FlYjQxMTA4NDk5YzZm`
+Snapshot ID: `MCwyZWNiNmViOGQxNjRkNDU0NjgwOWY0YzdhM2NjNzBkMjNiYWQ2YjJh`

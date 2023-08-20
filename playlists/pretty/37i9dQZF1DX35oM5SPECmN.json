@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2417151,
+  "num_followers": 2417122,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzA4MGU2NjMzZjRjZTI3Y2IwMzM5NTljZjcwYmE5NzA2YzQwYjcy",
+  "snapshot_id": "MCw4ZGNhYzJkMzVlMTg3NDgzOGI4ZGU3ODcxY2FlNzUwZTI3NzQ3NTYz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Bears & Bulls",
-        "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
-      },
-      "artists": [
-        {
-          "name": "The Stone Foxes",
-          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
-        }
-      ],
-      "duration_ms": 110293,
-      "name": "Stomp",
-      "url": "https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "2030",
         "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 209711,
       "name": "Coast",
       "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Bears & Bulls",
+        "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
+      },
+      "artists": [
+        {
+          "name": "The Stone Foxes",
+          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
+        }
+      ],
+      "duration_ms": 110293,
+      "name": "Stomp",
+      "url": "https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 157133,
       "name": "I NEED YOU",
       "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+        "name": "Shaken By A Low Sound",
+        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
       },
       "artists": [
         {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
         }
       ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+      "duration_ms": 201506,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
       "artists": [
         {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
         }
       ],
-      "duration_ms": 201506,
-      "name": "Ain't No Grave",
-      "url": "https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS"
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR"
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/3HJ5NJAWtxLPAru4wGGN7A"
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1131,6 +1115,22 @@
       "duration_ms": 235226,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/3HJ5NJAWtxLPAru4wGGN7A"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "By The Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 262866,
       "name": "Hold Out Your Hand",
       "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Consider Me A Winner",
-        "url": "https://open.spotify.com/album/7svvOtzleUABvi2XYEUBp9"
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
       },
       "artists": [
         {
-          "name": "Emma Ogier",
-          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
         }
       ],
-      "duration_ms": 163317,
-      "name": "Consider Me A Winner",
-      "url": "https://open.spotify.com/track/1AkQLyWEC52Y6JCfcBNU7m"
+      "duration_ms": 300960,
+      "name": "My Love Took Me Down To the River To Silence Me",
+      "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
     }
   ],
   "unique_name": "Run Wild",

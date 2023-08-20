@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,456 likes - 174 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,513 likes - 174 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 112 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
 | 113 | [Do It Again](https://open.spotify.com/track/1M0R8wiivM8HqsxMEk5BcS) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Dream State](https://open.spotify.com/album/43nVY2OnjsaYqvBcHLVDQN) | 3:20 |
 | 114 | [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 |
-| 115 | [Eva](https://open.spotify.com/track/06WWnCfoJveGUvYQWK7nGf) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 5:44 |
+| 115 | [Eva](https://open.spotify.com/track/06WWnCfoJveGUvYQWK7nGf) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 5:46 |
 | 116 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
 | 117 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 |
 | 118 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 4:02 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 173 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 |
 | 174 | [MY HOUSE](https://open.spotify.com/track/6sZzLJkAHCbSkbqLdUFT6Q) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [MY HOUSE / BLEAK](https://open.spotify.com/album/3YKs6Hoq25I2tqZjSP56qU) | 4:02 |
 
-Snapshot ID: `MCwzNmZkYTYyM2Y5ODg3NGM2NDkzOWY2NDA2YTA2MmRhMTI2ZWExMzVk`
+Snapshot ID: `MCwyOTk2NmRjNDk1NmNkN2M3MjhiMTNmMjM4MWJmZGU0YTE1YTY2NjFh`

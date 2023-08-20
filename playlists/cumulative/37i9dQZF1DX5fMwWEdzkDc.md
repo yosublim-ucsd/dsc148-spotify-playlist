@@ -4,7 +4,7 @@
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-121 songs - 7 hr 45 min
+122 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [10 Minutes](https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [Stylish…](https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b) | 3:56 | 2021-03-11 |  |
 | [1Tym](https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [One Time For Your Mind](https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT) | 3:30 | 2021-03-11 |  |
 | [8282](https://open.spotify.com/track/7y4oE4ATKrE9XIM9XSeyQN) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Davichi In Wonderland](https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo) | 3:39 | 2021-03-11 |  |
-| [A Better Day](https://open.spotify.com/track/0TpJgjTSFekS05ZyQFIUzp) | [JTL](https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC) | [Enter The Dragon](https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR) | 4:06 | 2021-03-11 |  |
+| [A Better Day](https://open.spotify.com/track/0TpJgjTSFekS05ZyQFIUzp) | [JTL](https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC) | [Enter The Dragon](https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR) | 4:06 | 2021-03-11 | 2023-08-20 |
 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 | 2021-03-11 |  |
 | [An old love story](https://open.spotify.com/track/4jknyio1tolPfGu539fE87) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Beautiful Mind](https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L) | 3:54 | 2021-03-11 |  |
 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 | 2021-03-11 |  |
@@ -42,6 +42,7 @@
 | [I Think I](https://open.spotify.com/track/0pX0UlYC2G7no9I8fl43XK) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [Star](https://open.spotify.com/album/1ig2IUSFPtdxlAE9NmVXq8) | 3:59 | 2021-03-11 | 2023-08-06 |
 | [I Think I](https://open.spotify.com/track/4qz9vMynxvG647kcm19B28) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [Star](https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4) | 3:59 | 2021-03-11 |  |
 | [I Want To Fall In Love](https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [I Want To Fall In Love](https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV) | 3:52 | 2021-03-11 |  |
+| [I Wonder If You Hurt Like Me](https://open.spotify.com/track/4F8uRvGWed562OyAB2tBja) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [F.Scott Fitzgerald's Way Of Love](https://open.spotify.com/album/1CZPjxxCPflMkO5c1brcPb) | 3:48 | 2021-03-11 |  |
 | [I'm Sorry \(Feat\. T.O.P\)](https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [T.O.P.](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [Comfort](https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP) | 3:56 | 2021-03-11 |  |
 | [Ice Cream](https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 3:36 | 2021-03-11 |  |
 | [It′s Raining](https://open.spotify.com/track/3mBNDtEiA1bLDYro9glUR5) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/45ngiRidCweoSOwjcSsj0A) | 3:40 | 2021-03-11 |  |

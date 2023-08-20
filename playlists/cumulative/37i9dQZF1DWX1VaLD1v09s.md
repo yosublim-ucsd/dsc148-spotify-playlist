@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-472 songs - 1 day 14 hr 49 min
+473 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Afraid To Say \(feat\. Lauren Walters\)](https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lauren Walters](https://open.spotify.com/artist/7q4d6AQkUPNfmZzBhzfnNt) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:22 | 2022-04-02 | 2022-04-21 |
 | [Agnus Dei](https://open.spotify.com/track/1N9SysNAP8j4wbAIHzlM9m) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Decades of Worship](https://open.spotify.com/album/6svPaewhKWrqIRW3DgbrOC) | 6:57 | 2022-04-02 |  |
 | [Agnus Dei / King Of Kings](https://open.spotify.com/track/0ar77SmMUtj04pFWKSHFSt) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [At Easter](https://open.spotify.com/album/6XzwtfJOB0jf9FQDUw4cnN) | 6:42 | 2021-04-04 | 2022-07-29 |
-| [Alive](https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Alive](https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i) | 3:25 | 2021-04-04 |  |
+| [Alive](https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Alive](https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i) | 3:25 | 2021-04-04 | 2023-08-20 |
 | [Alive \(from The Story\)](https://open.spotify.com/track/2G8g23AYWGJnxZgwpEa9lE) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 5:06 | 2021-04-04 | 2022-07-23 |
 | [Alive \(Mary Magdalene\)](https://open.spotify.com/track/6JfcyN6xlcJWXTHfFGjcSd) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Music Inspired By The Story](https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg) | 5:05 | 2021-04-04 | 2022-06-24 |
 | [Alive In You \- Studio Version](https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Alive In You \(Studio Version\)](https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH) | 3:59 | 2021-04-04 | 2022-04-21 |
@@ -471,6 +471,7 @@
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2021-04-04 | 2023-04-03 |
 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 | 2021-04-04 | 2022-07-24 |
 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 | 2023-04-02 |  |
+| [You're Bigger](https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL) | 7:26 | 2023-04-09 |  |
 | [You're Bigger](https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY) | 7:26 | 2022-04-02 | 2023-07-21 |
 | [You've Done The Rest](https://open.spotify.com/track/0h7G9HZb5KIfSLjaSXk9C8) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [7](https://open.spotify.com/album/2g1SAILgSY5GB70zgYarni) | 6:56 | 2021-04-04 | 2022-07-23 |
 | [Your Cross Changes Everything \- Live](https://open.spotify.com/track/5NeOYscalL8Nu1dwjxPiFz) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 5:30 | 2022-04-02 | 2022-04-21 |

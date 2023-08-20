@@ -4,7 +4,7 @@
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-86 songs - 6 hr 52 min
+87 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 | 2022-06-10 |  |
 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 | 2022-06-10 |  |
 | [Bla Bla Bla](https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:15 | 2022-06-10 |  |
-| [Café Del Mar \- Three 'n One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 | 2022-06-10 |  |
+| [Café Del Mar \- Three 'N One Radio Edit](https://open.spotify.com/track/2w9Yfj0FcyKcPCIkzsRSwD) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar \(The Anthems Edits\)](https://open.spotify.com/album/0LHBQ8so2kllbgWjfBk7tY) | 3:49 | 2022-06-10 |  |
+| [Café Del Mar \- Three 'n One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 | 2022-06-10 | 2023-08-20 |
 | [Carte Blanche \- Original Mix](https://open.spotify.com/track/1Dyvne4MdeiQ75teY5m7jg) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Carte Blanche](https://open.spotify.com/album/3hJn9OKHO4ab5j9qOZM9UF) | 7:04 | 2022-06-10 |  |
 | [Castles In The Sky \- Radio Mix](https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ), [Marsha](https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y) | [Castles In The Sky](https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL) | 3:47 | 2022-06-10 |  |
 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 | 2022-06-10 |  |

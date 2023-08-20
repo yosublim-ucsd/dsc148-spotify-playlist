@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Becky G au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,173,983 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,174,497 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 50 | [Nouvelles](https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:59 |
 
-Snapshot ID: `MCxiYzMwMTg3Y2Q2YjcwNDNkYmUyNWMyMGNkYTFlMTE0ZmE2M2I4NjI5`
+Snapshot ID: `MCw3NWE2MDM0NDkxZmQ0ZDZjMTViYzc1ZGM3YmVjYjQzNzc3NzEyNDY2`

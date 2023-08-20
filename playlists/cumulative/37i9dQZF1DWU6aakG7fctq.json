@@ -4278,7 +4278,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 199786,
       "name": "Memorias",
       "url": "https://open.spotify.com/track/10lioNEUsuH1Jk3qDTsGCA"
@@ -6224,7 +6224,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 211922,
       "name": "Regresar",
       "url": "https://open.spotify.com/track/0Y2KKM5DsuEZOeSVdSFgGJ"
@@ -6604,7 +6604,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 191924,
       "name": "Si Volviera A Conocerte",
       "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"
@@ -7142,6 +7142,28 @@
       "duration_ms": 166956,
       "name": "Te necesito everywhere",
       "url": "https://open.spotify.com/track/4cLZmzNCVnjROyOD8JbqKO"
+    },
+    {
+      "album": {
+        "name": "Te Odio",
+        "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213956,
+      "name": "Te odio",
+      "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
     },
     {
       "album": {

@@ -960,7 +960,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 193791,
       "name": "Destructive",
       "url": "https://open.spotify.com/track/0yDaLhw5vGnS5V4EaJyEFu"
@@ -2068,6 +2068,24 @@
       "duration_ms": 140973,
       "name": "KEEP IT",
       "url": "https://open.spotify.com/track/2WUoFcxvDYAsjKKI3pKWa5"
+    },
+    {
+      "album": {
+        "name": "Keep on Gettin It",
+        "url": "https://open.spotify.com/album/4UgxkUOeLoLmAovFdAKSav"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158143,
+      "name": "Keep on Gettin It",
+      "url": "https://open.spotify.com/track/06TbA8MtNeWZ7HKZlToTqw"
     },
     {
       "album": {
@@ -3211,6 +3229,28 @@
     },
     {
       "album": {
+        "name": "PROBLEM SOLVER (feat. Boosie Badazz)",
+        "url": "https://open.spotify.com/album/6pVcnrOSDmOgABZvzKOfxC"
+      },
+      "artists": [
+        {
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "PROBLEM SOLVER (feat. Boosie Badazz)",
+      "url": "https://open.spotify.com/track/1B2BxeaI10RhzDwfJvbV7k"
+    },
+    {
+      "album": {
         "name": "Propeller (feat. Dave & BNXN)",
         "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
@@ -3412,7 +3452,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 147239,
       "name": "Send a Blitz",
       "url": "https://open.spotify.com/track/5g9fY0Y3u6fz1gXkzh8MEm"
@@ -3594,6 +3634,24 @@
       "duration_ms": 179944,
       "name": "something worth working on",
       "url": "https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5"
+    },
+    {
+      "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
     },
     {
       "album": {
@@ -4104,7 +4162,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 156902,
       "name": "UH HUH (feat. Tay Money)",
       "url": "https://open.spotify.com/track/7uoFImyxzGwMH1aSkYQrGU"

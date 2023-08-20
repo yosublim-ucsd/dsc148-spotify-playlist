@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Beauty School Dropout
 
-1,718 songs - 3 day 18 hr 16 min
+1,719 songs - 3 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1196,7 +1196,8 @@
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-09-23 | 2022-10-15 |
 | [quicksand](https://open.spotify.com/track/4DCOB50S9PAUQlCW3nPcLA) | [Dead Lakes](https://open.spotify.com/artist/0e14x1G9pTcCmLLzkFDhE0) | [daydreamer](https://open.spotify.com/album/7MMD03ebDqfnFhSSDkCyoF) | 3:51 | 2023-03-31 | 2023-04-15 |
 | [Quitter](https://open.spotify.com/track/3npfbIcnm5abhKJOij4drN) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Quitter](https://open.spotify.com/album/1IKphIpjbnypIId4buiW9y) | 2:27 | 2023-04-14 | 2023-06-03 |
-| [Racecar](https://open.spotify.com/track/76pfVPGA4aLABgTmxIECdy) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Racecar](https://open.spotify.com/album/23hXAexOyAYC7ib8DBqNnu) | 3:09 | 2023-08-11 |  |
+| [Racecar](https://open.spotify.com/track/61TahHsLdwY2tk3GAT2ZKQ) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Racecar](https://open.spotify.com/album/3czaepL4PjwRRD8v2Gp4Lp) | 3:09 | 2023-08-18 |  |
+| [Racecar](https://open.spotify.com/track/76pfVPGA4aLABgTmxIECdy) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Racecar](https://open.spotify.com/album/23hXAexOyAYC7ib8DBqNnu) | 3:09 | 2023-08-11 | 2023-08-20 |
 | [Radio Face](https://open.spotify.com/track/6mH2fb0nWB5fZtqnfYDTzi) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl) | [Radio Face](https://open.spotify.com/album/4fQpdEpugotYCRA5BQWnjm) | 3:01 | 2023-01-06 | 2023-01-28 |
 | [Radio Reject](https://open.spotify.com/track/5e2nKdiIRq7bNt8xkhvJhX) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:22 | 2022-11-04 | 2023-02-25 |
 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:50 | 2023-03-10 | 2023-05-13 |

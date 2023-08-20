@@ -4,7 +4,7 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-84 songs - 5 hr 25 min
+85 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Madurar](https://open.spotify.com/track/1NeVrrBxzzG9hlF7HYMqrl) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Madurar](https://open.spotify.com/album/6vrLra49PAThZU0jag7B7k) | 4:27 | 2023-04-14 |  |
 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 | 2023-04-14 |  |
 | [Matar o Morir](https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Psicofonia](https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw) | 3:04 | 2023-04-14 |  |
-| [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 | 2023-04-14 |  |
+| [Mañana Será Otro Día](https://open.spotify.com/track/7sHk2zV6klT9GukY4VKD4p) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/0IzR6HSsoGzrM0gL5dTlYz) | 3:17 | 2023-07-21 |  |
+| [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 | 2023-04-14 | 2023-08-20 |
 | [Mañana Será Otro Día](https://open.spotify.com/track/3WcU9Jrq04yhvk4fgINhAJ) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Rap Epico](https://open.spotify.com/album/2fSq489Gg9Z4HfIUESHuBX) | 3:19 | 2023-07-21 | 2023-08-09 |
 | [Merced](https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 2:53 | 2023-04-14 |  |
 | [Mi Propio Cielo](https://open.spotify.com/track/1mxqzLeUxp8AG6en1REGY6) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna](https://open.spotify.com/album/38oezaVIzLW6oDOBGGKS7P) | 4:45 | 2023-04-14 |  |

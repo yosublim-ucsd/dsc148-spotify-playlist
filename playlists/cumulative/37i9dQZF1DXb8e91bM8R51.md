@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-341 songs - 19 hr 34 min
+342 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [ANOTHER ONE](https://open.spotify.com/track/2cO5gELmKXUeqliwT7DDvu) | [Ronny J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [ANOTHER ONE](https://open.spotify.com/album/26y1j3uFW7kmEXT3ODkDCE) | 3:12 | 2022-06-10 | 2022-11-19 |
 | [ARE YOU WITH THAT?](https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ARE YOU WITH THAT?](https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd) | 2:18 | 2022-01-14 |  |
 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 | 2022-01-14 |  |
-| [Ay Caramba](https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ay Caramba](https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv) | 2:44 | 2022-07-08 |  |
+| [Ay Caramba](https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ay Caramba](https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv) | 2:44 | 2022-07-08 | 2023-08-20 |
 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/3wJdRtq7bgSvO85aTn4qpq) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:58 | 2023-04-21 |  |
 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/7Gte9xFdlHkyBMmpRNUyP8) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 2:58 | 2022-12-17 | 2023-06-02 |
 | [Back In Traffic \(feat\. KIRBY\)](https://open.spotify.com/track/569BY50TiwaEnAQYI4F6r0) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Back In Traffic \(feat\. KIRBY\)](https://open.spotify.com/album/7iTi1Vio2z7cT0ZvQiIWFN) | 3:04 | 2022-01-14 | 2022-07-29 |
@@ -270,6 +270,7 @@
 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 | 2022-01-14 |  |
 | [Shoot My Shot](https://open.spotify.com/track/1XKTvkeaZy5gueNNZYL7rE) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [USEE4YOURSELF](https://open.spotify.com/album/0kV11arRXMzRqhv2SnXclk) | 2:52 | 2022-01-14 | 2022-10-03 |
 | [Shoot My Shot](https://open.spotify.com/track/4xJQDZxCjAJdemvWoBR9nL) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [USEE4YOURSELF](https://open.spotify.com/album/1aOVW07qHIiMe3f3HKXo8r) | 2:52 | 2023-04-21 |  |
+| [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 4:20 | 2023-08-18 |  |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2022-01-14 |  |
 | [Sign Language](https://open.spotify.com/track/5CiYxsCieteb5iMjrHAkvV) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Sign Language](https://open.spotify.com/album/33ls0tmm8ljjk3cuF14QyL) | 2:32 | 2022-01-14 | 2022-03-26 |
 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:26 | 2022-01-14 | 2022-06-10 |

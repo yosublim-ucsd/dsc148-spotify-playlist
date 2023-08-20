@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+    },
+    {
+      "album": {
         "name": "Sassy Mama!",
         "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
       },
@@ -364,7 +382,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 305893,
       "name": "Everything Gonna Be Alright",
       "url": "https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN"
@@ -462,7 +480,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 263306,
       "name": "Guide Me Home",
       "url": "https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0"
@@ -498,7 +516,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 133160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/1a190bvAYqk1wyChVSm6s1"
@@ -624,7 +642,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 156200,
       "name": "How Come",
       "url": "https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 145440,
       "name": "I Ain't No Fool Either",
       "url": "https://open.spotify.com/track/2cm4GcjBJXcuPIZYTblyDL"
@@ -686,7 +704,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 305040,
       "name": "I Feel the Way I Feel",
       "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 105426,
       "name": "I Smell a Rat",
       "url": "https://open.spotify.com/track/0cmaDKffwFzu66an87Yyc5"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 208213,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 160853,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/6VyhQsQIKMAnrLAzQ8mnHL"
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 272733,
       "name": "Since I Fell for You",
       "url": "https://open.spotify.com/track/1QdABlr6fABVNlZxwaRk2e"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 229320,
       "name": "Sometimes I Have a Heartache",
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 161440,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 163866,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/6hLAZpaUTEz80mH14TVkcL"

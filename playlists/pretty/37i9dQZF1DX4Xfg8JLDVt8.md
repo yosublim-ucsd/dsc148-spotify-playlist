@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xfg8JLDVt8.md) - [plain]
 
 > Modo cursi: ON \#RelationshipGoals
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,468 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,672 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xfg8JLDVt8.md) - [plain]
 | 64 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 |
 | 65 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 |
 
-Snapshot ID: `MCwyMTRiYzM3MzU3MmRjZmNkNGJjNjM3MzliNTRmMmYyMDI2MDA3ZmM1`
+Snapshot ID: `MCwyOWI0ZmRmZGU4YzI5MjJjZThjOTVlMDdlYjE2YmEzNGQzZTM1NThi`

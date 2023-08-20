@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-364 songs - 19 hr 13 min
+365 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-03-12 | 2023-05-14 |
 | [Body Language](https://open.spotify.com/track/1ieYfbaettY1CCT4uu28Sx) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Prezz Play](https://open.spotify.com/album/18u8kTxT4UzQQ97waiW23l) | 2:40 | 2023-01-20 | 2023-03-18 |
 | [Bomzão](https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:09 | 2023-08-03 |  |
+| [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 | 2023-08-17 |  |
 | [Break Up Twice](https://open.spotify.com/track/7Bzgs1crJViC1NEliHSp8O) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:56 | 2022-07-14 | 2023-03-18 |
 | [Butter](https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7), [SUTRA](https://open.spotify.com/artist/1IwePsGHiNhUNBrUuUcguM) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 3:08 | 2022-07-07 | 2023-03-12 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-26 | 2022-11-26 |
@@ -273,7 +274,7 @@
 | [Run](https://open.spotify.com/track/1SAxAnhOG0xTh0Gm2Qlsoj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Run](https://open.spotify.com/album/5p5FoOxBxlXv6VjDWJy6Hq) | 2:33 | 2023-02-16 | 2023-05-14 |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-06-24 | 2023-02-24 |
 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 | 2023-07-28 |  |
-| [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 |  |
+| [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 | 2023-08-20 |
 | [Sail](https://open.spotify.com/track/26mrUHchbcgiCahub27gZY) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Sail](https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm) | 2:28 | 2023-06-02 | 2023-07-29 |
 | [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 | 2023-04-18 |
 | [Scarred](https://open.spotify.com/track/5PSYn0XVImstXPFFDtajEK) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:58 | 2022-06-24 | 2023-02-11 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 
 > Soft instrumental Blues for any activity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,813 likes - 82 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,863 likes - 82 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All In](https://open.spotify.com/track/29tN0uvuZVzTcIYatGZCjF) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [All In](https://open.spotify.com/album/0rDYyUqDzLRGOG1Ut0Vqxf) | 4:05 |
-| 2 | [Slow Down](https://open.spotify.com/track/6L6ViSIMeZUOBpnHzIXxwh) | [Debbie Brown](https://open.spotify.com/artist/6uBHj46BnQ3mma289kMfd6) | [Slow Down](https://open.spotify.com/album/27cTrUA7BIxBDBwwaTBpLH) | 2:58 |
+| 2 | [Slow Down](https://open.spotify.com/track/6L6ViSIMeZUOBpnHzIXxwh) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [Slow Down](https://open.spotify.com/album/27cTrUA7BIxBDBwwaTBpLH) | 2:58 |
 | 3 | [Early In The Morning](https://open.spotify.com/track/1KWS957gYfLrSjgn2Wu9ju) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Early In The Morning](https://open.spotify.com/album/6ni6IpbUPhd5Te3kKC1RR6) | 4:05 |
 | 4 | [The Band Ladies Have the Blues](https://open.spotify.com/track/52iD7EXUYlAF5mx8QUDYE3) | [Billy Branch & The Sons of Blues](https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y), [Carl Weathersby](https://open.spotify.com/artist/2Qs4vDt8kbXB2sZUDisXPw) | [As the Years Go Passing By \(Blues Reference\)](https://open.spotify.com/album/5574yQ0jXasT5PZCRs4C9o) | 6:35 |
 | 5 | [Wayfaring Pilgrim](https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [In The Beginning](https://open.spotify.com/album/4s8yNqAy1MyFXtLp8HlWUM) | 5:08 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 | 81 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 |
 | 82 | [The Prowler](https://open.spotify.com/track/3kigvjr2fMr4E1pQXJ15zG) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Mississippi Moan](https://open.spotify.com/album/1wVpbsQQCr3RG3GdIqucwo) | 6:23 |
 
-Snapshot ID: `MCxmODg1NWQ0ZmYzZWVlMTY1NDRhNDI0ODZiYTU2YzczOGI5MDM5N2U0`
+Snapshot ID: `MCwzMmM1ZWQ1NzkwNTJlN2QzZjExNDQ5MTMxMDA5YzM1NTFiZTQ5NmUz`

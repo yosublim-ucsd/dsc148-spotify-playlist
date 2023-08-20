@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 12611,
+  "num_followers": 12642,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjMzNjFjZGIyYWQyOGNhMmI1MTkxYzM1MTE1NmNiNzM4MzMzMjc0",
+  "snapshot_id": "MCw3NWNmNWY2ZDIwZDQ3MmMyMjMzMTBiNDAwNGFjMzM2MmIxOGQ0ZTRl",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Seduce / Destroy",
-        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
-      },
-      "artists": [
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Seduce / Destroy",
-      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 233046,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Seduce / Destroy",
+        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Seduce / Destroy",
+      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Once Upon A Time In Cyberworld",
+        "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "YOOKiE",
+          "url": "https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "Deathstalker",
+      "url": "https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Revive EP",
         "url": "https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 222426,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Once Upon A Time In Cyberworld",
-        "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "YOOKiE",
-          "url": "https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5"
-        }
-      ],
-      "duration_ms": 225346,
-      "name": "Deathstalker",
-      "url": "https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc"
     },
     {
       "added_at": "2022-11-30 13:46:00",

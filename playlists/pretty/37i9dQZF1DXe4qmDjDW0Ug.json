@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11081,
+  "num_followers": 11092,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWQ1ZDA1ZjhmMjFhY2ZlYWJmYTExNjNhYzRjM2U2MzdhYTg3Y2Vi",
+  "snapshot_id": "MCwwNDU0ZjQ5NzVhMWM0MDhhYzZlYTI5NzU0ODU4OGVkNDE3NWM1MGMw",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -271,6 +271,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 246333,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "I Want To Fall In Love",
-        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
-      },
-      "artists": [
-        {
-          "name": "Johan Kim",
-          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
-        }
-      ],
-      "duration_ms": 232544,
-      "name": "I Want To Fall In Love",
-      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -375,8 +375,24 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+        "name": "I Want To Fall In Love",
+        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
+      },
+      "artists": [
+        {
+          "name": "Johan Kim",
+          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+        }
+      ],
+      "duration_ms": 232544,
+      "name": "I Want To Fall In Love",
+      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
       },
       "artists": [
         {
@@ -384,9 +400,9 @@
           "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -439,22 +455,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 210258,
-      "name": "IF I WERE YOU",
-      "url": "https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -471,18 +471,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+      "duration_ms": 210258,
+      "name": "IF I WERE YOU",
+      "url": "https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl"
     },
     {
       "added_at": "2021-03-11 16:36:50",

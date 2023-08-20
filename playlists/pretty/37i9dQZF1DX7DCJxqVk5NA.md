@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,768 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,771 likes - 62 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 61 | [Okay \(feat\. Lil Jon & YoungBloodZ\)](https://open.spotify.com/track/1e5ayf28RKanXy0NNJVANp) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Youngbloodz](https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq) | [Complicated](https://open.spotify.com/album/3KNzGIMzjSY0x2HV3Lm53c) | 4:43 |
 | 62 | [Southside Forever Freestyle](https://open.spotify.com/track/5hmQVsjZGozYCBOCHDYoYl) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:57 |
 
-Snapshot ID: `MCw0NmE1NmZmYjA2ZjI2OGY2MDViZGRkYTE1YzMwOWI0ZDYxYTg4YTk2`
+Snapshot ID: `MCxhYzNiOThjZjA4ZmJjODBlMDJiZWM2MDgzOTdkM2NiZTZiMDRkOWFm`

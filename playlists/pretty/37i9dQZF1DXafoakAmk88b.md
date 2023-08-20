@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie driving the current\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,151 likes - 130 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,176 likes - 130 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 126 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 |
 | 127 | [i just want to hide my face](https://open.spotify.com/track/1xDZoTi6F9wZtpcQ1dlyE7) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i just want to hide my face](https://open.spotify.com/album/0mPO0i23qRLIkp5DgmpFkB) | 2:12 |
 | 128 | [Fall First](https://open.spotify.com/track/575m8eKKXa0bkR6haOzVPt) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 4:09 |
-| 129 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 |
+| 129 | [Postman](https://open.spotify.com/track/4Jz1Zk4OQrKPVabWjjUGEZ) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 2:40 |
 | 130 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 |
 
-Snapshot ID: `MCw1ZTIzYWQ1YmE0MTIxZjg1Y2EwYzY3Zjk2MDAwNzk0ZTYyZGQ0YTg1`
+Snapshot ID: `MCxjNmFhZTAyNmZkNDQxYjAzMmE1ODAzMjMzZjg5ZWQyNjA3NzRmMDBm`

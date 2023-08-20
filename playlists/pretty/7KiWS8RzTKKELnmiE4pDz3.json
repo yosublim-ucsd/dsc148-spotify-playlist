@@ -6,24 +6,8 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzA3OSw1Y2JiMjQ3YmYzMDVjYzM0YWU2ZDhhMDVhYTcyYjQzMTk5ODc0NDYw",
+  "snapshot_id": "NzA4Myw1YjEwZDYzM2ZjMWUyYWFmYzU1OTEwZDg0Nzc5NDk3Zjc4OWRlODE1",
   "tracks": [
-    {
-      "added_at": "2022-08-27 21:01:46",
-      "album": {
-        "name": "Golden Child, Chapter 2",
-        "url": "https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 123450,
-      "name": "Golden Child!",
-      "url": "https://open.spotify.com/track/6SB97vEyrYAd6sjnwoeLqj"
-    },
     {
       "added_at": "2022-07-17 00:04:55",
       "album": {
@@ -1469,22 +1453,6 @@
       "url": "https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq"
     },
     {
-      "added_at": "2022-12-07 10:48:58",
-      "album": {
-        "name": "You > Them (Hate It!)",
-        "url": "https://open.spotify.com/album/1t3gqZG4owzK59lurQyRjl"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 135392,
-      "name": "You > Them (Hate It!)",
-      "url": "https://open.spotify.com/track/3XwNEmdMEmjf9CkZrDBpM9"
-    },
-    {
       "added_at": "2022-12-15 20:31:09",
       "album": {
         "name": "Whole Lotta Red",
@@ -1615,22 +1583,6 @@
       "duration_ms": 199253,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/3haDFkQVqexHwwxVNU5BHh"
-    },
-    {
-      "added_at": "2022-12-21 05:23:29",
-      "album": {
-        "name": "Remind Me Of The Summer",
-        "url": "https://open.spotify.com/album/5I3svUTCPnECckzaOY2R0Z"
-      },
-      "artists": [
-        {
-          "name": "1Huntxr",
-          "url": "https://open.spotify.com/artist/2HQTplk1FBI562SZfiAAH4"
-        }
-      ],
-      "duration_ms": 219174,
-      "name": "Remind Me Of The Summer",
-      "url": "https://open.spotify.com/track/1ygKFnCswaecNGoDCe1S4R"
     },
     {
       "added_at": "2022-12-21 19:11:48",
@@ -2075,38 +2027,6 @@
       "duration_ms": 145700,
       "name": "Beetleborgs",
       "url": "https://open.spotify.com/track/1GwvBbLdKyfcvyLCyjgSlF"
-    },
-    {
-      "added_at": "2023-01-20 05:46:00",
-      "album": {
-        "name": "##B4GC3 ##B4GC3",
-        "url": "https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 179334,
-      "name": "Recollections Of Fame!",
-      "url": "https://open.spotify.com/track/5Ysp0AjJdsrEWVJ9dOJfOO"
-    },
-    {
-      "added_at": "2023-01-20 05:47:22",
-      "album": {
-        "name": "##B4GC3 ##B4GC3",
-        "url": "https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 183631,
-      "name": "The Remorse!",
-      "url": "https://open.spotify.com/track/65sqEIYumzpGkUovLPmuiD"
     },
     {
       "added_at": "2023-01-27 14:27:44",
@@ -3771,6 +3691,54 @@
       "duration_ms": 221226,
       "name": "Through The Wire",
       "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
+    },
+    {
+      "added_at": "2023-08-14 05:45:38",
+      "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 131573,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/2vW0uLpB4C9FS1EnNuQRPz"
+    },
+    {
+      "added_at": "2023-08-14 05:50:06",
+      "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 153429,
+      "name": "Lean Habits",
+      "url": "https://open.spotify.com/track/1D8K6DYRkC0sk9418K17hH"
+    },
+    {
+      "added_at": "2023-08-19 20:07:58",
+      "album": {
+        "name": "Blood Shore Season 3",
+        "url": "https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy"
+      },
+      "artists": [
+        {
+          "name": "Xavier Wulf",
+          "url": "https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S"
+        }
+      ],
+      "duration_ms": 111050,
+      "name": "Still Will",
+      "url": "https://open.spotify.com/track/0Bb0WyZw1xfEMbehZ5GOKd"
     }
   ],
   "unique_name": "main ",

@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 188728,
+  "num_followers": 188855,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzExY2Y5ODBlNzBhZDRkM2U3ODBmNTU3ZWQ1YWIxM2UzMjVhZjMw",
+  "snapshot_id": "MCxkZGE2YzhlNzM2MjRhZTJiMDAxYWVlYmI0NDYwOWEwOGE4YmQzOWI3",
   "tracks": [
     {
       "added_at": "2023-07-18 09:14:25",
@@ -791,6 +791,26 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "P Secondigliano (2020 Remaster)",
+        "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "P Secondigliano - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 198066,
       "name": "CASA",
       "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "P Secondigliano (2020 Remaster)",
-        "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Nicola Siciliano",
-          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "P Secondigliano - 2020 Remaster",
-      "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -943,6 +943,30 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 158769,
       "name": "Ma Jolie (feat. ANNA)",
       "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
-      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "La zone (feat. Shiva)",
-        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 158769,
-      "name": "La zone (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
+      "duration_ms": 206211,
+      "name": "Davide (feat. Coez)",
+      "url": "https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1091,22 +1091,22 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+        "name": "La zone (feat. Shiva)",
+        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         },
         {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 206211,
-      "name": "Davide (feat. Coez)",
-      "url": "https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J"
+      "duration_ms": 158769,
+      "name": "La zone (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1163,6 +1163,38 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Lo Sai Che Ci Penso",
+      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1183,22 +1215,6 @@
       "duration_ms": 174727,
       "name": "10 RAGAZZE (con ERNIA)",
       "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1275,38 +1291,6 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Lo Sai Che Ci Penso",
-      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 183762,
-      "name": "ch1 5ei te",
-      "url": "https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 183762,
+      "name": "ch1 5ei te",
+      "url": "https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "Peace & Love",
         "url": "https://open.spotify.com/album/4ihfUwVpF3lTKlC8kJh6nQ"
       },
@@ -1367,6 +1367,26 @@
       "duration_ms": 182745,
       "name": "Peace & Love",
       "url": "https://open.spotify.com/track/4BGmYEDOK1swwoxTtfmVZD"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
+        "name": "Kepler",
+        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "duration_ms": 187615,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1403,6 +1423,22 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -1423,42 +1459,6 @@
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "Kepler",
-        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 187615,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "Vero",
+        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 182232,
+      "name": "Eravamo Re",
+      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 265637,
       "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "Vero",
-        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 182232,
-      "name": "Eravamo Re",
-      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
     },
     {
       "added_at": "2023-07-18 09:14:25",

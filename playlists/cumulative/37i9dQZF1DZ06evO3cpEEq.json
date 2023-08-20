@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 213320,
       "name": "All Good Fun",
       "url": "https://open.spotify.com/track/3NwwLJlmS7OXkXFhkJtt3W"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 241293,
       "name": "Bed and Breakfast",
       "url": "https://open.spotify.com/track/7bJugT9TUsQQnM0hQlgILq"
@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 215490,
       "name": "Bon Bons",
       "url": "https://open.spotify.com/track/2kUYxBMfhX1HhJwZDpYvOM"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 230706,
       "name": "Cartwheel and Climb",
       "url": "https://open.spotify.com/track/1F1kB8gBN9iguuckBQLWnj"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 297872,
       "name": "Catching a Feeling",
       "url": "https://open.spotify.com/track/1U9DtRapn4xV6VgFCAJHj4"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 228760,
       "name": "Ernie's Daughter",
       "url": "https://open.spotify.com/track/6yepggqorn7eMEsDtmyDFk"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 199880,
       "name": "I Fall",
       "url": "https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 219160,
       "name": "Landing Lights",
       "url": "https://open.spotify.com/track/7EhTh6rmZY0FXnc1QFYUpE"
@@ -684,10 +684,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 154400,
       "name": "Live a Little",
       "url": "https://open.spotify.com/track/3R4XNh7AuaiC3rCZ5z7E1h"
+    },
+    {
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "Mr Catfish",
+      "url": "https://open.spotify.com/track/4eYIiaQ8i5veUbYa1LVZuq"
     },
     {
       "album": {
@@ -778,7 +796,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 239235,
       "name": "No Such Luck",
       "url": "https://open.spotify.com/track/4clwEaV42XK0F7x1fmUSaz"
@@ -814,7 +832,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 266653,
       "name": "On and On",
       "url": "https://open.spotify.com/track/2PxNba41cb8lTLp1H8rglz"
@@ -836,7 +854,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 260415,
       "name": "Open Sea",
       "url": "https://open.spotify.com/track/0Yplqtaw3VsNLd8Sk2Juy3"
@@ -876,7 +894,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 253920,
       "name": "Rain Fall",
       "url": "https://open.spotify.com/track/2YoaUpKgLpouPql0iD7UEl"
@@ -938,7 +956,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 223426,
       "name": "So Go On",
       "url": "https://open.spotify.com/track/3bEUhd1DWfzij3LGECFGni"
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 192226,
       "name": "Summerfly",
       "url": "https://open.spotify.com/track/734yjL9rQgaKw9J8Zr2NVn"
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 145026,
       "name": "Swingtown",
       "url": "https://open.spotify.com/track/1kt9OqfXbusOxeAwTEA1nJ"
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 230053,
       "name": "Tropical Fever",
       "url": "https://open.spotify.com/track/7h0GNlpLMYxRW78zFdRoIo"
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 269066,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/4Bu1Vw72PMIvlNNrXs3dj8"

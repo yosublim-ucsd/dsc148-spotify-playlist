@@ -4,7 +4,7 @@
 
 > ¡Y qué retumbe la bandona, pariente! Banda MS en portada
 
-206 songs - 11 hr 27 min
+207 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Quién Es Usted](https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 3:33 | 2021-12-09 |  |
 | [Quién Es Usted](https://open.spotify.com/track/64EFKb52v2HDEVvP61Q3nX) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/4iXTh695uR4g41JW4kc1Bi) | 3:33 | 2021-12-09 | 2022-07-29 |
 | [Recostada En La Cama](https://open.spotify.com/track/50tmOF513elS7K3HrwYq29) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:02 | 2021-12-09 |  |
-| [Reencuentro](https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:46 | 2021-12-09 |  |
+| [Reencuentro](https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:46 | 2021-12-09 | 2023-08-20 |
+| [Reencuentro](https://open.spotify.com/track/3jq17jcifw4s9ORbLxr4iJ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns) | 3:46 | 2023-08-08 |  |
 | [Relación Clandestina](https://open.spotify.com/track/18O6GQQ8hduBs525KhuFNQ) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L) | 3:36 | 2021-12-09 | 2022-07-29 |
 | [Relación Clandestina](https://open.spotify.com/track/7jmc6mYF2HGjXNCoHx9KbF) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1) | 3:36 | 2021-12-09 | 2022-11-14 |
 | [Se Me Sigue Notando](https://open.spotify.com/track/282WLYbREuPDYoaxGVRRmn) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L) | 3:34 | 2021-12-09 | 2022-07-29 |

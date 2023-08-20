@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,011 likes - 120 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,031 likes - 120 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 10 | [Dazed & Confused](https://open.spotify.com/track/1MSDtrmM0lJv1p7LYb2inl) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:47 |
 | 11 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 |
 | 12 | [Dive Baby, Dive](https://open.spotify.com/track/3T3ze3aO6Lq7Q4w6NQ2Hws) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:23 |
-| 13 | [Waves of you](https://open.spotify.com/track/2LsWyHF9MiKejJhGHh5DbC) | [KISU](https://open.spotify.com/artist/6lW4NDiKyxhvBtuR31qwme) | [Waves Of You](https://open.spotify.com/album/1u7azlOD4pSgRjDVUlul4c) | 3:23 |
+| 13 | [Waves of you](https://open.spotify.com/track/2LsWyHF9MiKejJhGHh5DbC) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Waves Of You](https://open.spotify.com/album/1u7azlOD4pSgRjDVUlul4c) | 3:23 |
 | 14 | [Drive!](https://open.spotify.com/track/2AaKHfIiF0fSHo2OA8y446) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Drive!](https://open.spotify.com/album/5anWOL8kYwAj8ZbH6I6LpU) | 3:17 |
 | 15 | [BOY](https://open.spotify.com/track/2zyj0d6XwQqMHTDU907P9t) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [BOY](https://open.spotify.com/album/151pZ4YNWDjXFbKcYvzJie) | 4:27 |
 | 16 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/1Bzyh2PDRbIR1Q1A8u3U9b) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 3:23 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 119 | [Why Tears](https://open.spotify.com/track/5YIdE5lgN8UGlQpfjJv4wc) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD), [SAEM](https://open.spotify.com/artist/2rhoey47DIa5YfnHD8Kj19), [Jung Da\-woon](https://open.spotify.com/artist/1hGnyLaS02zH0kTe5ufdBu), [Lee Hyeong\-gu](https://open.spotify.com/artist/6nKpvtfQYvk8WeToauGGpe), [Rockun](https://open.spotify.com/artist/2uzJBnU7A1A6qYpgkecPSc) | [Mars Attack](https://open.spotify.com/album/2VwBRJyHqL17IzorSdiXK4) | 3:36 |
 | 120 | [Michelle](https://open.spotify.com/track/2DBJYcnnbtC4TZ1Kow4PaA) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD), [SAEM](https://open.spotify.com/artist/2rhoey47DIa5YfnHD8Kj19), [Jung Da\-woon](https://open.spotify.com/artist/1hGnyLaS02zH0kTe5ufdBu), [Lee Hyeong\-gu](https://open.spotify.com/artist/6nKpvtfQYvk8WeToauGGpe), [Rockun](https://open.spotify.com/artist/2uzJBnU7A1A6qYpgkecPSc) | [Mars Attack](https://open.spotify.com/album/2VwBRJyHqL17IzorSdiXK4) | 3:08 |
 
-Snapshot ID: `MCwxY2ViMGNhZjgzNDYwOTQwMjIyMWE4YmZkN2M1MGI1MTI0MWJjMWJk`
+Snapshot ID: `MCxiYWY0MzMxNjRjNGNkOWY4Njk0ODhmZmZiNGVlMWJmOGVlYzExMjFi`

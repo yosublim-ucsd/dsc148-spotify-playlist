@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 141818,
       "name": "acting wild.",
       "url": "https://open.spotify.com/track/1pSJpxkh8wLL9fsWMBgq1q"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 167032,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 129600,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/6GpeTH8hprFWMafxrE3VCj"
@@ -4748,7 +4748,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 237948,
       "name": "Numb and Fronting",
       "url": "https://open.spotify.com/track/6jJPzgxa5nMQm0yxp1kjvC"
@@ -5906,6 +5906,24 @@
       "duration_ms": 173800,
       "name": "Shortcuts",
       "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
+    },
+    {
+      "album": {
+        "name": "Show You Off",
+        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174323,
+      "name": "Show You Off",
+      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
     },
     {
       "album": {

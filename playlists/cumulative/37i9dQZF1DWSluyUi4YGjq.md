@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. quannnic on cover.
 
-419 songs - 1 day 3 hr 44 min
+420 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,8 @@
 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 | 2021-10-19 | 2023-06-08 |
 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2021-10-19 | 2022-07-29 |
 | [Upperz](https://open.spotify.com/track/0UOgMU9A0koecYi1lkpN7j) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Upperz](https://open.spotify.com/album/20vb5dF2cRaE3lcSUUgn8X) | 1:53 | 2023-06-16 | 2023-06-21 |
-| [Vacation](https://open.spotify.com/track/5VieQH9z7lj6UIGfTkkmiM) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Vacation](https://open.spotify.com/album/4nteDNfkJVsJuWQhOnnHFN) | 3:32 | 2023-08-04 |  |
+| [Vacation](https://open.spotify.com/track/5F1gAs2j6FLTITQ1FJni0O) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:32 | 2023-08-04 |  |
+| [Vacation](https://open.spotify.com/track/5VieQH9z7lj6UIGfTkkmiM) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Vacation](https://open.spotify.com/album/4nteDNfkJVsJuWQhOnnHFN) | 3:32 | 2023-08-04 | 2023-08-20 |
 | [Vertigo Flowers](https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:24 | 2021-10-19 | 2023-06-08 |
 | [Verónica Pass \- Sally Shapiro Mix](https://open.spotify.com/track/5rxBNUTNVBatfbDcBhjRXG) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu), [Sally Shapiro](https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M) | [Verónica Pass](https://open.spotify.com/album/5bqgcc97DxAORtjTBfrXwP) | 4:49 | 2023-01-07 | 2023-02-22 |
 | [violence ii](https://open.spotify.com/track/5WVIDVgQfb3zO3IPRzNP1n) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [s](https://open.spotify.com/album/3Lj48iwzK7wF0oT4KCsDtV) | 2:43 | 2023-02-17 | 2023-07-29 |

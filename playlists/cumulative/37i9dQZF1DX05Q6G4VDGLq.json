@@ -1072,8 +1072,8 @@
       },
       "artists": [
         {
-          "name": "Lenox Livingroom Sessions",
-          "url": "https://open.spotify.com/artist/2PDSuVvSKWLMFtb4j2O06t"
+          "name": "Brooklyn Smith",
+          "url": "https://open.spotify.com/artist/0bdL8iLPL5Nj0IRvHn2kIP"
         }
       ],
       "date_added": "2022-06-28",
@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Beloved Moment",
+        "url": "https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Beloved Moment",
+      "url": "https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi"
+    },
+    {
+      "album": {
         "name": "Beneath It All",
         "url": "https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 251594,
       "name": "Beneath The Pale Moonlight",
       "url": "https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9"
@@ -1586,6 +1604,24 @@
       "duration_ms": 204300,
       "name": "Cabin In The Sky",
       "url": "https://open.spotify.com/track/1D1E8UfZDUk0FZ2ZhlW1OF"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 Conversations",
+        "url": "https://open.spotify.com/album/2muK6k9bOIkTLkQXfXJ4TR"
+      },
+      "artists": [
+        {
+          "name": "Foster Davies",
+          "url": "https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224076,
+      "name": "Caf\u00e9 Conversations",
+      "url": "https://open.spotify.com/track/31QE8TMPJ85lWDq9qnmn14"
     },
     {
       "album": {
@@ -2039,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Cool Breeze",
+        "url": "https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa"
+      },
+      "artists": [
+        {
+          "name": "Mino Conte & Co",
+          "url": "https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253350,
+      "name": "Cool Breeze",
+      "url": "https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN"
+    },
+    {
+      "album": {
         "name": "Corners of the Parlor",
         "url": "https://open.spotify.com/album/3xY9cBUyiQdLr98m0CRntx"
       },
@@ -2252,6 +2306,24 @@
       "duration_ms": 240225,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk"
+    },
+    {
+      "album": {
+        "name": "Detour Ahead",
+        "url": "https://open.spotify.com/album/3qH33VNF4bKmgjk9Y3BWk4"
+      },
+      "artists": [
+        {
+          "name": "Paddington St. Group",
+          "url": "https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177813,
+      "name": "Detour Ahead",
+      "url": "https://open.spotify.com/track/3RqG16FeaSRU1l3CRlRZxV"
     },
     {
       "album": {
@@ -2728,7 +2800,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 305091,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef"
@@ -3794,6 +3866,24 @@
       "duration_ms": 188000,
       "name": "Heartbreak Avenue",
       "url": "https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG"
+    },
+    {
+      "album": {
+        "name": "Heartstrings",
+        "url": "https://open.spotify.com/album/1rmP7N7m9ZyLGnN2R2bVSx"
+      },
+      "artists": [
+        {
+          "name": "Emily Green Trio",
+          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/6DWlgYRquRmphcMPBCL6NF"
     },
     {
       "album": {
@@ -5446,7 +5536,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 286008,
       "name": "I\u00b4m Old Fashioned",
       "url": "https://open.spotify.com/track/5ANvL1PhHrU00JHPfIT6d8"
@@ -5842,7 +5932,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 208881,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/45KFIbVRCAfxYzOogbaRPx"
@@ -5900,6 +5990,24 @@
       "duration_ms": 230753,
       "name": "Late At Night",
       "url": "https://open.spotify.com/track/6pv7UGD1CNFS7Lzm6ro7aK"
+    },
+    {
+      "album": {
+        "name": "Late Bagatelle",
+        "url": "https://open.spotify.com/album/1rn3qFrQqF1w4uKBU0mnhW"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Mar\u00e9e",
+          "url": "https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239125,
+      "name": "Late Bagatelle",
+      "url": "https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M"
     },
     {
       "album": {
@@ -6778,7 +6886,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 285694,
       "name": "Memories Of You",
       "url": "https://open.spotify.com/track/4k8Z615BSY2DPSARJS11Se"
@@ -7124,6 +7232,24 @@
       "duration_ms": 257012,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/2EW5zfxI27hvTxeYr8I0J7"
+    },
+    {
+      "album": {
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/3XYrxBccjXCVDiFwgfc4Dd"
+      },
+      "artists": [
+        {
+          "name": "Will Rivers Trio",
+          "url": "https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168040,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh"
     },
     {
       "album": {
@@ -9741,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "Soulful Stroll",
+        "url": "https://open.spotify.com/album/2HAfP5HvWcL2pByucZhUZL"
+      },
+      "artists": [
+        {
+          "name": "James Earle Trio",
+          "url": "https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230088,
+      "name": "Soulful Stroll",
+      "url": "https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky"
+    },
+    {
+      "album": {
         "name": "Spring Came Early",
         "url": "https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4"
       },
@@ -9878,7 +10022,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 208227,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/0RXtnsHGJOHHk1aH3RvTRS"
@@ -10940,7 +11084,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 229691,
       "name": "Through the Fog",
       "url": "https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1"
@@ -11318,7 +11462,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 304500,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/0FISgNw6RbJZ2fmN40Tb5X"
@@ -11984,7 +12128,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 191526,
       "name": "You Confuse Me",
       "url": "https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr"
@@ -12096,6 +12240,24 @@
       "duration_ms": 255143,
       "name": "You're A Rainbow",
       "url": "https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz"
+    },
+    {
+      "album": {
+        "name": "You're All I Can Think Of",
+        "url": "https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB"
+      },
+      "artists": [
+        {
+          "name": "Original Three",
+          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298111,
+      "name": "You're All I Can Think Of",
+      "url": "https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq"
     },
     {
       "album": {

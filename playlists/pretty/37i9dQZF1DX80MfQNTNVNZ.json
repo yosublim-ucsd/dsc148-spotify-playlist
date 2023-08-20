@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 150253,
+  "num_followers": 150406,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTdmODhlOGQ4NDZlMGIxNGM3YWFiYzU1OWZhMWEyOGZiYmY3ODg1",
+  "snapshot_id": "MCwwYWQwNTY1YzgyNjNiNjYwMTczNGI5YzY1ZGEwODAwMGY2ZDgzYmFk",
   "tracks": [
     {
       "added_at": "2023-08-17 18:43:33",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-08-17 18:43:33",
       "album": {
-        "name": "R e s e n t m e n t",
-        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "R e s e n t m e n t",
-      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
-    },
-    {
-      "added_at": "2023-08-17 18:43:33",
-      "album": {
         "name": "On My Mama",
         "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "added_at": "2023-08-17 18:43:33",
+      "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
     },
     {
       "added_at": "2023-08-17 18:43:33",

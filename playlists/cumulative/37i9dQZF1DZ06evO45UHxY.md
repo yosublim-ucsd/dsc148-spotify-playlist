@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 55 min
+79 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Desde Mañana](https://open.spotify.com/track/1qjjMQibRv39gb4WAn0oaP) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:56 | 2022-11-12 |  |
 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/5XuM8DbECxEgXSt1V0Bkhb) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 2:51 | 2022-06-07 | 2022-06-09 |
 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/327zGhS8S9gjmdgqCfggiA) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 3:03 | 2022-11-27 | 2022-12-08 |
-| [Echando Los Perros](https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:18 | 2022-12-07 |  |
+| [Echando Los Perros](https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:18 | 2022-12-07 | 2023-08-20 |
 | [El amor que soñaba](https://open.spotify.com/track/3PwEtxAKmWQHexgtwtVI4o) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:52 | 2022-07-07 | 2022-10-17 |
 | [El esdrújulo](https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Festival Grupero Vol\. I](https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc) | 2:25 | 2022-06-01 |  |
 | [El Fon](https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:14 | 2022-06-01 |  |
@@ -72,8 +72,9 @@
 | [Porque Me Quite El Vicio](https://open.spotify.com/track/1eZDh0jqpcgiqkAG5PlDDe) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 3:23 | 2022-11-20 | 2023-02-20 |
 | [Presumidas SA](https://open.spotify.com/track/7ETxgMiAGeHw4lMC0F45HR) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 3:00 | 2022-06-01 | 2023-03-30 |
 | [Presumidas, S.a.](https://open.spotify.com/track/3awoHuOrcCKZTKQj0ICkLf) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:58 | 2023-03-29 |  |
-| [Reeventon Unisex](https://open.spotify.com/track/59tw8kwcnl7McG6Pgt38EG) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Reventon Unisex](https://open.spotify.com/album/1f4i5bez3wwuDT3SxlKMC3) | 4:05 | 2022-06-01 |  |
+| [Reeventon Unisex](https://open.spotify.com/track/59tw8kwcnl7McG6Pgt38EG) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Reventon Unisex](https://open.spotify.com/album/1f4i5bez3wwuDT3SxlKMC3) | 4:05 | 2022-06-01 | 2023-08-20 |
 | [Reventón Unixes](https://open.spotify.com/track/0aru7xAJZfzn13o6wQPAko) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 3:54 | 2022-06-01 |  |
+| [Reventón Unisex](https://open.spotify.com/track/41HebIRHAPoidrilXQ0udy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 4:04 | 2023-08-19 |  |
 | [Revolución Tecno](https://open.spotify.com/track/6m2eB6K0F2M3IejPnGYJuR) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 3:21 | 2022-06-01 |  |
 | [Ritmo Chido](https://open.spotify.com/track/0bXznJ4BNcGaOxNig3LNV5) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 2:55 | 2022-06-01 |  |
 | [Si yo te diera mi corazón](https://open.spotify.com/track/13KLvsBii0H82ifB2xjFZp) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:47 | 2022-06-01 | 2022-09-01 |

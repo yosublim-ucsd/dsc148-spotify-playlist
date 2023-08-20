@@ -14158,7 +14158,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 216796,
       "name": "Magnets in the Dark (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/2jIWIrT95AuZoHmBl6DIBX"
@@ -22798,6 +22798,28 @@
       "duration_ms": 210859,
       "name": "U & Me",
       "url": "https://open.spotify.com/track/0FMJBNNDqtBW4QX3ipOOJp"
+    },
+    {
+      "album": {
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
     },
     {
       "album": {

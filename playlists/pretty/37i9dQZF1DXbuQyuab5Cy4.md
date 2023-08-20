@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,317 likes - 88 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,318 likes - 88 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 7 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
 | 8 | [Blood](https://open.spotify.com/track/5TTX8tnS8kxYPPCSAFPsCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Blood](https://open.spotify.com/album/3u28SLBxnRI3cxwv9zwheu) | 3:00 |
 | 9 | [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 |
-| 10 | [Psycho \- RAC Mix](https://open.spotify.com/track/2WyZycWzHXADJBDKOFc5s2) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/6JHDUQZMO6HDE6MyDVtUjR) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/3oSmMnaNq31Ys9v8If6Y8Y) | 3:11 |
+| 10 | [Psycho \- RAC Mix](https://open.spotify.com/track/2WyZycWzHXADJBDKOFc5s2) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [RAC](https://open.spotify.com/artist/6JHDUQZMO6HDE6MyDVtUjR) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/3oSmMnaNq31Ys9v8If6Y8Y) | 3:11 |
 | 11 | [Ghostbusters](https://open.spotify.com/track/1Yhxmnxo9C5g6rYkM5FRUM) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Ghostbusters](https://open.spotify.com/album/3vpc3fW5djJuuaF0588LHV) | 2:26 |
 | 12 | [inhuman](https://open.spotify.com/track/72sLsJ5XELHGuV1J6ntJoZ) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [inhuman](https://open.spotify.com/album/565EAf3SEil3VUEvBeqdvz) | 3:18 |
 | 13 | [Ghost Voices](https://open.spotify.com/track/7ipGvvE90ROUNFw7ZBXBTO) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 4:26 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 87 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 88 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MCwxOTUxMjJkM2RiYTJjMjlmYzZiMDY2NGIwYTQ3MDY2ZGExM2Y2ZTA1`
+Snapshot ID: `MCw0OTIyYTc1MGIwZTlkMGVkMTg2MTMyNGI0ZmExMTAyZDNkM2JkNGRh`

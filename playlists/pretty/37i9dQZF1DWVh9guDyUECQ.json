@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 172383,
+  "num_followers": 172464,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjg1N2QxYTJjZTRhZGQ2YWExNDI0NTdmODQxODM5YWZkMWIwMDUy",
+  "snapshot_id": "MCwwNjM0MGI1YTcwM2I5YWRmOWU5YjllOTQ5NTU0NzBjOWE2ZTgxYTlm",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Somos Las Voces",
+        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 242497,
+      "name": "Somos Las Voces",
+      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Por un Momento",
         "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 211600,
       "name": "Por un Momento",
       "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Somos Las Voces",
-        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 242497,
-      "name": "Somos Las Voces",
-      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Bueno es Dios",
         "url": "https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 179800,
       "name": "Bueno es Dios",
       "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1583,22 +1583,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Gozo Yo Quer\u00eda",
-        "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
+        "name": "Mi Cielo",
+        "url": "https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs"
       },
       "artists": [
         {
-          "name": "Jinys",
-          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
-        },
-        {
-          "name": "Abdi",
-          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
         }
       ],
-      "duration_ms": 188921,
-      "name": "Gozo Yo Quer\u00eda",
-      "url": "https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF"
+      "duration_ms": 198640,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1647,18 +1643,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mi Cielo",
-        "url": "https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs"
+        "name": "Gozo Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
       },
       "artists": [
         {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        },
+        {
+          "name": "Abdi",
+          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
         }
       ],
-      "duration_ms": 198640,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx"
+      "duration_ms": 188921,
+      "name": "Gozo Yo Quer\u00eda",
+      "url": "https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 219500,
       "name": "Se Enamor\u00f3",
       "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Flow Cristiano",
-        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Flow Cristiano",
-      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1935,22 +1935,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
+        "name": "Un Call",
+        "url": "https://open.spotify.com/album/41skV30829DyjovTu9BPas"
       },
       "artists": [
         {
-          "name": "Rubinsky Rbk",
-          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
         },
         {
-          "name": "MC Ari",
-          "url": "https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW"
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
         }
       ],
-      "duration_ms": 217695,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X"
+      "duration_ms": 214400,
+      "name": "Un Call",
+      "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"
     }
   ],
   "unique_name": "Flow Cristiano",

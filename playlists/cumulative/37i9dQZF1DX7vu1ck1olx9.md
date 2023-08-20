@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-154 songs - 6 hr 23 min
+155 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [belonging](https://open.spotify.com/track/0IQ5aMwoPmBZe33n2ZlY5o) | [Swørn](https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc) | [belonging](https://open.spotify.com/album/6jI2BzJ5MUgxhvdFzIl8s6) | 2:01 | 2020-11-12 | 2022-07-29 |
 | [belonging](https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE) | [Swørn](https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc) | [belonging](https://open.spotify.com/album/2kezrPntHgLokffEDoGzwL) | 2:01 | 2020-11-12 |  |
 | [Bing Bong](https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT) | 1:56 | 2022-08-05 | 2023-07-16 |
+| [Bing Bong](https://open.spotify.com/track/6oZkr9amNdp5I8CK9RXFoP) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/0oi9yfTN7iiEc28lamOFe3) | 1:56 | 2022-08-05 |  |
 | [Blinds](https://open.spotify.com/track/3tSPA3UxoMgm1MgaoYBCVs) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/38Ke6rGw4tcEqOXXpzEDxt) | 2:39 | 2020-11-12 | 2022-07-29 |
 | [Blinds](https://open.spotify.com/track/6xZCaA9hXELkApltXgLYxn) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/4u4bgltEl7PxelZBNGXE7r) | 2:39 | 2020-11-12 |  |
 | [Blossom](https://open.spotify.com/track/6V9JyTxs7RkraVjnom973c) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [Blossom](https://open.spotify.com/album/3uaI4KOw8ZLAOxuHMEdk8F) | 2:40 | 2022-03-18 | 2022-07-29 |
@@ -107,7 +108,7 @@
 | [Oracle Night](https://open.spotify.com/track/1tNpRWu5tHylrVuMAhzvNz) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2ZV5zCY2tJBRn0EtLOj3gr) | 2:30 | 2020-11-12 | 2022-07-28 |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2020-11-12 |  |
 | [path of the wind](https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:35 | 2020-11-12 |  |
-| [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 | 2020-11-12 |  |
+| [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 | 2020-11-12 | 2023-08-20 |
 | [Safehouse](https://open.spotify.com/track/7J9DIL1Tzsy1a4TuMowZKM) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Safehouse](https://open.spotify.com/album/5ggdPng4hoTNs2ORxSUEA5) | 2:39 | 2020-11-12 | 2022-08-30 |
 | [Safehouse](https://open.spotify.com/track/0MObi1btcXOB5Yk3XrRA6T) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Safehouse](https://open.spotify.com/album/0aeSj329rAsSdeLDDsyP6q) | 2:39 | 2020-11-12 |  |
 | [Sandalwood](https://open.spotify.com/track/1mU5tbLwcCYs64FhTTEQ4U) | [J\. Roosevelt](https://open.spotify.com/artist/4kCBBWXeKXtikcTFHiQ2QW) | [Meditations on Silence](https://open.spotify.com/album/5x21oAOWxgh2zIg3ORfAdw) | 2:48 | 2020-11-12 |  |

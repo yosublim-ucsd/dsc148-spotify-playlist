@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9321,
+  "num_followers": 9331,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmYyMzlhMTFhNDRhMjI1YjRmZDQ0YjdlODdlMzRmMDJmODFiMDBj",
+  "snapshot_id": "MCw4MTBlYTVjMDA1ZjNjM2JiYTA4OWQ0NjE4MDcwNjYwMTM5M2Q0Yzkx",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -955,26 +955,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Trucki",
-        "url": "https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv"
+        "name": "Rojo Rub\u00ed",
+        "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
       },
       "artists": [
         {
-          "name": "Atomic Otro Way",
-          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
-        },
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Real Sofoke Hiigh",
-          "url": "https://open.spotify.com/artist/5sX6UbJx4vxLzHXIMsVXZh"
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
         }
       ],
-      "duration_ms": 236910,
-      "name": "Trucki",
-      "url": "https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW"
+      "duration_ms": 205000,
+      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
+      "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -995,18 +987,26 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Rojo Rub\u00ed",
-        "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
+        "name": "Trucki",
+        "url": "https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv"
       },
       "artists": [
         {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Real Sofoke Hiigh",
+          "url": "https://open.spotify.com/artist/5sX6UbJx4vxLzHXIMsVXZh"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
-      "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
+      "duration_ms": 236910,
+      "name": "Trucki",
+      "url": "https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW"
     },
     {
       "added_at": "2023-07-24 18:55:43",

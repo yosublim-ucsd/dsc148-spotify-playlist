@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-360 songs - 23 hr 6 min
+361 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2022-12-23 |  |
 | [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-12 |  |
 | [Confidant](https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Confidant](https://open.spotify.com/album/4SBCeZYO6ldszj9bzQHfPl) | 4:04 | 2022-06-29 |  |
+| [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 |  |
 | [Crystal Blue](https://open.spotify.com/track/2xlbRcpwbECTrkzRD975lb) | [Jean\-Baptiste Rees](https://open.spotify.com/artist/5E0PYnAOEfcjASo2ZEK7nM) | [Crystal Blue](https://open.spotify.com/album/4Jr2IFJ19cGkh9XEHJjNlO) | 2:48 | 2022-06-29 | 2023-05-17 |
-| [Danny Boy](https://open.spotify.com/track/1s9mbaEHeW8C3K9A2kVFkd) | [Fast Train Jazz Band](https://open.spotify.com/artist/5oKq1aCcKeI3ZAlstJxDsc) | [Elsa](https://open.spotify.com/album/2UPSIVtkDVSdZgGaJaG1MG) | 4:47 | 2022-06-29 |  |
+| [Danny Boy](https://open.spotify.com/track/1s9mbaEHeW8C3K9A2kVFkd) | [Fast Train Jazz Band](https://open.spotify.com/artist/5oKq1aCcKeI3ZAlstJxDsc) | [Elsa](https://open.spotify.com/album/2UPSIVtkDVSdZgGaJaG1MG) | 4:47 | 2022-06-29 | 2023-08-20 |
 | [Darn That Dream \- Remastered 2015](https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [One Flight Up \(Remastered 2015\)](https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8) | 7:31 | 2022-06-29 |  |
 | [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-09 |  |
 | [Diggin' it](https://open.spotify.com/track/6pnMupVd27afvvGyzo8iRt) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [Diggin' it](https://open.spotify.com/album/2CNL5ENonEzX7k7ClWiqjG) | 3:47 | 2023-08-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva",
-  "num_followers": 430031,
+  "num_followers": 430115,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGQ2MDU3ZTQyZjNjMWNjZGQ2MjcyOWU2MmE5ZjM0NTliZjY1M2Y2",
+  "snapshot_id": "MCw5Yjg5MzkxN2IzNTU2ZDdjMTBlM2Y4M2IwYjQxNDZhYWIwM2I2OGZm",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "X\u00edcara",
+        "url": "https://open.spotify.com/album/3Oy0KAhfLaKzJGQeNVtmhX"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Castel",
+          "url": "https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX"
+        }
+      ],
+      "duration_ms": 151867,
+      "name": "X\u00edcara",
+      "url": "https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Mulher de f\u00e9",
         "url": "https://open.spotify.com/album/0NIimQLXAHitFTYmKSQ4Oi"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 154269,
       "name": "Mulher de f\u00e9",
       "url": "https://open.spotify.com/track/3nzOzTsaXDsQDjbeNLhjSu"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "X\u00edcara",
-        "url": "https://open.spotify.com/album/3Oy0KAhfLaKzJGQeNVtmhX"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Castel",
-          "url": "https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX"
-        }
-      ],
-      "duration_ms": 151867,
-      "name": "X\u00edcara",
-      "url": "https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Ar da Sua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 206864,
+      "name": "Ar da Sua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/7D5BKQFmv0YGEYul18avdT"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 158861,
       "name": "Amanh\u00e3",
       "url": "https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Ar da Sua Gra\u00e7a",
-        "url": "https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 206864,
-      "name": "Ar da Sua Gra\u00e7a",
-      "url": "https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Resolvi Seguir",
-        "url": "https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
-        }
-      ],
-      "duration_ms": 161144,
-      "name": "Resolvi Seguir",
-      "url": "https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Mesmo Se Voc\u00ea Mudar",
         "url": "https://open.spotify.com/album/0coKC5Jns0QTkATFgbfYqG"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 185580,
       "name": "Mesmo Se Voc\u00ea Mudar",
       "url": "https://open.spotify.com/track/0YzANCFgYRdDAWk23mg9SO"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Resolvi Seguir",
+        "url": "https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+        }
+      ],
+      "duration_ms": 161144,
+      "name": "Resolvi Seguir",
+      "url": "https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Ela \u00c9 S\u00f3 Dela",
-        "url": "https://open.spotify.com/album/4sZAzREscCzfftBTpg5Eev"
-      },
-      "artists": [
-        {
-          "name": "Gabi Luthai",
-          "url": "https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV"
-        }
-      ],
-      "duration_ms": 176325,
-      "name": "Ela \u00c9 S\u00f3 Dela",
-      "url": "https://open.spotify.com/track/6rkVvNaR1XtmmIbclLlvP3"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "te decorei em mim",
         "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 177078,
       "name": "te decorei em mim",
       "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Ela \u00c9 S\u00f3 Dela",
+        "url": "https://open.spotify.com/album/4sZAzREscCzfftBTpg5Eev"
+      },
+      "artists": [
+        {
+          "name": "Gabi Luthai",
+          "url": "https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV"
+        }
+      ],
+      "duration_ms": 176325,
+      "name": "Ela \u00c9 S\u00f3 Dela",
+      "url": "https://open.spotify.com/track/6rkVvNaR1XtmmIbclLlvP3"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Brisa 22",
-      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Esperando C\u00ea Voltar",
         "url": "https://open.spotify.com/album/45VIWIfqIwMgElq0S8dF3Q"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Brisa 22",
+      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 145131,
       "name": "O Que Eu Devia Ter Vivido",
       "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Andando pela Orla",
+        "url": "https://open.spotify.com/album/1kaDGikjEeuJsNrD4Ra6Jv"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Won",
+          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
+        }
+      ],
+      "duration_ms": 112023,
+      "name": "Andando pela Orla",
+      "url": "https://open.spotify.com/track/23MOQX2Zz1NUwV9W4l3GrE"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -891,6 +907,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Sanidade Mental",
+        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 119706,
+      "name": "Sanidade Mental",
+      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "De Onde Eu Venho",
         "url": "https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U"
       },
@@ -923,38 +955,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Andando pela Orla",
-        "url": "https://open.spotify.com/album/1kaDGikjEeuJsNrD4Ra6Jv"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Won",
-          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
-        }
-      ],
-      "duration_ms": 112023,
-      "name": "Andando pela Orla",
-      "url": "https://open.spotify.com/track/23MOQX2Zz1NUwV9W4l3GrE"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "isso \u00e9 t\u00e3o a gente :)",
-        "url": "https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2"
-      },
-      "artists": [
-        {
-          "name": "Bia Jord\u00e3o",
-          "url": "https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU"
-        }
-      ],
-      "duration_ms": 190507,
-      "name": "isso \u00e9 t\u00e3o a gente :)",
-      "url": "https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Tua Voz",
         "url": "https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 205374,
       "name": "Tua Voz",
       "url": "https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Sanidade Mental",
-        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 119706,
-      "name": "Sanidade Mental",
-      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 176869,
       "name": "No Passo da Saudades",
       "url": "https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "isso \u00e9 t\u00e3o a gente :)",
+        "url": "https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2"
+      },
+      "artists": [
+        {
+          "name": "Bia Jord\u00e3o",
+          "url": "https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU"
+        }
+      ],
+      "duration_ms": 190507,
+      "name": "isso \u00e9 t\u00e3o a gente :)",
+      "url": "https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "deixa eu me perder",
-        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
-      },
-      "artists": [
-        {
-          "name": "Chiara Maria",
-          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "deixa eu me perder",
-      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Sincero",
         "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "deixa eu me perder",
+        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
+      },
+      "artists": [
+        {
+          "name": "Chiara Maria",
+          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "deixa eu me perder",
+      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "GRA\u00c7AS A DEUS",
         "url": "https://open.spotify.com/album/2ZIi7Xi8gPWO2FSdL5yiEE"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 126588,
       "name": "GRA\u00c7AS A DEUS",
       "url": "https://open.spotify.com/track/6QCUaIe6e7Sovbk8Zd1Hez"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Cada Amor",
-        "url": "https://open.spotify.com/album/5nGLsNfvUZKzTQHK1yrxtY"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 185767,
-      "name": "Cada Amor",
-      "url": "https://open.spotify.com/track/7iuIozN19rt8QyzX20kb93"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1355,18 +1339,34 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
+        "name": "Cada Amor",
+        "url": "https://open.spotify.com/album/5nGLsNfvUZKzTQHK1yrxtY"
       },
       "artists": [
         {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
         }
       ],
-      "duration_ms": 154603,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
+      "duration_ms": 185767,
+      "name": "Cada Amor",
+      "url": "https://open.spotify.com/track/7iuIozN19rt8QyzX20kb93"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Como Tinha Que Ser",
+        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Como Tinha Que Ser",
+      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "del\u00edrio coletivo",
-        "url": "https://open.spotify.com/album/5bMy8kayllIR9Kq1eYMLEx"
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
       },
       "artists": [
         {
-          "name": "Chiara Maria",
-          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
         }
       ],
-      "duration_ms": 164000,
-      "name": "del\u00edrio coletivo",
-      "url": "https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f"
+      "duration_ms": 154603,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
     }
   ],
   "unique_name": "Pop Leve",

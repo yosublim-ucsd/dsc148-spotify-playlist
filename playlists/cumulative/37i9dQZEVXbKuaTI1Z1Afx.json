@@ -13063,6 +13063,24 @@
     },
     {
       "album": {
+        "name": "Hell on Earth",
+        "url": "https://open.spotify.com/album/0GknuZS7rdHMs6lMh512WZ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183143,
+      "name": "Hell on Earth",
+      "url": "https://open.spotify.com/track/3FZFTF27zwcpOHYHTTdxUD"
+    },
+    {
+      "album": {
         "name": "Pink Heartz",
         "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
       },
@@ -15808,7 +15826,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 229562,
       "name": "jersey luv",
       "url": "https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO"
@@ -22624,7 +22642,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 128571,
       "name": "Onana",
       "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
@@ -33578,6 +33596,24 @@
       "duration_ms": 122880,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA"
+    },
+    {
+      "album": {
+        "name": "Virginia",
+        "url": "https://open.spotify.com/album/6H3rttgyNCc10rWa7QU4Sj"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170202,
+      "name": "Virginia",
+      "url": "https://open.spotify.com/track/3lyrNUQ61WtUKqIVLReTjj"
     },
     {
       "album": {

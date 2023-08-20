@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Natanya\. Updates every Wednesday.
 
-1,621 songs - 3 day 11 hr 34 min
+1,622 songs - 3 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1372,7 +1372,8 @@
 | [Sundress](https://open.spotify.com/track/2PVIOPgiTf6w6RlEJxQdkg) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal](https://open.spotify.com/album/6V836oeuXh62MWgiAHZPLz) | 3:19 | 2021-12-01 | 2022-01-13 |
 | [Sunny Days](https://open.spotify.com/track/3gXnOahT4VaUb6JyEjYEvz) | [Kennedy Ryon](https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH) | [Sunny Days](https://open.spotify.com/album/7fQrvuCGqLccjHRrRSKYHe) | 4:22 | 2023-05-19 | 2023-08-04 |
 | [SUNRISE](https://open.spotify.com/track/5bvsXgDtVaFSg2JFhxL1lH) | [Leuca](https://open.spotify.com/artist/3wCg2Idgypg6OjA0uDYctR) | [SUNRISE](https://open.spotify.com/album/1DI9bwQfWVGOAYkF18mFo7) | 2:55 | 2022-06-10 | 2023-01-12 |
-| [Sunshine](https://open.spotify.com/track/7jvzEFmrbnWTs9CtJN3UHO) | [Sidibe](https://open.spotify.com/artist/5XWrDs9DhuuC96bXWAS6cj) | [Sunshine](https://open.spotify.com/album/5T4tgFDirbV5hIP7FA7t0U) | 3:05 | 2023-07-26 |  |
+| [Sunshine](https://open.spotify.com/track/0vO7abRwchJlceGglv3Y1z) | [Sidibe](https://open.spotify.com/artist/5XWrDs9DhuuC96bXWAS6cj) | [Sunshine](https://open.spotify.com/album/4oCoGz6cMTGG0xFTc7iVzQ) | 3:05 | 2023-07-26 |  |
+| [Sunshine](https://open.spotify.com/track/7jvzEFmrbnWTs9CtJN3UHO) | [Sidibe](https://open.spotify.com/artist/5XWrDs9DhuuC96bXWAS6cj) | [Sunshine](https://open.spotify.com/album/5T4tgFDirbV5hIP7FA7t0U) | 3:05 | 2023-07-26 | 2023-08-20 |
 | [sunshine of your love](https://open.spotify.com/track/6x8DQoP4amD69eYmAx07Ra) | [PJAE](https://open.spotify.com/artist/3EpdSPXZERrqLpTrVdjtGe) | [sunshine of your love](https://open.spotify.com/album/6X0fdB7XRtGVrOIRVzreBo) | 2:29 | 2023-03-31 | 2023-08-04 |
 | [Sunshine State](https://open.spotify.com/track/2TpKV2CZKaGtibEVxMgvOd) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Sunshine State](https://open.spotify.com/album/6XZFgfqK3lbhLTBBwh8nRx) | 3:16 | 2023-07-14 |  |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-17 | 2023-02-23 |

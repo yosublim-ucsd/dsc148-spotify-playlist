@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMDU1MjAsMDAwMDAwMDAzNTcxZDNlYjQzODUxMGFiZjhjZTk4ZDlhZTJjNDZhNw==",
+  "snapshot_id": "MjgyMDU1MjAsMDAwMDAwMDAyNmRjODk4N2RlOWI5Y2JmZWQ5Y2Q5MWZjNDNmYWEzYw==",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Gimme Three Steps (Live)",
-        "url": "https://open.spotify.com/album/3GneX3d7xBTbuLzM9ViHMU"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 329160,
-      "name": "Gimme Three Steps - Live In Nashville/2022",
-      "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Endless Fashion (with Nicki Minaj) [Versions]",
         "url": "https://open.spotify.com/album/1oeuqGef5PwGCyb6lxPoL4"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 205497,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Gimme Three Steps (Live)",
+        "url": "https://open.spotify.com/album/3GneX3d7xBTbuLzM9ViHMU"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 329160,
+      "name": "Gimme Three Steps - Live At The Ryman Theatre, Nashville, TN - November 13, 2022",
+      "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -199,6 +199,46 @@
       "duration_ms": 158723,
       "name": "Bittersweet Goodbye - Ti\u00ebsto\u2019s Hardcore Remix",
       "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Baradero",
+        "url": "https://open.spotify.com/album/6B90qfJ1K299OKxl0Z4jh1"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "duration_ms": 125663,
+      "name": "Baradero",
+      "url": "https://open.spotify.com/track/40cYHjUocT2uYHIBLFhT8n"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+        "url": "https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        },
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+      "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -411,6 +451,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "8 to infinity",
+        "url": "https://open.spotify.com/album/3w9Z3NRNVVfMM9KfjuplUj"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 158171,
+      "name": "8 to infinity",
+      "url": "https://open.spotify.com/track/4RqdIBIVMQk5konaaFJABh"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Heidrun",
         "url": "https://open.spotify.com/album/46SLNuMmAJD0lYog885M8a"
       },
@@ -423,26 +479,6 @@
       "duration_ms": 282853,
       "name": "Heidrun (2023 Remix)",
       "url": "https://open.spotify.com/track/4ZmcdD9qI3RYmWcPymv3mw"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Float Away",
-        "url": "https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Float Away",
-      "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -495,6 +531,26 @@
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Float Away",
+        "url": "https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Float Away",
+      "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -563,54 +619,6 @@
       "duration_ms": 48306,
       "name": "Welcome To The P.I.T.S. (Skit)",
       "url": "https://open.spotify.com/track/7BOMUYPpca6405jjrWTL6N"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Forty Licks",
-        "url": "https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Key To Your Love - Remastered 2023",
-      "url": "https://open.spotify.com/track/7pGVuPUeGIMMynctL8soQ7"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "You've Got To Learn (Live)",
-        "url": "https://open.spotify.com/album/3QW6R0M33SezTeXgYRs9CX"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 242797,
-      "name": "I Loves You Porgy - Live",
-      "url": "https://open.spotify.com/track/1ojJeJgyAnbOeXnB1II9gO"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Restless Heart",
-        "url": "https://open.spotify.com/album/1dlAp4RV1eD55jQdSgyJuH"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Finding Yourself",
-      "url": "https://open.spotify.com/track/0t3YVK70KEmcYnoFj3xGLg"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

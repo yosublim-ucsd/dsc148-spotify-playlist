@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,324 likes - 55 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,436 likes - 55 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 54 | [ユアーズ](https://open.spotify.com/track/6eS0ZKrSBScOPE74eOLGQC) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [ユアーズ](https://open.spotify.com/album/2KCZ6tmHpxjC5VuRzTtY8R) | 4:26 |
 | 55 | [ENCORE](https://open.spotify.com/track/1sQxswWZthRueGAATZ0LNu) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [ENCORE](https://open.spotify.com/album/6yCI2iiM6j9Jx7PiSUzdlC) | 4:04 |
 
-Snapshot ID: `MCwyMThkMGE3NjZhMzMyMzliZDkzNmZiOGYyMjIwNWJmNTE5ZjUwZWI4`
+Snapshot ID: `MCw1NDc1YjVhM2RlODA4YmQyODhiYjg2NzE3MjU4MmU5ZmZiNDhhMDAz`

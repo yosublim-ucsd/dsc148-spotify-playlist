@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Lil Durk, Doja Cat, Travis Scott, Ice Spice, Nasty C, J Hus and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,257 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,778 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 |
 | 50 | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw) | 3:25 |
 
-Snapshot ID: `MCw5ZDZhMmJhNzE4ZWUxYjhiOWYzODBmYjMzYjhkYTljZThiZWQzN2U4`
+Snapshot ID: `MCxhM2Y0YzQwNDI4YzlmMmRlNTYxMzk2ZDJmN2YyNWIzNWE2YTE0MzI1`

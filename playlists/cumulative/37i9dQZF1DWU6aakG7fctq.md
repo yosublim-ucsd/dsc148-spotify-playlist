@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Ale Fdz
 
-438 songs - 1 day 0 hr 24 min
+439 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 | 2022-08-19 | 2023-04-02 |
 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 | 2023-06-02 |  |
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-14 |  |
-| [Memorias](https://open.spotify.com/track/10lioNEUsuH1Jk3qDTsGCA) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Memorias](https://open.spotify.com/album/67WIKZx249OeXbbN0Igjmb) | 3:19 | 2023-06-02 |  |
+| [Memorias](https://open.spotify.com/track/10lioNEUsuH1Jk3qDTsGCA) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Memorias](https://open.spotify.com/album/67WIKZx249OeXbbN0Igjmb) | 3:19 | 2023-06-02 | 2023-08-20 |
 | [Mexico](https://open.spotify.com/track/3FAOA3cYNCXAwDIePAW19V) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/6glbSrF6iIteSZsPdzgdY3) | 3:40 | 2023-05-26 |  |
 | [Mi Droga Favorita](https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Mi Droga Favorita](https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL) | 2:55 | 2023-06-09 |  |
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2022-11-24 | 2023-04-29 |
@@ -328,7 +328,7 @@
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-24 |  |
 | [Really Rong](https://open.spotify.com/track/60vsS2ZyzU8gVHEyG35g57) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:24 | 2022-01-10 | 2022-11-25 |
 | [Regalo](https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Buen Pez \(Deluz\)](https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe) | 2:57 | 2022-12-09 | 2023-04-29 |
-| [Regresar](https://open.spotify.com/track/0Y2KKM5DsuEZOeSVdSFgGJ) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Miamorcito Loco + Regresar](https://open.spotify.com/album/5qP9BxHSujRsG0SmsTOjqf) | 3:31 | 2023-06-02 |  |
+| [Regresar](https://open.spotify.com/track/0Y2KKM5DsuEZOeSVdSFgGJ) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Miamorcito Loco + Regresar](https://open.spotify.com/album/5qP9BxHSujRsG0SmsTOjqf) | 3:31 | 2023-06-02 | 2023-08-20 |
 | [Regresar \(Vibes4YourSoul Remix\)](https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vibes4YourSoul](https://open.spotify.com/artist/2z0Od7adlbPJRlM6pyFZZV) | [Regresar \(Vibes4YourSoul Remix\)](https://open.spotify.com/album/2ek84DXerG63Z5QhSz79lA) | 4:11 | 2023-03-10 | 2023-04-17 |
 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 | 2022-09-06 | 2022-10-28 |
 | [Repetición](https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Repetición](https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0) | 2:56 | 2022-09-06 | 2022-12-10 |
@@ -348,7 +348,7 @@
 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 | 2023-04-14 | 2023-07-03 |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-10 |  |
 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 | 2021-11-18 | 2022-11-25 |
-| [Si Volviera A Conocerte](https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Si Volviera A Conocerte](https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4) | 3:11 | 2023-07-14 | 2023-08-07 |
+| [Si Volviera A Conocerte](https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Si Volviera A Conocerte](https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4) | 3:11 | 2023-07-14 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-09-06 | 2022-10-28 |
 | [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 | 2023-08-11 |  |
 | [Sin Freno](https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 5:13 | 2023-04-28 |  |
@@ -376,6 +376,7 @@
 | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP) | 3:49 | 2023-04-21 | 2023-06-17 |
 | [Te había contao](https://open.spotify.com/track/0KjmacdqLiXABYlCSZgLxu) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb), [Pororó](https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3) | [Te había contao](https://open.spotify.com/album/0fsdJqVYDcHFmz8hFp17xT) | 3:38 | 2023-05-05 | 2023-05-26 |
 | [Te necesito everywhere](https://open.spotify.com/track/4cLZmzNCVnjROyOD8JbqKO) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Te necesito everywhere](https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG) | 2:46 | 2023-03-31 | 2023-04-15 |
+| [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2023-08-18 |  |
 | [Te Olvidaste](https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Te Olvidaste](https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ) | 3:02 | 2023-02-17 | 2023-07-30 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2021-11-18 | 2022-08-12 |
 | [te quiero tanto](https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:25 | 2022-11-24 | 2023-02-18 |

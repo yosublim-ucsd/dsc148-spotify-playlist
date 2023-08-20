@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,649 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,683 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 99 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
 | 100 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 |
 
-Snapshot ID: `MCwyYTQ3YTY5MDJiYmRmNzg2YjQ3YWI2NjRiMTRiODM5Yjk3ZGE5MWNl`
+Snapshot ID: `MCw1ZGFmYmU5YTY3NmI2MGIxMjRiNDZiOTYxYmVjYTNkMmU0MTQzODg4`

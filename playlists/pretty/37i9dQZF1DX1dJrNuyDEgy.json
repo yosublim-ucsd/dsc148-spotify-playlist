@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 208557,
+  "num_followers": 208648,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGM0OTZmMzM2NWU2Nzc0YjNjYTEwYWQ1YzM5NGRjZGYwMjI4MmMz",
+  "snapshot_id": "MCw2NWExYjhkYWM5YWU2OGYxYjU5ZmNmOTVjNGE5MzkxMGRlMTljN2Iz",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 162423,
-      "name": "El Toro Serrano",
-      "url": "https://open.spotify.com/track/1OimeC3g4x7yH50XQFggPm"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "Fiesta Mexicana\u201a Puro Mariachi",
         "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 179946,
       "name": "Pelea De Gallos",
       "url": "https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 162423,
+      "name": "El Toro Serrano",
+      "url": "https://open.spotify.com/track/1OimeC3g4x7yH50XQFggPm"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Pepe Aguilar con Tambora",
-        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 137108,
-      "name": "La Vaquilla Colorada",
-      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "La Historia Continua Parte III",
         "url": "https://open.spotify.com/album/4BaK6FirPB275verCcwNJF"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 128560,
       "name": "El Carretero Se Va",
       "url": "https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "Pepe Aguilar con Tambora",
+        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 137108,
+      "name": "La Vaquilla Colorada",
+      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
+        "name": "Fiesta Mexicana\u201a Puro Mariachi",
+        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/5vTCRHPzOIXTPx0Bx6fGhM"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
         "name": "Antologia Musical 30 Exitos",
         "url": "https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 172826,
       "name": "15 de Septiembre",
       "url": "https://open.spotify.com/track/21yxW3iXPbxEpa5FRILbdF"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
-        "name": "Fiesta Mexicana\u201a Puro Mariachi",
-        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/5vTCRHPzOIXTPx0Bx6fGhM"
     },
     {
       "added_at": "2022-11-19 17:26:23",

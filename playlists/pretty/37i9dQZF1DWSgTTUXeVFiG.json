@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 20688,
+  "num_followers": 20729,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWRjZTgxZjU2MDBjZDZhYWYwOTA1MmRjNzNjNzUxYmZlZTRmMGQ3",
+  "snapshot_id": "MCw4NGFiYmExYTkzMmY2ZGU4Zjk4ZGNkZWE0YjE4NjkyMDQxODRhMzIz",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Victor Manuelle Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/4Cod19wOYqojpBfb6G8pdE"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "Tengo Ganas - Live Carnegie Version",
+      "url": "https://open.spotify.com/track/0dfKQSS9o3pfSducqHXaCy"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Todos Vuelven Live, Vol. 2",
         "url": "https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Victor Manuelle Desde El Carnegie Hall",
-        "url": "https://open.spotify.com/album/4Cod19wOYqojpBfb6G8pdE"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "Tengo Ganas - Live Carnegie Version",
-      "url": "https://open.spotify.com/track/0dfKQSS9o3pfSducqHXaCy"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -799,38 +799,6 @@
       "duration_ms": 352480,
       "name": "Medias Negras - Live Version",
       "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Intimamente Salsero (En Vivo)",
-        "url": "https://open.spotify.com/album/5Reuqd1mwQDQOdx0vFvOXm"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 298573,
-      "name": "Sue\u00f1o Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1ACoCw1B1BRNg0gaLQmdJQ"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 392933,
-      "name": "Hazme Olvidarla - En Vivo",
-      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -851,6 +819,38 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 392933,
+      "name": "Hazme Olvidarla - En Vivo",
+      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Intimamente Salsero (En Vivo)",
+        "url": "https://open.spotify.com/album/5Reuqd1mwQDQOdx0vFvOXm"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "duration_ms": 298573,
+      "name": "Sue\u00f1o Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1ACoCw1B1BRNg0gaLQmdJQ"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Grupo Niche (En Vivo)",
         "url": "https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3"
       },
@@ -867,22 +867,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Todos Vuelven Live, Vol. 1",
-        "url": "https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS"
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
       },
       "artists": [
         {
-          "name": "Ruben Blades",
-          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
-        },
-        {
-          "name": "Seis del Solar",
-          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 360080,
-      "name": "Decisiones - Live",
-      "url": "https://open.spotify.com/track/0NZ5mg6DGJHdnQkQjtsGHb"
+      "duration_ms": 275960,
+      "name": "Tengo Ganas - Live at MSG Version",
+      "url": "https://open.spotify.com/track/2oPozWeqp6qGl3mWK2I62C"
     }
   ],
   "unique_name": "Vivo de Salsa",

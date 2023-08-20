@@ -6,7 +6,7 @@
     "name": "Johnny Le",
     "url": "https://open.spotify.com/user/12158668258"
   },
-  "snapshot_id": "Mjk2LDMxOTc4YjYxMzFhZGRhYTVkMjVkNDVjNjAyNTVkMmNiZTk0OWM0NmM=",
+  "snapshot_id": "Mjk5LGU1NjViZjYxMmNlZTFlYWIzOTg2YTdmMjhhYzFhMWZkMTZmYjExZmY=",
   "tracks": [
     {
       "added_at": "2022-08-25 09:19:40",
@@ -3243,6 +3243,54 @@
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2023-08-18 07:53:57",
+      "album": {
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 169078,
+      "name": "i'm so lonely with you",
+      "url": "https://open.spotify.com/track/0iMfr1JUzW8M8ip40vYk6H"
+    },
+    {
+      "added_at": "2023-08-18 08:17:00",
+      "album": {
+        "name": "crush (demos)",
+        "url": "https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 50014,
+      "name": "strawberry milk",
+      "url": "https://open.spotify.com/track/2ZXM6D8U2UokuOjbasoq1r"
+    },
+    {
+      "added_at": "2023-08-18 08:17:46",
+      "album": {
+        "name": "crush (demos)",
+        "url": "https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 60881,
+      "name": "my fault",
+      "url": "https://open.spotify.com/track/46nXKRBeHUxVFvyxkcGPWF"
     }
   ],
   "unique_name": "//divided.",

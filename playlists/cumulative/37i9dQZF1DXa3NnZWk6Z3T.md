@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-323 songs - 18 hr 38 min
+324 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 | 2021-12-09 |  |
 | [Café Con Chocolate](https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:22 | 2021-12-09 |  |
 | [Café Con Leche](https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mujer Eléctrica](https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59) | 1:53 | 2022-12-30 |  |
+| [Calendario](https://open.spotify.com/track/4Ywbd4VT9fx4wECiUbTU61) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Calendario](https://open.spotify.com/album/6tVWQlp1uMxgCx7BmBqy8u) | 3:17 | 2023-08-11 |  |
 | [Calle Cima](https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Calle Cima](https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim) | 3:39 | 2021-12-09 |  |
 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 | 2022-04-07 | 2022-09-22 |
 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 | 2021-12-09 |  |
@@ -262,7 +263,7 @@
 | [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 | 2021-12-09 | 2023-04-30 |
 | [Riéndose de Mí](https://open.spotify.com/track/0ZnmpuDFDqokEM0gget638) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Riéndose de Mí](https://open.spotify.com/album/5DZuc93pCvPra5ecaYgNKa) | 3:21 | 2021-12-09 |  |
 | [Salvavidas de hielo \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/70LZISLWsPXGBn1bpJuYAU) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:29 | 2021-12-09 | 2022-10-28 |
-| [Se Acaba Todo](https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Se Acaba Todo](https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB) | 3:16 | 2022-09-21 |  |
+| [Se Acaba Todo](https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Se Acaba Todo](https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB) | 3:16 | 2022-09-21 | 2023-08-20 |
 | [Semitransparente](https://open.spotify.com/track/0G8vDG9wlBEneyoneUBYyl) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Diferentes Tipos de Luz](https://open.spotify.com/album/2ApLZfsw7yYrztoaNkwLe5) | 4:42 | 2022-04-07 | 2022-10-28 |
 | [Serenatas Frente al Mar](https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Serenatas Frente al Mar](https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie) | 3:17 | 2021-12-09 |  |
 | [Si Me Voy](https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Si Me Voy](https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq) | 3:06 | 2022-05-14 |  |

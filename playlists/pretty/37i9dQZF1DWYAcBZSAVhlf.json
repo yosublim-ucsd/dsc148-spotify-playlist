@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 246639,
+  "num_followers": 246891,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmIxYTUyYjhhMDc5ZTM1Mjc0YjA2ODZmNTc3MjRjZWI4MmI5NjZm",
+  "snapshot_id": "MCwzYmU0MTk1MjIwNTM3YmIwNWMzNTBiMjI1NDNmNGVlNmE4OTljNTlh",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -875,8 +875,8 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
+      "duration_ms": 280853,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 280853,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Frantic Romantic",
         "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 293240,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
     },
     {
       "added_at": "2023-01-03 15:06:17",

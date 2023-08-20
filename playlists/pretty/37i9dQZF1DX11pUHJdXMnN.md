@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,382 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,405 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 28 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
 | 29 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
 | 30 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 |
-| 31 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
-| 32 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
+| 31 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
+| 32 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
 | 33 | [Dreamers](https://open.spotify.com/track/5087hJq9c6KM6gGb7CsjDi) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Dixon Presents Transmoderna Part 2/4](https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g) | 6:39 |
 | 34 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 |
 | 35 | [Trans Orient Express \- Adana Twins "A Night At EGO" Version \- Edit](https://open.spotify.com/track/0zCqYPJEfVhCDDvCDrWIAV) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Trans Orient Express \(Adana Twins A Night At EGO" Version \- Edit"\)](https://open.spotify.com/album/5bSWEhz58eNwQuKehvAaW2) | 3:58 |
-| 36 | [In My Element \- Skream Remix](https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In My Element \(Skream Remix\)](https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U) | 6:00 |
-| 37 | [Faccia a faccia \- Italoconnection Remix Radio](https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Faccia a faccia \(Remixes\)](https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7) | 3:47 |
+| 36 | [Faccia a faccia \- Italoconnection Remix Radio](https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Faccia a faccia \(Remixes\)](https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7) | 3:47 |
+| 37 | [In My Element \- Skream Remix](https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In My Element \(Skream Remix\)](https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U) | 6:00 |
 | 38 | [Hymnotic](https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu) | [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [Hymnotic](https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk) | 4:22 |
 | 39 | [Mirage \- Anoraak Extended Remix](https://open.spotify.com/track/35iuuDX0wvxdOwwRVg84UX) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 5:58 |
 | 40 | [Eyes Wide Strut \(feat\. Wooze\) \- Tunnelvisions Remix](https://open.spotify.com/track/1bAop39IxOjIyYXSL0jENv) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA), [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Eyes Wide Strut \(feat\. Wooze\) \[Tunnelvisions Remix\]](https://open.spotify.com/album/2B9sn1QAF4AZ6h9N0cBFAG) | 5:50 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 | 45 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 |
 
-Snapshot ID: `MCxlYzJmMGM3ZTkyYTI4MjAxMDNhZWZhYTNjN2E4NGNmZjFkNTU5OTIy`
+Snapshot ID: `MCw4MzIzYzdjY2FkNTI4ODMzOTAwMTk0OGNmNjVhYzNkNTZjNWNmYzc0`

@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 407616,
+  "num_followers": 407849,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjIyMzdhM2ZhNjBiMDRkZjFiOWFlNmVmNzQwNDBjMWE2ZTBjNmEz",
+  "snapshot_id": "MCw0YmM1MDNhYTE1Y2RlNTJhMTExY2ZlMTBkMGY3ZTczZTIzZTEwYzY0",
   "tracks": [
     {
       "added_at": "2023-07-27 09:26:27",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-06-08 18:20:52",
       "album": {
+        "name": "Silver Side Up",
+        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+    },
+    {
+      "added_at": "2023-06-08 18:20:52",
+      "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
-    },
-    {
-      "added_at": "2023-06-08 18:20:52",
-      "album": {
-        "name": "Silver Side Up",
-        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "How You Remind Me",
-      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
     },
     {
       "added_at": "2023-06-08 18:20:52",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-08 18:20:52",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 271560,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
-    },
-    {
-      "added_at": "2023-06-08 18:20:52",
-      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "added_at": "2023-06-08 18:20:52",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 271560,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
     },
     {
       "added_at": "2023-06-08 18:20:52",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-08 18:20:52",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 382296,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
-    },
-    {
-      "added_at": "2023-06-08 18:20:52",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 240213,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
+    },
+    {
+      "added_at": "2023-06-08 18:20:52",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 382296,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
     },
     {
       "added_at": "2023-06-08 18:20:52",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
-      "added_at": "2023-07-27 09:26:27",
-      "album": {
-        "name": "Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 323133,
-      "name": "Drink Before the War",
-      "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
-    },
-    {
       "added_at": "2023-06-08 18:20:52",
       "album": {
         "name": "WALLS",
@@ -843,6 +827,22 @@
       "duration_ms": 183093,
       "name": "Waste A Moment",
       "url": "https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0"
+    },
+    {
+      "added_at": "2023-07-27 09:26:27",
+      "album": {
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 323133,
+      "name": "Drink Before the War",
+      "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
     },
     {
       "added_at": "2023-06-08 18:20:52",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-06-08 18:20:52",
       "album": {
-        "name": "The Narcissist",
-        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 245225,
-      "name": "The Narcissist",
-      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
-    },
-    {
-      "added_at": "2023-06-08 18:20:52",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 200813,
       "name": "Songbird - 2004 Remaster",
       "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
+    },
+    {
+      "added_at": "2023-06-08 18:20:52",
+      "album": {
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
     },
     {
       "added_at": "2023-06-08 18:20:52",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-06-08 18:20:52",
       "album": {
-        "name": "Louder Than Bombs",
-        "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 140506,
-      "name": "Panic - 2011 Remaster",
-      "url": "https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK"
-    },
-    {
-      "added_at": "2023-06-08 18:20:52",
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 219400,
       "name": "Under You",
       "url": "https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3"
+    },
+    {
+      "added_at": "2023-07-27 09:26:27",
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
     },
     {
       "added_at": "2023-06-08 18:20:52",
@@ -973,20 +973,20 @@
       "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
-      "added_at": "2023-07-27 09:26:27",
+      "added_at": "2023-06-08 18:20:52",
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+        "name": "Louder Than Bombs",
+        "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         }
       ],
-      "duration_ms": 157733,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
+      "duration_ms": 140506,
+      "name": "Panic - 2011 Remaster",
+      "url": "https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK"
     },
     {
       "added_at": "2023-06-08 18:20:52",

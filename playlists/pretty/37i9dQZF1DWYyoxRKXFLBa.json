@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 7876,
+  "num_followers": 7880,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTI4YzU0N2QxZjFiZDk2ZDBmOWM3ZjhkNjFmMGJjNzVkZjhlZjg1",
+  "snapshot_id": "MCwxZjI4NTEyZDYwNDliNWE1NTJiNTYxOGFkMmFmYmUyZTk2MDRkZTgz",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -431,8 +431,8 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
       "artists": [
         {
@@ -440,25 +440,9 @@
           "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -475,6 +459,22 @@
       "duration_ms": 154576,
       "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
       "url": "https://open.spotify.com/track/3LV2ZZW474RFPJFJolaJLZ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 162421,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "M\u00e1scara de Ni\u00f1a",
-        "url": "https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 194148,
-      "name": "M\u00e1scara de Ni\u00f1a",
-      "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -595,8 +579,24 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+        "name": "M\u00e1scara de Ni\u00f1a",
+        "url": "https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 194148,
+      "name": "M\u00e1scara de Ni\u00f1a",
+      "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Free Your Mind (Spanish Version)",
         "url": "https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 177450,
       "name": "Free Your Mind - Spanish Version",
       "url": "https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Horas Contigo",
-        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 159254,
-      "name": "Horas Contigo",
-      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "DESTRUYA!",
         "url": "https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 142643,
       "name": "Desmotivada",
       "url": "https://open.spotify.com/track/5XXP7McoRRdfmplsrKGeBv"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Horas Contigo",
+        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 159254,
+      "name": "Horas Contigo",
+      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "xADR3N4LIN4x",
-        "url": "https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0"
-      },
-      "artists": [
-        {
-          "name": "xHEIDIx",
-          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
-        }
-      ],
-      "duration_ms": 120773,
-      "name": "SUPERFICIAL",
-      "url": "https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Tu Color",
         "url": "https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 226960,
       "name": "Tu Color",
       "url": "https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "xADR3N4LIN4x",
+        "url": "https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0"
+      },
+      "artists": [
+        {
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+        }
+      ],
+      "duration_ms": 120773,
+      "name": "SUPERFICIAL",
+      "url": "https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Superdependiente",
-        "url": "https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t"
-      },
-      "artists": [
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        }
-      ],
-      "duration_ms": 176511,
-      "name": "Superdependiente",
-      "url": "https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Fuera de Lugar",
         "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "somos flores",
-        "url": "https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd"
+        "name": "Superdependiente",
+        "url": "https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t"
       },
       "artists": [
         {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
         }
       ],
-      "duration_ms": 206727,
-      "name": "somos flores",
-      "url": "https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK"
+      "duration_ms": 176511,
+      "name": "Superdependiente",
+      "url": "https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1007,6 +991,22 @@
       "duration_ms": 190793,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/4b3ZcXUbkJu32F5xKJaXTz"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "somos flores",
+        "url": "https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 206727,
+      "name": "somos flores",
+      "url": "https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "De par en par",
-        "url": "https://open.spotify.com/album/2vJmqGyVWXATCZyYDcvwkN"
-      },
-      "artists": [
-        {
-          "name": "Onyricats",
-          "url": "https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn"
-        }
-      ],
-      "duration_ms": 246089,
-      "name": "De par en par",
-      "url": "https://open.spotify.com/track/1XDCh1aPoNPVTWHyHMZNnc"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Lilith",
         "url": "https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 168500,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "De par en par",
+        "url": "https://open.spotify.com/album/2vJmqGyVWXATCZyYDcvwkN"
+      },
+      "artists": [
+        {
+          "name": "Onyricats",
+          "url": "https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn"
+        }
+      ],
+      "duration_ms": 246089,
+      "name": "De par en par",
+      "url": "https://open.spotify.com/track/1XDCh1aPoNPVTWHyHMZNnc"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Corrida al Arco",
-        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 253456,
-      "name": "Corrida al Arco",
-      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Volver a Ser",
         "url": "https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Pulitzer",
-        "url": "https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF"
+        "name": "Corrida al Arco",
+        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
       },
       "artists": [
         {
-          "name": "Onyricats",
-          "url": "https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn"
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
         }
       ],
-      "duration_ms": 263718,
-      "name": "Pulitzer",
-      "url": "https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf"
+      "duration_ms": 253456,
+      "name": "Corrida al Arco",
+      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1295,6 +1279,22 @@
       "duration_ms": 213333,
       "name": "Fea",
       "url": "https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Pulitzer",
+        "url": "https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF"
+      },
+      "artists": [
+        {
+          "name": "Onyricats",
+          "url": "https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn"
+        }
+      ],
+      "duration_ms": 263718,
+      "name": "Pulitzer",
+      "url": "https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Esp\u00e9cimen Surf",
-        "url": "https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT"
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/5DB06kLqIbFneddTadfbGH"
       },
       "artists": [
         {
-          "name": "The Centellas",
-          "url": "https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD"
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        },
+        {
+          "name": "Kate Clover",
+          "url": "https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5"
         }
       ],
-      "duration_ms": 149572,
-      "name": "Prisma Lunar",
-      "url": "https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re"
+      "duration_ms": 186431,
+      "name": "Baby Don't You Love Me - Bonus Track",
+      "url": "https://open.spotify.com/track/59Tnq0bVlPkMtHt3m35XgL"
     }
   ],
   "unique_name": "Ruidosas",

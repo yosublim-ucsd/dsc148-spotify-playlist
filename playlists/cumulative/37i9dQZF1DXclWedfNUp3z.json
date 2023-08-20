@@ -1198,6 +1198,24 @@
     {
       "album": {
         "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
+        "url": "https://open.spotify.com/album/5YNZYOdNSUDyMfJu0exTeb"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1bio Caramuru",
+          "url": "https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299472,
+      "name": "Cigarra",
+      "url": "https://open.spotify.com/track/1UjI4B3gCKYxDMTd0n7J9Q"
+    },
+    {
+      "album": {
+        "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
         "url": "https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM"
       },
       "artists": [
@@ -6524,7 +6542,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 304831,
       "name": "Ventus",
       "url": "https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q"

@@ -584,10 +584,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 221946,
       "name": "DEFIANT ORDER",
       "url": "https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO"
+    },
+    {
+      "album": {
+        "name": "Defiant Order",
+        "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
+      },
+      "artists": [
+        {
+          "name": "Birdy Nam Nam",
+          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222813,
+      "name": "Defiant order",
+      "url": "https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ"
     },
     {
       "album": {

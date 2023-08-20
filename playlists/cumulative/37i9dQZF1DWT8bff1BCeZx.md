@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-76 songs - 7 hr 21 min
+77 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/track/2RWZmHPIBFt3JKONel59uK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/7qX3BuzNizGmk2hkwRxuq1) | 3:28 | 2023-07-14 |  |
 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 | 2023-06-30 |  |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-07-07 |  |
-| [Ebenezer \- Live](https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Kingdom Come \(Live\)](https://open.spotify.com/album/0nmXZ2QOghK12EEQv8NNnD) | 7:11 | 2023-08-18 |  |
+| [Ebenezer \- Live](https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Kingdom Come \(Live\)](https://open.spotify.com/album/0nmXZ2QOghK12EEQv8NNnD) | 7:11 | 2023-08-18 | 2023-08-20 |
 | [Ese Oluwa / Papa](https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 6:48 | 2023-04-06 |  |
 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 | 2023-06-16 |  |
 | [Fire on the Mountain](https://open.spotify.com/track/1u2W22pbY0opK1gcETuFaF) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Fire on the Mountain](https://open.spotify.com/album/0iW7DU3HZzEnHa4l2zEzmp) | 2:40 | 2023-08-11 | 2023-08-15 |
@@ -51,6 +51,7 @@
 | [My Everything](https://open.spotify.com/track/3tQfgI83X44PjoPXSzIF3w) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [My Everything](https://open.spotify.com/album/0Lt1PeYDD7JtRz4TQqKvkN) | 4:41 | 2023-04-06 | 2023-04-11 |
 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 | 2023-04-06 |  |
 | [My God Is Good \- Live](https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 13: Live At The Mosaeik Theatre JHB](https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F) | 4:41 | 2023-04-06 |  |
+| [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-18 |  |
 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 | 2023-04-06 |  |
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2023-04-06 |  |
 | [Next Fuji Thing \(Bonus Track\)](https://open.spotify.com/track/3AKztbzt8WzVRnVjwGhtk5) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Good 2 Go](https://open.spotify.com/album/5fsqEs8zrGfxmnmvKsgTrg) | 6:57 | 2023-04-14 | 2023-07-07 |

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 347801,
+  "num_followers": 347864,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjkyZDhlMDIyNTE0YTY0NmE0Y2ExYzY5YzhkNDgxZjc3MjJjNTQz",
+  "snapshot_id": "MCw0ZWVjZWIxYzc0MWNmYzU0MWIyNDI5NmMwNmEyM2JiMDljODE3ODk3",
   "tracks": [
     {
       "added_at": "2023-08-18 12:22:39",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-08-18 12:22:39",
       "album": {
+        "name": "chemistry",
+        "url": "https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 191007,
+      "name": "mine",
+      "url": "https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl"
+    },
+    {
+      "added_at": "2023-08-18 12:22:39",
+      "album": {
         "name": "Put A Little Love On Me",
         "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
-    },
-    {
-      "added_at": "2023-08-18 12:22:39",
-      "album": {
-        "name": "chemistry",
-        "url": "https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 191007,
-      "name": "mine",
-      "url": "https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl"
     },
     {
       "added_at": "2023-08-18 12:22:39",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-08-18 12:22:39",
       "album": {
-        "name": "DEPOIS DO UNIVERSO",
-        "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "DEPOIS DO UNIVERSO",
-      "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
-    },
-    {
-      "added_at": "2023-08-18 12:22:39",
-      "album": {
         "name": "Chemtrails Over The Country Club",
         "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 200661,
       "name": "Let Me Love You Like A Woman",
       "url": "https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D"
+    },
+    {
+      "added_at": "2023-08-18 12:22:39",
+      "album": {
+        "name": "DEPOIS DO UNIVERSO",
+        "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "DEPOIS DO UNIVERSO",
+      "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
     },
     {
       "added_at": "2023-08-18 12:22:39",
@@ -1123,6 +1123,22 @@
       "duration_ms": 237426,
       "name": "Conversations in the Dark",
       "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
+    },
+    {
+      "added_at": "2023-08-18 12:22:39",
+      "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 166916,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
     },
     {
       "added_at": "2023-08-18 12:22:39",
@@ -1519,6 +1535,22 @@
     {
       "added_at": "2023-08-18 12:22:39",
       "album": {
+        "name": "just a boy",
+        "url": "https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 185681,
+      "name": "just a boy",
+      "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
+    },
+    {
+      "added_at": "2023-08-18 12:22:39",
+      "album": {
         "name": "REWIND DOIS",
         "url": "https://open.spotify.com/album/2S4ZruzfwuQWkoVYk4ibrZ"
       },
@@ -1535,22 +1567,6 @@
       "duration_ms": 184000,
       "name": "REWIND DOIS",
       "url": "https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK"
-    },
-    {
-      "added_at": "2023-08-18 12:22:39",
-      "album": {
-        "name": "just a boy",
-        "url": "https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 185681,
-      "name": "just a boy",
-      "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
     },
     {
       "added_at": "2023-08-18 12:22:39",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2023-08-18 12:22:39",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R"
-    },
-    {
-      "added_at": "2023-08-18 12:22:39",
-      "album": {
         "name": "All Love Everything (Deluxe)",
         "url": "https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx"
       },
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-08-18 12:22:39",
       "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R"
+    },
+    {
+      "added_at": "2023-08-18 12:22:39",
+      "album": {
         "name": "Songs I Wrote in My Bedroom",
         "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 302894,
       "name": "Hindenburg Lover",
       "url": "https://open.spotify.com/track/32RwADYaEBNw9QeXP4Tz1g"
-    },
-    {
-      "added_at": "2023-08-18 12:22:39",
-      "album": {
-        "name": "Carry It Well",
-        "url": "https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 215048,
-      "name": "Carry It Well",
-      "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
     }
   ],
   "unique_name": "Friozinho",

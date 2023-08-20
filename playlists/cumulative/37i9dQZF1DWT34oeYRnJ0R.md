@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Luar La L & Ozuna
 
-311 songs - 16 hr 8 min
+312 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [No te lo niego, ma dolío](https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [Lágrimas pa otro día](https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp) | 2:04 | 2023-05-01 |  |
 | [NOBODY GOT IT \(Remix\)](https://open.spotify.com/track/3838Rsovb7CmNIHcrhlfr7) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Nobody Got It \(Remix\)](https://open.spotify.com/album/06tbAH14600bPLsZ97s9WJ) | 2:48 | 2023-05-01 |  |
 | [Nobody Like Me](https://open.spotify.com/track/6V1LNio3PtaoiePzCAJF9t) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Nobody Like Me](https://open.spotify.com/album/5yNTTe5Y9eyjEdNLKY2TPL) | 3:06 | 2022-09-06 | 2023-05-06 |
-| [noches largas, faldas cortas](https://open.spotify.com/track/0HZanBVjCHvVOSsrMvS08L) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:02 | 2022-09-06 |  |
+| [noches largas, faldas cortas](https://open.spotify.com/track/0HZanBVjCHvVOSsrMvS08L) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:02 | 2022-09-06 | 2023-08-20 |
 | [Nosotras](https://open.spotify.com/track/4nFDjLt6B26zHLmc1Tz8rn) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Contragolpe](https://open.spotify.com/album/09og5AoFa5Qq8Tlny8t0BG) | 2:47 | 2022-03-21 | 2022-09-07 |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2022-09-06 |  |
 | [NOTEVI](https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jimmix](https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP) | [NOTEVI](https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw) | 4:20 | 2022-12-06 | 2023-05-28 |
@@ -282,6 +282,7 @@
 | [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 | 2023-07-22 |
 | [TE EXCITO](https://open.spotify.com/track/5mckOgQpLWXGKDL7JkhinL) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [TE EXCITO](https://open.spotify.com/album/39gMLm6ooahFbaF0EDOsdZ) | 3:00 | 2022-09-06 | 2022-12-13 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2022-09-06 |  |
+| [Tempo](https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Tempo](https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n) | 1:47 | 2023-08-18 |  |
 | [The 1](https://open.spotify.com/track/4RZyqmqauYuQlvB4NfElJc) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 | 2022-03-25 | 2022-09-07 |
 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 | 2022-08-01 | 2022-09-07 |
 | [Tiempo](https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Tiempo](https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft) | 1:31 | 2023-05-12 |  |

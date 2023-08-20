@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,789 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,826 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 10 | [The Volcano Song](https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:09 |
 | 11 | [Panini](https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:54 |
 | 12 | [Go Play Outside](https://open.spotify.com/track/5oGi3t0P5LJ4Opu87mlLUg) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:27 |
-| 13 | [Welcome To Karma's World](https://open.spotify.com/track/1AP554izviISI1m6Yb7O0o) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Welcome To Karma's World](https://open.spotify.com/album/6afrouyfY9xZUlrSavHY57) | 2:45 |
-| 14 | [If You're Happy and You Know It](https://open.spotify.com/track/1CoEBzmNnIJlNRrgcGZ1Lz) | [Big Don](https://open.spotify.com/artist/5CgfMNQljRnqHeS8EZ54JT) | [Big Don's Brand New Beat](https://open.spotify.com/album/3p6hybEOJ67tTbLYUd2i2v) | 3:05 |
+| 13 | [If You're Happy and You Know It](https://open.spotify.com/track/1CoEBzmNnIJlNRrgcGZ1Lz) | [Big Don](https://open.spotify.com/artist/5CgfMNQljRnqHeS8EZ54JT) | [Big Don's Brand New Beat](https://open.spotify.com/album/3p6hybEOJ67tTbLYUd2i2v) | 3:05 |
+| 14 | [Welcome To Karma's World](https://open.spotify.com/track/1AP554izviISI1m6Yb7O0o) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Welcome To Karma's World](https://open.spotify.com/album/6afrouyfY9xZUlrSavHY57) | 2:45 |
 | 15 | [Girls Run Everything](https://open.spotify.com/track/6lIFLRxoupohiSJXw7PXpZ) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Girls Run Everything](https://open.spotify.com/album/62rQGSafiS9Fq3lOsTBGOB) | 1:49 |
 | 16 | [Take Me to Jamaica](https://open.spotify.com/track/6iRe9TNNsqheEko10IJGCN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:18 |
 | 17 | [I Like Fruit](https://open.spotify.com/track/1FgVgbqZG3tZ9vNgymPOVe) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:20 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 47 | [Dance to the Reggae Rhythm \(feat\. Father Goose\)](https://open.spotify.com/track/0PylWiOSendDTztmimb42y) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys) | [One](https://open.spotify.com/album/5uTpQiaJIt5aSKMXAlCCqW) | 3:25 |
 | 48 | [Wonderful People](https://open.spotify.com/track/5ABg6eFoA2NChM7tFbP9Ch) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/6l7fAsrzxw5t91B9C5iruc), [Gideon Marley](https://open.spotify.com/artist/6MsoG1dkQpQZRY9AMSJASt), [Abraham Marley](https://open.spotify.com/artist/4Ezgjt3L4fZUzMPESHmQFX) | [More Family Time](https://open.spotify.com/album/7C4QjjsOqV2XxrcWiDNOqo) | 3:48 |
 | 49 | [Girls vs\. Boys](https://open.spotify.com/track/1JIICzNjNibNpB3HeefvFm) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:31 |
-| 50 | [Apple of My Eye](https://open.spotify.com/track/7nzvfB4c708km3Y69qKj5k) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 4:15 |
+| 50 | [Boomerang](https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rita Rosa](https://open.spotify.com/artist/3ZRSW9hN8aC1KiRGb4Bb0k), [Verny Varela](https://open.spotify.com/artist/63vWZsC4Qd6AAdeqWfVwdk) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:10 |
 
-Snapshot ID: `MCwwMmI2ZjdlMGU5OWNhMzc0N2I1ZTFlMjk3MTA5MWQ3NDNlMjVjMzAz`
+Snapshot ID: `MCwxODA5ZWE1ZTUyOTQwMjU2NjY5NjBhNTgzYjM2ZDhkYmU1ODEyMzQ3`

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: bludnymph
 
-3,104 songs - 6 day 14 hr 2 min
+3,105 songs - 6 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2929,7 +2929,8 @@
 | [Wasted Youth](https://open.spotify.com/track/4vz2uEorUwEV5MwuALnrav) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [Wasted Youth](https://open.spotify.com/album/6VzNOBRZswuVSFO08wSpK0) | 3:33 | 2023-01-18 | 2023-03-02 |
 | [Wasteland](https://open.spotify.com/track/4uCWi4ySP02NR9DFAcU3zq) | [Alex McArtor](https://open.spotify.com/artist/18wxlqChFTwNsoxNMEG6sN) | [Wasteland](https://open.spotify.com/album/4QuWLiPXuC0WpTreXVBJ46) | 3:49 | 2021-04-01 | 2021-05-13 |
 | [Wasting My Time](https://open.spotify.com/track/0NO8wmpvCOYdGs6bKtS26P) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Nightfall Feelings](https://open.spotify.com/album/0DxJpBkuIlXcrOTKQ6oHz8) | 3:33 | 2022-03-09 | 2022-04-28 |
-| [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-07 |  |
+| [Watch Me](https://open.spotify.com/track/2MrJjA7IsGMImbA6qwhCiW) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [Watch Me](https://open.spotify.com/album/0ENzBRcf1PtiP8sl1Nsnxy) | 2:35 | 2023-06-07 |  |
+| [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-07 | 2023-08-20 |
 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 | 2023-04-26 | 2023-05-18 |
 | [Watch Me Stand Out](https://open.spotify.com/track/0y10Vb0edPNHpZpSNbjsor) | [Club Yoko](https://open.spotify.com/artist/3kcV06zLtzUXC1p43aO5DJ) | [Watch Me Stand Out](https://open.spotify.com/album/1EwRJ3HnBWmCC3qUjN3vqA) | 2:46 | 2023-01-11 | 2023-01-26 |
 | [WaVes](https://open.spotify.com/track/4JU7R3zQe2NH2Yvei5vaBL) | [Frka](https://open.spotify.com/artist/74UTzZhWvINZ1FKZ3d5ta2) | [WaVes](https://open.spotify.com/album/6yXQdV907ze6XyA2tplPQ7) | 2:22 | 2021-02-10 | 2021-03-11 |

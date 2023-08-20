@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Marta Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,923 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,934 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Algo Sencillito](https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Algo Sencillito](https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm) | 2:57 |
 | 2 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
-| 3 | [Mil Laberintos](https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Mil Laberintos](https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX) | 2:38 |
-| 4 | [ME MATA\(S\)](https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [ME MATA\(S\)](https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR) | 3:04 |
+| 3 | [ME MATA\(S\)](https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [ME MATA\(S\)](https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR) | 3:04 |
+| 4 | [Mil Laberintos](https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Mil Laberintos](https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX) | 2:38 |
 | 5 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 |
 | 6 | [ZAHARA](https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TÁNGER Y ZAHARA](https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys) | 2:40 |
 | 7 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 16 | [Leyla](https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [Leyla](https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J) | 2:31 |
 | 17 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 |
 | 18 | [si tiene que ser será.](https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [si tiene que ser será.](https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3) | 3:21 |
-| 19 | [Quiero Q Me Tatúes](https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [Quiero Q Me Tatúes](https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA) | 2:30 |
-| 20 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
+| 19 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
+| 20 | [Quiero Q Me Tatúes](https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [Quiero Q Me Tatúes](https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA) | 2:30 |
 | 21 | [PROGRESO](https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [PROGRESO](https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe) | 3:22 |
 | 22 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 |
 | 23 | [por qué vuelvo a quererte?](https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [por qué vuelvo a quererte?](https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL) | 2:46 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 28 | [No Me Salves](https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [No Me Salves](https://open.spotify.com/album/3fFodInCmkqeErsA3w551s) | 3:52 |
 | 29 | [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 |
 | 30 | [hey, goodbye](https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:56 |
-| 31 | [Roma No Es Amor](https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Roma No Es Amor](https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD) | 3:13 |
+| 31 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 |
 | 32 | [Barcelona](https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Barcelona](https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3) | 2:59 |
-| 33 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 |
+| 33 | [Roma No Es Amor](https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Roma No Es Amor](https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD) | 3:13 |
 | 34 | [Veo tan Dentro](https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Veo tan Dentro](https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue) | 3:59 |
 | 35 | [Del cielo](https://open.spotify.com/track/038sx40baI928rvHqvwlyC) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Del cielo](https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr) | 3:10 |
 | 36 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [Cuchillos](https://open.spotify.com/track/4vEutziRAYewCT97ziq48J) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Cuchillos](https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX) | 2:42 |
 | 50 | [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 |
 
-Snapshot ID: `MCw5ZjVkNjZhMDM2YjdkOGY4OWNjNDA2MGFjMGZkZjA1NDZjNGM2MmZl`
+Snapshot ID: `MCw0MzA2MzkxMTNkZjI2YzlmMjU5ZDA3MWEwYmQxMjZiMmMyYmYyZWEy`

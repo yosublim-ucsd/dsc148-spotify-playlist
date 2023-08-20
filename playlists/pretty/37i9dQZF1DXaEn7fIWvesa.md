@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Micha en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 44 | [Te Quiero Pa' Mi](https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn) | [Te Quiero Pa' Mi](https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP) | 3:21 |
 | 45 | [No Mas Mentiras \- Remix](https://open.spotify.com/track/0TdwfvUyv7i96T6cbWROF3) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Uniko](https://open.spotify.com/artist/78vl46oKTqjC6esrYZK2Mu), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [No Mas Mentiras \(Remix\)](https://open.spotify.com/album/30vjNDLhlQGEKeKzeFvvb8) | 4:04 |
 | 46 | [Toxica](https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Toxica](https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO) | 3:51 |
-| 47 | [Descargame Pero No Me Quemes](https://open.spotify.com/track/3MOSqbVAlzqobNNdSOBhdx) | [Morito pks](https://open.spotify.com/artist/6Bn1EHf3buw7nSJ9wPWXB0) | [Descargame Pero No Me Quemes](https://open.spotify.com/album/217vR8hepUDCYZxQlMqMw5) | 3:45 |
-| 48 | [El Gavilan](https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [El Gavilan](https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E) | 3:27 |
-| 49 | [Tu & Yo \- Remix](https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Bryan Omega](https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq), [Dekano Kano y Efowa Owa](https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Tu & Yo \(Remix\)](https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk) | 2:57 |
-| 50 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 |
+| 47 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
+| 48 | [Descargame Pero No Me Quemes](https://open.spotify.com/track/3MOSqbVAlzqobNNdSOBhdx) | [Morito pks](https://open.spotify.com/artist/6Bn1EHf3buw7nSJ9wPWXB0) | [Descargame Pero No Me Quemes](https://open.spotify.com/album/217vR8hepUDCYZxQlMqMw5) | 3:45 |
+| 49 | [El Gavilan](https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [El Gavilan](https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E) | 3:27 |
+| 50 | [Tu & Yo \- Remix](https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Bryan Omega](https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq), [Dekano Kano y Efowa Owa](https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Tu & Yo \(Remix\)](https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk) | 2:57 |
 
-Snapshot ID: `MCw2ZmNiYTk1ZDlhMDBlMGU5Mzg0MmM4NzlmNjllZGE2OWNkYTU2NTI3`
+Snapshot ID: `MCw0YWJhN2MyZDBlNjE0M2VkNWViMjA2NWMzNmU2N2VlM2I1NjAzNjc1`

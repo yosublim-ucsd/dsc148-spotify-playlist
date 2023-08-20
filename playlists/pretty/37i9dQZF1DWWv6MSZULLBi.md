@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,765 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,781 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [I Don't Live Here Anymore](https://open.spotify.com/track/7ECJeHWuydb003xEiqUnn1) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [I Don't Live Here Anymore](https://open.spotify.com/album/5YZg6tXn4z1kPX30tJ8scD) | 3:06 |
 | 100 | [Head for the Hills](https://open.spotify.com/track/2NfZgnqLABxmb3mRwYVc2y) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Something Easy](https://open.spotify.com/album/09pC9vJ3xDCpLmkuLLUiP8) | 4:39 |
 
-Snapshot ID: `MCw1MmM0OTE0ZGRlZTQyODA2OTExMzRiOGM2MTIzYzYwMzdhN2YyN2Qx`
+Snapshot ID: `MCwxMGMyMTIyNDQ4NjQ2ZDdkOWZmZjNkMDc2MTdjMjJjYzRhNWZmMTdk`

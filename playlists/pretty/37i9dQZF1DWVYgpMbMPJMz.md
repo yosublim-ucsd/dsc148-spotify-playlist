@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe?si=35e5ea6909dc430f">Anna Golden<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,489 likes - 100 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,617 likes - 100 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 31 | [All Yours \- Live At The Grove](https://open.spotify.com/track/29X2uDbELTCtDNHVPORiDq) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P), [Larry James Walker II](https://open.spotify.com/artist/40mCMtbBpXpBwDQvigLKwN), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0gAnoymSmz8fqLnNqjKzFW) | 4:27 |
 | 32 | [To Be With The Lord](https://open.spotify.com/track/4X95hDjmp1BD2ANBMIDRe2) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:01 |
 | 33 | [Honest Offering / I Surrender All \- Live](https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Honest Offering \(Live\)](https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp) | 4:37 |
-| 34 | [Breaking Me Down](https://open.spotify.com/track/53zJ1dNecJzQixyRg908qB) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Prison Doors](https://open.spotify.com/album/4AmO2PaalrAWwEyFker98w) | 4:17 |
+| 34 | [Breaking Me Down](https://open.spotify.com/track/3ugxYWpQmjR1rdL4LqhGRq) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [I Wonder](https://open.spotify.com/album/3yJL2ybKvMhxkQwq6YSc8M) | 4:17 |
 | 35 | [My Worth Is Not in What I Own](https://open.spotify.com/track/4I9E2g5Nw9RpzR9cgci5UQ) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [My Worth Is Not in What I Own](https://open.spotify.com/album/0mrY7V0AYmAMPup2GkdGpV) | 3:43 |
 | 36 | [Satisfied \- Live](https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Sing As One \(Live\)](https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6) | 7:43 |
 | 37 | [Precious Blood](https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Jesus Always](https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Jesus Always](https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u) | 4:44 |
 | 100 | [It Is Finished](https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Kingdom Kids, Vol\. 2](https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU) | 4:26 |
 
-Snapshot ID: `MCwwYmU2YzI5ZWY1ZTBhODVhYzRkNzg5YWEyZmMwODZkM2E1Mjc2ZTI1`
+Snapshot ID: `MCw5NWVkNzdiMTBiNGY2OGVlYmJkYzAxZjE1OGJkZDgxOTY1Yzc1NzA3`

@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Whitney Houston",
-  "num_followers": 518715,
+  "num_followers": 518802,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTAwZTRjZGQ5Zjk1MGQ0YjE5NDMzY2Q0MzRiMGM2ODc4OGY4ZTk1",
+  "snapshot_id": "MCxlN2I4NTEyNjlhODNlNDU2NjgxNDk5ZjBmMDhiYTg0NzFjNmQ5NWUz",
   "tracks": [
     {
       "added_at": "2022-12-16 17:40:09",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "I Feel for You",
-        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+        "name": "From The Bottom Up",
+        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Brownstone",
+          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
         }
       ],
-      "duration_ms": 343400,
-      "name": "I Feel for You",
-      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+      "duration_ms": 304160,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "From The Bottom Up",
-        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
       "artists": [
         {
-          "name": "Brownstone",
-          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 304160,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+      "duration_ms": 343400,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
     },
     {
       "added_at": "2022-03-08 19:58:52",

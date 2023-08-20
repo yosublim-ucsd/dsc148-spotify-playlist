@@ -5407,6 +5407,24 @@
     },
     {
       "album": {
+        "name": "Landet",
+        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
+      },
+      "artists": [
+        {
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126760,
+      "name": "Landet",
+      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
+    },
+    {
+      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/4P2IZgpcl7n589pnQSzU6o"
       },
@@ -9596,7 +9614,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 196500,
       "name": "Sp\u00f8rsm\u00e5l",
       "url": "https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2"

@@ -4,7 +4,7 @@
 
 > Hop in.
 
-320 songs - 20 hr 34 min
+321 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2022-07-03 | 2022-09-28 |
 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 | 2022-07-03 |  |
 | [Kyoto](https://open.spotify.com/track/4m32ZYmSYgGziMwx3cJxS7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Kyoto](https://open.spotify.com/album/7cqPPWhhwZyQdxIUTQhWC8) | 3:04 | 2020-10-29\* | 2022-07-29 |
-| [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 | 2021-06-28 |  |
+| [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 | 2021-06-28 | 2023-08-20 |
 | [Lariat](https://open.spotify.com/track/6qoGbqtZFYaQHqAfPrF18e) | [Stephen Malkmus & The Jicks](https://open.spotify.com/artist/7wyRA7deGRxozTyBc6QXPe) | [Wig Out at Jagbags](https://open.spotify.com/album/6zEGxtFhXjUHnLPqvzChs9) | 3:05 | 2021-10-13 | 2021-10-16 |
 | [Lazy Eye](https://open.spotify.com/track/3TZXieYvqCuR40LZJbp6Ik) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/0uRfhGq6y1ODKhjfsGzbV8) | 5:54 | 2022-05-04 | 2022-07-28 |
 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 | 2022-07-03 |  |
@@ -218,6 +218,7 @@
 | [Potions](https://open.spotify.com/track/3Bqw48ecyeeOHvuU1jYy6C) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Potions](https://open.spotify.com/album/3b5PbgWTo7i4S00wFekoiV) | 3:10 | 2020-10-29\* | 2022-07-29 |
 | [Pressure To Party](https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:02 | 2023-06-01 |  |
 | [Pressure To Party](https://open.spotify.com/track/5Wyy2JHaM8cKEN6YDC6C8O) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:02 | 2020-10-29\* | 2022-07-29 |
+| [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 | 2023-06-01 |  |
 | [Put a Light On](https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V) | 3:44 | 2022-11-29 |  |
 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 | 2021-01-15 | 2022-11-25 |
 | [QB Sneak](https://open.spotify.com/track/15unSgWwOrLUUv8EhaXBij) | [Active Bird Community](https://open.spotify.com/artist/52atJIClJ4KZuYaIBLbNbH) | [QB Sneak](https://open.spotify.com/album/6hL4yMntwTQ53G2BUBkoTD) | 2:24 | 2021-01-27 | 2021-10-13 |

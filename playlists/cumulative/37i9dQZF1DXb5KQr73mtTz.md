@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-230 songs - 15 hr 5 min
+231 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All Those Diaries Just Become Letters](https://open.spotify.com/track/3cv2uvppoO6Y16nCK7yUCD) | [Woogotsa](https://open.spotify.com/artist/4L4Q8o66UwJNBp1KQ61PSX) | [All Those Diaries Just Become Letters](https://open.spotify.com/album/0hnlm6tTqE7YrNpn1NJlLa) | 3:30 | 2022-05-11 | 2022-05-31 |
 | [Answer \(stripped\)](https://open.spotify.com/track/21QBCAv8n2r3SOp8tdE3j5) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Answer \(stripped\)](https://open.spotify.com/album/0SGcO8HBEvjreo6qugr0DI) | 3:02 | 2022-06-20 | 2022-06-23 |
 | [As If Love Meant Nothing 사랑이란 걸 우습게 \(Feat\. 이영훈\)](https://open.spotify.com/track/12P5BBKsONpPEGjSlHGHNP) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Lee Young Hoon](https://open.spotify.com/artist/5kmzC58GPeIm7CEULNYjpm) | [Eternal Moment 영원의 순간](https://open.spotify.com/album/69p5oOMnkB8bCOCom4tH36) | 3:53 | 2022-05-11 | 2022-06-28 |
-| [Be there](https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [The Secret Romantic Guesthouse Part.7](https://open.spotify.com/album/2DH1P6vmUri5tABIbRrYAt) | 3:46 | 2023-06-13 |  |
+| [Be there](https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [The Secret Romantic Guesthouse Part.7](https://open.spotify.com/album/2DH1P6vmUri5tABIbRrYAt) | 3:46 | 2023-06-13 | 2023-08-20 |
 | [Be There](https://open.spotify.com/track/54HhEX0mo3qzeZ6p5eVAuR) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Missing: The Other Side \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/571YDQTthWsEC6ROgr1CoQ) | 3:25 | 2022-05-11 | 2022-07-24 |
 | [Bird](https://open.spotify.com/track/3ZbGV3tQ7nnJaqArImPw3M) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 5:40 | 2022-05-11 | 2022-06-01 |
 | [Bird \- Demo](https://open.spotify.com/track/7bstJcLT7H9yfsEvuqr7rM) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Bird \(Demo\)](https://open.spotify.com/album/62wOC2ryXDqnqhWvEmxIyE) | 2:10 | 2022-05-11 | 2022-06-07 |
@@ -45,6 +45,7 @@
 | [Dolls](https://open.spotify.com/track/4WgAxRROt1CI5sh3qqh2mP) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Again,Star \#01](https://open.spotify.com/album/22kTojFqWSb9RMyiFLL5YQ) | 2:58 | 2023-01-10 | 2023-01-17 |
 | [Don't](https://open.spotify.com/track/617N2yLHP178pCJQTRx2oe) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Don't](https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP) | 3:12 | 2022-06-20 | 2022-07-29 |
 | [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-05 |  |
+| [Don’t Wanna Go Back \(Duet with Heize\)](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:42 | 2023-08-18 |  |
 | [Dream](https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/4KncPcPqHtRgmZjNtFB9Xy) | 6:14 | 2022-06-18 | 2022-07-24 |
 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 | 2022-05-11 |  |
 | [Drown](https://open.spotify.com/track/7uVqetqCVpIrqeVRf4wyWW) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Drown](https://open.spotify.com/album/1TYFO2ZPj1oQ6Ppq0k2RYG) | 3:30 | 2022-07-08 | 2022-07-18 |

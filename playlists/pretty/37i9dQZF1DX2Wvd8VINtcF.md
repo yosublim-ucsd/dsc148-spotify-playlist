@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Kasbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,246 likes - 112 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,275 likes - 112 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 111 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 112 | [CONSTELLATIONS \(feat\. NAO\)](https://open.spotify.com/track/6B6FxQxSSVwvSgcNUe5QZQ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 2:52 |
 
-Snapshot ID: `MCxmMThmMzNiN2M0N2QxMzk1ZWJkOGEyZGIxM2FiMWEzZDExOTVlODIz`
+Snapshot ID: `MCxlNDQwZWFhN2JkYTZhNjgwODA3MGEzODVmNGM3OWI4OGU1MjNjZWI0`

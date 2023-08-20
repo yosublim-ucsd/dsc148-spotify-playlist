@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 18739,
+  "num_followers": 18802,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTc4ZjUzZmExNTcyYzY1NTE2NzQxYmYyMDc2NDZhYmIyYzkxYmI1",
+  "snapshot_id": "MCwxMGVlOGUyN2VhOGQzYmI5MDA2YTU4YmY5YmE5MDhjNzgzZjZlODIx",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Con Sangre Ranchera",
-        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 136752,
-      "name": "A Qui\u00e9n No Le Gusta Eso",
-      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Puras De Viento En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 179063,
       "name": "El Son De La Rabia (En Vivo)",
       "url": "https://open.spotify.com/track/1vJCOsDg9LZRIZImi0oBb6"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Con Sangre Ranchera",
+        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 136752,
+      "name": "A Qui\u00e9n No Le Gusta Eso",
+      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "duration_ms": 160011,
-      "name": "Mujer Interesada",
-      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+      "duration_ms": 208875,
+      "name": "La Mujer del Pelotero",
+      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Mujer Interesada",
+      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Desqu\u00edtate Conmigo",
         "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 213368,
       "name": "Carnaval Putleco",
       "url": "https://open.spotify.com/track/5ApbRWd5f7L5leQqtBdbgA"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 208875,
-      "name": "La Mujer del Pelotero",
-      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -691,38 +691,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
-        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 461333,
-      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
-      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "El Novillo Despuntado / Toro Pinto",
-        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 277796,
-      "name": "El Novillo Despuntado / Toro Pinto",
-      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Me Hac\u00edan Falta Huevos",
         "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
       },
@@ -739,6 +707,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
+        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 461333,
+      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Las Alegres de los Infinitos",
         "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 253015,
       "name": "El Carretero",
       "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "El Novillo Despuntado / Toro Pinto",
+        "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 277796,
+      "name": "El Novillo Despuntado / Toro Pinto",
+      "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Son de la Raza",
+        "url": "https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk"
+      },
+      "artists": [
+        {
+          "name": "Banda La Mera Mera",
+          "url": "https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Son de la Raza",
+      "url": "https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Las Mamirriquis",
         "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 164087,
       "name": "La Burra Orejona",
       "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Son de la Raza",
-        "url": "https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk"
-      },
-      "artists": [
-        {
-          "name": "Banda La Mera Mera",
-          "url": "https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Son de la Raza",
-      "url": "https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac"
     },
     {
       "added_at": "2022-08-02 22:31:47",

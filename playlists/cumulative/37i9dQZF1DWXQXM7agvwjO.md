@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Eyedress, Mac DeMarco
 
-931 songs - 2 day 7 hr 53 min
+932 songs - 2 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,7 +544,7 @@
 | [November Blue](https://open.spotify.com/track/0PVVLuxXLWf4Sw7zjV6rd8) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/3ApfPiXonK9F6KiJQSeYeN) | 4:02 | 2022-10-06 | 2022-11-25 |
 | [November Blue](https://open.spotify.com/track/1rVHGgB6wbPqFgsMcBYbYL) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/1efuRhREYd3lBKa3HV1DyN) | 4:02 | 2022-10-06 | 2022-10-09 |
 | [Nuggets](https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Nuggets](https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1) | 4:10 | 2022-04-21 | 2022-06-10 |
-| [NWYK](https://open.spotify.com/track/4KeGC0kxMnkKfVJTprS9nR) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [NWYK](https://open.spotify.com/album/6Qa9ljnHnMSJ7j4wTG7DMf) | 2:13 | 2023-06-01 |  |
+| [NWYK](https://open.spotify.com/track/4KeGC0kxMnkKfVJTprS9nR) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [NWYK](https://open.spotify.com/album/6Qa9ljnHnMSJ7j4wTG7DMf) | 2:13 | 2023-06-01 | 2023-08-20 |
 | [Ocean](https://open.spotify.com/track/3wk5eClZ1jwqeX3r48YYNR) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Ocean](https://open.spotify.com/album/4iQxzq6K4KUjUOA5YXTQj9) | 2:24 | 2023-01-19 | 2023-03-25 |
 | [ODDESSY](https://open.spotify.com/track/6RDEv3g48vfu0B51BoEeSp) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/08KcmPvH8mRDBN7ccqEge9) | 2:42 | 2023-04-13 | 2023-05-08 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-05-19 | 2022-07-22 |
@@ -666,6 +666,7 @@
 | [Sober Song](https://open.spotify.com/track/6QiE9xVHfGT1s3ilFo2lVu) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 2:09 | 2023-05-04 | 2023-08-04 |
 | [Solitude](https://open.spotify.com/track/1Tn7cUi0j40twvnJKl5OOW) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Solitude](https://open.spotify.com/album/2lv3jXwprDdxCMFo1op1hX) | 3:38 | 2022-12-02 | 2023-03-03 |
 | [Somebody](https://open.spotify.com/track/1QXJAUb8ncWqjwNMbq9a8z) | [The New Modern Lights](https://open.spotify.com/artist/7fwPJniDEJ1ld3lzqZhs1D) | [Somebody](https://open.spotify.com/album/4KS27Zaiui3syxlsXXM8WB) | 4:38 | 2022-04-14 | 2022-05-07 |
+| [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-08-17 |  |
 | [Something About You and Me](https://open.spotify.com/track/6ZqGNMqd1fjv6NDOETJui8) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Something About You and Me](https://open.spotify.com/album/1l8zKcGI0fpTpLT1UmdgGG) | 3:42 | 2023-05-04 | 2023-05-19 |
 | [somewhere](https://open.spotify.com/track/4qb4cUx4aI7xLeKviJaJ8S) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [\(image for\) drawing on canvas](https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg) | 4:02 | 2022-11-17 | 2022-12-09 |
 | [Song About You](https://open.spotify.com/track/3MdYsACVXPmyVXD3Dahd2C) | [Drive\-by](https://open.spotify.com/artist/2zKBnnHRzjCxtkJDtWdNRq), [Jonwl](https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz) | [Lands Between](https://open.spotify.com/album/4h4mbD2ydvIy8wRq3J1X0k) | 5:48 | 2022-12-23 | 2023-03-03 |

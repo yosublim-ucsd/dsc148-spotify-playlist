@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 65411,
+  "num_followers": 65441,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzNkYmM5Zjg4ZDI1Y2NiMjZiOGVhOTBhZDZhOTY1MjcyZWZjNjFm",
+  "snapshot_id": "MCw5YzQzNGFlNzNjMTliZWIzNzkwYTIwOGY0MjZjYTM4ZmQ5MWNlY2Jm",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "I Hate the Music",
-        "url": "https://open.spotify.com/album/28L7sCuuF8Zt6dW1FuZqRh"
-      },
-      "artists": [
-        {
-          "name": "John Paul Young",
-          "url": "https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "Love Is In The Air",
-      "url": "https://open.spotify.com/track/3c4OULLWwgRqBfA2dJtRuY"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "I Hate the Music",
+        "url": "https://open.spotify.com/album/28L7sCuuF8Zt6dW1FuZqRh"
+      },
+      "artists": [
+        {
+          "name": "John Paul Young",
+          "url": "https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "Love Is In The Air",
+      "url": "https://open.spotify.com/track/3c4OULLWwgRqBfA2dJtRuY"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -747,8 +747,8 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+        "name": "Savage Garden (Original Version)",
+        "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
         }
       ],
-      "duration_ms": 295800,
-      "name": "Affirmation",
-      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
+      "duration_ms": 339433,
+      "name": "To the Moon & Back",
+      "url": "https://open.spotify.com/track/48YTxXgK2CT31UlfYz5MKU"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Age Of Reason",
-        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
-      },
-      "artists": [
-        {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Two Strong Hearts",
-      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "The Secret Life Of...",
         "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 208973,
       "name": "4ever",
       "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Age Of Reason",
+        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
+      },
+      "artists": [
+        {
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Two Strong Hearts",
+      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -911,8 +911,8 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Savage Garden (Original Version)",
-        "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
         }
       ],
-      "duration_ms": 339433,
-      "name": "To the Moon & Back",
-      "url": "https://open.spotify.com/track/48YTxXgK2CT31UlfYz5MKU"
+      "duration_ms": 295800,
+      "name": "Affirmation",
+      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV"
+      },
+      "artists": [
+        {
+          "name": "Holly Valance",
+          "url": "https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Kiss Kiss",
+      "url": "https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 203120,
       "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
       "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Footprints",
-        "url": "https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV"
-      },
-      "artists": [
-        {
-          "name": "Holly Valance",
-          "url": "https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Kiss Kiss",
-      "url": "https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP"
     },
     {
       "added_at": "2022-04-18 02:03:22",

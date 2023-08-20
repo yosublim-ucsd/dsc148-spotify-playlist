@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 132630,
+  "num_followers": 132739,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmNmYjAyZmRmMGMxYTE3MzI3OTkxNTk1ZDdmODcwZDE4ZjgzNjc1",
+  "snapshot_id": "MCxmMGZkMDNhNWQ5MjA1NmVlMmQ3OTExODEzYjIxOWU5NjU4NjMxZDQ0",
   "tracks": [
     {
       "added_at": "2023-08-18 04:48:05",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Half Of Me (Acoustic)",
-        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 175639,
-      "name": "Half Of Me - Acoustic",
-      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
         "name": "Love Like I Drink",
         "url": "https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 195309,
       "name": "Love Like I Drink",
       "url": "https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
+        "name": "Half Of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 175639,
+      "name": "Half Of Me - Acoustic",
+      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -847,6 +847,38 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
+        "name": "Come Back To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
+      },
+      "artists": [
+        {
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+        }
+      ],
+      "duration_ms": 205375,
+      "name": "Come Back To Bed (Acoustic)",
+      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
+        "name": "Pack My Hometown",
+        "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
+      },
+      "artists": [
+        {
+          "name": "Eli Winders",
+          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
+        }
+      ],
+      "duration_ms": 191615,
+      "name": "Pack My Hometown",
+      "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
         "name": "Prayed For You (Wedding Version)",
         "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
       },
@@ -879,38 +911,6 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Somebody Like That (Acoustic)",
-        "url": "https://open.spotify.com/album/1v9UST961rkk1uoMRUAgdV"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 194303,
-      "name": "Somebody Like That - Acoustic",
-      "url": "https://open.spotify.com/track/3gsnrXfYHjBM7dcUrz0UwK"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
-        "name": "Come Back To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
-      },
-      "artists": [
-        {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
-        }
-      ],
-      "duration_ms": 205375,
-      "name": "Come Back To Bed (Acoustic)",
-      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
         "name": "Wild as Her (feat. Carter Faith) [Acoustic One-Take]",
         "url": "https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf"
       },
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+        "name": "Somebody Like That (Acoustic)",
+        "url": "https://open.spotify.com/album/1v9UST961rkk1uoMRUAgdV"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
         }
       ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+      "duration_ms": 194303,
+      "name": "Somebody Like That - Acoustic",
+      "url": "https://open.spotify.com/track/3gsnrXfYHjBM7dcUrz0UwK"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Pack My Hometown",
-        "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
       },
       "artists": [
         {
-          "name": "Eli Winders",
-          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
         }
       ],
-      "duration_ms": 191615,
-      "name": "Pack My Hometown",
-      "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Best Shot (Acoustic)",
-        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Best Shot - Acoustic",
-      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
         "name": "Steady Heart (Wedding Version)",
         "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 210555,
       "name": "Steady Heart - Wedding Version",
       "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
+        "name": "Best Shot (Acoustic)",
+        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Best Shot - Acoustic",
+      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Hate Me More (Stripped)",
-        "url": "https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 160434,
-      "name": "Hate Me More (Stripped)",
-      "url": "https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
         "name": "Breakups (Acoustic)",
         "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 227693,
       "name": "Breakups - Acoustic",
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
+        "name": "Hate Me More (Stripped)",
+        "url": "https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "Hate Me More (Stripped)",
+      "url": "https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
+        "name": "Your Love (Acoustic)",
+        "url": "https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 189615,
+      "name": "Your Love - Acoustic",
+      "url": "https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
         "name": "Take My Name (Wedding Version)",
         "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Your Love (Acoustic)",
-        "url": "https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 189615,
-      "name": "Your Love - Acoustic",
-      "url": "https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
         "name": "Forever and Always (Acoustic)",
         "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 170755,
-      "name": "Buy Dirt - Alternate Version",
-      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 211662,
       "name": "All On Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "Buy Dirt - Alternate Version",
+      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "St. Louis",
-        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 274964,
-      "name": "St. Louis",
-      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
         "name": "Honestly (Deluxe)",
         "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 212932,
       "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
       "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
+        "name": "St. Louis",
+        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 274964,
+      "name": "St. Louis",
+      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "I Don't Wanna Go To Heaven (Choir Version)",
-        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 205305,
-      "name": "I Don't Wanna Go To Heaven - Choir Version",
-      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 177066,
       "name": "I Should Probably Go To Bed - Acoustic",
       "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
+        "name": "I Don't Wanna Go To Heaven (Choir Version)",
+        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 205305,
+      "name": "I Don't Wanna Go To Heaven - Choir Version",
+      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
     },
     {
       "added_at": "2023-08-18 04:48:05",

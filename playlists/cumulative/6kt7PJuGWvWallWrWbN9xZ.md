@@ -4,7 +4,7 @@
 
 > these equations aren&\#x27;t adding up.
 
-203 songs - 11 hr 54 min
+206 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [I Need U](https://open.spotify.com/track/7dlNGfd6Fq8xcFb4K6Glws) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 3:30 | 2022-08-26 |  |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2022-09-23 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-07-15 |  |
+| [i'm so lonely with you](https://open.spotify.com/track/0iMfr1JUzW8M8ip40vYk6H) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:49 | 2023-08-18 |  |
 | [IF I DON'T TEXT YOU FIRST](https://open.spotify.com/track/2lNb0SzyOEHizMxlpT9HM6) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [IF I DON'T TEXT YOU FIRST](https://open.spotify.com/album/3qLQdJWPOyV49WdLfuyVDV) | 2:13 | 2023-06-07 |  |
 | [IF NOT FOR YOU](https://open.spotify.com/track/5UdJ8CYTtVk5zzqhbPMA18) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:14 | 2023-01-20 |  |
 | [Ignorance](https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:38 | 2023-01-14 |  |
@@ -123,6 +124,7 @@
 | [MARK CHAPMAN](https://open.spotify.com/track/1khwSRuqim7TyvlCD7WDyy) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:40 | 2023-01-20 |  |
 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 | 2023-01-14 |  |
 | [More Than A Woman \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 | 2022-08-26 | 2023-02-04 |
+| [my fault](https://open.spotify.com/track/46nXKRBeHUxVFvyxkcGPWF) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP) | 1:00 | 2023-08-18 |  |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2022-08-26 |  |
 | [needy](https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:51 | 2022-12-19 |  |
 | [Never Let This Go](https://open.spotify.com/track/2itu79WbZhUCHX4jg0fyAd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:40 | 2023-01-14 |  |
@@ -157,6 +159,7 @@
 | [Stayin Alive](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:45 | 2022-10-02 |  |
 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 | 2022-08-26 |  |
 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2022-08-30 |  |
+| [strawberry milk](https://open.spotify.com/track/2ZXM6D8U2UokuOjbasoq1r) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP) | 0:50 | 2023-08-18 |  |
 | [Streetcar](https://open.spotify.com/track/7Cu2COdH93MnuireuKNiS3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Pilgrim's Paradise](https://open.spotify.com/album/4uP43hIpmEEDuW7aOfiU2C) | 4:06 | 2022-08-26 |  |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2022-08-26 |  |
 | [Stunnin' \(feat\. Harm Franklin\)](https://open.spotify.com/track/2D0dj3hVkRQJCp63cxCPEx) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [Stunnin' \(feat\. Harm Franklin\)](https://open.spotify.com/album/0ZC4lUnfcEFekGFELwHjZZ) | 2:24 | 2022-08-26 |  |

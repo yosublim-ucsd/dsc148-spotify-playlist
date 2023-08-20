@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Yeek & Paris Texas make anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,175 likes - 63 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,156 likes - 63 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 2 | [Leave With Me](https://open.spotify.com/track/1qAY1Qa18jN50Pnn4CpVst) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Leave With Me](https://open.spotify.com/album/4xmzAJ3edr4asi2TSxS1od) | 3:16 |
 | 3 | [Crying In My Car \(with Teezo Touchdown\)](https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Crying In My Car](https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd) | 3:02 |
 | 4 | [hadji 2 hotty](https://open.spotify.com/track/6cWYqDEOnCOcUZWHTWTwcx) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [wallflower](https://open.spotify.com/album/44nWppyz5M81ne6j52h2zt) | 2:05 |
-| 5 | [SOUND OF METAL](https://open.spotify.com/track/69FgjXjGkVsqUb30ijMH2W) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q), [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [SOUND OF METAL](https://open.spotify.com/album/3C58S7vtfqn8CDQ6Bq0v90) | 3:10 |
+| 5 | [SOUND OF METAL \(feat\. Devon Again\)](https://open.spotify.com/track/69FgjXjGkVsqUb30ijMH2W) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q), [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [SOUND OF METAL \(feat\. Devon Again\)](https://open.spotify.com/album/3C58S7vtfqn8CDQ6Bq0v90) | 3:10 |
 | 6 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 |
 | 7 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 |
 | 8 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 62 | [Sports](https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Sports](https://open.spotify.com/album/3O9r5PoJDRmhHHuH4NDsv6) | 3:01 |
 | 63 | [sunset blvd](https://open.spotify.com/track/4RN4a0h7o3Cxv2mJSHxKJ2) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [sunset blvd](https://open.spotify.com/album/5Jdnp7iYU4QlKkdMoKn0DR) | 2:12 |
 
-Snapshot ID: `MCxkODU0OTZhYWVjODhkNjg5MDJmYmRkYjlhZTM5ZDdlZDllMjM5NWE3`
+Snapshot ID: `MCw2NTFkNzdkN2NkYjg1YzkyNWNjOTkzYzEwYWEyOTMwY2FhNDBiOWFj`

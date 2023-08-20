@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,431 songs - 3 day 4 hr 12 min
+1,432 songs - 3 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Bon qu’à ça](https://open.spotify.com/track/07VDlMEZIHbocc84zVB410) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 2:49 | 2023-07-01 | 2023-07-10 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-05-03 | 2022-07-03 |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-07-02 | 2022-10-29 |
+| [Bonjour](https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bonjour](https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7) | 2:16 | 2023-08-19 |  |
 | [BONKASA](https://open.spotify.com/track/62u6D0NgRPtFcCdF5rNLeh) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [BONKASA](https://open.spotify.com/album/4WfVv45jeLIbqBm5zriHs6) | 2:25 | 2022-07-21 | 2022-08-06 |
 | [Bonne journée](https://open.spotify.com/track/0i0ESj6M9eV8ck3LP07QzD) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:12 | 2022-03-05 | 2022-03-12 |
 | [Bonsoir Mon Vieil Ami](https://open.spotify.com/track/1SD6wA55Ok0E7I8EIofMXc) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:32 | 2021-07-18 | 2021-07-20 |
@@ -632,7 +633,7 @@
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-03 |
 | [Jalebi Baby \(Tesher x Jason Derulo\)](https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jalebi Baby \(Tesher x Jason Derulo\)](https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd) | 2:49 | 2021-06-25 | 2021-06-27 |
 | [Je kill au mic](https://open.spotify.com/track/6Dzb3YvstA9jcoRz8Uh94E) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 4:44 | 2021-06-27 | 2021-07-04 |
-| [Je la connais](https://open.spotify.com/track/2bNtWTLdqUGhLZqWUGPNvK) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Anarchie](https://open.spotify.com/album/7hv9Xs3hmzGbxLPhH7Nog5) | 3:39 | 2023-05-26 |  |
+| [Je la connais](https://open.spotify.com/track/2bNtWTLdqUGhLZqWUGPNvK) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Anarchie](https://open.spotify.com/album/7hv9Xs3hmzGbxLPhH7Nog5) | 3:39 | 2023-05-26 | 2023-08-20 |
 | [Je m'endors mal luné](https://open.spotify.com/track/51ZzvOw40MCYh6DnvL57mL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:21 | 2021-06-27 | 2021-06-28 |
 | [Je n'ai pas que des potes](https://open.spotify.com/track/6515c0hOsfWseNRCeO1kmw) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Je n'ai pas que des potes](https://open.spotify.com/album/4Ba8KIrfUWAXAPinWjNMaT) | 3:18 | 2021-06-20 | 2021-06-27 |
 | [Je n'ai pas que des potes](https://open.spotify.com/track/70MrRXJfGbZz4D5YFLpWpm) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:18 | 2021-06-27 | 2021-07-10 |

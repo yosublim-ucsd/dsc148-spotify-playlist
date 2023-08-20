@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 320434,
+  "num_followers": 320567,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2I3YTNjYWI3OWE4YjM1YjYxNDFlMzI0ODhlNjk2MWNhZDUzNjY5",
+  "snapshot_id": "MCw1YjBmMjk0ZDgwNDUzMDUxNDRhZDE0ZjcxOWM0MGQ1ZjZmNDU5NDBm",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -807,22 +807,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/2ecM3Ast6U07GBP7fnqHJm"
       },
       "artists": [
         {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
         }
       ],
-      "duration_ms": 259188,
-      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
+      "duration_ms": 171724,
+      "name": "sail away (acoustic)",
+      "url": "https://open.spotify.com/track/3NFQODWQ3Fa3ar4moCAiff"
     }
   ],
   "unique_name": "Stripped Down",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style background music for chill dinner ambiance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,423 likes - 188 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,460 likes - 188 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 187 | [La consolation](https://open.spotify.com/track/1rmTdklw8wgOStLgI4B25Q) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [La consolation](https://open.spotify.com/album/7JdF9ISUD6AReDwZhvJ4K0) | 2:45 |
 | 188 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MCxiNjdmNmRiZGIzM2Q3MzYxNzZmZGExOTVjOTA5YmQxZWM3ODY2NjEw`
+Snapshot ID: `MCwwM2RhZTBhNmFlOGViMjNhNTc1ZjJmYzc4ZGY2MTY0ZmI3ZDExOGI4`

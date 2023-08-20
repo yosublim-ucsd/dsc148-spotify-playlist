@@ -4,7 +4,7 @@
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-111 songs - 5 hr 59 min
+112 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,9 +105,10 @@
 | [Tiempos de Plan B](https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [Tiempos de Plan B](https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb) | 2:41 | 2023-06-09 |  |
 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 | 2023-06-09 |  |
 | [Top 10](https://open.spotify.com/track/1bXvpIjqxo5WHZWz6nfjtn) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:15 | 2023-06-09 |  |
+| [Traficando](https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Traficando](https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ) | 4:27 | 2023-06-09 |  |
 | [Traficando \- Remix](https://open.spotify.com/track/19ylQ2HM0J0zJ0NN5h4moa) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Traficando \(Remix\)](https://open.spotify.com/album/0ZGRJJ7WqmOK0NRt8VFUZs) | 4:27 | 2023-06-09 | 2023-07-09 |
 | [TRAPPHONE](https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPHONE](https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk) | 1:47 | 2023-06-09 |  |
-| [Tratemos](https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh) | [Bernier](https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Tratemos](https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE) | 3:49 | 2023-06-09 |  |
+| [Tratemos](https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh) | [Bernier](https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Tratemos](https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE) | 3:49 | 2023-06-09 | 2023-08-20 |
 | [Trending](https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Trending](https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ) | 2:38 | 2023-06-09 |  |
 | [Trending](https://open.spotify.com/track/6Ee9z5UtJ9oRX4YaAwefml) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Jonniel Rythmz](https://open.spotify.com/artist/5wcCS0O8zB98kNPZu61Gab) | [Trending](https://open.spotify.com/album/75a1tCKYhGYYaQeNoDklwc) | 2:47 | 2023-06-09 | 2023-07-19 |
 | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO) | 3:45 | 2023-06-09 |  |

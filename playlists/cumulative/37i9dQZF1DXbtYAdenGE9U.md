@@ -4,7 +4,7 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-151 songs - 11 hr 34 min
+152 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Fire Wire](https://open.spotify.com/track/15Fpa2wUSK48RBT2eqBka8) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [The World Of Trance \(40 Biggest Trance Hits Ever\) \- Armada Music](https://open.spotify.com/album/3L3PWNYWWiW0eGKV5nAXsR) | 2:51 | 2022-04-13 | 2022-07-29 |
 | [Fire Wire \- Radio Edit](https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Fire Wire](https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY) | 2:51 | 2022-12-28 |  |
 | [Flaming June \- Paul van Dyk Radio Edit](https://open.spotify.com/track/6LMPlg1D9SNpqdXzy3ZzKe) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [A State Of Trance Classics, Vol\. 7](https://open.spotify.com/album/6Sam9RuQOEuAaa6FmqskS6) | 3:47 | 2022-12-28 | 2022-12-30 |
+| [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 | 2023-08-11 |  |
 | [Follow Me \- Radio Edit](https://open.spotify.com/track/2Q3GYtZYSMZF02UiCzDZ7U) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [100% Clubland Trance](https://open.spotify.com/album/2dnbvXUaQDczid713Ahagb) | 3:43 | 2022-04-13 | 2022-11-13 |
 | [For An Angel \- PVD Angel In Heaven Radio Edit](https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [For An Angel](https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl) | 3:53 | 2022-04-13 |  |
 | [For An Angel \- Radio Edit](https://open.spotify.com/track/1xWsg53VIHw0iTTDAGHJ4Q) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:51 | 2022-04-13 | 2022-07-29 |
@@ -95,7 +96,7 @@
 | [Northern Lights \- Original Mix](https://open.spotify.com/track/4wKyAjQqOCQvdZmmLumyOV) | [Smith & Pledger](https://open.spotify.com/artist/63hQuDdizTNfxbpzJKv8Gf) | [Northern Lights](https://open.spotify.com/album/4Vm8pk6adVCIkCR7jlq8HM) | 7:39 | 2022-12-28 | 2023-03-11 |
 | [Not Over Yet](https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [If I Could Fly](https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66) | 6:01 | 2022-04-13 | 2022-12-28 |
 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 | 2022-04-13 | 2022-12-28 |
-| [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 | 2023-03-10 |  |
+| [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 | 2023-03-10 | 2023-08-20 |
 | [On A Good Day \(Metropolis\) \- Radio Edit](https://open.spotify.com/track/703CgPJAEC6sSw2Iiw8gpJ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Oceanlab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT) | [On A Good Day \(Metropolis\) \[Above & Beyond & Gareth Emery pres\. OceanLab\]](https://open.spotify.com/album/2QUmqJN8jVbXPcyTyuPG7Z) | 2:56 | 2022-12-28 | 2023-01-03 |
 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 | 2022-04-13 |  |
 | [Operation Blade \(7" Radio Edit\)](https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS) | [Public Domain](https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z) | [Hard Hop Superstars](https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj) | 3:06 | 2023-08-11 |  |

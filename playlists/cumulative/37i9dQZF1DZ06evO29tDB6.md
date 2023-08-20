@@ -4,7 +4,7 @@
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 4 min
+60 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Todo me sale mal](https://open.spotify.com/track/3xq1MPeN7lZkzZhSPxXGwy) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 3:06 | 2023-01-14 |  |
 | [Todo sea por el rocanrol](https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 4:44 | 2023-01-14 |  |
 | [Triste canción](https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 | 2023-01-14 |  |
-| [Triste Canción de Amor](https://open.spotify.com/track/2LaWii0vzeYdke3KLymykJ) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Gerardo Guardia](https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt) | [Triste Canción de Amor](https://open.spotify.com/album/5NNUdAIDVTLjmQekSc8eO3) | 3:26 | 2023-01-14 |  |
+| [Triste Canción de Amor](https://open.spotify.com/track/2LaWii0vzeYdke3KLymykJ) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Gerardo Guardia](https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt) | [Triste Canción de Amor](https://open.spotify.com/album/5NNUdAIDVTLjmQekSc8eO3) | 3:26 | 2023-01-14 | 2023-08-20 |
+| [Triste Canción de Amor](https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Gerardo Guardia](https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt) | [Rayito Colombiano y los Grandes Compositores](https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm) | 3:26 | 2023-08-19 |  |
 | [Triste canción de amor \(con El Tri\)](https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:23 | 2023-01-14 |  |
 | [Triste Canción de Amor \- Remix](https://open.spotify.com/track/36hBGko1ADEYXuG8hDQt1J) | [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Triste Canción de Amor \(Remix\)](https://open.spotify.com/album/4tfabT7g2WL02c2blHZZLJ) | 3:42 | 2023-07-08 | 2023-08-04 |
 | [Una y otra vez](https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hecho en México](https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7) | 2:38 | 2023-01-14 |  |

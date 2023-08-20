@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-132 songs - 7 hr 23 min
+133 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 | 2023-03-19 | 2023-06-01 |
 | [Fotonovela](https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Fotonovela](https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ) | 4:42 | 2023-03-19 | 2023-04-22 |
 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 | 2023-03-19 | 2023-05-13 |
+| [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 | 2023-08-19 |  |
 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 | 2023-07-18 |  |
 | [Hermoso](https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Hermoso](https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA) | 3:27 | 2023-07-30 |  |
 | [Horas](https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Horas](https://open.spotify.com/album/1geeDTUcLFv7vgDH0v0C3a) | 3:51 | 2023-04-25 | 2023-07-29 |
@@ -80,7 +81,7 @@
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-03-19 | 2023-04-23 |
 | [Limonadita Fresca](https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Limonadita Fresca](https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH) | 3:20 | 2023-08-03 |  |
 | [lo que no es sincero hoy](https://open.spotify.com/track/5e3fTt5d30qgNspCWeyxtY) | [El Alguacil](https://open.spotify.com/artist/1vw7wq0QVG1i1kYEImW7xa) | [lo que no es sincero hoy](https://open.spotify.com/album/5btwrK4Yktkg9xfhMReaD2) | 3:14 | 2023-07-12 |  |
-| [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 | 2023-05-27 |  |
+| [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 | 2023-05-27 | 2023-08-20 |
 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 | 2023-08-17 |  |
 | [Mala Amiga](https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mala Amiga](https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr) | 3:15 | 2023-03-19 | 2023-05-28 |
 | [Mala Mia](https://open.spotify.com/track/1gPDUmzf3TviGRmSUnwst0) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Mala Mia](https://open.spotify.com/album/3WJ1EoQn4vKUaafZQKIVqi) | 3:09 | 2023-03-19 | 2023-04-19 |

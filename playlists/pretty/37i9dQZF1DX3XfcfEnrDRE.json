@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 232729,
+  "num_followers": 232773,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWU1ZjVmNjU0MTYwNzYzNDA2MGI4ODUwZjAxZWEzZmIxOTc3OTNj",
+  "snapshot_id": "MCw4YmY1ZDc4NjExNTBlMjc0MzRkZDRkYTI5YWQxYzJkMDA2MDRkMDIw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "WILD THINGS",
         "url": "https://open.spotify.com/album/5XaKKyhMqIAie5hIND1f6i"
       },
@@ -747,6 +727,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Nothing To Buy",
+        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Nothing To Buy",
+      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Leaving The 99 (Remix)",
-        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
-      },
-      "artists": [
-        {
-          "name": "Billy Ballenger",
-          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
-        }
-      ],
-      "duration_ms": 242468,
-      "name": "Leaving The 99 - Remix",
-      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Every Morning",
         "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 223636,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Leaving The 99 (Remix)",
+        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
+      },
+      "artists": [
+        {
+          "name": "Billy Ballenger",
+          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+        }
+      ],
+      "duration_ms": 242468,
+      "name": "Leaving The 99 - Remix",
+      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "OLDER",
-        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
-      },
-      "artists": [
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "OLDER",
-      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "OLDER",
+        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "OLDER",
+      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
       },
       "artists": [
         {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
         }
       ],
-      "duration_ms": 192933,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
       },
       "artists": [
         {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
         }
       ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+      "duration_ms": 192933,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Angels vs Demons - Piano Version",
-      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Natural Killer",
         "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 224181,
       "name": "Killer",
       "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Angels vs Demons - Piano Version",
+      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Break Out (Live)",
-        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
-      },
-      "artists": [
-        {
-          "name": "Woodlands Worship",
-          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Break Out - Live",
-      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "W O U N D E D H E A R T",
         "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 166186,
       "name": "W O U N D E D H E A R T",
       "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Break Out (Live)",
+        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
+      },
+      "artists": [
+        {
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "Break Out - Live",
+      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
-      },
-      "artists": [
-        {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
-        }
-      ],
-      "duration_ms": 232703,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Can't Stop My Heart From Singing",
         "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 234925,
       "name": "Can't Stop My Heart From Singing",
       "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 232703,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
     },
     {
       "added_at": "2022-12-16 05:02:00",

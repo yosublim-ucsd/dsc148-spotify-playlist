@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-495 songs - 1 day 12 hr 25 min
+496 songs - 1 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ballad of the Ravenous](https://open.spotify.com/track/6hbcSe4pcw8I2vhDG4XnWt) | [Midnight Tyrannosaurus](https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ), [Stepps](https://open.spotify.com/artist/4oi1tAN4e3J3PnohTxiG96) | [Ballad of the Ravenous](https://open.spotify.com/album/47cURSR5K78UxX1zgzN9AO) | 4:11 | 2023-06-09 |  |
 | [Banada](https://open.spotify.com/track/0ieeUcJFXbm3XqWKVeZxRQ) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Banada](https://open.spotify.com/album/0GX8LRuYKACQErKXtVfoyc) | 3:52 | 2022-11-04 | 2022-12-19 |
 | [Bass Drama](https://open.spotify.com/track/02xFanXMNa1oVWdDZicssi) | [Hubwar](https://open.spotify.com/artist/5nR6SzYpEXdbRHRAJIO4aZ) | [Creatures](https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n) | 4:20 | 2022-02-17 |  |
+| [Bassline](https://open.spotify.com/track/1ZIglHDIFjtMiFV2VItzPg) | [Super Future](https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Bassline](https://open.spotify.com/album/4NQardSGvLWdwHLJwSHZm3) | 4:14 | 2023-08-18 |  |
 | [Bawl Out](https://open.spotify.com/track/2lAWlPQRlAAG0dO9b1Q6k6) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet) | [Hatched 10](https://open.spotify.com/album/0svpF8ZTD5pSiOPD2nwSpi) | 4:24 | 2022-02-17 | 2022-04-21 |
 | [Bear Witness](https://open.spotify.com/track/7gbJSuanWAq7mnDVuuawDG) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Scuba Presents Hotflush, Vol\. 5: Post Dub \(2009 \- 2011\)](https://open.spotify.com/album/1PyEkMY8ugjbWI2GvhTuGE) | 6:19 | 2022-02-17 | 2022-04-21 |
 | [Beastmode](https://open.spotify.com/track/5vYQpxkQkWhOj7tx44byhk) | [Epoch](https://open.spotify.com/artist/2cABKsImI0m4eAk8kyBMhQ) | [Beastmode](https://open.spotify.com/album/1Enbv9SOT28q5gNoLjLBaV) | 4:39 | 2022-04-29 | 2023-05-17 |
@@ -358,7 +359,7 @@
 | [Righteous](https://open.spotify.com/track/6vLVc8UKfHm5HFbprTee4T) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Righteous](https://open.spotify.com/album/3hZqvmxuYCPFnm7dz0uDIM) | 4:45 | 2022-02-17 | 2023-05-26 |
 | [Ripper](https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Ripper](https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3) | 3:30 | 2022-08-19 |  |
 | [Roots Dub](https://open.spotify.com/track/0yrcb1cwkgheJ7jEcTMwsh) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Roots \- EP](https://open.spotify.com/album/1wLirC220sMgkHxPrwN3M2) | 4:20 | 2022-02-17 |  |
-| [Roots Music](https://open.spotify.com/track/47Q2U9ao1PdM1VAYz0eVUl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:37 | 2022-02-17 |  |
+| [Roots Music](https://open.spotify.com/track/47Q2U9ao1PdM1VAYz0eVUl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:37 | 2022-02-17 | 2023-08-20 |
 | [Rude Gyal](https://open.spotify.com/track/1oBhvIDddwBZ9LfaySy7Zl) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Rude Gyal](https://open.spotify.com/album/3umlnsUaYmv4moxipAq3LX) | 3:10 | 2023-05-12 |  |
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-01-06 |  |
 | [Run Dat](https://open.spotify.com/track/1xHsySi8kU04XdtDXsEzzS) | [Bleeder](https://open.spotify.com/artist/1xc1weRFEPsBERQLS2l3Db), [Ghostek](https://open.spotify.com/artist/4T9kncPJWtzxAgq6ewWrRc), [iBenji](https://open.spotify.com/artist/1pd8yskXJ1sLlE3GANBzOX) | [Run Dat](https://open.spotify.com/album/4RnmseCEn1BuhsH2WpL0Fp) | 3:00 | 2022-11-18 | 2023-07-03 |

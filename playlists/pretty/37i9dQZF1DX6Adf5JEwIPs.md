@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: DannyLux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,766 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,883 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 43 | [¿A Qué Santo Le Rezo?](https://open.spotify.com/track/6sVXd4kb0BiyPMJizimOJp) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW) | [¿A Qué Santo Le Rezo?](https://open.spotify.com/album/3UvBQ4VSvfcOMWkpqEv3CZ) | 2:52 |
 | 44 | [Mix El Chúntaro Style\-Tu Cariñito \- En Vivo](https://open.spotify.com/track/7LcHdy74Uy18kqCjidLrPR) | [Banda La Tocadora](https://open.spotify.com/artist/0OasfAJiGwikx5wG5wuSy6) | [Mix El Chúntaro Style\-Tu Cariñito \(En Vivo\)](https://open.spotify.com/album/0vLBpea6TFRVmYYEohGhF5) | 6:29 |
 | 45 | [Solo Que Lo Dudes](https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Solo Que Lo Dudes](https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP) | 2:39 |
-| 46 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:35 |
+| 46 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:28 |
 | 47 | [Se Buscan Borrachos](https://open.spotify.com/track/1xwtzzPPtgAxrLzckBLFsD) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Se Buscan Borrachos](https://open.spotify.com/album/00utn0VpAOeqvRsE93GxvI) | 3:18 |
 | 48 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 |
 | 49 | [Tres Veces Te Engañé \- En Vivo](https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tres Veces Te Engañé \(En Vivo\)](https://open.spotify.com/album/67cz8x4lTBKle18uAhzeRa) | 4:16 |
 | 50 | [El Rey Del Pop \(En Vivo\)](https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 3:42 |
 
-Snapshot ID: `MCxmZWI3ZDZmZDQxNjZlNTVjZjQzNzA2MzI5NDJjZTI1MDk0ZWVmM2Qy`
+Snapshot ID: `MCw3ZTQ3Mzc4Mzk3MDc5ODFhY2UwZjg0MDBjNzYxNWFjZjIwNGQxZmMw`

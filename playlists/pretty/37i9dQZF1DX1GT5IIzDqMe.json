@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 83743,
+  "num_followers": 83786,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDEwYzE5MzExNzRiMzdlZDI3Nzc5YzIxNjFlNjM1ZDZmMDg1NGE0",
+  "snapshot_id": "MCxlNTA0MWI4YjIyZTY4ODhhNDIwNjZjOWJjYzc1MDM1NDAxYjIyYjc5",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        }
-      ],
-      "duration_ms": 208818,
-      "name": "World Of Deep",
-      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
         "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
       },
@@ -459,22 +439,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Just Want Another Chance",
-        "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
       "artists": [
         {
-          "name": "Reese",
-          "url": "https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG"
-        },
-        {
           "name": "Kevin Saunderson",
           "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
         }
       ],
-      "duration_ms": 312894,
-      "name": "Just Want Another Chance - Original Mix",
-      "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
+      "duration_ms": 208818,
+      "name": "World Of Deep",
+      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -491,6 +471,26 @@
       "duration_ms": 432586,
       "name": "The Dance",
       "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Just Want Another Chance",
+        "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
+      },
+      "artists": [
+        {
+          "name": "Reese",
+          "url": "https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 312894,
+      "name": "Just Want Another Chance - Original Mix",
+      "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -527,30 +527,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
-        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        },
-        {
-          "name": "Virus J",
-          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
-        }
-      ],
-      "duration_ms": 190947,
-      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
-      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Right There / Holy Ghost",
         "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
       },
@@ -563,6 +539,26 @@
       "duration_ms": 177885,
       "name": "Right There",
       "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Can You Feel It (Kevin Saunderson Remix)",
+        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 208210,
+      "name": "Can You Feel It - Kevin Saunderson Remix",
+      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -587,22 +583,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Can You Feel It (Kevin Saunderson Remix)",
-        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
+        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
+        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
       "artists": [
         {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
           "name": "Kevin Saunderson",
           "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Virus J",
+          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
         }
       ],
-      "duration_ms": 208210,
-      "name": "Can You Feel It - Kevin Saunderson Remix",
-      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
+      "duration_ms": 190947,
+      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
+      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Art of Music",
-        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 320866,
-      "name": "Telekinesis",
-      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 396190,
       "name": "Into The Groove - Extended Mix",
       "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Art of Music",
+        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 320866,
+      "name": "Telekinesis",
+      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
     },
     {
       "added_at": "2023-04-28 04:00:00",

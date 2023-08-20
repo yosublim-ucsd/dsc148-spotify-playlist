@@ -4,7 +4,7 @@
 
 > Heartbreak is the national anthem, we sing it proudly! Cover: Alexander Stewart
 
-557 songs - 1 day 6 hr 43 min
+558 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Family Line](https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:36 | 2022-06-24 | 2023-04-01 |
 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt) | 3:22 | 2022-03-18 | 2022-10-13 |
 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY) | 3:22 | 2022-10-28 |  |
-| [Faulty Writing](https://open.spotify.com/track/3tWmCPgwQ4rOn4vABsBLqO) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Faulty Writing](https://open.spotify.com/album/3eZcH7IVMVANRxGtus9xr4) | 2:28 | 2023-08-18 |  |
+| [Faulty Wiring](https://open.spotify.com/track/3tWmCPgwQ4rOn4vABsBLqO) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Faulty Wiring](https://open.spotify.com/album/3eZcH7IVMVANRxGtus9xr4) | 2:28 | 2023-08-18 |  |
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-05-04 |  |
 | [Feel Good](https://open.spotify.com/track/2LpDPQNJmEdJnNdqHfrflx) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Feel Good](https://open.spotify.com/album/5d3qDD3KoYlqf68XvZLmZb) | 2:58 | 2023-05-14 | 2023-06-19 |
 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 | 2021-12-17 |  |
@@ -388,6 +388,7 @@
 | [not over you](https://open.spotify.com/track/1hXAkVaCozEsMUPVCcEkO9) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [bye](https://open.spotify.com/album/6qgMAtWzDo8Y1yBoGxv189) | 3:10 | 2022-01-07 | 2022-03-15 |
 | [Not Used To Normal](https://open.spotify.com/track/7hOCTGGlJBfdenJDrjduht) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Not Used To Normal](https://open.spotify.com/album/6kz7FJsraxGIXVN3dqsnYM) | 2:02 | 2022-05-27 | 2022-10-22 |
 | [Not Usually Like This](https://open.spotify.com/track/6jFzlVYVaGUUBbkZtMPxWh) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Not Usually Like This](https://open.spotify.com/album/0LEquNgl5YmOrDs2yLymJV) | 3:19 | 2021-12-17 | 2022-01-08 |
+| [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-18 |  |
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2022-01-07 | 2022-05-17 |
 | [Nothing's All The Time](https://open.spotify.com/track/3m3bd62913zzUd48L53Lc1) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Nothing's All The Time](https://open.spotify.com/album/6mpySMwG3IZ7hSnqGF9Z2A) | 2:42 | 2022-05-06 | 2022-05-19 |
 | [Nurture](https://open.spotify.com/track/68QtZJviwUVuDl7GS1pxDh) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Nurture](https://open.spotify.com/album/0muWT8ba5rnVAFzZuQ7zUW) | 4:12 | 2022-01-21 | 2022-01-29 |
@@ -479,7 +480,7 @@
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-07-29 |  |
 | [The Night You Left](https://open.spotify.com/track/5lLg6681ubB6onQvgtcI4k) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [The Night You Left](https://open.spotify.com/album/4R9WkXMPVd9GvS9T8WiKFj) | 2:39 | 2021-12-17 | 2022-05-20 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-12-24 |  |
-| [The Other POV](https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The Other POV](https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3) | 2:59 | 2023-06-02 |  |
+| [The Other POV](https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The Other POV](https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3) | 2:59 | 2023-06-02 | 2023-08-20 |
 | [the reason i hate home](https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [the reason i hate home](https://open.spotify.com/album/60w9GszHHtExusXvbenVKz) | 2:43 | 2022-05-13 | 2022-07-28 |
 | [The Trauma and The Pleasure](https://open.spotify.com/track/4UOTmg9TBVTUibdKnPYzKt) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX) | [If We Were a Film, We'd Be a Sad One](https://open.spotify.com/album/4b3xIi8eyBNWbrIAkX7GoA) | 3:13 | 2021-12-17 | 2022-03-26 |
 | [The Way You Felt](https://open.spotify.com/track/6XdHZr9iXdqc4Q76wtgbqr) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Way You Felt](https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2) | 3:02 | 2021-12-17 | 2022-05-20 |

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 32007,
+  "num_followers": 32031,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTIwMWE4MjQ2YzM2MDFjZmYwZGJkZWM0ZmVhMjNkOGU3MmZhZDg2",
+  "snapshot_id": "MCwxZDBkMDllZDg1MTU1OGU2ZTU2NmMzYTg1MmQwZWZiMTdhZDUyNTYy",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -855,18 +855,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Hip Hop Rare",
-        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
+        "name": "40\u02da.40 Deluxe",
+        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Korsain",
+          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
         }
       ],
-      "duration_ms": 123802,
-      "name": "Hip Hop Rare",
-      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
+      "duration_ms": 197000,
+      "name": "Kenner",
+      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -915,22 +919,18 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "40\u02da.40 Deluxe",
-        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
       },
       "artists": [
         {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Korsain",
-          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kenner",
-      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
+      "duration_ms": 123802,
+      "name": "Hip Hop Rare",
+      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -983,34 +983,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Lado 13 Do Mapa",
-        "url": "https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1"
-      },
-      "artists": [
-        {
-          "name": "Feek",
-          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "dantt",
-          "url": "https://open.spotify.com/artist/17zmcE5VPJGB0psr1p8XqQ"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Lado 13 Do Mapa",
-      "url": "https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Jhony Convida #7 - Preto$",
         "url": "https://open.spotify.com/album/0srN7DSRvf01APXmDyaZ0q"
       },
@@ -1047,6 +1019,34 @@
       "duration_ms": 299154,
       "name": "Jhony Convida #7 - Preto$",
       "url": "https://open.spotify.com/track/3D6lFwZAMGDuAUb5YuuUwQ"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Lado 13 Do Mapa",
+        "url": "https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1"
+      },
+      "artists": [
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "dantt",
+          "url": "https://open.spotify.com/artist/17zmcE5VPJGB0psr1p8XqQ"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Lado 13 Do Mapa",
+      "url": "https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V"
     },
     {
       "added_at": "2023-08-18 03:01:00",

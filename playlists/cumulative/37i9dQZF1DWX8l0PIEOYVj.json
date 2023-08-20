@@ -2225,6 +2225,32 @@
     },
     {
       "album": {
+        "name": "Drown/Holding On (Remixes)",
+        "url": "https://open.spotify.com/album/72c3cv9Y8ATLBYUPLr7Dle"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271058,
+      "name": "Drown - Blanke Remix",
+      "url": "https://open.spotify.com/track/7fVply1kBn4HaUtDbJKhpo"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/7lJSmMbApjYTvZaU72KZTo"
       },
@@ -3746,7 +3772,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 206065,
       "name": "Happy Tears",
       "url": "https://open.spotify.com/track/75yiYJ0pJqVTga43SY6V8T"
@@ -4168,7 +4194,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 255846,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr"
@@ -5790,6 +5816,32 @@
       "duration_ms": 209464,
       "name": "New Horizons",
       "url": "https://open.spotify.com/track/67ApDC2MLl6hJXc2iwKNcx"
+    },
+    {
+      "album": {
+        "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
+        "url": "https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Selah Sol",
+          "url": "https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180903,
+      "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
+      "url": "https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR"
     },
     {
       "album": {

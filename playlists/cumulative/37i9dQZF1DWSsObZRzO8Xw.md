@@ -4,13 +4,13 @@
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: Elephant Gym
 
-130 songs - 9 hr 13 min
+131 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 | 2021-10-15 |  |
 | [1\-800\-GHOST\-DANCE](https://open.spotify.com/track/135UPaNucXPVEKvwdRczfM) | [Hella](https://open.spotify.com/artist/1n861RIk6CTAWncgHR9UHg) | [Hold Your Horse Is](https://open.spotify.com/album/2RHAyIlKGMvJ8cHlK4zpXw) | 3:44 | 2021-10-15 | 2022-05-21 |
-| [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 | 2021-10-15 |  |
+| [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 | 2021-10-15 | 2023-08-20 |
 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 | 2023-08-09 |  |
 | [Alexander Supertramp](https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis) | [Bangladesh](https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF) | [Alexander Supertramp](https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj) | 4:37 | 2021-10-15 |  |
 | [All We Need Is A Little Energon And A Lot Of Luck](https://open.spotify.com/track/5Ot1YTCuTtmqfcH01kN6fT) | [Meet Me in St\. Louis](https://open.spotify.com/artist/507WKf85fzZkH5W2c61m10) | [All We Need Is A Little Energon And A Lot Of Luck](https://open.spotify.com/album/20zLM4mMsPQVVKiaXMxylI) | 3:44 | 2021-10-15 |  |
@@ -74,6 +74,7 @@
 | [I'm Calmer Than You Are](https://open.spotify.com/track/4siyioIjCbxbAdpEBlttbn) | [Tangled Hair](https://open.spotify.com/artist/15apg2MS107wZD0LvXnkMw) | [Apples](https://open.spotify.com/album/4CUlo6PBFube5mFtmfZk97) | 3:57 | 2022-05-20 | 2022-11-13 |
 | [I'm Calmer Than You Are](https://open.spotify.com/track/6dVeC65T0SN94OFlXfjbgc) | [Tangled Hair](https://open.spotify.com/artist/15apg2MS107wZD0LvXnkMw) | [Two Eps](https://open.spotify.com/album/2mvec1eyAYGf9sfZJgufBb) | 3:57 | 2022-05-20 |  |
 | [I'm Calmer Than You Are](https://open.spotify.com/track/7yR5P0A3kkK4bIOrZGlpvQ) | [Tangled Hair](https://open.spotify.com/artist/15apg2MS107wZD0LvXnkMw) | [Two EPs](https://open.spotify.com/album/2SyBw5bvXYGxAUNsqCvxAB) | 3:57 | 2021-10-15 | 2022-07-29 |
+| [Infinite Spice](https://open.spotify.com/track/40hF24KMxg9LpglA9We3As) | [Via Luna](https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow) | [Muted Earth](https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L) | 4:11 | 2023-08-10 |  |
 | [It's Not](https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [M\. Rueff](https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH) | 2:43 | 2021-10-15 |  |
 | [itsallwaves](https://open.spotify.com/track/04xtPsRyfN9giDE6plaIev) | [Enemies](https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB) | [Valuables](https://open.spotify.com/album/6ppuPMu9s3GYz2sOiGcTJk) | 4:27 | 2022-05-20 |  |
 | [itsallwaves](https://open.spotify.com/track/5E5sFKr3L2sfmvnQR38N5C) | [Enemies](https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB) | [Valuables](https://open.spotify.com/album/4qB4qeFJ51u16LIX67gcfR) | 4:27 | 2021-10-15 | 2023-04-30 |

@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: SNOW WIFE
 
-197 songs - 10 hr 11 min
+198 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Friend Zone](https://open.spotify.com/track/0st8aX6twGUqeeh6sn6qsd) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [PICNIC](https://open.spotify.com/album/7Lv8LUpmSqwfZbDWssJxDN) | 3:07 | 2021-12-03 | 2022-07-29 |
 | [GANG$TA](https://open.spotify.com/track/58RYwmQUJVcn9jJPc5wVLa) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [GANG$TA](https://open.spotify.com/album/3NKZL0lQVVroMxKYBaZ4Je) | 3:27 | 2022-04-15 | 2022-07-27 |
 | [Go Girl Go Get It](https://open.spotify.com/track/4mUswKggANtZwWZg7a0Gl8) | [Masia One](https://open.spotify.com/artist/5xwsVRGFYIPpDmoaCC9XpB), [Alx](https://open.spotify.com/artist/4fFl2ItPM58qxwXilDjjTP) | [Go Girl Go Get It](https://open.spotify.com/album/4gJIqWmBGZqsuYG0CsGI7T) | 2:26 | 2021-12-03 | 2022-07-29 |
-| [Goddess \- Holly T Remix](https://open.spotify.com/track/2AMMUAPPA0pg5nOS90lNIP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Goddess \(Holly T Remix\)](https://open.spotify.com/album/1rayZOYkDr6D7jBCIdVO19) | 2:55 | 2022-01-07 |  |
+| [Goddess \- Holly T Remix](https://open.spotify.com/track/2AMMUAPPA0pg5nOS90lNIP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Goddess \(Holly T Remix\)](https://open.spotify.com/album/1rayZOYkDr6D7jBCIdVO19) | 2:55 | 2022-01-07 | 2023-08-20 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-12-03 |  |
 | [Good Love 2.0](https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Good Love 2.0](https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl) | 2:54 | 2021-12-03 |  |
 | [GOR!LLAZ](https://open.spotify.com/track/5pcO248MInWTjo87ex4CxY) | [Karencitta](https://open.spotify.com/artist/0touaoSr4QOLYxBJ9lmGgK) | [GOR!LLAZ](https://open.spotify.com/album/55UXtNQrTY2nxIvL4puIf8) | 1:48 | 2021-12-03 | 2022-07-22 |
@@ -150,6 +150,7 @@
 | [Rebel Girl](https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq) | 2:41 | 2022-09-02 |  |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2021-12-03 |  |
 | [RIP To My Feelings](https://open.spotify.com/track/6O006yehRUETdQvxfCAVl9) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW), [TheGifted](https://open.spotify.com/artist/03JZckISPavxXkoReAt6oI) | [RIP To My Feelings](https://open.spotify.com/album/5jqqcOyvjES1yHArXDJINR) | 3:24 | 2021-12-03 | 2022-07-29 |
+| [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 | 2023-08-18 |  |
 | [résumé](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [résumé](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 | 2022-05-06 | 2023-06-08 |
 | [sardines](https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [chump change](https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE) | 2:12 | 2022-06-03 |  |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-03 |  |

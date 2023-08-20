@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 236713,
+  "num_followers": 236787,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGU1NDQwY2E5YjRkNzJiMDMzOTMxMzcwYTY4NmVmMDRjY2ViZDBk",
+  "snapshot_id": "MCwyYjAwNjY3NjlkN2Y1NDE3M2VlNzc1OGFjOTZmMjMzOWY1YzEyMDFj",
   "tracks": [
     {
       "added_at": "2023-08-11 14:54:57",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Milonguera: Des femmes et du tango",
-        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Chorra",
-      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
         "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 140032,
       "name": "El Dia Que Me Quieras",
       "url": "https://open.spotify.com/track/5dk0nQ1vHHMhQMb9ngbpRY"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "Milonguera: Des femmes et du tango",
+        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Chorra",
+      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Por una Cabeza",
-      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "Organito De La Tarde",
         "url": "https://open.spotify.com/album/73yoYxiqBoQD6XeLDq2ZIr"
       },
@@ -347,22 +331,6 @@
       "duration_ms": 170733,
       "name": "Bah\u00eda Blanca",
       "url": "https://open.spotify.com/track/3xJnQEKKxW7QSKoAnNLJcU"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "Tangazos",
-        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
-      },
-      "artists": [
-        {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
-        }
-      ],
-      "duration_ms": 109386,
-      "name": "Melod\u00eda de Arrabal",
-      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -383,6 +351,22 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "duration_ms": 109386,
+      "name": "Melod\u00eda de Arrabal",
+      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
         "name": "A Pedido",
         "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Por una Cabeza",
+      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
         "name": "Var\u00f3n (Remastered)",
         "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
       },
@@ -411,30 +411,6 @@
       "duration_ms": 192815,
       "name": "Qu\u00e9 me van a hablar de amor - Remastered",
       "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        },
-        {
-          "name": "Chino Laborde",
-          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
-        },
-        {
-          "name": "Manu Sacco",
-          "url": "https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe"
-        }
-      ],
-      "duration_ms": 202240,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -495,6 +471,30 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        },
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        },
+        {
+          "name": "Manu Sacco",
+          "url": "https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe"
+        }
+      ],
+      "duration_ms": 202240,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
         "name": "... Tangamente",
         "url": "https://open.spotify.com/album/4B60jIPooAY6gTBMkUwfCu"
       },
@@ -543,22 +543,18 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Toda Mi Vida",
-        "url": "https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR"
+        "name": "El Mundo De La Fantas\u00eda",
+        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
       },
       "artists": [
         {
-          "name": "An\u00edbal Troilo",
-          "url": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
-        },
-        {
-          "name": "Francisco Fiorentino",
-          "url": "https://open.spotify.com/artist/0chC6Ta4I8hpmaZ28GUdMT"
+          "name": "Cacho Casta\u00f1a",
+          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
         }
       ],
-      "duration_ms": 183560,
-      "name": "Tinta Roja",
-      "url": "https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL"
+      "duration_ms": 207746,
+      "name": "El Mundo De La Fantas\u00eda",
+      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -579,18 +575,22 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "El Mundo De La Fantas\u00eda",
-        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
+        "name": "Toda Mi Vida",
+        "url": "https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR"
       },
       "artists": [
         {
-          "name": "Cacho Casta\u00f1a",
-          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
+          "name": "An\u00edbal Troilo",
+          "url": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
+        },
+        {
+          "name": "Francisco Fiorentino",
+          "url": "https://open.spotify.com/artist/0chC6Ta4I8hpmaZ28GUdMT"
         }
       ],
-      "duration_ms": 207746,
-      "name": "El Mundo De La Fantas\u00eda",
-      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
+      "duration_ms": 183560,
+      "name": "Tinta Roja",
+      "url": "https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -607,6 +607,22 @@
       "duration_ms": 190573,
       "name": "Remolino",
       "url": "https://open.spotify.com/track/48OjE2RNkrqVOLhiWcWdny"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "Lo Mejor de Alfredo Belusi",
+        "url": "https://open.spotify.com/album/3eGpNB9KUDP9KxrXBLKhXq"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Belusi",
+          "url": "https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe"
+        }
+      ],
+      "duration_ms": 124240,
+      "name": "De Puro Curda",
+      "url": "https://open.spotify.com/track/2yiFCdnMggyVo2R5mrs5Hu"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -639,22 +655,6 @@
       "duration_ms": 179400,
       "name": "Niebla del Riachuelo",
       "url": "https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "Lo Mejor de Alfredo Belusi",
-        "url": "https://open.spotify.com/album/3eGpNB9KUDP9KxrXBLKhXq"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Belusi",
-          "url": "https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe"
-        }
-      ],
-      "duration_ms": 124240,
-      "name": "De Puro Curda",
-      "url": "https://open.spotify.com/track/2yiFCdnMggyVo2R5mrs5Hu"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
-        }
-      ],
-      "duration_ms": 287184,
-      "name": "Sue\u00f1o de Barrilete",
-      "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 224746,
       "name": "Mariposita - En Vivo",
       "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
+      },
+      "artists": [
+        {
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
+        },
+        {
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+        }
+      ],
+      "duration_ms": 287184,
+      "name": "Sue\u00f1o de Barrilete",
+      "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -895,6 +895,26 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
+        "name": "Castiellos",
+        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
+      },
+      "artists": [
+        {
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        },
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+        }
+      ],
+      "duration_ms": 241546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
         "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
         "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 163333,
       "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
       "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "Castiellos",
-        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
-      },
-      "artists": [
-        {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        },
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        }
-      ],
-      "duration_ms": 241546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "70 A\u00f1os de Tango",
-        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
-      },
-      "artists": [
-        {
-          "name": "Roberto Siri",
-          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Quiero Verte una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "Rescatados",
         "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 177977,
       "name": "Sur",
       "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "70 A\u00f1os de Tango",
+        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
+      },
+      "artists": [
+        {
+          "name": "Roberto Siri",
+          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Quiero Verte una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "De Criollos y Tangueros",
-        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        },
-        {
-          "name": "Walter Laborde",
-          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
-        }
-      ],
-      "duration_ms": 253769,
-      "name": "Payada Gardel-Razzano",
-      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 174693,
       "name": "La Luz de un F\u00f3sforo - En Vivo",
       "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "De Criollos y Tangueros",
+        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        },
+        {
+          "name": "Walter Laborde",
+          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
+        }
+      ],
+      "duration_ms": 253769,
+      "name": "Payada Gardel-Razzano",
+      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1223,6 +1223,38 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
+        "name": "Cuarteto Federico Grela, Vol. 1",
+        "url": "https://open.spotify.com/album/7FVhw0omeFrQSIUaIQmggq"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Federico Grela",
+          "url": "https://open.spotify.com/artist/2fLpZQgdBH8MpNlPSirNNV"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Danzar\u00edn",
+      "url": "https://open.spotify.com/track/3MTkrZvv106Xe3psYCm2wT"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "A Las Orquestas",
+        "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
+      },
+      "artists": [
+        {
+          "name": "Julio Pane",
+          "url": "https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV"
+        }
+      ],
+      "duration_ms": 251472,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
         "name": "Intimos, Vol. 1 en vivo en Bebop",
         "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
       },
@@ -1263,34 +1295,18 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Cuarteto Federico Grela, Vol. 1",
-        "url": "https://open.spotify.com/album/7FVhw0omeFrQSIUaIQmggq"
+        "name": "Si Sos Brujo",
+        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
       },
       "artists": [
         {
-          "name": "Cuarteto Federico Grela",
-          "url": "https://open.spotify.com/artist/2fLpZQgdBH8MpNlPSirNNV"
+          "name": "Alfredo Gobbi",
+          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Danzar\u00edn",
-      "url": "https://open.spotify.com/track/3MTkrZvv106Xe3psYCm2wT"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "A Las Orquestas",
-        "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
-      },
-      "artists": [
-        {
-          "name": "Julio Pane",
-          "url": "https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV"
-        }
-      ],
-      "duration_ms": 251472,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
+      "duration_ms": 209746,
+      "name": "Si Sos Brujo",
+      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1307,22 +1323,6 @@
       "duration_ms": 191320,
       "name": "Ave de Paso",
       "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "Si Sos Brujo",
-        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gobbi",
-          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Si Sos Brujo",
-      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
-        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "Cafetin",
-      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 167200,
       "name": "Barrio de Tango - En Vivo",
       "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
+        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "Cafetin",
+      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
     }
   ],
   "unique_name": "Tangos y Milongas",

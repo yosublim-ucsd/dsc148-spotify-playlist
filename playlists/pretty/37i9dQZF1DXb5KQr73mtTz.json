@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 10980,
+  "num_followers": 10993,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTgxMTk1MmQzYWYxNWE2YjVmZGVjNzRjMTU2MjNmY2IxY2FkZGVm",
+  "snapshot_id": "MCw0ZGU0ZTU3NzJiYTc3ZTZlMjg3NzgzNjY5NjE5ZDkxYjcwNWI1YzVi",
   "tracks": [
     {
       "added_at": "2023-08-18 06:11:46",
@@ -79,6 +79,26 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Don\u2019t Wanna Go Back (Duet with Heize)",
+      "url": "https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
@@ -127,22 +147,6 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
-        "name": "Only Then",
-        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 248835,
-      "name": "Only Then",
-      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
         "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
       },
@@ -159,6 +163,22 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
+        "name": "Only Then",
+        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 248835,
+      "name": "Only Then",
+      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
         "name": "180\u02da",
         "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
@@ -171,6 +191,38 @@
       "duration_ms": 229187,
       "name": "180 Degree",
       "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
+        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c OST Part.3",
+        "url": "https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF"
+      },
+      "artists": [
+        {
+          "name": "Kim Yeonji",
+          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
+        }
+      ],
+      "duration_ms": 302864,
+      "name": "\ub9c8\uc74c\uc758 \ub9d0",
+      "url": "https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 316506,
+      "name": "My sea",
+      "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
     },
     {
       "added_at": "2023-08-18 06:11:46",
@@ -195,22 +247,6 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
-        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c OST Part.3",
-        "url": "https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF"
-      },
-      "artists": [
-        {
-          "name": "Kim Yeonji",
-          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
-        }
-      ],
-      "duration_ms": 302864,
-      "name": "\ub9c8\uc74c\uc758 \ub9d0",
-      "url": "https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
         "name": "Go Back \uc9d1\uc5d0",
         "url": "https://open.spotify.com/album/2sLLoVge1yKRRnMfsSxMoZ"
       },
@@ -227,6 +263,22 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Can't Go",
+      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8"
       },
@@ -239,22 +291,6 @@
       "duration_ms": 258532,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "My sea",
-      "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
     },
     {
       "added_at": "2023-08-18 06:11:46",
@@ -303,22 +339,6 @@
       "duration_ms": 198698,
       "name": "Will spring come?",
       "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Can't Go",
-      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
     },
     {
       "added_at": "2023-08-18 06:11:46",
@@ -391,22 +411,6 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
         "name": "Thank you for Goodbye",
         "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
       },
@@ -419,6 +423,22 @@
       "duration_ms": 253985,
       "name": "Thank you for Goodbye",
       "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2023-08-18 06:11:46",
@@ -455,38 +475,6 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
         "name": "inside",
         "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
@@ -503,6 +491,22 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
         "name": "The day was beautiful",
         "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
       },
@@ -515,6 +519,22 @@
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
     },
     {
       "added_at": "2023-08-18 06:11:46",
@@ -619,22 +639,6 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "How You Been",
-      "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 15",
         "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
       },
@@ -651,18 +655,18 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+      "duration_ms": 178666,
+      "name": "How You Been",
+      "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
     },
     {
       "added_at": "2023-08-18 06:11:46",
@@ -679,6 +683,22 @@
       "duration_ms": 258321,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2023-08-18 06:11:46",
@@ -735,22 +755,6 @@
     {
       "added_at": "2023-08-18 06:11:46",
       "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
         "name": "Meaningless",
         "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
       },
@@ -763,6 +767,22 @@
       "duration_ms": 160370,
       "name": "Meaningless",
       "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
+    },
+    {
+      "added_at": "2023-08-18 06:11:46",
+      "album": {
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     },
     {
       "added_at": "2023-08-18 06:11:46",
@@ -811,22 +831,6 @@
       "duration_ms": 240532,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR"
-    },
-    {
-      "added_at": "2023-08-18 06:11:46",
-      "album": {
-        "name": "The Secret Romantic Guesthouse Part.7",
-        "url": "https://open.spotify.com/album/2DH1P6vmUri5tABIbRrYAt"
-      },
-      "artists": [
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        }
-      ],
-      "duration_ms": 226080,
-      "name": "Be there",
-      "url": "https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

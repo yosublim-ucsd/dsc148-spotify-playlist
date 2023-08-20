@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,962 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,006 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Makélélé](https://open.spotify.com/track/3NwMIcrPVesx13KiJoPtc3) | [Salvador Plaisir](https://open.spotify.com/artist/3mnbwUuwXpWSisTrAkfmZa), [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Makélélé](https://open.spotify.com/album/2Q6UrODqAI7BZQuXPoSnuW) | 3:02 |
 | 40 | [Copa](https://open.spotify.com/track/6DHB4gzkkIAtV4X5TruqoG) | [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv) | [Agama](https://open.spotify.com/album/7JFbI2Bgh9U5QPN3NuuA4l) | 2:22 |
 
-Snapshot ID: `MCxiYzMzZjViZDY5ZTcwMzNmN2QzN2Q5MjFkNTcyN2Q3MmUzNDMyY2Vl`
+Snapshot ID: `MCwyMGY5Njg2NzY3ZTViNTUzNjY5Mjg3OGRmZWVkYjFiNGU0YjM2M2Fi`

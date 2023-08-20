@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Big Thief
 
-519 songs - 1 day 8 hr 26 min
+520 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [C'mon America](https://open.spotify.com/track/1Rp5D6QPrijZsEgqJ6kHFD) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [C'mon America](https://open.spotify.com/album/20d5m4EhOkMvp0xQgS7RiZ) | 2:56 | 2022-01-14 | 2022-07-16 |
 | [Cady Road](https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/6zBwMl6GARPzqmZtv0YK8Z) | 3:10 | 2021-10-22 | 2022-07-29 |
 | [Call the Days](https://open.spotify.com/track/43zbl1HtPGmdXktjOzRFXX) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/0eeWqSci9uLlAuTP0bXwLR) | 3:32 | 2021-10-22 | 2022-06-13 |
-| [Call the Days](https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM) | 3:32 | 2022-06-24 |  |
+| [Call the Days](https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM) | 3:32 | 2022-06-24 | 2023-08-20 |
 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 | 2021-10-22 |  |
 | [Candle](https://open.spotify.com/track/3sTNIZ0hdHC2Lj1dp0IQRm) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 3:43 | 2022-07-29 | 2022-11-14 |
 | [Candle](https://open.spotify.com/track/7G9lFBhpC4KJDAVNYZJ0Yc) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2XPFEnQ9PcyWPIrJJnAkrX) | 3:43 | 2021-10-22 | 2022-07-28 |
@@ -282,7 +282,7 @@
 | [Little Things](https://open.spotify.com/track/41YZXlOIGKmaa3RJpBn2Qy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Little Things/Sparrow](https://open.spotify.com/album/3ZftJ3ZvQf8Sas1pUVSjZU) | 5:44 | 2021-10-22 | 2022-04-14 |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-10-22 |  |
 | [Looking For Love](https://open.spotify.com/track/02URvOPqbVEmLOCXvLH5Op) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Looking For Love](https://open.spotify.com/album/2VPn8eCJ3fm4A77GNa3ZbW) | 3:35 | 2023-04-14 | 2023-04-26 |
-| [Looking For Love](https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:35 | 2023-04-21 | 2023-08-02 |
+| [Looking For Love](https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:35 | 2023-04-21 |  |
 | [Looking out for You](https://open.spotify.com/track/3eYqfc5h1gf46b5jipIQNl) | [The Guest and the Host](https://open.spotify.com/artist/5btUhGNTcEvv2W2NcsKndH) | [Looking out for You](https://open.spotify.com/album/1FB4vMJq4grWxNoG5Ntm4N) | 2:30 | 2022-04-13 | 2022-04-19 |
 | [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 | 2022-06-24 |  |
 | [Losing You](https://open.spotify.com/track/3ASaECH1ebS3BKpizNHk35) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Losing You](https://open.spotify.com/album/4eekFhEz7Ifb3KpTKkjxBa) | 3:26 | 2021-10-22 | 2022-07-29 |
@@ -382,7 +382,7 @@
 | [Savior Complex](https://open.spotify.com/track/4BNew3AqFCvABdFsYMRiyB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 4:01 | 2021-10-22 | 2022-04-22 |
 | [Say It Ain't So](https://open.spotify.com/track/1REohUFAzDBfIqPwL1CjUQ) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Say It Ain't So](https://open.spotify.com/album/22DE5yz0XPuClO8A0P6tyJ) | 3:43 | 2022-04-13 | 2022-04-25 |
 | [Second Sun](https://open.spotify.com/track/6M9pAYUbeZw1P492xk1TIm) | [Jodie Nicholson](https://open.spotify.com/artist/3UKeJqND3iyFxGOUPLq9Be) | [Second Sun](https://open.spotify.com/album/5cmMIs2vDV7WfNKdRBGaak) | 5:00 | 2021-10-22 | 2022-04-21 |
-| [Seed \- In Bloom](https://open.spotify.com/track/6dqSEB3o1HZ7dmBgUbJy4e) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi), [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Seed \(In Bloom\)](https://open.spotify.com/album/1dEbOB86RSmhOgvdjayQVB) | 2:37 | 2023-08-04 |  |
+| [Seed \- In Bloom](https://open.spotify.com/track/6dqSEB3o1HZ7dmBgUbJy4e) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi), [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Seed \(In Bloom\)](https://open.spotify.com/album/1dEbOB86RSmhOgvdjayQVB) | 2:37 | 2023-08-04 | 2023-08-20 |
 | [Selene](https://open.spotify.com/track/5qD71BEybvU6SE214zXCeq) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Selene](https://open.spotify.com/album/6oaFJJyQIAVeD8vGbRu15A) | 4:38 | 2022-04-13 | 2022-04-18 |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2022-06-24 |  |
 | [She Burns](https://open.spotify.com/track/4MbeEkEuBRe6l5ksYXqNXb) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [She Burns](https://open.spotify.com/album/2cKw7mUmiiLmDPDxdsW0zS) | 3:49 | 2021-10-22 | 2022-07-26 |
@@ -491,6 +491,7 @@
 | [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 | 2021-10-22 | 2023-01-23 |
 | [Wasted](https://open.spotify.com/track/01EZT06EIdnVOLl96Parta) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Wasted](https://open.spotify.com/album/2L78qBH9kCRwbX4o6rPpWs) | 2:29 | 2021-10-22 | 2022-07-29 |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2022-06-24 |  |
+| [Watchman](https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX) | 3:18 | 2023-08-18 |  |
 | [Water Flowing Downward](https://open.spotify.com/track/7nvxj8fbIpGurKhR3AflFh) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Water Flowing Downward](https://open.spotify.com/album/4SMyRbk8s86UtDANoXI0xV) | 3:25 | 2021-10-22 | 2022-07-29 |
 | [Way Home](https://open.spotify.com/track/73vAefAUkiyoPunmOdx5cu) | [Elgin](https://open.spotify.com/artist/20W2gIlZtawVw7VOkFgFbX) | [Way Home \- Single](https://open.spotify.com/album/5Zw8w3h4hdWJGDh9IAtadZ) | 3:09 | 2022-04-13 | 2022-04-20 |
 | [What A Day \- Edit](https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:17 | 2022-06-24 |  |

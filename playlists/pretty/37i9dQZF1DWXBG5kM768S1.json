@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 70123,
+  "num_followers": 70145,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjhlY2ZiZThmYjIxYzFjMTFmZTY5ZjA3NjU5Zjk4NmJiZWFmODk4",
+  "snapshot_id": "MCw3ZTYxNjUwZTBiMTA1NjcyZmQ2NDZkOWI5MTVmM2VlOTQzYjc1MGVm",
   "tracks": [
     {
       "added_at": "2023-08-02 08:55:38",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-08-02 08:55:38",
       "album": {
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
+    },
+    {
+      "added_at": "2023-08-02 08:55:38",
+      "album": {
         "name": "Sol\u00f8ye",
         "url": "https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 234466,
       "name": "Har En Dr\u00f8m",
       "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
-    },
-    {
-      "added_at": "2023-08-02 08:55:38",
-      "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
-      },
-      "artists": [
-        {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
-        }
-      ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2023-08-02 08:55:38",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-02 08:55:38",
       "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 168373,
-      "name": "Alle Snakker Sant",
-      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
-    },
-    {
-      "added_at": "2023-08-02 08:55:38",
-      "album": {
         "name": "Under deg",
         "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 244266,
       "name": "Under deg",
       "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
+    },
+    {
+      "added_at": "2023-08-02 08:55:38",
+      "album": {
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+      },
+      "artists": [
+        {
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Alle Snakker Sant",
+      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
     },
     {
       "added_at": "2023-08-02 08:55:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-02 08:55:38",
       "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 260778,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
-    },
-    {
-      "added_at": "2023-08-02 08:55:38",
-      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-08-02 08:55:38",
       "album": {
-        "name": "Duell",
-        "url": "https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF"
+        "name": "Club 7",
+        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
       "artists": [
         {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 254480,
-      "name": "Hva kj\u00e6rlighet er",
-      "url": "https://open.spotify.com/track/5V6QuMxE9efXTyUQYZWy38"
+      "duration_ms": 260778,
+      "name": "Club 7",
+      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
     },
     {
       "added_at": "2023-08-02 08:55:38",
@@ -779,6 +763,22 @@
       "duration_ms": 154444,
       "name": "Han er ikkje deg",
       "url": "https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M"
+    },
+    {
+      "added_at": "2023-08-02 08:55:38",
+      "album": {
+        "name": "Duell",
+        "url": "https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "Hva kj\u00e6rlighet er",
+      "url": "https://open.spotify.com/track/5V6QuMxE9efXTyUQYZWy38"
     },
     {
       "added_at": "2023-08-02 08:55:38",

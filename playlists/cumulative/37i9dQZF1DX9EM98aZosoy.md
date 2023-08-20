@@ -4,7 +4,7 @@
 
 > Feiern mit den größten aktuellen Partyhits.
 
-140 songs - 6 hr 30 min
+141 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [NON STOP](https://open.spotify.com/track/2LdUvIuGaxpzqJ8oHTiKnN) | [Dennis Dies Das](https://open.spotify.com/artist/30ttvzupq5sM6n9NBx6uBx) | [NON STOP](https://open.spotify.com/album/6A4gV8vKVwOTOVSLNUDhu6) | 2:29 | 2022-11-17 | 2022-11-26 |
 | [Not Fair](https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW) | 2:43 | 2023-06-21 | 2023-07-07 |
 | [Ohne Benzin](https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ohne Benzin](https://open.spotify.com/album/44qXZ6KEzcKrp9E9jaxpH0) | 2:35 | 2022-12-15 | 2022-12-22 |
-| [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 | 2023-05-23 |  |
+| [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 | 2023-05-23 | 2023-08-20 |
 | [On The Move](https://open.spotify.com/track/7lEBtmu2qRLupeSOupBa1j) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PRISKA](https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w) | [On The Move](https://open.spotify.com/album/2aFtLWVpsrONFCNJZgEo9R) | 2:19 | 2023-06-07 | 2023-06-22 |
 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 | 2023-08-16 |  |
 | [ONLY 4 LIFE \- Remix](https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2), [FABE BROWN](https://open.spotify.com/artist/1H2agrqo1Y8alTi5Wde6UG) | [ONLY 4 LIFE \(Remix\)](https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH) | 2:28 | 2023-01-13 |  |
@@ -120,6 +120,7 @@
 | [S&M \(With Chacel\) \- HYPERTECHNO Edit](https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [S&M \(With Chacel\) \[HYPERTECHNO Edit\]](https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK) | 2:58 | 2023-07-12 | 2023-07-15 |
 | [Sehnsucht](https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Sehnsucht](https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ) | 2:32 | 2022-12-27 |  |
 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 | 2023-08-04 |  |
+| [Sinner](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sinner](https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW) | 3:11 | 2023-08-16 |  |
 | [Somewhere in Between](https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp) | 2:36 | 2023-04-01 | 2023-04-15 |
 | [Spirit Of The Hawk](https://open.spotify.com/track/1u0vQfpkbTKMTmkO0lLDer) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [JAMYX](https://open.spotify.com/artist/2HZQ0WXT8ECFeGLFeCHhTy) | [Spirit Of The Hawk](https://open.spotify.com/album/1qlei1hLIFR5Bk11h3jKx6) | 2:43 | 2022-12-15 | 2022-12-22 |
 | [Still \(I Got Summer On My Mind\) \- FORTELLA Remix](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW) | [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Still \(I Got Summer On My Mind\) \[FORTELLA Remix\]](https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob) | 3:13 | 2022-10-14 | 2023-02-08 |

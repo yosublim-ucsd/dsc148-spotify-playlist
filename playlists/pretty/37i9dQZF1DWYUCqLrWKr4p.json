@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 171846,
+  "num_followers": 171997,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjM1MWYwMGM2NzNjZTQwYzMwNmNkNDVmM2FjODA2NjA1YTVjZWM2",
+  "snapshot_id": "MCxmM2EzMTMyN2UxZDlkYmQ1ZDQ3NGQ0NjI1NjllMDliNGI1ZTlkMDky",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Deliver",
-        "url": "https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Dedicated To The One I Love",
-      "url": "https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "You've Lost That Lovin' Feelin'",
         "url": "https://open.spotify.com/album/28FEznublcKslK88ehRrfy"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 226453,
       "name": "You've Lost That Lovin' Feelin' - Single Version",
       "url": "https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Deliver",
+        "url": "https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Dedicated To The One I Love",
+      "url": "https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Hey Paula",
-        "url": "https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh"
-      },
-      "artists": [
-        {
-          "name": "Paul & Paula",
-          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
-        }
-      ],
-      "duration_ms": 146944,
-      "name": "Hey Paula",
-      "url": "https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Best of Sam & Dave",
         "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 194106,
       "name": "When Something Is Wrong with My Baby",
       "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Hey Paula",
+        "url": "https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh"
+      },
+      "artists": [
+        {
+          "name": "Paul & Paula",
+          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
+        }
+      ],
+      "duration_ms": 146944,
+      "name": "Hey Paula",
+      "url": "https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw"
     },
     {
       "added_at": "2022-05-30 13:02:24",

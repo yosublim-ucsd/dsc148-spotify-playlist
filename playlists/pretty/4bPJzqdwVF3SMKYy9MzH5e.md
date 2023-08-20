@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,793 songs - 4 day 1 hr 4 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,795 songs - 4 day 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -522,7 +522,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 512 | [Bloom](https://open.spotify.com/track/05xA64s3UzOOmAnh9SIIjn) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Mango](https://open.spotify.com/album/5huBh4ncSbQS0awxP3FyVW) | 5:02 |
 | 513 | [Drown](https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd) | 3:54 |
 | 514 | [Shampoo Bottles](https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:44 |
-| 515 | [I Met Sarah in the Bathroom](https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [I Met Sarah in the Bathroom](https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ) | 2:01 |
+| 515 | [i met sarah in the bathroom](https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [i met sarah in the bathroom](https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ) | 2:01 |
 | 516 | [Sex Talk](https://open.spotify.com/track/6hbg57wH6SyIDnPzwLeeXc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:11 |
 | 517 | [on god](https://open.spotify.com/track/7a7wbihbtKPnMCq17iECek) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [i don't care at all](https://open.spotify.com/album/7yLZeJTQUK0Dn5MHTLNjyI) | 3:14 |
 | 518 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
@@ -1801,5 +1801,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1791 | [stay\_w\_me](https://open.spotify.com/track/6tKUMn27YjNOxxjttkI40A) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [stay\_w\_me](https://open.spotify.com/album/6tdL42Aa8sREKhNt4t1oNS) | 2:16 |
 | 1792 | [SMOKE IT OFF!](https://open.spotify.com/track/4mMEvkDeY56be4l7Itb5aZ) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99) | 1:57 |
 | 1793 | [alone](https://open.spotify.com/track/4DOQULDZcy6W3mNKtuAZpz) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [alone](https://open.spotify.com/album/6io6hr34sIRqIuyqvvO2LT) | 2:34 |
+| 1794 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
+| 1795 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 |
 
-Snapshot ID: `NjM3LDM3MDJmOTFlYzM5NDhmNWRlYjBiMzZlMjZkY2RlOGY1ZjEyOTQ4ZWI=`
+Snapshot ID: `NjM5LDQ1MGU3MDliN2VlNWRhODY0ZDNkNDdjMjI1ZDk3ZDJhZTYzMGEzZTg=`

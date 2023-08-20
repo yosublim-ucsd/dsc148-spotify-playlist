@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 7936,
+  "num_followers": 7943,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTY3ODkyOTE4YjBlZTJhMDk1ZjBmMzJkMjU2Njg3NDRlNTVjMjkx",
+  "snapshot_id": "MCw3Nzc5ZWFjOWU1M2FlMjg1NDk3NTk2OTgxOGY5MzUxYjc5OWFlNjgz",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Le Qu\u00e9b\u00e9cois",
-        "url": "https://open.spotify.com/album/7sHnZOknlr6BSrGSh9WsN5"
-      },
-      "artists": [
-        {
-          "name": "Sir Path",
-          "url": "https://open.spotify.com/artist/1SqP7XwK5pJqhoL3bwqF2v"
-        }
-      ],
-      "duration_ms": 191578,
-      "name": "Vie de bum",
-      "url": "https://open.spotify.com/track/1DFMMkQ1ej4lgR9dET0raU"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "RX",
         "url": "https://open.spotify.com/album/7okdrb4tO7wFS4qh7LtSfN"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 121939,
       "name": "Sensuelle",
       "url": "https://open.spotify.com/track/5m0ujD7hPWLqOCRbzhrRkA"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Le Qu\u00e9b\u00e9cois",
+        "url": "https://open.spotify.com/album/7sHnZOknlr6BSrGSh9WsN5"
+      },
+      "artists": [
+        {
+          "name": "Sir Path",
+          "url": "https://open.spotify.com/artist/1SqP7XwK5pJqhoL3bwqF2v"
+        }
+      ],
+      "duration_ms": 191578,
+      "name": "Vie de bum",
+      "url": "https://open.spotify.com/track/1DFMMkQ1ej4lgR9dET0raU"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Mafia",
-        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Fugueuse",
-      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Bateaux Colombiens",
         "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 251495,
       "name": "OuinOuin",
       "url": "https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Fugueuse",
+      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Cash Out",
-        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 171262,
-      "name": "G-code",
-      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Temple de la Renomm\u00e9e",
         "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 204988,
       "name": "Pavel Bure",
       "url": "https://open.spotify.com/track/5CXOwEgCeq7BQkUJc968S5"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 171262,
+      "name": "G-code",
+      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Oc\u00e9an",
+        "url": "https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL"
+      },
+      "artists": [
+        {
+          "name": "Manu Militari",
+          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "Peace and Love",
+      "url": "https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 236657,
       "name": "Faya",
       "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Oc\u00e9an",
-        "url": "https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL"
-      },
-      "artists": [
-        {
-          "name": "Manu Militari",
-          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "Peace and Love",
-      "url": "https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
-      },
-      "artists": [
-        {
-          "name": "O.Z",
-          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Faits d'hiver",
         "url": "https://open.spotify.com/album/1EQPa4FED7g3dPTZUzXTaK"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 183160,
       "name": "Faits d'hiver",
       "url": "https://open.spotify.com/track/6wmeVIUvh2z2jqdWdXJROb"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
+      },
+      "artists": [
+        {
+          "name": "O.Z",
+          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1779,6 +1779,30 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "OUI (tout, tout, tout, toutttte)",
+        "url": "https://open.spotify.com/album/7bRU8bH8jcOYzSA5NKd1QK"
+      },
+      "artists": [
+        {
+          "name": "Yes*",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+        },
+        {
+          "name": "Yen Dough",
+          "url": "https://open.spotify.com/artist/3RNcfewLEd1Y5n8WtcoJXG"
+        },
+        {
+          "name": "Cape Tula",
+          "url": "https://open.spotify.com/artist/7tZSgCNyyOgOdu6RvF0yAf"
+        }
+      ],
+      "duration_ms": 254445,
+      "name": "D\u00e9sir\u00e9e (feat. Cape Tula & Yen Dough)",
+      "url": "https://open.spotify.com/track/6xOBm3J2uftXOZNzkI3vEf"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Canicule, Vol.1",
         "url": "https://open.spotify.com/album/31u0rjLg49Ae8T7VHysfwP"
       },
@@ -1807,26 +1831,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "OUI (tout, tout, tout, toutttte)",
-        "url": "https://open.spotify.com/album/7bRU8bH8jcOYzSA5NKd1QK"
+        "name": "La Coupe",
+        "url": "https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg"
       },
       "artists": [
         {
-          "name": "Yes*",
-          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
         },
         {
-          "name": "Yen Dough",
-          "url": "https://open.spotify.com/artist/3RNcfewLEd1Y5n8WtcoJXG"
-        },
-        {
-          "name": "Cape Tula",
-          "url": "https://open.spotify.com/artist/7tZSgCNyyOgOdu6RvF0yAf"
+          "name": "Tommy Kruise",
+          "url": "https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S"
         }
       ],
-      "duration_ms": 254445,
-      "name": "D\u00e9sir\u00e9e (feat. Cape Tula & Yen Dough)",
-      "url": "https://open.spotify.com/track/6xOBm3J2uftXOZNzkI3vEf"
+      "duration_ms": 172489,
+      "name": "Findsemaine",
+      "url": "https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1867,26 +1887,6 @@
       "duration_ms": 257544,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "La Coupe",
-        "url": "https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        },
-        {
-          "name": "Tommy Kruise",
-          "url": "https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S"
-        }
-      ],
-      "duration_ms": 172489,
-      "name": "Findsemaine",
-      "url": "https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB"
     }
   ],
   "unique_name": "Les nouveaux classiques",

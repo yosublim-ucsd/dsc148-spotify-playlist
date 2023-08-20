@@ -1000,8 +1000,8 @@
       },
       "artists": [
         {
-          "name": "Joseph Caleb",
-          "url": "https://open.spotify.com/artist/2rfwTWRvlhsyGYdDTqjwgI"
+          "name": "S.J Morgan",
+          "url": "https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4"
         }
       ],
       "date_added": "2022-05-20",
@@ -2507,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Hummelviken",
+        "url": "https://open.spotify.com/album/4udm7ZuoIBCgayXyhoV1tc"
+      },
+      "artists": [
+        {
+          "name": "S.J Morgan",
+          "url": "https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111500,
+      "name": "Hummelviken",
+      "url": "https://open.spotify.com/track/2uyPvB17vM4oxgS8FV3PJR"
+    },
+    {
+      "album": {
         "name": "Hvile (Ps.4)",
         "url": "https://open.spotify.com/album/70ulnAtVVPZApVt5J4WIbm"
       },
@@ -2918,24 +2936,6 @@
       "duration_ms": 110000,
       "name": "Just For Now",
       "url": "https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO"
-    },
-    {
-      "album": {
-        "name": "Kallsj\u00f6n",
-        "url": "https://open.spotify.com/album/4udm7ZuoIBCgayXyhoV1tc"
-      },
-      "artists": [
-        {
-          "name": "August Wester",
-          "url": "https://open.spotify.com/artist/3uBpvuGyzQzsXcJEVVeYL0"
-        }
-      ],
-      "date_added": "2022-05-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 111500,
-      "name": "Kallsj\u00f6n",
-      "url": "https://open.spotify.com/track/2uyPvB17vM4oxgS8FV3PJR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 494778,
+  "num_followers": 494989,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmZmODU1OGEzM2RkZDAwYTZiZmRmZTUyOGM5NWM2YzYwZmRjNzYz",
+  "snapshot_id": "MCxlNWEzNDNjNDFiODNkYzc1NGVmNGI4NTZhZmEyNGVkZTcyMzRiOTNm",
   "tracks": [
     {
       "added_at": "2023-08-11 10:13:10",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
+        "name": "RIP Groove",
+        "url": "https://open.spotify.com/album/1b5NUoEx4BCuzQgg0X2ZXE"
+      },
+      "artists": [
+        {
+          "name": "Double 99",
+          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "RIP Groove - Radio Edit",
+      "url": "https://open.spotify.com/track/47zdicM0GhuAVBNUBvBbf0"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
         "name": "Woman Trouble",
         "url": "https://open.spotify.com/album/1RclMI8jt1X283Rebj2yt7"
       },
@@ -579,30 +595,6 @@
       "duration_ms": 423250,
       "name": "Woman Trouble - Remix",
       "url": "https://open.spotify.com/track/6PsWyOvFbmIprcCc56ua46"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
-        "name": "Freak Like Me",
-        "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
-      },
-      "artists": [
-        {
-          "name": "Dub Conspiracy",
-          "url": "https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r"
-        },
-        {
-          "name": "Tru Faith",
-          "url": "https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9"
-        },
-        {
-          "name": "Dome",
-          "url": "https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe"
-        }
-      ],
-      "duration_ms": 292533,
-      "name": "Freak Like Me - Dome's Peak Freak Remix",
-      "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
     },
     {
       "added_at": "2023-08-11 10:13:10",
@@ -631,18 +623,26 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
-        "name": "RIP Groove",
-        "url": "https://open.spotify.com/album/1b5NUoEx4BCuzQgg0X2ZXE"
+        "name": "Freak Like Me",
+        "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
       },
       "artists": [
         {
-          "name": "Double 99",
-          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
+          "name": "Dub Conspiracy",
+          "url": "https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r"
+        },
+        {
+          "name": "Tru Faith",
+          "url": "https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9"
+        },
+        {
+          "name": "Dome",
+          "url": "https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe"
         }
       ],
-      "duration_ms": 209373,
-      "name": "RIP Groove - Radio Edit",
-      "url": "https://open.spotify.com/track/47zdicM0GhuAVBNUBvBbf0"
+      "duration_ms": 292533,
+      "name": "Freak Like Me - Dome's Peak Freak Remix",
+      "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
     },
     {
       "added_at": "2023-08-11 10:13:10",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
-        "name": "Western End (Birmingham Crew) Remix",
-        "url": "https://open.spotify.com/album/6GKoCNWIUhuhC5qrreWw7x"
-      },
-      "artists": [
-        {
-          "name": "B15 Project",
-          "url": "https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc"
-        },
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 320173,
-      "name": "Western End (Birmingham Crew) - Remix",
-      "url": "https://open.spotify.com/track/5142HCfH9wINV6AhO47RGF"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
         "name": "A London Thing",
         "url": "https://open.spotify.com/album/31JpI9mni0wdK8TwTh00Wh"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 366434,
       "name": "A London Thing - Extended Mix",
       "url": "https://open.spotify.com/track/1EO2wRH9Tj2e7SLLiNoALJ"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
+        "name": "Western End (Birmingham Crew) Remix",
+        "url": "https://open.spotify.com/album/6GKoCNWIUhuhC5qrreWw7x"
+      },
+      "artists": [
+        {
+          "name": "B15 Project",
+          "url": "https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc"
+        },
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 320173,
+      "name": "Western End (Birmingham Crew) - Remix",
+      "url": "https://open.spotify.com/track/5142HCfH9wINV6AhO47RGF"
     },
     {
       "added_at": "2023-08-11 10:13:10",

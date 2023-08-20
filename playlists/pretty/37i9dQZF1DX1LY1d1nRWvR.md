@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,214 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,236 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 22 | [Bamboo](https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Brothers](https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo) | 6:16 |
 | 23 | [Puppets](https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD) | [Jane Maximova](https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt) | [Equinox](https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h) | 4:58 |
 | 24 | [Leaves](https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97), [Justin Carter](https://open.spotify.com/artist/5uPFbw1zCaZDbZFlmrA15x) | [To the Disco '77 \(Live Rework\)](https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2) | 9:54 |
-| 25 | [Make This Right \- Radio Edit](https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Lovescene](https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk) | [Make This Right](https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7) | 3:17 |
-| 26 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 |
+| 25 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 |
+| 26 | [Make This Right \- Radio Edit](https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Lovescene](https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk) | [Make This Right](https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7) | 3:17 |
 | 27 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
 | 28 | [Another Story](https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:06 |
 | 29 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE) | 6:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Theme from Selva](https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 3:25 |
 | 50 | [Frog Fractions](https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP) | 4:40 |
 
-Snapshot ID: `MCwwNDg0YmU0ZmNmYTJlZWRlODRlYjcxMWIwYWQ3ODkwNzczNzJkNDRj`
+Snapshot ID: `MCxmZmZmNDIyMDY0ZmViYWY0NGY1N2UzZGRkNTc5MzViOWUwMDU4NTQ1`

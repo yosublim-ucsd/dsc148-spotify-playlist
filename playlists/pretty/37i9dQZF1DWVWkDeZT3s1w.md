@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,835 likes - 79 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,961 likes - 79 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 16 | [La Capital Del Pecado](https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Zirck Saucedo](https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR) | [La Capital Del Pecado](https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc) | 2:43 |
 | 17 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 |
 | 18 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
-| 19 | [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 |
+| 19 | [Mañana Será Otro Día](https://open.spotify.com/track/7sHk2zV6klT9GukY4VKD4p) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/0IzR6HSsoGzrM0gL5dTlYz) | 3:17 |
 | 20 | [Matar o Morir](https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Psicofonia](https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw) | 3:04 |
 | 21 | [Fe de Errata](https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas) | 3:06 |
 | 22 | [Legendarios](https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:44 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 78 | [Esto Es México](https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m), [Sinful](https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2) | [Tiempos Muertos](https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV) | 4:46 |
 | 79 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0wF1oTllq50PkLfPBjiQDh) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 |
 
-Snapshot ID: `MCxmZmZlZmQ4NmQyMWJiOTgzZWRlMGE5N2UyMjhmZDdkODkyM2Y4Mjc3`
+Snapshot ID: `MCxjMTgzNDc5ODE1ZTkzM2FhNjM1MWRlNmQxZWMzM2YzZDczNmE2NGEx`

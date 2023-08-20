@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 24868,
+  "num_followers": 24895,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDQzODY1YTdiZmZkNzc4YzI5ZWVkZjNmZDViMWMxZmQwNmI4MGRl",
+  "snapshot_id": "MCwzYTI0ZWJkNzMyYjg1ZTYzYTNkZGY2YmQzZDU2MjI0ZDM1Y2Q2NWFj",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Saved",
         "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 174285,
       "name": "Saved",
       "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "I Could Sing Of Your Love Forever",
-        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 212998,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Soul's on Fire",
         "url": "https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Love Me Like You (TYE Remix)",
-        "url": "https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q"
+        "name": "I Could Sing Of Your Love Forever",
+        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Love Me Like You - TYE Remix",
-      "url": "https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB"
+      "duration_ms": 212998,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -411,6 +395,22 @@
       "duration_ms": 309354,
       "name": "Closer Than a Brother",
       "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Love Me Like You (TYE Remix)",
+        "url": "https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Love Me Like You - TYE Remix",
+      "url": "https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB"
     },
     {
       "added_at": "2023-02-18 06:22:02",

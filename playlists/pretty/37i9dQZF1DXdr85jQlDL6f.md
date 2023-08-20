@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdr85jQlDL6f.md) - [plain]
 
 > just turn on some rainy weather at will, with this backdrop of dripping drizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,276 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,306 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdr85jQlDL6f.md) - [plain]
 | 11 | [Rain Coming Down](https://open.spotify.com/track/34f5y8LWDL5sSJKkSHqMr5) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:12 |
 | 12 | [Sonidos suaves de lluvia](https://open.spotify.com/track/2oBH4QpyBSf8ZGBqNRB9rr) | [Mighty Nature X](https://open.spotify.com/artist/2WjBhauzTBxo4K0DzDfWUL) | [Sonidos suaves de lluvia](https://open.spotify.com/album/0fwnwGqpazvV5yC6fwlavG) | 2:10 |
 | 13 | [Falling Asleep \(Rain\)](https://open.spotify.com/track/7aUgXN9QhXUKZYQwqRaeCS) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Calm Rain on Window](https://open.spotify.com/album/6IfQs8RN82tVkaDX5ewolm) | 2:50 |
-| 14 | [Neighborhood Rain](https://open.spotify.com/track/3UXRdoAEg4rM51dYaB95nM) | [NOZ](https://open.spotify.com/artist/73IhlyQu5jyVJuCMUGdDF3) | [Splash n Dash](https://open.spotify.com/album/6lQewyi6CZEVNokROU7bSj) | 2:40 |
+| 14 | [Forest Rain](https://open.spotify.com/track/0X56NjtYsKCHiaApVTTDod) | [NOZ](https://open.spotify.com/artist/73IhlyQu5jyVJuCMUGdDF3) | [Splash n Dash](https://open.spotify.com/album/6lQewyi6CZEVNokROU7bSj) | 2:27 |
 | 15 | [Blue Rain](https://open.spotify.com/track/0KtkTIJkUzDrpCuloUxwpS) | [Kings Rain](https://open.spotify.com/artist/4r5tD2tk051ly22Q6eVura) | [Blue Rain](https://open.spotify.com/album/5De22XRwH7FGhcT20r4kJx) | 2:46 |
 | 16 | [Nocturne Rain](https://open.spotify.com/track/1mOkjs4DIuCQg6qmAxttyW) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Holiday Hickups](https://open.spotify.com/album/5fII6wLUclWST4r5J9vWxo) | 2:25 |
 | 17 | [Thunderstruck](https://open.spotify.com/track/1xNNHG4PheCFA1pNllWAQ7) | [Snore Patrol](https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu) | [Seek Shelter](https://open.spotify.com/album/67JYm6xm9Y0Dz0fuua4H8D) | 3:24 |
-| 18 | [Horas de lluvia](https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 2:35 |
-| 19 | [Forest Rain](https://open.spotify.com/track/0X56NjtYsKCHiaApVTTDod) | [NOZ](https://open.spotify.com/artist/73IhlyQu5jyVJuCMUGdDF3) | [Splash n Dash](https://open.spotify.com/album/6lQewyi6CZEVNokROU7bSj) | 2:27 |
-| 20 | [Light Rain](https://open.spotify.com/track/30u2QNmxmeJxN7JFOsICOB) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Light Rain](https://open.spotify.com/album/5I4albgvvoMZqzmti4Uyes) | 2:24 |
+| 18 | [Light Rain](https://open.spotify.com/track/30u2QNmxmeJxN7JFOsICOB) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Light Rain](https://open.spotify.com/album/5I4albgvvoMZqzmti4Uyes) | 2:24 |
+| 19 | [Neighborhood Rain](https://open.spotify.com/track/3UXRdoAEg4rM51dYaB95nM) | [NOZ](https://open.spotify.com/artist/73IhlyQu5jyVJuCMUGdDF3) | [Splash n Dash](https://open.spotify.com/album/6lQewyi6CZEVNokROU7bSj) | 2:40 |
+| 20 | [Horas de lluvia](https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 2:35 |
 | 21 | [A Relaxing View](https://open.spotify.com/track/63Yy8FYoqW8XZXRRbjSO8J) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [A Relaxing View](https://open.spotify.com/album/5I6htfiNbnj4qyqztQrXKw) | 2:31 |
 | 22 | [Cielo borroso](https://open.spotify.com/track/1eTLP3u8jLfIIVxW0cFDWr) | [Selective Sounds PTA](https://open.spotify.com/artist/7uPHiHePHskbxEyGu1HLZP) | [lluvia y ruido](https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3) | 2:35 |
 | 23 | [Evening Sleepy Rain](https://open.spotify.com/track/66AEXwDpLz9Uwz3DWvMnUa) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain in the Woods](https://open.spotify.com/album/5U0KcCOfsryTk6AQnkwu4x) | 3:01 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdr85jQlDL6f.md) - [plain]
 | 48 | [Stormy Conditions](https://open.spotify.com/track/5s5LmyLUHj01WhJLYruZwS) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 |
 | 49 | [Always Raining](https://open.spotify.com/track/1q2KP0U1lQ7MzCTNwC1zpb) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 |
 | 50 | [Rain Drops](https://open.spotify.com/track/5SP27iVBdW42lMZph6ceNR) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Heavy Rain](https://open.spotify.com/album/5wHrCh7SaGM0CqL0rLg1xY) | 3:21 |
-| 51 | [Regnerischer Tag](https://open.spotify.com/track/4JygmIxvY2CWmJGvgBe00J) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 |
-| 52 | [Cozy Rain](https://open.spotify.com/track/0N3S9OCA8PSqbzPhR8FmWu) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxed Outdoor Recordings](https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK) | 3:01 |
+| 51 | [Cozy Rain](https://open.spotify.com/track/0N3S9OCA8PSqbzPhR8FmWu) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxed Outdoor Recordings](https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK) | 3:01 |
+| 52 | [Regnerischer Tag](https://open.spotify.com/track/4JygmIxvY2CWmJGvgBe00J) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 |
 | 53 | [Storm Coming In](https://open.spotify.com/track/27RkRIouugY1RDkriUIhgq) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 |
 | 54 | [Soft Rain](https://open.spotify.com/track/3PgYjMLCWnbwaav90tNud0) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:50 |
 | 55 | [Rain Sounds From A Calm Night](https://open.spotify.com/track/2ylUNsTrDNBeto5E406xUW) | [In.The.Rain](https://open.spotify.com/artist/5SpbwDAd9v53dxou4gmL0r) | [In The Rain 2](https://open.spotify.com/album/4nYv5UM5K3sG4tjvbuNqlA) | 2:08 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdr85jQlDL6f.md) - [plain]
 | 66 | [Wet Days](https://open.spotify.com/track/12nearcoa2BdHSmBynXyCD) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Rain throughout the Day](https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV) | 3:28 |
 | 67 | [Peaceful Rain](https://open.spotify.com/track/0FMtY31utCdCUgSw0m86Yn) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:25 |
 | 68 | [Rain in April](https://open.spotify.com/track/4sCp0NnDBe1jk65h6vaQ8E) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Rain In April](https://open.spotify.com/album/06RODHgMWnkqDdWAT2cMkC) | 3:32 |
-| 69 | [Nordic Drops](https://open.spotify.com/track/1Pj1RuUGYtwIRAx5KK4f5e) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:22 |
+| 69 | [Crispy Rain](https://open.spotify.com/track/04uytXigV9aexEvfwbxU0C) | [Van Hailin'](https://open.spotify.com/artist/5US0y9Gj4DHIetQZYaZOMT) | [Under The Weather](https://open.spotify.com/album/4wfVuP6MPS1LafpLbEjN6F) | 2:14 |
 | 70 | [Daybreak Rain](https://open.spotify.com/track/6DNUn0G3eihQbE9RvlgJiL) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 |
-| 71 | [Crispy Rain](https://open.spotify.com/track/04uytXigV9aexEvfwbxU0C) | [Van Hailin'](https://open.spotify.com/artist/5US0y9Gj4DHIetQZYaZOMT) | [Under The Weather](https://open.spotify.com/album/4wfVuP6MPS1LafpLbEjN6F) | 2:14 |
+| 71 | [Nordic Drops](https://open.spotify.com/track/1Pj1RuUGYtwIRAx5KK4f5e) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:22 |
 | 72 | [Sanur \(Rain\)](https://open.spotify.com/track/7kULnoSgYN5pv86XwmKmiA) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 2:50 |
 | 73 | [Wind Through the Trees on a Rainy Night on a Field](https://open.spotify.com/track/7kz4OkjwVcSHiiJuYrr2DJ) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:15 |
 | 74 | [Pond Cabin \(Rain\)](https://open.spotify.com/track/6KpmZVFsjuU9295Wff25Io) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 |
 | 75 | [Window Siesta](https://open.spotify.com/track/3HGocuIF3wICVSbN3WC0NM) | [Raindog](https://open.spotify.com/artist/1grnh5vd3P1gDqLQbU8MdM) | [Peaceful Weekend](https://open.spotify.com/album/4FGn0wRLgoqt4OXPkvMywa) | 2:42 |
 
-Snapshot ID: `MCw2ZTQ1ZDk2ZjkzMjcyYTJlYTZjNjlmNmFjMzMzM2JjNjY5ZTU4MWJj`
+Snapshot ID: `MCxiNzY4ZmQ0N2NiMjA5MzBiZDgyYzRhYWQ5OGUzMDgxMmMxM2NiYzY1`

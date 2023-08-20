@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5F6lyb9cFqB4nUBjCeerIa">Luiz de Assis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330 likes - 71 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 332 likes - 71 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 42 | [Pedra](https://open.spotify.com/track/5AYRLHJ7Tx5H69Xjh2GDUE) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 3:21 |
 | 43 | [Só Jah](https://open.spotify.com/track/2eqH6gTfvXmV7I301obWiy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:15 |
 | 44 | [Resistência](https://open.spotify.com/track/74MxjEIlybUbXPn2kNtw8n) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 3:57 |
-| 45 | [Derradeiro \- Ao Vivo](https://open.spotify.com/track/6CqdyThSAqxb4ZY8NnapEO) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Persevere \(Ao Vivo\)](https://open.spotify.com/album/6ROU8qAXu5AZhVPz4wxJXT) | 5:06 |
-| 46 | [O Grito Que Vem da Selva](https://open.spotify.com/track/1nlby1Ihfs5BzpJTLyI98i) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:35 |
+| 45 | [O Grito Que Vem da Selva](https://open.spotify.com/track/1nlby1Ihfs5BzpJTLyI98i) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:35 |
+| 46 | [Derradeiro \- Ao Vivo](https://open.spotify.com/track/6CqdyThSAqxb4ZY8NnapEO) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Persevere \(Ao Vivo\)](https://open.spotify.com/album/6ROU8qAXu5AZhVPz4wxJXT) | 5:06 |
 | 47 | [A Cor](https://open.spotify.com/track/1qD89mqTrXyq5QGWBtko6Z) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:37 |
 | 48 | [Sinal](https://open.spotify.com/track/2jgOBt27W91zPMDQV82efy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:15 |
 | 49 | [Mexa\-Se](https://open.spotify.com/track/5D3O0licDSvPL1vHmuLFnx) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:50 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 70 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
 | 71 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 
-Snapshot ID: `MjgxOTUzMzAsMDAwMDAwMDAwYWExODU3MDA4ZmI2YzAzMmM0N2ZkY2E4YmRkYWQ3Yg==`
+Snapshot ID: `MjgyMDgyOTAsMDAwMDAwMDBjNjBjMzA1NDA2M2NlYjIyYTdiMmE0YzRhNDE1ZTJlNA==`

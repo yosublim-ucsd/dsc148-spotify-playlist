@@ -25874,7 +25874,7 @@
     {
       "album": {
         "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5T4tgFDirbV5hIP7FA7t0U"
+        "url": "https://open.spotify.com/album/4oCoGz6cMTGG0xFTc7iVzQ"
       },
       "artists": [
         {
@@ -25885,6 +25885,24 @@
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185937,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0vO7abRwchJlceGglv3Y1z"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5T4tgFDirbV5hIP7FA7t0U"
+      },
+      "artists": [
+        {
+          "name": "Sidibe",
+          "url": "https://open.spotify.com/artist/5XWrDs9DhuuC96bXWAS6cj"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
       "duration_ms": 185937,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7jvzEFmrbnWTs9CtJN3UHO"

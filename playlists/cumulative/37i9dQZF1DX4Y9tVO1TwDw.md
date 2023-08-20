@@ -4,7 +4,7 @@
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: DannyLux
 
-247 songs - 12 hr 48 min
+248 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [La Que Me Mata](https://open.spotify.com/track/7c7PfGpkGUetuZEvrbVQEo) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE) | [La Que Me Mata](https://open.spotify.com/album/5qAUiz7awTr9wX9AaJd2Lb) | 4:39 | 2023-08-18 |  |
 | [La Receta](https://open.spotify.com/track/5AmZTocG6dh1jN22KgIF2H) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [La Receta](https://open.spotify.com/album/0jdlWpht7OheUR2kvWWPlA) | 3:11 | 2023-03-18 | 2023-04-22 |
 | [La Selva Se Lo Llevo](https://open.spotify.com/track/7HbliIqpMum8pNhGTB9hz0) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Shary Rose](https://open.spotify.com/artist/0Fy1mYuGtX0RBAraYKsJId) | [Lost Tribes](https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm) | 5:54 | 2023-03-03 | 2023-05-27 |
+| [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 | 2023-08-18 |  |
 | [La Última Vez \- Deluxe](https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 4:12 | 2023-03-04 | 2023-05-27 |
 | [Las Ganas](https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 4:17 | 2023-04-21 | 2023-05-27 |
 | [LAS HISTORIAS SE ACABAN](https://open.spotify.com/track/2nC7BmTP4okoyeJI6JRMVb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:13 | 2022-09-14 | 2023-03-04 |
@@ -210,7 +211,7 @@
 | [Still](https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Still](https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3) | 2:25 | 2023-03-07 | 2023-05-27 |
 | [Still \- Deorro Remix](https://open.spotify.com/track/0DIceiF32etShjQgrByM5n) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Still \(Deorro Remix\)](https://open.spotify.com/album/1jC3vHPrb6jGROaQE8ptXu) | 2:44 | 2023-04-21 | 2023-08-19 |
 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 | 2022-09-14 | 2023-03-04 |
-| [Surrounds Me](https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [Surrounds Me](https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD) | 2:49 | 2023-08-18 |  |
+| [Surrounds Me](https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [Surrounds Me](https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD) | 2:49 | 2023-08-18 | 2023-08-20 |
 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 | 2023-08-18 |  |
 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 | 2023-03-17 | 2023-05-27 |
 | [Tal Vez](https://open.spotify.com/track/07Q87LERyXdyuVN38bdbjg) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt) | [Tal Vez](https://open.spotify.com/album/3QMfaRwI7Dkt5dcZSOzuVi) | 3:24 | 2023-05-26 |  |

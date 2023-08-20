@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1149437,
+  "num_followers": 1149633,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGQ3NjYwNjQ3NzM2OTU4Y2YzOGQ0NjU3MjQzYzlhYTExZDVmMThl",
+  "snapshot_id": "MCwxMmEwNWExMDk5ZWUxNWViNTY3OTBmYWIwMzlhMzAwMGQ4N2U4OWY4",
   "tracks": [
     {
       "added_at": "2023-07-21 19:35:12",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Songs from the Swamp",
-        "url": "https://open.spotify.com/album/0HCDt0E4uxtXP99bJyOQDV"
+        "name": "Coffee Breath",
+        "url": "https://open.spotify.com/album/5KOp9Y5L4icsdSUw7nwMyG"
       },
       "artists": [
         {
-          "name": "Ollie MN",
-          "url": "https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk"
+          "name": "Sofia Mills",
+          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Please Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M"
+      "duration_ms": 163908,
+      "name": "Coffee Breath",
+      "url": "https://open.spotify.com/track/2h7j0zJ2eJ1qLfyjaqQP6n"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Songs from the Swamp",
+        "url": "https://open.spotify.com/album/0HCDt0E4uxtXP99bJyOQDV"
+      },
+      "artists": [
+        {
+          "name": "Ollie MN",
+          "url": "https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Please Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "I'm Not Enough and I'm Sorry",
         "url": "https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 120035,
       "name": "I'm Not Enough and I'm Sorry",
       "url": "https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD"
-    },
-    {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "i care so much that i dont care at all",
-        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 151863,
-      "name": "17250",
-      "url": "https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
     },
     {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 151863,
+      "name": "17250",
+      "url": "https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "minor",
@@ -483,26 +499,6 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp"
-      },
-      "artists": [
-        {
-          "name": "Monty Datta",
-          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        }
-      ],
-      "duration_ms": 150415,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -523,18 +519,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Coffee Breath",
-        "url": "https://open.spotify.com/album/5KOp9Y5L4icsdSUw7nwMyG"
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp"
       },
       "artists": [
         {
-          "name": "Sofia Mills",
-          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
+          "name": "Monty Datta",
+          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
         }
       ],
-      "duration_ms": 163908,
-      "name": "Coffee Breath",
-      "url": "https://open.spotify.com/track/2h7j0zJ2eJ1qLfyjaqQP6n"
+      "duration_ms": 150415,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Safe.",
         "url": "https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH"
       },
@@ -739,34 +755,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+        "name": "is your bedroom ceiling bored? (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
-    },
-    {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "Black Fins",
-        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
-      },
-      "artists": [
+          "name": "Sody",
+          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
+        },
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 262727,
-      "name": "Black Fins",
-      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
+      "duration_ms": 207509,
+      "name": "is your bedroom ceiling bored? (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -785,24 +789,20 @@
       "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-07-21 19:35:12",
       "album": {
-        "name": "is your bedroom ceiling bored? (feat. Cavetown)",
-        "url": "https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo"
+        "name": "Black Fins",
+        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
       },
       "artists": [
         {
-          "name": "Sody",
-          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 207509,
-      "name": "is your bedroom ceiling bored? (feat. Cavetown)",
-      "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
+      "duration_ms": 262727,
+      "name": "Black Fins",
+      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Sick of Losing Soulmates",
+        "url": "https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 267377,
+      "name": "Sick of Losing Soulmates",
+      "url": "https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "please never fall in love again",
         "url": "https://open.spotify.com/album/4ITVAD8V9UWaLKDzMfP4Hd"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Sick of Losing Soulmates",
-        "url": "https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2"
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 267377,
-      "name": "Sick of Losing Soulmates",
-      "url": "https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M"
+      "duration_ms": 197513,
+      "name": "Sorry for Me",
+      "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -903,22 +919,6 @@
       "duration_ms": 142940,
       "name": "i'd rather be alone",
       "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 197513,
-      "name": "Sorry for Me",
-      "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 239700,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Tell Me About You (feat. Mishaal)",
         "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 239700,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1055,22 +1055,6 @@
       "duration_ms": 120032,
       "name": "I even told my mom about u",
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
-    },
-    {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1107,6 +1091,38 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+    },
+    {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
       },
@@ -1137,20 +1153,20 @@
       "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+        "name": "Did I Mention I'm Sorry",
+        "url": "https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac"
       },
       "artists": [
         {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
         }
       ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+      "duration_ms": 197962,
+      "name": "Did I Mention I\u2019m Sorry",
+      "url": "https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Don't Leave, Don't Go / Bleed",
         "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 184242,
       "name": "Don't Leave, Don't Go",
       "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "If I Showed You",
-        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
-      },
-      "artists": [
-        {
-          "name": "Henry Verus",
-          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
-        }
-      ],
-      "duration_ms": 195467,
-      "name": "If I Showed You",
-      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
       },
@@ -1285,20 +1285,20 @@
       "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Did I Mention I'm Sorry",
-        "url": "https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac"
+        "name": "If I Showed You",
+        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
       },
       "artists": [
         {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+          "name": "Henry Verus",
+          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
         }
       ],
-      "duration_ms": 197962,
-      "name": "Did I Mention I\u2019m Sorry",
-      "url": "https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu"
+      "duration_ms": 195467,
+      "name": "If I Showed You",
+      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1385,26 +1385,6 @@
       "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
     },
     {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "DnD (feat. Kenny Mason)",
-        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 251175,
-      "name": "DnD (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Slow Down",
@@ -1455,22 +1435,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 238881,
-      "name": "Pyjama Pants",
-      "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "songs written for piano",
         "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
       },
@@ -1483,6 +1447,42 @@
       "duration_ms": 147853,
       "name": "white lies",
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
+    },
+    {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "DnD (feat. Kenny Mason)",
+        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 251175,
+      "name": "DnD (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 238881,
+      "name": "Pyjama Pants",
+      "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1625,6 +1625,26 @@
       "url": "https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Crying In My Car",
+        "url": "https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd"
+      },
+      "artists": [
+        {
+          "name": "Tyler Cole",
+          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 182146,
+      "name": "Crying In My Car (with Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Dark Corners and Alchemy",
@@ -1671,22 +1691,6 @@
       "duration_ms": 187546,
       "name": "Wavvy",
       "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "emma, u up?",
-        "url": "https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "emma, u up?",
-      "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
     }
   ],
   "unique_name": "idk.",

@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 212816,
       "name": "Call the Days",
       "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
@@ -5192,7 +5192,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 215280,
       "name": "Looking For Love",
       "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
@@ -7080,7 +7080,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 157952,
       "name": "Seed - In Bloom",
       "url": "https://open.spotify.com/track/6dqSEB3o1HZ7dmBgUbJy4e"
@@ -9116,6 +9116,24 @@
       "duration_ms": 149422,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
+    },
+    {
+      "album": {
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Watchman",
+      "url": "https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-370 songs - 1 day 3 hr 10 min
+372 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [L'enfant sauvage](https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 4:17 | 2022-01-03 | 2023-03-10 |
 | [Let Me Hear You Scream](https://open.spotify.com/track/36WNQJFVjYhDRZ6vJhYXEh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Scream \(Expanded Edition\)](https://open.spotify.com/album/72OTYgFKqc6ALaGfXZQUWM) | 3:25 | 2022-01-03 |  |
 | [Leviathan](https://open.spotify.com/track/6dfiHpYb2ciw2urKenpdyC) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [Phronesis](https://open.spotify.com/album/3TolVtFlrVEwzIwpOXEW75) | 4:34 | 2022-01-03 | 2022-07-25 |
-| [Lift Me Up](https://open.spotify.com/track/3EO0js63QHQQPqJt1TgBLQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:06 | 2022-04-24 |  |
+| [Lift Me Up](https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 4:06 | 2023-03-09 |  |
+| [Lift Me Up](https://open.spotify.com/track/3EO0js63QHQQPqJt1TgBLQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:06 | 2022-04-24 | 2023-08-20 |
 | [Lift Me Up](https://open.spotify.com/track/4EjvoRrU4ShAP0XcvHfld2) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/4DaPmVnhvkVzcoWvXItWKO) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/08BcCP01pQYy7IlXspguq0) | 4:06 | 2022-11-05 | 2022-11-13 |
 | [Lift Me Up \(feat\. Rob Halford of Judas Priest\)](https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:06 | 2022-01-03 | 2022-07-29 |
 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 | 2022-01-03 | 2023-03-10 |
@@ -367,7 +368,8 @@
 | [Whore](https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l) | 4:05 | 2022-01-03 | 2023-03-10 |
 | [Wild Eyes](https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:18 | 2022-01-03 | 2023-03-10 |
 | [Wouldn't You Rather](https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Walk The Sky](https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B) | 3:49 | 2022-01-03 | 2023-02-14 |
-| [Wrong Side of Heaven](https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:31 | 2022-04-24 |  |
+| [Wrong Side of Heaven](https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7) | 4:31 | 2023-03-09 |  |
+| [Wrong Side of Heaven](https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:31 | 2022-04-24 | 2023-08-20 |
 | [Wrong Side of Heaven](https://open.spotify.com/track/6xgO2ICtpT8jDcYvVsCKIB) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/3Ey9TgEz0LdFKFKKftpkN1) | 4:31 | 2022-01-03 | 2022-07-29 |
 | [X](https://open.spotify.com/track/4gfl1TtYTcBFuE5N5ROrt7) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [UNDEN!ABLE](https://open.spotify.com/album/5H9cH0ZFEwiJQFPCXiXzxd) | 3:31 | 2022-07-13 | 2022-07-29 |
 | [Year Zero](https://open.spotify.com/track/1YBf7Tq9bpcVwvnlP8YbQS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Deluxe Version\)](https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr) | 5:50 | 2022-01-03 | 2023-03-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,846 likes - 98 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,297 likes - 98 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 97 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 |
 | 98 | [something's off](https://open.spotify.com/track/16dPXAC2RS7aYRpbJ6AS7K) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [something's off](https://open.spotify.com/album/6p5dKhiFwoLdZ4msjRCZmV) | 2:14 |
 
-Snapshot ID: `MCw3YjEwOWEwZWU4NmMxODI5YjMwNzA5YTA3OGY3YmNlNmEzNjU2MDQ3`
+Snapshot ID: `MCw4YzkxODE5ZGQ5YWY2NWY3NWYzNWE5ZmMyMjliMWZiMzYwMWFlNTg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock Legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,835 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,944 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 35 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/24rv66H94QGVqIXHjA3kn6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 3:48 |
 | 36 | [A Rainy Night in Soho](https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 4:43 |
 | 37 | [This Is](https://open.spotify.com/track/01LRmW8mraxDsUdQAihs4P) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Shame About Lucy Moonhead](https://open.spotify.com/album/0Y3Fv3Cumn9g1GNFwUEMOY) | 3:51 |
-| 38 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
-| 39 | [Summer in Dublin](https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO) | [Bagatelle](https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde) | [Twenty Fifth Anniversary Collection](https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq) | 4:54 |
+| 38 | [Summer in Dublin](https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO) | [Bagatelle](https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde) | [Twenty Fifth Anniversary Collection](https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq) | 4:54 |
+| 39 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
 | 40 | [N17](https://open.spotify.com/track/6AiLTwftiFAjGsnVDXBPnB) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [If This Is Rock and Roll, I Want My Old Job Back](https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR) | 4:36 |
 | 41 | [The Great Defector](https://open.spotify.com/track/5r1y7XYDcTtDLJHzFgODOu) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Blue Lights on the Runway](https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS) | 4:40 |
 | 42 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 49 | [Dearg Doom](https://open.spotify.com/track/4LywX4vWjHOS07VuVWC7GD) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [The Táin \(Bonus Tracks Version\)](https://open.spotify.com/album/0nxIa7m4erGJeFTLbVrtzS) | 3:06 |
 | 50 | [Parachute](https://open.spotify.com/track/12h3ZVYHOEMLBA3NDo5zGd) | [Something Happens](https://open.spotify.com/artist/6V7D7M2wECmGR8eBp9r4Kx) | [Stuck Together With God's Glue](https://open.spotify.com/album/0VC8DNqENeIyGehHX5nsuV) | 4:30 |
 
-Snapshot ID: `MCxlODdlMzJkZWQ4ODlmMjAwNjE4ZjYwZDU1NWI5Y2YwMTY4NTRjY2Nh`
+Snapshot ID: `MCwzYjYxMDE3MTRlZGIyZDhkY2FlYzYyNzA4OGYwMjZjZDg1ZjgzNjhj`

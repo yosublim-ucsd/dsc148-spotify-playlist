@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,523 likes - 86 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,569 likes - 86 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 85 | [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 |
 | 86 | [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 |
 
-Snapshot ID: `MCw3ZWVmMjExZDJkN2QwYjI3ZmNhN2UyOTBhNTNkYzgwMmRmMmMxNjMy`
+Snapshot ID: `MCw4Yzg5ZGJmOTkxNjgxYmQ3ZTc2NjBjYmZkZmIyMTZlZWM5MWY3N2Rk`

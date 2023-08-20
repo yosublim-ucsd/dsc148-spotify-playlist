@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,363 likes - 149 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,365 likes - 149 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 69 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 |
 | 70 | [Blondes](https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Blondes](https://open.spotify.com/album/4EvsXD4pmepFBKYHoORrP1) | 2:46 |
 | 71 | [Digital Life](https://open.spotify.com/track/1qpdTHfmiUgYRjNSI4kr7x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 4:02 |
-| 72 | [Do You Think About Me \- filous Remix](https://open.spotify.com/track/74zx6DUsxIPIAtVe8ymL1y) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Do You Think About Me \(filous Remix\)](https://open.spotify.com/album/5xTK2m5TrsZGjqd6ixQZrO) | 2:56 |
-| 73 | [All We Ever Wanted](https://open.spotify.com/track/7ekvWq3OCA6avtuSOnc2c1) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 2:44 |
+| 72 | [All We Ever Wanted](https://open.spotify.com/track/7ekvWq3OCA6avtuSOnc2c1) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 2:44 |
+| 73 | [Do You Think About Me \- filous Remix](https://open.spotify.com/track/74zx6DUsxIPIAtVe8ymL1y) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Do You Think About Me \(filous Remix\)](https://open.spotify.com/album/5xTK2m5TrsZGjqd6ixQZrO) | 2:56 |
 | 74 | [Jump And Shake](https://open.spotify.com/track/6Ka0NSviEKTMc60zFR39eO) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:09 |
 | 75 | [Bad To Myself](https://open.spotify.com/track/4IkqDf14jiuW0B2aYqHgwo) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Bad To Myself](https://open.spotify.com/album/1a2UAm8bwt2Ec9l9QZgtVh) | 2:50 |
 | 76 | [Guilty](https://open.spotify.com/track/5jmGXGD7wh45Ye5DYzHJcq) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:43 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 82 | [Body and Soul](https://open.spotify.com/track/64FyFHyhSb0yERnO5YdFLf) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 2:30 |
 | 83 | [Hurt Me Now](https://open.spotify.com/track/6vrdhvVQXyg7Rji0tFN1Gv) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:41 |
 | 84 | [Bones](https://open.spotify.com/track/41LiSeJIhiXDGGNaYXhIzx) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Bones](https://open.spotify.com/album/6ajKD5jYpHTrof8xZJb4tJ) | 3:12 |
-| 85 | [Under the Blue](https://open.spotify.com/track/36MIbsvqcvrIJcgrcIKvjv) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:28 |
-| 86 | [Colors in the Sky \- Interlude](https://open.spotify.com/track/31gsVhOYfLTq2rLIOo0VaV) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [One of a Kind](https://open.spotify.com/album/2aOEQaMZuoR8bn8K9CJZbO) | 1:08 |
+| 85 | [Colors in the Sky \- Interlude](https://open.spotify.com/track/31gsVhOYfLTq2rLIOo0VaV) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [One of a Kind](https://open.spotify.com/album/2aOEQaMZuoR8bn8K9CJZbO) | 1:08 |
+| 86 | [Under the Blue](https://open.spotify.com/track/36MIbsvqcvrIJcgrcIKvjv) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:28 |
 | 87 | [Numb \- teddy<3 version](https://open.spotify.com/track/4FSX3VAbyFPLA5UE3z0K0E) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Numb](https://open.spotify.com/album/1Ho3UkeW5DfE812uhE6Q9Q) | 4:31 |
 | 88 | [Rivers](https://open.spotify.com/track/7MWlxS6vpJlfPNaerI0lg3) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/0jbizUOHY9uVKoWyjlmyg2) | 2:57 |
 | 89 | [Real Thing](https://open.spotify.com/track/4RJ3V0Y4Y18VuAWsnAcgS4) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills \- EP](https://open.spotify.com/album/22gQ3287u7f9iH5xaL8egl) | 3:41 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 115 | [Normal to Feel](https://open.spotify.com/track/2WdmFuT1675qqu7o4tbn1d) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Normal to Feel](https://open.spotify.com/album/3nW4GaITknS7y4RZBxB0SH) | 3:20 |
 | 116 | [Teenage Boys](https://open.spotify.com/track/3t1b1SpzqIqOY60nXGHB90) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 5:17 |
 | 117 | [Save Me](https://open.spotify.com/track/0RfrHvff5hPFds6l0lP8cQ) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:48 |
-| 118 | [Garden of Eden](https://open.spotify.com/track/7i5yX6mQUe2FpO6mx53u6A) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:06 |
-| 119 | [Where Do All The Diamonds Go?](https://open.spotify.com/track/6X1lfXWruECFtZ10bec3ja) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Where Do All The Diamonds Go?](https://open.spotify.com/album/5YM5B211S6iiXgPJLI6nvU) | 2:57 |
+| 118 | [Where Do All The Diamonds Go?](https://open.spotify.com/track/6X1lfXWruECFtZ10bec3ja) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Where Do All The Diamonds Go?](https://open.spotify.com/album/5YM5B211S6iiXgPJLI6nvU) | 2:57 |
+| 119 | [Garden of Eden](https://open.spotify.com/track/7i5yX6mQUe2FpO6mx53u6A) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:06 |
 | 120 | [Wishing \(And Hoping\)](https://open.spotify.com/track/38baQfpxVwUI1N6Byv8gUi) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:29 |
 | 121 | [Return to Me](https://open.spotify.com/track/1VAyHWowaOiePFMzl6tKki) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 4:03 |
 | 122 | [Loser](https://open.spotify.com/track/2FsH6SGN1sQjWbiE1J8PEt) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:39 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 125 | [Chocolate](https://open.spotify.com/track/6CM6R4vqRSXoMlFQqMiOQm) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 0:45 |
 | 126 | [Atoms](https://open.spotify.com/track/4pwcV7gAfkM7F6Yu1YBLvJ) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:48 |
 | 127 | [8](https://open.spotify.com/track/41cpkMQ1tH708wfT0U2CbL) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 2:09 |
-| 128 | [California](https://open.spotify.com/track/5zJ7etJ3xJnS4ccMRUIOCH) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:40 |
-| 129 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 |
+| 128 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 |
+| 129 | [California](https://open.spotify.com/track/5zJ7etJ3xJnS4ccMRUIOCH) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:40 |
 | 130 | [Hey Mister](https://open.spotify.com/track/6yq7yTOP4GaN5Edu60395a) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:05 |
 | 131 | [Ain't Shit](https://open.spotify.com/track/3yScJOFFi11lXNfTBWBNxe) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:56 |
 | 132 | [My Whole Life](https://open.spotify.com/track/3oo8W1b5umFaPXQELkhe3I) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:14 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 148 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 149 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `MjgxOTUzMzAsMDAwMDAwMDAyZmMzYjNmZTgwMTgzMGRjOTQ5NmYyNjNkMzZlY2VkMA==`
+Snapshot ID: `MjgyMDgyOTAsMDAwMDAwMDAyM2U4M2UwOTQ2NjJmNjFjNDA1MTEyZGVkNWFjZDE4Ng==`

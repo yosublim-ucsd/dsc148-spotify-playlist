@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 
 > The saddest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,351 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,408 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 | 22 | [Cry](https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 3:01 |
 | 23 | [Your Cheatin' Heart](https://open.spotify.com/track/13Oi7vfd9mrujcEmGAYAPe) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:41 |
 | 24 | [But Not For Me](https://open.spotify.com/track/64QtLJjrbxGfO8xQeypj7b) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt) | 3:34 |
-| 25 | [Blue Velvet](https://open.spotify.com/track/5sMVujBLwXJH9AjToNoSbH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [60 Years: The Artistry of Tony Bennett](https://open.spotify.com/album/4PEuqYJixNSCMotzbfmWNb) | 3:01 |
-| 26 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/5wcR5Xdn2RxQmQGqrer8JQ) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [When You're Away](https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK) | 3:02 |
-| 27 | [Blue, Blue Day](https://open.spotify.com/track/4xWohADqZ5oFXcFOiC10l4) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [Oh Lonesome Me](https://open.spotify.com/album/3eF77ZXB0LzpodTAgPIK8a) | 1:53 |
+| 25 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/5wcR5Xdn2RxQmQGqrer8JQ) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [When You're Away](https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK) | 3:02 |
+| 26 | [Blue, Blue Day](https://open.spotify.com/track/4xWohADqZ5oFXcFOiC10l4) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [Oh Lonesome Me](https://open.spotify.com/album/3eF77ZXB0LzpodTAgPIK8a) | 1:53 |
+| 27 | [Blue Velvet](https://open.spotify.com/track/5sMVujBLwXJH9AjToNoSbH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [60 Years: The Artistry of Tony Bennett](https://open.spotify.com/album/4PEuqYJixNSCMotzbfmWNb) | 3:01 |
 | 28 | [My Baby Left Me](https://open.spotify.com/track/1ZwHq094yOjH9hFYyouTOW) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 2:12 |
 | 29 | [Broken Hearted Melody](https://open.spotify.com/track/5X4lsUAYrT5m0IyL6Xm8T5) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:23 |
 | 30 | [It Might as Well Rain Until September](https://open.spotify.com/track/18NtcPaUBR58Lq6A6bMdXf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:27 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 | 47 | [Backwater Blues](https://open.spotify.com/track/26uFDxLujO2qtZQrpu7eTt) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Eddie Chamblee & His Orchestra](https://open.spotify.com/artist/5L0vJK0dN4dDCn2SjYUpQW) | [The Queen!](https://open.spotify.com/album/1iDTkNsswLznHgYP8DTSUN) | 3:02 |
 | 48 | [TODAY I SING THE BLUES](https://open.spotify.com/track/6xY3S5g4wqeyE1fItzNBPa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Tribute To The Lady \(International Version\)](https://open.spotify.com/album/5s2DFcjjTKMiL9HYHij0uH) | 3:20 |
 
-Snapshot ID: `MCwzNjYwYWZlOGM3MzAzNjk3Zjg1YThiNGI1ZTQzYWUxNDkwYmI1NTdi`
+Snapshot ID: `MCxjNWY2NzM3YmJmMGI3YjA5N2FiMWUzYzI0MDE1NTRiYTliMjcwMzRh`

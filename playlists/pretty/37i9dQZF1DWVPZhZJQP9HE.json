@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Vaisagh",
-  "num_followers": 62561,
+  "num_followers": 62577,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTI3YTU2NzUwYmNlNTI0MmMyOWViZTRkZDI5ZmEzNGRlN2EyM2Rh",
+  "snapshot_id": "MCxkNDE1MmYzNjcyMzQ5ZDIzODlkYTM2ZmFjOTNkYjViNTU2MDIyNWEy",
   "tracks": [
     {
       "added_at": "2023-06-16 08:47:23",
@@ -199,6 +199,22 @@
       "duration_ms": 125160,
       "name": "Ninaivilae",
       "url": "https://open.spotify.com/track/76o6vlGSmfdHzTXGXyzJrs"
+    },
+    {
+      "added_at": "2023-08-19 14:13:58",
+      "album": {
+        "name": "Oru Vaarthai",
+        "url": "https://open.spotify.com/album/5ZodfDdVVowjXadSWnj5R1"
+      },
+      "artists": [
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Oru Vaarthai",
+      "url": "https://open.spotify.com/track/0SB9hAOh1pImTNIV8SorMF"
     },
     {
       "added_at": "2023-08-04 15:42:52",

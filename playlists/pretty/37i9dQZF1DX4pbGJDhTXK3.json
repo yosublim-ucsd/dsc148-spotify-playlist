@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 129745,
+  "num_followers": 129794,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWNhZjFhNWIwYzlmZWI5OWRjMmI4N2ZkMGNmYWM1Y2YwYTc4OTcy",
+  "snapshot_id": "MCw5ZjFhNGVjYThkODljYjAxMjIxMDc5N2FkMjk1YTNmZjI0MDVhNWRm",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "Echo to Echo",
+        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+      },
+      "artists": [
+        {
+          "name": "Magnus International",
+          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+        }
+      ],
+      "duration_ms": 255909,
+      "name": "A Man Called Anthony",
+      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "Transit",
         "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 150870,
       "name": "Transit - Radio Edit",
       "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "Be A Man You Ant",
-        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
-        }
-      ],
-      "duration_ms": 384055,
-      "name": "Be A Man You Ant - Original Mix",
-      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Echo to Echo",
-        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+        "name": "Be A Man You Ant",
+        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
       },
       "artists": [
         {
-          "name": "Magnus International",
-          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+          "name": "Andr\u00e9 Bratten",
+          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
         }
       ],
-      "duration_ms": 255909,
-      "name": "A Man Called Anthony",
-      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
+      "duration_ms": 384055,
+      "name": "Be A Man You Ant - Original Mix",
+      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Vegvisir (Nils Olav Remix)",
-        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
+        "name": "Kosmetisk",
+        "url": "https://open.spotify.com/album/5Tsih38nrHZzQPHaLkwjc7"
       },
       "artists": [
         {
-          "name": "Helene B\u00f8ksle",
-          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
-        },
-        {
-          "name": "Nils Olav",
-          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
+          "name": "Magnus International",
+          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
         }
       ],
-      "duration_ms": 372838,
-      "name": "Vegvisir (Nils Olav Remix)",
-      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
+      "duration_ms": 342070,
+      "name": "Kosmetisk",
+      "url": "https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -575,18 +571,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Kosmetisk",
-        "url": "https://open.spotify.com/album/5Tsih38nrHZzQPHaLkwjc7"
+        "name": "Vegvisir (Nils Olav Remix)",
+        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
       },
       "artists": [
         {
-          "name": "Magnus International",
-          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+          "name": "Helene B\u00f8ksle",
+          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+        },
+        {
+          "name": "Nils Olav",
+          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
         }
       ],
-      "duration_ms": 342070,
-      "name": "Kosmetisk",
-      "url": "https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4"
+      "duration_ms": 372838,
+      "name": "Vegvisir (Nils Olav Remix)",
+      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Curse of the Cancelled",
-        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 142227,
-      "name": "Curse Of The Cancelled",
-      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "A City So Convenient",
         "url": "https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Kuk Av Stal / November",
-        "url": "https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z"
+        "name": "Curse of the Cancelled",
+        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
       },
       "artists": [
         {
-          "name": "Blackbelt Andersen",
-          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
         }
       ],
-      "duration_ms": 742331,
-      "name": "Kuk Av Stal",
-      "url": "https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p"
+      "duration_ms": 142227,
+      "name": "Curse Of The Cancelled",
+      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Full Pupp Splits 004 - Hamar-O-Ramah!",
-        "url": "https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy"
+        "name": "Kuk Av Stal / November",
+        "url": "https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z"
       },
       "artists": [
         {
-          "name": "Melkeveien",
-          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
+          "name": "Blackbelt Andersen",
+          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
         }
       ],
-      "duration_ms": 358802,
-      "name": "Thirst Issues",
-      "url": "https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W"
+      "duration_ms": 742331,
+      "name": "Kuk Av Stal",
+      "url": "https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -703,6 +687,22 @@
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Full Pupp Splits 004 - Hamar-O-Ramah!",
+        "url": "https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy"
+      },
+      "artists": [
+        {
+          "name": "Melkeveien",
+          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
+        }
+      ],
+      "duration_ms": 358802,
+      "name": "Thirst Issues",
+      "url": "https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -735,22 +735,6 @@
       "duration_ms": 398813,
       "name": "Langt Der Borte",
       "url": "https://open.spotify.com/track/4bj0QaHFcnQTGhkAMtZAvk"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "Like a Petal but Not Really",
-        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 204821,
-      "name": "Like A Petal But Not Really",
-      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "Like a Petal but Not Really",
+        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 204821,
+      "name": "Like A Petal But Not Really",
+      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "Motown",
         "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Tensions",
-        "url": "https://open.spotify.com/album/0a8YaBpZkRFwqlsFyfAMKF"
+        "name": "Ramma EP",
+        "url": "https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG"
       },
       "artists": [
         {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
         }
       ],
-      "duration_ms": 388569,
-      "name": "Tensions",
-      "url": "https://open.spotify.com/track/2QQUDbP66s6xGINZZNkICG"
+      "duration_ms": 426575,
+      "name": "Bommelom",
+      "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Ramma EP",
-        "url": "https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG"
+        "name": "Tensions",
+        "url": "https://open.spotify.com/album/0a8YaBpZkRFwqlsFyfAMKF"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
         }
       ],
-      "duration_ms": 426575,
-      "name": "Bommelom",
-      "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
+      "duration_ms": 388569,
+      "name": "Tensions",
+      "url": "https://open.spotify.com/track/2QQUDbP66s6xGINZZNkICG"
     },
     {
       "added_at": "2023-08-02 08:46:27",

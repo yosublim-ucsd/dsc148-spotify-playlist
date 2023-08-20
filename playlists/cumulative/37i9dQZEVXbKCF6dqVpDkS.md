@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,128 songs - 2 day 10 hr 30 min
+1,129 songs - 2 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,7 +788,7 @@
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2022-03-09 |
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-23 |
 | [p u n c h i n ‘ \. t h e \. c l o c k](https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 1:52 | 2021-05-16 | 2021-05-17 |
-| [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-08-06 |  |
+| [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-08-06 | 2023-08-20 |
 | [Padellen](https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Padellen](https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1) | 2:08 | 2023-04-04 | 2023-08-19 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-18 |  |
 | [Pakken Grof](https://open.spotify.com/track/6xRsuqHrhJu1V6KzshrjOW) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [LIJPE](https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH) | 3:25 | 2022-12-03 | 2022-12-10 |
@@ -1041,6 +1041,7 @@
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 |  |
 | [Van Mij Zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Van Mij Zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 | 2022-08-13 | 2023-02-13 |
 | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa) | 2:46 | 2022-03-26 | 2023-07-25 |
+| [Vanzelfsprekend](https://open.spotify.com/track/2H9CK7ENR8g4QyczIq2dE5) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Vanzelfsprekend](https://open.spotify.com/album/1Yt20U55ypJCTQ1Xe06KA7) | 2:57 | 2023-08-19 |  |
 | [Ven Ven](https://open.spotify.com/track/3upYG0cy9J2QhyV4GgV37x) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ven Ven](https://open.spotify.com/album/4SzujG2DgIY5wfFOtQFdEx) | 2:30 | 2021-03-27\* | 2021-05-13 |
 | [Veppie vroom](https://open.spotify.com/track/7xdErSNSM2KrduVTGZvoX9) | [QuatroByVeks](https://open.spotify.com/artist/6Thwvyg74Tn4VCSkpsMu65), [CJaye](https://open.spotify.com/artist/1k6UJX3fICUUXA9W5vnnDD) | [Veppie vroom](https://open.spotify.com/album/0RXEbmksA3QO5cpBueLeZ5) | 2:03 | 2022-06-12 | 2022-06-17 |
 | [Verdien Model](https://open.spotify.com/track/2QKr1BQ4K2I4sL73kZ1HSy) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Float](https://open.spotify.com/album/1z0AKJhbx7jiVu0SlsyMhW) | 3:33 | 2022-08-05 | 2022-08-08 |

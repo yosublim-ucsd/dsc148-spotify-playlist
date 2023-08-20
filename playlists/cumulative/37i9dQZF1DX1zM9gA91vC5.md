@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-898 songs - 1 day 15 hr 2 min
+902 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [am eisernen Steig](https://open.spotify.com/track/6Vy0gvQG1dq7I7yTnNZwiz) | [Maggie Fletcher](https://open.spotify.com/artist/4BAzGcIrYWKK95fYvVaDjI) | [high above the trees](https://open.spotify.com/album/64eS8Jz1rSRTwmHxPufz8P) | 3:08 | 2021-07-01 |  |
 | [am Horizont](https://open.spotify.com/track/4IudYeS170UrdIwjdSP8EH) | [Isabelle Taylor](https://open.spotify.com/artist/4XTnPVtZMaZfV1pScZs0g2) | [am Horizont](https://open.spotify.com/album/4PuYbtdPihvvfrUruh4FnR) | 3:24 | 2021-08-10 | 2022-04-22 |
 | [Amalfi](https://open.spotify.com/track/2SlARTbg8VmWVF4cG7imB8) | [Gente di Toscana](https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q) | [Amalfi](https://open.spotify.com/album/1hYAAyHzrnvecWC4w15N7p) | 2:08 | 2022-05-05 | 2022-09-15 |
-| [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 | 2021-09-02 |  |
+| [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 | 2021-09-02 | 2023-08-20 |
 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 | 2021-03-29 | 2022-09-15 |
 | [Ambiguos](https://open.spotify.com/track/4ckUU6TR19hXSAc5C0DdIf) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Ambiguos](https://open.spotify.com/album/0GK3JsrJx1KfurBpPzjNau) | 3:11 | 2022-12-22 |  |
 | [Amici](https://open.spotify.com/track/1GBNuD6VkNDHXNwL0wgVi2) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Amici](https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI) | 2:08 | 2021-11-12 | 2022-06-08 |
@@ -77,6 +77,7 @@
 | [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-02-01 | 2022-12-24 |
 | [Approaching Storm](https://open.spotify.com/track/6Dbj0uORBKm2QhSvFtUe0B) | [Mia Strass](https://open.spotify.com/artist/2KhAW1n5DKiVmDcS2s0dIG) | [Horizon](https://open.spotify.com/album/4ueTAW6BZQPkAcFnnoiPKg) | 2:57 | 2020-08-14\* | 2020-10-15 |
 | [Apricity](https://open.spotify.com/track/0gqETOpvyX2eAbcbfjjqGz) | [Ivalu Karlsen](https://open.spotify.com/artist/4RHvOz3KD1p3LmEEnpVN8a) | [Apricity](https://open.spotify.com/album/4EV4xaMY99ldNfGanMgaoe) | 2:12 | 2020-08-14\* | 2020-09-16 |
+| [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-08-15 |  |
 | [Armagnac](https://open.spotify.com/track/7wFf7sKhGVHEJRFFrLol7T) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Armagnac](https://open.spotify.com/album/0o0fNvI8Lo5fScxRyu9jpj) | 3:17 | 2021-11-11 | 2022-06-08 |
 | [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-02-06 | 2023-04-06 |
 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2021-05-06 | 2022-07-20 |
@@ -107,6 +108,7 @@
 | [Beloved](https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Beloved](https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9) | 2:13 | 2020-08-14\* | 2021-08-17 |
 | [Bientôt](https://open.spotify.com/track/5BCjakwTtgiYjWU8eJTngo) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Bientôt](https://open.spotify.com/album/1Mr8xQQzTysGvHXRmS8O0N) | 1:58 | 2020-08-14\* | 2021-02-18 |
 | [Big Sur](https://open.spotify.com/track/3biK7UciGCvvdSodatIrD1) | [Marisa Madsen](https://open.spotify.com/artist/6vdBFtunfJQ1TWNrUdTxMF) | [Big Sur](https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf) | 2:38 | 2021-07-01 |  |
+| [Bird of Passage](https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Bird of Passage](https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO) | 2:07 | 2023-08-15 |  |
 | [Black coal of dream](https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Black coal of dream](https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4) | 2:05 | 2023-07-04 |  |
 | [Blessed Days](https://open.spotify.com/track/2JCvAX5Htrxx2KVF5sVlVR) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Blessed Days](https://open.spotify.com/album/5m9rTnoDdOFYvQs2ovfcu4) | 2:07 | 2021-05-24 | 2021-06-16 |
 | [Blue River](https://open.spotify.com/track/789zWw6YwOpoDXoyRXaG1R) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Madrigal](https://open.spotify.com/album/3T4PBqvtzGDoVuD6wXmzu8) | 3:21 | 2020-10-15 | 2021-05-20 |
@@ -201,7 +203,7 @@
 | [Déroutant](https://open.spotify.com/track/0KS4fyufVM7bNkyTKnL07p) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Déroutant](https://open.spotify.com/album/4YsTa45DGzHfCodlJGE3X2) | 2:34 | 2021-04-22 |  |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-02-15 | 2022-09-15 |
 | [Ebbe](https://open.spotify.com/track/2tMAQUBzGA8VqP8sLJvkdS) | [Kia Leonharts](https://open.spotify.com/artist/6EEGgdrklC8HMkuZRXkfTx) | [Ebbe](https://open.spotify.com/album/3ZP0FpVQ6OAJM2Gns4lfOE) | 2:43 | 2021-02-25 | 2023-08-09 |
-| [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 | 2021-05-06 |  |
+| [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 | 2021-05-06 | 2023-08-20 |
 | [Eclipse](https://open.spotify.com/track/0Ck0h2BOe48JxLlPQrl1sV) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Eclipse](https://open.spotify.com/album/2tFttOMbr6jYqnsulIqdAy) | 2:17 | 2020-11-12 | 2021-06-02 |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2021-10-05 | 2023-05-04 |
 | [Eile mit Weile](https://open.spotify.com/track/1kcfjSzBu45W5l0Kav14n6) | [Jens Wechsler](https://open.spotify.com/artist/5BsoSlrs9ny1GMWKpESjyZ) | [Eile mit Weile](https://open.spotify.com/album/6c3kBwd4oRSuX19JUyTJFB) | 2:30 | 2020-08-14\* | 2020-09-16 |
@@ -313,7 +315,7 @@
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2021-07-05 |  |
 | [Hiányérzet](https://open.spotify.com/track/0TaFyNST7wUeJ8ymvt6sqR) | [Lôrinc Tzigane](https://open.spotify.com/artist/6vWNxay1gwQXx4uuB6pgms) | [Hiányérzet](https://open.spotify.com/album/3kSodbe541Sst0OYivwNmM) | 2:30 | 2020-08-14\* | 2020-09-16 |
 | [Hoffnungen](https://open.spotify.com/track/5MB8U2Q1V1RDhPWl16ojSG) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Hoffnungen](https://open.spotify.com/album/4QlOD9tJ3PX7gRRQcPzv2a) | 2:13 | 2021-06-18 | 2021-08-04 |
-| [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-05-20 |  |
+| [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-05-20 | 2023-08-20 |
 | [Homebound](https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Homebound](https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8) | 2:53 | 2022-01-18 | 2022-06-08 |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-01 | 2022-06-08 |
 | [Hope \(Felt\)](https://open.spotify.com/track/21S4oSMiR9K07kurcMTvgv) | [Danilo Stankovic](https://open.spotify.com/artist/656DEjf8bYlGw2DqBj28qz) | [Evoke](https://open.spotify.com/album/6drwsG0RvJaxNUS0oIz1c4) | 1:52 | 2021-05-20 | 2021-08-18 |
@@ -391,6 +393,7 @@
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-09-16 | 2022-04-22 |
 | [Laiski](https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Laiski](https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek) | 1:55 | 2023-05-03 | 2023-07-25 |
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2021-08-22 |  |
+| [Landet](https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Landet](https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9) | 2:06 | 2023-08-15 |  |
 | [Landmannalaugar](https://open.spotify.com/track/7tEGou25bp3JObTEpfp2en) | [Oddur Klemenzson](https://open.spotify.com/artist/2rXVYffthMoPjCdmU2fzN1) | [Landmannalaugar](https://open.spotify.com/album/2hls5Cj9XC6jtQPBdyY4rL) | 2:13 | 2020-08-14\* | 2022-09-24 |
 | [Lanes Mill](https://open.spotify.com/track/7oebNRU2rprgGdRg8nVo9a) | [Camille Laurent](https://open.spotify.com/artist/7abyHm5fBQV0OD8QJn2NOd) | [Kerala](https://open.spotify.com/album/5DQv0vgau8rwyWqioTZAaX) | 3:04 | 2020-08-14\* | 2020-08-20 |
 | [Lanterns](https://open.spotify.com/track/4rk9U1jbpCh5Nqu1HTCKJ5) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [In Dreams](https://open.spotify.com/album/0c7ajzexctemP0dby48zn4) | 3:20 | 2020-08-14\* | 2020-12-16 |
@@ -476,7 +479,7 @@
 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 | 2021-08-19 | 2022-09-15 |
 | [Memoria](https://open.spotify.com/track/1ZWLEXzTlMvJVT80NpsoR4) | [Carlo Boscolli](https://open.spotify.com/artist/4Nx5aqahlikF5jNbcXHiED) | [Memoria](https://open.spotify.com/album/4vHvAO3vlJBIjwBeyaNHqw) | 2:01 | 2021-08-06 | 2021-10-27 |
 | [Memories](https://open.spotify.com/track/29oFfCDtNaQF9q7ilyLpz9) | [bzur](https://open.spotify.com/artist/0oGuRxr8O9eLnI4MS3pkTt) | [Memories](https://open.spotify.com/album/10jbRX3Xdwagm2xs54Gb4j) | 2:00 | 2022-01-18 | 2022-03-17 |
-| [Memories Of Tomorrow](https://open.spotify.com/track/2wjGwI406tRO1upG6JuNtn) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Memories Of Tomorrow](https://open.spotify.com/album/7s9RumNIGfCh4HBKEWBjPC) | 2:19 | 2021-05-20 |  |
+| [Memories Of Tomorrow](https://open.spotify.com/track/2wjGwI406tRO1upG6JuNtn) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Memories Of Tomorrow](https://open.spotify.com/album/7s9RumNIGfCh4HBKEWBjPC) | 2:19 | 2021-05-20 | 2023-08-20 |
 | [Memory of Home](https://open.spotify.com/track/5rizD1JChPpwo5SUQm4nGF) | [Meghan Koenig](https://open.spotify.com/artist/45otUyl0ZstiBv2Me81kb1) | [Thoughtful Breeze](https://open.spotify.com/album/4tXtJ6Gvs7xSdt9bvFik5k) | 2:40 | 2020-08-20 | 2020-10-15 |
 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 | 2021-06-04 |  |
 | [Merry Go Round](https://open.spotify.com/track/0GIr92Rg62DPb5BJ48Y4vG) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [In Seclusion](https://open.spotify.com/album/2jdiTcDwX3hY7Uk4T4DuFJ) | 4:32 | 2020-08-14\* | 2021-06-03 |
@@ -769,6 +772,7 @@
 | [The Hours](https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [The Hours](https://open.spotify.com/album/12a4l0Phhf9Ae9TQOWtbf1) | 2:13 | 2021-04-04 |  |
 | [The Light That Dims](https://open.spotify.com/track/5jXA67Q4thnNLEDxMzu9QE) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [The Light That Dims](https://open.spotify.com/album/2vabdeUkp3WECxMVAUubwo) | 2:54 | 2021-01-30 | 2021-03-26 |
 | [The lighthouse](https://open.spotify.com/track/4EuLUeWUGHK3BVJGBcpQah) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Back home](https://open.spotify.com/album/7rISUDvNmbSZ8oyY0v7Tfp) | 2:52 | 2022-06-07 | 2022-07-20 |
+| [The Might](https://open.spotify.com/track/57yfoJ5x6tF6B3vhhHr35I) | [Freya Rääf](https://open.spotify.com/artist/25K3sG1vlM4RnpPiWHHIzn) | [The Might](https://open.spotify.com/album/3SA356mCov4slJR4zhvPXv) | 2:19 | 2023-08-15 |  |
 | [The Moon Tells Me a Secret](https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [The Moon Tells Me a Secret](https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M) | 1:50 | 2021-11-28 | 2022-07-20 |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2020-08-14\* | 2021-02-19 |
 | [The Nightingale](https://open.spotify.com/track/1cXacQAGKrNEB6q32HzK6c) | [Frédéric Leissen](https://open.spotify.com/artist/5yLIjnvnDjovcXpZJa3NCj) | [The Nightingale](https://open.spotify.com/album/5q6Lo4sWsHz7S2JHooLt5i) | 1:58 | 2020-08-14\* | 2020-09-16 |

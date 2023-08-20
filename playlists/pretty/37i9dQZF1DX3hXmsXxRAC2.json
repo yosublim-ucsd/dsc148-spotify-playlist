@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 316704,
+  "num_followers": 316751,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWU3MTVlMzExMTFkNDNhZDgwMTViYjdiYmJhMWZmNDA5ZjE0YzRh",
+  "snapshot_id": "MCxiMTdjYjBhOTZkMjZlNmNiMTU5YjdjYmQwYjU1NWNkMDUxYmE3YzMx",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Eres tan distinta a todas",
-        "url": "https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb"
-      },
-      "artists": [
-        {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
-        }
-      ],
-      "duration_ms": 303001,
-      "name": "As\u00ed fue",
-      "url": "https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Interpretan \u00c9xitos De Juan Gabriel",
         "url": "https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 191973,
       "name": "Dejame Vivir",
       "url": "https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Eres tan distinta a todas",
+        "url": "https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "duration_ms": 303001,
+      "name": "As\u00ed fue",
+      "url": "https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Juan Gabriel y Lo Mas Romantico De",
         "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 150100,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/54fKo3mRZqO1nriQ8j3sqr"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR"
     },
     {
       "added_at": "2023-05-05 18:26:22",

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-807 songs - 2 day 4 hr 56 min
+808 songs - 2 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [TBD](https://open.spotify.com/track/6t4HZstA6tlgXyhTwcry6R) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック](https://open.spotify.com/album/3eTggf0BQGCCjSKTPehaHD) | 3:56 | 2022-06-07 | 2022-07-29 |
 | [Tell me](https://open.spotify.com/track/12MNPXTSJp3n2YvrzsCSv0) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [eyes](https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn) | 3:43 | 2022-06-07 |  |
 | [Tell me](https://open.spotify.com/track/0Q5iAvLaf5gPOXBdwn2xTI) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Tell me](https://open.spotify.com/album/69PUaIre9obNtcnh1uM4YS) | 3:43 | 2022-06-07 | 2022-07-29 |
-| [THE ANSWER](https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [86―エイティシックス― オリジナル・サウンドトラック](https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc) | 3:46 | 2022-06-07 |  |
+| [THE ANSWER](https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [86―エイティシックス― オリジナル・サウンドトラック](https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc) | 3:46 | 2022-06-07 | 2023-08-20 |
 | [The Beast](https://open.spotify.com/track/1MkW4oHTfqhCUFsPlvK2cQ) | [WagakkiBand](https://open.spotify.com/artist/3PzqP5IkpLhlSdZLh7jwPn) | [The Beast](https://open.spotify.com/album/6aZBb7UTppzChDhjWcXmbh) | 3:12 | 2023-08-04 | 2023-08-16 |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-25 | 2023-06-17 |
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-06-07 | 2022-07-29 |
@@ -426,6 +426,7 @@
 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 | 2022-08-11 |  |
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-02-20 |  |
 | [Who are you?](https://open.spotify.com/track/2jjtyENFrV2g4XocVqjUGi) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [Who are you? / 星座して二人](https://open.spotify.com/album/3y24ZDMTWldEr0NASCKErU) | 3:29 | 2022-06-07 | 2022-07-29 |
+| [WILDER](https://open.spotify.com/track/6iczknaVftpxX229RnqOzY) | [UPSTART](https://open.spotify.com/artist/4PLPwM88KIwvLnDqSt5S6M) | [WILDER](https://open.spotify.com/album/7gyD3siobyffjzTIz2ZRxz) | 3:18 | 2023-08-15 |  |
 | [WINNER](https://open.spotify.com/track/3hRqmUI4Mzh5h0drGk24AF) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [WINNER](https://open.spotify.com/album/2i7pkoWfNRHz9aIrTQ3Lmp) | 3:32 | 2022-11-22 | 2023-02-21 |
 | [WISH](https://open.spotify.com/track/5tw5KJQclTS3iL4NbzE7TJ) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [WISH](https://open.spotify.com/album/08349lPWDWIljpetuDptPe) | 4:54 | 2022-06-07 | 2022-07-22 |
 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-02-20 | 2023-05-02 |

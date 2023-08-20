@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 63190,
+  "num_followers": 63298,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzg4YTczZmU0ODc2ZjI2MTZkNjFmOWFjMTEyNDY0MmFkOTM0YmMy",
+  "snapshot_id": "MCxjZDYyZjMzNjAwOTQ4MGFkNTBhNzk0ZTY5NGJlMzY1MmJmYzdjYTVi",
   "tracks": [
     {
       "added_at": "2023-07-21 15:55:32",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "Don't Lose This",
+        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
+      },
+      "artists": [
+        {
+          "name": "Pops Staples",
+          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "Somebody Was Watching",
+      "url": "https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "An Anthology",
         "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Don't Lose This",
-        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
       },
       "artists": [
         {
-          "name": "Pops Staples",
-          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
         }
       ],
-      "duration_ms": 247293,
-      "name": "Somebody Was Watching",
-      "url": "https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is"
+      "duration_ms": 258696,
+      "name": "Rollin' On (Acoustic)",
+      "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -503,22 +519,6 @@
       "duration_ms": 338333,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Love Transcends",
-        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 258696,
-      "name": "Rollin' On (Acoustic)",
-      "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Come to Find",
         "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Alabama Blues!",
-        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 99866,
-      "name": "I Want to Go",
-      "url": "https://open.spotify.com/track/6y2PzzIq9rPM5zzcRDmuYH"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 208000,
       "name": "Driftin' Blues - Single Version",
       "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Alabama Blues!",
+        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 99866,
+      "name": "I Want to Go",
+      "url": "https://open.spotify.com/track/6y2PzzIq9rPM5zzcRDmuYH"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "Yellow Peril",
+        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Yellow Peril",
+      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
         "url": "https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Yellow Peril",
-        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Yellow Peril",
-      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Forever On My Mind",
-        "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 351960,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Neckbone Stew",
         "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 360480,
       "name": "Blue River Rising",
       "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Forever On My Mind",
+        "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 351960,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "The Future Ain't What It Used to Be",
         "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+        "name": "Great God Almighty (Demo, Summer 2018)",
+        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "Mike Trask",
+          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
         }
       ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
+      "duration_ms": 178276,
+      "name": "Great God Almighty - Demo, Summer 2018",
+      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1319,22 +1335,6 @@
       "duration_ms": 206471,
       "name": "The Ballad of Lampshade Ed",
       "url": "https://open.spotify.com/track/7ixLX2F07QhrX4JEOJuFeX"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
-      },
-      "artists": [
-        {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "The Road to Liberty, Pt. 1",
         "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
       },
@@ -1507,38 +1491,18 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Midnight Call",
-        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
       "artists": [
         {
-          "name": "Fran McGillivray Band",
-          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
         }
       ],
-      "duration_ms": 288240,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Philadelphia Mississippi",
-        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Sharde Turner",
-          "url": "https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "If My Mind Don't Change (feat. Sharde Thomas)",
-      "url": "https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W"
+      "duration_ms": 209400,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1563,22 +1527,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Devil Got My Woman",
-        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
-      },
-      "artists": [
-        {
-          "name": "Skip James",
-          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Devil Got My Woman",
-      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Navigation Blues",
         "url": "https://open.spotify.com/album/291j4jpDLGN5NeGlOyL5Kh"
       },
@@ -1599,6 +1547,58 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "Philadelphia Mississippi",
+        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Sharde Turner",
+          "url": "https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "If My Mind Don't Change (feat. Sharde Thomas)",
+      "url": "https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Midnight Call",
+        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
+      },
+      "artists": [
+        {
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Devil Got My Woman",
+        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
+      },
+      "artists": [
+        {
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Devil Got My Woman",
+      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "A Soul to Claim",
         "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 267512,
       "name": "Only Porter at the Station",
       "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Fussin' and Fightin' (Blues)",
+      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1643,22 +1659,6 @@
       "duration_ms": 231133,
       "name": "First McDonell's on the Moon",
       "url": "https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Fussin' and Fightin' (Blues)",
-      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
+      },
+      "artists": [
+        {
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+        }
+      ],
+      "duration_ms": 138040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
-      },
-      "artists": [
-        {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Misery Loves Company",
         "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
       },
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Blues Chase up a Rabbit",
-      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "When Your Best Friend Turns Their Back On You",
         "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 361200,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Blues Chase up a Rabbit",
+      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1951,22 +1951,18 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Newbury",
-        "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
+        "name": "Wild Country",
+        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
       },
       "artists": [
         {
-          "name": "Emiliano Savini",
-          "url": "https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv"
-        },
-        {
-          "name": "Liliana Richter",
-          "url": "https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms"
+          "name": "Carmel",
+          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Newbury",
-      "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
+      "duration_ms": 358133,
+      "name": "Wild Country 2021",
+      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1987,18 +1983,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Wild Country",
-        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
+        "name": "Newbury",
+        "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
       },
       "artists": [
         {
-          "name": "Carmel",
-          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
+          "name": "Emiliano Savini",
+          "url": "https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv"
+        },
+        {
+          "name": "Liliana Richter",
+          "url": "https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms"
         }
       ],
-      "duration_ms": 358133,
-      "name": "Wild Country 2021",
-      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
+      "duration_ms": 198000,
+      "name": "Newbury",
+      "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
+        "name": "Make Myself Me Again",
+        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
       },
       "artists": [
         {
-          "name": "Jhett Black",
-          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
+          "name": "Cristina Vane",
+          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
         }
       ],
-      "duration_ms": 222724,
-      "name": "Smoke In Heaven",
-      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
+      "duration_ms": 169826,
+      "name": "Small Town Nashville Blues",
+      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
     }
   ],
   "unique_name": "Black Coffee Blues",

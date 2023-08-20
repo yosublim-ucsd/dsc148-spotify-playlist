@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 175064,
+  "num_followers": 175189,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWFlNGM1MzU5ZTZlNmMyNTdmM2ZkNzRkMDFlNDgwMzNlNTM3MjIz",
+  "snapshot_id": "MCwxM2FkM2MyNmIzZjA1MDlkNGVmOWQwZGYyYmJkOGQ2YWFmYmNiYWQ4",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "The Flemish Piano Sonatina in the 20th Century",
+        "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
+      },
+      "artists": [
+        {
+          "name": "Georges Lonque",
+          "url": "https://open.spotify.com/artist/52FJC1xrA8G9pjnTqoBWBG"
+        },
+        {
+          "name": "Daniel Blumenthal",
+          "url": "https://open.spotify.com/artist/0Ks41NxSMIGc9jdSGVELba"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
       },
@@ -895,22 +915,22 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "The Flemish Piano Sonatina in the 20th Century",
-        "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
       "artists": [
         {
-          "name": "Georges Lonque",
-          "url": "https://open.spotify.com/artist/52FJC1xrA8G9pjnTqoBWBG"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Daniel Blumenthal",
-          "url": "https://open.spotify.com/artist/0Ks41NxSMIGc9jdSGVELba"
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
         }
       ],
-      "duration_ms": 112000,
-      "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -959,26 +979,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
-        }
-      ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Grieg: Peer Gynt, Suite No. 1, Op. 46 / Suite No. 2, Op. 55 / Holberg Suite, Op. 40",
         "url": "https://open.spotify.com/album/77MuBVRR2QtTckEV4EluCQ"
       },
@@ -1023,34 +1023,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Rodrigo: Concierto de Aranjuez; Fantas\u00eda para un gentilhombre etc.",
-        "url": "https://open.spotify.com/album/2B6figtx2ZMK6vsLqdKvHZ"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Rodrigo",
-          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
-        },
-        {
-          "name": "Agust\u00edn Le\u00f3n Ara",
-          "url": "https://open.spotify.com/artist/2ISweDneTd9LZ99oeuzl82"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Can\u00e7oneta for Violin and Orchestra",
-      "url": "https://open.spotify.com/track/4h6KTocEXwAdCJDgGqRFEs"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Saint-Sa\u00ebns: Le Carnaval des Animaux; Pha\u00e9ton; Danse Macabre etc.",
         "url": "https://open.spotify.com/album/6i0HvFnPJrXbbEk3JhNxRQ"
       },
@@ -1079,6 +1051,34 @@
       "duration_ms": 136400,
       "name": "Le Carnaval des Animaux, R.125: 4. Tortues",
       "url": "https://open.spotify.com/track/5Un9h6xPqnHSvguexXnbEg"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Rodrigo: Concierto de Aranjuez; Fantas\u00eda para un gentilhombre etc.",
+        "url": "https://open.spotify.com/album/2B6figtx2ZMK6vsLqdKvHZ"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Rodrigo",
+          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Agust\u00edn Le\u00f3n Ara",
+          "url": "https://open.spotify.com/artist/2ISweDneTd9LZ99oeuzl82"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Can\u00e7oneta for Violin and Orchestra",
+      "url": "https://open.spotify.com/track/4h6KTocEXwAdCJDgGqRFEs"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Haydn: Cello Concertos (Remastered)",
         "url": "https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA"
       },
@@ -1283,46 +1303,22 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Darknesse Visible",
+        "url": "https://open.spotify.com/album/63GW5jBpH6cMXITc9559F7"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
         }
       ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
+      "duration_ms": 314120,
+      "name": "Suite Bergamasque: Clair de Lune",
+      "url": "https://open.spotify.com/track/0mjT194sWauS2YBwxM2ZhS"
     }
   ],
   "unique_name": "Creative Focus",

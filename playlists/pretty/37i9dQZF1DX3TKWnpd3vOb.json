@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas",
-  "num_followers": 200592,
+  "num_followers": 200596,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGJmMzI0OGM0MWFjZDYyYjA0ZGYwZjIzNDRmMDQyN2E4M2NiZmVk",
+  "snapshot_id": "MCxlNzQzODkxY2Q2ZmI4ZGIwMWI2ZWU2NTA3NjhmMmJkMWQ1ZjU1M2Q0",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp"
-      },
-      "artists": [
-        {
-          "name": "Los Ex",
-          "url": "https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP"
-        }
-      ],
-      "duration_ms": 153991,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
         "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 236084,
       "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
       "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp"
+      },
+      "artists": [
+        {
+          "name": "Los Ex",
+          "url": "https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP"
+        }
+      ],
+      "duration_ms": 153991,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "SUE\u00d1OS MOJADOS",
-        "url": "https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp"
-      },
-      "artists": [
-        {
-          "name": "Sir Valen",
-          "url": "https://open.spotify.com/artist/31J0nfGXpgjWwbakScICTn"
-        },
-        {
-          "name": "Millonarios Depresivos",
-          "url": "https://open.spotify.com/artist/00GDE8rkCDdatrLufmZvEn"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "SUE\u00d1OS MOJADOS",
-      "url": "https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "P\u00e1lida Forma Nocturna",
         "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
@@ -747,18 +727,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Como te amo (Radio Edit)",
-        "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
+        "name": "SUE\u00d1OS MOJADOS",
+        "url": "https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp"
       },
       "artists": [
         {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+          "name": "Sir Valen",
+          "url": "https://open.spotify.com/artist/31J0nfGXpgjWwbakScICTn"
+        },
+        {
+          "name": "Millonarios Depresivos",
+          "url": "https://open.spotify.com/artist/00GDE8rkCDdatrLufmZvEn"
         }
       ],
-      "duration_ms": 176471,
-      "name": "Como te amo - Radio Edit",
-      "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
+      "duration_ms": 144000,
+      "name": "SUE\u00d1OS MOJADOS",
+      "url": "https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -775,6 +759,22 @@
       "duration_ms": 218735,
       "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Como te amo (Radio Edit)",
+        "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 176471,
+      "name": "Como te amo - Radio Edit",
+      "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Sangre y Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
-      },
-      "artists": [
-        {
-          "name": "Kutral Kai Paz",
-          "url": "https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB"
-        }
-      ],
-      "duration_ms": 228530,
-      "name": "Sangre y Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "7 Mares",
         "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 258331,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Sangre y Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
+      },
+      "artists": [
+        {
+          "name": "Kutral Kai Paz",
+          "url": "https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB"
+        }
+      ],
+      "duration_ms": 228530,
+      "name": "Sangre y Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
     }
   ],
   "unique_name": "Rock Chileno",

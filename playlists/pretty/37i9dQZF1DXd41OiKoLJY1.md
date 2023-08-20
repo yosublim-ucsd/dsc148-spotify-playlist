@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Dani Zam Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,695 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,713 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 17 | [Wag Ka Mag Alala](https://open.spotify.com/track/7wMPCCRpXHIrIORGFTh9Dk) | [JKwervo](https://open.spotify.com/artist/4ky3wibKyqWBJyoOMfL8Au), [Trynket](https://open.spotify.com/artist/532KYewibPingKExTDrDbA), [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q) | [Wag Ka Mag Alala](https://open.spotify.com/album/30ave8gjOSi9tLp6fIWNau) | 2:55 |
 | 18 | [Totoo Lang](https://open.spotify.com/track/1PHy2M2RuDQ1SRhHrJPsgP) | [Rich Flo](https://open.spotify.com/artist/71junpzEi4CvJM1nhoVuWc) | [Totoo Lang](https://open.spotify.com/album/0ebGwTsXwgNlDWq9zpLVbL) | 3:33 |
 | 19 | [Dance With Me](https://open.spotify.com/track/7uj2Ylzg8wy2SV1440jmpb) | [Childlike Wonder](https://open.spotify.com/artist/0DWpyJrc1Vn7rLct905fPA) | [Dance With Me](https://open.spotify.com/album/4tGGBcxlyRhwgF3QO1uUYm) | 4:27 |
-| 20 | [Low](https://open.spotify.com/track/6LYP96Eqyt1O7asUis0hBv) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF) | [Low](https://open.spotify.com/album/6S2U5Eij3jlBfxKAwwh9uP) | 3:40 |
+| 20 | [Low](https://open.spotify.com/track/6LYP96Eqyt1O7asUis0hBv) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Low](https://open.spotify.com/album/6S2U5Eij3jlBfxKAwwh9uP) | 3:40 |
 | 21 | [Hiwaga](https://open.spotify.com/track/7a1mkv02p1qiy7nl9W3myE) | [Yo D333zy](https://open.spotify.com/artist/5aSW6EW3iUS5C4DNxsQcTE) | [Hiwaga](https://open.spotify.com/album/0DHnVhpKLvENO4ZUttP7H3) | 3:00 |
 | 22 | [Lipad](https://open.spotify.com/track/4NoLiNrF8yb1osnawjQ268) | [Sulo](https://open.spotify.com/artist/5Kde9C1W95QXMCiR0W86rn) | [Lipad](https://open.spotify.com/album/0seCnbKKTK3ERsHlnhEpO4) | 3:18 |
 | 23 | [All Goods](https://open.spotify.com/track/0itksQIoQF7xhYep9ZsYbu) | [Osel](https://open.spotify.com/artist/0AJzWgyhqIoQBEKnaEt6Zk) | [All Goods](https://open.spotify.com/album/4FuXDZFaDSxy3FTpi1T5FV) | 2:51 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Oxygen](https://open.spotify.com/track/5WRMxSCs9W65GMcnbF6LQH) | [Phoebe Gil](https://open.spotify.com/artist/32DK9SxDI8Q7ri4yMXbraU) | [Oxygen](https://open.spotify.com/album/58qH32y3o7Sd0kudNfXH2V) | 3:32 |
 | 74 | [Akit](https://open.spotify.com/track/75KTAl7LtIHeXc0OOezZFF) | [Maxie Andreison](https://open.spotify.com/artist/2QuQBf81nBbfyLSQcTvXtl) | [Akit](https://open.spotify.com/album/4gyuvv2ooE1VTCxnxAyE7E) | 3:17 |
 
-Snapshot ID: `MCwyZDFjMDQ1NDVkYWQ2OWE1YTk5NDY3YTY1YzIwMWI2ZDU2M2UzYmUx`
+Snapshot ID: `MCxjOGM5ZTZlNjM1ZDAzODI0Nzk3MWIwMDI2Yzk5ZDhiZDYxZGIzZjNj`

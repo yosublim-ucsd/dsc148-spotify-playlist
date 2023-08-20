@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,296 likes - 75 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,328 likes - 75 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 45 | [Sex, Drugs, Money & Lies \- Amine K Remix](https://open.spotify.com/track/6Fe1UFMK4CtL4QQQgIIJoS) | [Lunar Disco](https://open.spotify.com/artist/4wGE0QDsUVMR28CJayMHV7), [Peter Conaty](https://open.spotify.com/artist/6E6Qssf8ctt4C0kkGeD3EK), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Sex, Drugs, Money & Lies \(Amine K Remix\)](https://open.spotify.com/album/3XfDfHeTIGp3pRgceajqrt) | 6:51 |
 | 46 | [Exorce](https://open.spotify.com/track/4lM4b1cEY4YviftTR5DUCO) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Exorce EP](https://open.spotify.com/album/6NutlhlAx9Cu5Aci3D1qdE) | 6:52 |
 | 47 | [Karavane](https://open.spotify.com/track/49jrwKKNhC5TvU6W9NzFue) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Gio Israel](https://open.spotify.com/artist/0vMjghiQIFzwaoWNC5kQEr) | [Without Borders](https://open.spotify.com/album/2Fgzwt5QD6EFeApnyr1jzB) | 6:49 |
-| 48 | [Lovely \(Vocal Good Vibes Mix\)](https://open.spotify.com/track/591N75XjzRms0Cvcm9qSRw) | [Disco Incorporated](https://open.spotify.com/artist/03bYU8vPMd45QD6byp08HJ) | [Funky Summer Grooves, Vol\. 1](https://open.spotify.com/album/1yv6X3GBXHTc5mZxh9xEuZ) | 3:04 |
+| 48 | [Lovely Day \(Deep Soul Mix\)](https://open.spotify.com/track/591N75XjzRms0Cvcm9qSRw) | [Ministry Of Funk](https://open.spotify.com/artist/4aKFcoj4sJdQ9GLSMKKfL5) | [Soul Grooves](https://open.spotify.com/album/1yv6X3GBXHTc5mZxh9xEuZ) | 3:12 |
 | 49 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/37nppJzOgypngu1szTRD06) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7) | 9:16 |
 | 50 | [Starlight](https://open.spotify.com/track/0KOf5jmkQkCudX434vaMlq) | [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX) | [Starlight](https://open.spotify.com/album/01jiI42ZCqSIlnGwGIia8Y) | 7:20 |
 | 51 | [Believe \- Mark Knight Remix](https://open.spotify.com/track/0s4VfdRQyeUClxcAlXBsvf) | [Ministers de la Funk](https://open.spotify.com/artist/7y5eIukvu4CGjwUJpdLi2H), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [Believe \(Mark Knight Remix\)](https://open.spotify.com/album/6T40eZuCRbrxjEZsOgz4CQ) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 74 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 |
 | 75 | [Rapture \(John Creamer & Stephane K\. Remix\) \[feat\. Nadia Ali\]](https://open.spotify.com/track/21s9uaVLfdKb1xEyiy0MBM) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Rapture Reconstruction, Platinum Edition \(feat\. Nadia Ali\)](https://open.spotify.com/album/4bOu5bLJpRBNfD0fb5apQf) | 9:58 |
 
-Snapshot ID: `MCw3OWMyMTJjYzUxNGQ5Y2ExMGZmYzk5ZGQ2NzYyMmQyNzEzOTg5YjFi`
+Snapshot ID: `MCwwMzlkZDUwNjFjOTdmZTdhZTlkMDUzOGMyYWUzODcxNGJlOWI5MTEy`

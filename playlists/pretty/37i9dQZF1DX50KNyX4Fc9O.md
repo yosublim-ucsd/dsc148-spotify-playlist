@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: RIIKI REID
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,162 likes - 101 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,172 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 100 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 101 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 |
 
-Snapshot ID: `MCw5MWViMjAxYWIwODMyYzZlZTIzYzJjNWUzZTJkZGZmYWNlNjc1YTRj`
+Snapshot ID: `MCxjN2FjNWQ5ZGYyMWY1OTFjMmExOWM0ZDk3NWZhZGFkOTQ4YzU3MzZk`

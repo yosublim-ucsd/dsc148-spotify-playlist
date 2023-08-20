@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: HUH YUNJIN\(허윤진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,756 likes - 104 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,021 likes - 104 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 103 | [Like a Dream](https://open.spotify.com/track/3XkygPbUCWxhqLaS5U3KyN) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 |
 | 104 | [Love Song](https://open.spotify.com/track/6Dn6Ryrym3sQfcoG2JB7Zf) | [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [Love Song](https://open.spotify.com/album/0TySFnYP1LLSPsw9bls9Tj) | 2:45 |
 
-Snapshot ID: `MCw1NGQ5YTVkMGJmZjZkNjgyMGI0MjM1MWI0Yzc2NjhjNmJlYThlZGNh`
+Snapshot ID: `MCwxNGZlODMzMDg0MTIyZjg5ZGU1YTYwZDE1MzgzZDcwZjQ3MzY3N2My`

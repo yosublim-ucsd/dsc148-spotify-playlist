@@ -4,7 +4,7 @@
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: Michaël Brun, Becky G & Anne\-Marie
 
-462 songs - 1 day 0 hr 1 min
+462 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Triste \(with Feid\)](https://open.spotify.com/track/1IovaNgcqPCJpJGd0V2eXl) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 3:22 | 2021-12-20 | 2022-07-29 |
 | [Trompeta](https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns) | 2:48 | 2022-07-22 | 2022-10-08 |
 | [Trompeta](https://open.spotify.com/track/1xyz2xqqpnhT3k1ApFPu6S) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/2CouSn57DmTvVmvNvYaApP) | 2:48 | 2022-03-25 | 2022-07-29 |
-| [Tropicana \(with Byron Messia\)](https://open.spotify.com/track/0WvT9ICmzJ5GYx9sdO37Bs) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Tropicana \(with Byron Messia\)](https://open.spotify.com/album/6kGJdej5eQcI5K7psB3zyJ) | 2:30 | 2023-08-18 |  |
+| [Tropicana \(with Byron Messia\)](https://open.spotify.com/track/0WvT9ICmzJ5GYx9sdO37Bs) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Tropicana \(with Byron Messia\)](https://open.spotify.com/album/6kGJdej5eQcI5K7psB3zyJ) | 2:01 | 2023-08-18 |  |
 | [Trouble](https://open.spotify.com/track/7l1HLHo18BGGNHRfnfJGTc) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Trouble](https://open.spotify.com/album/637WPEplDNDA9NsDalVQvD) | 2:46 | 2021-12-20 | 2022-07-27 |
 | [Tubarão Te Amo](https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA) | [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [Tchakabum](https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [mc jhenny](https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6), [Mc RF](https://open.spotify.com/artist/7rnLNmWx3ibYo5uQcghVgQ) | [Tubarão Te Amo](https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E) | 2:29 | 2022-12-12 | 2023-03-19 |
 | [Tukoh Taka \- Official FIFA Fan Festival™ Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 | 2022-11-18 | 2023-01-28 |

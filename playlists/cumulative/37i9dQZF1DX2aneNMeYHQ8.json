@@ -2498,10 +2498,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 192134,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1"
+      },
+      "artists": [
+        {
+          "name": "the moss",
+          "url": "https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192135,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb"
     },
     {
       "album": {
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 181093,
       "name": "Live Like You",
       "url": "https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON"
@@ -5114,7 +5132,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 193369,
       "name": "The Hardest Cut",
       "url": "https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM"

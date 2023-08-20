@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Slow J.
 
-396 songs - 21 hr 33 min
+397 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Esse Corpo](https://open.spotify.com/track/69KrMw0IRIwTDXWvib4wON) | [YRC](https://open.spotify.com/artist/6iDIU9vxMcfwrUkpzkoDc7), [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Esse Corpo](https://open.spotify.com/album/6WqINuc1s3vvs0glX9NIWf) | 3:04 | 2022-09-01 | 2022-09-09 |
 | [Esticão](https://open.spotify.com/track/1J1jKUR1qHkDoTt7NMn7Yj) | [Ary Bronze](https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ), [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35) | [Esticão](https://open.spotify.com/album/5N5dlHwrT4sV0s1a6ubUWd) | 3:13 | 2023-06-01 | 2023-06-23 |
 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 | 2023-03-01 |  |
-| [Eu Até Percebo](https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Eu Até Percebo](https://open.spotify.com/album/47sWRsYMS8jxmeS71jVs77) | 3:30 | 2023-08-17 |  |
+| [Eu Até Percebo](https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Eu Até Percebo](https://open.spotify.com/album/47sWRsYMS8jxmeS71jVs77) | 3:30 | 2023-08-17 | 2023-08-20 |
 | [Eu Ela & o Facebook](https://open.spotify.com/track/7kba44tTPcgX4LOrJRNvCT) | [Hidrah O Donno](https://open.spotify.com/artist/1LUkGzq1z3AGByPwLNfXzR) | [R&B Clock](https://open.spotify.com/album/0DoXmg9jYjuPmhbj9Ortvy) | 3:02 | 2023-07-27 | 2023-08-04 |
 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 | 2023-04-13 | 2023-06-30 |
 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 | 2023-06-16 |
@@ -144,6 +144,7 @@
 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 | 2023-06-29 |  |
 | [Fe.](https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:34 | 2022-11-25 | 2023-03-31 |
 | [Feeling](https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Feeling](https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm) | 3:45 | 2022-07-07 | 2022-09-30 |
+| [Feelings](https://open.spotify.com/track/5vwt5fdPoIbNYkWPOBInfp) | [Tonny K](https://open.spotify.com/artist/337etR6tCrVdPEREaN9Qqc), [Lil Saint](https://open.spotify.com/artist/7odbCfUO9CRAZH4NE4GdU4) | [Feelings](https://open.spotify.com/album/7hJtnNxChO1mGUtdWUuG6F) | 3:04 | 2023-08-17 |  |
 | [Feisty](https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Feisty](https://open.spotify.com/album/0A6tqNmExdFyRCPJZ5uM39) | 2:41 | 2023-03-03 | 2023-03-25 |
 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 | 2022-07-07 |  |
 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 | 2023-06-15 |  |

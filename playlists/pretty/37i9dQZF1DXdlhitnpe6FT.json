@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 183957,
+  "num_followers": 184211,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2U1ZjU4NGE4NjhhODg3NjZmNWZkMzI5N2E1N2NkMjNhZDUwMjE2",
+  "snapshot_id": "MCwwYWFjNDY1M2I2MzdhNDhjZTJiN2ZmNzg1NzdhODgxMjcwOGQ2ZmRi",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -315,6 +315,26 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "The Essential Ennio Morricone",
+        "url": "https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        },
+        {
+          "name": "Carlo Nistri",
+          "url": "https://open.spotify.com/artist/1fLWK8w1hDasVXnoCZk9Tt"
+        }
+      ],
+      "duration_ms": 306146,
+      "name": "Chi Mai",
+      "url": "https://open.spotify.com/track/4D0ofpU1f402qd1t6ZK0Xr"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
         "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 206653,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "The Essential Ennio Morricone",
-        "url": "https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn"
-      },
-      "artists": [
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        },
-        {
-          "name": "Carlo Nistri",
-          "url": "https://open.spotify.com/artist/1fLWK8w1hDasVXnoCZk9Tt"
-        }
-      ],
-      "duration_ms": 306146,
-      "name": "Chi Mai",
-      "url": "https://open.spotify.com/track/4D0ofpU1f402qd1t6ZK0Xr"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -479,6 +479,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 166293,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "La Paloma",
-        "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "La Paloma",
-      "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -791,6 +791,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
+        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pearson",
+          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Sleepy Shores",
+      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Franck Pourcel : Originals, vol. 8",
         "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
-        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
+        "name": "The Sting",
+        "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
       },
       "artists": [
         {
-          "name": "Johnny Pearson",
-          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
+          "name": "Marvin Hamlisch",
+          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
         }
       ],
-      "duration_ms": 220240,
-      "name": "Sleepy Shores",
-      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
+      "duration_ms": 183360,
+      "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
+      "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -839,22 +855,6 @@
       "duration_ms": 116559,
       "name": "Mah N\u00e0 Mah N\u00e0",
       "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "The Sting",
-        "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
-      },
-      "artists": [
-        {
-          "name": "Marvin Hamlisch",
-          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
-      "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -943,22 +943,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "14 Estelares",
-        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Il",
-      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Fiesta Mexicana de Pepe Jaramillo",
         "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 111200,
       "name": "Capullito de Alel\u00ed",
       "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "14 Estelares",
+        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Il",
+      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Best of Pop Concerto Orchestra",
-        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
-      },
-      "artists": [
-        {
-          "name": "Pop Concerto Orchestra",
-          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Lady Milady",
-      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Sue\u00f1o azul",
         "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 142040,
       "name": "Concierto para una sola voz",
       "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Best of Pop Concerto Orchestra",
+        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
+      },
+      "artists": [
+        {
+          "name": "Pop Concerto Orchestra",
+          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "Lady Milady",
+      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Instrumental History, The Best",
-        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Marchetti",
-          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "L'Incontro - 1M1",
-      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 #1's: One Hit Wonders",
         "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 202805,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Instrumental History, The Best",
+        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Marchetti",
+          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "L'Incontro - 1M1",
+      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "A Swingin' Safari",
-        "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
+        "name": "Celebration: A Musical Journey",
+        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
       },
       "artists": [
         {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+          "name": "Sergio Mendes & Brasil '77",
+          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
         }
       ],
-      "duration_ms": 135666,
-      "name": "A Swingin' Safari",
-      "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
+      "duration_ms": 213626,
+      "name": "Promise Of A Fisherman (Promessa De Pescador)",
+      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Celebration: A Musical Journey",
-        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
+        "name": "A Swingin' Safari",
+        "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
       },
       "artists": [
         {
-          "name": "Sergio Mendes & Brasil '77",
-          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 213626,
-      "name": "Promise Of A Fisherman (Promessa De Pescador)",
-      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
+      "duration_ms": 135666,
+      "name": "A Swingin' Safari",
+      "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
     },
     {
       "added_at": "2020-12-08 19:02:01",

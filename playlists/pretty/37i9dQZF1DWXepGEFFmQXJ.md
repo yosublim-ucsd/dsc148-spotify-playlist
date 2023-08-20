@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,951 likes - 81 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,278 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 80 | [Country Proud](https://open.spotify.com/track/52cRNOQ6qo2ecpN8LXBtCf) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Country Proud](https://open.spotify.com/album/4V1GRx7loRe1e9Hg5EMxAV) | 2:51 |
 | 81 | [Broken](https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Broken](https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT) | 2:57 |
 
-Snapshot ID: `MCwzODVlMDgyNjQ0MGUxNzExNDUyNjZiMzQwMDE3ZjgyNjQxNWE1NGYz`
+Snapshot ID: `MCw0MDU0NWUwYThmYjI2MzJkMjQwYTUxMjlmNWFjN2JiY2EzNWFjZjEy`

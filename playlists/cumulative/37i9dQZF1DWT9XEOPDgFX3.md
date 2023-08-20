@@ -4,12 +4,12 @@
 
 > Walk the bridge between indie and folk\. Cover: Delaney Bailey
 
-386 songs - 1 day 0 hr 2 min
+388 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4th of july](https://open.spotify.com/track/7dn5RKG3K4Bh0F30Ws5AzF) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [4th of july](https://open.spotify.com/album/11hefE33QHr550fVgDPGIs) | 2:56 | 2022-01-21 | 2022-07-29 |
-| [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 | 2022-04-29 |  |
+| [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 | 2022-04-29 | 2023-08-20 |
 | [4th of July](https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [4th of July](https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0) | 2:56 | 2023-01-27 | 2023-02-25 |
 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 | 2023-08-11 |  |
 | [A Little Older](https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [A Little Older](https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR) | 3:02 | 2023-06-02 |  |
@@ -101,6 +101,7 @@
 | [Distant Axis](https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison \(Deluxe Edition\)](https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA) | 4:25 | 2022-04-29 | 2023-07-13 |
 | [Do You Understand \(What Has Happened to You\)](https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [At the Moonbase](https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA) | 4:43 | 2022-12-16 |  |
 | [Don't Kiss Me](https://open.spotify.com/track/3uPYk9jdFzAeEmQPYVb7Gq) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Don't Kiss Me](https://open.spotify.com/album/03SqzAAXXolzq7XYIARZOj) | 4:04 | 2023-05-19 | 2023-07-16 |
+| [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 | 2023-08-18 |  |
 | [Dr\. Johann Averies](https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Dr\. Johann Averies](https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3) | 3:53 | 2022-01-21 | 2023-05-05 |
 | [Dr\. Johann Averies](https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Bury Your Horses](https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS) | 3:53 | 2023-05-12 |  |
 | [Dream](https://open.spotify.com/track/5J8aJjjiY3VCsnIwSNRtFS) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Pure Chaos](https://open.spotify.com/album/4VqJz0zUGsibswB2Q1OgHj) | 3:13 | 2022-04-29 | 2022-07-16 |
@@ -227,7 +228,7 @@
 | [Mohabbat](https://open.spotify.com/track/5PY0OvDT2tnAykdiUQayF8) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mohabbat](https://open.spotify.com/album/1DUjMy0rHh8ckyyvGzQzhm) | 7:42 | 2022-01-21 | 2022-07-29 |
 | [Money Honey](https://open.spotify.com/track/3ZmxvybcMbgR6ySIJeuMOY) | [Zelma Stone](https://open.spotify.com/artist/6zCGW0ocbATOowwaED1mbs) | [Money Honey](https://open.spotify.com/album/2dODpgdAH17PWIFVEPprHm) | 3:50 | 2022-04-13 | 2022-07-29 |
 | [Moon Phase](https://open.spotify.com/track/544All8qqFl7xPX04BFjN7) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [becalmyounglovers](https://open.spotify.com/album/2v6unA9iS25xjas5WVHzEE) | 3:03 | 2022-04-13 | 2022-07-29 |
-| [More](https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [More](https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8) | 4:46 | 2022-12-09 |  |
+| [More](https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [More](https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8) | 4:46 | 2022-12-09 | 2023-08-20 |
 | [Mother](https://open.spotify.com/track/6YYInRSnBw8cbEx9sN1ocI) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Don't Let The Ink Dry](https://open.spotify.com/album/1ceVlojqwgJjJUQFia6k16) | 3:15 | 2022-04-13 | 2022-07-29 |
 | [My Blue Suit](https://open.spotify.com/track/4AeMm4h6EIiVDBVgzfE2Qf) | [Matt Sweeney](https://open.spotify.com/artist/6IpGCPfdHtfNZwSGihxXSj), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [My Blue Suit](https://open.spotify.com/album/417TS9g3Cjst35yPEMSJph) | 2:36 | 2022-01-21 | 2022-07-28 |
 | [My Day \(feat\. Alenni\) \(Cordova Session\)](https://open.spotify.com/track/1zxHV6rvRYw8TOO7DequN7) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q), [Alenni](https://open.spotify.com/artist/4H9dYNlHz7Qz20rAh4UscB) | [My Day / What the Hell is Going On? \(Cordova Sessions\)](https://open.spotify.com/album/2v4porMNwSQodSEYmiopZE) | 3:06 | 2022-04-13 | 2022-07-29 |
@@ -248,6 +249,7 @@
 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 | 2022-04-29 | 2023-08-13 |
 | [Oh Canada](https://open.spotify.com/track/7hQtE18rdFeXhSVhF62CXv) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI) | 4:47 | 2022-04-13 | 2022-07-29 |
 | [Oh Canada](https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:47 | 2022-04-29 |  |
+| [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 | 2023-08-18 |  |
 | [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 | 2022-01-21 | 2023-08-19 |
 | [One More Hour](https://open.spotify.com/track/09XOlLHpRhRSuI1plPFFuc) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:43 | 2022-01-21 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 | 2023-02-17 |  |

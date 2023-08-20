@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-319 songs - 1 day 3 hr 32 min
+320 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [KIDS](https://open.spotify.com/track/4Io7cOXbdkbFBXlPD79IjX) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [KIDS](https://open.spotify.com/album/7D98JwctKq2YRCuYXyEjql) | 2:48 | 2023-03-21 | 2023-04-09 |
 | [Kurai](https://open.spotify.com/track/6cNSxZaBUwojTM7Ffx4IR9) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Kurai](https://open.spotify.com/album/1pH9PvhnJlKqViwecG48Zk) | 2:52 | 2023-06-09 |  |
 | [La Niña De La Aldea \- widerberg Remix](https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt), [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Maya!](https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou) | 4:46 | 2023-03-21 | 2023-06-14 |
-| [Laminar \- Moonbootica Remix](https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Laminar \(Moonbootica Remix\)](https://open.spotify.com/album/4yED6qv5FOnQuqw7bmmPPD) | 6:35 | 2023-06-16 |  |
+| [Laminar \- Moonbootica Remix](https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Laminar \(Moonbootica Remix\)](https://open.spotify.com/album/4yED6qv5FOnQuqw7bmmPPD) | 6:35 | 2023-06-16 | 2023-08-20 |
 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 | 2022-11-23 |  |
 | [Last Call](https://open.spotify.com/track/3cyzzLSYKLoaYv1xt2asZJ) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/0kbgja4YAnLwNeGc8THZ75) | 6:55 | 2023-02-10 | 2023-02-16 |
 | [Last Call](https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR) | 6:55 | 2023-02-10 | 2023-04-10 |
@@ -195,6 +195,7 @@
 | [On My Knees \- Cassian Remix](https://open.spotify.com/track/1CSpqWhM6rbOvA268uT9jh) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [On My Knees \(Cassian Remix\)](https://open.spotify.com/album/45YkAIprd06F6G1zKJiJ4B) | 5:48 | 2022-12-28 | 2023-01-06 |
 | [One](https://open.spotify.com/track/7iOicmTfgUU7nx05MdwjNc) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Reverse Affection](https://open.spotify.com/album/1qEHygPuXMc1JsjXWHGo1F) | 7:29 | 2023-04-07 | 2023-04-29 |
 | [One More Fluorescent Rush](https://open.spotify.com/track/0oHp0oW3RhkwBuNSDFY1Jq) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 013](https://open.spotify.com/album/34ARyooCzTJw3YydlcqBiW) | 6:27 | 2022-11-23 | 2023-02-04 |
+| [Onyx \- Radio Edit](https://open.spotify.com/track/6Vwgdgx220zQqVbinyFX4G) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Onyx \(Radio Edit\)](https://open.spotify.com/album/72BtSioS5oDhdOIJpOcgjR) | 3:55 | 2023-08-18 |  |
 | [Optical](https://open.spotify.com/track/6Y5EdBwTFQM8clidhhzjGt) | [Frankey & Sandrino](https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk) | [Optical](https://open.spotify.com/album/5Sc6zAek1TEUL1h2cCXJjG) | 8:05 | 2022-11-24 | 2022-11-28 |
 | [Origin](https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Origin](https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1) | 7:40 | 2022-11-23 | 2023-04-29 |
 | [Otaku](https://open.spotify.com/track/2pKqAIkPQraNbuL0quBuPo) | [Nure](https://open.spotify.com/artist/4zsl085OD62z4Pyc7JPhUq) | [Otaku](https://open.spotify.com/album/4v4qIlqoXLTX1CyIvdtZaU) | 6:12 | 2022-12-06 | 2023-02-04 |

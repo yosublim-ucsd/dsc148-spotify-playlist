@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 134896,
       "name": "Akropol",
       "url": "https://open.spotify.com/track/62CjIeDBUEjvWp4PUuUCAR"
@@ -4278,7 +4278,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 182149,
       "name": "Caf\u00e9 de Paris",
       "url": "https://open.spotify.com/track/15MCdPISBROidl1RLTF6Jr"
@@ -6138,6 +6138,24 @@
       "duration_ms": 149508,
       "name": "Dach",
       "url": "https://open.spotify.com/track/1ryBtjEDxoMI1YsHzJ3zRw"
+    },
+    {
+      "album": {
+        "name": "DAJ SPOK\u00d3J",
+        "url": "https://open.spotify.com/album/1Vsxq32OVTwfCmWYSLM2Z4"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "DAJ SPOK\u00d3J",
+      "url": "https://open.spotify.com/track/6IYaE9xVoGctAwPf60m1CP"
     },
     {
       "album": {
@@ -14673,6 +14691,36 @@
     },
     {
       "album": {
+        "name": "Lustro",
+        "url": "https://open.spotify.com/album/1vOpHLnuZtKDrAvARaft9Q"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        },
+        {
+          "name": "Hotel Torino",
+          "url": "https://open.spotify.com/artist/0JJmkwOSEGhFj7sLL3AYXN"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162833,
+      "name": "Lustro",
+      "url": "https://open.spotify.com/track/3WX6nwhznaVTD9CazfMV4F"
+    },
+    {
+      "album": {
         "name": "Tarcho Terror",
         "url": "https://open.spotify.com/album/4vpuz19etWHFtiImSCRMSe"
       },
@@ -14864,7 +14912,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 189295,
       "name": "Malibu Barbie",
       "url": "https://open.spotify.com/track/09bXpqLbPGZum6I4lDcnMX"
@@ -17662,7 +17710,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 250868,
       "name": "Nie musz\u0119",
       "url": "https://open.spotify.com/track/2WLHFQiw1gwZg1DS1eycNn"
@@ -23204,7 +23252,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "SHADOWBAN",
       "url": "https://open.spotify.com/track/2tVaka4Ev4YRK7HgIcxLow"
@@ -23524,7 +23572,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 240000,
       "name": "skanah",
       "url": "https://open.spotify.com/track/1rhXYfDVG8XqwjDZxJYICL"
@@ -28383,6 +28431,28 @@
     },
     {
       "album": {
+        "name": "You Can\u2019t Sit With Us",
+        "url": "https://open.spotify.com/album/21QUlOgsmc5sQtewNj7iuZ"
+      },
+      "artists": [
+        {
+          "name": "Honorata Skarbek",
+          "url": "https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "You Can\u2019t Sit With Us",
+      "url": "https://open.spotify.com/track/7tfKEvbgjUEfcCf0c8nr2f"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -28482,6 +28552,24 @@
       "duration_ms": 198413,
       "name": "Z kopyta kulig rwie",
       "url": "https://open.spotify.com/track/2g59LWL5y0BuPsyJZQTubb"
+    },
+    {
+      "album": {
+        "name": "Z Tob\u0105 na chacie",
+        "url": "https://open.spotify.com/album/1n646rZ9IKq3kJeUZoCvsd"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184752,
+      "name": "Z Tob\u0105 na chacie",
+      "url": "https://open.spotify.com/track/3BqdgVwVeLA0NajUUFVo5h"
     },
     {
       "album": {

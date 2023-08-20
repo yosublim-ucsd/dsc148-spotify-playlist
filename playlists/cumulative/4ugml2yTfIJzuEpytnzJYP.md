@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-228 songs - 14 hr 32 min
+232 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [can't seem to](https://open.spotify.com/track/0p5tCrpBT4WLfwQ2lLMXGb) | [s\. lyre](https://open.spotify.com/artist/0Ic21br4X3YoE8wZgwTK0f) | [can't seem to](https://open.spotify.com/album/3PEZDg9PyJcJg3Dir5Hlu5) | 2:29 | 2022-04-04 | 2022-08-23 |
 | [Cardboard](https://open.spotify.com/track/5iivvMQlvnPGg20mCXxEQC) | [Toadface](https://open.spotify.com/artist/5lsvMPwR3bjyZblIe3h9EK) | [Cardboard](https://open.spotify.com/album/2Rn1nIoqlb75eLUNh30f0w) | 3:47 | 2022-10-14 | 2022-10-17 |
 | [Careless](https://open.spotify.com/track/55EsRl8Q16Q73P74ymPoG3) | [UNKNWN](https://open.spotify.com/artist/5wZEqM64b8lzsEvDTPclv9) | [Mysterium](https://open.spotify.com/album/2YdWrIM0TS7rHmcK2Gul2i) | 2:40 | 2022-02-11 | 2022-04-16 |
+| [Celestial Beings \- Halftime Version](https://open.spotify.com/track/14RFRGAaYuB332FMjfvLPR) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve), [yunis](https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g) | [Celestial Beings](https://open.spotify.com/album/35uN73pnha77AWEFb0iGQv) | 4:25 | 2023-08-12 |  |
 | [CHAMELEON \- Saint Sinner Peak Remix](https://open.spotify.com/track/4M30jQ5ys2qHwYKDV4kV8P) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [CHAMELEON \- Remixes](https://open.spotify.com/album/4p7TkKZy4dVg5KxxpFJr0H) | 4:44 | 2023-05-31 |  |
 | [Change of Pace](https://open.spotify.com/track/65zFynYpKoJtmCpjDtqv3S) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Ricochet](https://open.spotify.com/album/6RvWFOz4CH41Ka98jLXoge) | 3:56 | 2022-09-21 | 2022-10-01 |
 | [Charu](https://open.spotify.com/track/7zFSXAiV4pwPV7m6iFIYhI) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Charu](https://open.spotify.com/album/1ADKPhIEmCpWaXNeslYeFA) | 8:03 | 2023-06-19 | 2023-08-06 |
@@ -51,8 +52,9 @@
 | [Cruise Control](https://open.spotify.com/track/1SAv0E7nYW6hnP13HRWIFF) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [The Power of Sound EP](https://open.spotify.com/album/5g3x8ghArJk8epL0R5NWj4) | 4:06 | 2022-08-18 | 2022-10-16 |
 | [Daisy](https://open.spotify.com/track/6r5HkXJGRfCrbcdYMxGZhM) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Daisy](https://open.spotify.com/album/3oZ61a5CcnPYLkMFzCPKPO) | 3:13 | 2022-09-17 | 2022-10-17 |
 | [Dale](https://open.spotify.com/track/3ynNOKWGmuFQiMksRibJyF) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Dale](https://open.spotify.com/album/4UBgw4CAUuvngVEyYkHYi2) | 2:43 | 2022-10-14 | 2023-05-27 |
+| [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 | 2023-08-12 |  |
 | [Deep Space](https://open.spotify.com/track/3cawIjrVTGtkC5LOZpzriJ) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Deep Space](https://open.spotify.com/album/0eYxRzlzOOoG8c0RWI15LD) | 3:53 | 2022-10-14 | 2022-10-17 |
-| [Descendo](https://open.spotify.com/track/15Er0c4Xm78iNQFlwdjqpT) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Descendo](https://open.spotify.com/album/59XLR9a1Td8OmglEaj63hE) | 3:32 | 2023-08-04 |  |
+| [Descendo](https://open.spotify.com/track/15Er0c4Xm78iNQFlwdjqpT) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Descendo](https://open.spotify.com/album/59XLR9a1Td8OmglEaj63hE) | 3:32 | 2023-08-04 | 2023-08-20 |
 | [Diaspora](https://open.spotify.com/track/7McrPEp0uof7Xw6IlOFmGC) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur) | [20 Years of Muti](https://open.spotify.com/album/6tZifHF3s2qaqzlPLZ83Kg) | 4:08 | 2022-11-18 | 2023-05-27 |
 | [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 | 2022-09-23 | 2022-10-17 |
 | [DNA](https://open.spotify.com/track/6igOu1dKezn6cqJgAoXuAo) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet) | [HATCHED 051](https://open.spotify.com/album/39sdmhLnB00K0Qx22LCpMW) | 5:39 | 2022-04-15 | 2022-09-17 |
@@ -201,6 +203,7 @@
 | [TEK](https://open.spotify.com/track/3tezEIT5xK3CW8fjlSy4ak) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [TEK](https://open.spotify.com/album/7C2LDXd3UolHDXVnJE31NI) | 4:12 | 2022-09-30 | 2022-10-17 |
 | [Telling Me Nothing](https://open.spotify.com/track/4oZzKl23R31U9yhCtXaC7x) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Method Sound](https://open.spotify.com/artist/3bdo0nDKT9KoqHhmJiowqT), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [Stutter \- EP](https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ) | 5:08 | 2022-09-06 | 2022-09-17 |
 | [Temple](https://open.spotify.com/track/2ZJ2VCJFhddmJt7qeyzks8) | [Orenda](https://open.spotify.com/artist/5KMXkfwbgVv3YxCtjAJAoe) | [Temple](https://open.spotify.com/album/7f0pDI0VjnS74EJj2T4fIO) | 4:25 | 2022-08-05 | 2022-08-23 |
+| [Terminal](https://open.spotify.com/track/6rXDUd6W1hn1PAEluvtmgH) | [Dominus](https://open.spotify.com/artist/7FhIV59gJWqj0nK49jRsf1) | [Terminal](https://open.spotify.com/album/2xFoza0HkxWq2X69R4rJhr) | 4:19 | 2023-08-15 |  |
 | [Tethered](https://open.spotify.com/track/2CA91Vbn86H0jDCibPAAiE) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD) | [Tethered](https://open.spotify.com/album/6096W6yEygXMAOy7Zm34eU) | 3:41 | 2021-10-15 | 2022-04-16 |
 | [The Covenant](https://open.spotify.com/track/25kdk6NgrmOPuPJsnqpiKh) | [Among The Mist](https://open.spotify.com/artist/2FBfN2vzv6bXlLSP5UTJBq) | [The Covenant](https://open.spotify.com/album/4s1dulywBvqEnxwZhVvMun) | 2:51 | 2022-01-22 | 2022-04-16 |
 | [The Eightfold Path](https://open.spotify.com/track/44RsnczsfE0fMty7UATC3z) | [Zen Selekta](https://open.spotify.com/artist/35U1RcBFdxNezzySMgVVd3), [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [IKIGAI](https://open.spotify.com/album/0X6ob5EVI8yI9tBMKE5byR) | 5:07 | 2023-02-20 | 2023-05-27 |
@@ -236,5 +239,6 @@
 | [Withered](https://open.spotify.com/track/7867Kggy532B4wD6OQAoMu) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Withered](https://open.spotify.com/album/0lIYFvhXYNhg66VNd23BDi) | 3:25 | 2022-04-15 | 2022-08-23 |
 | [Xihuitl](https://open.spotify.com/track/2ZYb1WBluBC3dFMWVDdFyW) | [INTRASoL](https://open.spotify.com/artist/1gWSlynXtpMIR4V25NG5Nc) | [Caldera](https://open.spotify.com/album/0A78Is5hxV6Bn2IQwARtYP) | 2:57 | 2022-02-06 | 2022-03-10 |
 | [You \- Original Mix](https://open.spotify.com/track/4R6Q146obmbOCTcGS7yrqZ) | [David Starfire](https://open.spotify.com/artist/6nhEcP9sIqaoQ6hM5R55IB), [Oriel](https://open.spotify.com/artist/3BSLNWpFU1TCnEC1OcYLSS) | [You](https://open.spotify.com/album/02pWS51vtFYL4yqJa7gDQd) | 3:49 | 2023-04-19 | 2023-05-10 |
+| [your armour will not protect me](https://open.spotify.com/track/6kV8M2ztarCdw9w872mj8v) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [your armour will not protect me](https://open.spotify.com/album/7HrT8nJ0eOyoqrqveBxVdn) | 2:10 | 2023-08-12 |  |
 
 \*This playlist was first scraped on 2021-11-28. Prior content cannot be recovered.

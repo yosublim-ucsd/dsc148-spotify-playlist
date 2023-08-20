@@ -4,7 +4,7 @@
 
 > Lo más pegao en Dembow\. <br/>Portada: Jey One
 
-297 songs - 15 hr 9 min
+298 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [No Smoking](https://open.spotify.com/track/4iKOxLji5LlmjkdbXHmMhB) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [No Smoking](https://open.spotify.com/album/3j77cWmV5HsKzHuCXaSkoW) | 2:24 | 2023-02-09 | 2023-05-27 |
 | [No Tengo Para](https://open.spotify.com/track/5gcD6WgSnQqzRzgspwLOi8) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [No Tengo Para](https://open.spotify.com/album/7Jjix890H2bu95v5hthu2z) | 3:34 | 2022-03-18 | 2023-06-28 |
 | [Normalito \- Remix](https://open.spotify.com/track/5ofy5iScjvOAImTRaIysmC) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Jonatan Burlon](https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM) | [Normalito](https://open.spotify.com/album/0uAEvntRHxLt33WKH7JDle) | 3:38 | 2022-03-18 | 2023-03-11 |
-| [Oh Oh Oh \- Veo Veo](https://open.spotify.com/track/29HgbakZR31tVTvmXGPuTs) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Oh Oh Oh \(Veo Veo\)](https://open.spotify.com/album/1eh0kRo3VgdXNmcg9uBqwi) | 2:14 | 2023-05-26 |  |
+| [Oh Oh Oh \(Veo Veo\)](https://open.spotify.com/track/3BZqmfDUW11Gkj0UQeLFQa) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Oh Oh Oh \(Veo Veo\)](https://open.spotify.com/album/4QBGxPesaLSbRveKK7GCWe) | 2:13 | 2023-06-01 |  |
+| [Oh Oh Oh \- Veo Veo](https://open.spotify.com/track/29HgbakZR31tVTvmXGPuTs) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Oh Oh Oh \(Veo Veo\)](https://open.spotify.com/album/1eh0kRo3VgdXNmcg9uBqwi) | 2:14 | 2023-05-26 | 2023-08-20 |
 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 | 2023-02-24 |  |
 | [Onana](https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Onana](https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP) | 2:08 | 2023-05-26 |  |
 | [Opa Opa](https://open.spotify.com/track/3THUiXEUnOUTNauOzbKWKY) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [El Chuky De Lewa](https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb) | [Opa Opa](https://open.spotify.com/album/1m3dR761f3iFOqdhEY643t) | 2:24 | 2022-03-18 | 2023-03-12 |

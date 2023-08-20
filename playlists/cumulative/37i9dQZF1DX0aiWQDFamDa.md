@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-280 songs - 23 hr 8 min
+281 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | ['Round Midnight \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:43 | 2022-05-18 | 2022-09-17 |
 | [A Certain Sadness](https://open.spotify.com/track/3rNEyZg9zAnT5djNUpsUSc) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [A Certain Sadness](https://open.spotify.com/album/432pjknSR4Z25xrKOo7ZNo) | 5:39 | 2022-05-18 | 2022-08-13 |
 | [A Few Odd Jobs](https://open.spotify.com/track/3iqhWCI6anGEfsGuHgTOCm) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Few Odd Jobs](https://open.spotify.com/album/32mipwmPBIaktTnArY4kJt) | 3:12 | 2022-11-10 | 2022-12-24 |
+| [A Glimpse Of The Future](https://open.spotify.com/track/6D3Imkm2BqdYhn1RoFVGmY) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [A Glimpse Of The Future](https://open.spotify.com/album/5qXuFVg88DnAFDpYtl9A9S) | 2:29 | 2023-08-17 |  |
 | [A Hero Lives Another Day](https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0) | [Claudia Torrek](https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ) | [A Hero Lives Another Day](https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n) | 3:06 | 2022-11-10 |  |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [A Hundred Dreams from Now](https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L) | 3:26 | 2022-05-18 | 2022-07-29 |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Presenting Ray Bryant](https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq) | 3:26 | 2022-06-29 |  |
@@ -35,7 +36,7 @@
 | [Black Coffee](https://open.spotify.com/track/2Rejh16NV462TwiGGf5YNL) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald \- First Lady Of Song](https://open.spotify.com/album/7n5UUn75pwadVsF2nujN0V) | 3:30 | 2022-05-18 | 2022-08-27 |
 | [Black Forest Rose](https://open.spotify.com/track/46KhjnbImVzXTidxnZeqzH) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Black Forest Rose](https://open.spotify.com/album/6uCZP5InNgoKOxh8WPQkYz) | 4:29 | 2022-10-13 | 2023-01-27 |
 | [Blackberry Winter \- Take 9](https://open.spotify.com/track/58TYwpwO71uvA0QFOXHqhX) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Bop\-Be](https://open.spotify.com/album/7DM12JfJHYoxEVUUZkkHCC) | 3:37 | 2022-05-18 | 2022-09-23 |
-| [Blame It on My Youth](https://open.spotify.com/track/1i6PhtGyfiWmnDg6BBaigZ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:17 | 2022-05-18 |  |
+| [Blame It on My Youth](https://open.spotify.com/track/1i6PhtGyfiWmnDg6BBaigZ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:17 | 2022-05-18 | 2023-08-20 |
 | [Blue And Sentimental](https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Count Basie](https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x) | 2:26 | 2022-05-18 | 2022-09-22 |
 | [Blue In Green](https://open.spotify.com/track/0xze9SRrm4Ul5LA4N1MtcE) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Take This](https://open.spotify.com/album/4RI8UIrsKK3pODBLuYJo9r) | 2:59 | 2022-06-29 | 2022-09-23 |
 | [Blue In Green](https://open.spotify.com/track/4B4B5pOvFvjYYNqulRp5rR) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Take This](https://open.spotify.com/album/2jZzBodrUR86EwaUNSBuqv) | 2:59 | 2022-05-18 | 2022-07-29 |

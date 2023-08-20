@@ -4486,6 +4486,32 @@
     {
       "album": {
         "name": "Oh Oh Oh (Veo Veo)",
+        "url": "https://open.spotify.com/album/4QBGxPesaLSbRveKK7GCWe"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        },
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        },
+        {
+          "name": "B One El Productor De Oro",
+          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133968,
+      "name": "Oh Oh Oh (Veo Veo)",
+      "url": "https://open.spotify.com/track/3BZqmfDUW11Gkj0UQeLFQa"
+    },
+    {
+      "album": {
+        "name": "Oh Oh Oh (Veo Veo)",
         "url": "https://open.spotify.com/album/1eh0kRo3VgdXNmcg9uBqwi"
       },
       "artists": [
@@ -4504,7 +4530,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 134529,
       "name": "Oh Oh Oh - Veo Veo",
       "url": "https://open.spotify.com/track/29HgbakZR31tVTvmXGPuTs"

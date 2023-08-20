@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Helen Ochoa",
-  "num_followers": 502517,
+  "num_followers": 502521,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjQzOGM4NzVlZTYzYTdjMDljNDdhZTNjMTc2OWM0ZmIwN2Y4M2Qz",
+  "snapshot_id": "MCxlZTBiMzc1YzNlMDA5ZDU0NDIyN2FhNGQ5ZmU3Mjc4NWRiMWFmYjRj",
   "tracks": [
     {
       "added_at": "2023-04-28 19:30:14",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-04-28 19:30:14",
       "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+    },
+    {
+      "added_at": "2023-04-28 19:30:14",
+      "album": {
         "name": "Ese es el problema",
         "url": "https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2023-04-28 19:30:14",
       "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+        "name": "Tres Veces Te Enga\u00f1e",
+        "url": "https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw"
       },
       "artists": [
         {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+          "name": "Sarah La Morena",
+          "url": "https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+      "duration_ms": 215999,
+      "name": "Tres Veces Te Enga\u00f1e",
+      "url": "https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz"
     },
     {
       "added_at": "2023-04-28 19:30:14",
@@ -571,22 +587,6 @@
       "duration_ms": 198000,
       "name": "Cu\u00e9ntenle Mentiras",
       "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
-    },
-    {
-      "added_at": "2023-04-28 19:30:14",
-      "album": {
-        "name": "Tres Veces Te Enga\u00f1e",
-        "url": "https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw"
-      },
-      "artists": [
-        {
-          "name": "Sarah La Morena",
-          "url": "https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Tres Veces Te Enga\u00f1e",
-      "url": "https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz"
     },
     {
       "added_at": "2023-04-28 19:30:14",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-04-28 19:30:14",
       "album": {
-        "name": "San Mike",
-        "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
+        "name": "Por Confiar En El Amor",
+        "url": "https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6"
       },
       "artists": [
         {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+          "name": "Alessa",
+          "url": "https://open.spotify.com/artist/61HwcQ9XsPkPsixuKneV5T"
         }
       ],
-      "duration_ms": 171250,
-      "name": "San Mike",
-      "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
+      "duration_ms": 166763,
+      "name": "Por Confiar En El Amor",
+      "url": "https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn"
     },
     {
       "added_at": "2023-04-28 19:30:14",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-04-28 19:30:14",
       "album": {
+        "name": "San Mike",
+        "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "San Mike",
+      "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
+    },
+    {
+      "added_at": "2023-04-28 19:30:14",
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 117429,
       "name": "Soy Mala",
       "url": "https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB"
-    },
-    {
-      "added_at": "2023-04-28 19:30:14",
-      "album": {
-        "name": "Por Confiar En El Amor",
-        "url": "https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6"
-      },
-      "artists": [
-        {
-          "name": "Alessa",
-          "url": "https://open.spotify.com/artist/61HwcQ9XsPkPsixuKneV5T"
-        }
-      ],
-      "duration_ms": 166763,
-      "name": "Por Confiar En El Amor",
-      "url": "https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn"
     },
     {
       "added_at": "2023-04-28 19:30:14",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-28 19:30:14",
       "album": {
-        "name": "Fayer",
-        "url": "https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 184911,
-      "name": "Fayer",
-      "url": "https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn"
-    },
-    {
-      "added_at": "2023-04-28 19:30:14",
-      "album": {
         "name": "Se Me Olvid\u00f3 Otra Vez",
         "url": "https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f"
       },
@@ -1051,22 +1035,6 @@
     {
       "added_at": "2023-04-28 19:30:14",
       "album": {
-        "name": "G. Blanco",
-        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
-      },
-      "artists": [
-        {
-          "name": "GiGi",
-          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "G. Blanco",
-      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
-    },
-    {
-      "added_at": "2023-04-28 19:30:14",
-      "album": {
         "name": "En Peligro De Extinci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD"
       },
@@ -1079,6 +1047,38 @@
       "duration_ms": 212280,
       "name": "En Peligro De Extinci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2"
+    },
+    {
+      "added_at": "2023-04-28 19:30:14",
+      "album": {
+        "name": "Fayer",
+        "url": "https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 184911,
+      "name": "Fayer",
+      "url": "https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn"
+    },
+    {
+      "added_at": "2023-04-28 19:30:14",
+      "album": {
+        "name": "G. Blanco",
+        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
+      },
+      "artists": [
+        {
+          "name": "GiGi",
+          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "G. Blanco",
+      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
     },
     {
       "added_at": "2023-04-28 19:30:14",

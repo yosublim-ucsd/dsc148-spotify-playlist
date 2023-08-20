@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rGPDxQsF1V.md) - [plain]
 
 > <a href="spotify:playlist:37i9dQZF1DXayDMsJG9ZBv">Hot Hits Japan</a>、もしくは<a href="spotify:playlist:37i9dQZF1DXafb0IuPwJyF">Tokyo Super Hits</a>に10週以上リスト・インしたメガヒット曲をひとつのプレイリストに。Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,937 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,951 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rGPDxQsF1V.md) - [plain]
 | 99 | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \- From Venom: Let There Be Carnage](https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \[From Venom: Let There Be Carnage\]](https://open.spotify.com/album/2ZaFqYD9a3U6qJhyS2LDRf) | 4:17 |
 | 100 | [分かってないよ](https://open.spotify.com/track/5wosJVYKzl3g7XElM98m23) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [分かってないよ](https://open.spotify.com/album/3QI0sONMNyoJT96dweJ5EY) | 3:29 |
 
-Snapshot ID: `MCw1MTdjYmQ4ODkzZjNiNGNjMjU1Y2FkZmQ2YmRmYjljZDVkYTM2NTgw`
+Snapshot ID: `MCxlNGVjNGFmZDIyYWE2Mzc1ZDhlOGRiZmI1YjgyNDBjMDk0Yjg3N2Q4`

@@ -4,7 +4,7 @@
 
 > New indie driving the current\. Cover: Joy Oladokun
 
-354 songs - 18 hr 37 min
+355 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [Playlist](https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Playlist](https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA) | 2:50 | 2022-03-14 | 2022-11-12 |
 | [Plz](https://open.spotify.com/track/5LpFrJLrMX5yHgqlICQm00) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [Plz](https://open.spotify.com/album/2EE7hekD46YWmkblAhC0qZ) | 2:37 | 2022-02-18 | 2022-05-21 |
 | [Poison Ivy](https://open.spotify.com/track/2Qq4GCcB81IGr3krVQW84z) | [Elton Aura](https://open.spotify.com/artist/4O24XfCPqIJQUMXOJ2F0ni) | [Vert\(EGO\)](https://open.spotify.com/album/76bLAVnxfGADpQMjchrw5Z) | 2:04 | 2022-03-04 | 2022-11-12 |
-| [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-02-18 |  |
+| [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-02-18 | 2023-08-20 |
+| [Postman](https://open.spotify.com/track/4Jz1Zk4OQrKPVabWjjUGEZ) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 2:40 | 2023-02-17 |  |
 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 | 2022-06-17 | 2023-06-08 |
 | [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 | 2023-02-03 |  |
 | [Pretend Friend](https://open.spotify.com/track/4fA55dgI6HdqM7FzQNhjMQ) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Boy Toy](https://open.spotify.com/album/1wBk0x6HFBHRvIH42qyhBE) | 2:22 | 2023-06-16 |  |

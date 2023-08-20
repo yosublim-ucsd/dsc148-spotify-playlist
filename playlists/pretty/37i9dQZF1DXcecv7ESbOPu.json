@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag! Lyssna p\u00e5 veckans hetaste nya releaser i New Music Friday!",
-  "num_followers": 199244,
+  "num_followers": 199263,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzIwZjI1ZjA1YmM3ZDRkOGZkMzlhN2Y1MjRhY2RhNGZkYmNiZjZl",
+  "snapshot_id": "MCwyNDY0ODQ0NWY2ODcxOGZjNmNiMWU5MzNlNGUyMWZiYTRjZmFmY2M5",
   "tracks": [
     {
       "added_at": "2023-08-17 22:01:51",
@@ -1455,7 +1455,7 @@
     {
       "added_at": "2023-08-17 22:01:51",
       "album": {
-        "name": "The Craziest Thing (Lost Boy Remix) [Official Song European Table Tennis Championship 2023]",
+        "name": "The Craziest Thing (Official Song European Table Tennis Championship 2023)",
         "url": "https://open.spotify.com/album/2uLuplKxpnZaXd9rdG2Yq0"
       },
       "artists": [
@@ -1470,6 +1470,14 @@
         {
           "name": "Per Gessle",
           "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "Helena Josefsson",
+          "url": "https://open.spotify.com/artist/01o8zdH2NoWSZ4CEsYS44r"
+        },
+        {
+          "name": "Dea Norberg",
+          "url": "https://open.spotify.com/artist/1s2NADRmVmkEjLZlE6vHvE"
         },
         {
           "name": "Lost Boy",
@@ -1490,10 +1498,6 @@
         {
           "name": "Magnus Carlson",
           "url": "https://open.spotify.com/artist/4Ag5mrJhXH238pExZYJcaM"
-        },
-        {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
         }
       ],
       "duration_ms": 274506,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 7 hr 6 min
+128 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [warmer](https://open.spotify.com/track/5j1sD9Y23NBdidWUKx22Ss) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:14 | 2021-12-27 |  |
 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 | 2023-05-29 |  |
 | [What Is It About Me](https://open.spotify.com/track/1EAqfHW8G2gmziqhUkrNqr) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [What Is It About Me](https://open.spotify.com/album/0ocBsHlaHYLCfMyYbf0OnN) | 3:34 | 2023-04-02 | 2023-05-30 |
+| [What You Wanna Try](https://open.spotify.com/track/526fD9LiAEi3KKvhhYfWmm) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 2:39 | 2023-08-19 |  |
 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 | 2022-10-13 |  |
 | [World We Created](https://open.spotify.com/track/330XRmK286D8DTBlhtuZn5) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/6A4gPuP784SSVFz0Hwiom3) | 3:13 | 2023-02-04 | 2023-02-22 |
 | [World We Created](https://open.spotify.com/track/51Ful1v7b81FchIFFTAQ05) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:13 | 2021-12-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,256 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,295 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 9 | [Donde Estas, Yolanda?](https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 3:23 |
 | 10 | [Guacamole](https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [The Nada](https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX) | 5:00 |
 | 11 | [Kind Of Latin Rhythm](https://open.spotify.com/track/0X95e6wFLtAjJ2NikowHfr) | [The Juju Orchestra](https://open.spotify.com/artist/2QZdpDHfCJCFv1BE1GhL8h) | [Bossa Nova Is Not A Crime](https://open.spotify.com/album/0kYW9VUWVYAdLYCxAIwUEG) | 7:21 |
-| 12 | [Por Las Calles De México](https://open.spotify.com/track/2mPNAaBFLHSYsTm5dBLVrE) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 |
-| 13 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 |
+| 12 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 |
+| 13 | [Por Las Calles De México](https://open.spotify.com/track/2mPNAaBFLHSYsTm5dBLVrE) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 |
 | 14 | [Fue en un Cabaret](https://open.spotify.com/track/4U1aThe8Ba2JGO44Q1zxs0) | [La Santanera](https://open.spotify.com/artist/4iVmrWbihNo3PheQM5ZHQl) | [Canciones y Mujeres de Cabaret](https://open.spotify.com/album/7z0kpEqnMoouMBd0PBC07D) | 3:11 |
 | 15 | [Palmera](https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [RCA 100 Años De Musica](https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh) | 1:42 |
 | 16 | [Amado Mio](https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 4:49 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 30 | [Mi Swing es Tropical \- Zeb Remix](https://open.spotify.com/track/46VTfAdEu33535BxYyHkS4) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Zeb](https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9) | [Endangered Species Remixed](https://open.spotify.com/album/7FDfzktt4wIcYv98QabmFk) | 4:20 |
 | 31 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 |
 | 32 | [Cempasúchil](https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja de Música \(Edición Especial\)](https://open.spotify.com/album/75lParfrGxiexJOFlDh94X) | 4:14 |
-| 33 | [Aguacate](https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E) | 3:08 |
-| 34 | [Floricanto](https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:10 |
+| 33 | [Floricanto](https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:10 |
+| 34 | [Aguacate](https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E) | 3:08 |
 | 35 | [Bandolero](https://open.spotify.com/track/3pZ7P4OtLKFluIWakhmvE1) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/1ZtzVmhClscBsVd1pvpxXJ) | 4:21 |
 | 36 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 |
 | 37 | [Coffee Bean / Calabash Annie](https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Soul Of The Drums](https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0) | 2:15 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 50 | [Me Voy Pa'l Pueblo](https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt) | [Los Super Seven](https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu) | [Canto](https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3) | 5:24 |
 | 51 | [Paga la Cuenta Sinverguenza](https://open.spotify.com/track/56PULupF5Gt50FyostKuMd) | [Manzanita](https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G) | [The Roots of Chicha 2](https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI) | 3:09 |
 | 52 | [Paleta](https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4) | 2:38 |
-| 53 | [Merecumbé del cantinero](https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 |
-| 54 | [Un Derecho de Nacimiento](https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0) | [Banda Filarmonica del CECAM](https://open.spotify.com/artist/2OXqK0Ec09b6ppw51V90oP), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Xëëw \(Volumen 1\)](https://open.spotify.com/album/1FLTcl9FuzsTLe70AnhSVf) | 5:38 |
+| 53 | [Un Derecho de Nacimiento](https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0) | [Banda Filarmonica del CECAM](https://open.spotify.com/artist/2OXqK0Ec09b6ppw51V90oP), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Xëëw \(Volumen 1\)](https://open.spotify.com/album/1FLTcl9FuzsTLe70AnhSVf) | 5:38 |
+| 54 | [Merecumbé del cantinero](https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 |
 | 55 | [Agüita de Manantial](https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 4:06 |
 | 56 | [Señor Presidente](https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [No Tiene Fin](https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox) | 2:47 |
 | 57 | [Chicharrones](https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Guantanamera \- The Essential Album](https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU) | 4:30 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 59 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 |
 | 60 | [Guantanamera](https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 2:43 |
 | 61 | [A Su Merced](https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ) | [Liliana Felipe](https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV) | [Elotitos Tiernos](https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt) | 6:32 |
-| 62 | [Cajita De Barro](https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:39 |
-| 63 | [Corazon](https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [This Time](https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9) | 4:05 |
+| 62 | [Corazon](https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [This Time](https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9) | 4:05 |
+| 63 | [Cajita De Barro](https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:39 |
 | 64 | [Café Con Pan](https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 4:25 |
 | 65 | [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 |
 | 66 | [Watermelon Man](https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 99 | [Oracion Caribe](https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 3:01 |
 | 100 | [Los tamalitos de Olga \- Remastered](https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2) | [Abelardo Barroso](https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk) | [Guajira Guantanamera \(Remastered\)](https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID) | 2:17 |
 
-Snapshot ID: `MCwwYTI1MGQ5MDdjZDE4NjY4NzZhYzU2NWYyNTgxZDc1OTcwNzk0NmUy`
+Snapshot ID: `MCwwODNlOWRlMDE0YTZiNzdlY2UyYjIwM2RiNGUzMmEzZWEyNjZiNThk`

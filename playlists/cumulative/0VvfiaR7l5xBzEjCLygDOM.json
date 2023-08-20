@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242466,
+      "name": "The Inevitable Return Of The Great White Dope",
+      "url": "https://open.spotify.com/track/3IUl8yxy7IZFEHwmdjZNvk"
+    },
+    {
+      "album": {
         "name": "Tubthumper",
         "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
       },

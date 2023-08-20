@@ -4,7 +4,7 @@
 
 > 
 
-343 songs - 18 hr 14 min
+344 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Alice In Wonderland](https://open.spotify.com/track/4UJzmVIGyu3k4exTbjk5Yd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Alice In Wonderland](https://open.spotify.com/album/16Jiob3eM4vh7LSbXxyJoZ) | 4:58 | 2023-06-08 | 2023-08-13 |
 | [All Alone](https://open.spotify.com/track/3I5wdCgOJ0q3dBly0fyErW) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:26 | 2023-06-08 | 2023-08-14 |
 | [All Night](https://open.spotify.com/track/04OpLaQ1VBNAxdRZu43uWr) | [Joel Owen](https://open.spotify.com/artist/0ESPKqwnmULAnGy14BSiZJ) | [All Night](https://open.spotify.com/album/28SuWLMqEdXI3GWrUoFA5R) | 2:58 | 2023-08-11 |  |
+| [All The Things You Are](https://open.spotify.com/track/5fPAnIAbiZlIeBtEjJ30yU) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [All The Things You Are](https://open.spotify.com/album/7kpHuQEwvXqC0bVVmax5TU) | 2:54 | 2023-08-17 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/60jR3qwZHx1dJGppF3i7Jo) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Almost Like Being In Love](https://open.spotify.com/album/3YIiPDNnkO0T65LtjWN4wB) | 3:36 | 2023-03-23 |  |
 | [Alone Time Flies](https://open.spotify.com/track/5zHS7Es44XkrYt76lKxGed) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Alone Time Flies](https://open.spotify.com/album/4WBL1pkmwJa8oHx0Xg91oj) | 4:32 | 2023-06-08 | 2023-08-13 |
 | [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-04-20 |  |
@@ -121,7 +122,7 @@
 | [How was I Supposed to Know](https://open.spotify.com/track/6Yk3WkfnqBFwOOEE4bZI4o) | [Renata Ortega](https://open.spotify.com/artist/0kXOTXlVJrgoKHcxVoiJww) | [How was I Supposed to Know](https://open.spotify.com/album/6T7tWMoiPu4T3fk78yG6Ko) | 2:26 | 2023-06-08 | 2023-08-14 |
 | [I Can't Get Started](https://open.spotify.com/track/2DgLCrnfPxVAvFnMxYTuuM) | [Sive Holmes](https://open.spotify.com/artist/1k2DVXf8G1sKF5n5d6qp5v) | [I Can't Get Started](https://open.spotify.com/album/393ECl3A8bhqZpmPoKOWTs) | 2:06 | 2023-03-23 |  |
 | [I Could Write A Book](https://open.spotify.com/track/66eaAKE675VWRnj8EVeDQk) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [I Could Write A Book](https://open.spotify.com/album/1Jn2DXdP0Ci1UBVjfFpZPF) | 3:16 | 2023-03-23 |  |
-| [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2023-06-08 |  |
+| [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2023-06-08 | 2023-08-20 |
 | [I Cover the Waterfront](https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:13 | 2023-03-23 |  |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/2aSIB1Y5AbVJloLKPlbUYa) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [I Didn't Know What Time It Was](https://open.spotify.com/album/1BN19g5cJZJQAfw5pRH0J1) | 2:38 | 2023-08-11 |  |
 | [I don’t need that](https://open.spotify.com/track/1TySgL1WjmOF5fObWRozz2) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I don’t need that](https://open.spotify.com/album/1mrDFWDe0JVQyqDqCE2USc) | 2:29 | 2023-03-23 |  |

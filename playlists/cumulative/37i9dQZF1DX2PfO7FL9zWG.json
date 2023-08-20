@@ -3977,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Know Your Mind",
+        "url": "https://open.spotify.com/album/0T1lAytyrT0Qkb7qfdQgaX"
+      },
+      "artists": [
+        {
+          "name": "Jon and Roy",
+          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202808,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/7vlCerwYf78YVK23WdN2qu"
+    },
+    {
+      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -4658,7 +4676,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"

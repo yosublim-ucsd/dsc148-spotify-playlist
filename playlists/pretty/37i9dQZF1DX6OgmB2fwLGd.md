@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: 2Rare
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,391,595 likes - 99 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,780 likes - 99 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 36 | [Just Like Me](https://open.spotify.com/track/4lcrZiMuwz0VWiwrrqGgOW) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Just Like Me](https://open.spotify.com/album/1sbizSerYAgDqpFUAgCTQP) | 2:05 |
 | 37 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
 | 38 | [Aint Nothing](https://open.spotify.com/track/6Q2Cec1drXDOqrTUyM1brP) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Aint Nothing](https://open.spotify.com/album/5odMnlD41r5v3vVWxe18kG) | 2:34 |
-| 39 | [Molli](https://open.spotify.com/track/1g7f2YPMMf97XlFHRQeoQC) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Molli](https://open.spotify.com/album/3UWV4LP7JeD4kHDnZ7xscc) | 2:04 |
+| 39 | [molli](https://open.spotify.com/track/1g7f2YPMMf97XlFHRQeoQC) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [molli](https://open.spotify.com/album/3UWV4LP7JeD4kHDnZ7xscc) | 2:04 |
 | 40 | [100 Bars](https://open.spotify.com/track/0yYYco9yk2nclC82ioryu8) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [6](https://open.spotify.com/album/4qSxDZrZjNNpDzNVHhkOQz) | 4:45 |
 | 41 | [NODA](https://open.spotify.com/track/67yPNZ1tsrQGbHvCs5m8Od) | [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [NODA](https://open.spotify.com/album/4DrrcT0x8ctTmOge6rgJTh) | 2:52 |
 | 42 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 98 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 |
 | 99 | [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 |
 
-Snapshot ID: `MCxhNDAxYmZlNmNlMTgwMjE4NmU1YmU0NmE5Nzg2NDMzNTUyNmUwOGVm`
+Snapshot ID: `MCxiNTFhNzczOWQzYzQ5YjhlMWNjZmMxZjI3N2IzN2ViYmNkNGNmYmMy`

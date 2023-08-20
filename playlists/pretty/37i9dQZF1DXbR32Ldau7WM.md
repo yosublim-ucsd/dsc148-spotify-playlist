@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: flumpool
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,052 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,195 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 59 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
 | 60 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 |
 
-Snapshot ID: `MCw5YzUyN2NlMDI0MGU5NTY0ODc2OTY4YWZmZjVkMTI2ZjNlNWNmNjBh`
+Snapshot ID: `MCwyODcxNDNiODEwYTY2NmQ4YTUzNDhkNTFhYmM1N2M3NDkwMGRhMDc3`

@@ -2721,6 +2721,28 @@
     },
     {
       "album": {
+        "name": "Ben Webster Meets Oscar Peterson",
+        "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 591440,
+      "name": "This Can't Be Love",
+      "url": "https://open.spotify.com/track/6SG0FTwgZa0dqDE010Jh1D"
+    },
+    {
+      "album": {
         "name": "Milestones of a Jazz Legend - Ben Webster, Vol. 2 (1957, 1959)",
         "url": "https://open.spotify.com/album/336zKOuYLlKKo9JIMDi4bP"
       },
@@ -2744,7 +2766,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 591120,
       "name": "This Can't Be Love: The Boys from Syracuse: This Can't Be Love",
       "url": "https://open.spotify.com/track/2uKLMLYcbqdDCaDQY3l4NT"

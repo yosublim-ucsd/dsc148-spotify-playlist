@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3, featuring Feid.",
-  "num_followers": 53529,
+  "num_followers": 53558,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmE3NzgzYjhjOGYxNjIxYzRmZThhYmQxNDZlZGRhNTcwODk1YTdl",
+  "snapshot_id": "MCxkODQ4OTI5ZWY2NzcwNTExNjFhMmQwYWU0OTMwYmE0NDRmNzA0YTE3",
   "tracks": [
     {
       "added_at": "2023-08-18 21:33:16",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-08-18 21:33:16",
       "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
+    },
+    {
+      "added_at": "2023-08-18 21:33:16",
+      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2023-08-18 21:33:16",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2023-08-18 21:33:16",
@@ -335,22 +351,6 @@
       "duration_ms": 151324,
       "name": "PUNTO G",
       "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"
-    },
-    {
-      "added_at": "2023-08-18 21:33:16",
-      "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2023-08-18 21:33:16",
@@ -443,22 +443,18 @@
     {
       "added_at": "2023-08-18 21:33:16",
       "album": {
-        "name": "X SI VOLVEMOS",
-        "url": "https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w"
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
       "artists": [
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 203360,
-      "name": "X SI VOLVEMOS",
-      "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
+      "duration_ms": 143789,
+      "name": "OKI DOKI",
+      "url": "https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf"
     },
     {
       "added_at": "2023-08-18 21:33:16",
@@ -611,18 +607,22 @@
     {
       "added_at": "2023-08-18 21:33:16",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+        "name": "X SI VOLVEMOS",
+        "url": "https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w"
       },
       "artists": [
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 143789,
-      "name": "OKI DOKI",
-      "url": "https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf"
+      "duration_ms": 203360,
+      "name": "X SI VOLVEMOS",
+      "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
     },
     {
       "added_at": "2023-08-18 21:33:16",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-18 21:33:16",
       "album": {
+        "name": "La Triple M",
+        "url": "https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA"
+      },
+      "artists": [
+        {
+          "name": "Mawell",
+          "url": "https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "La Triple M",
+      "url": "https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL"
+    },
+    {
+      "added_at": "2023-08-18 21:33:16",
+      "album": {
         "name": "Southwezzzt",
         "url": "https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi"
       },
@@ -719,26 +735,6 @@
     {
       "added_at": "2023-08-18 21:33:16",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8"
-      },
-      "artists": [
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 175735,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5"
-    },
-    {
-      "added_at": "2023-08-18 21:33:16",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
@@ -759,6 +755,26 @@
     {
       "added_at": "2023-08-18 21:33:16",
       "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8"
+      },
+      "artists": [
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 175735,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5"
+    },
+    {
+      "added_at": "2023-08-18 21:33:16",
+      "album": {
         "name": "Un Cuerpazo",
         "url": "https://open.spotify.com/album/6kWEAdQ6zbegtqDZjYIxtk"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 126666,
       "name": "Un Cuerpazo",
       "url": "https://open.spotify.com/track/1Q5vuDabWdu2cEibvVHDsR"
-    },
-    {
-      "added_at": "2023-08-18 21:33:16",
-      "album": {
-        "name": "La Triple M",
-        "url": "https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA"
-      },
-      "artists": [
-        {
-          "name": "Mawell",
-          "url": "https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "La Triple M",
-      "url": "https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL"
     },
     {
       "added_at": "2023-08-18 21:33:16",

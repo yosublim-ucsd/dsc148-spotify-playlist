@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 45541,
+  "num_followers": 45587,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzBkODhmZWU2ZWQwNDAxOTYzYzk3ZjIwYTU0YTMyNzVjOGZmYzRk",
+  "snapshot_id": "MCw5YWY1OTRkOWQzMmJlZTVhMTljMGQxZjUzYTYyMjk1MDY3ZTkyNWZl",
   "tracks": [
     {
       "added_at": "2023-08-18 20:27:37",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 145750,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -559,26 +559,18 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+        "name": "Esperare",
+        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
+      "duration_ms": 130500,
+      "name": "Esperare",
+      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -599,18 +591,26 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Esperare",
-        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
       "artists": [
         {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 130500,
-      "name": "Esperare",
-      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -739,8 +739,8 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+        "name": "Guitarras Mexicanas, Vol. 2",
+        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
       },
       "artists": [
         {
@@ -748,21 +748,13 @@
           "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
         },
         {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+          "name": "Duo: Ramos - Monterrubio",
+          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
         }
       ],
-      "duration_ms": 191794,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
+      "duration_ms": 256613,
+      "name": "Serenata Campechana",
+      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -843,8 +835,8 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Guitarras Mexicanas, Vol. 2",
-        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
       "artists": [
         {
@@ -852,13 +844,21 @@
           "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
         },
         {
-          "name": "Duo: Ramos - Monterrubio",
-          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 256613,
-      "name": "Serenata Campechana",
-      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
+      "duration_ms": 191794,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Quien sera",
-      "url": "https://open.spotify.com/track/5IfdlPHLv1VtqupKtAj6Ih"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Siempre Te Amare",
         "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 149750,
       "name": "Siempre Te Amare",
       "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "Quien sera",
+      "url": "https://open.spotify.com/track/5IfdlPHLv1VtqupKtAj6Ih"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -927,18 +927,22 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Me Vuelves Loco",
-        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
+        "name": "Presentimiento",
+        "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
       },
       "artists": [
         {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
+        },
+        {
+          "name": "Mauricio Hernandez Monterrubio",
+          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+      "duration_ms": 180400,
+      "name": "Presentimiento",
+      "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -967,22 +971,18 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Presentimiento",
-        "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
+        "name": "Me Vuelves Loco",
+        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Isidoro",
-          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
-        },
-        {
-          "name": "Mauricio Hernandez Monterrubio",
-          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
         }
       ],
-      "duration_ms": 180400,
-      "name": "Presentimiento",
-      "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
+      "duration_ms": 146250,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1083,54 +1083,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Si Me Faltas Tu",
-        "url": "https://open.spotify.com/album/2TUNJosqZo997I9rAyS4aT"
-      },
-      "artists": [
-        {
-          "name": "Marta Jobim",
-          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
-        }
-      ],
-      "duration_ms": 217588,
-      "name": "Si Me Faltas Tu",
-      "url": "https://open.spotify.com/track/0ei3cuKOiBVDlbznVMrCbi"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
-      },
-      "artists": [
-        {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
-        }
-      ],
-      "duration_ms": 152663,
-      "name": "Me Estas Haciendo Falta",
-      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
-      "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Flor de Terciopelo",
         "url": "https://open.spotify.com/album/5MhACAv7eEF8vSZurky3t6"
       },
@@ -1151,6 +1103,54 @@
       "duration_ms": 135958,
       "name": "Flor de Terciopelo",
       "url": "https://open.spotify.com/track/4Rl3L5PjoT813YQQW6w4J1"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Si Me Faltas Tu",
+        "url": "https://open.spotify.com/album/2TUNJosqZo997I9rAyS4aT"
+      },
+      "artists": [
+        {
+          "name": "Marta Jobim",
+          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
+        }
+      ],
+      "duration_ms": 217588,
+      "name": "Si Me Faltas Tu",
+      "url": "https://open.spotify.com/track/0ei3cuKOiBVDlbznVMrCbi"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
+      "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Wasi",
+        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
+      },
+      "artists": [
+        {
+          "name": "Elias Carrera",
+          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
+        }
+      ],
+      "duration_ms": 152663,
+      "name": "Me Estas Haciendo Falta",
+      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "La Puerta Negra",
-        "url": "https://open.spotify.com/album/73yWEfBEFLueOketILhoIg"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 147250,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Un Rinconcito En El Cielo",
         "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 251294,
       "name": "Un Rinconcito En El Cielo",
       "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "La Puerta Negra",
+        "url": "https://open.spotify.com/album/73yWEfBEFLueOketILhoIg"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 147250,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Yo Ya No Vuelvo Contigo",
-      "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Exitos de Juan Zaizar",
         "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 127068,
       "name": "Brisas",
       "url": "https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Yo Ya No Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Yo Ya No Vuelvo Contigo",
+      "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "No Llega El Olvido",
-        "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
-      },
-      "artists": [
-        {
-          "name": "Son De Durango",
-          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
-        }
-      ],
-      "duration_ms": 180504,
-      "name": "No Llega El Olvido",
-      "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Querida",
         "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 193670,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "No Llega El Olvido",
+        "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
+      },
+      "artists": [
+        {
+          "name": "Son De Durango",
+          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
+        }
+      ],
+      "duration_ms": 180504,
+      "name": "No Llega El Olvido",
+      "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
     },
     {
       "added_at": "2023-08-18 20:27:37",

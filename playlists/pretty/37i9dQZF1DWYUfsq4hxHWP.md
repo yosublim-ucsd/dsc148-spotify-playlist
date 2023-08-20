@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Logan Crosby, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,614 likes - 167 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,685 likes - 167 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 49 | [Church Pew](https://open.spotify.com/track/52yPTyhnmH0q07DNDoUkja) | [Caleb Mills](https://open.spotify.com/artist/2hoDSV1Gib8tGTS7q1yKWP) | [Church Pew](https://open.spotify.com/album/3qTqeH0QaHmBC3XnonZ0OZ) | 3:49 |
 | 50 | [Hurts A Little Less](https://open.spotify.com/track/3XTtGVqNenHHdZLazqUtiP) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Hurts A Little Less](https://open.spotify.com/album/2mxU8rMna3ore8C16ttSFE) | 2:45 |
 | 51 | [Classic Again](https://open.spotify.com/track/1BquNUtf3tpIY1XaAPrXkk) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Classic Again](https://open.spotify.com/album/3ZyAS99kwhBRExYV6GY4tN) | 3:30 |
-| 52 | [One Way Street](https://open.spotify.com/track/1yfbSAD3HnaUMHbr3F9o6S) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [One Way Street](https://open.spotify.com/album/7tlwohfpgPwdLPl1Onmg8r) | 3:20 |
+| 52 | [One Way Street](https://open.spotify.com/track/1yfbSAD3HnaUMHbr3F9o6S) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [One Way Street](https://open.spotify.com/album/7tlwohfpgPwdLPl1Onmg8r) | 3:19 |
 | 53 | [Steepletown](https://open.spotify.com/track/7z0rBHk7KfZVuzOFoFbRwo) | [Jacob Evans](https://open.spotify.com/artist/0IJk4DNjon8zNnkB4vFkym) | [Not Good At Goodbye](https://open.spotify.com/album/73GSgQ3Op3iYfmWZxckOxK) | 4:19 |
 | 54 | [Vertigo](https://open.spotify.com/track/6YNx3NLrVFuBXs2CkfMF5s) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5) | [Vertigo](https://open.spotify.com/album/5g3zZghZYNswZEt2znFIFe) | 2:53 |
 | 55 | [Two Lane](https://open.spotify.com/track/6XuJRTQZUhBEukHCf3Ymds) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [Two Lane](https://open.spotify.com/album/7ogOLiAC1Hu9swWbR8ZANU) | 2:35 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 72 | [Trouble](https://open.spotify.com/track/4bRnAr9ORuwbLawtNh2XDL) | [Laine Lonero](https://open.spotify.com/artist/55Fuj2lGXzQfN3MqdHMbZC) | [Trouble](https://open.spotify.com/album/5JnABUf9KOKm3uVUil32Fs) | 2:40 |
 | 73 | [Home](https://open.spotify.com/track/7g4rTgNRHnfj1EguB4ETow) | [Nathan May](https://open.spotify.com/artist/1MSZWYELfRVbVsRH9I8HdT) | [Home](https://open.spotify.com/album/7B8mcC2S9XkvBG59tMzGwr) | 4:17 |
 | 74 | [Buzzin' Like You](https://open.spotify.com/track/5YTd6LeWiEOCRTPfNh3yYn) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Buzzin' Like You](https://open.spotify.com/album/1DnJixZpiYbZIkWzErmub5) | 3:00 |
-| 75 | [I Will Belong](https://open.spotify.com/track/0ZuNXwCs0bddOPPnNstfZX) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [I Will Belong](https://open.spotify.com/album/5H7OvZ8INiwRfZag0zGXea) | 3:03 |
+| 75 | [I Will Belong](https://open.spotify.com/track/0ZuNXwCs0bddOPPnNstfZX) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [I Will Belong](https://open.spotify.com/album/5H7OvZ8INiwRfZag0zGXea) | 3:04 |
 | 76 | [RUSH](https://open.spotify.com/track/7IcOst4pverajzv0aTdcCk) | [Matt Rogers](https://open.spotify.com/artist/05fmyImfk8ILasGDFWQkbC) | [RUSH](https://open.spotify.com/album/77thvRWPxiiso2s8Sk9g33) | 3:09 |
 | 77 | ['92 Bronco](https://open.spotify.com/track/7sYilyCX3tdmLzt8Hi0Aag) | [Voth](https://open.spotify.com/artist/15tTYznsn9UBNpClTo05wi) | ['92 Bronco](https://open.spotify.com/album/7shLxVIdmC0jNbkzfkHZz0) | 3:51 |
 | 78 | [No Way Out](https://open.spotify.com/track/5Jqr8PnwFkdfHv5m7YCcxF) | [Preston Duffee](https://open.spotify.com/artist/7gZp6jBVmnRI9CyDYASFgG) | [No Way Out](https://open.spotify.com/album/6uDVItlynP3SzpTLKpdAA2) | 3:23 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 166 | [Rinse\. Repeat.](https://open.spotify.com/track/5kxVgrrXzavmgGfg7KLFDO) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Rinse\. Repeat.](https://open.spotify.com/album/1z7vFQc38L29zC0UNBmFzx) | 3:00 |
 | 167 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 |
 
-Snapshot ID: `MCxlMThlYjQyYzdkMzc1NDFmOGJlOTY1MWQyY2ViNTY3ZjY4MzNjNDlh`
+Snapshot ID: `MCw0ZDY4ODk2NDRkYjZmZTQ2N2JmOGQzZmM0OTgzOTQ3NTI0MTFmMjgx`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133901,
+      "name": "1",
+      "url": "https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF"
+    },
+    {
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/6FJG9netL0WN7AtQlvh8z6"
       },
@@ -905,6 +923,24 @@
     },
     {
       "album": {
+        "name": "CALLE",
+        "url": "https://open.spotify.com/album/5NlqSqAiywEFNcRioOAhqU"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255390,
+      "name": "CALLE",
+      "url": "https://open.spotify.com/track/5UpwX7ibkJrMJjBzK3Odya"
+    },
+    {
+      "album": {
         "name": "Caravan",
         "url": "https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ"
       },
@@ -1424,7 +1460,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 133270,
       "name": "EL-NEGM EL-SAHELY",
       "url": "https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7"
@@ -1624,7 +1660,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 327428,
       "name": "Fi Rohak",
       "url": "https://open.spotify.com/track/6unuCQKefI6ZYBWcsZstma"
@@ -2444,7 +2480,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 360863,
       "name": "Jordan Cypher (feat. Emsallam, The Synaptik, Shouly, El Faouri, Mahasneh, SalehMusic, Almukhtar, Satti, El Far3i & Mazz)",
       "url": "https://open.spotify.com/track/35hKQKWhi3H4c0lsNmGzvW"
@@ -2487,6 +2523,28 @@
     },
     {
       "album": {
+        "name": "METHANOL 62",
+        "url": "https://open.spotify.com/album/7fGb0W5kyonlNbdoI1aAfU"
+      },
+      "artists": [
+        {
+          "name": "Mahdy Madness",
+          "url": "https://open.spotify.com/artist/36szCFNfwtBlzqucTGjkaA"
+        },
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201714,
+      "name": "KAMASHA - \u0643\u0645\u0627\u0634\u0647 (feat. Wezza Montaser)",
+      "url": "https://open.spotify.com/track/0TRvIDRqRemga0vsrSaiwf"
+    },
+    {
+      "album": {
         "name": "MESAMA3EEN",
         "url": "https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo"
       },
@@ -2502,6 +2560,28 @@
       "duration_ms": 150857,
       "name": "KATAFAST",
       "url": "https://open.spotify.com/track/5cDdk7f8IS3AJPVMOdTlIm"
+    },
+    {
+      "album": {
+        "name": "Kda Msh Bees",
+        "url": "https://open.spotify.com/album/5WKuQfB4NZXZWKeCQ1Uk9L"
+      },
+      "artists": [
+        {
+          "name": "Mared",
+          "url": "https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV"
+        },
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/2gWfo8ecNqmWaHQWDIyoYo"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Kda Msh Bees",
+      "url": "https://open.spotify.com/track/3f1AUIx5LZoS3afGcSOJNl"
     },
     {
       "album": {
@@ -2664,7 +2744,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 189295,
       "name": "Khalisni",
       "url": "https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp"
@@ -2905,6 +2985,28 @@
     },
     {
       "album": {
+        "name": "Leila",
+        "url": "https://open.spotify.com/album/0apSvBI2Dw5KWkIKdBPFSJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "Leh Nehzar",
+      "url": "https://open.spotify.com/track/0vE3QsIZEyespCVUntPOa9"
+    },
+    {
+      "album": {
         "name": "LELLY YAH",
         "url": "https://open.spotify.com/album/3zxpokbqTOtT3pry7cNhSK"
       },
@@ -3134,7 +3236,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 148500,
       "name": "Mashi El Hal",
       "url": "https://open.spotify.com/track/3EsdhFv69vVaBAAFlphMYb"
@@ -3298,7 +3400,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 127754,
       "name": "MI AMORI",
       "url": "https://open.spotify.com/track/36D0CaOIYeAkdt4AkaZeff"
@@ -4357,6 +4459,24 @@
     },
     {
       "album": {
+        "name": "I HATE SUMMER",
+        "url": "https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "SOMNIFERE",
+      "url": "https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv"
+    },
+    {
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
       },
@@ -4390,7 +4510,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 200000,
       "name": "SRT",
       "url": "https://open.spotify.com/track/6heHtvgHYZ4VgmRXYwcjtQ"
@@ -4596,7 +4716,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 251000,
       "name": "Tamnini",
       "url": "https://open.spotify.com/track/4caObZDuJtKmP21WGaQ8Zm"
@@ -5069,6 +5189,28 @@
     },
     {
       "album": {
+        "name": "Ween Yabu",
+        "url": "https://open.spotify.com/album/1Fa0JCaLqGpUctiOcABxY5"
+      },
+      "artists": [
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+        },
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203913,
+      "name": "Ween Yabu",
+      "url": "https://open.spotify.com/track/2JvrzoueEOcl6cYhnnI8XS"
+    },
+    {
+      "album": {
         "name": "Akhro Noor",
         "url": "https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7"
       },
@@ -5140,6 +5282,24 @@
       "duration_ms": 100920,
       "name": "Ye Naghar",
       "url": "https://open.spotify.com/track/3aMUNwPFQ5UEbyLEutTqYt"
+    },
+    {
+      "album": {
+        "name": "Yeah ho v4",
+        "url": "https://open.spotify.com/album/2sZqUzLCEM3H4oh1ahKbdI"
+      },
+      "artists": [
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289714,
+      "name": "Yeah ho v4",
+      "url": "https://open.spotify.com/track/7fm4eB0yki6Dn4eqJg7DfC"
     },
     {
       "album": {

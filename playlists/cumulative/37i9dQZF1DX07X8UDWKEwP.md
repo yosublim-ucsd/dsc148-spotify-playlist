@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Maffio & Christian Alicea
 
-299 songs - 17 hr 40 min
+300 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [La Foto Se Me Borró \- Bachata](https://open.spotify.com/track/7lQXFaerELCnqOWIk1VxGk) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Ryan Milo](https://open.spotify.com/artist/76X8Z4o3DI4rr5GCmzg9ap) | [Regresó el Jefe 2.0](https://open.spotify.com/album/7D21gZNHtQdIlc3pFotIiO) | 3:45 | 2022-01-01 | 2022-06-30 |
 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-03 |  |
 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 | 2023-04-21 |  |
-| [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 | 2023-03-17 |  |
+| [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 | 2023-03-17 | 2023-08-20 |
 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 | 2023-07-07 |  |
 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 | 2023-03-10 | 2023-04-01 |
 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 | 2023-05-26 |  |
@@ -225,6 +225,7 @@
 | [Que Ganas](https://open.spotify.com/track/6Dod3sKPWpjQzdGrBJap0P) | [Liza + Willie](https://open.spotify.com/artist/0uwNjcUHYdSlPs2IJhJoOq) | [Que Ganas](https://open.spotify.com/album/3hhjbFQGnd0fIKdRweiatb) | 3:32 | 2022-04-29 | 2023-01-14 |
 | [Que Rica](https://open.spotify.com/track/0GFhxvcbEKTzsc8VjiLipD) | [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Que Rica](https://open.spotify.com/album/7dCSJbxphSUmZjMTDziBSJ) | 3:39 | 2022-11-28 | 2023-01-28 |
 | [Que Se Vayan Ya](https://open.spotify.com/track/18cKTCZardQOVSBa8yr1ry) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W), [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Que Se Vayan Ya](https://open.spotify.com/album/2LhM6MMQ9gQ98x6aNtmPaG) | 4:11 | 2022-01-01 | 2022-06-30 |
+| [Que Vuelvas](https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [DJ Ramon](https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1) | [Que Vuelvas](https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg) | 3:33 | 2023-08-18 |  |
 | [Quedate](https://open.spotify.com/track/5U5oHCSNxNNWMar8kQHZ7R) | [Brenda K\. Starr](https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B) | [Quedate](https://open.spotify.com/album/6UyjEPINXKXN1iijwVEJ7M) | 4:49 | 2022-03-25 | 2022-06-30 |
 | [Querer Es Poder](https://open.spotify.com/track/2V7q49qDwridjuHUXdrokD) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Querer Es Poder](https://open.spotify.com/album/3u9r3R8Ly133c077Iytu2N) | 2:56 | 2022-01-01 | 2022-06-30 |
 | [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 | 2022-08-08 | 2023-04-02 |

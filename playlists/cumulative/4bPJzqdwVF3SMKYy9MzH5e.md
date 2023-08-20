@@ -4,7 +4,7 @@
 
 > 
 
-1,796 songs - 4 day 1 hr 16 min
+1,798 songs - 4 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,7 +776,7 @@
 | [i love u](https://open.spotify.com/track/2peuN1qs30txmquslkcp8b) | [Jiwon](https://open.spotify.com/artist/4LyqJpHI1a45aZHIkVRBSQ) | [i love u](https://open.spotify.com/album/5z9zqtpYm28wpn0fi9LWEN) | 2:18 | 2022-06-29 |  |
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2021-08-05 |  |
 | [I Me Mine \- 2021 Mix](https://open.spotify.com/track/5sFSXKwsf1KvKpZngwVtlI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Super Deluxe\)](https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V) | 2:25 | 2021-12-30 |  |
-| [I Met Sarah in the Bathroom](https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [I Met Sarah in the Bathroom](https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ) | 2:01 | 2021-08-05 |  |
+| [i met sarah in the bathroom](https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [i met sarah in the bathroom](https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ) | 2:01 | 2021-08-05 |  |
 | [I MIGHT DIE](https://open.spotify.com/track/4iUDTgkbosia5aneiGXRXc) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [I MIGHT DIE](https://open.spotify.com/album/29zNZQCobNE8MsFihW9SHf) | 2:46 | 2022-04-03 |  |
 | [I miss the old u](https://open.spotify.com/track/3jfFw63n74qkinjHibNPMS) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB) | 3:31 | 2021-09-08 |  |
 | [I Miss The Rage \- Majetso Remix](https://open.spotify.com/track/00FVftitVz66eYdKDeV1d4) | [Majesto Mixer](https://open.spotify.com/artist/3n8hx07ig0HwaiQhWRaRtU), [Mario Judah](https://open.spotify.com/artist/3PBfT9rikL0dBYKlM4e9DW) | [I Miss The Rage \(Majetso Remix\)](https://open.spotify.com/album/7AOjpAvXD2KjMd0lNlAu5p) | 2:55 | 2021-08-05 |  |
@@ -874,6 +874,7 @@
 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 | 2021-11-30 |  |
 | [Just to See You Smile](https://open.spotify.com/track/002opcRBgYV5jqoh72QcqA) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Only The Beginning](https://open.spotify.com/album/6z1qeT7vI9YUsCHqufGWJy) | 3:01 | 2021-08-05 |  |
 | [K Street Walker](https://open.spotify.com/track/7uNTCczLtdefuPYZHtEAkL) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V) | 1:26 | 2021-11-14 |  |
+| [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-08-14 |  |
 | [kawaii way to cut yourself](https://open.spotify.com/track/7LwyheyiGDcSlRg2MO1a07) | [snafu](https://open.spotify.com/artist/6D9QrghftPFUTOPkxAJfSp) | [songs about self hatred](https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN) | 2:37 | 2023-01-15 |  |
 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 | 2021-08-05 |  |
 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2022-10-11 |  |
@@ -1378,6 +1379,7 @@
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2022-02-04 |  |
 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 | 2022-02-18 |  |
 | [Sgt\. Pepper's Lonely Hearts Club Band \- Remastered 2009](https://open.spotify.com/track/4fUKE8EULjQdHF4zb0M8FO) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:02 | 2021-08-05 |  |
+| [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-08-12 |  |
 | [Shadow Lady](https://open.spotify.com/track/6MwjuU4eG0nStUUnlGwhCr) | [Portwave](https://open.spotify.com/artist/5g97nXsHBZDyY6wPKckqLc) | [Shadow Lady](https://open.spotify.com/album/1cKogHs7vouENZkTBmzAfR) | 5:02 | 2021-08-05 |  |
 | [Shameless Shadow](https://open.spotify.com/track/6vOXyrKR3QHXducJBNwW1q) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Mirror Might Steal Your Charm](https://open.spotify.com/album/5OTx88lV36Cgz4nrLUCbOz) | 2:57 | 2023-03-19 |  |
 | [Shampoo Bottles](https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:44 | 2021-08-05 |  |

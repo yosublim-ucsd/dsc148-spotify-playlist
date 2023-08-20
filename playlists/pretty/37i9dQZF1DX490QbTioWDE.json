@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno, Big One & Rusherking.",
-  "num_followers": 620536,
+  "num_followers": 620977,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDM0ZmRjZjY1NzY5NGZlMDg2ZjRkZTY0M2UzOWYxMDIwM2NkZjMz",
+  "snapshot_id": "MCwwNjc4ZWZkMjkwN2MzOTA2MjJiM2U3MjVhN2Q2NmUzMzY1MTliNWRm",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Con Toda la Fuerza",
-        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 187220,
-      "name": "Ma\u00f1ana sin vos",
-      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "La Vagancia Cuartetera",
         "url": "https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB"
       },
@@ -1487,6 +1471,58 @@
       "duration_ms": 211250,
       "name": "La Vagancia Cuartetera",
       "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Con Toda la Fuerza",
+        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 187220,
+      "name": "Ma\u00f1ana sin vos",
+      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Ni Lo Pienses",
+        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Registrada",
+          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "Usted Se Me Llevo la Vida",
+      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Ciencia Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/4ZTFXFn1HS1e4DpYyyQi0x"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        },
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "duration_ms": 214869,
+      "name": "Ciencia Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/78ScjOq0BVzMGRz6jnH33l"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1563,58 +1599,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Ciencia Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/4ZTFXFn1HS1e4DpYyyQi0x"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        },
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        }
-      ],
-      "duration_ms": 214869,
-      "name": "Ciencia Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/78ScjOq0BVzMGRz6jnH33l"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Ni Lo Pienses",
-        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
-      },
-      "artists": [
-        {
-          "name": "Banda Registrada",
-          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Tu Peor Enemigo",
-        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 201109,
-      "name": "Tu Peor Enemigo",
-      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "La Bachata (En Vivo)",
         "url": "https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 227866,
       "name": "Dame un Poco Mas",
       "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Tu Peor Enemigo",
+        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 201109,
+      "name": "Tu Peor Enemigo",
+      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "El Pa\u00f1uelo",
-        "url": "https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
-        },
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 174292,
-      "name": "El Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Me Duele Tu Nombre",
         "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 296515,
       "name": "Me Duele Tu Nombre",
       "url": "https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "El Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        },
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 174292,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Si Pudiera Tenerte - Camina y Ven",
-        "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
-        }
-      ],
-      "duration_ms": 348876,
-      "name": "Si Pudiera Tenerte - Camina y Ven",
-      "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Me Duele Tu Nombre (En Vivo)",
         "url": "https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Si Pudiera Tenerte - Camina y Ven",
+        "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "duration_ms": 348876,
+      "name": "Si Pudiera Tenerte - Camina y Ven",
+      "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
     },
     {
       "added_at": "2023-08-18 03:00:00",

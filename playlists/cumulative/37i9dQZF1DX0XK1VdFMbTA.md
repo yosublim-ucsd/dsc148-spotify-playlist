@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-859 songs - 2 day 11 hr 59 min
+860 songs - 2 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,7 +489,7 @@
 | [Mississippi Water](https://open.spotify.com/track/2StkxB942K8edpXLPM0vjU) | [Andwella](https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb) | [People's People](https://open.spotify.com/album/2BM11NM5bFa2lYqhhJxIab) | 3:33 | 2022-01-05 | 2022-07-27 |
 | [Mississippi Water](https://open.spotify.com/track/2VErcrm4ZMT0D5ThoKmsTH) | [Andwella](https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb) | [People's People](https://open.spotify.com/album/2ZCpSljywkjNwL4FpLNQtJ) | 3:33 | 2022-01-05 |  |
 | [Mistreated \- Remastered 2004](https://open.spotify.com/track/34RISamoO5iubsOanSlpQo) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 7:28 | 2022-01-05 | 2022-07-29 |
-| [Molina](https://open.spotify.com/track/7tZt1S0FdbdkT8maNnjh1c) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \- Best Of](https://open.spotify.com/album/6anfZgEtfrdKVimLp6VF3d) | 2:08 | 2022-01-05 |  |
+| [Molina](https://open.spotify.com/track/7tZt1S0FdbdkT8maNnjh1c) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \- Best Of](https://open.spotify.com/album/6anfZgEtfrdKVimLp6VF3d) | 2:08 | 2022-01-05 | 2023-08-20 |
 | [Monday Morning \- 2017 Remaster](https://open.spotify.com/track/5tHe4P0tNgFLG4xoEWucUq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac \(2017 Remaster\)](https://open.spotify.com/album/6jTUmLtY779ZNYsyugOq2q) | 2:48 | 2022-01-05 | 2022-07-29 |
 | [Money](https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:22 | 2022-01-05 |  |
 | [Money \- 2011 Remastered Version](https://open.spotify.com/track/7Gx2q0ueNwvDp2BOZYGCMO) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side Of The Moon \(2011 Remastered Version\)](https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH) | 6:20 | 2022-01-05 | 2022-07-29 |
@@ -522,6 +522,7 @@
 | [Next Time You See Her](https://open.spotify.com/track/4cNVARfOqxmrE3dBHGhCjR) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary](https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT) | 4:01 | 2022-01-05 | 2022-07-29 |
 | [Next To You](https://open.spotify.com/track/7HjipY3Vy2HAN11D2juKHT) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 2:51 | 2022-01-05 |  |
 | [Night By Night](https://open.spotify.com/track/6dPSAWeeV6VO7CGBocFL02) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 3:38 | 2022-01-05 | 2023-08-02 |
+| [Night By Night](https://open.spotify.com/track/38VMtB7XKuFYDaNsyEuMKR) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 3:38 | 2022-11-17 |  |
 | [Nightclubbing](https://open.spotify.com/track/6WPGAupim73K9XQL4iIefZ) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:15 | 2022-01-05 |  |
 | [Nineteen Hundred And Eighty Five \- 2010 Remaster](https://open.spotify.com/track/5VErNsWF69eD0HiBt2vWcH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:31 | 2022-01-05 |  |
 | [No Feelings](https://open.spotify.com/track/5Pl46yccvPXXcIiXps3qHl) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 2:50 | 2022-01-05 | 2022-07-27 |

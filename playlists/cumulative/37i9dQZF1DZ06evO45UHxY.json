@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 138749,
       "name": "Echando Los Perros",
       "url": "https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 245005,
       "name": "Reeventon Unisex",
       "url": "https://open.spotify.com/track/59tw8kwcnl7McG6Pgt38EG"
@@ -1202,6 +1202,24 @@
       "duration_ms": 234857,
       "name": "Revento\u0301n Unixes",
       "url": "https://open.spotify.com/track/0aru7xAJZfzn13o6wQPAko"
+    },
+    {
+      "album": {
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244703,
+      "name": "Revent\u00f3n Unisex",
+      "url": "https://open.spotify.com/track/41HebIRHAPoidrilXQ0udy"
     },
     {
       "album": {

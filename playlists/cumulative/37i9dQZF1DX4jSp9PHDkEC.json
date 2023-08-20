@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 279885,
       "name": "Diary of a Rose",
       "url": "https://open.spotify.com/track/610xMaOMK9GylOrNXNY86R"
@@ -5124,6 +5124,24 @@
       "duration_ms": 301960,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/4MxHAB3fHQ8oI2jRXSLQ9p"
+    },
+    {
+      "album": {
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "Valentine Shmalentine",
+      "url": "https://open.spotify.com/track/1wpZZJYzdXGRdYZnffm4NQ"
     },
     {
       "album": {

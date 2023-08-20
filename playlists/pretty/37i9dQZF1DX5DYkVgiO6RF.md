@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > Sintetizadores fluorescentes para acompañar tu trayecto nocturno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,875 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,052 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 11 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 |
 | 12 | [Odd Look](https://open.spotify.com/track/3Q6mwJseOFYBJ10d5CXp4o) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Odd Look](https://open.spotify.com/album/3FHMLI0Vz2t0gdypH1yImX) | 4:13 |
 | 13 | [Flashback](https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:47 |
-| 14 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 |
+| 14 | [Sometimes](https://open.spotify.com/track/0kLrrh7Z1gySNTunBH790J) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [Illumination](https://open.spotify.com/album/37oEeZfUpmbYlJnORF36Zk) | 4:13 |
 | 15 | [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 |
-| 16 | [Sometimes](https://open.spotify.com/track/0kLrrh7Z1gySNTunBH790J) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [Illumination](https://open.spotify.com/album/37oEeZfUpmbYlJnORF36Zk) | 4:13 |
+| 16 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 |
 | 17 | [Touch](https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [You Do You](https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN) | 2:57 |
 | 18 | [You Knew \- Edit](https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 2:55 |
 | 19 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 36 | [Dale Calma](https://open.spotify.com/track/6DaMajLwEFY23c27AjSS13) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Presente](https://open.spotify.com/album/1MmBRu3POeoXYmp8eLezX5) | 3:33 |
 | 37 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
 | 38 | [Crepuscule](https://open.spotify.com/track/4tjegaa9lSrtvVMq0PdiOR) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Alpha](https://open.spotify.com/album/0mXPAfu4L20ZfUPNLgXjEw) | 4:40 |
-| 39 | [About Work The Dancefloor \- Edit](https://open.spotify.com/track/1b6HCRWWbvFUZ5RG3bg7s6) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:14 |
-| 40 | [2 Hearts](https://open.spotify.com/track/4AhBiNbY1ufi7ScAcHwnBQ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [I Love You, Dude](https://open.spotify.com/album/40FCwDLlSKNZZ8tT3jWH5r) | 3:54 |
+| 39 | [2 Hearts](https://open.spotify.com/track/4AhBiNbY1ufi7ScAcHwnBQ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [I Love You, Dude](https://open.spotify.com/album/40FCwDLlSKNZZ8tT3jWH5r) | 3:54 |
+| 40 | [About Work The Dancefloor \- Edit](https://open.spotify.com/track/1b6HCRWWbvFUZ5RG3bg7s6) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:14 |
 | 41 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 |
 | 42 | [Figure](https://open.spotify.com/track/0VYxLT8xjoVQfYdSxNUDw9) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Figure](https://open.spotify.com/album/3LSP2OcYGw6HQ8uRoqJbP9) | 7:00 |
 | 43 | [The Moon Above](https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF) | [Soul Goodman](https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi), [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [20 Years Dope Noir \- Oranje Album](https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6) | 3:05 |
 | 44 | [Slumlord](https://open.spotify.com/track/6O1G9pwLEidT5QTjuZw3tL) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [VEGA INTL\. Night School](https://open.spotify.com/album/5qA9yoz0W5eHKYOr45Rkc4) | 5:15 |
 | 45 | [Guess](https://open.spotify.com/track/38MsKd7xeOOjatKBcKDpLT) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Changes](https://open.spotify.com/album/2r143fiPWQBCUeFeCPhWEG) | 4:08 |
 | 46 | [Turquesa](https://open.spotify.com/track/74a5mTNPCcp7sS4rh3eRD3) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [Turquesa](https://open.spotify.com/album/7kdjiAJrQJ0hFMeWgjlg5t) | 3:19 |
-| 47 | [Swallowed By The Ocean](https://open.spotify.com/track/6ukCPd1kbqTzMXJeh0Jrwi) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Afterlife](https://open.spotify.com/album/0TfLNPaI76u8QwRNDiowSt) | 4:25 |
-| 48 | [Crimes of the Future](https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Crimes of the Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KKkhpn8G1lPj6bmb1qMhe) | 2:10 |
-| 49 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 |
-| 50 | [Dos Extraños](https://open.spotify.com/track/6L8Jed13lCQn7pPiKOqIkf) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Dos Extraños](https://open.spotify.com/album/7mJvMAtknGnFQD93Eb5Ng9) | 3:20 |
+| 47 | [Dos Extraños](https://open.spotify.com/track/6L8Jed13lCQn7pPiKOqIkf) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Dos Extraños](https://open.spotify.com/album/7mJvMAtknGnFQD93Eb5Ng9) | 3:20 |
+| 48 | [Swallowed By The Ocean](https://open.spotify.com/track/6ukCPd1kbqTzMXJeh0Jrwi) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Afterlife](https://open.spotify.com/album/0TfLNPaI76u8QwRNDiowSt) | 4:25 |
+| 49 | [Crimes of the Future](https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Crimes of the Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KKkhpn8G1lPj6bmb1qMhe) | 2:10 |
+| 50 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 |
 
-Snapshot ID: `MCw2ZTEyNzRiYjA0OGU0NDU0MWZmNzMyMzg4NWJmZTUzOWNlM2VjM2Yw`
+Snapshot ID: `MCwwNzc0ZmJlMzliMmJiMjVhNzRmMWVmNmE1YjQ1OTgyZTFmMjRjMGY2`

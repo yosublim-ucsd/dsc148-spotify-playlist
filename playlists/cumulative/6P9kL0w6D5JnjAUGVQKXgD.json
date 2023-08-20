@@ -6596,7 +6596,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 145831,
       "name": "Dead Weight",
       "url": "https://open.spotify.com/track/40du7qcLwLcZzZ3T6qcuf4"
@@ -17577,6 +17577,28 @@
     },
     {
       "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/1QlECpDzWSUDz2LPcGc5B0"
+      },
+      "artists": [
+        {
+          "name": "Filippide",
+          "url": "https://open.spotify.com/artist/43lBiTKNv0hT6m45xMPi1b"
+        },
+        {
+          "name": "Vic Roz",
+          "url": "https://open.spotify.com/artist/71CGmn7JPqjfNVZMOjCDDh"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127908,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/0TrsNYktoem24aNjcEXEzv"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/2wmOhtIZE2S2Aj8o12th19"
       },
@@ -21386,6 +21408,28 @@
       "duration_ms": 199357,
       "name": "One More Time (feat. Alida)",
       "url": "https://open.spotify.com/track/2REu6wX4KKrG6uGlTKVqu6"
+    },
+    {
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/3jIFqQjxuER5Pdql8MFYVy"
+      },
+      "artists": [
+        {
+          "name": "Zanoii",
+          "url": "https://open.spotify.com/artist/4lDylUTkgTogwWesOxxYzc"
+        },
+        {
+          "name": "Lexton",
+          "url": "https://open.spotify.com/artist/0zdgWvks152kY7wW9luSWp"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155806,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/3B3OxNHGlVgPUKxtSgNkwD"
     },
     {
       "album": {
@@ -26276,7 +26320,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 180480,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6pMLutmRSowT7M7SHNJOWi"

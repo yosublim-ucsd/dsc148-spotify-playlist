@@ -1,12 +1,12 @@
 {
   "description": "Heartbreak is the national anthem, we sing it proudly! Cover: Alexander Stewart",
-  "num_followers": 1583032,
+  "num_followers": 1583993,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWE5MmVhNjQyZDQ0MTIxYjg0Y2RhNzNmNGQ5MGRiZTdhOTA2Njg2",
+  "snapshot_id": "MCwyMWM3MWE5YjJiMjJiNDBiZDE0NjhhZjI5ZDVmM2ZiOWRhMTMyMzM1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -95,26 +95,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 160517,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -131,7 +111,23 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Faulty Writing",
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Faulty Wiring",
         "url": "https://open.spotify.com/album/3eZcH7IVMVANRxGtus9xr4"
       },
       "artists": [
@@ -141,7 +137,7 @@
         }
       ],
       "duration_ms": 148706,
-      "name": "Faulty Writing",
+      "name": "Faulty Wiring",
       "url": "https://open.spotify.com/track/3tWmCPgwQ4rOn4vABsBLqO"
     },
     {
@@ -179,34 +175,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+      "duration_ms": 160517,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -223,6 +207,22 @@
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 203384,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Love Is Gone (Acoustic)",
         "url": "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 176971,
       "name": "Love Is Gone - Acoustic",
       "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "drunk text",
-        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Moral of the Story",
         "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+        "name": "drunk text",
+        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
       },
       "artists": [
         {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 147597,
       "name": "My Mind & Me",
       "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "birthday cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "birthday cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "birthday cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "birthday cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "lie",
-        "url": "https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 214044,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 104408,
       "name": "emails i can\u2019t send",
       "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "lie",
+        "url": "https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 214044,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Mountain With A View",
-      "url": "https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Mountain With A View",
+      "url": "https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Everyone Who Falls In Love (Has Someone Else They\u2019re Thinking Of)",
-        "url": "https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns"
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 156626,
-      "name": "Everyone Who Falls In Love (Has Someone Else They\u2019re Thinking Of)",
-      "url": "https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL"
+      "duration_ms": 164027,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
+        "name": "Everyone Who Falls In Love (Has Someone Else They\u2019re Thinking Of)",
+        "url": "https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 164027,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
+      "duration_ms": 156626,
+      "name": "Everyone Who Falls In Love (Has Someone Else They\u2019re Thinking Of)",
+      "url": "https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "I'm trying",
-        "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "I'm trying",
-      "url": "https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 271466,
       "name": "ghostin",
       "url": "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "I'm trying",
+        "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "I'm trying",
+      "url": "https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
         }
       ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+      "duration_ms": 204000,
+      "name": "Love You From a Distance",
+      "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
+        "name": "feel like shit",
+        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
       },
       "artists": [
         {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Love You From a Distance",
-      "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
+      "duration_ms": 204314,
+      "name": "feel like shit",
+      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "feel like shit",
-        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 204314,
-      "name": "feel like shit",
-      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "MEAN!",
         "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 143960,
       "name": "MEAN!",
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1735,34 +1735,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "chaotic",
-        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 178720,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 141060,
-      "name": "Best Friend Breakup",
-      "url": "https://open.spotify.com/track/79tOFjU8iFZn0pvsAfQ1DZ"
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/04zpnoSROKFTCfgkoPcZ5A"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1783,6 +1767,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "never knew a heart could break itself",
         "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
       },
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 172547,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/04zpnoSROKFTCfgkoPcZ5A"
+      "duration_ms": 141060,
+      "name": "Best Friend Breakup",
+      "url": "https://open.spotify.com/track/79tOFjU8iFZn0pvsAfQ1DZ"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "you don't love me anymore",
-        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 204398,
-      "name": "you don't love me anymore",
-      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Never Had a Chance",
         "url": "https://open.spotify.com/album/6xetIkLc35ytsM6poTBsdt"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 145520,
       "name": "Never Had a Chance",
       "url": "https://open.spotify.com/track/5SSN6VUT5PduTBsGbTd2Sd"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "you don't love me anymore",
+        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 204398,
+      "name": "you don't love me anymore",
+      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "If I Don't Laugh, I'll Cry",
+        "url": "https://open.spotify.com/album/0ZNj1dzkYUmgDKdL1NRvJI"
+      },
+      "artists": [
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        }
+      ],
+      "duration_ms": 198009,
+      "name": "If I Don't Laugh, I'll Cry",
+      "url": "https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Love I've Been Jealous Of",
         "url": "https://open.spotify.com/album/5xVrTHPF3KilJ0C7IjqQtk"
       },
@@ -2071,18 +2087,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "If I Don't Laugh, I'll Cry",
-        "url": "https://open.spotify.com/album/0ZNj1dzkYUmgDKdL1NRvJI"
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
       },
       "artists": [
         {
-          "name": "Frawley",
-          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 198009,
-      "name": "If I Don't Laugh, I'll Cry",
-      "url": "https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U"
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2251,22 +2267,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "almost happy",
-        "url": "https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K"
-      },
-      "artists": [
-        {
-          "name": "elijah woods",
-          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
-        }
-      ],
-      "duration_ms": 137897,
-      "name": "almost happy",
-      "url": "https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "i wish u knew",
         "url": "https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll"
       },
@@ -2279,6 +2279,22 @@
       "duration_ms": 193429,
       "name": "i wish u knew",
       "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "almost happy",
+        "url": "https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "duration_ms": 137897,
+      "name": "almost happy",
+      "url": "https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2299,22 +2315,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Kryptonite",
-        "url": "https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Three. Two. One.",
         "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
       },
@@ -2327,6 +2327,22 @@
       "duration_ms": 176746,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/69jstgacdd40OwG9cLl45r"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2395,18 +2411,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "The Other POV",
-        "url": "https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3"
+        "name": "How Do We Stay In Love?",
+        "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
       },
       "artists": [
         {
-          "name": "Khloe Rose",
-          "url": "https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm"
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
         }
       ],
-      "duration_ms": 179880,
-      "name": "The Other POV",
-      "url": "https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk"
+      "duration_ms": 159981,
+      "name": "How Do We Stay In Love?",
+      "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2423,22 +2439,6 @@
       "duration_ms": 224940,
       "name": "in my head",
       "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "How Do We Stay In Love?",
-        "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 159981,
-      "name": "How Do We Stay In Love?",
-      "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
     },
     {
       "added_at": "2023-08-18 04:00:00",

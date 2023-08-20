@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4?si=c7a288487c28483d">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,881 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,972 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 64 | [On The Rise](https://open.spotify.com/track/13t1LQJSZhd2hbKMxRCLMI) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [On The Rise](https://open.spotify.com/album/5RxG9qsktzpP1xGa01l3kG) | 5:02 |
 | 65 | [Vision \- Live](https://open.spotify.com/track/0U1OJaWrd2IBG84IyzJXPe) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Vision \(Live\)](https://open.spotify.com/album/0LsKs5TqRMcXBF2YI8q0KD) | 7:10 |
 | 66 | [God Of Every Grace](https://open.spotify.com/track/1vUtYkwrJAzXAvWH3c09LF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [God Of Every Grace](https://open.spotify.com/album/0f4q9Urri9UfFIlHg36xRM) | 4:38 |
-| 67 | [Holy Spirit \- Live](https://open.spotify.com/track/1GiTQQi36ThygGBzjl0fg9) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Holy Spirit \(Live\)](https://open.spotify.com/album/4UfZeGdn1aTzeeaD3HMoAq) | 5:22 |
+| 67 | [Holy Spirit \- Live](https://open.spotify.com/track/6hNaCgXrclSFQAEyqN2iyG) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Thank You \(Live\)](https://open.spotify.com/album/5X7EtUR7UCAdH97YIJCuiT) | 5:22 |
 | 68 | [Give Me Jesus \- Studio Version](https://open.spotify.com/track/3KRn4e2y0p1GyoKqWaAhA2) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Give Me Jesus \(Studio Version\)](https://open.spotify.com/album/4J7KZmf2ym2MU2pNyBJQqs) | 3:52 |
 | 69 | [A Place For You](https://open.spotify.com/track/49Rm1mXCs0F9wq6tgSzieK) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sarah Macintosh](https://open.spotify.com/artist/0cCXrDHh4fDfIpc485NvbI), [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [A Place For You](https://open.spotify.com/album/0jcZL0VFKVHkeRY9dQqL90) | 4:29 |
 | 70 | [Pressure](https://open.spotify.com/track/3qVUrZpitkNBkIQZvLY7IS) | [A Jesus Church](https://open.spotify.com/artist/4TYANTKQ4uK2FLUcu7Nq6a) | [Pressure](https://open.spotify.com/album/4ADL3YAJTezOEAQre4Lby5) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Breathe With Me \(feat\. Lindsey Stirling\)](https://open.spotify.com/track/7z3aHNAAUsPMAaVmwuDkUe) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Breathe With Me \(feat\. Lindsey Stirling\)](https://open.spotify.com/album/7fRNpEQDax1JiP5vbWaSv0) | 5:00 |
 | 100 | [Slow Me Down](https://open.spotify.com/track/2c6pOvjLEoY240Ny6l3YNA) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Slow Me Down](https://open.spotify.com/album/78u9L6vuyjYjQo2gGqF98e) | 3:22 |
 
-Snapshot ID: `MCwzNjRhODVmZjYzODViNzM2OTU2OWVhNmNjNzkyZWU4OGVkYTRjYjc3`
+Snapshot ID: `MCwyY2JiYjc5MGY2MjkwNGU1ZGYwZmY3MzZiYTgzYWVkMjIzNTZiZDc3`

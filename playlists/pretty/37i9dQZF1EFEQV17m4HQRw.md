@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40TymUMoWoqMrIV7VBRRAn">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422 likes - 46 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 426 likes - 46 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aguenta Coração](https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguenta Coração](https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG) | 4:33 |
 | 2 | [Muéstrame Tu Gloria](https://open.spotify.com/track/14BFOwWp5gp0AxgoxVldZe) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 6:41 |
 | 3 | [A Reforma](https://open.spotify.com/track/37mqs99CoVLs3q4MQjHWCp) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 5:44 |
-| 4 | [Vai virar TBT](https://open.spotify.com/track/3h2tZQaIllLw4UwQqQgNMD) | [Bruna de Paula](https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y), [Londu](https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q) | [Vai virar TBT](https://open.spotify.com/album/16AY6gtvOnC6XTfU5Jplzm) | 3:06 |
+| 4 | [Vai virar TBT](https://open.spotify.com/track/3h2tZQaIllLw4UwQqQgNMD) | [Bruna de Paula](https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y) | [Vai virar TBT](https://open.spotify.com/album/16AY6gtvOnC6XTfU5Jplzm) | 3:06 |
 | 5 | [Rosa de Saron](https://open.spotify.com/track/5XfnU51P1zZH68aFGgesn1) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 4:29 |
 | 6 | [Mi Amado](https://open.spotify.com/track/1jeSylgKUYSYQBU00byXTr) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:40 |
 | 7 | [Amor Impetuoso](https://open.spotify.com/track/6mnaqZnMNWgNsRKpfQxBYY) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 6:26 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 45 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 |
 | 46 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
 
-Snapshot ID: `MjgxOTUzMzAsMDAwMDAwMDAxYjZhOGMwNGVjY2FiOGUwY2NmNjhmNDUwZDZkYzZhYQ==`
+Snapshot ID: `MjgyMDgyOTAsMDAwMDAwMDAzYjIyM2YxMzdmMTdhOTdhZTY1ZjE3MjEwZjIxYzA2OQ==`

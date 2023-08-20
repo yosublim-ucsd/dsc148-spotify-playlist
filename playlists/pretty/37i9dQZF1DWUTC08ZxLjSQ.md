@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Seina\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,029 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,037 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 25 | [FARÄGH](https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [FARÄGH](https://open.spotify.com/album/4xkFC5AuXCYO9ihuUwySbJ) | 1:53 |
 | 26 | [Dream Merchant](https://open.spotify.com/track/12lCB896GPVWOTIAq0JAiY) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Dream Merchant](https://open.spotify.com/album/2C0705Y1tvu30snlIOE1yT) | 2:57 |
 | 27 | [Barcelona \(End of the Line\)](https://open.spotify.com/track/0hzN7FYPW5bZpHKQpaHT1C) | [Keh Tu](https://open.spotify.com/artist/2C9VkF4uSp8rzSq8pR4bik) | [Bedroom Promises](https://open.spotify.com/album/2C4WxtfztrmcPfWbMVjBql) | 4:00 |
-| 28 | [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 |
+| 28 | [Watch Me](https://open.spotify.com/track/2MrJjA7IsGMImbA6qwhCiW) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [Watch Me](https://open.spotify.com/album/0ENzBRcf1PtiP8sl1Nsnxy) | 2:35 |
 | 29 | [Illbealright](https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Illbealright](https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6) | 3:32 |
 | 30 | [Toss & Turn](https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE) | [Yal Solan](https://open.spotify.com/artist/3K2WqXT4Flri79jhZ2VCMs) | [Toss & Turn](https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4) | 2:51 |
 | 31 | [Sawt El Aleb](https://open.spotify.com/track/5RMIlXSlKaQn4v4KLLO68Z) | [Lamar Mireb](https://open.spotify.com/artist/2obL3K3NMz5yFYcqdU2A5Z) | [Sawt El Aleb](https://open.spotify.com/album/65uxLg1sz6E9ZIomWT5auS) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 |
 | 50 | [Leh Ya Hana ?](https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx) | [Arnabeat](https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM) | [Leh Ya Hana ?](https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN) | 3:54 |
 
-Snapshot ID: `MCxmMTMzM2I3MDg1ZGE2NjhlZGUzOWU0ZDhkYmYxMzhjYTc4Yjc1MzQ2`
+Snapshot ID: `MCw1ZWNmN2FmYTA1MDk4MmU4ODA5ZmUxMjlkZjhkYzA2OGZhZGMxOTVm`

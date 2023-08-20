@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 123499,
+  "num_followers": 123547,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2NjYTc4MTdhNzNkZjZjMTExMzc2MzhiMTM3ZTEwNzdiMzk2NjZk",
+  "snapshot_id": "MCxlOWM0ODc2YTY3ZDM3Y2Y3YmE1YzdhMzk1MjFjM2FhMTM3OTg4ZmVm",
   "tracks": [
     {
       "added_at": "2023-08-17 15:21:12",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-08-17 15:21:12",
       "album": {
+        "name": "Burn Dem Bridges",
+        "url": "https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 175676,
+      "name": "Burn Dem Bridges",
+      "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
+    },
+    {
+      "added_at": "2023-08-17 15:21:12",
+      "album": {
         "name": "Say Nothing (feat. MAY-A)",
         "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2023-08-17 15:21:12",
-      "album": {
-        "name": "Burn Dem Bridges",
-        "url": "https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 175676,
-      "name": "Burn Dem Bridges",
-      "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
     },
     {
       "added_at": "2023-08-17 15:21:12",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-08-17 15:21:12",
       "album": {
+        "name": "Bad For Me",
+        "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 177422,
+      "name": "Bad For Me",
+      "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
+    },
+    {
+      "added_at": "2023-08-17 15:21:12",
+      "album": {
         "name": "What Comes Next",
         "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 243599,
       "name": "Get To Know (feat. Winston Surfshirt)",
       "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
-    },
-    {
-      "added_at": "2023-08-17 15:21:12",
-      "album": {
-        "name": "Bad For Me",
-        "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 177422,
-      "name": "Bad For Me",
-      "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
     },
     {
       "added_at": "2023-08-17 15:21:12",

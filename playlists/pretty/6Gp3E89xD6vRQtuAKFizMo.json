@@ -1,13 +1,105 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44484,
+  "num_followers": 44496,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjMyMCxlNGE4N2M1NzIzYTllN2VhODBkMjczMTkyOTU5NDE2YzNhNGFjNDFh",
+  "snapshot_id": "NjMyNSw2YWFjMjU3ZmM4MWM5ZWE4M2ZjYWI2ZWJjN2RjZjU3MTQ2MTQ0YWRl",
   "tracks": [
+    {
+      "added_at": "2023-08-18 15:12:18",
+      "album": {
+        "name": "Kiss Dance Sweat",
+        "url": "https://open.spotify.com/album/1SzY5GQeodrC5MWymA896A"
+      },
+      "artists": [
+        {
+          "name": "Callie Reiff",
+          "url": "https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy"
+        }
+      ],
+      "duration_ms": 137460,
+      "name": "Kiss Dance Sweat",
+      "url": "https://open.spotify.com/track/72oPg6iDZvvTqC6LnIG3xI"
+    },
+    {
+      "added_at": "2023-08-18 15:11:59",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4cCR5OhfpjCIpKCjnTczqy"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        }
+      ],
+      "duration_ms": 153779,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0jgyu7T0uobQ9o2ubMFYDF"
+    },
+    {
+      "added_at": "2023-08-11 14:14:27",
+      "album": {
+        "name": "Badman Riddim (feat. Sweetie Irie)",
+        "url": "https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        }
+      ],
+      "duration_ms": 137910,
+      "name": "Badman Riddim (feat. Sweetie Irie)",
+      "url": "https://open.spotify.com/track/339XYqVhOTiU94uiNHYm6t"
+    },
+    {
+      "added_at": "2023-08-11 14:14:11",
+      "album": {
+        "name": "Back To Us",
+        "url": "https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "Friendzone",
+          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
+        }
+      ],
+      "duration_ms": 174571,
+      "name": "Back To Us",
+      "url": "https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W"
+    },
+    {
+      "added_at": "2023-08-11 14:14:51",
+      "album": {
+        "name": "DISCOTEKEO",
+        "url": "https://open.spotify.com/album/3M1mMhYdhu9vjPgv5JXQ27"
+      },
+      "artists": [
+        {
+          "name": "Andrekza",
+          "url": "https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Papi Pistola",
+      "url": "https://open.spotify.com/track/38AGL5sCrFYfbnvZF4DvcG"
+    },
     {
       "added_at": "2023-08-09 19:00:02",
       "album": {

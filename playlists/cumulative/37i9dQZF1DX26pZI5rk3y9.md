@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-171 songs - 9 hr 57 min
+172 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 | 2022-07-08 | 2023-06-08 |
 | [I'm In The Mood \- Single Version](https://open.spotify.com/track/6hURmYjfqmr5CfK1wSHxtv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Classic John Lee Hooker \- The Universal Masters Collection](https://open.spotify.com/album/1HY1tHggnUZhUvkOE24h7Y) | 2:44 | 2022-05-25 | 2022-07-29 |
 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 | 2022-05-25 | 2023-06-08 |
+| [IDKWYCTD \(I Came To Play\)](https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [IDKWYCTD \(I Came To Play\)](https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw) | 3:00 | 2023-08-18 |  |
 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 4:32 | 2022-05-25 | 2023-06-08 |
 | [Jam With Me](https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6) | [Lance Lopez](https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm) | [Jam With Me](https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ) | 3:21 | 2023-07-14 |  |
 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 | 2022-05-25 | 2023-06-08 |
@@ -146,7 +147,7 @@
 | [She Cooks Me Cabbage](https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues For Everybody](https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7) | 2:36 | 2022-07-08 | 2023-06-08 |
 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 | 2023-06-07 |  |
 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 | 2023-06-07 |  |
-| [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 | 2023-06-07 |  |
+| [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 | 2023-06-07 | 2023-08-20 |
 | [Sneakin’ Around](https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sneakin' Around](https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T) | 3:40 | 2023-08-04 |  |
 | [So Free](https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [So Free](https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L) | 3:17 | 2023-06-07 |  |
 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 | 2022-05-25 | 2023-06-08 |

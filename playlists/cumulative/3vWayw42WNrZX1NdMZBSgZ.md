@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist for hot new updates\. Cover: Ramon Vega, Christian Nodal
+> The perfect mix of the latest pop hits! Follow this playlist for hot new updates\. Click play on Maluma x Carin Leon &quot;Segun Quien&quot;, Rauw Alejandro x Bizarrap &quot;BABY HELLO&quot;, Shakira x Manuel Turizo &quot;Copa Vacia&quot;, and more! Cover: Maluma, Carin Leon
 
-630 songs - 1 day 10 hr 3 min
+632 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [Se Fue la Luz](https://open.spotify.com/track/2M4UXjgRjbQnS8s7lNR9g3) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:39 | 2022-03-24 | 2023-05-26 |
 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 | 2023-06-02 | 2023-06-08 |
 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 | 2022-11-11 | 2023-05-26 |
+| [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 | 2023-08-18 |  |
 | [Seré](https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Seré](https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL) | 2:43 | 2023-01-20 | 2023-06-01 |
 | [Serías Tú](https://open.spotify.com/track/7fzskw4tFfvERodAJxSL1o) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Serías Tú](https://open.spotify.com/album/38IW31iaOK3Zsr73cmSyds) | 3:26 | 2022-05-06 | 2023-05-26 |
 | [Si Me Dices Que Sí](https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Si Me Dices Que Sí](https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV) | 3:31 | 2023-06-02 | 2023-06-08 |
@@ -519,6 +520,7 @@
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2022-02-02 |  |
 | [Solo](https://open.spotify.com/track/0shi1zFuDEXZS8FZcICyxd) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Solo](https://open.spotify.com/album/1ceDfxGH0jLRBQnpx6tlz3) | 2:56 | 2022-04-26 | 2023-05-26 |
 | [solo x ti](https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [solo x ti](https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe) | 3:18 | 2022-07-29 | 2023-05-26 |
+| [solo x ti \- Remix](https://open.spotify.com/track/4SHCYN7oI5bMzMFUF4RrNj) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [solo x ti \(Remix\)](https://open.spotify.com/album/7xVcOKGRAPLBUk2uLzqk0W) | 3:08 | 2023-08-18 |  |
 | [Somos Iguales](https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Louchie Lou](https://open.spotify.com/artist/4DxlG8gbthzgDeDZiywaoQ), [Michie One](https://open.spotify.com/artist/1otleRGxIU5q64yzCNUHsi) | [Somos Iguales](https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3) | 2:52 | 2022-08-10 | 2023-05-26 |
 | [Somos Nada](https://open.spotify.com/track/1kqpo5oFmTYTuHyofHToQ3) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Somos Nada](https://open.spotify.com/album/32pblDS1zwL5VxhQRlEzsO) | 3:01 | 2022-02-02 | 2023-05-26 |
 | [Soñarte](https://open.spotify.com/track/1UJbPo4QxQPrteYZdNY00H) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Soñarte](https://open.spotify.com/album/7DvbHY38S9h6wUfQftT2E6) | 3:05 | 2022-07-01 | 2023-05-26 |

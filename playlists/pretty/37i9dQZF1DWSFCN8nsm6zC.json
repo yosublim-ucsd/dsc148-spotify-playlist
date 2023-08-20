@@ -1,12 +1,12 @@
 {
   "description": "Rock for the road. Cover: The Strokes",
-  "num_followers": 29137,
+  "num_followers": 29181,
   "original_name": "Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWVjMjk2ZjkyMjFmNmM4YzgxOWY1ZWRhZjI3ODhjOWQyMDNiYTRk",
+  "snapshot_id": "MCxkNDhkZTU4NzIyNzk3NDE0YTI5MmMzYzI2MTM0YWYwM2MwY2Y4MTU0",
   "tracks": [
     {
       "added_at": "2021-07-01 23:15:26",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 110093,
-      "name": "Fell In Love With a Girl",
-      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "Bringing Down The Horse",
         "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 312626,
       "name": "One Headlight",
       "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 110093,
+      "name": "Fell In Love With a Girl",
+      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -315,18 +315,18 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Resident Alien",
-        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
       "artists": [
         {
-          "name": "Spacehog",
-          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 299506,
-      "name": "In the Meantime",
-      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -347,18 +347,18 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+        "name": "Resident Alien",
+        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Spacehog",
+          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
         }
       ],
-      "duration_ms": 193106,
-      "name": "1901",
-      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+      "duration_ms": 299506,
+      "name": "In the Meantime",
+      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
     },
     {
-      "added_at": "2022-06-30 18:55:35",
-      "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Cold Hard Bitch",
-      "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
-    },
-    {
       "added_at": "2021-07-01 23:15:26",
       "album": {
         "name": "Veni Vidi Vicious",
@@ -855,6 +839,22 @@
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
+    },
+    {
+      "added_at": "2022-06-30 18:55:35",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Cold Hard Bitch",
+      "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
     },
     {
       "added_at": "2021-07-01 23:15:26",

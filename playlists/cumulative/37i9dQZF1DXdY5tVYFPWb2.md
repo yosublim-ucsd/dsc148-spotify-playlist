@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-628 songs - 1 day 17 hr 33 min
+629 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Be With You \(feat\. Ai Furihata\)](https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Be With You \(feat\. Ai Furihata\)](https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is) | 3:27 | 2022-11-03 | 2023-03-31 |
 | [Be With You feat\. Ai Furihata](https://open.spotify.com/track/6xn2ssISFxIGrWHf0pKrWm) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡愛](https://open.spotify.com/artist/7svLWJb6OOknGzexOOwNNY) | [Be With You feat\. Ai Furihata](https://open.spotify.com/album/79Zl8cuLlP6qWTIZIwpfch) | 3:27 | 2022-11-03 | 2022-11-05 |
 | [Best For Me \- 2023 Edition](https://open.spotify.com/track/4b3Mtvtl2fNv9lfbd2zsju) | [FENNEC FENNEC](https://open.spotify.com/artist/3ipgnVhxY6lwazNcnBvh6G) | [Best For Me \(2023 Edition\)](https://open.spotify.com/album/0bUiuiMpNFquZ9Hy20CPtN) | 3:53 | 2023-08-15 |  |
+| [Better](https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [アウトドア](https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE) | 3:01 | 2023-08-17 |  |
 | [BITTER!](https://open.spotify.com/track/6dmvgAl7jBgYbLBaFw3t3R) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/2l4vECEdLZGPbbRlDWdVXe) | 3:05 | 2022-05-24 | 2023-01-25 |
 | [Blind Touch](https://open.spotify.com/track/3gZLOJ26mpO1rCLcA40GPv) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Zuma \(Nijiirozamurai\)](https://open.spotify.com/artist/2mGHftJVrPjfQJyfNu7OyZ) | [Tokyo City Pop“Portrait”Produced by Kanako Hara](https://open.spotify.com/album/2QvxjUgOLWYIqMvwMvIwZg) | 3:56 | 2023-06-06 | 2023-06-16 |
 | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu) | 4:24 | 2022-05-24 | 2022-07-27 |
@@ -544,7 +545,7 @@
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
 | [入江にて](https://open.spotify.com/track/5xHubhwMi8QcbEz6ZpinEa) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [Sunset Rain](https://open.spotify.com/album/22BSXUMxOXc7ld5DxexT6J) | 4:08 | 2023-03-21 | 2023-03-29 |
 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 | 2022-08-09 | 2022-10-06 |
-| [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/track/7fbisFzuaxYSmIjhPhYotu) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [ミズノマリ \(from paris match\)](https://open.spotify.com/artist/1YDvWXGgyyceWTsBziydY7) | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/album/3owjP8KGMy2LE1alSWSQSI) | 4:39 | 2023-06-06 |  |
+| [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/track/7fbisFzuaxYSmIjhPhYotu) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [ミズノマリ \(from paris match\)](https://open.spotify.com/artist/1YDvWXGgyyceWTsBziydY7) | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/album/3owjP8KGMy2LE1alSWSQSI) | 4:39 | 2023-06-06 | 2023-08-20 |
 | [君は幻](https://open.spotify.com/track/1YEGUAQz96PSwUL9FGAV1Z) | [Koki Okamoto](https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i) | [君は幻](https://open.spotify.com/album/0wbSh6gSs5M9riJ38XAExS) | 3:27 | 2022-06-02 | 2022-07-26 |
 | [呼応](https://open.spotify.com/track/0OMJowWWNkPNcN2ljEsHqA) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [呼応](https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU) | 4:37 | 2022-08-11 | 2022-08-17 |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-16 | 2023-07-05 |

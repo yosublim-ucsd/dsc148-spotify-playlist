@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 
 > these equations aren&\#x27;t adding up.
 
-[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 194 songs - 11 hr 23 min
+[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 197 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,5 +202,8 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 | 192 | [So Beautiful](https://open.spotify.com/track/6syar8JKCt3R9ZBl11zmgI) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:07 |
 | 193 | [could you love me while i hate myself](https://open.spotify.com/track/7uo2L5FAja3pWIBa3HJVeC) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [scared of everything](https://open.spotify.com/album/6qf1Qjmib5fOTb18Ju6uA9) | 1:00 |
 | 194 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
+| 195 | [i'm so lonely with you](https://open.spotify.com/track/0iMfr1JUzW8M8ip40vYk6H) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:49 |
+| 196 | [strawberry milk](https://open.spotify.com/track/2ZXM6D8U2UokuOjbasoq1r) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP) | 0:50 |
+| 197 | [my fault](https://open.spotify.com/track/46nXKRBeHUxVFvyxkcGPWF) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP) | 1:00 |
 
-Snapshot ID: `Mjk2LDMxOTc4YjYxMzFhZGRhYTVkMjVkNDVjNjAyNTVkMmNiZTk0OWM0NmM=`
+Snapshot ID: `Mjk5LGU1NjViZjYxMmNlZTFlYWIzOTg2YTdmMjhhYzFhMWZkMTZmYjExZmY=`

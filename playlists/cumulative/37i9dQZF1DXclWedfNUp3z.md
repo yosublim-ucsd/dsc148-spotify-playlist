@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-373 songs - 1 day 1 hr 39 min
+374 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Chysis](https://open.spotify.com/track/6mYwBPBDXp6US3zyYgpvHY) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Chysis](https://open.spotify.com/album/27jkNII5NNORpvfdzkD9Wd) | 6:24 | 2021-10-20 | 2022-07-29 |
 | [Chéri \- Instrumental](https://open.spotify.com/track/29h9FSnDewNpgDhVVGgYb0) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/6IyiPFsPNCbehAh0dFYRJ6) | 3:25 | 2023-04-18 | 2023-04-26 |
 | [Chéri \- Instrumental](https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:25 | 2023-04-18 | 2023-07-03 |
+| [Cigarra](https://open.spotify.com/track/1UjI4B3gCKYxDMTd0n7J9Q) | [Fábio Caramuru](https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH) | [Ecomúsica: Conversas de um Piano Com a Fauna Brasileira](https://open.spotify.com/album/5YNZYOdNSUDyMfJu0exTeb) | 4:59 | 2021-10-20 |  |
 | [Cigarra](https://open.spotify.com/track/6mESobRGEJZZAPF0pHzREQ) | [Fábio Caramuru](https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH) | [Ecomúsica: Conversas de um Piano Com a Fauna Brasileira](https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM) | 5:03 | 2021-10-20 | 2023-08-12 |
 | [Circular Wave Forms.](https://open.spotify.com/track/2naBJ9nAQbE2k90VW7LrXz) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/1OkmNV0J7pYQQy9wfcD5dd) | 3:00 | 2021-10-20 | 2022-04-13 |
 | [Circular Wave Forms.](https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla) | 3:00 | 2021-10-20 |  |
@@ -354,7 +355,7 @@
 | [Untitled \#1](https://open.spotify.com/track/76OcZrqKbSjdieuZANmhCC) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [The Ocean No Longer Wants Us](https://open.spotify.com/album/19ES9czYSnkJaASi8hlZPC) | 8:21 | 2021-10-20 | 2022-06-10 |
 | [V.](https://open.spotify.com/track/2mKht77kfPCde5fOCIBfSi) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF) | [Nocturnal](https://open.spotify.com/album/0JFGc8K3o9Dl1NR9JLTF8b) | 2:48 | 2021-10-20 | 2022-04-21 |
 | [V.](https://open.spotify.com/track/3dNY6woOGqmjAGYWCxutOw) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF) | [Nocturnal](https://open.spotify.com/album/1c4GN3QhqkSl0AMeRAfvRC) | 2:48 | 2021-10-20 |  |
-| [Ventus](https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q) | [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Ventus](https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY) | 5:04 | 2023-02-14 |  |
+| [Ventus](https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q) | [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Ventus](https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY) | 5:04 | 2023-02-14 | 2023-08-20 |
 | [venus mist](https://open.spotify.com/track/6UEHWnyYNSTjgqxxJF84wQ) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:12 | 2022-02-18 | 2022-07-29 |
 | [wading through the wetlands](https://open.spotify.com/track/41DB59gjQcplKWlQPI89lt) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [mudflat hikers](https://open.spotify.com/album/3sFJdoo3cHihNzJtPEaOHw) | 2:44 | 2021-10-20 |  |
 | [wading through the wetlands](https://open.spotify.com/track/70s82y5YSYOsLhlQnZNh1E) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [mudflat hikers](https://open.spotify.com/album/5unmEFWv7YiVMV39friIJY) | 2:44 | 2021-10-20 | 2022-04-21 |

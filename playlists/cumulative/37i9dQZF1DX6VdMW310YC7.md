@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,507 songs - 4 day 7 hr 52 min
+1,508 songs - 4 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 | 2022-07-01 |  |
 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/5heenx8v6qCOumRI9jpRBS) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy) | 5:10 | 2020-05-18 | 2022-04-21 |
 | [Feels \- Jai Wolf Remix](https://open.spotify.com/track/57rOXabUKgkrwHPSqzo4s5) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Feels \(Jai Wolf Remix\)](https://open.spotify.com/album/5TS42SVHSUrRj89XXmT3Ku) | 4:30 | 2020-05-18 | 2020-07-03 |
-| [Feels Just Like It](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 | 2023-05-12 |  |
+| [Feels Just Like It](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 | 2023-05-12 | 2023-08-20 |
 | [Feld](https://open.spotify.com/track/0upmaRJ3u80GMkzpC6lIF1) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Feld / Anthracite](https://open.spotify.com/album/5XrY8yQEAgpKQ5t8IxBPZT) | 4:15 | 2020-03-17 | 2021-03-06 |
 | [Fell in Love With You \(feat\. Cristina Llull\)](https://open.spotify.com/track/0JxOchJtqL5kXkF6dGhi2o) | [Hilow](https://open.spotify.com/artist/1oE1z5CWxSP1IaTfGB23Hm), [Cristina Hart](https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn) | [Fell in Love With You \(feat\. Cristina Llull\)](https://open.spotify.com/album/3GXgRn1lGbQ3O1ta7peOHG) | 2:55 | 2020-05-18 | 2020-07-03 |
 | [Felt](https://open.spotify.com/track/4PEzlq4PRji8R5yP3D5KTP) | [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Felt](https://open.spotify.com/album/7D2uhVTObq48ZaHEkWsRsh) | 5:07 | 2021-04-26 | 2022-04-25 |
@@ -780,6 +780,7 @@
 | [Limits](https://open.spotify.com/track/6WObvqFvHHiz24Vnbn8aXc) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Standing Still](https://open.spotify.com/album/0mZOETX4JjeTQCJrYJ7lg2) | 3:50 | 2021-04-30 | 2022-06-16 |
 | [Little Voices](https://open.spotify.com/track/1LMmtQcanJ1SQ6GB08NZsR) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little Voices](https://open.spotify.com/album/4HTFKOuRazkQkEb0A6tnpQ) | 6:39 | 2020-02-29\* | 2020-03-16 |
 | [Lock It Up](https://open.spotify.com/track/1ogUN2xB4qKAs2qPeEJp39) | [Paul Mayson](https://open.spotify.com/artist/2aSbTqzj52OymR8fEx4dca), [Brave](https://open.spotify.com/artist/01KDvLstg6DnLjN8eHnTUY) | [Run EP](https://open.spotify.com/album/0HUtolDFfAYy34JNLe8AZD) | 3:31 | 2020-05-18 | 2020-07-03 |
+| [Lonely](https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Lonely](https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp) | 4:10 | 2023-08-18 |  |
 | [Lonely Man of Winter \- Doveman Mix feat\. Melissa Mary Ahern](https://open.spotify.com/track/593ZLxBJwoqT9WkkTTI2HA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Melissa Mary Ahern](https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2) | [Lonely Man of Winter](https://open.spotify.com/album/6ih3mS49nmttFRS8A63X7L) | 3:39 | 2020-05-18 | 2020-10-10 |
 | [Long Time Coming](https://open.spotify.com/track/16LzUBaDdv3aYB8GbLMA6m) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Brighter Future](https://open.spotify.com/album/39Emg3duoZHR4LrE7gziK3) | 2:19 | 2020-05-18 | 2021-03-10 |
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2020-10-19 | 2020-11-04 |

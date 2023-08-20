@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 91307,
+  "num_followers": 91359,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGEyNTJlYWQxMGI0MDYyOGRjMWEyYjZlNzA0M2RkNDFkMmM5MDFj",
+  "snapshot_id": "MCxhNzk2ZTMwNTljYTNhMDYyYmIwMzA2YTcyYTE1NmE4MjZmNzBmZTFl",
   "tracks": [
     {
       "added_at": "2023-07-21 03:24:44",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 119401,
+      "name": "but I'll wait for you",
+      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
+    },
+    {
+      "added_at": "2023-07-21 03:24:44",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2023-07-21 03:24:44",
-      "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 119401,
-      "name": "but I'll wait for you",
-      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
     },
     {
       "added_at": "2023-07-21 03:24:44",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
-      },
-      "artists": [
-        {
-          "name": "Choco And Vanilla",
-          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
-        }
-      ],
-      "duration_ms": 176997,
-      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
-    },
-    {
-      "added_at": "2023-07-21 03:24:44",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6lc1CGb9DBXKszqEzMGZq7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 221533,
       "name": "You",
       "url": "https://open.spotify.com/track/3YGSzYH6RBrT38iObc3w8q"
+    },
+    {
+      "added_at": "2023-07-21 03:24:44",
+      "album": {
+        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
+      },
+      "artists": [
+        {
+          "name": "Choco And Vanilla",
+          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
     },
     {
       "added_at": "2023-07-21 03:24:44",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "SINK",
-        "url": "https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
       },
       "artists": [
         {
-          "name": "Rad Museum",
-          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+          "name": "imzoo",
+          "url": "https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y"
         }
       ],
-      "duration_ms": 190588,
-      "name": "This Night",
-      "url": "https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ"
+      "duration_ms": 188749,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
     },
     {
       "added_at": "2023-07-21 03:24:44",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
+        "name": "SINK",
+        "url": "https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN"
       },
       "artists": [
         {
-          "name": "imzoo",
-          "url": "https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y"
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
         }
       ],
-      "duration_ms": 188749,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
+      "duration_ms": 190588,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ"
     },
     {
       "added_at": "2023-07-21 03:24:44",

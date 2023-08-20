@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-72 songs - 5 hr 13 min
+73 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Burning Heart of God](https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:16 | 2022-10-28 |  |
 | [Burning In My Soul](https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:45 | 2022-09-14 |  |
 | [Center of All History](https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:22 | 2022-09-14 |  |
+| [Christ is Lower Still](https://open.spotify.com/track/3khXjhwcTYr2wcZX2umXUy) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Christ is Lower Still](https://open.spotify.com/album/6WDO8iw502euvnrfushQDL) | 5:56 | 2023-08-19 |  |
 | [Christ Is Risen](https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 4:54 | 2022-09-14 |  |
 | [Come As You Are \(Live\)](https://open.spotify.com/track/2fZaAbJv0MYegwqjSmI10W) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:32 | 2022-09-14 | 2022-10-21 |
 | [Common Ground \(feat\. Dee Wilson\) \- Live](https://open.spotify.com/track/3armidhEXA4Ky23Wj97pFQ) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [Common Ground \- EP](https://open.spotify.com/album/7MJvVVKJZANsWfQfCz70r6) | 6:05 | 2022-09-14 |  |

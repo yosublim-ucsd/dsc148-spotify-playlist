@@ -1,12 +1,12 @@
 {
   "description": "&#x27;Spektre&#x27;s Selection&#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! #respekt",
-  "num_followers": 1374,
+  "num_followers": 1372,
   "original_name": "Spektre's Selection",
   "owner": {
     "name": "spektrelive",
     "url": "https://open.spotify.com/user/spektrelive"
   },
-  "snapshot_id": "MTc0MiwxNDI3ODI4YjJkMDZhMGM3YjYwMTI4NGMwYWIxNmVkZDViZWM5MmQ2",
+  "snapshot_id": "MTc0NCxjMzQzMjk2MThiMzdjMjBlY2EwNjM2MjI0Njg1ZTNjZWIwNDRjOWQ0",
   "tracks": [
     {
       "added_at": "2023-06-06 19:26:39",
@@ -1731,6 +1731,38 @@
       "duration_ms": 225375,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/33jUhN85Ly3yaOdSoVyp1d"
+    },
+    {
+      "added_at": "2023-08-15 18:47:29",
+      "album": {
+        "name": "In Control",
+        "url": "https://open.spotify.com/album/34ButLQg3S3CugEn6CPQ9s"
+      },
+      "artists": [
+        {
+          "name": "Jo Poole",
+          "url": "https://open.spotify.com/artist/3d8oVrrMiYpjm8iHGj7CYF"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "In Control",
+      "url": "https://open.spotify.com/track/6SdZhw93QmruQx0myotn6B"
+    },
+    {
+      "added_at": "2023-08-15 18:47:33",
+      "album": {
+        "name": "In Control",
+        "url": "https://open.spotify.com/album/34ButLQg3S3CugEn6CPQ9s"
+      },
+      "artists": [
+        {
+          "name": "Jo Poole",
+          "url": "https://open.spotify.com/artist/3d8oVrrMiYpjm8iHGj7CYF"
+        }
+      ],
+      "duration_ms": 208458,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/1kNsgWpbSPHtGZC5cdHm5R"
     }
   ],
   "unique_name": "Spektre's Selection",

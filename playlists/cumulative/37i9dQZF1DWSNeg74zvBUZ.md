@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-150 songs - 11 hr 31 min
+151 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Chipinque](https://open.spotify.com/track/2nY28xLbU220DiDAc3177k) | [Tiempo Fuera](https://open.spotify.com/artist/3tsfuCKw78MCVfLoKHUn4Z) | [Chipinque](https://open.spotify.com/album/1C66AJuEWFwkg2MB9JnkjM) | 3:14 | 2023-05-24 |  |
 | [Chromakey Dreamcoat](https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:47 | 2021-09-10 | 2023-02-02 |
 | [Chromakey Dreamcoat](https://open.spotify.com/track/6ebsOJuLxaE2ArKhm1DMqP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:47 | 2021-09-10 |  |
+| [Cigarra](https://open.spotify.com/track/1UjI4B3gCKYxDMTd0n7J9Q) | [Fábio Caramuru](https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH) | [Ecomúsica: Conversas de um Piano Com a Fauna Brasileira](https://open.spotify.com/album/5YNZYOdNSUDyMfJu0exTeb) | 4:59 | 2021-09-10 |  |
 | [Cigarra](https://open.spotify.com/track/6mESobRGEJZZAPF0pHzREQ) | [Fábio Caramuru](https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH) | [Ecomúsica: Conversas de um Piano Com a Fauna Brasileira](https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM) | 5:03 | 2021-09-10 | 2023-08-12 |
 | [Clarity](https://open.spotify.com/track/2daJNTleEs6jbmOUQGO3vZ) | [Lightseeds](https://open.spotify.com/artist/6OGtOD61GQjlbDhhjJ5ZgC) | [Clarity](https://open.spotify.com/album/53scKXqT6xR9NlhTBMU9BE) | 2:21 | 2022-02-18 | 2022-07-28 |
 | [clarity](https://open.spotify.com/track/7smjNSQAciZfQHDyF1Nxp2) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [clarity](https://open.spotify.com/album/08yhzYG1zpG0HxfXX2hjHE) | 2:19 | 2021-09-10 | 2022-07-29 |
@@ -60,7 +61,7 @@
 | [Dissolving Clouds](https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 4:28 | 2021-09-10 |  |
 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 | 2022-03-16 | 2022-07-29 |
 | [Dwellberry](https://open.spotify.com/track/47D1bGtpL5gzlPgxjV7kgB) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/2f3uhql1s62iUw61GMvpRM) | 4:43 | 2021-09-10 | 2022-07-29 |
-| [Dwellberry](https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 4:43 | 2021-09-10 |  |
+| [Dwellberry](https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 4:43 | 2021-09-10 | 2023-08-20 |
 | [Ella Estudia Astrologia](https://open.spotify.com/track/1npVjjSSarqKG0PPm1wa12) | [Pablo Neptuno](https://open.spotify.com/artist/3wcvDHkiKo11isqS7yvjyG) | [Los Días Serán Más Cortos](https://open.spotify.com/album/4TgXIydTP8MIuVVdQOnvUA) | 5:53 | 2021-09-10 | 2022-07-29 |
 | [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 | 2021-09-10 | 2023-06-07 |
 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 | 2021-09-10 | 2023-04-15 |

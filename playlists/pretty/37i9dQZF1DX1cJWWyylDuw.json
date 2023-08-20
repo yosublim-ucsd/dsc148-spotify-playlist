@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Humanity's Last Breath",
-  "num_followers": 140941,
+  "num_followers": 141247,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2FjMTMxOTVmNDgyMjhlYzA5OGQxNDY5Y2NlNTEyM2M1OWJkZWZm",
+  "snapshot_id": "MCxkZTg2ZDI5MTRiNjA0NmM4MDVhZThhZTA3Yjk1ZTczZDBkMWMwMzg5",
   "tracks": [
     {
       "added_at": "2023-08-16 15:09:32",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Ghost Of Me",
-        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "Ghost Of Me",
-      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "Kostolom",
         "url": "https://open.spotify.com/album/37XaKB6rpfLrR4572PBCSs"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 255000,
       "name": "Baba Yaga",
       "url": "https://open.spotify.com/track/0RSkbK5eWAPY5W5l5Q08zf"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Ghost Of Me",
+        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Ghost Of Me",
+      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "1984",
-        "url": "https://open.spotify.com/album/5RYY90zPEcG3XxZhueE6Y3"
-      },
-      "artists": [
-        {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "1984",
-      "url": "https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "A Tear in the Fabric of Life",
         "url": "https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 214171,
       "name": "God Knows",
       "url": "https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "1984",
+        "url": "https://open.spotify.com/album/5RYY90zPEcG3XxZhueE6Y3"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -799,38 +799,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Zwielicht",
-        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
-      },
-      "artists": [
-        {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
-        }
-      ],
-      "duration_ms": 307526,
-      "name": "Obsessis a Daemonio",
-      "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "Passage",
-        "url": "https://open.spotify.com/album/2GbDuyNFDrydBZIk8YcuT1"
-      },
-      "artists": [
-        {
-          "name": "Humanity's Last Breath",
-          "url": "https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E"
-        }
-      ],
-      "duration_ms": 254209,
-      "name": "Passage",
-      "url": "https://open.spotify.com/track/6rHuJ8vgYvsHT46uKhrAi9"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v"
       },
@@ -847,6 +815,38 @@
       "duration_ms": 248200,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Zwielicht",
+        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
+      },
+      "artists": [
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "duration_ms": 307526,
+      "name": "Obsessis a Daemonio",
+      "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Behind the Hand of God",
+        "url": "https://open.spotify.com/album/7kLGqxeAyPv2PYRk8dUYBp"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "Behind the Hand of God",
+      "url": "https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -883,34 +883,18 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Behind the Hand of God",
-        "url": "https://open.spotify.com/album/7kLGqxeAyPv2PYRk8dUYBp"
+        "name": "Passage",
+        "url": "https://open.spotify.com/album/2GbDuyNFDrydBZIk8YcuT1"
       },
       "artists": [
         {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+          "name": "Humanity's Last Breath",
+          "url": "https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E"
         }
       ],
-      "duration_ms": 200307,
-      "name": "Behind the Hand of God",
-      "url": "https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "Tower of Torsos",
-        "url": "https://open.spotify.com/album/2bPi3VonAP6mtglL6iKtfX"
-      },
-      "artists": [
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 209437,
-      "name": "Tower of Torsos",
-      "url": "https://open.spotify.com/track/6RCgSGMboHdokG852OILQm"
+      "duration_ms": 254209,
+      "name": "Passage",
+      "url": "https://open.spotify.com/track/6rHuJ8vgYvsHT46uKhrAi9"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
+        "name": "Tower of Torsos",
+        "url": "https://open.spotify.com/album/2bPi3VonAP6mtglL6iKtfX"
+      },
+      "artists": [
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "duration_ms": 209437,
+      "name": "Tower of Torsos",
+      "url": "https://open.spotify.com/track/6RCgSGMboHdokG852OILQm"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
         "name": "In Dying Days",
         "url": "https://open.spotify.com/album/3sCRkXKFnu5rvkB4LYmVGC"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "The Orphan",
-        "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 383037,
-      "name": "The Orphan",
-      "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "D.N.R.",
         "url": "https://open.spotify.com/album/3Jb26tZv6zc3zRwyWi4dKG"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
+        "name": "The Orphan",
+        "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 383037,
+      "name": "The Orphan",
+      "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
         "name": "Cut Off The Head",
         "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
       },
@@ -1031,6 +1031,22 @@
       "duration_ms": 210352,
       "name": "Cut off the Head",
       "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Pernicious",
+        "url": "https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk"
+      },
+      "artists": [
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "duration_ms": 315178,
+      "name": "Pernicious",
+      "url": "https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Pernicious",
-        "url": "https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk"
-      },
-      "artists": [
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 315178,
-      "name": "Pernicious",
-      "url": "https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "Born To Lose",
         "url": "https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6"
       },
@@ -1095,58 +1095,6 @@
       "duration_ms": 192553,
       "name": "Born To Lose",
       "url": "https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "The Bleeding Machine",
-        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
-      },
-      "artists": [
-        {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
-        },
-        {
-          "name": "Elysia",
-          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
-        }
-      ],
-      "duration_ms": 223381,
-      "name": "The Bleeding Machine",
-      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "God Hand",
-        "url": "https://open.spotify.com/album/3vnofNSDDHTomiI8cIZrpb"
-      },
-      "artists": [
-        {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
-        }
-      ],
-      "duration_ms": 196063,
-      "name": "Charlotte",
-      "url": "https://open.spotify.com/track/1MCRmDZQsbB1r2KP8dsWKO"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1171,6 +1119,58 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
+        "name": "God Hand",
+        "url": "https://open.spotify.com/album/3vnofNSDDHTomiI8cIZrpb"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        }
+      ],
+      "duration_ms": 196063,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/1MCRmDZQsbB1r2KP8dsWKO"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "The Bleeding Machine",
+        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
+      },
+      "artists": [
+        {
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+        },
+        {
+          "name": "Elysia",
+          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
+        }
+      ],
+      "duration_ms": 223381,
+      "name": "The Bleeding Machine",
+      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 216400,
       "name": "Rage",
       "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "Feral",
-        "url": "https://open.spotify.com/album/1ysr3SlffkcJMqFtX9Ykxe"
-      },
-      "artists": [
-        {
-          "name": "Left to Suffer",
-          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
-        }
-      ],
-      "duration_ms": 211835,
-      "name": "Consistent Suffering",
-      "url": "https://open.spotify.com/track/2c2iD9Wq0TajHayTCKSaVl"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1219,6 +1203,22 @@
       "duration_ms": 171739,
       "name": "Good People",
       "url": "https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Feral",
+        "url": "https://open.spotify.com/album/1ysr3SlffkcJMqFtX9Ykxe"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "duration_ms": 211835,
+      "name": "Consistent Suffering",
+      "url": "https://open.spotify.com/track/2c2iD9Wq0TajHayTCKSaVl"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "A Bloodsoaked Symphony",
-        "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
-      },
-      "artists": [
-        {
-          "name": "Whitechapel",
-          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
-        }
-      ],
-      "duration_ms": 268283,
-      "name": "A Bloodsoaked Symphony",
-      "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "Dead Man's Diary",
         "url": "https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn"
       },
@@ -1287,6 +1271,38 @@
       "duration_ms": 279060,
       "name": "Dead Man's Diary",
       "url": "https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Bestial Devastation",
+        "url": "https://open.spotify.com/album/7daofMPFpO2A5zfIfWWJo3"
+      },
+      "artists": [
+        {
+          "name": "Cavalera Conspiracy",
+          "url": "https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV"
+        }
+      ],
+      "duration_ms": 184221,
+      "name": "Bestial Devastation - Re-Recorded",
+      "url": "https://open.spotify.com/track/0qWD1JSQ3NH4bq9ZkRcDbm"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "A Bloodsoaked Symphony",
+        "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "duration_ms": 268283,
+      "name": "A Bloodsoaked Symphony",
+      "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Bestial Devastation",
-        "url": "https://open.spotify.com/album/7daofMPFpO2A5zfIfWWJo3"
-      },
-      "artists": [
-        {
-          "name": "Cavalera Conspiracy",
-          "url": "https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV"
-        }
-      ],
-      "duration_ms": 184221,
-      "name": "Bestial Devastation - Re-Recorded",
-      "url": "https://open.spotify.com/track/0qWD1JSQ3NH4bq9ZkRcDbm"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "Behind The Crowd",
         "url": "https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM"
       },
@@ -1371,38 +1371,6 @@
       "duration_ms": 194208,
       "name": "Behind the Crowd",
       "url": "https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "A Love To Kill For",
-        "url": "https://open.spotify.com/album/78lMWOIljykkcV0WucWMpj"
-      },
-      "artists": [
-        {
-          "name": "Chamber",
-          "url": "https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN"
-        }
-      ],
-      "duration_ms": 137198,
-      "name": "Retribution",
-      "url": "https://open.spotify.com/track/0Jzuwvzp8EpPv0nXBtM2XR"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "When a Demon Defiles a Witch",
-        "url": "https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I"
-      },
-      "artists": [
-        {
-          "name": "Whitechapel",
-          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
-        }
-      ],
-      "duration_ms": 284635,
-      "name": "When a Demon Defiles a Witch",
-      "url": "https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1427,6 +1395,38 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
+        "name": "Deathtouch",
+        "url": "https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 201101,
+      "name": "Deathtouch",
+      "url": "https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "A Love To Kill For",
+        "url": "https://open.spotify.com/album/78lMWOIljykkcV0WucWMpj"
+      },
+      "artists": [
+        {
+          "name": "Chamber",
+          "url": "https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN"
+        }
+      ],
+      "duration_ms": 137198,
+      "name": "Retribution",
+      "url": "https://open.spotify.com/track/0Jzuwvzp8EpPv0nXBtM2XR"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
         "name": "Vermin",
         "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
       },
@@ -1443,18 +1443,54 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Deathtouch",
-        "url": "https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ"
+        "name": "When a Demon Defiles a Witch",
+        "url": "https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I"
       },
       "artists": [
         {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
         }
       ],
-      "duration_ms": 201101,
-      "name": "Deathtouch",
-      "url": "https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt"
+      "duration_ms": 284635,
+      "name": "When a Demon Defiles a Witch",
+      "url": "https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Miserable Summer",
+        "url": "https://open.spotify.com/album/7cdW7W8dJBUoUoHuarLsb2"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "duration_ms": 294782,
+      "name": "Miserable Summer",
+      "url": "https://open.spotify.com/track/1TqxaBXzqepHJHcI2QAoRu"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Aeons of Oblivion",
+        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Adam Warren",
+          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
+        }
+      ],
+      "duration_ms": 221446,
+      "name": "Aeons of Oblivion",
+      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1483,22 +1519,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Miserable Summer",
-        "url": "https://open.spotify.com/album/7cdW7W8dJBUoUoHuarLsb2"
-      },
-      "artists": [
-        {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
-        }
-      ],
-      "duration_ms": 294782,
-      "name": "Miserable Summer",
-      "url": "https://open.spotify.com/track/1TqxaBXzqepHJHcI2QAoRu"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "Exit Wounds",
         "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
       },
@@ -1515,22 +1535,18 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Aeons of Oblivion",
-        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
+        "name": "Dead Rabbit",
+        "url": "https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0"
       },
       "artists": [
         {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        },
-        {
-          "name": "Adam Warren",
-          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
         }
       ],
-      "duration_ms": 221446,
-      "name": "Aeons of Oblivion",
-      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
+      "duration_ms": 191023,
+      "name": "Dead Rabbit",
+      "url": "https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1563,38 +1579,6 @@
       "duration_ms": 247282,
       "name": "The Price of Grace",
       "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "Dead Rabbit",
-        "url": "https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 191023,
-      "name": "Dead Rabbit",
-      "url": "https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "Satanic Panic",
-        "url": "https://open.spotify.com/album/23AQtVK3O0inRP1rBAuwcG"
-      },
-      "artists": [
-        {
-          "name": "Impending Doom",
-          "url": "https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Satanic Panic",
-      "url": "https://open.spotify.com/track/2VQGwuPW5yKa4CximuFlQh"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
+        "name": "Satanic Panic",
+        "url": "https://open.spotify.com/album/23AQtVK3O0inRP1rBAuwcG"
+      },
+      "artists": [
+        {
+          "name": "Impending Doom",
+          "url": "https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Satanic Panic",
+      "url": "https://open.spotify.com/track/2VQGwuPW5yKa4CximuFlQh"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
         "name": "From Ruin... We Rise",
         "url": "https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW"
       },
@@ -1663,22 +1663,6 @@
       "duration_ms": 290844,
       "name": "From Ruin... We Rise",
       "url": "https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "Downer",
-        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 218471,
-      "name": "Kimo",
-      "url": "https://open.spotify.com/track/5AkX89uLg47wse4Z1g6oil"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1711,6 +1695,22 @@
       "duration_ms": 228186,
       "name": "Bleed the Future",
       "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Downer",
+        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 218471,
+      "name": "Kimo",
+      "url": "https://open.spotify.com/track/5AkX89uLg47wse4Z1g6oil"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Culling Culture",
-        "url": "https://open.spotify.com/album/3ILJRDzXPGR8104VfpAz0U"
-      },
-      "artists": [
-        {
-          "name": "VEXED",
-          "url": "https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Hideous",
-      "url": "https://open.spotify.com/track/7aJcCmELuZ3Tqd19oVQD7n"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "Hellmouth",
         "url": "https://open.spotify.com/album/42xWOp9Wymj0Wh21YKLkqD"
       },
@@ -1879,18 +1863,18 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Axe Of Kindness",
-        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
+        "name": "Culling Culture",
+        "url": "https://open.spotify.com/album/3ILJRDzXPGR8104VfpAz0U"
       },
       "artists": [
         {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+          "name": "VEXED",
+          "url": "https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH"
         }
       ],
-      "duration_ms": 248600,
-      "name": "Axe of Kindness",
-      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
+      "duration_ms": 254000,
+      "name": "Hideous",
+      "url": "https://open.spotify.com/track/7aJcCmELuZ3Tqd19oVQD7n"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1907,6 +1891,22 @@
       "duration_ms": 158365,
       "name": "The Cycle Of Violence : Chapter 1",
       "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Axe Of Kindness",
+        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "Axe of Kindness",
+      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Days Before the World Wept",
-        "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
-      },
-      "artists": [
-        {
-          "name": "The Agonist",
-          "url": "https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak"
-        }
-      ],
-      "duration_ms": 293308,
-      "name": "Remnants in Time",
-      "url": "https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "Death Whistle",
         "url": "https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8"
       },
@@ -1991,34 +1975,18 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Into the Abyss",
-        "url": "https://open.spotify.com/album/69fNGvNsEPvOxmHOLhNH1t"
+        "name": "Days Before the World Wept",
+        "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
       },
       "artists": [
         {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
+          "name": "The Agonist",
+          "url": "https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak"
         }
       ],
-      "duration_ms": 203706,
-      "name": "Into the Abyss",
-      "url": "https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "Paranoid Skizoid",
-        "url": "https://open.spotify.com/album/3HX4nigXg6PaUMBhDgAFXO"
-      },
-      "artists": [
-        {
-          "name": "DeadSquad",
-          "url": "https://open.spotify.com/artist/2By8ec9DQOnN2aiiFyrQ82"
-        }
-      ],
-      "duration_ms": 182084,
-      "name": "Paranoid Skizoid",
-      "url": "https://open.spotify.com/track/15KxR0KLfryV2yNKU8WFf3"
+      "duration_ms": 293308,
+      "name": "Remnants in Time",
+      "url": "https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -2039,22 +2007,34 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Giant Green Destruction",
-        "url": "https://open.spotify.com/album/2oXcYDIhZg7GSqqYHLeMnP"
+        "name": "Paranoid Skizoid",
+        "url": "https://open.spotify.com/album/3HX4nigXg6PaUMBhDgAFXO"
       },
       "artists": [
         {
-          "name": "The Ogre Packet Slammers",
-          "url": "https://open.spotify.com/artist/7zSuK84B2D61DFzsOPQrev"
-        },
-        {
-          "name": "Tre' Perdue",
-          "url": "https://open.spotify.com/artist/3Y82rXGkKUgvWCkGA8qpHR"
+          "name": "DeadSquad",
+          "url": "https://open.spotify.com/artist/2By8ec9DQOnN2aiiFyrQ82"
         }
       ],
-      "duration_ms": 184285,
-      "name": "Stay Out of My Swamp",
-      "url": "https://open.spotify.com/track/7puhKmQVgOl50FiOOYXgZH"
+      "duration_ms": 182084,
+      "name": "Paranoid Skizoid",
+      "url": "https://open.spotify.com/track/15KxR0KLfryV2yNKU8WFf3"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Into the Abyss",
+        "url": "https://open.spotify.com/album/69fNGvNsEPvOxmHOLhNH1t"
+      },
+      "artists": [
+        {
+          "name": "Unearth",
+          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Into the Abyss",
+      "url": "https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -2075,18 +2055,22 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "How To Live And How To Lose",
-        "url": "https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp"
+        "name": "Giant Green Destruction",
+        "url": "https://open.spotify.com/album/2oXcYDIhZg7GSqqYHLeMnP"
       },
       "artists": [
         {
-          "name": "Octopus Montage",
-          "url": "https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG"
+          "name": "The Ogre Packet Slammers",
+          "url": "https://open.spotify.com/artist/7zSuK84B2D61DFzsOPQrev"
+        },
+        {
+          "name": "Tre' Perdue",
+          "url": "https://open.spotify.com/artist/3Y82rXGkKUgvWCkGA8qpHR"
         }
       ],
-      "duration_ms": 255400,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw"
+      "duration_ms": 184285,
+      "name": "Stay Out of My Swamp",
+      "url": "https://open.spotify.com/track/7puhKmQVgOl50FiOOYXgZH"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -2127,6 +2111,22 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
+        "name": "How To Live And How To Lose",
+        "url": "https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp"
+      },
+      "artists": [
+        {
+          "name": "Octopus Montage",
+          "url": "https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
       },
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "duration_ms": 234294,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
         "name": "No One's Above",
         "url": "https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 275875,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/3x55ZUGp740NTVGOySqsBI"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
-      },
-      "artists": [
-        {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
-        }
-      ],
-      "duration_ms": 234294,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Prismatic Tomb",
-        "url": "https://open.spotify.com/album/3KobQQOwPNR4YHpWMnhypq"
-      },
-      "artists": [
-        {
-          "name": "Crown Magnetar",
-          "url": "https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx"
-        }
-      ],
-      "duration_ms": 245113,
-      "name": "Prismatic Tomb",
-      "url": "https://open.spotify.com/track/1J29uFlkIBR6IbydTvz4Pv"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
         "name": "Borderline Existence",
         "url": "https://open.spotify.com/album/7t2LxAFsO0hzvPSUFsk7XY"
       },
@@ -2379,38 +2363,6 @@
       "duration_ms": 187000,
       "name": "Borderline Existence",
       "url": "https://open.spotify.com/track/5o7pMG40vXYImxaQGOGK5O"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "Desolate Specter",
-        "url": "https://open.spotify.com/album/73vvbakKYjHpokxsROMeKf"
-      },
-      "artists": [
-        {
-          "name": "Termina",
-          "url": "https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo"
-        }
-      ],
-      "duration_ms": 192772,
-      "name": "Desolate Specter",
-      "url": "https://open.spotify.com/track/6UYTzsBQfVCLa5F1WdCJfX"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "Bullets in My Teeth",
-        "url": "https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2"
-      },
-      "artists": [
-        {
-          "name": "Drag Me Out",
-          "url": "https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB"
-        }
-      ],
-      "duration_ms": 295714,
-      "name": "Bullets in My Teeth",
-      "url": "https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -2431,6 +2383,70 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
+        "name": "Desolate Specter",
+        "url": "https://open.spotify.com/album/73vvbakKYjHpokxsROMeKf"
+      },
+      "artists": [
+        {
+          "name": "Termina",
+          "url": "https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo"
+        }
+      ],
+      "duration_ms": 192772,
+      "name": "Desolate Specter",
+      "url": "https://open.spotify.com/track/6UYTzsBQfVCLa5F1WdCJfX"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Prismatic Tomb",
+        "url": "https://open.spotify.com/album/3KobQQOwPNR4YHpWMnhypq"
+      },
+      "artists": [
+        {
+          "name": "Crown Magnetar",
+          "url": "https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx"
+        }
+      ],
+      "duration_ms": 245113,
+      "name": "Prismatic Tomb",
+      "url": "https://open.spotify.com/track/1J29uFlkIBR6IbydTvz4Pv"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Bullets in My Teeth",
+        "url": "https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2"
+      },
+      "artists": [
+        {
+          "name": "Drag Me Out",
+          "url": "https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB"
+        }
+      ],
+      "duration_ms": 295714,
+      "name": "Bullets in My Teeth",
+      "url": "https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
+        "name": "Orphan Of Blight",
+        "url": "https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 280615,
+      "name": "Orphan Of Blight",
+      "url": "https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn"
+    },
+    {
+      "added_at": "2023-08-16 15:09:32",
+      "album": {
         "name": "The Blvck Sun || the Blood Moon",
         "url": "https://open.spotify.com/album/2IFyHzwVS0KBoplhLh5Bq9"
       },
@@ -2447,18 +2463,18 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "Left In The Wake",
-        "url": "https://open.spotify.com/album/5QobPMRtyvAwC9GxkrcSzC"
+        "name": "FRESH BONES",
+        "url": "https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW"
       },
       "artists": [
         {
-          "name": "Mugshot",
-          "url": "https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB"
+          "name": "The Acacia Strain",
+          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
         }
       ],
-      "duration_ms": 159124,
-      "name": "Left in the Wake",
-      "url": "https://open.spotify.com/track/6lg5kxB52nm8w0Tq3C1iEi"
+      "duration_ms": 148560,
+      "name": "FRESH BONES",
+      "url": "https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6"
     },
     {
       "added_at": "2023-08-16 15:09:32",
@@ -2479,34 +2495,18 @@
     {
       "added_at": "2023-08-16 15:09:32",
       "album": {
-        "name": "From Nothing",
-        "url": "https://open.spotify.com/album/04W2vQDW2m6KlJ0oFgudUz"
+        "name": "Left In The Wake",
+        "url": "https://open.spotify.com/album/5QobPMRtyvAwC9GxkrcSzC"
       },
       "artists": [
         {
-          "name": "Reflections",
-          "url": "https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr"
+          "name": "Mugshot",
+          "url": "https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB"
         }
       ],
-      "duration_ms": 231989,
-      "name": "From Nothing",
-      "url": "https://open.spotify.com/track/5OejDZoN7KYcDUZhj9gxNL"
-    },
-    {
-      "added_at": "2023-08-16 15:09:32",
-      "album": {
-        "name": "FRESH BONES",
-        "url": "https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW"
-      },
-      "artists": [
-        {
-          "name": "The Acacia Strain",
-          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
-        }
-      ],
-      "duration_ms": 148560,
-      "name": "FRESH BONES",
-      "url": "https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6"
+      "duration_ms": 159124,
+      "name": "Left in the Wake",
+      "url": "https://open.spotify.com/track/6lg5kxB52nm8w0Tq3C1iEi"
     }
   ],
   "unique_name": "Deathcore",

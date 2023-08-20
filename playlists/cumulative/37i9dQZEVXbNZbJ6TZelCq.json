@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 173174,
       "name": "Alo baza baza",
       "url": "https://open.spotify.com/track/1KDSdCDKLSVJNREpp7OICq"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 170869,
       "name": "Ap\u0103 \u0219i Foc",
       "url": "https://open.spotify.com/track/6nIDYdHTS2o3IMlTEccCm2"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 159761,
       "name": "Arson",
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
@@ -7955,6 +7955,36 @@
     },
     {
       "album": {
+        "name": "SUMMERTIME MADNESS",
+        "url": "https://open.spotify.com/album/6gF2ige8Dv0Ia9ayRZROBa"
+      },
+      "artists": [
+        {
+          "name": "Stefan Costea",
+          "url": "https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58"
+        },
+        {
+          "name": "Pitariu George",
+          "url": "https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        },
+        {
+          "name": "Calinacho",
+          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213665,
+      "name": "FOREVA",
+      "url": "https://open.spotify.com/track/1OCyj9QY0jClPZTG5gcuAm"
+    },
+    {
+      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -10384,7 +10414,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 192000,
       "name": "IN LIPSA TA",
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
@@ -10596,7 +10626,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 152142,
       "name": "Inim\u0103 de aur - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/41Khl48VaHDozr5jQRd3xC"
@@ -11250,7 +11280,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 202325,
       "name": "Kankun",
       "url": "https://open.spotify.com/track/0btRiLdhc6u5z8WUK0HTFS"
@@ -12334,7 +12364,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 196535,
       "name": "Lipsa Ta",
       "url": "https://open.spotify.com/track/2Vvb9PCb8Sg6nwjvzb0Kwo"
@@ -12566,6 +12596,44 @@
       "duration_ms": 228461,
       "name": "Love All (with JAY-Z)",
       "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
+    },
+    {
+      "album": {
+        "name": "SUMMERTIME MADNESS",
+        "url": "https://open.spotify.com/album/6gF2ige8Dv0Ia9ayRZROBa"
+      },
+      "artists": [
+        {
+          "name": "Stefan Costea",
+          "url": "https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        },
+        {
+          "name": "supernOva",
+          "url": "https://open.spotify.com/artist/3goh4iJ1WNK7u2r6l4qW7M"
+        },
+        {
+          "name": "Alex Bittman",
+          "url": "https://open.spotify.com/artist/7bUZ8Ldf1LQgtmRAC8jzZA"
+        },
+        {
+          "name": "Simiz",
+          "url": "https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD"
+        },
+        {
+          "name": "Yakki",
+          "url": "https://open.spotify.com/artist/10Gn7d0q1THIu8PM5ywP20"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264321,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/6tJEFZiQd3iAS3MnJsxysZ"
     },
     {
       "album": {
@@ -13448,7 +13516,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -15418,7 +15486,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 133875,
       "name": "Obsesia",
       "url": "https://open.spotify.com/track/2ix7hMK7NMeHAFVsm5dlfK"
@@ -15770,6 +15838,28 @@
       "duration_ms": 177976,
       "name": "Opening Sequence",
       "url": "https://open.spotify.com/track/1exxGxUMlJWD1h9YcE9YZH"
+    },
+    {
+      "album": {
+        "name": "Opri\u021bi planeta",
+        "url": "https://open.spotify.com/album/56Mr9nzTuivD1viwbWdrzZ"
+      },
+      "artists": [
+        {
+          "name": "Puya",
+          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
+        },
+        {
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Opri\u021bi planeta",
+      "url": "https://open.spotify.com/track/60786D8cN9UQntKlwEngaG"
     },
     {
       "album": {
@@ -18431,6 +18521,48 @@
     },
     {
       "album": {
+        "name": "RUPE-TE MAMI",
+        "url": "https://open.spotify.com/album/6Z2apSiReg8GQZpstEnEn3"
+      },
+      "artists": [
+        {
+          "name": "4 226",
+          "url": "https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Ravisval",
+          "url": "https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ"
+        },
+        {
+          "name": "Giovanni",
+          "url": "https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o"
+        },
+        {
+          "name": "Bittner",
+          "url": "https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3"
+        },
+        {
+          "name": "BROKN",
+          "url": "https://open.spotify.com/artist/03YzG4PH5sQe0UKMLh9rLN"
+        },
+        {
+          "name": "EXPOSURE",
+          "url": "https://open.spotify.com/artist/0VA7zVEvG9NVywU7FxQQFn"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "RUPE-TE MAMI",
+      "url": "https://open.spotify.com/track/3jVrMSo9v31PgvzhvVqtnt"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
       },
@@ -18744,7 +18876,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 234000,
       "name": "Sauditii",
       "url": "https://open.spotify.com/track/6SiHINMCAPTGwojLqIP4ah"
@@ -19476,7 +19608,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 166285,
       "name": "SHOTGUN",
       "url": "https://open.spotify.com/track/0EIUssA2gv881GM16RzSQy"
@@ -23332,7 +23464,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 200178,
       "name": "Urgen\u021be",
       "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"

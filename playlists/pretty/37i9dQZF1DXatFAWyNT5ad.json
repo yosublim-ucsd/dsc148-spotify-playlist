@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 120213,
+  "num_followers": 120280,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWUwYjE0MWE2MWRkNTUwMGVmNTM5M2ZmNDIzNjI1MjJkZDg2NGU1",
+  "snapshot_id": "MCwxMzdkOTg5NGNjNjAwMjQ0MDZmNjRjZWZlN2M3OWFjNWQzMGYwNzc0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
-      },
-      "artists": [
-        {
-          "name": "Bohnes",
-          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
-        }
-      ],
-      "duration_ms": 207177,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
+      },
+      "artists": [
+        {
+          "name": "Bohnes",
+          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
+        }
+      ],
+      "duration_ms": 207177,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "I Hope I'm Not Sick",
-        "url": "https://open.spotify.com/album/6bCQByW20neZO3EAjsTU1D"
+        "name": "BANG BANG!",
+        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
       "artists": [
         {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 151502,
-      "name": "I Hope I'm Not Sick",
-      "url": "https://open.spotify.com/track/6VhW4SEd95xRlRKZbkQRGh"
+      "duration_ms": 136387,
+      "name": "BANG BANG!",
+      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "BANG BANG!",
-        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
+        "name": "I Hope I'm Not Sick",
+        "url": "https://open.spotify.com/album/6bCQByW20neZO3EAjsTU1D"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
         }
       ],
-      "duration_ms": 136387,
-      "name": "BANG BANG!",
-      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+      "duration_ms": 151502,
+      "name": "I Hope I'm Not Sick",
+      "url": "https://open.spotify.com/track/6VhW4SEd95xRlRKZbkQRGh"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
         "name": "i\u2019m too pretty for this",
         "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 173836,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 134582,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
-        "name": "lonely bitch",
-        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 175997,
-      "name": "lonely bitch",
-      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
+        "name": "lonely bitch",
+        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 175997,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
         "name": "butterflies (From Barbie The Album)",
         "url": "https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "Piggie",
-        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 178789,
-      "name": "Piggie",
-      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
         "name": "One of the Guys",
         "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 118759,
       "name": "One of the Guys",
       "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
+        "name": "Piggie",
+        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 178789,
+      "name": "Piggie",
+      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "BLOOD AND SUGAR",
-        "url": "https://open.spotify.com/album/030TjWifiM82d85tllj2QY"
-      },
-      "artists": [
-        {
-          "name": "BOYS LIKE GIRLS",
-          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "BLOOD AND SUGAR",
-      "url": "https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
         "name": "Tissues",
         "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
+        "name": "BLOOD AND SUGAR",
+        "url": "https://open.spotify.com/album/030TjWifiM82d85tllj2QY"
+      },
+      "artists": [
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "BLOOD AND SUGAR",
+      "url": "https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
         "name": "UPSAHL PRESENTS: THE PHX TAPES V1",
         "url": "https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 139844,
       "name": "GOOD GIRL ERA (SIDE A)",
       "url": "https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
-        "name": "Team Sport",
-        "url": "https://open.spotify.com/album/3JGHQb2bf6F3HDGYJAF24R"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Team Sport",
-      "url": "https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 149142,
       "name": "FREAK (Feat. jxdn)",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
+        "name": "Team Sport",
+        "url": "https://open.spotify.com/album/3JGHQb2bf6F3HDGYJAF24R"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Team Sport",
+      "url": "https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "Don't Get Me Wrong",
-        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 173132,
-      "name": "Don't Get Me Wrong",
-      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
         "name": "God Save The Teen",
         "url": "https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 190137,
       "name": "Shelter (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
+        "name": "Don't Get Me Wrong",
+        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 173132,
+      "name": "Don't Get Me Wrong",
+      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "Red Lights / Ireland",
-        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
         "name": "Only When I Look into Your Eyes",
         "url": "https://open.spotify.com/album/76uDKBLiSHVMTvHBHQ668X"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 199166,
       "name": "Only When I Look into Your Eyes",
       "url": "https://open.spotify.com/track/44kiDYXBx8Iju8iQPyldmO"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
+        "name": "Red Lights / Ireland",
+        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -2131,18 +2131,18 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV"
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
         }
       ],
-      "duration_ms": 170386,
-      "name": "Alpha Zulu",
-      "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
+      "duration_ms": 113494,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K"
     }
   ],
   "unique_name": "Pop Rock",

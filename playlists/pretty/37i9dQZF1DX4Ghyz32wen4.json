@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Mar\u00eda Becerra en portada.",
-  "num_followers": 67690,
+  "num_followers": 67756,
   "original_name": "sentimiento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDk3NGZjZjdiMjY3OWY2OGI0NzcwZjlhNzEzMmFhZjBkMmQyYWU2",
+  "snapshot_id": "MCwzNGUzYjI1OTQyMjE5MGZiMWU1NGM1NGFjNDU3NTkyMWMyNzRhYzI5",
   "tracks": [
     {
       "added_at": "2023-08-08 02:19:05",
@@ -1507,6 +1507,26 @@
       "duration_ms": 163755,
       "name": "COLTRANE",
       "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
+    },
+    {
+      "added_at": "2023-08-08 02:19:05",
+      "album": {
+        "name": "qu\u00e9 le pasa conmigo?",
+        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 167251,
+      "name": "qu\u00e9 le pasa conmigo?",
+      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
     },
     {
       "added_at": "2023-08-08 02:19:05",

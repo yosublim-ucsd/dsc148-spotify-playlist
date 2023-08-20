@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, Lil Durk, and more\. Cover: Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,972 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,086 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 6 | [Patty Cake \(feat\. Takeoff\)](https://open.spotify.com/track/485mSqbTvp0pdiK0UW2wbt) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:13 |
 | 7 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 8 | [Call Your Friends](https://open.spotify.com/track/1c926G7no7KCvt717X6rgZ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Call Your Friends](https://open.spotify.com/album/7EXikv3Oyrkz5QKPS6CLt4) | 2:33 |
-| 9 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
+| 9 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
 | 10 | [Hold Me](https://open.spotify.com/track/2ufahvEKcQW69XYjWcmKXH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 |
 | 11 | [Broken Hearted](https://open.spotify.com/track/7wG6K5hlFq1onDrJTJXFS6) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Broken Hearted](https://open.spotify.com/album/4xaHecDobJ9BkShgFuQVk0) | 3:27 |
 | 12 | [Pup \(feat\. Luh Tyler\)](https://open.spotify.com/track/3vKr18DG46xtZ5FM8R52et) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Pup \(feat\. Luh Tyler\)](https://open.spotify.com/album/2f3LlIcQZR3oXSifiomh3l) | 3:11 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 24 | [Splurge](https://open.spotify.com/track/6by0oknFYQAcUW1i8qItJi) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Proof](https://open.spotify.com/album/3n6na8Z7WtwBG7bg9e7Dnw) | 2:42 |
 | 25 | [Need Prescriptions \(feat\. Lil Durk\)](https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [4 The Trenches](https://open.spotify.com/album/3Uqp9nAzjdY5Ew55jk0bCg) | 2:24 |
 | 26 | [Perc & Sex](https://open.spotify.com/track/7wbNu1P1ZokAM4gTJSImzu) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Perc & Sex](https://open.spotify.com/album/5KYoGpsbHXoX6Oo0h08fAh) | 4:18 |
-| 27 | [Molli](https://open.spotify.com/track/1g7f2YPMMf97XlFHRQeoQC) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Molli](https://open.spotify.com/album/3UWV4LP7JeD4kHDnZ7xscc) | 2:04 |
+| 27 | [molli](https://open.spotify.com/track/1g7f2YPMMf97XlFHRQeoQC) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [molli](https://open.spotify.com/album/3UWV4LP7JeD4kHDnZ7xscc) | 2:04 |
 | 28 | [OH WHY](https://open.spotify.com/track/0UrynT1ZUyYiF5I9dT52tQ) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [OH WHY](https://open.spotify.com/album/6oqGTuudtb3yXzTcvasY0h) | 2:37 |
 | 29 | [Hard To Handle](https://open.spotify.com/track/5Wv4g4QWO3ArPnbyP5Z6Mx) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Handle](https://open.spotify.com/album/1tJcinzpjwIOAwfO1hmFe0) | 3:35 |
 | 30 | [Viral \(feat\. Lil Durk\)](https://open.spotify.com/track/2HNB1KfLWpQ3i7jG8LcOLU) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [4GOD II \(Deluxe\)](https://open.spotify.com/album/6nKbzw2rIciCleGWUui9Mw) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [LET'S PLAY](https://open.spotify.com/track/7hfumEP2zHYQPjO2iHxbA7) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [LET'S PLAY](https://open.spotify.com/album/2BnFxxVScuhiJgIS7TsxCV) | 2:07 |
 | 50 | [Mvplayer](https://open.spotify.com/track/2QFIFt26FE9F96zrrHKkej) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Head Coach](https://open.spotify.com/album/6VNky4zU67Xm2GyhLRBjke) | 3:01 |
 
-Snapshot ID: `MCxiMjUyYjcwMGZiYzIxZWIwODJiYmI4NWJiYWZjODY4ZTE2MjA2YjY3`
+Snapshot ID: `MCw1YjMzYTFlYzM1MGEzMDZjNGRiZGY5YmQwMWRlYTExOGM1YzdjYjli`

@@ -1,12 +1,12 @@
 {
   "description": "Energetic tracks from the 2000s to boost your running session.",
-  "num_followers": 1060983,
+  "num_followers": 1061375,
   "original_name": "00s Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGYzNWRhYWU5NDI0YzZmNGExYWY2YzVhMzk3NzczMDA2ZWZjMjhk",
+  "snapshot_id": "MCwwMWFmNDgwYzc0ZjAxMDI1NzNkNmEzMzBlZTE2MjIzM2IyYWE1YTY2",
   "tracks": [
     {
       "added_at": "2023-05-18 18:07:11",
@@ -654,6 +654,14 @@
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
       "duration_ms": 189693,

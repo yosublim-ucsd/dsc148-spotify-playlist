@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,865 likes - 114 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,032 likes - 114 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 93 | [moodalert](https://open.spotify.com/track/2XmlazH9cqMDKWwrdCtAlS) | [Jack Omstead](https://open.spotify.com/artist/3o9Z1zKnJEIuPtu20rQ8Br) | [moodalert](https://open.spotify.com/album/1kunuzzBirfW5E1HwK854r) | 2:25 |
 | 94 | [temporary tattoos](https://open.spotify.com/track/1zWROWxRqGDLgUTjcqVXqG) | [Jamisen](https://open.spotify.com/artist/1V1kPSjkC2fySepSAgEY2H) | [temporary tattoos](https://open.spotify.com/album/3tDvAFYhJrWBn9HaM6XeiX) | 2:45 |
 | 95 | [Daylight](https://open.spotify.com/track/2qQQg5pkjRJajogDe8HFop) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Soft Heat](https://open.spotify.com/album/0DIy09PKKmcXjVZlodhD8q) | 2:45 |
-| 96 | [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 |
+| 96 | [Watch Me](https://open.spotify.com/track/2MrJjA7IsGMImbA6qwhCiW) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [Watch Me](https://open.spotify.com/album/0ENzBRcf1PtiP8sl1Nsnxy) | 2:35 |
 | 97 | [All I Really Need Is You](https://open.spotify.com/track/1RKSjXJM7bvMQ4oCh9UvsB) | [Lokki](https://open.spotify.com/artist/2dO9wbNIr4lLONNavSBnS0) | [All I Really Need Is You](https://open.spotify.com/album/5aZUJUquo23JAPJC5kBIdo) | 3:26 |
 | 98 | [Unlucky](https://open.spotify.com/track/3wSYgiaethOggbj2zwPrB1) | [Mönt Lee](https://open.spotify.com/artist/3LgLAfUhyG05PIkoRiBeqH) | [Unlucky](https://open.spotify.com/album/03FUkplb4ApyfjoFyAZDO1) | 2:46 |
 | 99 | [Worst Boyfriend Award](https://open.spotify.com/track/3rPoShpRY4qZyQM2nMGEVq) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Worst Boyfriend Award](https://open.spotify.com/album/0v3UEhMmXcYwtkoN5nxlBn) | 2:55 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 113 | [different but exactly like you](https://open.spotify.com/track/7IbkNoUqOuOSUeSqqxm56f) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [idk if this is it](https://open.spotify.com/album/6pCfsQZiAiWXx9zMctgxyj) | 3:47 |
 | 114 | [Melancholia High Season](https://open.spotify.com/track/5MM3IVs8N9edrTOTs7Ug60) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Melancholia High Season](https://open.spotify.com/album/13aLxThHnCfi8aEyFsNuh2) | 3:03 |
 
-Snapshot ID: `MCw0MGZkNWM0ZmE5ZDlmYzM0NzQ3MDEwYmJhNThhYmRjMjM4ZDYxNTU5`
+Snapshot ID: `MCwxYmJmY2I3YjYwYTgwNjI4YjY1N2I4ZGNmMjY4MTljOTdhODlhNTBl`

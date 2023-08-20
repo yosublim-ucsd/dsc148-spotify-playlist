@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,712 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,268 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [My Lova \(feat\. VillaBanks\)](https://open.spotify.com/track/4HM02MjJk4Mx5y2KDGBBe4) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [My Lova \(feat\. VillaBanks\)](https://open.spotify.com/album/2mvGS0owo2FHS5VrHo2sKF) | 2:28 |
 | 50 | [Ma Xkè A Me?](https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ma Xkè A Me?](https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea) | 2:36 |
 
-Snapshot ID: `MCw4NjlhNjQyZjY1N2ZlMzhiZGY4OGY1ZjExMTgxNzYwMTViYjhmMzdj`
+Snapshot ID: `MCwyMmRhMWEyMGJkMWFkODk0YmIwNTUzY2E4MTU4MjZjODdlMjRlOGUw`

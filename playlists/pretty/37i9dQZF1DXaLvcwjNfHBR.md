@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Guy Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,215 likes - 72 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,297 likes - 72 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 71 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
 | 72 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 |
 
-Snapshot ID: `MCw4OGJiYmY3NDg2YTY5MmY3NTNkYTljZDI1ODc1OTc3MDIzM2E5NTQy`
+Snapshot ID: `MCw0NjY2N2M5NDdkMjgyZTc2NTY5YjViZmE2Mzk4YTlkNTk0ZjlmOGUz`

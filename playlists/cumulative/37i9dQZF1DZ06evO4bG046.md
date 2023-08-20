@@ -4,7 +4,7 @@
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-63 songs - 5 hr 54 min
+64 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Foto de Primera Comunión](https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz) | 6:34 | 2022-09-16 |  |
 | [Frescura Antigua](https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:12 | 2022-09-16 |  |
 | [Guajira Cosmica](https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 7:59 | 2022-09-16 |  |
-| [Hijos de la Tierra](https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 4:56 | 2022-09-16 |  |
+| [Hijos de la Tierra](https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 4:56 | 2022-09-16 | 2023-08-20 |
+| [Hijos de la Tierra \- En Vivo](https://open.spotify.com/track/5UkY5OcXJEBmxtwgIbtwgO) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Ankatu Alquinta](https://open.spotify.com/artist/589TezEaFGuNyZkaiq97Es), [Eloy Alquinta](https://open.spotify.com/artist/0KIMeyA9BADCcGD15YeOS0), [Aurora Alquinta Monsalve](https://open.spotify.com/artist/0YVr9RHlXx2emUtkjzeczI) | [Hijos de la Tierra \(En Vivo\)](https://open.spotify.com/album/2EOP4MmPOOAXYtXHuHSZC3) | 4:49 | 2023-08-19 |  |
 | [Huairuro](https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:01 | 2022-09-20 | 2022-09-25 |
 | [Indio Hermano \(Versión 1996\)](https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 6:01 | 2022-09-16 |  |
 | [La Centinela \(Versión 1997\)](https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 5:04 | 2022-09-16 |  |
@@ -60,7 +61,7 @@
 | [Sube a Nacer Conmigo Hermano](https://open.spotify.com/track/0gWHg31biasRElqCjQ8RuM) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 4:46 | 2022-09-16 |  |
 | [Sueño Del Inca](https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:43 | 2022-09-16 |  |
 | [Takirari del Puerto](https://open.spotify.com/track/361zrhidWZOrmjFExUpfSy) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:50 | 2022-09-16 |  |
-| [Tan Lejos del Sol](https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 6:28 | 2022-09-16 | 2023-03-09 |
+| [Tan Lejos del Sol](https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 6:28 | 2022-09-16 |  |
 | [Tarka y Ocarina \(Diablada\-Trote\-Kotaiki\)](https://open.spotify.com/track/3sbeeC62ewTzE1ywXAx0WI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 13:18 | 2022-09-16 |  |
 | [Todos Americanos](https://open.spotify.com/track/69Evt4yslyJhrDYmkD3DHV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 4:53 | 2022-09-24 | 2022-09-26 |
 | [Todos Juntos \(Versión 1996\)](https://open.spotify.com/track/1xUWqYaqqGLXFBMMbQ4ZMI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 4:55 | 2022-09-16 |  |

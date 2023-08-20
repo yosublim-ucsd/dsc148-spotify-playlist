@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,715 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,777 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 41 | [Raindrops](https://open.spotify.com/track/39RGl1mXtFTjwcyHnbDRUr) | [The Silvertones](https://open.spotify.com/artist/2i7lcqmkXenSMNTeXdAsPZ) | [Essential Ska Masters](https://open.spotify.com/album/4rThjBhFQlgVBhYyky2gTz) | 2:49 |
 | 42 | [I Wish It Would Rain](https://open.spotify.com/track/6ObXssCmMOmaUdRMoW8Lpg) | [The Techniques](https://open.spotify.com/artist/7aSGHNg5TRgbrzaUclcNAK) | [Treasure Isle Presents: Rock Steady](https://open.spotify.com/album/3nNuXJadrSzqTJKY2jDU94) | 2:22 |
 | 43 | [It's All in the Game](https://open.spotify.com/track/4Nb43yyzlpANYmNrjxykKx) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [The Best Of...](https://open.spotify.com/album/1tpw4tscpRu4w2tfvZKlX3) | 2:31 |
-| 44 | [Rukumbine](https://open.spotify.com/track/6rz9vltqGd9sVgdSCQpeoV) | [Bobby Aitken](https://open.spotify.com/artist/0XdmNCnL70Uw9QJ0wFypv6) | [Classic Hits from Treasure Isle](https://open.spotify.com/album/46k9jmo15LinMiESHEWSl8) | 2:41 |
-| 45 | [Queen Majesty](https://open.spotify.com/track/7mavHEgkrNLqIzlA5wxd5n) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [The Ultimate Collection, Vol\. 1](https://open.spotify.com/album/3OzRkr3Hra8KdXKWcXe2o5) | 3:31 |
+| 44 | [Queen Majesty](https://open.spotify.com/track/7mavHEgkrNLqIzlA5wxd5n) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [The Ultimate Collection, Vol\. 1](https://open.spotify.com/album/3OzRkr3Hra8KdXKWcXe2o5) | 3:31 |
+| 45 | [Rukumbine](https://open.spotify.com/track/6rz9vltqGd9sVgdSCQpeoV) | [Bobby Aitken](https://open.spotify.com/artist/0XdmNCnL70Uw9QJ0wFypv6) | [Classic Hits from Treasure Isle](https://open.spotify.com/album/46k9jmo15LinMiESHEWSl8) | 2:41 |
 | 46 | [That Wonderful Sound](https://open.spotify.com/track/46JFegy0KkJNXhZK4BPOrB) | [Dobby Dobson](https://open.spotify.com/artist/5xYXtdpxl2wwzMBSqvgpM0) | [The Vintage Series: Dobby Dobson](https://open.spotify.com/album/3D66zjhBWUvpoYGiBjZrm0) | 3:24 |
 | 47 | [Baby Why](https://open.spotify.com/track/0I6g8aa5qwDmK8g4gUS8LH) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/6oCEHWNjXieygQN2mYKL25) | 5:14 |
 | 48 | [Old Fashioned Way](https://open.spotify.com/track/1zaOPo95mhpYL8wH0UYhGP) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Hudson Affair: Keith Hudson and Friends](https://open.spotify.com/album/4gjbZ3Nagkak0TevFBiz4c) | 2:35 |
 | 49 | [Always Together](https://open.spotify.com/track/2GxfID7hBi8rOMyKIJ34sv) | [Bob Andy & Marcia Griffiths](https://open.spotify.com/artist/7q5akGSVEfg0j8IxgbdLN3) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/74Nf0X7UlkT999DGNlae92) | 2:45 |
 | 50 | [I Want to Go Home](https://open.spotify.com/track/4c3P8eBnCdNp5yHhVNKEN7) | [Derrick Morgan](https://open.spotify.com/artist/2RM3xqQNdhZknQBsyQl3ZM) | [The Trojan: Rocksteady Collection](https://open.spotify.com/album/4PlCsYKkF8FFTAMtWV4w3P) | 2:21 |
 
-Snapshot ID: `MCw4NWE3NjhiNTI0ZWU4OGUxY2QwZTY2Zjg4MWM1NDE2ZmY1OTUxMWMw`
+Snapshot ID: `MCxiZGIxZDIwYWRhZDNmMjk3ZDdjYWQwM2IxMGNmZDIzZDU0MDZhYzFi`

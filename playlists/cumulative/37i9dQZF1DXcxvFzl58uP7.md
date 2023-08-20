@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: girl in red
 
-855 songs - 1 day 20 hr 25 min
+856 songs - 1 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,7 @@
 | [Punching Bag](https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm) | 2:33 | 2022-09-14 |  |
 | [Punching Bag](https://open.spotify.com/track/5yi3oFTGTVGcM9LORYom7y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5jOC8xCQy3vr0j9lMTzHtc) | 2:33 | 2021-01-15 | 2022-07-29 |
 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 | 2021-02-27 | 2022-10-19 |
-| [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-14 |  |
+| [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-14 | 2023-08-20 |
 | [Purple Haze](https://open.spotify.com/track/6CD5sIa3Li1gUvlfIL8ew3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Purple Haze](https://open.spotify.com/album/1eQdAPkg20LXtt71zE97Pj) | 3:18 | 2020-08-11 | 2021-08-28 |
 | [Questions](https://open.spotify.com/track/2DDakV5xNzIBA1BsL40bPS) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Questions](https://open.spotify.com/album/2tt1rj0WeBQVQhv3Rplg2f) | 3:40 | 2021-07-19 | 2022-07-29 |
 | [Races](https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 2:13 | 2023-04-17 |  |
@@ -606,6 +606,7 @@
 | [reruN](https://open.spotify.com/track/6awVH99PHaNfzVyrE04JQq) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [reruN](https://open.spotify.com/album/2D51CHmzMP99e2XlHpkcpM) | 3:09 | 2020-09-25 | 2021-05-28 |
 | [Reverse Cowgirl](https://open.spotify.com/track/1aBouZtfICZ1PRNCtPcdVL) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [Reverse Cowgirl](https://open.spotify.com/album/4Bfck7ddk4kAhNLKkv711i) | 3:39 | 2021-03-22 | 2022-12-15 |
 | [RIGHT WHEN YOU LEFT](https://open.spotify.com/track/0gknw00Guoorl3ZYBrk6Yo) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [RIGHT WHEN YOU LEFT](https://open.spotify.com/album/40e1RcsYwZpkuoe4dEASNH) | 3:06 | 2022-04-29 | 2022-06-28 |
+| [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 | 2023-04-17 |  |
 | [roll the dice](https://open.spotify.com/track/2TX7IPBBgfq4zL4TSZTp0D) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [roll the dice](https://open.spotify.com/album/54S0bDLXUsFIzxBssBkrul) | 2:14 | 2021-03-26 | 2022-04-21 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-14 | 2023-04-18 |
 | [Romantic Lover](https://open.spotify.com/track/44pBlSEASFjEdU3qEHhbFs) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 1:26 | 2021-05-12 | 2022-04-08 |

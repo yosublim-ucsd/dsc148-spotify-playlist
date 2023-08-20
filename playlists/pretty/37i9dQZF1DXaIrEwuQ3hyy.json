@@ -1,12 +1,12 @@
 {
   "description": "Klingt nach Sonne und Meer, egal wo du bist.",
-  "num_followers": 1001957,
+  "num_followers": 1002381,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWEyM2Y5ODE4NWQ5NzgxYTA2NDNmMzRiNDFjNWU2MDJmZTk4MjI3",
+  "snapshot_id": "MCw1YjExM2ZhMmJkODRlNGVkNTFjY2NhY2QzZDk5MWIzMDE2ZDc1OTIz",
   "tracks": [
     {
       "added_at": "2023-08-18 08:40:12",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-08-18 08:40:12",
       "album": {
-        "name": "Sunshine Baby",
-        "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 219813,
-      "name": "Sunshine Baby",
-      "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
+      "duration_ms": 171662,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
     },
     {
       "added_at": "2023-08-18 08:40:12",
@@ -767,34 +767,18 @@
     {
       "added_at": "2023-08-18 08:40:12",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
+        "name": "Sunshine Baby",
+        "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
-    },
-    {
-      "added_at": "2023-08-18 08:40:12",
-      "album": {
-        "name": "Guitar",
-        "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Guitar",
-      "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
+      "duration_ms": 219813,
+      "name": "Sunshine Baby",
+      "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
     },
     {
       "added_at": "2023-08-18 08:40:12",
@@ -831,6 +815,22 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+    },
+    {
+      "added_at": "2023-08-18 08:40:12",
+      "album": {
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Guitar",
+      "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
     },
     {
       "added_at": "2023-08-18 08:40:12",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-18 08:40:12",
       "album": {
-        "name": "Weit weg",
-        "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 161773,
-      "name": "Weit weg",
-      "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
-    },
-    {
-      "added_at": "2023-08-18 08:40:12",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/6i9bj9UAehl2AQLDmz5SDH"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 186641,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/67MDtHFmozKIM6WlbXIhCl"
+    },
+    {
+      "added_at": "2023-08-18 08:40:12",
+      "album": {
+        "name": "Weit weg",
+        "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 161773,
+      "name": "Weit weg",
+      "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
     },
     {
       "added_at": "2023-08-18 08:40:12",
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2023-08-18 08:40:12",
       "album": {
-        "name": "Not Worthy (feat. Nonso Amadi)",
-        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
+        "name": "Where the Heart Is",
+        "url": "https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
         }
       ],
-      "duration_ms": 192208,
-      "name": "Not Worthy (feat. Nonso Amadi)",
-      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
+      "duration_ms": 217611,
+      "name": "Where the Heart Is - Single Version",
+      "url": "https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm"
     },
     {
       "added_at": "2023-08-18 08:40:12",
@@ -1223,22 +1219,6 @@
     {
       "added_at": "2023-08-18 08:40:12",
       "album": {
-        "name": "Where the Heart Is",
-        "url": "https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 217611,
-      "name": "Where the Heart Is - Single Version",
-      "url": "https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm"
-    },
-    {
-      "added_at": "2023-08-18 08:40:12",
-      "album": {
         "name": "Am Ende des Tages",
         "url": "https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 195000,
       "name": "Bisschen wach",
       "url": "https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA"
+    },
+    {
+      "added_at": "2023-08-18 08:40:12",
+      "album": {
+        "name": "Not Worthy (feat. Nonso Amadi)",
+        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 192208,
+      "name": "Not Worthy (feat. Nonso Amadi)",
+      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
     },
     {
       "added_at": "2023-08-18 08:40:12",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2023-08-18 08:40:12",
       "album": {
+        "name": "Kahan (last year)",
+        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": "2023-08-18 08:40:12",
+      "album": {
         "name": "trip",
         "url": "https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC"
       },
@@ -1355,22 +1375,6 @@
       "duration_ms": 178000,
       "name": "luft (feat. Friedberg)",
       "url": "https://open.spotify.com/track/2bi2Sfu6PNmQByYPKrE1l9"
-    },
-    {
-      "added_at": "2023-08-18 08:40:12",
-      "album": {
-        "name": "Tissues",
-        "url": "https://open.spotify.com/album/41tFNtJfGLhjTA3p510KOa"
-      },
-      "artists": [
-        {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
-        }
-      ],
-      "duration_ms": 153491,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x"
     }
   ],
   "unique_name": "Sommer Chillout",

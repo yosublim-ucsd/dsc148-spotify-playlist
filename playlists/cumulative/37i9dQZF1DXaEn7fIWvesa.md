@@ -4,7 +4,7 @@
 
 > A lo cubano 🔥 Con El Micha en portada.
 
-52 songs - 2 hr 58 min
+53 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,9 +12,10 @@
 | [A Perriar](https://open.spotify.com/track/2xWVVYZmPsf7F6epXIrIbf) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Pa Mi Gente](https://open.spotify.com/album/3qDh0pss8FNO5MPjjJnHHG) | 3:17 | 2023-08-04 |  |
 | [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 | 2023-07-13 |  |
 | [Agua Noche Remix](https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9) | [Yulien Oviedo](https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4), [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Agua Noche Remix](https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM) | 3:58 | 2023-07-13 |  |
+| [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 | 2023-08-18 |  |
 | [Calentando la Habana](https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 4:13 | 2023-07-13 |  |
 | [Dale Pa' Miami](https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Dale Pa' Miami](https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer) | 3:14 | 2023-07-28 | 2023-08-02 |
-| [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 | 2023-07-13 |  |
+| [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 | 2023-07-13 | 2023-08-20 |
 | [Descargame Pero No Me Quemes](https://open.spotify.com/track/3MOSqbVAlzqobNNdSOBhdx) | [Morito pks](https://open.spotify.com/artist/6Bn1EHf3buw7nSJ9wPWXB0) | [Descargame Pero No Me Quemes](https://open.spotify.com/album/217vR8hepUDCYZxQlMqMw5) | 3:45 | 2023-07-13 |  |
 | [Después que Bailamos](https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Después que Bailamos](https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU) | 3:45 | 2023-07-13 |  |
 | [Dime Quien Es Ese](https://open.spotify.com/track/4FRe7O5vPNSyK91M6Wk84B) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh) | [Dime Quien Es Ese](https://open.spotify.com/album/1GLVlsHoK05Sr8fgfMblJR) | 3:16 | 2023-07-13 |  |

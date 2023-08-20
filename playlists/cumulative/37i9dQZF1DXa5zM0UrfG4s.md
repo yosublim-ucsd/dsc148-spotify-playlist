@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-315 songs - 14 hr 34 min
+316 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3) | 2:57 | 2022-03-24 | 2023-03-02 |
 | [20 i hue](https://open.spotify.com/track/0RHeLUY9dxaCeVvBc2xQfu) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [20 i hue](https://open.spotify.com/album/3UUjJpEjmSMSTdJGy3nsXI) | 3:22 | 2021-12-16 | 2022-07-10 |
 | [2010](https://open.spotify.com/track/3Vo04mpLNaOsFvBfQmXwv3) | [Bastupojkarna](https://open.spotify.com/artist/3CMNg47101P5uCOI0ywTOQ), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [2010](https://open.spotify.com/album/6MIuZmdka8h6vy84CcItzN) | 3:12 | 2022-03-17 | 2022-07-06 |
+| [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 | 2023-08-17 |  |
 | [5 SHOTS](https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [5 SHOTS](https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln) | 2:08 | 2023-04-13 |  |
 | [A H7 E](https://open.spotify.com/track/5xyCLB8PVyxYIJJdw42oZp) | [Ingemars](https://open.spotify.com/artist/4UfyXFE2NHOawKTKOFQ62J) | [I Finnskogens Rike](https://open.spotify.com/album/3WUNAJ2dwXIKIPAm1nNCkf) | 3:05 | 2021-12-16 | 2022-01-01 |
 | [Adjø](https://open.spotify.com/track/72byZWY2WfbuSI48TINr3g) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Adjø](https://open.spotify.com/album/0cguembDHQiT70WPMNcNJK) | 2:39 | 2021-12-16 | 2022-07-12 |
@@ -59,7 +60,7 @@
 | [Dagsfylla](https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7) | [Kaptein EPA](https://open.spotify.com/artist/2v7lprKyLQB5CHQkT50JFk), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t), [Løvendahl](https://open.spotify.com/artist/2crP0DzGXR6GMPGgXeoebz) | [Dagsfylla](https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt) | 1:51 | 2021-12-16 | 2022-01-08 |
 | [Danse på panseret](https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [Danse på panseret](https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F) | 2:24 | 2023-05-11 |  |
 | [Den fineste Chevy'n](https://open.spotify.com/track/2562pO8HEcemUF2LfOMfti) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Den fineste Chevy'n](https://open.spotify.com/album/0ceGayBcQcl2rKM0WeNrzo) | 3:05 | 2021-12-16 | 2022-07-29 |
-| [Den fineste Tesla´n](https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq) | [Jon Niklas Rønning](https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw), [Pernille Øiestad](https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ), [Ole M\. Aagenæs](https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P) | [Den fineste Tesla´n](https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th) | 3:04 | 2022-06-30 |  |
+| [Den fineste Tesla´n](https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq) | [Jon Niklas Rønning](https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw), [Pernille Øiestad](https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ), [Ole M\. Aagenæs](https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P) | [Den fineste Tesla´n](https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th) | 3:04 | 2022-06-30 | 2023-08-20 |
 | [Den Samme Jævla Sangen](https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Den Samme Jævla Sangen](https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt) | 2:20 | 2022-03-31 |  |
 | [Denne Sommer´n](https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Denne Sommer´n](https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl) | 2:40 | 2022-04-28 | 2023-07-28 |
 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 | 2023-07-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: P\u00c6RISH",
-  "num_followers": 474950,
+  "num_followers": 474984,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzNiYzcwZjZmODYxMmRkYzMzYmM4MDQyYWE5N2U1OGRkN2FhMDRj",
+  "snapshot_id": "MCw0NGNlMjM5ODljMjVjZjQ1NDMyOGEwMzc2OGI4ODc4NjI1ZjZlNTAx",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 150824,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Black Box",
         "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 212621,
       "name": "Like A Drug",
       "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 150824,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Gila Monster",
-        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 275774,
-      "name": "Gila Monster",
-      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Cramps",
         "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 171493,
       "name": "Cramps",
       "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Gila Monster",
+        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 275774,
+      "name": "Gila Monster",
+      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 241859,
+      "name": "Lava Lamp Pisco",
+      "url": "https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Lose You (feat. Soccer Mommy)",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 241859,
-      "name": "Lava Lamp Pisco",
-      "url": "https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "All I Wanna Do Is Hate",
         "url": "https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 165052,
       "name": "All I Wanna Do Is Hate",
       "url": "https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "MYSTERY",
-        "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 201177,
       "name": "Going Clear",
       "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "MYSTERY",
+        "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Nowhere Generation [with Meg Myers]",
         "url": "https://open.spotify.com/album/2g1iPboxaw0IV4zRhA2Scl"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ"
       },
       "artists": [
         {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "How Far Can You Push A Man?",
-        "url": "https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg"
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
       },
       "artists": [
         {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
         }
       ],
-      "duration_ms": 243947,
-      "name": "How Far Can You Push A Man?",
-      "url": "https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN"
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "How Far Can You Push A Man?",
+        "url": "https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 243947,
+      "name": "How Far Can You Push A Man?",
+      "url": "https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "STATUES (v2)",
         "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 293354,
       "name": "STATUES (v2)",
       "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
       },
       "artists": [
         {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 257398,
       "name": "Father Of Lies",
       "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Flood Into",
-        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 181593,
-      "name": "Flood Into",
-      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Distant Populations",
         "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 204453,
       "name": "Missile Command",
       "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Flood Into",
+        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 181593,
+      "name": "Flood Into",
+      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "SAY IT",
-        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
-      },
-      "artists": [
-        {
-          "name": "NEW LANGUAGE",
-          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
-        }
-      ],
-      "duration_ms": 161315,
-      "name": "SAY IT",
-      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "One + One",
         "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 226296,
       "name": "One + One",
       "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "SAY IT",
+        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
+      },
+      "artists": [
+        {
+          "name": "NEW LANGUAGE",
+          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
+        }
+      ],
+      "duration_ms": 161315,
+      "name": "SAY IT",
+      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "I Feel Like I'm Falling",
-        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
-      },
-      "artists": [
-        {
-          "name": "HOKO",
-          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "I Feel Like I'm Falling",
-      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "The Next Curse",
         "url": "https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 241638,
       "name": "The Next Curse",
       "url": "https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "I Feel Like I'm Falling",
+        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
+      },
+      "artists": [
+        {
+          "name": "HOKO",
+          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "I Feel Like I'm Falling",
+      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 172495,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Pay the Price",
         "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 216108,
       "name": "Pay the Price",
       "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 172495,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
     },
     {
       "added_at": "2023-06-30 04:01:00",

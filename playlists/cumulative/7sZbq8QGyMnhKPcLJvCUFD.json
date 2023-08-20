@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 163747,
       "name": "Clown Around",
       "url": "https://open.spotify.com/track/6qpjU00lJs5rCGyh6mFar2"
@@ -1926,6 +1926,24 @@
       "duration_ms": 155409,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
+    },
+    {
+      "album": {
+        "name": "Dreamin'",
+        "url": "https://open.spotify.com/album/3bk1wrlMRkpdzUhmo078nK"
+      },
+      "artists": [
+        {
+          "name": "NOYSE",
+          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155156,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/6Pqil5djDYDxWzitsw2eD3"
     },
     {
       "album": {
@@ -6453,6 +6471,24 @@
     },
     {
       "album": {
+        "name": "Retro Love",
+        "url": "https://open.spotify.com/album/07etk4i2uQzIyk6YI9Zsei"
+      },
+      "artists": [
+        {
+          "name": "Killa",
+          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173066,
+      "name": "Retro Love",
+      "url": "https://open.spotify.com/track/4UvYiq1HSksWgAjTvl7eiA"
+    },
+    {
+      "album": {
         "name": "Retrophonic",
         "url": "https://open.spotify.com/album/1c0bNZGrgSQlcALkrwSgQ2"
       },
@@ -7746,10 +7782,36 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 185753,
       "name": "Thought It Was U",
       "url": "https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS"
+    },
+    {
+      "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/0pJXJEH8RYTFSjB6GR8BYq"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Maazel",
+          "url": "https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7"
+        },
+        {
+          "name": "Salvo",
+          "url": "https://open.spotify.com/artist/38u5tDrWqAZsGySZL5OB3b"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/2uZVmKRCMWYTuMlKS9urzy"
     },
     {
       "album": {

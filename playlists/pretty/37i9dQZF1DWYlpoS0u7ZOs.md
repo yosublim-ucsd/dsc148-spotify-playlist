@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,588 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,600 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Faded](https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Faded](https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR) | 3:10 |
 | 80 | [No Constraint](https://open.spotify.com/track/48x8I9dFZjWn7bJf5j2nnT) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [No Constraint](https://open.spotify.com/album/1asjlY8VeCEXNOuBHS3bhh) | 3:02 |
 
-Snapshot ID: `MCwwYzM3NzZmZGZlMmU0ZjQ3ZDYxMWMxNjAyMjhiMzE0NWIyMmMyNjdi`
+Snapshot ID: `MCw4MzQ3NDc0NTQzODRmODRjNTU1NDQ5NmIwN2VlZGQ5ZWQzMjViODZj`

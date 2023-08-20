@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Crosses",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Baroness",
   "name": "Best New Songs Right Now",
   "tracks": [
+    {
+      "album": {
+        "name": "1.5",
+        "url": "https://open.spotify.com/album/3wDo5piUz8CUJstGpGBet9"
+      },
+      "artists": [
+        {
+          "name": "Broken Vow",
+          "url": "https://open.spotify.com/artist/7cbddjy4wOdhxzR4Wnypt3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140316,
+      "name": "1.5",
+      "url": "https://open.spotify.com/track/60LidYveBAl8Loz2aknRKZ"
+    },
     {
       "album": {
         "name": "1984",
@@ -2093,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Doom Slayer",
+        "url": "https://open.spotify.com/album/0SxRQyxL5YHJK7Y8lg9Ztk"
+      },
+      "artists": [
+        {
+          "name": "Alex Terrible",
+          "url": "https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218918,
+      "name": "Doom Slayer",
+      "url": "https://open.spotify.com/track/6kaTR6T2zLqoo7WFniFxUO"
+    },
+    {
+      "album": {
         "name": "Doomswitch",
         "url": "https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n"
       },
@@ -2346,6 +2382,24 @@
       "duration_ms": 271076,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
+    },
+    {
+      "album": {
+        "name": "Encased In Crystalline",
+        "url": "https://open.spotify.com/album/46TMR31huoshkMzZKEN4Sg"
+      },
+      "artists": [
+        {
+          "name": "A Mourning Star",
+          "url": "https://open.spotify.com/artist/6liRUYkXvRcAJPlSrmGftP"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164485,
+      "name": "Encased In Crystalline",
+      "url": "https://open.spotify.com/track/7Hj2Nzojz0mTMKjzaNQh0y"
     },
     {
       "album": {
@@ -3039,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "Forgotten",
+        "url": "https://open.spotify.com/album/4RnQzNSS5tZCgSOSuK7dM1"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175249,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/277kkbKWZtQUpnK19WcEM6"
+    },
+    {
+      "album": {
         "name": "Fortress of Torture",
         "url": "https://open.spotify.com/album/1HAZFcWJWu9RWbND8aqkAN"
       },
@@ -3184,6 +3256,24 @@
       "duration_ms": 226066,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
+    },
+    {
+      "album": {
+        "name": "Gaping Wounds of Earth",
+        "url": "https://open.spotify.com/album/5rZPCnjwemvz1b0qfGfZrB"
+      },
+      "artists": [
+        {
+          "name": "END",
+          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163586,
+      "name": "Gaping Wounds of Earth",
+      "url": "https://open.spotify.com/track/6ByaglD7LytHznZXw8v5ic"
     },
     {
       "album": {
@@ -3624,6 +3714,28 @@
       "duration_ms": 227533,
       "name": "Holier",
       "url": "https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox"
+    },
+    {
+      "album": {
+        "name": "Hologram",
+        "url": "https://open.spotify.com/album/1LIuXxps9vPNKc4Pcws75I"
+      },
+      "artists": [
+        {
+          "name": "Venera",
+          "url": "https://open.spotify.com/artist/7d7z7BjNTjkZdFN29WqfL2"
+        },
+        {
+          "name": "VOWWS",
+          "url": "https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212137,
+      "name": "Hologram",
+      "url": "https://open.spotify.com/track/53rJNKpgW6d7G7EJENCffP"
     },
     {
       "album": {
@@ -5223,6 +5335,24 @@
     },
     {
       "album": {
+        "name": "Of Days Renewed",
+        "url": "https://open.spotify.com/album/4zchFiJME9vUv36mLReDAH"
+      },
+      "artists": [
+        {
+          "name": "Magnitude",
+          "url": "https://open.spotify.com/artist/2NwDYPbgMbSAXLbTL0VaUQ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201477,
+      "name": "Of Days Renewed",
+      "url": "https://open.spotify.com/track/4miqxJDAzac7riX5p3RNAl"
+    },
+    {
+      "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO"
       },
@@ -6341,6 +6471,24 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/7pYrK9tSuaE8uDEz3CR04p"
+      },
+      "artists": [
+        {
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391866,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5tugLgpnElGexPQ81JkFcu"
+    },
+    {
+      "album": {
         "name": "Shot Down",
         "url": "https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB"
       },
@@ -6772,6 +6920,24 @@
       "duration_ms": 302471,
       "name": "Summerslam",
       "url": "https://open.spotify.com/track/21ReFyyiE5xQbVX6CUgUha"
+    },
+    {
+      "album": {
+        "name": "Summoned for Sacrifice",
+        "url": "https://open.spotify.com/album/3iDio1Sl1rBOOiSjTN70wr"
+      },
+      "artists": [
+        {
+          "name": "Cannibal Corpse",
+          "url": "https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245124,
+      "name": "Summoned for Sacrifice",
+      "url": "https://open.spotify.com/track/0GLpbCjpeIhdVyPRJmV9h6"
     },
     {
       "album": {
@@ -7298,6 +7464,24 @@
       "duration_ms": 244693,
       "name": "The Great Heathen Army",
       "url": "https://open.spotify.com/track/15rzwcnr5ZRaRF7xQjg9Wd"
+    },
+    {
+      "album": {
+        "name": "The Grey",
+        "url": "https://open.spotify.com/album/5Rzc2I5iMMQGs0Pqp8vFsZ"
+      },
+      "artists": [
+        {
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367030,
+      "name": "The Grey",
+      "url": "https://open.spotify.com/track/7KqOpWKmzXLEcqwVy7P0td"
     },
     {
       "album": {
@@ -8688,6 +8872,28 @@
       "duration_ms": 143265,
       "name": "YES ALL MEN",
       "url": "https://open.spotify.com/track/4Lz2uH0ywXpEg5XWI99cwn"
+    },
+    {
+      "album": {
+        "name": "You And Me",
+        "url": "https://open.spotify.com/album/0UlZ9xS2gir6JfRee7jYwd"
+      },
+      "artists": [
+        {
+          "name": "Pain of Truth",
+          "url": "https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql"
+        },
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148078,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/2yy0YCSswjOTc9mexfMEyC"
     },
     {
       "album": {

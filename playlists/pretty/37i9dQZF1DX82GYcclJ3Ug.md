@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: K\. Flay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,948 likes - 124 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,073 likes - 124 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 123 | [Does It Rain on You?](https://open.spotify.com/track/6bL29v2gkVXgFbAUEp6NYY) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [In Separation](https://open.spotify.com/album/5ts1C0PznmiGWsKZAr5Kgo) | 3:02 |
 | 124 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 
-Snapshot ID: `MCwzNTJlMDYyYzNiMjIwNDJjYTJkZDIwODc5MTQ1NmFhZTU2YTM2NzJk`
+Snapshot ID: `MCw2MjUxZTA2ZGM2ZTJiMzEyMmI3OWUyNDgxYjMwM2FiYTIzM2IwNWY2`

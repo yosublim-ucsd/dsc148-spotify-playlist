@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 179186,
+  "num_followers": 179263,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTEzNzI2ZTVlOTE4N2VlYTJjYjhmNmU1NTI2NjY4YzcwYmJiMGNk",
+  "snapshot_id": "MCwyNTZiOTQ4MzhmZTNlMGQzZWI3OGE3ZDU1MDZiM2U3MTRmNTMzYTE0",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 148520,
-      "name": "Clean - Live",
-      "url": "https://open.spotify.com/track/2jc4zuz6OZJTjaYjOjTXyM"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Live at the Banks House",
         "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 376093,
       "name": "Nothing I Hold on to (Live)",
       "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 148520,
+      "name": "Clean - Live",
+      "url": "https://open.spotify.com/track/2jc4zuz6OZJTjaYjOjTXyM"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "Take Courage - Radio Version",
+      "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Tell All My Friends",
         "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 298230,
       "name": "Your Promises",
       "url": "https://open.spotify.com/track/7toBMKUFYgMqSoG1OnG2Bs"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "Take Courage - Radio Version",
-      "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Yeshua (Spontaneous) [Live]",
+        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
+      },
+      "artists": [
+        {
+          "name": "Eleni Baker",
+          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
+        }
+      ],
+      "duration_ms": 417230,
+      "name": "Yeshua (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "On My Side",
         "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 243269,
       "name": "My Prayer For You",
       "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Yeshua (Spontaneous) [Live]",
-        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
-      },
-      "artists": [
-        {
-          "name": "Eleni Baker",
-          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
-        }
-      ],
-      "duration_ms": 417230,
-      "name": "Yeshua (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -967,22 +967,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Center of Your Love",
-        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
       },
       "artists": [
         {
-          "name": "Upper Room Music",
-          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 296400,
-      "name": "You Satisfy (feat. Elyssa Smith)",
-      "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
+      "duration_ms": 192933,
+      "name": "Now is Forever - Bonus Track",
+      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "How Can It Be (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+        "name": "Center of Your Love",
+        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Upper Room Music",
+          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f"
         }
       ],
-      "duration_ms": 192933,
-      "name": "Now is Forever - Bonus Track",
-      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
+      "duration_ms": 296400,
+      "name": "You Satisfy (feat. Elyssa Smith)",
+      "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "At the Foot of the Cross - Acoustic",
+      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 272000,
       "name": "We Fall Down / Agnus Dei - Medley",
       "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "At the Foot of the Cross - Acoustic",
-      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 547251,
-      "name": "Rain Your Glory Down - Live",
-      "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Here On Earth",
         "url": "https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 264120,
       "name": "Nothing Is Holding Me Back",
       "url": "https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 547251,
+      "name": "Rain Your Glory Down - Live",
+      "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Beautiful Surrender",
+        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Simple Gospel (Live)",
         "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 543266,
       "name": "Never Going Back (Live) [feat. Brock Human]",
       "url": "https://open.spotify.com/track/4DmEUh51ANACrLZOzNHR5C"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Beautiful Surrender",
-        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1591,6 +1591,22 @@
       "duration_ms": 379093,
       "name": "Altar (Live)",
       "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Beautiful Surrender",
+        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 330266,
+      "name": "Abba (Arms Of A Father)",
+      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Beautiful Surrender",
-        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 330266,
-      "name": "Abba (Arms Of A Father)",
-      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Speak",
         "url": "https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI"
       },
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
       },
       "artists": [
         {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 42373,
-      "name": "Doxology",
-      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
+      "duration_ms": 293986,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1743,18 +1743,34 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
         }
       ],
-      "duration_ms": 289333,
-      "name": "My All in All",
-      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
+      "duration_ms": 42373,
+      "name": "Doxology",
+      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Heart Wide Open",
+      "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1775,34 +1791,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
       },
       "artists": [
         {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 293986,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Heart Wide Open",
-      "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
+      "duration_ms": 289333,
+      "name": "My All in All",
+      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
     },
     {
       "added_at": "2020-09-04 04:02:00",

@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-134 songs - 7 hr 24 min
+137 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Judgement](https://open.spotify.com/track/4XoECpd0nkk9OSLUIEOi1i) | [Gopi Longia](https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE) | [Judgement](https://open.spotify.com/album/3e1XAJm7FEvTMaaJ5SiksX) | 5:14 | 2023-03-29 | 2023-04-25 |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2023-03-29 |  |
 | [Kalamkaand](https://open.spotify.com/track/2uickBJkb6Q9p5OUijDyXA) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA) | [Kalamkaand](https://open.spotify.com/album/6MPlFOjhFBYddTxV4shdcX) | 2:00 | 2023-05-12 |  |
+| [Khabardaar](https://open.spotify.com/track/73no2a4Duu6WQenItVWniv) | [DeeKing](https://open.spotify.com/artist/7wx6OARYCPCI8ziz1kKSLD), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Khabardaar](https://open.spotify.com/album/4rh9PT4D50UngZEre4xqy4) | 2:35 | 2023-08-19 |  |
 | [King Of Indian Hip Hop](https://open.spotify.com/track/21noylFh40f8j2lyWah95R) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of Indian Hip Hop](https://open.spotify.com/album/6CiopvBPnSPd7G6l3qbbHt) | 7:20 | 2023-06-06 |  |
 | [King Of The Streets \- Intro](https://open.spotify.com/track/22Qz9UKeAAtGNPaMAbqT4P) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets \(Intro\)](https://open.spotify.com/album/4bLCFr5ikH6eMXO9T5QLZ5) | 2:00 | 2023-03-29 | 2023-04-17 |
 | [KOTS \- Freestyle](https://open.spotify.com/track/0rcb8gZqXRBSXzQfylEjCS) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 3:02 | 2023-06-09 |  |
@@ -136,8 +137,10 @@
 | [Tony Montana](https://open.spotify.com/track/35rt75xpICwBH2XfkssRDw) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Tony Montana](https://open.spotify.com/album/6Phz8s97lC84QKQRklq2Db) | 3:50 | 2023-03-29 | 2023-04-17 |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-03-29 |  |
 | [Tu Tera Dekh](https://open.spotify.com/track/5LQWquv8c8OYCE30SlXLAy) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Tu Tera Dekh](https://open.spotify.com/album/1xISjdoA7xWaEDkUGEXtL1) | 3:08 | 2023-03-29 | 2023-04-17 |
+| [VIOLENCE](https://open.spotify.com/track/1xEDyLLmFKjt66xtqq0d3w) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO) | [VIOLENCE](https://open.spotify.com/album/2wZdPkyyfFWkSEMr4qZDY4) | 2:23 | 2023-08-19 |  |
 | [Whoa There Nelly](https://open.spotify.com/track/6Rskn0hM0xj3t03foHpH7C) | [Till Apes](https://open.spotify.com/artist/7qzkGpR5qvkIVPXN5UwvVZ) | [Whoa There Nelly](https://open.spotify.com/album/45IBRe4BcNOcF5RvTZGEn4) | 3:04 | 2023-03-29 | 2023-07-21 |
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-29 | 2023-04-17 |
+| [Wonder Boy](https://open.spotify.com/track/1STXHYKdLdiP56YOQjT2i3) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Rohit Gaira](https://open.spotify.com/artist/67DKne1v7QUTa1TpkrnjQZ) | [Wonder Boy](https://open.spotify.com/album/4z1pi3K7ULGne7CJ2202Td) | 3:23 | 2023-08-19 |  |
 | [WZKD](https://open.spotify.com/track/3Gu3YTvfmGfNMNiI6FeTl2) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [WZKD](https://open.spotify.com/album/6fk68vB0oWyDoyTPW7Z0Gk) | 3:03 | 2023-06-19 |  |
 | [You Know The Drill](https://open.spotify.com/track/0PZT2VMwK3qGF9tp0xYAbz) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj) | [You Know The Drill](https://open.spotify.com/album/5SecXwBQSy1AalOteM4hRn) | 3:00 | 2023-03-29 | 2023-04-17 |
 | [Young King](https://open.spotify.com/track/3DNBXEXQSU18Ufq0IqboF7) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DEB](https://open.spotify.com/artist/1kRqyOs7RYeov3V6b9T86c) | [Young King](https://open.spotify.com/album/101INuhkIfoZ6pXtqiwJ8J) | 2:32 | 2023-08-11 |  |

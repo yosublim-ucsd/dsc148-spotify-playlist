@@ -1,12 +1,12 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 210611,
+  "num_followers": 210800,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTFiYTFlODJlNDhlNzA1MTEwZTc5YTc1NjlkZjFjYjVjOThjZGE4",
+  "snapshot_id": "MCwyODRhYzJkMmRmNTA5NTUxZDhmMDI4NmNlMWVhNGQwMTM4YTllNjFj",
   "tracks": [
     {
       "added_at": "2022-03-07 23:02:38",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Hit Me",
-      "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "Clasificacion C Vol.1",
         "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 228092,
       "name": "Un Par De Balas",
       "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Hit Me",
+      "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "Sirve Mi Caf\u00e9 Temprano",
         "url": "https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 239000,
       "name": "Sirve Mi Caf\u00e9 Temprano",
       "url": "https://open.spotify.com/track/7j4P6of6eyZDe49HUYSU2h"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "La Durango",
-        "url": "https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT"
+        "name": "Vieja Guardia",
+        "url": "https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN"
       },
       "artists": [
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Kartel Aztl\u00e1n",
+          "url": "https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45"
         }
       ],
-      "duration_ms": 250259,
-      "name": "La Durango",
-      "url": "https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB"
+      "duration_ms": 225640,
+      "name": "B\u00f3mboro",
+      "url": "https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Vieja Guardia",
-        "url": "https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN"
+        "name": "La Durango",
+        "url": "https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT"
       },
       "artists": [
         {
-          "name": "Kartel Aztl\u00e1n",
-          "url": "https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 225640,
-      "name": "B\u00f3mboro",
-      "url": "https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva"
+      "duration_ms": 250259,
+      "name": "La Durango",
+      "url": "https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB"
     },
     {
       "added_at": "2022-03-07 23:02:38",

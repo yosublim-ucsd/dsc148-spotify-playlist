@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Fre\_nky in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,737 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,771 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [FA BELLO](https://open.spotify.com/track/4miU3wAqdM1RXixC8CgFeB) | [Iltunsi](https://open.spotify.com/artist/5EKDPmA7YDn5cJfATS9SvJ), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [FA BELLO](https://open.spotify.com/album/4TvEgoLnciC2us7GCFlHQa) | 2:17 |
 | 50 | [GUERRA](https://open.spotify.com/track/3jsnqaZI1liYePMnHyhZF4) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn) | [DRILL LIFE 2 DELUXE](https://open.spotify.com/album/7kC5FpnIJf6y6ZqlNzZ81V) | 1:54 |
 
-Snapshot ID: `MCwwMmQ5YTk3MzY5YmE3MjkyNjNmZmIzOTE2YWFiMGQ5ODQ0ZTg2Y2Rh`
+Snapshot ID: `MCxjZDE0MTBmNzI1MDQwOWNkMjUxNzM4NjRkZmM3YmFkMThiMWE2OWIx`

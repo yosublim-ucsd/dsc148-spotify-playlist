@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Furui Riho
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,144 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,155 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [爛漫サマー](https://open.spotify.com/track/5YNjEDVaYH6RTwD3LsuZ8v) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [爛漫サマー](https://open.spotify.com/album/4kIoWPlTbkRwgFyoIBvOSk) | 3:32 |
 | 70 | [無計画化計画](https://open.spotify.com/track/7I7tM4CnJNguu8Mfc6w0Ba) | [Set Free](https://open.spotify.com/artist/36vcyceqhQLnHVZgchCasA) | [無計画化計画](https://open.spotify.com/album/1Jq7KVysKOthuUPYQVbDs6) | 4:08 |
 
-Snapshot ID: `MCxiMWM5NDk1MWQxNDVkOGRjMDJjMmMxNTMyOTBiYTBkYmIzYWQ3MjI5`
+Snapshot ID: `MCwxNDE0YTQwNjRkMmU5ZmFlMGRiZGU4NzYzOWJiZjY4ZmJhYjM5ZGRh`

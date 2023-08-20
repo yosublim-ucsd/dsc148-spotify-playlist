@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 59820,
+  "num_followers": 59924,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmE5NzI5MjgzYzhjM2FkZDA0Zjg0NGJkYTIwNzE3MTllNGNmM2Ex",
+  "snapshot_id": "MCxmYTBlZWZiMmVjYzg0YjVkMjMyYWQzOWE1NzdhMTYwMzBkNWExYmMw",
   "tracks": [
     {
       "added_at": "2023-04-06 13:07:38",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
-    },
-    {
-      "added_at": "2023-04-06 13:07:38",
-      "album": {
         "name": "Canned Heat",
         "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 191093,
       "name": "Rollin' And Tumblin'",
       "url": "https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD"
+    },
+    {
+      "added_at": "2023-04-06 13:07:38",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
     },
     {
       "added_at": "2023-04-06 13:07:38",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
-        "name": "Let 'em Roll",
-        "url": "https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53"
-      },
-      "artists": [
-        {
-          "name": "Hank Ballard",
-          "url": "https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Kansas City",
-      "url": "https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b"
-    },
-    {
-      "added_at": "2023-04-06 13:07:38",
-      "album": {
         "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
         "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 147840,
       "name": "One Night - Remastered",
       "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
+    },
+    {
+      "added_at": "2023-04-06 13:07:38",
+      "album": {
+        "name": "Let 'em Roll",
+        "url": "https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53"
+      },
+      "artists": [
+        {
+          "name": "Hank Ballard",
+          "url": "https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b"
     }
   ],
   "unique_name": "Blues Standards",

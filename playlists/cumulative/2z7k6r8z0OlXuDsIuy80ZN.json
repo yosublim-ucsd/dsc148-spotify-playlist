@@ -819,6 +819,28 @@
     },
     {
       "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180525,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
+    },
+    {
+      "album": {
         "name": "Cuesti\u00f3n De Suerte",
         "url": "https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t"
       },
@@ -2430,7 +2452,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 186045,
       "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"

@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147">Dante Bowe</a>
 
-407 songs - 1 day 0 hr 31 min
+408 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 | 2023-01-20 |  |
 | [I Surrender All \(Allt till Jesus\)](https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [I Surrender All \(Allt till Jesus\)](https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG) | 3:12 | 2023-01-20 |  |
 | [I Will](https://open.spotify.com/track/5ALPne4FwgXQSsbeZcmtUZ) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [I Will](https://open.spotify.com/album/3RIFpzK5MUgN7lsIYWnf0Q) | 5:11 | 2022-02-19 | 2022-06-25 |
-| [I'll Praise](https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [I'll Praise](https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4) | 2:40 | 2023-07-21 |  |
+| [I'll Praise](https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [I'll Praise](https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4) | 2:40 | 2023-07-21 | 2023-08-20 |
 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 | 2023-01-20 |  |
 | [I'm Here For You](https://open.spotify.com/track/6lVq26NCgPzh9FzpwuRL1t) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:35 | 2022-02-19 | 2022-06-26 |
 | [I'm Walking](https://open.spotify.com/track/2zuOKB1VTStUdgcIX1EjDj) | [Zeke Locke & The NuXperience](https://open.spotify.com/artist/3gpJHpenPoO7wClEPKxaQ4) | [I'm Walking](https://open.spotify.com/album/7l0WaATOjnITs9zuDRZXk3) | 3:40 | 2022-04-01 | 2022-07-27 |
@@ -382,6 +382,7 @@
 | [Walk Away](https://open.spotify.com/track/1OUXLM84JFCDmliq4YGefC) | [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [Walk Away](https://open.spotify.com/album/1HRBLYxSqYQGK2Z0LJOSXD) | 3:02 | 2022-04-01 | 2023-07-22 |
 | [Walk By Faith](https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 6:55 | 2022-07-08 |  |
 | [Walk With You](https://open.spotify.com/track/1ccvFGOxax5zDNdt8fNZLg) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Walk With You](https://open.spotify.com/album/189fRY2Ia2UVDcMnGW8hKV) | 6:22 | 2022-04-01 | 2023-08-09 |
+| [Walk With You](https://open.spotify.com/track/6XFUYEgpExi8Ag9pfGqUmk) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Walk With You](https://open.spotify.com/album/3PWXpbnKovOr89La5CvcCy) | 6:22 | 2023-07-21 |  |
 | [Way Home](https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Way Home](https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm) | 4:44 | 2023-01-20 |  |
 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 | 2022-04-01 | 2022-04-20 |
 | [What Would I Gain?](https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [What Would I Gain?](https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD) | 3:54 | 2022-04-01 | 2023-03-18 |

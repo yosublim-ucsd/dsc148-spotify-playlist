@@ -14461,7 +14461,7 @@
     },
     {
       "album": {
-        "name": "I Met Sarah in the Bathroom",
+        "name": "i met sarah in the bathroom",
         "url": "https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ"
       },
       "artists": [
@@ -14474,7 +14474,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121374,
-      "name": "I Met Sarah in the Bathroom",
+      "name": "i met sarah in the bathroom",
       "url": "https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx"
     },
     {
@@ -16302,6 +16302,32 @@
       "duration_ms": 86490,
       "name": "K Street Walker",
       "url": "https://open.spotify.com/track/7uNTCczLtdefuPYZHtEAkL"
+    },
+    {
+      "album": {
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
     },
     {
       "album": {
@@ -25814,6 +25840,24 @@
       "duration_ms": 122893,
       "name": "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
       "url": "https://open.spotify.com/track/4fUKE8EULjQdHF4zb0M8FO"
+    },
+    {
+      "album": {
+        "name": "Shadow (I'm Breaking Down)",
+        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218121,
+      "name": "Shadow (I'm Breaking Down)",
+      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
     },
     {
       "album": {

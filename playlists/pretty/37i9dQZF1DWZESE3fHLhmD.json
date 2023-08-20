@@ -1,12 +1,12 @@
 {
   "description": "Der Soundtrack f\u00fcr deinen Sommer \u2600\ufe0f",
-  "num_followers": 1271597,
+  "num_followers": 1271850,
   "original_name": "Sommergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjU3NmVkOThkYmRlNzFiNmU0YzUzOThlNjk3MzA1NmJmZmNlZjE5",
+  "snapshot_id": "MCw0NDBkYjNkYTY1NWI3ODc4MjZmOTVkYzQ0OTRjMTI4MWY0OTdjMWVm",
   "tracks": [
     {
       "added_at": "2023-08-18 08:35:04",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-08-18 08:35:04",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 187682,
-      "name": "Anyone For You (Tiger Lily)",
-      "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
-    },
-    {
-      "added_at": "2023-08-18 08:35:04",
-      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 209386,
       "name": "Out of My League",
       "url": "https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t"
+    },
+    {
+      "added_at": "2023-08-18 08:35:04",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 187682,
+      "name": "Anyone For You (Tiger Lily)",
+      "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
     },
     {
       "added_at": "2023-08-18 08:35:04",
@@ -427,18 +427,22 @@
     {
       "added_at": "2023-08-18 08:35:04",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+        "name": "sommer (feat. CRO)",
+        "url": "https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
         }
       ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+      "duration_ms": 171743,
+      "name": "sommer (feat. CRO)",
+      "url": "https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e"
     },
     {
       "added_at": "2023-08-18 08:35:04",
@@ -459,22 +463,18 @@
     {
       "added_at": "2023-08-18 08:35:04",
       "album": {
-        "name": "sommer (feat. CRO)",
-        "url": "https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L"
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
       "artists": [
         {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 171743,
-      "name": "sommer (feat. CRO)",
-      "url": "https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e"
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2023-08-18 08:35:04",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-08-18 08:35:04",
       "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
+    },
+    {
+      "added_at": "2023-08-18 08:35:04",
+      "album": {
         "name": "sommernacht",
         "url": "https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP"
       },
@@ -891,18 +907,18 @@
     {
       "added_at": "2023-08-18 08:35:04",
       "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
         }
       ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda"
     },
     {
       "added_at": "2023-08-18 08:35:04",
@@ -1039,6 +1055,22 @@
     {
       "added_at": "2023-08-18 08:35:04",
       "album": {
+        "name": "Sie",
+        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sie",
+      "url": "https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S"
+    },
+    {
+      "added_at": "2023-08-18 08:35:04",
+      "album": {
         "name": "Wir haben den Winter \u00fcberlebt",
         "url": "https://open.spotify.com/album/16j5gY7gqDM1phRVqzgrbL"
       },
@@ -1055,18 +1087,18 @@
     {
       "added_at": "2023-08-18 08:35:04",
       "album": {
-        "name": "Sie",
-        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
       "artists": [
         {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Sie",
-      "url": "https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S"
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
       "added_at": "2023-08-18 08:35:04",
@@ -1091,38 +1123,6 @@
     {
       "added_at": "2023-08-18 08:35:04",
       "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda"
-    },
-    {
-      "added_at": "2023-08-18 08:35:04",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
-    },
-    {
-      "added_at": "2023-08-18 08:35:04",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-08-18 08:35:04",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "added_at": "2023-08-18 08:35:04",
+      "album": {
         "name": "Only For A Moment",
         "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
       },
@@ -1151,22 +1171,6 @@
       "duration_ms": 167333,
       "name": "Only For A Moment",
       "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
-    },
-    {
-      "added_at": "2023-08-18 08:35:04",
-      "album": {
-        "name": "vielleicht in einem jahr",
-        "url": "https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U"
-      },
-      "artists": [
-        {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "vielleicht in einem jahr",
-      "url": "https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5"
     }
   ],
   "unique_name": "Sommergef\u00fchle",

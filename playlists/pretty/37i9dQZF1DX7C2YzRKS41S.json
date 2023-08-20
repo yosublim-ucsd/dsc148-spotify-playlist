@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 93154,
+  "num_followers": 93281,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTNmOTJjMTg1ZGNlNDI1N2E1YjkzMDNmNzc4MjdjMDExZjliYmUy",
+  "snapshot_id": "MCwzYzZiNzVmYzAwZDAzZGFiNDYwZTFlZWI0NGRhYmQzMWVlOWIxNTUz",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Simples",
+        "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 170409,
+      "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
+      "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Simples",
-        "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 170409,
-      "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
-      "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4B109AhIZ2LMd4dByewMlN"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 247001,
       "name": "Home",
       "url": "https://open.spotify.com/track/2LFk1O6rkC4qcNFU9eRxWd"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "Give Me The Reason",
-      "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 264006,
-      "name": "Jesus Christ 2005 God Bless America",
-      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+      "duration_ms": 234186,
+      "name": "Give Me The Reason",
+      "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 353946,
       "name": "Casimir Pulaski Day",
       "url": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Reconstru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
       },
@@ -839,26 +823,6 @@
       "duration_ms": 204895,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "How Long Do You Think It's Gonna Last?",
-        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
-      },
-      "artists": [
-        {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 330066,
-      "name": "Birch",
-      "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -879,6 +843,42 @@
       "duration_ms": 229868,
       "name": "Sim",
       "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 187759,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "How Long Do You Think It's Gonna Last?",
+        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
+      },
+      "artists": [
+        {
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 330066,
+      "name": "Birch",
+      "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
     },
     {
       "added_at": "2023-08-04 03:00:00",

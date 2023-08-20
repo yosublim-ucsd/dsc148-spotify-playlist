@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 2613,
+  "num_followers": 2642,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjg0YWYwZjY5MDVhZDQwZWRjNDk0NWY1ZTk0NDM2NjRiODA2NjRl",
+  "snapshot_id": "MCxjNTA4MTQ2YThhYmYwN2MyZWNlNDY0MTczZWU3M2UyZTM5YzU4Zjhk",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 258523,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Guarapo y Flor",
         "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 179541,
       "name": "Guarapo y Flor",
       "url": "https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Miss Universos",
-        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Desastre Comunal",
-      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
     },
     {
       "added_at": "2023-08-11 04:00:00",

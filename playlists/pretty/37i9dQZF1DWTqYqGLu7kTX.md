@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,752 likes - 82 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,201 likes - 82 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 81 | [Defend](https://open.spotify.com/track/4VzztRJEEEKEdLYC4TyFTo) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Defend](https://open.spotify.com/album/0MM2pqDPIMijqUHeZeukc1) | 2:53 |
 | 82 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 |
 
-Snapshot ID: `MCwwOTQ2ODFmOThiOTQ3MDE1Mjk3ZDhkMDZkZGYwMGE3YmU4OGI2NWFk`
+Snapshot ID: `MCxiZTJhODIwYzU3ODliNmY0MjBhMThlMjY2MGI5YzFmZGMxZmRlYmJh`

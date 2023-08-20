@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325 likes - 108 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 328 likes - 108 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 26 | [Guap](https://open.spotify.com/track/7G0PgkkbavF7Rh4zNrUxH0) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:31 |
 | 27 | [imagine](https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 2:44 |
 | 28 | [Pull\-Up](https://open.spotify.com/track/1SYqEFrLotYNBTJbNXKEa5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:06 |
-| 29 | [Here It Is \(feat\. Chris Brown\)](https://open.spotify.com/track/0lQ08hbjK1umHjCYvUrmCp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 |
-| 30 | [Tick Tick Boom \(feat\. BygTwo3\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/5nKdxWYQJTzJrHXWOSO9tO) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [BygTwo3](https://open.spotify.com/artist/1r9zcYlwfxbxtA5AhNBI4G) | [Tick Tick Boom \(feat\. BygTwo3\)](https://open.spotify.com/album/5EXdYCUAu8MXygJaYn9TR4) | 2:10 |
+| 29 | [Tick Tick Boom \(feat\. BygTwo3\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/5nKdxWYQJTzJrHXWOSO9tO) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [BygTwo3](https://open.spotify.com/artist/1r9zcYlwfxbxtA5AhNBI4G) | [Tick Tick Boom \(feat\. BygTwo3\)](https://open.spotify.com/album/5EXdYCUAu8MXygJaYn9TR4) | 2:10 |
+| 30 | [Here It Is \(feat\. Chris Brown\)](https://open.spotify.com/track/0lQ08hbjK1umHjCYvUrmCp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 |
 | 31 | [Burn \(feat\. Big Sean\)](https://open.spotify.com/track/1tv6IvWoOilhj0XbBoVVMo) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:36 |
 | 32 | [Dancer](https://open.spotify.com/track/62McdrVJELUVywVeDk59r0) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Dancer](https://open.spotify.com/album/4AgennmKnwGzpY8usQKM4J) | 3:02 |
 | 33 | [Dirty Work](https://open.spotify.com/track/49brugMHYob4zfpKhHDhR9) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Dirty Work](https://open.spotify.com/album/6jSAT6lkW1CoUBA6ifHSIM) | 3:07 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 107 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 108 | [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 |
 
-Snapshot ID: `MjgxOTUzMzAsMDAwMDAwMDAzZGIzNmEyMzQzMzliNGFiY2JkYzc1OTEwMTJmOTU1Mw==`
+Snapshot ID: `MjgyMDgyOTAsMDAwMDAwMDAwNjZjZTJhZDEzYjA4Yzc1ODYzZmExNTI3YWEwOWZmZQ==`

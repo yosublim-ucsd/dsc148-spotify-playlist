@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Young Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,325 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,348 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [Aphrodite](https://open.spotify.com/track/0HHQK3hnRPKHJZzIPcNE3M) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Aphrodite](https://open.spotify.com/album/1jta1AymwSA45U2uTZPYLk) | 4:01 |
 | 65 | [XTRDNR \(feat\. Boogát\)](https://open.spotify.com/track/1DdVrLHVEMKQdyQC1bGgOs) | [DJ Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [The Deadleez](https://open.spotify.com/album/4DsL01rmcJStmt2QewNrnl) | 2:41 |
 
-Snapshot ID: `MCw0MmQ1NDY3OWVhNzM0YTE3ZDcxZjZmNzIyNzhhMzU3ZDFmYjRmMTlh`
+Snapshot ID: `MCxiOTAxNjQ1NDIzM2JkOWQ5MzQ2Yjk4ZjZlNjVmZDIwYzljZDM4Nzhl`

@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "Back To Us",
+        "url": "https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "Friendzone",
+          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174571,
+      "name": "Back To Us",
+      "url": "https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W"
+    },
+    {
+      "album": {
         "name": "Bad For U",
         "url": "https://open.spotify.com/album/5rF6MSD64uT4ylAjpukdXW"
       },
@@ -228,6 +250,32 @@
       "duration_ms": 194142,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/2SJzfY2pZSzgAn3gQZMVJJ"
+    },
+    {
+      "album": {
+        "name": "Badman Riddim (feat. Sweetie Irie)",
+        "url": "https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137910,
+      "name": "Badman Riddim (feat. Sweetie Irie)",
+      "url": "https://open.spotify.com/track/339XYqVhOTiU94uiNHYm6t"
     },
     {
       "album": {
@@ -1837,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Kiss Dance Sweat",
+        "url": "https://open.spotify.com/album/1SzY5GQeodrC5MWymA896A"
+      },
+      "artists": [
+        {
+          "name": "Callie Reiff",
+          "url": "https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137460,
+      "name": "Kiss Dance Sweat",
+      "url": "https://open.spotify.com/track/72oPg6iDZvvTqC6LnIG3xI"
+    },
+    {
+      "album": {
         "name": "KPASA (feat. Drty Tropix)",
         "url": "https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE"
       },
@@ -2791,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "DISCOTEKEO",
+        "url": "https://open.spotify.com/album/3M1mMhYdhu9vjPgv5JXQ27"
+      },
+      "artists": [
+        {
+          "name": "Andrekza",
+          "url": "https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Papi Pistola",
+      "url": "https://open.spotify.com/track/38AGL5sCrFYfbnvZF4DvcG"
+    },
+    {
+      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/48asWtGeUdrvyLjixjfmQy"
       },
@@ -3390,6 +3474,24 @@
       "duration_ms": 198400,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/0oHEiGSJjfLROTq55TEoFl"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4cCR5OhfpjCIpKCjnTczqy"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153779,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0jgyu7T0uobQ9o2ubMFYDF"
     },
     {
       "album": {

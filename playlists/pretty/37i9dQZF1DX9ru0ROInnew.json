@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 95101,
+  "num_followers": 95160,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDU2OTVkYjhmMGE2MTVhYzBkYTA5N2JhY2EzMTZhYWQ1NjFkMzQ0",
+  "snapshot_id": "MCxiZmYzZmI0ZjMzNjE2NjFiNDZiYjY2NzBmNzhkMzMwNTIzMzE3NWM1",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -431,38 +431,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Toda Remix",
-        "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 367680,
-      "name": "Toda Remix - Remix",
-      "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Me Ama Me Odia",
         "url": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 326936,
       "name": "Me Ama Me Odia",
       "url": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Toda Remix",
+        "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 367680,
+      "name": "Toda Remix - Remix",
+      "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -555,6 +555,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Sexto Sentido (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227291,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Sexto Sentido (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 249600,
-      "name": "YO LE LLEGO",
-      "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
+      "duration_ms": 249600,
+      "name": "YO LE LLEGO",
+      "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Famouz Reloaded",
         "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 249253,
       "name": "Subiendo De Nivel - Remix",
       "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1323,18 +1323,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Before Famous",
-        "url": "https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2"
+        "name": "Subimos de Rango",
+        "url": "https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
         }
       ],
-      "duration_ms": 221252,
-      "name": "Antes de Morirme",
-      "url": "https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y"
+      "duration_ms": 266091,
+      "name": "Subimos de Rango",
+      "url": "https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1371,26 +1379,18 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Subimos de Rango",
-        "url": "https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626"
+        "name": "Before Famous",
+        "url": "https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2"
       },
       "artists": [
         {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Shootter Ledo",
-          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         }
       ],
-      "duration_ms": 266091,
-      "name": "Subimos de Rango",
-      "url": "https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j"
+      "duration_ms": 221252,
+      "name": "Antes de Morirme",
+      "url": "https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 229455,
-      "name": "Caro",
-      "url": "https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 162151,
       "name": "HOY COBR\u00c9",
       "url": "https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 229455,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM"
     },
     {
       "added_at": "2023-05-25 17:50:01",

@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 134587,
+  "num_followers": 134695,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmMxOGU2ODMyYzYyMGFkMjczNjNmNWVlNDY1OTU3YzM5OWI1ZDAx",
+  "snapshot_id": "MCwyYjg5YjAwM2NlNjI4YTZhOTcxNzZlNzUyZDQyZDRiNWRiZWM0NDZl",
   "tracks": [
     {
       "added_at": "2023-06-23 17:27:36",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "30 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0jHdI5wc8aCPFlV1lNHWn0"
+        "name": "Estoy Vivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
       },
       "artists": [
         {
-          "name": "Los Brios",
-          "url": "https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N"
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
         }
       ],
-      "duration_ms": 161386,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/7vFpaAMjGGFTP0BhYrtE9c"
+      "duration_ms": 184266,
+      "name": "La Ladrona",
+      "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Estoy Vivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
+        "name": "30 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0jHdI5wc8aCPFlV1lNHWn0"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Los Brios",
+          "url": "https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N"
         }
       ],
-      "duration_ms": 184266,
-      "name": "La Ladrona",
-      "url": "https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked"
+      "duration_ms": 161386,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/7vFpaAMjGGFTP0BhYrtE9c"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
+        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
+        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 274533,
+      "name": "Donde Est\u00e9s, Con Quien Est\u00e9s",
+      "url": "https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
         "name": "Querido Pablo",
         "url": "https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 242960,
       "name": "El Breve Espacio en Que No Estas",
       "url": "https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
-        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
-        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 274533,
-      "name": "Donde Est\u00e9s, Con Quien Est\u00e9s",
-      "url": "https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "En Mi Viejo San Juan",
-      "url": "https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "\u00c9xitos Eternos",
         "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 259866,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "En Mi Viejo San Juan",
+      "url": "https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/29PMfhdMAXdqGOXok1jQ3k"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 226373,
       "name": "Pasito Tun, Tun",
       "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
-      },
-      "artists": [
-        {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
-        }
-      ],
-      "duration_ms": 251306,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Gracias Por La Musica (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 278386,
-      "name": "Estoy So\u00f1ando - Spanish Version",
-      "url": "https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Como Lo Bailaron Tus Padres, Vol. 1",
         "url": "https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 173560,
       "name": "Vete Con Ella (Chappel of Love)",
       "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Gracias Por La Musica (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "Estoy So\u00f1ando - Spanish Version",
+      "url": "https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Sonia Rivas",
-        "url": "https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc"
-      },
-      "artists": [
-        {
-          "name": "Sonia Rivas",
-          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Todo Con \u00c9l",
-      "url": "https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Lo Mejor De Maria Conchita Alonso",
         "url": "https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 258573,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Sonia Rivas",
+        "url": "https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc"
+      },
+      "artists": [
+        {
+          "name": "Sonia Rivas",
+          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Todo Con \u00c9l",
+      "url": "https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1995,6 +1995,26 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
+        "name": "Tesoros De Coleccion - Sonia Rivas",
+        "url": "https://open.spotify.com/album/4ebWPRUoVQztHYZWmbqMN0"
+      },
+      "artists": [
+        {
+          "name": "Sonia Rivas",
+          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
+        },
+        {
+          "name": "YOSHIO",
+          "url": "https://open.spotify.com/artist/1RoOZqC7GYHlUG3FTFFx7Q"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "El Reencuentro",
+      "url": "https://open.spotify.com/track/53Af346CFsAjqvluCJud6T"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
         "name": "Gigliola Cinquetti con Los Panchos",
         "url": "https://open.spotify.com/album/6BWQtVhYmOKg8wsUzEZfdV"
       },
@@ -2007,22 +2027,6 @@
       "duration_ms": 199946,
       "name": "No tengo edad",
       "url": "https://open.spotify.com/track/4HiWZMvaKxbodac1h1skiY"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 182810,
-      "name": "Yo Que No Vivo Sin Ti",
-      "url": "https://open.spotify.com/track/6B7ohoEc96VRnmgzopDPG0"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -2043,22 +2047,18 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Tesoros De Coleccion - Sonia Rivas",
-        "url": "https://open.spotify.com/album/4ebWPRUoVQztHYZWmbqMN0"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z"
       },
       "artists": [
         {
-          "name": "Sonia Rivas",
-          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
-        },
-        {
-          "name": "YOSHIO",
-          "url": "https://open.spotify.com/artist/1RoOZqC7GYHlUG3FTFFx7Q"
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
         }
       ],
-      "duration_ms": 218426,
-      "name": "El Reencuentro",
-      "url": "https://open.spotify.com/track/53Af346CFsAjqvluCJud6T"
+      "duration_ms": 182810,
+      "name": "Yo Que No Vivo Sin Ti",
+      "url": "https://open.spotify.com/track/6B7ohoEc96VRnmgzopDPG0"
     },
     {
       "added_at": "2023-06-23 17:27:36",

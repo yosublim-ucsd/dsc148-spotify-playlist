@@ -1833,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "Crying In My Car",
+        "url": "https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd"
+      },
+      "artists": [
+        {
+          "name": "Tyler Cole",
+          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182146,
+      "name": "Crying In My Car (with Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl"
+    },
+    {
+      "album": {
         "name": "curse,",
         "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
       },
@@ -2632,7 +2654,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 144000,
       "name": "emma, u up?",
       "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"

@@ -569,6 +569,28 @@
     },
     {
       "album": {
+        "name": "Celestial Beings",
+        "url": "https://open.spotify.com/album/35uN73pnha77AWEFb0iGQv"
+      },
+      "artists": [
+        {
+          "name": "Mad Zach",
+          "url": "https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve"
+        },
+        {
+          "name": "yunis",
+          "url": "https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265846,
+      "name": "Celestial Beings - Halftime Version",
+      "url": "https://open.spotify.com/track/14RFRGAaYuB332FMjfvLPR"
+    },
+    {
+      "album": {
         "name": "CHAMELEON - Remixes",
         "url": "https://open.spotify.com/album/4p7TkKZy4dVg5KxxpFJr0H"
       },
@@ -871,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Dead Meat",
+        "url": "https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ"
+      },
+      "artists": [
+        {
+          "name": "Esseks",
+          "url": "https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ"
+        },
+        {
+          "name": "tiedye ky",
+          "url": "https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165339,
+      "name": "Dead Meat",
+      "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
+    },
+    {
+      "album": {
         "name": "Deep Space",
         "url": "https://open.spotify.com/album/0eYxRzlzOOoG8c0RWI15LD"
       },
@@ -900,7 +944,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 212571,
       "name": "Descendo",
       "url": "https://open.spotify.com/track/15Er0c4Xm78iNQFlwdjqpT"
@@ -3835,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/2xFoza0HkxWq2X69R4rJhr"
+      },
+      "artists": [
+        {
+          "name": "Dominus",
+          "url": "https://open.spotify.com/artist/7FhIV59gJWqj0nK49jRsf1"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259592,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/6rXDUd6W1hn1PAEluvtmgH"
+    },
+    {
+      "album": {
         "name": "Tethered",
         "url": "https://open.spotify.com/album/6096W6yEygXMAOy7Zm34eU"
       },
@@ -4530,6 +4592,24 @@
       "duration_ms": 229241,
       "name": "You - Original Mix",
       "url": "https://open.spotify.com/track/4R6Q146obmbOCTcGS7yrqZ"
+    },
+    {
+      "album": {
+        "name": "your armour will not protect me",
+        "url": "https://open.spotify.com/album/7HrT8nJ0eOyoqrqveBxVdn"
+      },
+      "artists": [
+        {
+          "name": "Ramzoid",
+          "url": "https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130591,
+      "name": "your armour will not protect me",
+      "url": "https://open.spotify.com/track/6kV8M2ztarCdw9w872mj8v"
     }
   ],
   "url": "https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP"

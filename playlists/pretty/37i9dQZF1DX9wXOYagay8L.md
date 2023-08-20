@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=b\_mUwu7XT4C\-hexwhZx9Ag">Makhadzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,473 likes - 52 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,611 likes - 52 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 51 | [Ke Tshepile Wena \- Amapiano Remix](https://open.spotify.com/track/17fvvpCD8y1DRmawmYPoR5) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Amapiano Remix\)](https://open.spotify.com/album/7FIoXi9TYAsAoEnWMGgNsh) | 5:14 |
 | 52 | [Njalo Njalo](https://open.spotify.com/track/31OnQUIe0Ue1Wbd3MhFGC6) | [De Mogul SA](https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC), [Khanya De Vocalist](https://open.spotify.com/artist/2CtrdOqCvIGCN4W26IUHoU) | [Njalo Njalo](https://open.spotify.com/album/0v9F0YNKx4vfjzaw0krND3) | 3:42 |
 
-Snapshot ID: `MCwyNjAyMjliMDMzM2YwNmY0MDZlNmUxOTIwMWY0MzI1NTBiYzBkYWQ4`
+Snapshot ID: `MCw3NjVmMTE0YjQ0NjY4ZTM0ODA1YmEzM2UwOWE0YjNhMGFjNzM5YWMx`

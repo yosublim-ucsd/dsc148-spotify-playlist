@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 12287,
+  "num_followers": 12292,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjM3MjIxZTI1N2I0NzNhYzg4NjRiNjUyY2UzMWEyMjRkOWJmMDk2",
+  "snapshot_id": "MCxmMDc4ZTA4MTc0OWIxNTBkZWQ3Y2U3Y2E5Y2M0MjBmMzEzOWI5OGQz",
   "tracks": [
     {
       "added_at": "2023-08-05 06:02:24",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "Twenty (Prod. Jung Key)",
-        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
-      },
-      "artists": [
-        {
-          "name": "SWAN",
-          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Twenty (Prod. Jung Key)",
-      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
+        "name": "Twenty (Prod. Jung Key)",
+        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
+      },
+      "artists": [
+        {
+          "name": "SWAN",
+          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Twenty (Prod. Jung Key)",
+      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
         "name": "Beige coat",
         "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 179080,
       "name": "Beige coat",
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 169930,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -491,18 +475,18 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
         }
       ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+      "duration_ms": 169930,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -519,6 +503,38 @@
       "duration_ms": 165433,
       "name": "Single",
       "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 199766,
+      "name": "Celeb",
+      "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -551,18 +567,18 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+        "name": "Especially For You",
+        "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
       },
       "artists": [
         {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+          "name": "Lee Daneung",
+          "url": "https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO"
         }
       ],
-      "duration_ms": 199766,
-      "name": "Celeb",
-      "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
+      "duration_ms": 154786,
+      "name": "Especially For You",
+      "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -583,18 +599,18 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "Especially For You",
-        "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
+        "name": "Guardian (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
       },
       "artists": [
         {
-          "name": "Lee Daneung",
-          "url": "https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 154786,
-      "name": "Especially For You",
-      "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
+      "duration_ms": 177818,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -611,22 +627,6 @@
       "duration_ms": 226240,
       "name": "With me",
       "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 13",
-        "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
-      },
-      "artists": [
-        {
-          "name": "Kei",
-          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
-        }
-      ],
-      "duration_ms": 189575,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 195042,
       "name": "About You",
       "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
+      },
+      "artists": [
+        {
+          "name": "Kei",
+          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
+        }
+      ],
+      "duration_ms": 189575,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "with you (feat. g0nny)",
-        "url": "https://open.spotify.com/album/38jEKpk2q846icctNoaDKk"
-      },
-      "artists": [
-        {
-          "name": "KOREA CRACKER",
-          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
-        },
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "with you (feat. g0nny)",
-      "url": "https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
         "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
       },
@@ -979,22 +959,6 @@
       "duration_ms": 244764,
       "name": "I Will Be By Your Side",
       "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "A-TEEN2 Part.1",
-        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -1015,6 +979,42 @@
       "duration_ms": 220186,
       "name": "You Move Me (feat. SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "A-TEEN2 Part.1",
+        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "with you (feat. g0nny)",
+        "url": "https://open.spotify.com/album/38jEKpk2q846icctNoaDKk"
+      },
+      "artists": [
+        {
+          "name": "KOREA CRACKER",
+          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "with you (feat. g0nny)",
+      "url": "https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

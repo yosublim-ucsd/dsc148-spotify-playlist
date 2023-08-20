@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421 likes - 78 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 56 | [The Best Ain't Happened Yet](https://open.spotify.com/track/3EPeF9pQC1fypfCrgUPUmj) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:46 |
 | 57 | [13 Months of Sunshine](https://open.spotify.com/track/16ISIfafspiGHjPH7EZmJe) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:27 |
 | 58 | [Lotus](https://open.spotify.com/track/3TGGENjrxEOwl1zBZZqKGc) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:18 |
-| 59 | [We Need To Talk](https://open.spotify.com/track/4KXrNQAEEtCaSzceiAtAaR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:10 |
-| 60 | [Wasting Time](https://open.spotify.com/track/5bKVgdkF1rcrHlWnlphL3P) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 1:44 |
-| 61 | [Mon seul abri](https://open.spotify.com/track/47kSaGCROStUQFjMxVO9bl) | [Olivier Cheuwa](https://open.spotify.com/artist/2izAP4n3Cio3Yzh1g7v0XX) | [Mon idéal](https://open.spotify.com/album/5WqTxX9o3AxiheK4eOyGTR) | 3:36 |
+| 59 | [Wasting Time](https://open.spotify.com/track/5bKVgdkF1rcrHlWnlphL3P) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 1:44 |
+| 60 | [Mon seul abri](https://open.spotify.com/track/47kSaGCROStUQFjMxVO9bl) | [Olivier Cheuwa](https://open.spotify.com/artist/2izAP4n3Cio3Yzh1g7v0XX) | [Mon idéal](https://open.spotify.com/album/5WqTxX9o3AxiheK4eOyGTR) | 3:36 |
+| 61 | [We Need To Talk](https://open.spotify.com/track/4KXrNQAEEtCaSzceiAtAaR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:10 |
 | 62 | [Whatta Night](https://open.spotify.com/track/5s9Mej8j5JhpoD6IAWDM9e) | [Ricky J](https://open.spotify.com/artist/4p1VIazDqCs6DKQndCEg1A) | [Whatta Night](https://open.spotify.com/album/2iYs3FFkrQrVjw4tSfFKlg) | 3:41 |
 | 63 | [Fuck It Tho](https://open.spotify.com/track/3P1LCtIyz5HH8ZmIv80qe3) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Unbound 02](https://open.spotify.com/album/7vjgXhtKKst7WM0YAvkll5) | 3:14 |
 | 64 | [Act Right](https://open.spotify.com/track/4o6IOdfo5PGPwvjmkHQkfd) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:46 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 77 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 78 | [Like the Ocean](https://open.spotify.com/track/60QQcUiVLsyYEHqNnDyZdX) | [Matt Palmer](https://open.spotify.com/artist/1lElMtQBM7yiErMxrNCRK3) | [Manhattan Records Presents "The Hits" \[Vol.2 \(mixed by DJ TAKU\)\]](https://open.spotify.com/album/00oKx39MIe4ioCBDFur4aD) | 2:12 |
 
-Snapshot ID: `MjgxOTUzMzAsMDAwMDAwMDBmNDk0ODhiMzQ3MjNmZDhhNzAyZTAzZmNmYTcwZWE4Nw==`
+Snapshot ID: `MjgyMDgyOTAsMDAwMDAwMDA1MmI1YWU5NzcxMThlNDIzYTU2OWY4NDFhMjFkNzMxMw==`

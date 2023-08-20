@@ -1,12 +1,12 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7886,
+  "num_followers": 7889,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjI0NCw4YjM5M2FhMDkxZjAyZjJjNjc1OGIxNzI2MmVhZWUxNjc4MWI4NGUy",
+  "snapshot_id": "MjI1Myw3YWIwMWM1MWUwYTk3MDBiNTBhZDE3MGJhNzNkNGUyYjExMzczOTQ2",
   "tracks": [
     {
       "added_at": "2023-07-28 15:02:50",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh"
     },
     {
+      "added_at": "2023-08-18 15:37:35",
+      "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 166916,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
+    },
+    {
       "added_at": "2023-07-21 15:50:18",
       "album": {
         "name": "MIND YOUR BUSINESS",
@@ -81,22 +97,6 @@
       "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
     },
     {
-      "added_at": "2023-07-21 15:48:14",
-      "album": {
-        "name": "Send a Blitz",
-        "url": "https://open.spotify.com/album/5B8cRQj7W21bAg4cBJiljs"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        }
-      ],
-      "duration_ms": 147239,
-      "name": "Send a Blitz",
-      "url": "https://open.spotify.com/track/5g9fY0Y3u6fz1gXkzh8MEm"
-    },
-    {
       "added_at": "2023-07-21 15:48:46",
       "album": {
         "name": "talk 2 em",
@@ -111,6 +111,22 @@
       "duration_ms": 144200,
       "name": "talk 2 em",
       "url": "https://open.spotify.com/track/7L4gDJcbomtunXe5zEgYGZ"
+    },
+    {
+      "added_at": "2023-08-18 15:38:38",
+      "album": {
+        "name": "Keep on Gettin It",
+        "url": "https://open.spotify.com/album/4UgxkUOeLoLmAovFdAKSav"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "duration_ms": 158143,
+      "name": "Keep on Gettin It",
+      "url": "https://open.spotify.com/track/06TbA8MtNeWZ7HKZlToTqw"
     },
     {
       "added_at": "2023-07-21 15:48:20",
@@ -315,6 +331,26 @@
       "duration_ms": 187880,
       "name": "TRY & SEE (feat. Future, G Herbo & Roddy Ricch)",
       "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
+    },
+    {
+      "added_at": "2023-08-18 15:38:55",
+      "album": {
+        "name": "PROBLEM SOLVER (feat. Boosie Badazz)",
+        "url": "https://open.spotify.com/album/6pVcnrOSDmOgABZvzKOfxC"
+      },
+      "artists": [
+        {
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "PROBLEM SOLVER (feat. Boosie Badazz)",
+      "url": "https://open.spotify.com/track/1B2BxeaI10RhzDwfJvbV7k"
     },
     {
       "added_at": "2023-07-28 15:03:09",
@@ -539,22 +575,6 @@
       "duration_ms": 147497,
       "name": "Made You Look (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3EdDaqA9IkOwD8rcRyK60b"
-    },
-    {
-      "added_at": "2022-11-11 14:35:10",
-      "album": {
-        "name": "Destructive",
-        "url": "https://open.spotify.com/album/7DUr45mWco8HIZeJI7GfLR"
-      },
-      "artists": [
-        {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
-        }
-      ],
-      "duration_ms": 193791,
-      "name": "Destructive",
-      "url": "https://open.spotify.com/track/0yDaLhw5vGnS5V4EaJyEFu"
     },
     {
       "added_at": "2022-04-29 13:45:14",
@@ -1075,26 +1095,6 @@
       "duration_ms": 180877,
       "name": "Let's Go MIA",
       "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
-    },
-    {
-      "added_at": "2023-07-21 15:50:49",
-      "album": {
-        "name": "ALTOID COWBOY",
-        "url": "https://open.spotify.com/album/343vSuShIqEKKXrdQ1LKV3"
-      },
-      "artists": [
-        {
-          "name": "Jamie Ray",
-          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
-        },
-        {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
-        }
-      ],
-      "duration_ms": 156902,
-      "name": "UH HUH (feat. Tay Money)",
-      "url": "https://open.spotify.com/track/7uoFImyxzGwMH1aSkYQrGU"
     }
   ],
   "unique_name": "EPIC VIBES",

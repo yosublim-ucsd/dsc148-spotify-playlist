@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 69119,
+  "num_followers": 69167,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWZlNWQzNWQ4MjU0OWE2Y2Y0ZDY0YTczMzAxYTY3YjhiMjY0NjE1",
+  "snapshot_id": "MCw5ZmY2MWU3ZWM0YzJhZWUyZWRlYjY2NDc0ZGFhOTBjMDkxNDIxYjlj",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "30 Mezcladitas de Oro para la Farra",
-        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
-      },
-      "artists": [
-        {
-          "name": "Los Lideres",
-          "url": "https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF"
-        }
-      ],
-      "duration_ms": 71893,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Castigo\u2026",
         "url": "https://open.spotify.com/album/68M7vT5AExw4SOIhEbYL7q"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 168320,
       "name": "Llorar Llorar Llorar",
       "url": "https://open.spotify.com/track/5APUuzq91fI3G1x3OsaOeJ"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "30 Mezcladitas de Oro para la Farra",
+        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
+      },
+      "artists": [
+        {
+          "name": "Los Lideres",
+          "url": "https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF"
+        }
+      ],
+      "duration_ms": 71893,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Matamoros Querido",
-      "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Matamoros Querido",
+      "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "17 Aniversario",
-        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
-        }
-      ],
-      "duration_ms": 188943,
-      "name": "Adolescente y Bonita",
-      "url": "https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
         "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
       },
@@ -1003,18 +987,34 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Disco De Oro Sonidero",
-        "url": "https://open.spotify.com/album/7KLAFeMq5gDBHhl1mM8ur1"
+        "name": "17 Aniversario",
+        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
       },
       "artists": [
         {
-          "name": "Danny Y Su Grupo",
-          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
         }
       ],
-      "duration_ms": 221610,
-      "name": "Cumbia De Los Patos",
-      "url": "https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso"
+      "duration_ms": 188943,
+      "name": "Adolescente y Bonita",
+      "url": "https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Donde Estas",
+      "url": "https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Donde Estas",
-      "url": "https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "21 A\u00f1os 21 \u00c9xitos",
         "url": "https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 179533,
       "name": "Chilito Piqu\u00edn",
       "url": "https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Disco De Oro Sonidero",
+        "url": "https://open.spotify.com/album/7KLAFeMq5gDBHhl1mM8ur1"
+      },
+      "artists": [
+        {
+          "name": "Danny Y Su Grupo",
+          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
+        }
+      ],
+      "duration_ms": 221610,
+      "name": "Cumbia De Los Patos",
+      "url": "https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ramirez y Sus Sonorritmicos",
-          "url": "https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Dame Mas Amor",
-      "url": "https://open.spotify.com/track/2HTCgnClGkbNQLUVBLR8EC"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Tongoneaito",
         "url": "https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 194413,
       "name": "Tongoneaito",
       "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ramirez y Sus Sonorritmicos",
+          "url": "https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Dame Mas Amor",
+      "url": "https://open.spotify.com/track/2HTCgnClGkbNQLUVBLR8EC"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
+        "name": "Ron Y Coca Cola",
+        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
       },
       "artists": [
         {
-          "name": "Tommy Ramirez y Sus Sonorritmicos",
-          "url": "https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH"
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
         }
       ],
-      "duration_ms": 165186,
-      "name": "Leticia",
-      "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
+      "duration_ms": 194840,
+      "name": "Ron Y Coca Cola",
+      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Ron Y Coca Cola",
-        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
       },
       "artists": [
         {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+          "name": "Tommy Ramirez y Sus Sonorritmicos",
+          "url": "https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH"
         }
       ],
-      "duration_ms": 194840,
-      "name": "Ron Y Coca Cola",
-      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
+      "duration_ms": 165186,
+      "name": "Leticia",
+      "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "Ni Juana la Cubana",
+        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
+      },
+      "artists": [
+        {
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "15 Anos De Exitos",
         "url": "https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 196066,
       "name": "D\u00e9jala Que Se Divierta",
       "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Ni Juana la Cubana",
-        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
-      },
-      "artists": [
-        {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Coleccion De Oro Puro",
-        "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
-      },
-      "artists": [
-        {
-          "name": "La Luz Roja De San Marcos",
-          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "La Cumbia Sampuesana",
-      "url": "https://open.spotify.com/track/3R0b08CZgjbYhtF9PjMUbq"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Quiereme",
         "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 166066,
       "name": "El Ladr\u00f3n",
       "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Coleccion De Oro Puro",
+        "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
+      },
+      "artists": [
+        {
+          "name": "La Luz Roja De San Marcos",
+          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "La Cumbia Sampuesana",
+      "url": "https://open.spotify.com/track/3R0b08CZgjbYhtF9PjMUbq"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
-      },
-      "artists": [
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 208882,
-      "name": "Viva el Amor",
-      "url": "https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "20 Exitos Historia Musical",
         "url": "https://open.spotify.com/album/0DylSKswghS7tyMd8ES5SB"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 175960,
       "name": "La Guera Gringa",
       "url": "https://open.spotify.com/track/6lLekYXNTMHtuu9HQBf9DA"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 208882,
+      "name": "Viva el Amor",
+      "url": "https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw"
     },
     {
       "added_at": "2023-06-16 16:50:57",

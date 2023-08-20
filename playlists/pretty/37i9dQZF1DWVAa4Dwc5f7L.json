@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz",
-  "num_followers": 385269,
+  "num_followers": 385334,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTg2NmFmMGUyNWE2OTJhMDc0YWRjM2I5MzQzZTE5YTUwMjhhYWU3",
+  "snapshot_id": "MCxkN2NjNjZjYTMyYzg4MmYzNDliMGQyN2EyMDMwNjRkNTk3NmYyYTM3",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Otra Noche (Another Night)",
-      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "El Hombre Merengue",
         "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 283866,
       "name": "Cachamba",
       "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Otra Noche (Another Night)",
+      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Mucho Flow",
+        "url": "https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Mucho Flow",
+      "url": "https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Lo Mejor De...To\u00f1o Rosario",
         "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
@@ -883,18 +899,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Mucho Flow",
-        "url": "https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV"
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
       },
       "artists": [
         {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Mucho Flow",
-      "url": "https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp"
+      "duration_ms": 203273,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -999,22 +1019,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
+        "name": "Borracho Me Doli\u00f3",
+        "url": "https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny"
       },
       "artists": [
         {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
         }
       ],
-      "duration_ms": 203273,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+      "duration_ms": 188160,
+      "name": "Borracho Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 289973,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Borracho Me Doli\u00f3",
-        "url": "https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny"
-      },
-      "artists": [
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Borracho Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Imparable",
-        "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
+        "name": "Merengue De Amor Vol.1",
+        "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
       },
       "artists": [
         {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 211098,
-      "name": "Sin Rumbo",
-      "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
+      "duration_ms": 250400,
+      "name": "Que Cara M\u00e1s Bonita",
+      "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Merengue De Amor Vol.1",
-        "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
       "artists": [
         {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 250400,
-      "name": "Que Cara M\u00e1s Bonita",
-      "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
+      "duration_ms": 265680,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1159,22 +1159,6 @@
       "duration_ms": 272533,
       "name": "El Moreno Esta",
       "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1211,8 +1195,8 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Exitos De",
-        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
+        "name": "Imparable",
+        "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
       },
       "artists": [
         {
@@ -1220,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 295320,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
+      "duration_ms": 211098,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "Cutibili Pacha",
+      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Coleccion Diamante",
         "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
       },
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
       },
       "artists": [
         {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 280533,
-      "name": "Cutibili Pacha",
-      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Exitos De",
+        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "15to Aniversario",
         "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 310933,
       "name": "El Meneito",
       "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Merengue De hoy",
-        "url": "https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo"
-      },
-      "artists": [
-        {
-          "name": "Papi Sanchez",
-          "url": "https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Enamorame",
-      "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Gozando",
         "url": "https://open.spotify.com/album/5qlTbCPV7gUDC9uWZygodC"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Merengue De hoy",
+        "url": "https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo"
+      },
+      "artists": [
+        {
+          "name": "Papi Sanchez",
+          "url": "https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Enamorame",
+      "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 243200,
       "name": "Est\u00e1s Enamorada",
       "url": "https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Despreocup\u00e1",
-        "url": "https://open.spotify.com/album/7wgitUipAKBjw8AIFG35H2"
-      },
-      "artists": [
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 156505,
-      "name": "Despreocup\u00e1",
-      "url": "https://open.spotify.com/track/1zL8We68JciISLOr2rZGqW"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Lo Mejor de Lo Mejor - Tropical",
-        "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
+        "name": "Despreocup\u00e1",
+        "url": "https://open.spotify.com/album/7wgitUipAKBjw8AIFG35H2"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
         }
       ],
-      "duration_ms": 286026,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
+      "duration_ms": 156505,
+      "name": "Despreocup\u00e1",
+      "url": "https://open.spotify.com/track/1zL8We68JciISLOr2rZGqW"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 171428,
       "name": "No Toy En Ti",
       "url": "https://open.spotify.com/track/0YMxfbonjLYbG4m9iEox7y"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor - Tropical",
+        "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286026,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
     },
     {
       "added_at": "2023-08-18 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,392 likes - 46 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,800 likes - 46 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 9 | [Champagne Supernova \- Remastered](https://open.spotify.com/track/2A7GGXmTlXuH9LOvBXgOX4) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 7:31 |
 | 10 | [Little By Little](https://open.spotify.com/track/45AQ5zbSJ0j1nM9daSWeq8) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 4:52 |
 | 11 | [Half The World Away \- Remastered](https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:27 |
-| 12 | [The Importance Of Being Idle](https://open.spotify.com/track/2RUfZnDBLgXeO2A1XOj0ss) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 3:39 |
+| 12 | [Let There Be Love](https://open.spotify.com/track/0SbytvHLix8OCZp17Pi0O1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/56VuARmradZgJcSaVucTWn) | 5:31 |
 | 13 | [She's Electric \- Remastered](https://open.spotify.com/track/60QLLec3yKDwloXCyummPy) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 3:40 |
 | 14 | [I'm Outta Time](https://open.spotify.com/track/4Q2UM2QSR7Gye03jvl4Rdw) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/75KnF13DIx7GXfz5IesWtT) | 4:10 |
 | 15 | [Married With Children](https://open.spotify.com/track/0oemhAQXaaIHCEARF9JFGg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe](https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC) | 3:12 |
-| 16 | [Let There Be Love](https://open.spotify.com/track/0SbytvHLix8OCZp17Pi0O1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/56VuARmradZgJcSaVucTWn) | 5:31 |
+| 16 | [The Importance Of Being Idle](https://open.spotify.com/track/2RUfZnDBLgXeO2A1XOj0ss) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 3:39 |
 | 17 | [Talk Tonight \- Remastered](https://open.spotify.com/track/2LNV0347QKt4AHxRSfCBij) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:23 |
 | 18 | [Sunday Morning Call](https://open.spotify.com/track/7EeyAZiyUEPFr8eBzG2BrT) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6F2iD5c7Aca3E0wmmPhgax) | 5:12 |
 | 19 | [Whatever \- Remastered](https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 6:22 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 45 | [Don't Stop… \- Demo](https://open.spotify.com/track/6lwWNrZ5nufGhTu5JQg0Hv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Stop… \(Demo\)](https://open.spotify.com/album/40aKKEG4XwBNjVSW5zSA6h) | 4:56 |
 | 46 | [It's Gettin' Better \(Man!!\) \(Live at Knebworth, 11 August '96\)](https://open.spotify.com/track/19r7EyyRHEzagsDFZxQBmH) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:56 |
 
-Snapshot ID: `MjgxOTg4MTcsMDAwMDAwMDBhYzUxYzczODcwN2NiY2E3ZmU4OGM3NDE5NzhkMDA3MQ==`
+Snapshot ID: `MjgyMDc0NTIsMDAwMDAwMDBhNTg3OWNjZjlhY2E5MzE2M2FhNDVlYmU5YWQxYmRjOQ==`

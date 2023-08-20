@@ -4,7 +4,7 @@
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-54 songs - 5 hr 4 min
+55 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Construção \- L\_cio & K\_Ri Version](https://open.spotify.com/track/12fcMx64LD2c13beXT3wv0) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW) | [Chico Buarque Construção Revisited](https://open.spotify.com/album/5huSLRTVHrDd28npUTRQgU) | 7:24 | 2023-06-16 |  |
 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 | 2023-06-16 |  |
 | [Criptogramas](https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Criptogramas](https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu) | 5:33 | 2023-06-16 |  |
-| [Cryptobiosis](https://open.spotify.com/track/3AfuPrv7mZQMP800JIyTTA) | [K.A.L.I.L.](https://open.spotify.com/artist/6im40CIcqEb9GVJ7Mg4nbT) | [Cryptobiosis](https://open.spotify.com/album/28f9sEk188mI9eDNJPpFVF) | 6:50 | 2023-06-16 |  |
+| [Cryptobiosis](https://open.spotify.com/track/3AfuPrv7mZQMP800JIyTTA) | [K.A.L.I.L.](https://open.spotify.com/artist/6im40CIcqEb9GVJ7Mg4nbT) | [Cryptobiosis](https://open.spotify.com/album/28f9sEk188mI9eDNJPpFVF) | 6:50 | 2023-06-16 | 2023-08-20 |
 | [De AK em Cima da CB1000](https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Paredão](https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq) | 4:18 | 2023-06-16 |  |
 | [Energy Sync \- Club Mix](https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0) | 6:37 | 2023-06-16 |  |
 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 | 2023-06-16 |  |
@@ -34,7 +34,7 @@
 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 | 2023-06-16 |  |
 | [House Aprovado Pelo Governo](https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS) | [Pessoas Que Eu Conheço](https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD) | [Ideologia Chinesa](https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k) | 5:23 | 2023-06-16 |  |
 | [Keyboard Cats](https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO) | [Amanda Mussi](https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ) | [Keyboard Cats EP](https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t) | 6:09 | 2023-06-16 |  |
-| [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 | 2023-06-16 |  |
+| [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 | 2023-06-16 | 2023-08-20 |
 | [Laiaraiá \- LOV.ini Remix](https://open.spotify.com/track/7tlQjeD17zGnhKfg9YLwgK) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/737UVySDRItiHv1XQIqygV) | 5:08 | 2023-06-16 |  |
 | [Machooka](https://open.spotify.com/track/7Fvz8ecjzVwZIIzTs2JaLn) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Machooka](https://open.spotify.com/album/4DKH6UMr9R1PhRzeo1OJj7) | 3:35 | 2023-06-16 |  |
 | [Madame Kabukicho](https://open.spotify.com/track/0puinhkTDWQyMhDgJjC7eR) | [Agrabah](https://open.spotify.com/artist/24lbhcjEJEOInrDEAGZfE6) | [Ghetto Hong Kong](https://open.spotify.com/album/1IwVHpDuv3H6Rizd8zB4t5) | 6:05 | 2023-06-16 |  |
@@ -43,7 +43,7 @@
 | [Me Destrói \- Stroka Remix](https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R) | [Thiago Pethit](https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD), [Stroka](https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5) | [Me Destrói \(Stroka Remix\)](https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW) | 5:07 | 2023-06-16 |  |
 | [Minguante](https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0) | [Kika Deeke](https://open.spotify.com/artist/2h4JqVoUA7Td1SqC5fHaAE) | [Quando o Tempo dá um Tempo](https://open.spotify.com/album/394surSicOxNpbQV6tMSDC) | 5:08 | 2023-06-16 | 2023-07-24 |
 | [Moleque Vampiro](https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Parente Neon](https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck) | 2:29 | 2023-06-16 |  |
-| [No Rave](https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9) | [Mootron](https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv) | [Easytiiger\_\_001](https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt) | 6:26 | 2023-06-16 | 2023-08-18 |
+| [No Rave](https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9) | [Mootron](https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv) | [Easytiiger\_\_001](https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt) | 6:26 | 2023-06-16 |  |
 | [Odara](https://open.spotify.com/track/3rAsJNy8H7u0wO5yoeRfNL) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP) | [V.A\. Odara Vol.1 \- Arde Mas Aguenta](https://open.spotify.com/album/3WP0lbkJsGiL9I3wWQXlmt) | 6:16 | 2023-06-16 |  |
 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 | 2023-06-16 |  |
 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 | 2023-06-16 |  |
@@ -61,6 +61,7 @@
 | [Sobre Tum Tum Ta](https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e) | [Nódulo](https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb) | 7:33 | 2023-06-16 |  |
 | [Tabom Riddim](https://open.spotify.com/track/2YFZ6IaFywtwTVFSBbaIdz) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Tabom Riddim](https://open.spotify.com/album/5vUUmLs4XsolALRJIC9t1x) | 2:40 | 2023-06-16 |  |
 | [Vavapo](https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0) | [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [Favela Garage Beats](https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx) | 3:07 | 2023-06-16 |  |
+| [VEM PRA ZONA LESTE](https://open.spotify.com/track/24orcxfAdgvrdnyLOnvuFQ) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [GUETO CLUB](https://open.spotify.com/album/2wRH4MifoleaIAhevuOn0O) | 3:55 | 2023-08-18 |  |
 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

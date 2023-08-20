@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499 likes - 63 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 505 likes - 63 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 10 | [Toca em Mim de Novo](https://open.spotify.com/track/6MxvEx7r6RccktcQwogIQr) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Toca em Mim de Novo](https://open.spotify.com/album/7dXoY31LdmobYZ35BjLW1d) | 4:30 |
 | 11 | [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 |
 | 12 | [Céu](https://open.spotify.com/track/4dOLTIZCnjRnQegoRhr3O3) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:02 |
-| 13 | [Tu és Bom](https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu és Bom](https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV) | 3:22 |
-| 14 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 |
+| 13 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 |
+| 14 | [Tu és Bom](https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu és Bom](https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV) | 3:22 |
 | 15 | [O Teu Amor](https://open.spotify.com/track/5rGVWeJK826Da7y0Cu9Z0n) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Teu Amor](https://open.spotify.com/album/4mxmO91KWLo3sHapuGM9Jb) | 4:39 |
 | 16 | [Estou Seguro \- Ao Vivo](https://open.spotify.com/track/3ivf2zetHD8ZMvrNVtGguO) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:16 |
 | 17 | [Correrei \- Ao Vivo](https://open.spotify.com/track/6OPBxXdwzUpWx1z78LTMKJ) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:31 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 25 | [Invocamos \- Ao Vivo](https://open.spotify.com/track/4ihtQFUBGnZ0yEmGd1ZkI2) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Gustavo Tenfen](https://open.spotify.com/artist/0nsZTtQt6ZKtccVlbetSTk) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 5:57 |
 | 26 | [Digno de Tudo](https://open.spotify.com/track/2bCD6yYXqnSyUYHz0IjTR5) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 7:58 |
 | 27 | [Meu Salvador \- Ao Vivo](https://open.spotify.com/track/3BEdHpS3OlNsZuT9HpdLaN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:30 |
-| 28 | [O Rei](https://open.spotify.com/track/4kgMeHkDcl4SjCnGsva3fx) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 7:01 |
-| 29 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn) | 5:04 |
+| 28 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn) | 5:04 |
+| 29 | [O Rei](https://open.spotify.com/track/4kgMeHkDcl4SjCnGsva3fx) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 7:01 |
 | 30 | [Avivamento](https://open.spotify.com/track/3lOrDpePtgosqI3CuDHmKs) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Avivamento](https://open.spotify.com/album/3fAEfPchJogYY4LappIgSa) | 5:58 |
 | 31 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 |
 | 32 | [Pai de Amor \- Live](https://open.spotify.com/track/751TdDZzsr7Wrv4naigRLL) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [André Aquino, Vol\. 2 \(Live\)](https://open.spotify.com/album/3y39KwTuUMQ4Gmz3R59bW6) | 8:34 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 62 | [Exemplo de Maria](https://open.spotify.com/track/460pUpGhBdWKY8t2balfG4) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 4:19 |
 | 63 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 
-Snapshot ID: `MjgxOTUyODAsMDAwMDAwMDAwNjRmZWU1OWU2MGQ2MjE5YjFlZDQyNzQ5ZjVhMThkNg==`
+Snapshot ID: `MjgyMDgyNDAsMDAwMDAwMDAwNDk5Nzc3ODNmMjBkZGE2ZGQxYWVhOGFkZmM3ZTRjYQ==`

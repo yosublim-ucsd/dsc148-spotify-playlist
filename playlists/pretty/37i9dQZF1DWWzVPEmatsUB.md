@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,097 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,101 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [As Is](https://open.spotify.com/track/3blffQRXJqDABPTWunKmEc) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [California Rain](https://open.spotify.com/album/1fo9JU2Wjx0meyd4i8kVXD) | 2:28 |
 | 100 | [Blueberry Puff](https://open.spotify.com/track/7JFL55nA4gZfq5ofsjY487) | [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Blueberry Puff](https://open.spotify.com/album/3WEtT7fr3NxpqTJnClikAc) | 2:40 |
 
-Snapshot ID: `MCxjODhjZWIzYzIxZmJiMzMzNDMzYjc2MDMzYWYxYTk3MDdlZDA5NTM2`
+Snapshot ID: `MCwyNzBiNjI4ZTRjZDZhOTYxZDc3OGJlMDg2NzZlNWI4MzA4Nzg0NDYz`

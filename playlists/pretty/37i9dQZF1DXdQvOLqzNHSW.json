@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 947324,
+  "num_followers": 947569,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTc2YjFiOGI1ZDg2MGRjYzRmNTJjYTc4N2Q5NDEwMjY4ZDUyMjUw",
+  "snapshot_id": "MCw0M2ViODBjZWM4MzI0ODA2Y2E4OGRiZDBmNTNhOWIyZDRhZjcxOTk2",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "Family and Genus",
-      "url": "https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "some light",
         "url": "https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 111468,
       "name": "some light",
       "url": "https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 319840,
+      "name": "Family and Genus",
+      "url": "https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/5SAR4b6aNdpzekzJoDVISc"
       },
       "artists": [
         {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
         }
       ],
-      "duration_ms": 134240,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/6GH5wjtkTqJsS7tC3TjaWq"
+      "duration_ms": 181508,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 134240,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6GH5wjtkTqJsS7tC3TjaWq"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 196363,
       "name": "January",
       "url": "https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/5SAR4b6aNdpzekzJoDVISc"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 181508,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "september 13th",
-        "url": "https://open.spotify.com/album/3l7cgNajTN496lgJSXRlza"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 129981,
-      "name": "september 13th",
-      "url": "https://open.spotify.com/track/3VLanFEDmh9JduRky83qQe"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "I'll Still Call",
         "url": "https://open.spotify.com/album/7lWAeNIi1tL8tva47N5lnz"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Kof\u016b",
-        "url": "https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s"
+        "name": "september 13th",
+        "url": "https://open.spotify.com/album/3l7cgNajTN496lgJSXRlza"
       },
       "artists": [
         {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
         }
       ],
-      "duration_ms": 66061,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
+      "duration_ms": 129981,
+      "name": "september 13th",
+      "url": "https://open.spotify.com/track/3VLanFEDmh9JduRky83qQe"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Meet the Frownies",
-        "url": "https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S"
+        "name": "Kof\u016b",
+        "url": "https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s"
       },
       "artists": [
         {
-          "name": "Mr Twin Sister",
-          "url": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
         }
       ],
-      "duration_ms": 240493,
-      "name": "Meet the Frownies",
-      "url": "https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW"
+      "duration_ms": 66061,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1239,6 +1223,22 @@
       "duration_ms": 235911,
       "name": "Little Dreamer",
       "url": "https://open.spotify.com/track/51uL9XvdRUwKbxWYIi6q6P"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Meet the Frownies",
+        "url": "https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S"
+      },
+      "artists": [
+        {
+          "name": "Mr Twin Sister",
+          "url": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Meet the Frownies",
+      "url": "https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
-      },
-      "artists": [
-        {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
-        }
-      ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Where Will We Go, Pt. 2",
         "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 299839,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "\u5358\u306bRetroFuture",
-        "url": "https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp"
-      },
-      "artists": [
-        {
-          "name": "Sweeps",
-          "url": "https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t"
-        },
-        {
-          "name": "NK Music",
-          "url": "https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi"
-        }
-      ],
-      "duration_ms": 147644,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Humans",
         "url": "https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 221720,
       "name": "We're Here, My Dear",
       "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "\u5358\u306bRetroFuture",
+        "url": "https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp"
+      },
+      "artists": [
+        {
+          "name": "Sweeps",
+          "url": "https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t"
+        },
+        {
+          "name": "NK Music",
+          "url": "https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi"
+        }
+      ],
+      "duration_ms": 147644,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "WHO DO U LUV",
-        "url": "https://open.spotify.com/album/0As7QlanAke4qQRSW4bEQr"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "WHO DO U LUV",
-      "url": "https://open.spotify.com/track/4K3c9V4rrzCHv4kHNXP0xE"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Cerulean Tapes",
         "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
       },
@@ -1967,22 +1951,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Light (with BENEE)",
-        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+        "name": "WHO DO U LUV",
+        "url": "https://open.spotify.com/album/0As7QlanAke4qQRSW4bEQr"
       },
       "artists": [
         {
-          "name": "Finn Falcon",
-          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Light (with BENEE)",
-      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+      "duration_ms": 248760,
+      "name": "WHO DO U LUV",
+      "url": "https://open.spotify.com/track/4K3c9V4rrzCHv4kHNXP0xE"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1999,6 +1979,26 @@
       "duration_ms": 249304,
       "name": "Whatever Comes to Mind",
       "url": "https://open.spotify.com/track/4ZEwzNvzSlciLfAtPVPbmI"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+      },
+      "artists": [
+        {
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Long Distance",
-        "url": "https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 284720,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Long Distance",
+        "url": "https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Between All Things",
-        "url": "https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX"
-      },
-      "artists": [
-        {
-          "name": "OHMA",
-          "url": "https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx"
-        }
-      ],
-      "duration_ms": 318378,
-      "name": "Between All Things",
-      "url": "https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "When All Is Said and Done",
         "url": "https://open.spotify.com/album/1M4UNmFfw5xrATlI3MljqC"
       },
@@ -2235,6 +2219,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Between All Things",
+        "url": "https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX"
+      },
+      "artists": [
+        {
+          "name": "OHMA",
+          "url": "https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx"
+        }
+      ],
+      "duration_ms": 318378,
+      "name": "Between All Things",
+      "url": "https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/3Q3xd77C966yd3RbQXBGAc"
       },
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "La Lune",
-        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "It's Been a Little Heavy Lately",
         "url": "https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 221871,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "La Lune",
+        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 237865,
+      "name": "Get Well",
+      "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Mr Blue (Jadu Heart Mix)",
         "url": "https://open.spotify.com/album/7m2SFt28E8jIawTtSBOW9F"
       },
@@ -2395,18 +2411,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
       },
       "artists": [
         {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
         }
       ],
-      "duration_ms": 237865,
-      "name": "Get Well",
-      "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
+      "duration_ms": 185333,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2423,6 +2439,22 @@
       "duration_ms": 125840,
       "name": "Stay Home With Me",
       "url": "https://open.spotify.com/track/1mUY05xbXQoGQov0fNJWtm"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Yellow House",
+        "url": "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 317173,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/2L7DZcRNEA7ZGiaHC6vlJw"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2447,22 +2479,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Yellow House",
-        "url": "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 317173,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/2L7DZcRNEA7ZGiaHC6vlJw"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "I Don't Wanna Lose",
         "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
       },
@@ -2475,22 +2491,6 @@
       "duration_ms": 231424,
       "name": "Candy",
       "url": "https://open.spotify.com/track/0U4GyEwrU9iN0laMOxAZTE"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
-      },
-      "artists": [
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
     },
     {
       "added_at": "2023-08-18 04:01:00",

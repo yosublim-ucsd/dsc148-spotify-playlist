@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 634673,
+  "num_followers": 634720,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDBjZmFkZWQwMjA4YWFlZTE0MmFhZTlkZmJkNmZhMmVmNWZlOTRh",
+  "snapshot_id": "MCw5MmVhY2FkM2M1MGZjMjE3NDEzYTI0ZjFhMDA1NTFmZTk3MWJmZmM2",
   "tracks": [
     {
       "added_at": "2023-08-18 14:32:56",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
+        "name": "From Another View",
+        "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
+      },
+      "artists": [
+        {
+          "name": "Salvation Hildersham",
+          "url": "https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN"
+        }
+      ],
+      "duration_ms": 178636,
+      "name": "From Another View",
+      "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
         "name": "Axiom",
         "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 172090,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
-        "name": "From Another View",
-        "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
-      },
-      "artists": [
-        {
-          "name": "Salvation Hildersham",
-          "url": "https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN"
-        }
-      ],
-      "duration_ms": 178636,
-      "name": "From Another View",
-      "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Our Powers",
-        "url": "https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6"
-      },
-      "artists": [
-        {
-          "name": "Ramel Alloy",
-          "url": "https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc"
-        }
-      ],
-      "duration_ms": 156795,
-      "name": "Our Powers",
-      "url": "https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 226833,
       "name": "Gleam",
       "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Our Powers",
+        "url": "https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6"
+      },
+      "artists": [
+        {
+          "name": "Ramel Alloy",
+          "url": "https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc"
+        }
+      ],
+      "duration_ms": 156795,
+      "name": "Our Powers",
+      "url": "https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
       },
       "artists": [
         {
-          "name": "Fahda Mohamed",
-          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Takamatsu",
-      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
+      "duration_ms": 271893,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -591,34 +591,18 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "The Unforgetting Heart",
-        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
       },
       "artists": [
         {
-          "name": "Michael Hopp\u00e9",
-          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
+          "name": "Fahda Mohamed",
+          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
         }
       ],
-      "duration_ms": 271893,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
-        "name": "Upwards",
-        "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
-      },
-      "artists": [
-        {
-          "name": "Aiyden",
-          "url": "https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Upwards",
-      "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
+      "duration_ms": 188000,
+      "name": "Takamatsu",
+      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -635,6 +619,22 @@
       "duration_ms": 193500,
       "name": "Sweven",
       "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Upwards",
+        "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
+      },
+      "artists": [
+        {
+          "name": "Aiyden",
+          "url": "https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Upwards",
+      "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Evanescenza",
-        "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Calmaz",
-          "url": "https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht"
-        }
-      ],
-      "duration_ms": 186601,
-      "name": "Libero",
-      "url": "https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Porto Fino",
-        "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
+        "name": "Evanescenza",
+        "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
       },
       "artists": [
         {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+          "name": "Andr\u00e9 Calmaz",
+          "url": "https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht"
         }
       ],
-      "duration_ms": 247963,
-      "name": "Porto Fino",
-      "url": "https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr"
+      "duration_ms": 186601,
+      "name": "Libero",
+      "url": "https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -795,6 +779,22 @@
       "duration_ms": 168000,
       "name": "Lumiere",
       "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Porto Fino",
+        "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "duration_ms": 247963,
+      "name": "Porto Fino",
+      "url": "https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
-      },
-      "artists": [
-        {
-          "name": "Miguel Serugetti",
-          "url": "https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz"
-        }
-      ],
-      "duration_ms": 145768,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Theta Sleep",
         "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 166000,
       "name": "Clear-Headed",
       "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
+      },
+      "artists": [
+        {
+          "name": "Miguel Serugetti",
+          "url": "https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz"
+        }
+      ],
+      "duration_ms": 145768,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "The Seasons",
-        "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
-      },
-      "artists": [
-        {
-          "name": "Hans Wolfgang Ziegler",
-          "url": "https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m"
-        }
-      ],
-      "duration_ms": 137796,
-      "name": "Sunny & Cloudy",
-      "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Would I Bother",
         "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 160941,
       "name": "Would I Bother",
       "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "The Seasons",
+        "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
+      },
+      "artists": [
+        {
+          "name": "Hans Wolfgang Ziegler",
+          "url": "https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m"
+        }
+      ],
+      "duration_ms": 137796,
+      "name": "Sunny & Cloudy",
+      "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
-      },
-      "artists": [
-        {
-          "name": "FANAR",
-          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "The Land of the Sun",
         "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 238725,
       "name": "The Land of the Sun",
       "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
+      },
+      "artists": [
+        {
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     },
     {
       "added_at": "2023-08-18 14:32:56",

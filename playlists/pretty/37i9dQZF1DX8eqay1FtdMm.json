@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bNAUL(\ub098\uc5bc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 324164,
+  "num_followers": 324167,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDY1MmZlZWI1NmM4MzM5ODQ4ZDUwZjY1NzI1ODljNDgwYzlmNmU4",
+  "snapshot_id": "MCxlYjdlN2UyODIzOGY5N2I3NTA3YzU2N2Q4M2U1MGJiNTkxZmJjNTBi",
   "tracks": [
     {
       "added_at": "2023-08-16 01:14:33",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
         "name": "WINTER",
         "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 264678,
       "name": "Will Last Forever",
       "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "Spring Again",
-        "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 236071,
-      "name": "The Snowman",
-      "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
         "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 267280,
       "name": "Breath",
       "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
+        "name": "Spring Again",
+        "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 236071,
+      "name": "The Snowman",
+      "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
+        "name": "Story Of Two Years",
+        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "\ub108\ub97c \uc704\ud574",
+      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 240066,
       "name": "Need you (With Sung Si Kyung)",
       "url": "https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
-        "name": "Story Of Two Years",
-        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "\ub108\ub97c \uc704\ud574",
-      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
         }
       ],
-      "duration_ms": 168760,
-      "name": "Fuckin' New Year",
-      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
       },
       "artists": [
         {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+      "duration_ms": 168760,
+      "name": "Fuckin' New Year",
+      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "love",
-        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 213275,
-      "name": "comedy",
-      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
         "name": "My Liberation Notes OST Part 1",
         "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 218621,
       "name": "Deeply",
       "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
+        "name": "love",
+        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 213275,
+      "name": "comedy",
+      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "Love War",
-        "url": "https://open.spotify.com/album/59DdpwFqZnqs1Bz4bgKxW7"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 240061,
-      "name": "Love War",
-      "url": "https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
         "name": "Can Love Be Fair",
         "url": "https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
+        "name": "Love War",
+        "url": "https://open.spotify.com/album/59DdpwFqZnqs1Bz4bgKxW7"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 240061,
+      "name": "Love War",
+      "url": "https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
-        "url": "https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo"
+        "name": "Love Playlist3 Part.1",
+        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
       },
       "artists": [
         {
-          "name": "Lee Hong Ki (FTISLAND)",
-          "url": "https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 256933,
-      "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
-      "url": "https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d"
+      "duration_ms": 237224,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "Love Playlist3 Part.1",
-        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
+        "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
+        "url": "https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "Lee Hong Ki (FTISLAND)",
+          "url": "https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE"
         }
       ],
-      "duration_ms": 237224,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
+      "duration_ms": 256933,
+      "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
+      "url": "https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "YOUNHA Studio Live Album 'MINDSET'",
-        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 331600,
-      "name": "Kaze",
-      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
+        "name": "YOUNHA Studio Live Album 'MINDSET'",
+        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 331600,
+      "name": "Kaze",
+      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
     },
     {
       "added_at": "2023-08-16 01:14:33",

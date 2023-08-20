@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "the other side",
+        "url": "https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172265,
+      "name": "2 faces",
+      "url": "https://open.spotify.com/track/3I7s9xEyLFWbEDtsv7vYt3"
+    },
+    {
+      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 159761,
       "name": "Arson",
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 149378,
       "name": "at my low",
       "url": "https://open.spotify.com/track/3mxpUW41lKJMkUUxR3bI54"
@@ -1078,6 +1096,24 @@
       "duration_ms": 166023,
       "name": "beside you",
       "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
+    },
+    {
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
       "album": {
@@ -1732,7 +1768,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -5176,7 +5212,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
@@ -6090,7 +6126,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 255750,
       "name": "Pink",
       "url": "https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL"
@@ -12638,7 +12674,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 168857,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e47\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
       "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"

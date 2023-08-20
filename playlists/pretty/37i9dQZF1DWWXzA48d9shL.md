@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: do not resurrect
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,862 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,178 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [NEXTBOT!](https://open.spotify.com/track/0wohSgJuZJvQoMV7gMpMrT) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/5O5zv32363BkvzctGwLqyR) | 1:30 |
 | 100 | [BALL LIKE THIS](https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [BALL LIKE THIS](https://open.spotify.com/album/3uqHaUjyxgXQb6FD4w4LFQ) | 2:02 |
 
-Snapshot ID: `MCxiMDQ3ZjE4ODU2YmFiOGYyN2VhZmY4NDk3NWMzNzc3MGE2N2U5NDFm`
+Snapshot ID: `MCxiMmYyNWRkM2ZmYjE2YmI3YzJiNWRkODMwMzg0MWI1ODNlYzZkOTk0`

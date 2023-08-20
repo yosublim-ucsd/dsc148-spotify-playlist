@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 98725,
+  "num_followers": 98768,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDRkNmI2YjI5MWZhZWMxZDM4YzhjZTY3MzBhN2JiZDdlNWE3OTE4",
+  "snapshot_id": "MCw4MTQ1MDc0YWE4NGRiMzgwNDVlZDliZjg5ZjY3YjcwNDgwNzUwNzIw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -331,18 +331,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Hafursey (Yfir)",
-        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
+        "name": "and we\u2019ll leave it there\u2026",
+        "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
       "artists": [
         {
           "name": "\u00d3lafur Arnalds",
           "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Ella McRobb",
+          "url": "https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw"
         }
       ],
-      "duration_ms": 299441,
-      "name": "Hafursey (Yfir)",
-      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
+      "duration_ms": 219840,
+      "name": "and we\u2019ll leave it there\u2026",
+      "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -407,30 +411,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "L(oo)ping",
-        "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Dirk Bross\u00e9",
-          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "Ghosts - Looping",
-      "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Spring 1 (Levitation Mix)",
         "url": "https://open.spotify.com/album/4maru8HKkGFwwrUWovd1wX"
       },
@@ -455,6 +435,30 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "L(oo)ping",
+        "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Dirk Bross\u00e9",
+          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "Ghosts - Looping",
+      "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "hundred00",
         "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
       },
@@ -467,6 +471,42 @@
       "duration_ms": 289210,
       "name": "hundred00",
       "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Bird's Tail (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 343893,
+      "name": "Bird's Tail - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Hafursey (Yfir)",
+        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 299441,
+      "name": "Hafursey (Yfir)",
+      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -499,62 +539,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "and we\u2019ll leave it there\u2026",
-        "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Ella McRobb",
-          "url": "https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "and we\u2019ll leave it there\u2026",
-      "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Bird's Tail (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
-      },
-      "artists": [
-        {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 343893,
-      "name": "Bird's Tail - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "River Oblivion",
-        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 365892,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/0Vpwr05jz86jMAIzMZ7BBE"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Reimagined. Volume 2, Chapter 3",
         "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 423047,
       "name": "Nuvole Bianche - Reimagined by Mercan Dede",
       "url": "https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "River Oblivion",
+        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 365892,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/0Vpwr05jz86jMAIzMZ7BBE"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Post-Svalbard",
-        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
+        "name": "P\u00e1th\u0113",
+        "url": "https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Robert Lippok",
-          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
+          "name": "Piotr Wiese",
+          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
         }
       ],
-      "duration_ms": 270874,
-      "name": "Season Shifting - Robert Lippok Rework",
-      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
+      "duration_ms": 341013,
+      "name": "P\u00e1th\u0113",
+      "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -703,18 +699,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "P\u00e1th\u0113",
-        "url": "https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9"
+        "name": "Post-Svalbard",
+        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
       },
       "artists": [
         {
-          "name": "Piotr Wiese",
-          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Robert Lippok",
+          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
         }
       ],
-      "duration_ms": 341013,
-      "name": "P\u00e1th\u0113",
-      "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
+      "duration_ms": 270874,
+      "name": "Season Shifting - Robert Lippok Rework",
+      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Ensemb7e",
+        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
+      },
+      "artists": [
+        {
+          "name": "Chapelier Fou",
+          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
+      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Close To Her",
         "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 133335,
       "name": "Nos - C.B. Rework",
       "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Ensemb7e",
-        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
-      },
-      "artists": [
-        {
-          "name": "Chapelier Fou",
-          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
-      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "duration_ms": 263708,
+      "name": "North/South",
+      "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Elv",
         "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
       },
@@ -1239,38 +1255,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
-      },
-      "artists": [
-        {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
-        }
-      ],
-      "duration_ms": 263708,
-      "name": "North/South",
-      "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ndag S\u00f8ndag",
-          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
-        }
-      ],
-      "duration_ms": 238764,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "We All Have Places That We Miss",
         "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 310000,
       "name": "Remembered Words",
       "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ndag S\u00f8ndag",
+          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
+        }
+      ],
+      "duration_ms": 238764,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Unfold (XXIM:EXPO #2)",
-        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+        "name": "Sleepless Wake",
+        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
         }
       ],
-      "duration_ms": 218743,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+      "duration_ms": 222187,
+      "name": "Sleepless Wake",
+      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Unfold (XXIM:EXPO #2)",
+        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        }
+      ],
+      "duration_ms": 218743,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Caught a Black Rabbit - The Remixes",
         "url": "https://open.spotify.com/album/4Tlq2ZWSjTMq5sWeRy438H"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 293408,
       "name": "Robin's Cello (Turtle Remix)",
       "url": "https://open.spotify.com/track/1XLRc2YwqD348gKH0iHsNI"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Sleepless Wake",
-        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 222187,
-      "name": "Sleepless Wake",
-      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
     },
     {
       "added_at": "2023-08-18 04:01:00",

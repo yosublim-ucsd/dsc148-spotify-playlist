@@ -4,7 +4,7 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-91 songs - 5 hr 46 min
+92 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Like I Never Left \(feat\. Akon\)](https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:49 | 2023-03-09 | 2023-08-19 |
 | [Locked Up](https://open.spotify.com/track/0YUrjFy4qFKOO5NhM9tYdV) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble](https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya) | 3:55 | 2022-08-30 | 2022-11-25 |
 | [Locked Up](https://open.spotify.com/track/48EQasc6XD0pOQtkIOWqOC) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 | 2021-12-28 |  |
+| [Locked Up \(ft\. Akon\)](https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Locked Up \(ft\. Akon\)](https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu) | 2:27 | 2023-08-19 |  |
 | [LOCKED UP PT\. 2](https://open.spotify.com/track/52EVeEEPT1H7EIEtN9lC13) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TattleTales](https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9) | 3:23 | 2022-04-25 | 2023-05-02 |
 | [LOCKED UP PT\. 2](https://open.spotify.com/track/7Mu3sCvXdMSlBLrUPOhWAG) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TattleTales](https://open.spotify.com/album/6dQ5jKDz664ctPbDDSF7Ua) | 3:23 | 2021-12-28 | 2022-02-18 |
 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 | 2021-12-28 |  |

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-388 songs - 23 hr 6 min
+392 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Alter Ego](https://open.spotify.com/track/4WkwaDueMMiU1bKHh31B6C) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Alter Ego](https://open.spotify.com/album/0C0fEWm9CaCishihwPOluu) | 4:08 | 2020-10-10\* | 2021-05-13 |
 | [Always](https://open.spotify.com/track/3CWwGkncQoPE2MKEL1zFj3) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Always](https://open.spotify.com/album/2674CYMtyVGOz2BaIaEts9) | 3:23 | 2021-02-25 | 2022-03-18 |
 | [America \(You're Freaking Me Out\)](https://open.spotify.com/track/20WfBEoY5LuJdK9slRv71l) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [America \(You're Freaking Me Out\)](https://open.spotify.com/album/76xp2axlbmffPMsZaGIWVX) | 3:35 | 2020-10-10\* | 2021-02-25 |
+| [An Arrow In The Wall](https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [An Arrow In The Wall](https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz) | 4:49 | 2023-08-18 |  |
 | [Annabelle](https://open.spotify.com/track/4uzKNVMTj3fxcsjG806Adf) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Annabelle](https://open.spotify.com/album/0czmt14Yv1lKrsK2CGWDDW) | 3:48 | 2020-10-10\* | 2021-05-13 |
 | [ANNIVERSARY](https://open.spotify.com/track/6w4goTlu5ciLeHNntz20La) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [ANNIVERSARY](https://open.spotify.com/album/13YgViqUuxtL0S9CqjESPb) | 5:18 | 2021-09-04 |  |
 | [Another Day](https://open.spotify.com/track/1oL7QVcoAHnd4Rvitio50R) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Another Day](https://open.spotify.com/album/4j5574AD9v7rryYhe2bdZL) | 4:02 | 2021-12-02 |  |
@@ -53,6 +54,7 @@
 | [Brighter Days \(Are Before Us\)](https://open.spotify.com/track/6X6CxZ2XbfayOg2ldlBEJV) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Brighter Days \(Are Before Us\)](https://open.spotify.com/album/0RBkf8XXUW5Mihn42NiOUW) | 3:03 | 2021-07-31 |  |
 | [Broken System](https://open.spotify.com/track/6Zk0OgVcyGXpDiTEra7xzW) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Broken System](https://open.spotify.com/album/0OWHl71Twv54ip9YYZITMe) | 2:47 | 2020-10-23 | 2022-03-18 |
 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 | 2021-11-25 |  |
+| [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/album/69u1Q1ds3YWF8VDM8rhJu6) | 2:42 | 2023-08-11 |  |
 | [Canals](https://open.spotify.com/track/6ubLURl6xHWIYPZ7nz0rTF) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Canals](https://open.spotify.com/album/5312yUhAkaR0kRV7I5I0Dk) | 4:33 | 2020-10-10\* | 2021-02-25 |
 | [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 | 2020-10-15 | 2022-03-18 |
 | [Chances Are](https://open.spotify.com/track/73vlVDlp4rSd8SaiccnbtN) | [Forenzics](https://open.spotify.com/artist/2h7NTTkRJls7myYtPUZcG3), [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL), [Tim Finn](https://open.spotify.com/artist/6OIoPLnbAe0U4k1NFjqIyN) | [Chances Are](https://open.spotify.com/album/6YegMkVMKI8lJIOk7ynY6h) | 3:19 | 2021-11-12 |  |
@@ -325,6 +327,7 @@
 | [Surrounded By Spies](https://open.spotify.com/track/5LXezNuUE2SRJhoqiwTs3P) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Surrounded By Spies](https://open.spotify.com/album/1oXC9xTnpHTqZ4zupV54Md) | 5:14 | 2021-11-12 |  |
 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-03-13 |  |
 | [Take Me Away \(Freaky Friday Cover\)](https://open.spotify.com/track/6DgOgEPyxAAK28bkn1wfax) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Take Me Away \(Freaky Friday\)](https://open.spotify.com/album/3mj6oGLr6QrKKKu3sii05Y) | 3:07 | 2023-08-04 |  |
+| [Talk Sick](https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Talk Sick](https://open.spotify.com/album/6sDeXuu7RK9p2JBC6Um7j5) | 4:34 | 2023-08-18 |  |
 | [Tear Down Those Names](https://open.spotify.com/track/4Lv7rmfqali1QauyCqBPUa) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Tear Down Those Names](https://open.spotify.com/album/1lGKcjy727WZ4KEoJb6nB6) | 4:01 | 2021-07-10 |  |
 | [Teenage Seance](https://open.spotify.com/track/3e9s7jHAy2m1EDYVklVD9D) | [Regionals](https://open.spotify.com/artist/0qy3ehXiSt9DNvvFu3Sf9k) | [Teenage Seance](https://open.spotify.com/album/014VB7XdeRPXraQ2ZHX0jC) | 4:11 | 2020-10-10\* | 2021-05-13 |
 | [Tell Me I’m Alive](https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:35 | 2023-03-17 |  |
@@ -344,6 +347,7 @@
 | [The Runaround](https://open.spotify.com/track/4UT9eu8tFiRyi7wVz0vVcZ) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [The Runaround](https://open.spotify.com/album/6sKafsuY83tNWqqqnL4k9n) | 3:43 | 2021-02-26 | 2022-03-18 |
 | [The Runner](https://open.spotify.com/track/0AWYvdcS6N463VlsbrzijH) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [The Runner](https://open.spotify.com/album/7CwnnH6mZCAKwKLgwrLWRU) | 4:21 | 2020-10-10\* | 2021-05-13 |
 | [The Writing on the Wall](https://open.spotify.com/track/6KxDdy6asuOagDjO4fjE5Q) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing On The Wall](https://open.spotify.com/album/36ZBN6U0ENDWl6MsfBFdxN) | 6:13 | 2021-07-17 |  |
+| [THERE'S NO DUST IN THE CITY \(feat\. Andrew Michael Wells\)](https://open.spotify.com/track/3XJySfQxLrk1nuHB3OUPs9) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a), [Andrew Michael Wells](https://open.spotify.com/artist/4GasLQGNFJu8hUb6NiEE44) | [THERE'S NO DUST IN THE CITY \(feat\. Andrew Michael Wells\)](https://open.spotify.com/album/0sELNTcQOVostrzXOv70Bc) | 3:21 | 2023-08-18 |  |
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-04-01 |  |
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-06-04 |  |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-09-29 |  |

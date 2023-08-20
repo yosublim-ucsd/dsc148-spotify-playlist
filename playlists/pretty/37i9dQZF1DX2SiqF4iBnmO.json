@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 91963,
+  "num_followers": 92075,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzZkZmFlNTExYWY1NTBiYTE1ZDcwNGQ4YjMwOGMwYTQyYzk5Y2Rm",
+  "snapshot_id": "MCxjZTkzNTAxNTg3ZmM5MTRmMjk2ZTRkMDQzMzhhODk2M2JjYTZmNzk5",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Pretty Hate Machine",
-        "url": "https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Down In It",
-      "url": "https://open.spotify.com/track/06UVb2bREPv8hvioVkaMvC"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Rhyme Pays",
         "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 224866,
       "name": "6 'N the Mornin'",
       "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Pretty Hate Machine",
+        "url": "https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Down In It",
+      "url": "https://open.spotify.com/track/06UVb2bREPv8hvioVkaMvC"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 409648,
+      "name": "Feels So Real (Won't Let Go) - 12\" Version",
+      "url": "https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 326000,
       "name": "Feelin' So Good (feat. Big Pun & Fat Joe)",
       "url": "https://open.spotify.com/track/1AlvKwk3NBZ8lAt7GC6SiT"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 409648,
-      "name": "Feels So Real (Won't Let Go) - 12\" Version",
-      "url": "https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ"
     },
     {
       "added_at": "2023-06-29 22:01:00",

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/4UeRg7G4h9gxqlonlifPEn.md) - cumulative - [plain](/playlists/plain/4UeRg7G4h9gxqlonlifPEn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4UeRg7G4h9gxqlonlifPEn)
 
-### [Turnt Mode](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
+### [Turnt Mode – Rap Pregame](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame \| Cover: Tyla Yaweh
 
-273 songs - 12 hr 52 min
+276 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bacc Like I Never Left](https://open.spotify.com/track/28UHFrXxU6V6J2Wh2Bp3gQ) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Bighead](https://open.spotify.com/artist/47rYP3OnFecFuino5DXte1) | [Bacc Like I Never Left](https://open.spotify.com/album/7o86mmziw5xMO0oIO3KGaB) | 2:35 | 2023-03-17 |  |
 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5) | 1:46 | 2022-06-03 | 2022-08-06 |
 | [Bag Talk](https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bag Talk](https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5) | 2:27 | 2022-10-28 |  |
+| [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 | 2023-08-18 |  |
 | [Bassline](https://open.spotify.com/track/1Mxxb2DvCDdLvNqaHEzzpD) | [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [Bassline](https://open.spotify.com/album/0qInLMG7pD2429GUes51aT) | 3:00 | 2022-06-03 | 2023-02-18 |
 | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ) | 2:24 | 2023-07-12 |  |
 | [Best Friend \(feat\. Stunna 4 Vegas\)](https://open.spotify.com/track/7uom8asxEKOVeK8EfhKwk9) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Best Friend \(feat\. Stunna 4 Vegas\)](https://open.spotify.com/album/2uFmosrvialCe5Acam0x6U) | 2:33 | 2022-06-03 | 2022-10-15 |
@@ -101,6 +102,7 @@
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2022-10-14 |  |
 | [Exposed](https://open.spotify.com/track/5QiJRSbS55oKO55hWaF8tQ) | [JMB Juvie](https://open.spotify.com/artist/25zUbJzU1WGRTN5Y0ajRzd) | [Exposed](https://open.spotify.com/album/0NCaM5SOtDJg7ZxfS9aO32) | 3:18 | 2022-12-16 | 2023-04-22 |
 | [F\*\*kin' Problems \(feat\. Drake, 2 Chainz & Kendrick Lamar\)](https://open.spotify.com/track/4XoP1AkbOurU9CeZ2rMEz2) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/1E1eyI5uGllppJZCxNoF9w) | 3:53 | 2023-02-03 |  |
+| [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 | 2023-08-18 |  |
 | [Facts \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1aSYC1OsSAnrcOWC2PKINJ) | [RiskTakerLeek](https://open.spotify.com/artist/2cD4nVRakJU18WJCb2oVmy), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Facts \(feat\. BigXthaPlug\)](https://open.spotify.com/album/5Wf5eCpeHKEx7BNp2XUbwe) | 3:33 | 2023-04-14 |  |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2022-06-03 | 2022-06-25 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-28 |  |
@@ -125,6 +127,7 @@
 | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/album/0ev0saRGsMUB9MxtWZnliz) | 2:35 | 2022-07-22 | 2023-03-04 |
 | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is) | 2:49 | 2023-05-12 |  |
 | [Hot Sauce](https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hot Sauce](https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc) | 2:57 | 2023-04-14 |  |
+| [I <3 My Nigga](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My Nigga](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 | 2023-08-18 |  |
 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 | 2023-01-20 | 2023-04-15 |
 | [I Need a MIC](https://open.spotify.com/track/7mz7Xjxja8LnBqsJbxek6f) | [Everthe8](https://open.spotify.com/artist/7fZxnpq2mj2K0LBY3j1fBb), [Bmb Spacekid](https://open.spotify.com/artist/6ZlLGjV1Ml9JfAtesdWKxu) | [I Need A MIC](https://open.spotify.com/album/5ASQGw88Cw9TQttxHUMcn4) | 1:33 | 2022-06-03 | 2022-09-17 |
 | [I Serve the Base](https://open.spotify.com/track/1Rq4GtIucW9CAcF8B6PAbW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:10 | 2023-04-07 |  |

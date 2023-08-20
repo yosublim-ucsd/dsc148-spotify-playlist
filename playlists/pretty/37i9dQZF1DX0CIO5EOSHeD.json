@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 446837,
+  "num_followers": 447028,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTlhODI0YTg4MTU0OTVkODgxMWEyN2E2NTFiMTQyYTBjNjI5N2Ji",
+  "snapshot_id": "MCxiZjJjNmU3ZjQxNWEzZjcwOTBkZWI4MTM1YTQzNTZjNWZiN2EzY2U3",
   "tracks": [
     {
       "added_at": "2023-07-21 22:14:09",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127061,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "Bedside Kites",
         "url": "https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 328421,
       "name": "A Sad Song About a Girl I No Longer Know",
       "url": "https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 127061,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Sun Outside My Window",
-        "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Sun Outside My Window",
-      "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "Body Jumper",
         "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 233320,
       "name": "Intersection",
       "url": "https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Sun Outside My Window",
+        "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sun Outside My Window",
+      "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Inner World Peace",
-        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 155609,
-      "name": "One Year Stand",
-      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "There's Nothing But Pleasure",
         "url": "https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 341186,
       "name": "5AM Empanada with You",
       "url": "https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "I Clung to You Hoping We'd Both Drown",
         "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 171261,
       "name": "My Heart Goes Bum Bum Bum",
       "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
+        "name": "Forever at Last",
+        "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "New York, Paris and London",
+      "url": "https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
         "name": "Elizabethtown.",
         "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Forever at Last",
-        "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
-      },
-      "artists": [
-        {
-          "name": "HighSchool",
-          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "New York, Paris and London",
-      "url": "https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 268909,
-      "name": "Let It Pass",
-      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "ALLTHETIME",
         "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 425680,
       "name": "ALLTHETIME",
       "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 268909,
+      "name": "Let It Pass",
+      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "The Gaping Mouth",
-        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+        "name": "Bedroom",
+        "url": "https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm"
       },
       "artists": [
         {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
         }
       ],
-      "duration_ms": 219010,
-      "name": "Seaface",
-      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
+      "duration_ms": 226467,
+      "name": "Gush",
+      "url": "https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 219010,
+      "name": "Seaface",
+      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
         "name": "at least, I tried",
         "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 194060,
       "name": "at least, I tried",
       "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
-        "name": "What We Left Behind",
-        "url": "https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv"
-      },
-      "artists": [
-        {
-          "name": "Hydromag",
-          "url": "https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa"
-        }
-      ],
-      "duration_ms": 235462,
-      "name": "What We Left Behind",
-      "url": "https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH"
     }
   ],
   "unique_name": "Lo-fi Indie",

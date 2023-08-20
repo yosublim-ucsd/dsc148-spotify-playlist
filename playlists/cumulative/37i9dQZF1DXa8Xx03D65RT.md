@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-665 songs - 1 day 3 hr 59 min
+666 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [La vérité sera dite](https://open.spotify.com/track/0BCprO6kUA7NzuhXMPctag) | [Marcel Cote](https://open.spotify.com/artist/32mJwpV7mqeU7ACpejFeYS) | [La vérité sera dite](https://open.spotify.com/album/3rJbQjEYzWlfZa5F51PFEx) | 2:27 | 2022-05-27 | 2022-10-14 |
 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 | 2022-05-27 | 2023-07-25 |
 | [Laiski](https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Laiski](https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek) | 1:55 | 2023-05-09 | 2023-07-25 |
+| [Landet](https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Landet](https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9) | 2:06 | 2023-08-14 |  |
 | [Last Snow](https://open.spotify.com/track/38oJwdFVSaOvzxHYToFygq) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Harmony](https://open.spotify.com/album/4P2IZgpcl7n589pnQSzU6o) | 1:57 | 2023-03-13 | 2023-07-25 |
 | [Late Winter](https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Stories](https://open.spotify.com/album/01PVhzdLyFu2b2XNuZ1qKC) | 2:24 | 2022-05-27 | 2023-05-08 |
 | [Lavandula](https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Lavandula](https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB) | 2:50 | 2022-05-27 |  |
@@ -538,7 +539,7 @@
 | [Sprites Of The Moor](https://open.spotify.com/track/6uSAPAnkFuSaL4f74KtBmD) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [Sprites Of The Moor](https://open.spotify.com/album/6zmbjPAkyO1RM7Iy82vjNE) | 3:00 | 2022-05-27 | 2022-09-24 |
 | [Spruces and pines](https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Spruces and pines](https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG) | 2:22 | 2023-07-03 |  |
 | [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 | 2022-05-27 | 2023-05-04 |
-| [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 | 2022-05-27 |  |
+| [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 | 2022-05-27 | 2023-08-20 |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-05-27 | 2023-06-20 |
 | [Stay](https://open.spotify.com/track/3gorfBRE1Ojs4PO9ruF7zU) | [OEN](https://open.spotify.com/artist/4RPFMzyyG8F2ygQzFLLFGD) | [Lonely Nights](https://open.spotify.com/album/5p8qHNadHlMX8Gn2uoNJlH) | 2:34 | 2022-05-27 | 2023-01-09 |
 | [Stay](https://open.spotify.com/track/39HXQGuVvKb1xk37coVqgb) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Stay](https://open.spotify.com/album/59jBPp7XmMmJqTLVmB1oxK) | 2:37 | 2022-05-27 | 2023-07-28 |

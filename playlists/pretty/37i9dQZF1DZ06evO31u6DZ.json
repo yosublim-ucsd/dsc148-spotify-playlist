@@ -1,15 +1,47 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 8229,
+  "num_followers": 8249,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxOTg4MTcsMDAwMDAwMDBmYTc5Y2RmODNmZmQ5ZjY3NWYzZGE4MWE2ZGNjN2VhMA==",
+  "snapshot_id": "MjgyMDc0NTIsMDAwMDAwMDA4YTRmMDMzNTdhNDUyNjdiY2IyOTc1MWNjOGQwN2IyZg==",
   "tracks": [
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Can't Be Saved",
+      "url": "https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Buried a Lie",
+      "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "WASTED",
         "url": "https://open.spotify.com/album/56ZGWOdDU4kFTvSPXINDOO"
@@ -33,39 +65,7 @@
       "url": "https://open.spotify.com/track/6SMIjm419Gr0iWKxBCb8U8"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Can't Be Saved",
-      "url": "https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Buried a Lie",
-      "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF"
@@ -81,7 +81,39 @@
       "url": "https://open.spotify.com/track/5mxiTlRu4E6hqZO3ytsQdl"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Calling All Cars",
+      "url": "https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Bite to Break Skin",
+      "url": "https://open.spotify.com/track/2cHu9HRqxVlS7MGSSb29Yh"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "VOID ETERNAL",
         "url": "https://open.spotify.com/album/3zO5Pq3zhf3qz85rpFlDNK"
@@ -105,39 +137,7 @@
       "url": "https://open.spotify.com/track/5HuONHSJVsyksi8JJnLmh0"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Calling All Cars",
-      "url": "https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Bite to Break Skin",
-      "url": "https://open.spotify.com/track/2cHu9HRqxVlS7MGSSb29Yh"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Weight of the World",
         "url": "https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF"
@@ -173,23 +173,7 @@
       "url": "https://open.spotify.com/track/4rTzIN2fYne7HK1f0yRaXX"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "Bonecrusher",
-      "url": "https://open.spotify.com/track/6ByX3KNyDv2Dd3UfkzCuAd"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Let It Enfold You",
         "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
@@ -205,7 +189,23 @@
       "url": "https://open.spotify.com/track/38bTAKxFVuAnnk8UMm0iwb"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "Bonecrusher",
+      "url": "https://open.spotify.com/track/6ByX3KNyDv2Dd3UfkzCuAd"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "From The Depths Of Dreams",
         "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/0x0UjQv7TEFPzHlSATUo9N"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF"
@@ -237,23 +237,7 @@
       "url": "https://open.spotify.com/track/3AOCBSxBqQgz7W65K084Ha"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Sick or Sane (Fifty for a Twenty)",
-      "url": "https://open.spotify.com/track/3WuIISjdS4O9yYqohz8Tmf"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Let It Enfold You",
         "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
@@ -269,7 +253,23 @@
       "url": "https://open.spotify.com/track/2v63SstROhGSQ2z8EYOyAR"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Sick or Sane (Fifty for a Twenty)",
+      "url": "https://open.spotify.com/track/3WuIISjdS4O9yYqohz8Tmf"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF"
@@ -301,7 +301,23 @@
       "url": "https://open.spotify.com/track/7nZjbGhTacrx9SRmmMscC3"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "You're Cute When You Scream",
+      "url": "https://open.spotify.com/track/3Ch5YOx4qbMpmeYgurnBSd"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Still Searching",
         "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
@@ -317,23 +333,7 @@
       "url": "https://open.spotify.com/track/2o9ivYHrcu0S6hvKtTKmaJ"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 228653,
-      "name": "NJ Falls Into the Atlantic",
-      "url": "https://open.spotify.com/track/7EWKOfLgNr9f1NgQZkRIzp"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/2l860vihpp6XxMEKRc5n73"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF"
@@ -373,7 +373,23 @@
       "url": "https://open.spotify.com/track/5AGAEzjCUGEw6zBwqRJMBf"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 228653,
+      "name": "NJ Falls Into the Atlantic",
+      "url": "https://open.spotify.com/track/7EWKOfLgNr9f1NgQZkRIzp"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Still Searching",
         "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
@@ -389,23 +405,7 @@
       "url": "https://open.spotify.com/track/1NjU64TwELkfR6YvKOF0sK"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "You're Cute When You Scream",
-      "url": "https://open.spotify.com/track/3Ch5YOx4qbMpmeYgurnBSd"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/1deMF6m52RB0UQnlx8k3uU"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "From The Depths Of Dreams",
         "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Let It Enfold You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Blw6RRPD0RAjpYsa0CMFd"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/7onCRN2Y3up2FNeGUnEoDd"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
@@ -485,39 +485,7 @@
       "url": "https://open.spotify.com/track/3Jfeb0s8slLKVt9GQop2jL"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 293373,
-      "name": "Between the Mountains and the Sea",
-      "url": "https://open.spotify.com/track/5x95e85zuMCIFWezlxCnHs"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Handguns and Second Chances",
-      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
@@ -533,7 +501,39 @@
       "url": "https://open.spotify.com/track/25PtrOA0qzM9IUtkGuEAn3"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Handguns and Second Chances",
+      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 293373,
+      "name": "Between the Mountains and the Sea",
+      "url": "https://open.spotify.com/track/5x95e85zuMCIFWezlxCnHs"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/2AX46RVDdKW6WL7gHQSFzx"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Still Searching (Deluxe Version)",
         "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/5UKStVyawMrG24Lls8xMGX"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "From The Depths Of Dreams",
         "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
@@ -597,151 +597,7 @@
       "url": "https://open.spotify.com/track/1bbRM6nUzzoO6vhfNx9h3n"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Hell is in Your Head",
-        "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "I Am Error",
-      "url": "https://open.spotify.com/track/6dedec4UcACJV9MlQwydqK"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Still Searching (Deluxe Version)",
-        "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 258480,
-      "name": "Still Searching",
-      "url": "https://open.spotify.com/track/6sgdlnTL6tmIjhn0OqQmwP"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 294306,
-      "name": "Dreaming A Reality",
-      "url": "https://open.spotify.com/track/5EBWBLbuw3q8ZffrJ0DcJV"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 377600,
-      "name": "If There is Light, It Will Find You",
-      "url": "https://open.spotify.com/track/2129CLYgR1NmJrW1Iszn3l"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Hell is in Your Head",
-        "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 198918,
-      "name": "The Burial of the Dead",
-      "url": "https://open.spotify.com/track/0ja7fAjEUM6qNaFrBT9fzM"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Still Searching (Deluxe Version)",
-        "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 182555,
-      "name": "Stretch Your Legs to Coffin Length",
-      "url": "https://open.spotify.com/track/0fX3bWkpBC6u2LbsYcn7Z6"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Follow Your Bliss: The Best of Senses Fail",
-        "url": "https://open.spotify.com/album/6NOnaTeHCoe0TT1AOw6c9Q"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "War Paint",
-      "url": "https://open.spotify.com/track/2BCTVfAlmWL36IOWk2GTri"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "First Breath, Last Breath",
-      "url": "https://open.spotify.com/track/6eRpj3GLxtaBv2z0ruySm1"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/7jqNINX4kZhSQOKmYvLkxZ"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
@@ -757,7 +613,151 @@
       "url": "https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 258480,
+      "name": "Still Searching",
+      "url": "https://open.spotify.com/track/6sgdlnTL6tmIjhn0OqQmwP"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/7jqNINX4kZhSQOKmYvLkxZ"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 377600,
+      "name": "If There is Light, It Will Find You",
+      "url": "https://open.spotify.com/track/2129CLYgR1NmJrW1Iszn3l"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Hell is in Your Head",
+        "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "I Am Error",
+      "url": "https://open.spotify.com/track/6dedec4UcACJV9MlQwydqK"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 182555,
+      "name": "Stretch Your Legs to Coffin Length",
+      "url": "https://open.spotify.com/track/0fX3bWkpBC6u2LbsYcn7Z6"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Follow Your Bliss: The Best of Senses Fail",
+        "url": "https://open.spotify.com/album/6NOnaTeHCoe0TT1AOw6c9Q"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "War Paint",
+      "url": "https://open.spotify.com/track/2BCTVfAlmWL36IOWk2GTri"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "First Breath, Last Breath",
+      "url": "https://open.spotify.com/track/6eRpj3GLxtaBv2z0ruySm1"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "Hell is in Your Head",
+        "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 198918,
+      "name": "The Burial of the Dead",
+      "url": "https://open.spotify.com/track/0ja7fAjEUM6qNaFrBT9fzM"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 294306,
+      "name": "Dreaming A Reality",
+      "url": "https://open.spotify.com/track/5EBWBLbuw3q8ZffrJ0DcJV"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD"
@@ -773,23 +773,7 @@
       "url": "https://open.spotify.com/track/7uXqfDaEfaqDbvrFkYfRC7"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
-      "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 260398,
-      "name": "Steven",
-      "url": "https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu"
-    },
-    {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP"
@@ -805,7 +789,23 @@
       "url": "https://open.spotify.com/track/3LvK2Plt07xaxLS2DaE1S9"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Steven",
+      "url": "https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu"
+    },
+    {
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/2cMosb3ON8fKZjpRi3eDpf"
     },
     {
-      "added_at": "2023-08-13 12:17:50",
+      "added_at": "2023-08-19 12:12:30",
       "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD"

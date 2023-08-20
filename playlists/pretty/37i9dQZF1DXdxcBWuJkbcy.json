@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6908548,
+  "num_followers": 6908755,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmZlYzhjMjBkZDRhZDVjNWVkMDgzOTM4NTQ4NjU1ZGY2NTIwZWQ0",
+  "snapshot_id": "MCw5MzE2YmMxMjMzYTBiY2FiY2VlMjllOGQyNjk5YmQ4YmEyYWMwMmE3",
   "tracks": [
     {
       "added_at": "2023-08-17 22:02:00",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
         "name": "Upside Down (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
       },
@@ -979,26 +999,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "Family Affair (Dance For Me)",
         "url": "https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH"
       },
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "Jam Inside Your Love (feat. Carla Monroe)",
-        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
-      },
-      "artists": [
-        {
-          "name": "Sam Green",
-          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Jam Inside Your Love (feat. Carla Monroe)",
-      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 149565,
       "name": "Bad Memories - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "Jam Inside Your Love (feat. Carla Monroe)",
+        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Jam Inside Your Love (feat. Carla Monroe)",
+      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
     },
     {
       "added_at": "2023-08-17 22:02:00",

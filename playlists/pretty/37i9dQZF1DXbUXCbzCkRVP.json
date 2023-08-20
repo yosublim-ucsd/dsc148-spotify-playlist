@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 37334,
+  "num_followers": 37377,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzY3NzlhY2M1NTBlYzQyMDc5NjUyMGI1Yzg2Zjk2ZWQyNjE0OWE0",
+  "snapshot_id": "MCxiMGJjYWIyN2FiNDZkODIzMTQ2YTUwMjZlMTNhMzUwNmU2NDJiODJk",
   "tracks": [
     {
       "added_at": "2023-08-04 12:24:11",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Mick Taylor",
+        "url": "https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Mick Taylor",
+          "url": "https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+      "duration_ms": 203600,
+      "name": "Slow Blues",
+      "url": "https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU"
     },
     {
       "added_at": "2023-08-04 12:24:11",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
-        "name": "Mick Taylor",
-        "url": "https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Mick Taylor",
-          "url": "https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Slow Blues",
-      "url": "https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU"
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
       "added_at": "2023-08-04 12:24:11",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
-    },
-    {
-      "added_at": "2023-08-04 12:24:11",
-      "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 122924,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/5cFGwaWYOp1vP96BEMCZdU"
+    },
+    {
+      "added_at": "2023-08-04 12:24:11",
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
     },
     {
       "added_at": "2023-08-04 12:24:11",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
-        "name": "Screamin' the Blues",
-        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
-      },
-      "artists": [
-        {
-          "name": "Screamin' Jay Hawkins",
-          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Sweet Ginny",
-      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
-    },
-    {
-      "added_at": "2023-08-04 12:24:11",
-      "album": {
         "name": "The Sulfur Blues",
         "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 233382,
       "name": "Alone With Yourself",
       "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
+    },
+    {
+      "added_at": "2023-08-04 12:24:11",
+      "album": {
+        "name": "Screamin' the Blues",
+        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Sweet Ginny",
+      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
     },
     {
       "added_at": "2023-08-04 12:24:11",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
+        "name": "Sun Records Originals: Easy",
+        "url": "https://open.spotify.com/album/7lNfgd8tQNOB4Of6cmOn4e"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Little Walter's Boogie",
+      "url": "https://open.spotify.com/track/2MvDrcDCQl3bAqO065bRX2"
+    },
+    {
+      "added_at": "2023-08-04 12:24:11",
+      "album": {
         "name": "Ain't That Lovin' You Baby",
         "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
       },
@@ -1283,6 +1299,22 @@
       "duration_ms": 153973,
       "name": "Boogie in the Dark",
       "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
+    },
+    {
+      "added_at": "2023-08-04 12:24:11",
+      "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Thackery And The Drivers",
+          "url": "https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg"
+        }
+      ],
+      "duration_ms": 564133,
+      "name": "The Messiah Will Come",
+      "url": "https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu"
     },
     {
       "added_at": "2023-08-04 12:24:11",
@@ -1307,22 +1339,6 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Thackery And The Drivers",
-          "url": "https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg"
-        }
-      ],
-      "duration_ms": 564133,
-      "name": "The Messiah Will Come",
-      "url": "https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu"
-    },
-    {
-      "added_at": "2023-08-04 12:24:11",
-      "album": {
         "name": "Theresa Fungus Amung Us",
         "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 188293,
       "name": "The Screwdriver",
       "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
-    },
-    {
-      "added_at": "2023-08-04 12:24:11",
-      "album": {
-        "name": "Blues On The South Side",
-        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
-      },
-      "artists": [
-        {
-          "name": "Homesick James",
-          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Homesick's Shuffle",
-      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
     }
   ],
   "unique_name": "Classic Instrumental Blues",

@@ -4,7 +4,7 @@
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-37 songs - 3 hr 20 min
+38 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Não Mais Escravos](https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Não Mais Escravos](https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG) | 5:12 | 2023-07-09 |  |
 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 | 2023-07-09 |  |
 | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu) | 4:43 | 2023-07-09 |  |
+| [Pai de Amor \(Heavenly Father I Appreciate You\) \- Ao Vivo](https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Pai de Amor \(Heavenly Father I Appreciate You\) \[Ao Vivo\]](https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4) | 4:05 | 2023-08-19 |  |
 | [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 | 2023-07-09 |  |
 | [Perto Eu Quero Estar \- Ao Vivo](https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Perto Eu Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x) | 4:12 | 2023-07-09 |  |
 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Risen Savior \(Sing My Soul\) \[Live\]](https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf) | 7:29 | 2023-07-09 |  |

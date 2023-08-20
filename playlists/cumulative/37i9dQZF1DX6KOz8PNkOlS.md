@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-103 songs - 6 hr 18 min
+104 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 | 2021-10-15 |  |
 | [Sweet Lie](https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Modern World](https://open.spotify.com/album/5lLgEhk1YTVF7mg3MyN28p) | 4:42 | 2021-10-15 |  |
 | [Sweetness \- Dub Mix by Andras](https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu) | [Sweet Whirl](https://open.spotify.com/artist/3gMAzRuPRRTdDDbeBzlxKu), [Andras](https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm) | [Sweetness Remixes](https://open.spotify.com/album/45IJcpXoaZbDYSYN3qkeNb) | 3:26 | 2021-10-15 |  |
-| [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 |  |
+| [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 | 2023-08-20 |
+| [The Loop](https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 4:01 | 2022-02-25 |  |
 | [The Moon Above](https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF) | [Soul Goodman](https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi), [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [20 Years Dope Noir \- Oranje Album](https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6) | 3:05 | 2023-01-04 |  |
 | [The Warning](https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Something Like A War](https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz) | 3:14 | 2021-10-15 |  |
 | [Thrill](https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 4:20 | 2021-10-15 |  |

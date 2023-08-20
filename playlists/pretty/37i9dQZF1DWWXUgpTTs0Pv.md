@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 
 > Two\-steppin' tunes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,016 likes - 89 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,093 likes - 89 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 |
 | 2 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
-| 3 | [Each One of Us](https://open.spotify.com/track/4Tu5YbJC0KcvqShhib2kjc) | [Mr\. Greg](https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mr\. Greg & Cass Mccombs Sing and Play New Folk Songs for Children](https://open.spotify.com/album/5BRz8Ni0M0EeXFDfSnwZhh) | 2:39 |
+| 3 | [Each One of Us](https://open.spotify.com/track/4Tu5YbJC0KcvqShhib2kjc) | [Mr\. Greg](https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mr\. Greg & Cass McCombs Sing and Play New Folk Songs for Children](https://open.spotify.com/album/5BRz8Ni0M0EeXFDfSnwZhh) | 2:39 |
 | 4 | [Little River Runs](https://open.spotify.com/track/1cRlKSD1PEG3DvVCNMGUyL) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR), [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Little River Runs](https://open.spotify.com/album/6zFetchLzKs2GMVhqTqWkE) | 3:21 |
 | 5 | [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 |
 | 6 | [Back Then, Right Now](https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Back Then, Right Now](https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD) | 3:02 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 9 | [It’s ‘Cause I Am](https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me](https://open.spotify.com/album/5DyBJlrOGNzxvGPkKAS8b4) | 2:46 |
 | 10 | [When Life Is Good Again](https://open.spotify.com/track/7ipSMcs0tT8SLLXLxYGxSv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [When Life Is Good Again](https://open.spotify.com/album/1tPHvJlMdrvdfR6WtnqirN) | 4:11 |
 | 11 | [Crowded Table](https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:29 |
-| 12 | [Wave a Flag for Harvey Milk](https://open.spotify.com/track/278FrjHVBPFAE5oEktEkeL) | [Mr\. Greg](https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mr\. Greg & Cass Mccombs Sing and Play New Folk Songs for Children](https://open.spotify.com/album/5BRz8Ni0M0EeXFDfSnwZhh) | 3:22 |
+| 12 | [Wave a Flag for Harvey Milk](https://open.spotify.com/track/278FrjHVBPFAE5oEktEkeL) | [Mr\. Greg](https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mr\. Greg & Cass McCombs Sing and Play New Folk Songs for Children](https://open.spotify.com/album/5BRz8Ni0M0EeXFDfSnwZhh) | 3:22 |
 | 13 | [The Way You Look Tonight \(feat\. Keelan Donovan\)](https://open.spotify.com/track/6Bs5nI15JPJyZ90HMs5GR3) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 4:17 |
 | 14 | [The Thing That Wrecks You](https://open.spotify.com/track/6o2P8nIA5PNWggvohN2cjU) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 4:35 |
 | 15 | [Tourist In This Town](https://open.spotify.com/track/2BAH8J6X2OtyCbtDgcsicA) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Tourist In This Town](https://open.spotify.com/album/019evzt0DJHpCruGVmXUkZ) | 3:26 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 88 | [What Ifs \(feat\. Lauren Alaina\)](https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:08 |
 | 89 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
 
-Snapshot ID: `MCwwY2VjYWY1MTcxNzFhOTBkZTgyYzc2NjdjZDUzOThlMTIyODQxYmNl`
+Snapshot ID: `MCxjM2UzMWIzNGRiM2MzNjExMjQ0NDU1MjllMDZjY2E5MTdkNWY0ODNj`

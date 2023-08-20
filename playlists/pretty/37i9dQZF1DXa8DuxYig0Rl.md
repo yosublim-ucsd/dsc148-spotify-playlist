@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,285 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,322 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 28 | [Son de la Loma](https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Aquellos Tiempos del Trio Matamoros](https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij) | 3:37 |
 | 29 | [Fiesta](https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Ni Juana la Cubana](https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw) | 2:51 |
 | 30 | [El Sonsonete](https://open.spotify.com/track/5q8ZE4m9qxJFfJG2mlimIc) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [A Gozar!](https://open.spotify.com/album/7EwEfGJqixrkf9Rx95h04K) | 2:39 |
-| 31 | [Rigoletito](https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [15 Exitos "Danzones"](https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga) | 3:23 |
-| 32 | [Corazón De Melón](https://open.spotify.com/track/3xKuJ7DZeu7CwMIqjGakgx) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [Corazón De Melón](https://open.spotify.com/album/4UvgmY4FJnJNVBF2165wR6) | 2:57 |
+| 31 | [Corazón De Melón](https://open.spotify.com/track/3xKuJ7DZeu7CwMIqjGakgx) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [Corazón De Melón](https://open.spotify.com/album/4UvgmY4FJnJNVBF2165wR6) | 2:57 |
+| 32 | [Rigoletito](https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [15 Exitos "Danzones"](https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga) | 3:23 |
 | 33 | [Tiburón A La Vista](https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:43 |
 | 34 | [Burundanga](https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Canta Celia Cruz](https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop) | 2:40 |
 | 35 | [Bonito y Sabroso](https://open.spotify.com/track/2VdeSD30CXVoAKU4xHMBfV) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Serie Platino](https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL) | 2:53 |
@@ -75,20 +75,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 65 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
 | 66 | [Las Maracas de Cuba](https://open.spotify.com/track/6f5sUQDtlcBcl1ex2yimSl) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Nostalgia de Cuba](https://open.spotify.com/album/3NnxjLyWoyMVHfwfabU4vV) | 2:55 |
 | 67 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
-| 68 | [Sabor A Guayaba](https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [A Bailar Se Ha Dicho](https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH) | 2:26 |
+| 68 | [Mambo del Politécnico](https://open.spotify.com/track/18hoGhRHSr0rDwj8V9bsAZ) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Plays Mucho Mambo..\. and Other Fantastic Compositions](https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk) | 3:14 |
 | 69 | [El Manisero](https://open.spotify.com/track/6b8ZFIKJGomI4OgYgoQ5Ty) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Todos Sus Exitos](https://open.spotify.com/album/4vaptc3l16FcWm1WBQLdry) | 2:45 |
-| 70 | [Mambo del Politécnico](https://open.spotify.com/track/18hoGhRHSr0rDwj8V9bsAZ) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Plays Mucho Mambo..\. and Other Fantastic Compositions](https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk) | 3:14 |
+| 70 | [Sabor A Guayaba](https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [A Bailar Se Ha Dicho](https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH) | 2:26 |
 | 71 | [Un Meneito Na' Ma'](https://open.spotify.com/track/61Js6aQ1SK6VmigZl7CS2O) | [Arturo Nuñez Y Su Orquesta](https://open.spotify.com/artist/1oVhEJ0rdAKvE0goWNDqdl) | [El Caballero del Ritmo](https://open.spotify.com/album/2z9SCzTWxm7IkqlfxbAR5d) | 3:13 |
 | 72 | [Cachita](https://open.spotify.com/track/1vQd06q85oRqunYmNTI1o7) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Epoca De Oro De La Orquesta Aragon](https://open.spotify.com/album/4RWP2xolGJpzWAt3LEeL6a) | 2:39 |
 | 73 | [Alma llanera](https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Aguanta Corazón \(1955 \-1959\)](https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c) | 2:54 |
 | 74 | [Pedacito de Mi Vida](https://open.spotify.com/track/2wbIlghub8hsIJiiDxPMAC) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [Clásicos de La Música Cubana Volume 3](https://open.spotify.com/album/7hPks3l2HPfGVdDrzeqAqH) | 2:53 |
 | 75 | [Chapultepec](https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 2:32 |
 | 76 | [El tilingo](https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 3:05 |
-| 77 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 |
-| 78 | [Que Bueno Baila Usted](https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Serie Platino](https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL) | 3:12 |
+| 77 | [Que Bueno Baila Usted](https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Serie Platino](https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL) | 3:12 |
+| 78 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 |
 | 79 | [Mi Cafetal](https://open.spotify.com/track/0fRuB2A8KrSnkUh4JPSBhk) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 2:43 |
-| 80 | [Aguita de Coco](https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo), [Magia San juanera](https://open.spotify.com/artist/4mp2F6WrSl1RC3yrklidlA) | [Aguita de Coco](https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV) | 3:37 |
-| 81 | [Tema De Lara](https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [15 Éxitos](https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa) | 2:10 |
+| 80 | [Tema De Lara](https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [15 Éxitos](https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa) | 2:10 |
+| 81 | [Aguita de Coco](https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo), [Magia San juanera](https://open.spotify.com/artist/4mp2F6WrSl1RC3yrklidlA) | [Aguita de Coco](https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV) | 3:37 |
 | 82 | [El fandanguito \- The Little Fandango](https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG) | [Los Camperos de Valles](https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE) | [El ave de mi soñar: Mexican Sones Huastecos](https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk) | 3:18 |
 | 83 | [El Trompo \(Son Jarocho\) \[Veracruz\]](https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [México](https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ) | 3:33 |
 | 84 | [Quinto Patio](https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [RCA 100 Años De Musica](https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [La Cocaleca](https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 3:06 |
 | 100 | [Botecito de Vela](https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 3:04 |
 
-Snapshot ID: `MCxjNTliZTY2ZTBjYWM4YTFhN2U3ZWY2ZjQ1MDEwYmUyMmVlY2FkNTE2`
+Snapshot ID: `MCw5ZmQ0NTViMDhmOGZjNjJmZmM2MjhjZWZjMjMwNTQ0MGZkZjhiMGNj`

@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 38 min
+79 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [ヒーローの影](https://open.spotify.com/track/7KKbK2GCMzIuwwS1Y90fDM) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 1:54 | 2022-12-23 |  |
 | [三位一体](https://open.spotify.com/track/6mLaZxhLKgeeQBMh0Aj8Uw) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 3:44 | 2022-12-23 |  |
 | [上](https://open.spotify.com/track/5N5iImDfoQ4IF3YvXBpxPX) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 4:01 | 2022-12-23 |  |
-| [俺が君のヒーローになる](https://open.spotify.com/track/4wOATd2ihCOz8Qx662M8uJ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 2:59 | 2022-12-23 |  |
+| [俺が君のヒーローになる](https://open.spotify.com/track/4wOATd2ihCOz8Qx662M8uJ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 2:59 | 2022-12-23 | 2023-08-20 |
 | [出会いの化学変化](https://open.spotify.com/track/2bG0nbUU4uLEfSxUX6BxO2) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:46 | 2022-12-23 | 2023-01-06 |
 | [化学変化](https://open.spotify.com/track/50uh6QzjefARNWguBT6ZWW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 2:44 | 2022-12-23 |  |
 | [千夏の過去](https://open.spotify.com/track/2pPVV8dRriiFMDzEsueTVN) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ボールルームへようこそ』オリジナルサウンドトラック Vol.2](https://open.spotify.com/album/7GBRwostYkUWpmoFpkou41) | 1:33 | 2023-03-19 | 2023-03-30 |
@@ -79,6 +79,7 @@
 | [真っ向勝負](https://open.spotify.com/track/0qJ7OecpYupx360N8havQm) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:56 | 2022-12-23 |  |
 | [神業速攻](https://open.spotify.com/track/4baWrKxnYjfhJbPoLSOS2K) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:53 | 2022-12-23 |  |
 | [私から君へ](https://open.spotify.com/track/6FWJesWhdMt1Y9wMxYzhgl) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:55 | 2022-12-29 | 2023-03-20 |
+| [繋ぐということ](https://open.spotify.com/track/6XJ9CFlQMEBCJgn6wS9HyX) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:53 | 2023-08-19 |  |
 | [脅迫\(しんらい\)](https://open.spotify.com/track/0IjxL2zeHbUCdiXXMzBH7j) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:21 | 2022-12-23 |  |
 | [視点](https://open.spotify.com/track/39wSItJOH200mFDJeClVyq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:14 | 2022-12-23 | 2023-04-15 |
 | [走るということ](https://open.spotify.com/track/6vzRpOC0JpkWIwd9M5N2a9) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「風が強く吹いている」オリジナルサウンドトラック](https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW) | 2:28 | 2023-05-10 | 2023-05-24 |

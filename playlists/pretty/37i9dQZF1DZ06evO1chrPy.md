@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 
 > This is Cage The Elephant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,508 likes - 37 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,624 likes - 37 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,6 +44,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 | 34 | [James Brown](https://open.spotify.com/track/2bQv3yAOjVFO7hcVpqyyVc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:20 |
 | 35 | [2024](https://open.spotify.com/track/07UdfUFR3Ku3saas0hOJHL) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:10 |
 | 36 | [Rubber Ball \- Unpeeled](https://open.spotify.com/track/65Fz2cM2BiIlBBlNbw5RtZ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 4:04 |
-| 37 | [Judas](https://open.spotify.com/track/1X1XDc35sbtcUeTzKatuYf) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:26 |
+| 37 | [Lotus](https://open.spotify.com/track/3cPLWRuXjNsqqNuZRosZaD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:16 |
 
-Snapshot ID: `MjgyMDMyNjIsMDAwMDAwMDBjOTdjOGJmYTg5NGFmYjZhYTRjN2E5YmU4N2JmZDcxZg==`
+Snapshot ID: `MjgyMDc0NTIsMDAwMDAwMDAzZjQ1MDUzZDE2Y2FmYmU5ZDk1NTUwMDBmYzI0NzY4Mw==`

@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 107037,
+  "num_followers": 107146,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODc4MmYzM2E3Y2VjYTc1MzUyOWZlN2QwZGY0MDVlYjcwMDM2YWJl",
+  "snapshot_id": "MCxmY2ZiMWQ0MmY3MTkyYjc2Nzk1OTc5N2M2ODhhMmMyYzVmZjc2ZTlh",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 254725,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 177214,
       "name": "Baby One More Time - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 254725,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Meet Me At Our Spot",
-        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 137508,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 190652,
       "name": "Heather - Spotify Singles",
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Meet Me At Our Spot",
+        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 137508,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 176921,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
       },
@@ -703,18 +687,34 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Thank You (SOLOMON VERSION)",
-        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
       },
       "artists": [
         {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
         }
       ],
-      "duration_ms": 138600,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
+      "duration_ms": 176921,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
+        "name": "Thank You (SOLOMON VERSION)",
+        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
         }
       ],
-      "duration_ms": 218253,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
+      "duration_ms": 138600,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
-      },
-      "artists": [
-        {
-          "name": "Lisa Mitchell",
-          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
-        }
-      ],
-      "duration_ms": 167094,
-      "name": "California",
-      "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "True Colors (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
+        "name": "California",
+        "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
       },
       "artists": [
         {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+          "name": "Lisa Mitchell",
+          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
         }
       ],
-      "duration_ms": 200655,
-      "name": "True Colors (Spotify Singles)",
-      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
+      "duration_ms": 167094,
+      "name": "California",
+      "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -931,6 +915,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "True Colors (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "True Colors (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "I\u2019m Blue",
         "url": "https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 150511,
       "name": "I\u2019m Blue",
       "url": "https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
-        "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 178284,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -979,18 +963,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "July (Bedroom Session)",
-        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
+        "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
+        "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 210720,
-      "name": "July - Bedroom Session",
-      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
+      "duration_ms": 178284,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 152181,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/5gAYEvsJZ7nFC220oB5DAv"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "July (Bedroom Session)",
+        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "July - Bedroom Session",
+      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 161130,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1304,22 +1304,6 @@
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
       "artists": [
@@ -1336,17 +1320,17 @@
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 230306,
-      "name": "Better Now - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1363,6 +1347,22 @@
       "duration_ms": 192078,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/1CBD8aOExhsuPedP2P0wVi"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Better Now - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "LOVE ALL COVER ALL",
-        "url": "https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 169383,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 244315,
       "name": "Stay - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "LOVE ALL COVER ALL",
+        "url": "https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 169383,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 149189,
+      "name": "Solar Power - Spotify Singles",
+      "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "feel good inc. (feat. Mateus Asato)",
         "url": "https://open.spotify.com/album/6l38zfFKDZrmrU2jXqW3GQ"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 199239,
       "name": "feel good inc. (feat. Mateus Asato)",
       "url": "https://open.spotify.com/track/2GzlTbrFF2V6MwRDfBnYhf"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 149189,
-      "name": "Solar Power - Spotify Singles",
-      "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
-      },
-      "artists": [
-        {
-          "name": "Emilee Moore",
-          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Take On Me",
         "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 146533,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "The Salcombe Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 299280,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/6Rr5SuUGeiD79iHfOtudXi"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Walking On The Moon",
         "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
       },
@@ -2115,18 +2131,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "The Salcombe Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95"
       },
       "artists": [
         {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
         }
       ],
-      "duration_ms": 299280,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/6Rr5SuUGeiD79iHfOtudXi"
+      "duration_ms": 213706,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2143,22 +2159,6 @@
       "duration_ms": 184000,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2307,6 +2307,26 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Broken Glass, Vol. 5",
+        "url": "https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc"
+      },
+      "artists": [
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
       },
@@ -2387,22 +2407,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 284050,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Nothing Compares 2 U",
         "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
       },
@@ -2415,6 +2419,22 @@
       "duration_ms": 259866,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 284050,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2447,26 +2467,6 @@
       "duration_ms": 165120,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/2le3X2fuJk9J3tUav1yqT2"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Broken Glass, Vol. 5",
-        "url": "https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc"
-      },
-      "artists": [
-        {
-          "name": "Goodwerks",
-          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
-        },
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2579,22 +2579,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "In Da Club",
-        "url": "https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C"
-      },
-      "artists": [
-        {
-          "name": "Skylar Stecker",
-          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P"
       },
@@ -2607,6 +2591,22 @@
       "duration_ms": 263800,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "In Da Club",
+        "url": "https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C"
+      },
+      "artists": [
+        {
+          "name": "Skylar Stecker",
+          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "If Your Man Only Knew",
-        "url": "https://open.spotify.com/album/0D7hzGTfLWhIi20HeWzfZn"
-      },
-      "artists": [
-        {
-          "name": "Erik Hassle",
-          "url": "https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "If Your Man Only Knew",
-      "url": "https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Can't Get You Out Of My Head",
         "url": "https://open.spotify.com/album/4dUf9aiNvwqVLQIhjGebto"
       },
@@ -2727,6 +2711,22 @@
       "duration_ms": 209560,
       "name": "Can't Get You Out Of My Head",
       "url": "https://open.spotify.com/track/1oaXPKmEw2VS2ZlYvbSN14"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "If Your Man Only Knew",
+        "url": "https://open.spotify.com/album/0D7hzGTfLWhIi20HeWzfZn"
+      },
+      "artists": [
+        {
+          "name": "Erik Hassle",
+          "url": "https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "If Your Man Only Knew",
+      "url": "https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v"
     },
     {
       "added_at": "2023-08-04 04:01:00",

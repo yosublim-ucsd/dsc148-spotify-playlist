@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,795 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,943 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aleluia](https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:54 |
+| 1 | [Aleluia](https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:52 |
 | 2 | [De alegria raiou o dia](https://open.spotify.com/track/7IFwTykJguQpyDoAu9hj5a) | [Carlos Dafé](https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ) | [Pra que vou recordar](https://open.spotify.com/album/0kwhUml3QMwRaA2LsWN0my) | 3:38 |
 | 3 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 |
 | 4 | [Suspira](https://open.spotify.com/track/1qNxA7OrDL6goGPUHJQSzD) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Suspira](https://open.spotify.com/album/0eVReGkyVanuKovMwN9lve) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 49 | [Sucesso Sexual](https://open.spotify.com/track/1oZJavFgtyWB6sDrjxp8SZ) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [A Vida É Mesmo Assim](https://open.spotify.com/album/2eds2m7S6XeralhbluMYa3) | 3:17 |
 | 50 | [Olha Quem Tá Chegando](https://open.spotify.com/track/1VjA1oLevESicjs7Y3ueZe) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Sempre](https://open.spotify.com/album/2w5cyRvz7tVdrepQjcLPRV) | 6:35 |
 
-Snapshot ID: `MCwwMmMwYzI1YTNmNjgzOTAxODg5ZGFmZjc0YjJlYzVmZGVmMmIwOTFi`
+Snapshot ID: `MCw5MGYwYzNkNTUyMWUyZTUwZmQxNzRjZjU4YmU0MWY2ZDBlZDMxMmQ4`

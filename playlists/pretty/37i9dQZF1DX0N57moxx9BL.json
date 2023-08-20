@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 132115,
+  "num_followers": 132201,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWQ2M2VjMDZlMjE0MDkwMjE0MTM0YzhjMDQyNDlmMjkzZTU0MjJj",
+  "snapshot_id": "MCwyOGUwMzA4N2E1M2NlMmZmMzU4ZjM1MWFkYTEzMjk3ZTZhMDQyOTVj",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Let the Light In",
-        "url": "https://open.spotify.com/album/3a3YrkBHzsgTJq8gtZh9Fh"
-      },
-      "artists": [
-        {
-          "name": "Ashes Remain",
-          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
-        }
-      ],
-      "duration_ms": 223011,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/6YVeVuB9KpwAeQcKjVEE7k"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/1uRTs9lDqR70WH1QNbWBty"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 164815,
       "name": "On Becoming Willing",
       "url": "https://open.spotify.com/track/5buK9fmCLWolU2FGOuFfJv"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Let the Light In",
+        "url": "https://open.spotify.com/album/3a3YrkBHzsgTJq8gtZh9Fh"
+      },
+      "artists": [
+        {
+          "name": "Ashes Remain",
+          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
+        }
+      ],
+      "duration_ms": 223011,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/6YVeVuB9KpwAeQcKjVEE7k"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 194721,
+      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "In the Night",
         "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 247124,
       "name": "The Executioner",
       "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 194721,
-      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
-      "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Future Golden Age",
         "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 206288,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
-      },
-      "artists": [
-        {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Peace That Starts the War",
         "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 382125,
       "name": "Chariots - Live",
       "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+      },
+      "artists": [
+        {
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "No Fear In Love",
-        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
       },
       "artists": [
         {
-          "name": "WorshipMob",
-          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
-        },
-        {
-          "name": "White Flag",
-          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
         }
       ],
-      "duration_ms": 515318,
-      "name": "No Fear In Love",
-      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+      "duration_ms": 199933,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
+        "name": "No Fear In Love",
+        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
       "artists": [
         {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
+        },
+        {
+          "name": "White Flag",
+          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
         }
       ],
-      "duration_ms": 199933,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
+      "duration_ms": 515318,
+      "name": "No Fear In Love",
+      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "What Are You Waiting For",
-        "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
-      },
-      "artists": [
-        {
-          "name": "Futur",
-          "url": "https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9"
-        }
-      ],
-      "duration_ms": 199252,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Real Emotion",
         "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 254866,
       "name": "Balconies",
       "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "What Are You Waiting For",
+        "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
+      },
+      "artists": [
+        {
+          "name": "Futur",
+          "url": "https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9"
+        }
+      ],
+      "duration_ms": 199252,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
-      },
-      "artists": [
-        {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
-        }
-      ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 233906,
       "name": "Way You Love Me",
       "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+      },
+      "artists": [
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
-      },
-      "artists": [
-        {
-          "name": "I Am Spartacus",
-          "url": "https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Angels vs Demons",
         "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
       },
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
+      },
+      "artists": [
+        {
+          "name": "I Am Spartacus",
+          "url": "https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Boom (The Crystal Method Remix) [2021 Remaster]",
         "url": "https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 196294,
       "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
       "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Rhema",
+        "url": "https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f"
+      },
+      "artists": [
+        {
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
+        }
+      ],
+      "duration_ms": 209128,
+      "name": "No Altars",
+      "url": "https://open.spotify.com/track/1ENnp7zs9kMq701EluEbKA"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1511,22 +1527,6 @@
       "duration_ms": 220140,
       "name": "Strong Enough to Live (Acoustic)",
       "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Rhema",
-        "url": "https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f"
-      },
-      "artists": [
-        {
-          "name": "War Of Ages",
-          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
-        }
-      ],
-      "duration_ms": 209128,
-      "name": "No Altars",
-      "url": "https://open.spotify.com/track/1ENnp7zs9kMq701EluEbKA"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Rise to the Call",
         "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 227486,
       "name": "Rise to the Call",
       "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Last Day Rising",
-        "url": "https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp"
-      },
-      "artists": [
-        {
-          "name": "LAST DAY RISING",
-          "url": "https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ"
-        }
-      ],
-      "duration_ms": 242506,
-      "name": "Ready to Roll",
-      "url": "https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "The Antihero",
         "url": "https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 248392,
       "name": "The Antihero",
       "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Last Day Rising",
+        "url": "https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp"
+      },
+      "artists": [
+        {
+          "name": "LAST DAY RISING",
+          "url": "https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ"
+        }
+      ],
+      "duration_ms": 242506,
+      "name": "Ready to Roll",
+      "url": "https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ"
     }
   ],
   "unique_name": "Top Christian Rock",

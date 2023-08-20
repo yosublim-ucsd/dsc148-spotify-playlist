@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Bedroom",
+        "url": "https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226467,
+      "name": "Gush",
+      "url": "https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg"
+    },
+    {
+      "album": {
         "name": "Boys Cry",
         "url": "https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ"
       },
@@ -6256,7 +6274,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 235462,
       "name": "What We Left Behind",
       "url": "https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH"

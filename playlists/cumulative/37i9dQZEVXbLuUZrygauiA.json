@@ -8756,7 +8756,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
@@ -10538,7 +10538,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 287929,
       "name": "Jueves 10",
       "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
@@ -19488,7 +19488,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-20",
       "duration_ms": 173005,
       "name": "S91",
       "url": "https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO"
@@ -22314,6 +22314,24 @@
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "album": {
+        "name": "The Automotivo Infernal 1.0",
+        "url": "https://open.spotify.com/album/0F4VNLWhlhnOz4JzEt6xZ8"
+      },
+      "artists": [
+        {
+          "name": "MRL",
+          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114593,
+      "name": "The Automotivo Infernal 1.0 - Purple",
+      "url": "https://open.spotify.com/track/684yJVwS41anCimZla5jk9"
     },
     {
       "album": {

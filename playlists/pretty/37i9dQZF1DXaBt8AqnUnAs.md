@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor, tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,618 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,672 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Rubi](https://open.spotify.com/track/1YumR6MJyfkoHarpg2oL19) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM) | [Rubi](https://open.spotify.com/album/2lf9zogvZ4DKBWomGkoisi) | 3:27 |
 | 75 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 
-Snapshot ID: `MCxhYzdjZWQwYTQ3NmRiODdlZWJjOTVkMjM3ZWVmMTg1ZDE0NGYxMWIy`
+Snapshot ID: `MCwyZjc5YWZjMTViMDJiNDc1N2JiZGRhYmQyNTlhZTYzMjcxNjJkOGI5`

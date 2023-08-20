@@ -1,15 +1,31 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 982556,
+  "num_followers": 984725,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxOTQ1NjMsMDAwMDAwMDA2OTI3MTA1MzZiMzRlNTA1MGUxZTZjY2YzMWQwNzk0NQ==",
+  "snapshot_id": "MjgyMDc0NTIsMDAwMDAwMDAzYmYxYjU4OTM3NzU0NjllODA5MzlkYmY0ZWI2OTNkNA==",
   "tracks": [
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "Dookie (30th Anniversary 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 187970,
+      "name": "Basket Case - 4-track demo",
+      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Greatest Hits: God's Favorite Band",
         "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Insomniac",
         "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/5TpPSTItCwtZ8Sltr3vdzm"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Revolution Radio",
         "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
@@ -313,55 +329,7 @@
       "url": "https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Nice Guys Finish Last",
-      "url": "https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 127533,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Revolution Radio",
         "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
@@ -377,7 +345,55 @@
       "url": "https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 127533,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Nice Guys Finish Last",
+      "url": "https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "American Idiot - The Original Broadway Cast Recording",
         "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
@@ -441,23 +457,7 @@
       "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "\u00a1DOS!",
-        "url": "https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Stray Heart",
-      "url": "https://open.spotify.com/track/2Q22sa3Y4lKXHHBBAxEhYY"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Revolution Radio",
         "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
@@ -473,7 +473,23 @@
       "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "\u00a1DOS!",
+        "url": "https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Stray Heart",
+      "url": "https://open.spotify.com/track/2Q22sa3Y4lKXHHBBAxEhYY"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
@@ -489,23 +505,7 @@
       "url": "https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Macy's Day Parade",
-      "url": "https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "\u00a1UNO!",
         "url": "https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w"
@@ -521,10 +521,10 @@
       "url": "https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
-        "name": "Insomniac",
-        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
       "artists": [
         {
@@ -532,12 +532,12 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 151173,
-      "name": "Walking Contradiction",
-      "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
+      "duration_ms": 213106,
+      "name": "Macy's Day Parade",
+      "url": "https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
@@ -553,7 +553,39 @@
       "url": "https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 151173,
+      "name": "Walking Contradiction",
+      "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Too Dumb to Die",
+      "url": "https://open.spotify.com/track/3QWgLzCrAVkmw5eoHPN5uB"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "No Fun Mondays",
         "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
@@ -573,39 +605,7 @@
       "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Too Dumb to Die",
-      "url": "https://open.spotify.com/track/3QWgLzCrAVkmw5eoHPN5uB"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "Insomniac",
-        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 90226,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
@@ -621,10 +621,10 @@
       "url": "https://open.spotify.com/track/2mnk1GHN0XmznKiucY4ZW4"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
-        "name": "Working Class Hero",
-        "url": "https://open.spotify.com/album/2Bk5ScJpIEXY9QxSsaPZfp"
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
       "artists": [
         {
@@ -632,12 +632,12 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 263733,
-      "name": "Working Class Hero",
-      "url": "https://open.spotify.com/track/1VylyWcBUNYGZex80qCAdi"
+      "duration_ms": 90226,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "The Saints Are Coming",
         "url": "https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il"
@@ -657,23 +657,7 @@
       "url": "https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "Insomniac",
-        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 135293,
-      "name": "Geek Stink Breath",
-      "url": "https://open.spotify.com/track/4mI4HF4OVBg3tl2IWzSaoX"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Father of All...",
         "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
@@ -689,7 +673,39 @@
       "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "Working Class Hero",
+        "url": "https://open.spotify.com/album/2Bk5ScJpIEXY9QxSsaPZfp"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 263733,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/1VylyWcBUNYGZex80qCAdi"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 135293,
+      "name": "Geek Stink Breath",
+      "url": "https://open.spotify.com/track/4mI4HF4OVBg3tl2IWzSaoX"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
@@ -721,55 +737,7 @@
       "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "Insomniac",
-        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Stuck with Me",
-      "url": "https://open.spotify.com/track/0CXOYEN8m6MuyVY0F1vJTb"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "\u00a1UNO!",
-        "url": "https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Kill the DJ",
-      "url": "https://open.spotify.com/track/6pwt5G9ZKwM6I0GKVfIBb4"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "Last of the American Girls",
-      "url": "https://open.spotify.com/track/5Rjm3VIMlxAEIEy5gU2bF7"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Revolution Radio",
         "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
@@ -785,7 +753,71 @@
       "url": "https://open.spotify.com/track/35weSxL477aChs1wx7oZS5"
     },
     {
-      "added_at": "2023-08-10 13:23:59",
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Stuck with Me",
+      "url": "https://open.spotify.com/track/0CXOYEN8m6MuyVY0F1vJTb"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 231026,
+      "name": "Last of the American Girls",
+      "url": "https://open.spotify.com/track/5Rjm3VIMlxAEIEy5gU2bF7"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "\u00a1UNO!",
+        "url": "https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Kill the DJ",
+      "url": "https://open.spotify.com/track/6pwt5G9ZKwM6I0GKVfIBb4"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
+      "album": {
+        "name": "\u00a1TR\u00c9!",
+        "url": "https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "X-Kid",
+      "url": "https://open.spotify.com/track/5i559orX0oL7i4AuZGKott"
+    },
+    {
+      "added_at": "2023-08-19 12:12:39",
       "album": {
         "name": "Insomniac",
         "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
@@ -799,22 +831,6 @@
       "duration_ms": 103333,
       "name": "Brat",
       "url": "https://open.spotify.com/track/6QlyzIamWoVeut7Hc7tZRc"
-    },
-    {
-      "added_at": "2023-08-10 13:23:59",
-      "album": {
-        "name": "\u00a1UNO!",
-        "url": "https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "Nuclear Family",
-      "url": "https://open.spotify.com/track/206n37mZTmloL45RYhmMlP"
     }
   ],
   "unique_name": "This Is Green Day",

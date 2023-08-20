@@ -1,12 +1,12 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4060,
+  "num_followers": 4061,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTE2NywwMzk4MjYyZDM2NGNiZjBmYjJiNDFlMGE0YTMyNDMxY2Q3MWUwY2Nk",
+  "snapshot_id": "MTE4MixkMmRhOGZlYzFiZTk2NTI3MDAwN2ZkY2QzY2E1MzhiYzg1M2FjNDQ1",
   "tracks": [
     {
       "added_at": "2023-08-10 22:03:51",
@@ -195,26 +195,6 @@
     {
       "added_at": "2023-08-02 19:08:42",
       "album": {
-        "name": "The Sub",
-        "url": "https://open.spotify.com/album/51MZ8xXdxPRU7Z0CEDy6JI"
-      },
-      "artists": [
-        {
-          "name": "Mike Cervello",
-          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 158408,
-      "name": "The Sub",
-      "url": "https://open.spotify.com/track/4tDa6lrRntdzRurg2IyWTN"
-    },
-    {
-      "added_at": "2023-08-02 19:08:42",
-      "album": {
         "name": "Mini Motors",
         "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
       },
@@ -255,6 +235,22 @@
       "duration_ms": 220952,
       "name": "One Chance (feat. Marlhy)",
       "url": "https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd"
+    },
+    {
+      "added_at": "2023-08-02 19:08:42",
+      "album": {
+        "name": "Gibberish",
+        "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "Gibberish",
+      "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
     },
     {
       "added_at": "2023-08-02 19:08:42",
@@ -327,22 +323,6 @@
     {
       "added_at": "2023-08-02 19:08:42",
       "album": {
-        "name": "Gibberish",
-        "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "Gibberish",
-      "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
-    },
-    {
-      "added_at": "2023-08-02 19:08:42",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/1qInaVeIVUxnGEbbIyVr1H"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 144193,
       "name": "About You",
       "url": "https://open.spotify.com/track/3v7zHaByxrRcRIQiImLNtN"
+    },
+    {
+      "added_at": "2023-08-11 08:51:34",
+      "album": {
+        "name": "Body 2 Body",
+        "url": "https://open.spotify.com/album/04ROjiO1DUUYSYSWduvTjZ"
+      },
+      "artists": [
+        {
+          "name": "Hollaphonic",
+          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
+        },
+        {
+          "name": "Deep West",
+          "url": "https://open.spotify.com/artist/36RMbpJsvVmrdHwWUI3nk0"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Body 2 Body",
+      "url": "https://open.spotify.com/track/4pxsmsAZjXuHfxZPrP6bDS"
     },
     {
       "added_at": "2023-08-02 19:08:42",
@@ -371,6 +371,26 @@
       "duration_ms": 184836,
       "name": "Flying",
       "url": "https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7"
+    },
+    {
+      "added_at": "2023-08-11 11:52:52",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/66QmKxpY9JLUMbQrrqDgCT"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "ANML KNGDM",
+          "url": "https://open.spotify.com/artist/2YsRLHY6KXEs9mHcM99WXS"
+        }
+      ],
+      "duration_ms": 184782,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/6Qj1eG0u2XDdDs4c0ySess"
     },
     {
       "added_at": "2023-08-02 19:08:42",
@@ -437,20 +457,36 @@
       "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
     },
     {
-      "added_at": "2023-08-02 19:08:42",
+      "added_at": "2023-08-11 18:22:35",
       "album": {
-        "name": "Body Tingler",
-        "url": "https://open.spotify.com/album/28rAbsAWjImoxWVBBafmdH"
+        "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/7eR7UTDYSnHzdm60bvFOpm"
       },
       "artists": [
         {
-          "name": "Brett Allen",
-          "url": "https://open.spotify.com/artist/7p4Qsh7osD5lvfk8X3LRex"
+          "name": "Larce",
+          "url": "https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX"
         }
       ],
-      "duration_ms": 155562,
-      "name": "Body Tingler",
-      "url": "https://open.spotify.com/track/4IRpPbNa7D3vfGNguZWcPd"
+      "duration_ms": 148800,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/3XPlFMrSk6pdGX7bkWAenR"
+    },
+    {
+      "added_at": "2023-08-11 08:54:58",
+      "album": {
+        "name": "Deepest Desire",
+        "url": "https://open.spotify.com/album/4qZCTPwQZXA5ALBfaHdb4L"
+      },
+      "artists": [
+        {
+          "name": "Mike Helan",
+          "url": "https://open.spotify.com/artist/6RgzXg8hKaOYoRLYuo1lVi"
+        }
+      ],
+      "duration_ms": 173976,
+      "name": "Deepest Desire",
+      "url": "https://open.spotify.com/track/6Hr2KZ6JXV8QwCrJ4f72Pi"
     },
     {
       "added_at": "2023-08-02 19:08:42",
@@ -491,23 +527,7 @@
     {
       "added_at": "2023-08-02 19:08:42",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/1N0UZYMyQljEOnl8kxpBVk"
-      },
-      "artists": [
-        {
-          "name": "Tayri",
-          "url": "https://open.spotify.com/artist/0uoOQGX0vj7U6l3KCQqyJn"
-        }
-      ],
-      "duration_ms": 185595,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/2NLUhPapw9f686xkUQP3HT"
-    },
-    {
-      "added_at": "2023-08-02 19:08:42",
-      "album": {
-        "name": "NaNa Djon (feat. Victor D\u00e9m\u00e9)",
+        "name": "NaNa Djon",
         "url": "https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA"
       },
       "artists": [
@@ -525,7 +545,7 @@
         }
       ],
       "duration_ms": 161520,
-      "name": "NaNa Djon (feat. Victor D\u00e9m\u00e9)",
+      "name": "NaNa Djon",
       "url": "https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E"
     },
     {
@@ -571,30 +591,6 @@
       "duration_ms": 197704,
       "name": "I Can't Stop",
       "url": "https://open.spotify.com/track/10n8wwk6hxEtDdP7Yfy4i3"
-    },
-    {
-      "added_at": "2023-08-02 19:08:42",
-      "album": {
-        "name": "Valentino",
-        "url": "https://open.spotify.com/album/3nv8s2zUw6Mm6Odie3CGkW"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "RSCL",
-          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
-        },
-        {
-          "name": "Jack August",
-          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
-        }
-      ],
-      "duration_ms": 161612,
-      "name": "Valentino",
-      "url": "https://open.spotify.com/track/5gpspXTVqjqoIlcIBZ6ZE5"
     },
     {
       "added_at": "2023-08-02 19:08:42",
@@ -787,6 +783,50 @@
       "duration_ms": 132197,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/5H64SFQzPmnqcjzBxKXMqT"
+    },
+    {
+      "added_at": "2023-08-11 18:45:18",
+      "album": {
+        "name": "Furious (feat. Habstrakt)",
+        "url": "https://open.spotify.com/album/6AjMyBpMC6rPryBLp4SuuZ"
+      },
+      "artists": [
+        {
+          "name": "Illegal Music",
+          "url": "https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u"
+        },
+        {
+          "name": "Kohmi",
+          "url": "https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Furious (feat. Habstrakt)",
+      "url": "https://open.spotify.com/track/1sdgGeVefZ8zkMxCQSEbYQ"
+    },
+    {
+      "added_at": "2023-08-11 18:45:58",
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
     }
   ],
   "unique_name": "ALL THINGS HOUSE - CURBI PRESENTS",

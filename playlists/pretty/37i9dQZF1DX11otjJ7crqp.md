@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Sadie Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,059 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,126 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 45 | [Automatic](https://open.spotify.com/track/5R8lOiAXEKj6IS1wJROpr7) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:07 |
 | 46 | [Stay Alive](https://open.spotify.com/track/3V1Z8YNp4DbF9vQL3jGmG1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 3](https://open.spotify.com/album/5rQBs4ikSzjlBG0kONn6Vj) | 3:22 |
 | 47 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
-| 48 | [Faulty Writing](https://open.spotify.com/track/3tWmCPgwQ4rOn4vABsBLqO) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Faulty Writing](https://open.spotify.com/album/3eZcH7IVMVANRxGtus9xr4) | 2:28 |
+| 48 | [Faulty Wiring](https://open.spotify.com/track/3tWmCPgwQ4rOn4vABsBLqO) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Faulty Wiring](https://open.spotify.com/album/3eZcH7IVMVANRxGtus9xr4) | 2:28 |
 | 49 | [Dickhead](https://open.spotify.com/track/763KqAOG6WV6wMqInIHZQe) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Dickhead](https://open.spotify.com/album/3Fwxk2TTtdmdDZ1G5e3nY2) | 2:30 |
 | 50 | [take it back](https://open.spotify.com/track/4aSdNAVI0okQEhbV5V2j3T) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [take it back](https://open.spotify.com/album/0e3xxcBQGOu7p9VeIoTDqQ) | 2:50 |
 | 51 | [0 OR 100 \(SIDE A\)](https://open.spotify.com/track/3mj6Vpr689fQFjyXq6TInY) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V3](https://open.spotify.com/album/4B1AKRB1vuuwu8JoQHwDmW) | 2:23 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [You Don't Want Me Like That](https://open.spotify.com/track/76Wj2KvSG3gyLiXgFUWucp) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [It's Not Me, It's U](https://open.spotify.com/album/51JfCCJWRzvLYB4KAzLM1g) | 2:38 |
 | 99 | [The Hype](https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/7wl14HB2GYgR6ptsVuLq8z) | 3:34 |
 
-Snapshot ID: `MCxlNzQxNjdkYWYzZGU3NDE0MGYzZTY2ZmE3ZGE2ZTNjYzAyOGY5Njk3`
+Snapshot ID: `MCwzOWQ0YjczNzEyNzRkZmQ2M2UzMDhjZmExMDY0YWI3NTE0NDg4ZjVi`

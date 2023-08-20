@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Bayou
 
-296 songs - 16 hr 33 min
+297 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,8 @@
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2022-06-06 | 2022-06-24 |
 | [wait for you](https://open.spotify.com/track/1akQuVQVB4rPIjL6rs9fGb) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2), [Elena Hinnawi](https://open.spotify.com/artist/1ePydjBu3VYrPFNsUtOdoM) | [wait for you](https://open.spotify.com/album/5g079RFaVNf5fN2kn4wh2X) | 3:24 | 2022-10-27 | 2022-12-08 |
 | [Want You Back](https://open.spotify.com/track/5EqLtvftHcTbsmoPW2EmX0) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Want You Back](https://open.spotify.com/album/3KbBdkPsUi15Sp9C929MdP) | 2:15 | 2022-05-26 | 2022-12-08 |
-| [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-14 |  |
+| [Watch Me](https://open.spotify.com/track/2MrJjA7IsGMImbA6qwhCiW) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [Watch Me](https://open.spotify.com/album/0ENzBRcf1PtiP8sl1Nsnxy) | 2:35 | 2023-08-14 |  |
+| [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-14 | 2023-08-20 |
 | [WATER](https://open.spotify.com/track/6s3GAR8XAY06Qk05V4A0z7) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [WATER](https://open.spotify.com/album/6Q7Q1IbhWKDthIVE6CF2ud) | 3:37 | 2022-12-07 | 2023-04-25 |
 | [What I Mean](https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [What I Mean](https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY) | 2:49 | 2022-12-07 | 2023-02-25 |
 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 | 2021-12-16 | 2022-11-20 |
