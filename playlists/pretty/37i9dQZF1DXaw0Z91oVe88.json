@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmZmM2UwOWI0ZDQ4NWJhY2YxYjM2ODU4NjVkOWYxN2E0NzBhNjJj",
+  "snapshot_id": "MCwwOTY0YjIwY2Q5OGE2ODI4OWY3ZTgwMGExMmZmODBiYzg4ZTg0N2Vk",
   "tracks": [
     {
       "added_at": "2023-07-17 06:14:28",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "surf.",
         "url": "https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 225777,
       "name": "surf.",
       "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "Seoul Check-in OST Part 5",
         "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 209883,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 221369,
+      "name": "BETTER (with MINO)",
+      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
         "name": "fallin (feat.Liss)",
         "url": "https://open.spotify.com/album/4fU4TPacCYGyZqwt4wkYkU"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 167698,
       "name": "fallin (feat.Liss)",
       "url": "https://open.spotify.com/track/1joLvqSBVz1UeCX2CjfPuM"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 221369,
-      "name": "BETTER (with MINO)",
-      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 267426,
-      "name": "A Letter in The Wind",
-      "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 251653,
       "name": "Fuzzy peach",
       "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 267426,
+      "name": "A Letter in The Wind",
+      "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
     },
     {
       "added_at": "2023-07-17 06:14:28",

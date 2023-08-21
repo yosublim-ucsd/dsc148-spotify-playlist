@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 12518,
+  "num_followers": 12533,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmVlN2RkMmY4M2YzNzkzNmJiMTNmMGIzMzYwZTFhMTRlMDUzNWUw",
+  "snapshot_id": "MCxhOWY1MjkxMDlkZDM4NzQyOWRiOTI2YzQ4MmQ2ZGE0M2Y4MDFlNTc5",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Alligator",
         "url": "https://open.spotify.com/album/7bWzWGdmK5QepRg00IoKDV"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 180360,
       "name": "Hey Now Baby",
       "url": "https://open.spotify.com/track/66fgQCgrVrzuGwgOygTh5w"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Hooked On Your Love",
-        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
       },
       "artists": [
         {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
         }
       ],
-      "duration_ms": 277933,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "New Orleans Street Singer",
         "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Hooked On Your Love",
+        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        }
+      ],
+      "duration_ms": 277933,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Louis Armstrong Plays W. C. Handy",
         "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 255933,
       "name": "Yellow Dog Blues",
       "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Walking On Fire",
-        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
-      },
-      "artists": [
-        {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Blues Stew",
-      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -651,6 +635,22 @@
       "duration_ms": 205280,
       "name": "The Party's Still Going On",
       "url": "https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     }
   ],
   "unique_name": "Louisiana Blues",

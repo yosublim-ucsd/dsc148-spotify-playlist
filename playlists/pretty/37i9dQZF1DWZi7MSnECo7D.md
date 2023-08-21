@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Ana Frango Elétrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,884 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,902 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Não Vou Mentir](https://open.spotify.com/track/7blyqL8Grf3Zu4bnXJy4j0) | [triz nowa](https://open.spotify.com/artist/0ZggquqaZxc6ZpP4lilI4p) | [Não Vou Mentir](https://open.spotify.com/album/7fM7cMlSzQWBg9rZknl6Vu) | 2:49 |
 | 70 | [Sensível](https://open.spotify.com/track/186od6oy358cSNu00HrQp9) | [j4mpa](https://open.spotify.com/artist/6x1PjwopHU4qaamzJrAhAt) | [Sensível](https://open.spotify.com/album/6yf7vHJPUJe9R8HSvuZaQb) | 2:38 |
 
-Snapshot ID: `MCw1ZDkwMzNiY2E0MWVkZGNkNzdhNTRjMGI0MjM1NzY3NTY5N2E5M2Qz`
+Snapshot ID: `MCxmNzg1ZWJlNTA5ODYzY2ZmOTZlMjFmZGM2OGY2ZjA3NjcwYWVjYjE0`

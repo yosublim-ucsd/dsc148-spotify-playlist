@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-316 songs - 20 hr 29 min
+317 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Let Love Be The Gift](https://open.spotify.com/track/2odizPRWsNy8y7ClC0W6er) | [Trinity \(NL\)](https://open.spotify.com/artist/3SDefVlv5kSzaP5QYZTSMx) | [Let Love Be The Gift](https://open.spotify.com/album/2UDnw4ketZUlZkG5tYIiKD) | 3:19 | 2022-12-11 |  |
 | [Let There Be Peace](https://open.spotify.com/track/0unhO1D9nwFlljFrhwB9Rs) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift](https://open.spotify.com/album/1wI9NGtQCnhyweuVACpXW4) | 3:59 | 2021-12-11 |  |
 | [Let There Be Peace on Earth](https://open.spotify.com/track/2oD7uX89PowHqD3CPFkULx) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Let There Be Peace on Earth](https://open.spotify.com/album/0hTxmgpCiExm895BIhQ6Vv) | 3:36 | 2021-12-24 | 2022-07-29 |
+| [Lift High \(Emmanuel\)](https://open.spotify.com/track/5qWuI5LdPr2QQ7EHychYoj) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/0TpgvcMDJhf3e7XPAnyeLT) | 5:11 | 2022-12-11 |  |
 | [Lift High \(Emmanuel\)](https://open.spotify.com/track/6Pzv40MLNnwE0N4xZpYJ2X) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/5DqiYPcDeTilZ0lcUWVHhi) | 5:11 | 2022-12-11 | 2023-08-09 |
 | [Light Has Come](https://open.spotify.com/track/2rOXIm8nVKLIDhy32ASuoh) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Light Has Come](https://open.spotify.com/album/6MrfIO5CSBAnTXkUJ7jWGF) | 4:22 | 2021-12-11 | 2022-07-28 |
 | [Light of the World](https://open.spotify.com/track/4IR0seMxE1JhVfv90KE1NV) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [Thank God it's Christmas](https://open.spotify.com/album/1FBFqL715gCViWqbmVGgRD) | 3:32 | 2021-12-11 | 2022-07-29 |
@@ -211,7 +212,7 @@
 | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/track/15iXq47g33NYpcjIvA5Phr) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/album/6DM0NT7VUfcnSHX14gGMSP) | 4:39 | 2022-12-11 | 2023-07-03 |
 | [O Come All Ye Faithful \- Live](https://open.spotify.com/track/08r6V6XZhUDOg4uiPXQHVL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [O Come All Ye Faithful \(Live\)](https://open.spotify.com/album/4XIV8Lc2D3xKO8Vp3JB4i2) | 4:18 | 2021-12-24 | 2022-07-27 |
 | [O Come All Ye Faithful \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6Yr2cyWPpdHeWVsOwu9rzg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [O Come All Ye Faithful \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/album/60RYE09w9rWq0qg6IT9rha) | 3:44 | 2021-12-24 |  |
-| [O Come Let Us Adore Him/The Blessing](https://open.spotify.com/track/7aGxy8qDrcLQoIdLHa6Uq8) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [O Come Let Us Adore Him/The Blessing](https://open.spotify.com/album/0wIwPCv83L6SdEvsn3fg0U) | 2:34 | 2022-12-11 |  |
+| [O Come Let Us Adore Him/The Blessing](https://open.spotify.com/track/7aGxy8qDrcLQoIdLHa6Uq8) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [O Come Let Us Adore Him/The Blessing](https://open.spotify.com/album/0wIwPCv83L6SdEvsn3fg0U) | 2:34 | 2022-12-11 | 2023-08-21 |
 | [O Come O Come Emmanuel](https://open.spotify.com/track/2SMsmhN6Qaj2x1D0iRgKw4) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [O Come O Come Emmanuel](https://open.spotify.com/album/1UI3az3iW2IIHZ6nPogJTM) | 3:00 | 2021-12-11 |  |
 | [O Come O Come Emmanuel](https://open.spotify.com/track/2T9x0r1vAlZAtFkwVWpPwx) | [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz), [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [The Christmas Sessions](https://open.spotify.com/album/3B3vNiXnKfjf3raon31lNn) | 2:57 | 2021-12-24 | 2022-07-27 |
 | [O Come O Come Emmanuel/King Of Heaven](https://open.spotify.com/track/09oZklh4A5wakCLL4Vstd1) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [O Come O Come Emmanuel/King Of Heaven](https://open.spotify.com/album/3A4a34MY4Z2YAjOeFbbvP8) | 4:36 | 2021-12-11 | 2022-07-29 |

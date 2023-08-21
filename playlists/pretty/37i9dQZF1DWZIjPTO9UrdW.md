@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIjPTO9UrdW.md) - [plain]
 
 > The perfect jazz backdrop to the cocktails.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,544 likes - 78 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,588 likes - 78 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIjPTO9UrdW.md) - [plain]
 | 77 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 |
 | 78 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 |
 
-Snapshot ID: `MCw4NzExNGU3NWRjMTI4OWFmMTllZDJhMjhhNWVlYzYzOGNhMzU0YmFk`
+Snapshot ID: `MCxmOGU4YTVmNmI2OGY0MzBhYWUwY2FkNzAxZTcxMTM4OWM1OTBhMGNl`

@@ -1,12 +1,12 @@
 {
   "description": "for hiking through nature's playground \ud83c\udfd4\ufe0f",
-  "num_followers": 102281,
+  "num_followers": 103452,
   "original_name": "Mountain Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2M5N2FjZTU4ODdlOTJmYmQ0OTg2MmI5NzZmYzI3NWIzMDA0ZWU3",
+  "snapshot_id": "MCw0ZGVmOWE5OWQ1MDVkYjYyM2Y5ZGM2OTJlNWIwNjdhYWExM2VjNDg4",
   "tracks": [
     {
       "added_at": "2023-08-08 20:08:51",
@@ -59,6 +59,22 @@
       "duration_ms": 187500,
       "name": "Valapriso",
       "url": "https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z"
+    },
+    {
+      "added_at": "2023-08-20 18:09:22",
+      "album": {
+        "name": "That's Just The Way It Is, Babe",
+        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "That\u2019s Just The Way It Is, Babe",
+      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "added_at": "2023-08-08 20:08:51",

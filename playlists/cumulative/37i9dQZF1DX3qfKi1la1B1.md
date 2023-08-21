@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-254 songs - 16 hr 33 min
+255 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-10-20 |  |
 | [balloon](https://open.spotify.com/track/3a7cMaM3fudhTYRvHRrStL) | [kijin](https://open.spotify.com/artist/2TGFerbsk04KUysNlVQyv0) | [balloon](https://open.spotify.com/album/20tx2Al1zE8eWZIVTPzBb6) | 3:16 | 2022-10-20 | 2022-12-14 |
 | [Barcelona Part IV](https://open.spotify.com/track/3gpppuXHsul092Cw0gtq0T) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [LIVE](https://open.spotify.com/album/1eRiTL1A6peNzZTokLv5HO) | 3:41 | 2023-05-18 | 2023-06-09 |
-| [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 | 2022-10-20 |  |
+| [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 | 2022-10-20 | 2023-08-21 |
 | [Better Than I Imagined \[Feat\. H.E.R., Meshell Ndegeocello\]](https://open.spotify.com/track/5hv2fqqM4B2Oi9VoM4Oxhn) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Black Radio III \(Supreme Edition\)](https://open.spotify.com/album/0koSNz785od22spE0DlKO7) | 4:51 | 2022-12-13 | 2023-02-10 |
 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 | 2023-06-30 | 2023-07-07 |
 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 | 2023-02-07 | 2023-03-22 |
@@ -156,6 +156,7 @@
 | [Overthinker \- Stones Taro Remix](https://open.spotify.com/track/0mPLsl9A6JdPBqRws85AYk) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Overthinker\(Stones Taro Remix\)](https://open.spotify.com/album/53fRA0u4akvEtfL4POeEX5) | 4:54 | 2022-11-24 | 2022-12-24 |
 | [Panic Attacks](https://open.spotify.com/track/0Y2DVH8AJKYRUxwmI0VfYd) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Apple Pie](https://open.spotify.com/album/0f02wMNqFZiSplA2H8C6kf) | 3:46 | 2022-11-10 | 2022-11-13 |
 | [Panic Attacks](https://open.spotify.com/track/0hFxiaVUZTEpsAdrV595Xn) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Panic Attacks](https://open.spotify.com/album/60DFfJcPBoiWwzGS65DiAj) | 3:46 | 2022-10-20 | 2022-12-09 |
+| [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-17 |  |
 | [Phone Call \- Jeremy Sylvester Instrumental Remix](https://open.spotify.com/track/2BhxMkUVFB3rCn1si53whZ) | [Henry Wu](https://open.spotify.com/artist/0IvTgqmNuZwVjEkkjzxLha), [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [Phone Call \(Remixes\)](https://open.spotify.com/album/47yMeut9nuYgagAYUdEPN5) | 6:11 | 2022-10-20 | 2022-11-25 |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-10-20 | 2022-11-11 |
 | [Pink Moon](https://open.spotify.com/track/7fHzjaSpIqRPXP2s5hJS1M) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Endless Coloured Ways: The Songs of Nick Drake](https://open.spotify.com/album/41NPRAXWRq1a5JKOfxvkfE) | 2:06 | 2023-07-06 | 2023-07-21 |

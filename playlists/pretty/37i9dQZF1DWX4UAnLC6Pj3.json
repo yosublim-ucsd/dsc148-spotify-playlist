@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Lenin Ram\u00edrez & Banda MS en portada.",
-  "num_followers": 1134281,
+  "num_followers": 1134497,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTY0NWM3ZmRkM2Q2OWM2Y2JkMjRiN2FlYWYwNzAxMWYxMzkzODA1",
+  "snapshot_id": "MCxkNDg0OTliM2FlMTFkZWFiODA4MGIxNmM3MWI5Nzg0NzA1YzRkODgw",
   "tracks": [
     {
       "added_at": "2023-08-11 06:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Gu\u00e1rdame Esta Noche",
-        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "De Hoy En Adelante, Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 165933,
       "name": "Aqu\u00ed Algo Cambi\u00f3",
       "url": "https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+        "name": "Carteles",
+        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 182480,
-      "name": "Y Me Da Verg\u00fcenza",
-      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
+      "duration_ms": 125818,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Carteles",
-        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 125818,
-      "name": "El B\u00e9lico",
-      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+      "duration_ms": 182480,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
+        "name": "Fuera De Servicio",
+        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 151773,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
+      "duration_ms": 154868,
+      "name": "Fuera De Servicio",
+      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "De Memoria Me Las S\u00e9",
-        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 163320,
-      "name": "De Memoria Me Las S\u00e9",
-      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
+      "duration_ms": 161900,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -783,34 +783,34 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Fuera De Servicio",
-        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 154868,
-      "name": "Fuera De Servicio",
-      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
+      "duration_ms": 151773,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
     },
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+        "name": "De Memoria Me Las S\u00e9",
+        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
       },
       "artists": [
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 161900,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
+      "duration_ms": 163320,
+      "name": "De Memoria Me Las S\u00e9",
+      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
+        "name": "Como Duele Equivocarse",
+        "url": "https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 227044,
+      "name": "Como Duele Equivocarse",
+      "url": "https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 133480,
       "name": "Gente Corriente",
       "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
-        "name": "Como Duele Equivocarse",
-        "url": "https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 227044,
-      "name": "Como Duele Equivocarse",
-      "url": "https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Vamos Bien",
-      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "El Precio De La Soledad",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 166143,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Vamos Bien",
+      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
-        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 423653,
-      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
-      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 182080,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
+        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 423653,
+      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
+      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Sigo en la m\u00eda",
-        "url": "https://open.spotify.com/album/36VsQrd5sP46avPx5v1idi"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 152232,
-      "name": "Sigo en la mia",
-      "url": "https://open.spotify.com/track/2yPbt23ToMNy7uG1OoVFJ5"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 129500,
       "name": "Levantando Polvadera (En vivo)",
       "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Sigo en la m\u00eda",
+        "url": "https://open.spotify.com/album/36VsQrd5sP46avPx5v1idi"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 152232,
+      "name": "Sigo en la mia",
+      "url": "https://open.spotify.com/track/2yPbt23ToMNy7uG1OoVFJ5"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
+        "name": "Una Julio 70",
+        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 175829,
+      "name": "Una Julio 70",
+      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
         "name": "La Patrona",
         "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 150527,
       "name": "La Patrona",
       "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
-        "name": "Una Julio 70",
-        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 175829,
-      "name": "Una Julio 70",
-      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
+        "name": "El Final De Nuestra Historia (Homenaje a La Arrolladora)",
+        "url": "https://open.spotify.com/album/067rOy9K7YT9jPDMQxsZgc"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 192435,
+      "name": "El Final De Nuestra Historia (Homenaje a La Arrolladora)",
+      "url": "https://open.spotify.com/track/42cO1mLaAFacO80Z3p8hG5"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
         "name": "Aplaca Tus Berrinches",
         "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 190840,
       "name": "Aplaca Tus Berrinches",
       "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
-        "name": "El Final De Nuestra Historia (Homenaje a La Arrolladora)",
-        "url": "https://open.spotify.com/album/067rOy9K7YT9jPDMQxsZgc"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 192435,
-      "name": "El Final De Nuestra Historia (Homenaje a La Arrolladora)",
-      "url": "https://open.spotify.com/track/42cO1mLaAFacO80Z3p8hG5"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Las Edades (En Vivo)",
-        "url": "https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 171061,
-      "name": "Las Edades (En Vivo)",
-      "url": "https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "Voy Pa\u2019Arriba Y Con Viada",
         "url": "https://open.spotify.com/album/3CPelQDAucCTS0qDJllAHB"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 176146,
       "name": "Voy Pa\u2019Arriba Y Con Viada",
       "url": "https://open.spotify.com/track/3Ci2QXttB3371jfqJcmJcJ"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Las Edades (En Vivo)",
+        "url": "https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 171061,
+      "name": "Las Edades (En Vivo)",
+      "url": "https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -1943,42 +1943,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "La Llamada De Mi Ex (En Vivo)",
-        "url": "https://open.spotify.com/album/7shF1UXzVbKqIkesVBrPH1"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 218282,
-      "name": "La Llamada De Mi Ex (En Vivo)",
-      "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
-        "name": "Amor No Tiene Sexo",
-        "url": "https://open.spotify.com/album/32cveKCOFwSHsr27tQ8ZzB"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 182725,
-      "name": "Amor No Tiene Sexo",
-      "url": "https://open.spotify.com/track/3XnSWfa7yEAF5k5CfDAX4U"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "No Es Cierto Que Nunca Te Quise",
         "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
       },
@@ -2007,6 +1971,42 @@
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Amor No Tiene Sexo",
+        "url": "https://open.spotify.com/album/32cveKCOFwSHsr27tQ8ZzB"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 182725,
+      "name": "Amor No Tiene Sexo",
+      "url": "https://open.spotify.com/track/3XnSWfa7yEAF5k5CfDAX4U"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "La Llamada De Mi Ex (En Vivo)",
+        "url": "https://open.spotify.com/album/7shF1UXzVbKqIkesVBrPH1"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 218282,
+      "name": "La Llamada De Mi Ex (En Vivo)",
+      "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Nada De Nada",
-        "url": "https://open.spotify.com/album/4a1sv1wxgBQok1K5ug0ZcA"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/7cnunap9w1egvi4B9ZXCuh"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "No Hay Nada Mas Que Decir",
         "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 143133,
       "name": "No Se Lo Deseo a Nadie",
       "url": "https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Nada De Nada",
+        "url": "https://open.spotify.com/album/4a1sv1wxgBQok1K5ug0ZcA"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/7cnunap9w1egvi4B9ZXCuh"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -2127,26 +2127,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Todas Son Iguales",
-        "url": "https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        },
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 155125,
-      "name": "Todas Son Iguales",
-      "url": "https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "Me Equivoqu\u00e9 en Amarte",
         "url": "https://open.spotify.com/album/59EiA4FLSz1szxHSIbMNZ8"
       },
@@ -2163,6 +2143,26 @@
       "duration_ms": 177631,
       "name": "Me Equivoqu\u00e9 en Amarte",
       "url": "https://open.spotify.com/track/46i0h9eAuaj4cMCDKUYF2P"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Todas Son Iguales",
+        "url": "https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 155125,
+      "name": "Todas Son Iguales",
+      "url": "https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx"
     },
     {
       "added_at": "2023-08-11 06:00:00",

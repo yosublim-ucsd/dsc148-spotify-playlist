@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 472326,
+  "num_followers": 472462,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTlmODQ1NjQzYWU2N2JlNzc3NzljOTlkZWUzMTQ2ODUwODI1ZTIy",
+  "snapshot_id": "MCw2NjI5MTZhNWVjM2M4MDVlMWI2OTNhYTg1NDk2OGZkOWUxMTYyNDVk",
   "tracks": [
     {
       "added_at": "2023-07-31 15:49:25",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-07-31 15:49:25",
       "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2023-07-31 15:49:25",
+      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -771,26 +787,6 @@
     {
       "added_at": "2023-07-31 15:49:25",
       "album": {
-        "name": "THINKING Part.2",
-        "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Being left (Feat. Dvwn)",
-      "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
-    },
-    {
-      "added_at": "2023-07-31 15:49:25",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -807,18 +803,22 @@
     {
       "added_at": "2023-07-31 15:49:25",
       "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+        "name": "THINKING Part.2",
+        "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
         }
       ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+      "duration_ms": 218813,
+      "name": "Being left (Feat. Dvwn)",
+      "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
     },
     {
       "added_at": "2023-07-31 15:49:25",

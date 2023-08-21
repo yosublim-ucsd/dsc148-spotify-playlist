@@ -11298,7 +11298,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 221826,
       "name": "The Forgotten Season",
       "url": "https://open.spotify.com/track/4Z5NS9w7D3iRDJ64pKpMbm"
@@ -15362,6 +15362,24 @@
       "duration_ms": 229133,
       "name": "\uc790\uc874\uc2ec",
       "url": "https://open.spotify.com/track/0qV9bK9O1EVdtcpUOUBrj0"
+    },
+    {
+      "album": {
+        "name": "Super Five - Hello",
+        "url": "https://open.spotify.com/album/0gXiN3TJJ7wHlCmc2KvDsk"
+      },
+      "artists": [
+        {
+          "name": "Super Five",
+          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201573,
+      "name": "\uc798 \ub420 \uac70\uc57c",
+      "url": "https://open.spotify.com/track/1gd0lmgYBXOV9PUGP1STYu"
     },
     {
       "album": {

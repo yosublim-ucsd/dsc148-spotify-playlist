@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Vondré en portada.
 
-98 songs - 5 hr 21 min
+99 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [La Excusa Perfecta](https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [La Excusa Perfecta](https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5) | 3:00 | 2023-07-07 |  |
 | [La Fórmula Secreta](https://open.spotify.com/track/4eQ49BwmjeomcAMVEd4tmu) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [La Fórmula Secreta](https://open.spotify.com/album/5xQIz329pjuvjdGpaYFFRU) | 3:59 | 2022-03-25 |  |
 | [La Pausa del Mundo](https://open.spotify.com/track/7cyO9d1l0jbytDniOqjtt9) | [El Universo](https://open.spotify.com/artist/2xGTBCrbaFoUdXGCqqJm8i) | [La Pausa del Mundo](https://open.spotify.com/album/2br0xYm6FKv8DQtXEhLQTl) | 4:50 | 2022-03-25 |  |
-| [La Vida De Alguien Más](https://open.spotify.com/track/1MzCR1UMQOgc3yYAcZdIlK) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/62yeYHE8CMTNQ4LgXNae2U) | 4:02 | 2022-03-25 |  |
+| [La Vida De Alguien Más](https://open.spotify.com/track/1MzCR1UMQOgc3yYAcZdIlK) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/62yeYHE8CMTNQ4LgXNae2U) | 4:02 | 2022-03-25 | 2023-08-21 |
+| [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 | 2023-07-28 |  |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-03-25 |  |
 | [Llueve](https://open.spotify.com/track/1gnzgNCAULZMgU3vsEwb9w) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Llueve](https://open.spotify.com/album/0qo6T7TGB8uh0ddsKXNwzo) | 2:15 | 2023-07-28 |  |
 | [Lo Hice Por El Punk](https://open.spotify.com/track/16R71sPcHhpB8N9Hlvso8r) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Gazapo](https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT) | 2:49 | 2022-03-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
-  "num_followers": 24289,
+  "num_followers": 24330,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjg1M2U1MjA3MGU2OGJiN2Y2ODYwMjc1MWZiNmU2YjY0NmVmZmI5",
+  "snapshot_id": "MCw1YTlkYzMzNGZlNzUyZGNhNDRmZDk5MmZjZjQxMWI5YjQyYjRjMzcx",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "High Tension 2.0",
+        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
+      },
+      "artists": [
+        {
+          "name": "Dangbana Republik",
+          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "JAIYE EVERYDAY",
         "url": "https://open.spotify.com/album/7MR5PLjXyCV6yzHUfyqz09"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 180535,
       "name": "JAIYE EVERYDAY",
       "url": "https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "High Tension 2.0",
-        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
-      },
-      "artists": [
-        {
-          "name": "Dangbana Republik",
-          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
     },
     {
       "added_at": "2023-08-17 23:00:00",

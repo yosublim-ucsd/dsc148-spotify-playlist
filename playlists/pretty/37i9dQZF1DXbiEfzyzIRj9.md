@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Supershy
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,043 likes - 110 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,079 likes - 110 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 36 | [RIGHT TRACK \- voquote VIP REMIX](https://open.spotify.com/track/50geQlz3wV9qzn8KAfHk5e) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP) | [RIGHT TRACK \(voquote VIP REMIX\)](https://open.spotify.com/album/6zeYY3Rb8bn1SEuTNR6zbT) | 4:05 |
 | 37 | [Lime Green Skies](https://open.spotify.com/track/54XaIvn3IjlHZv1bVnrEJn) | [Energy Exchange Ensemble](https://open.spotify.com/artist/1dxgUIXKd9tX0xgRQ7hM8i), [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Lime Green Skies](https://open.spotify.com/album/7v0EVUq4QBJuDUCNWUS38I) | 6:49 |
 | 38 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |
-| 39 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 |
+| 39 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 40 | [Nobody Else Will Do](https://open.spotify.com/track/7523LoHW3sgiFG0GJcrV0C) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Nobody Else Will Do](https://open.spotify.com/album/6FQnPSIRDTKDxvZuFAH9qY) | 3:33 |
 | 41 | [So Sweet](https://open.spotify.com/track/6xq0CZqoxLSvqGUre9eOON) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Welcome 2 My House](https://open.spotify.com/album/1zYlBqGoWNoEp3WrKULrWT) | 5:19 |
 | 42 | [Ohm](https://open.spotify.com/track/7HiWxn3NzXLbaB6UiDJMr5) | [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR), [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [DANCE THERAPY](https://open.spotify.com/album/5umbKgN8vqjq7X9wyPsSVd) | 3:46 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 109 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
 | 110 | [Moon in Aries](https://open.spotify.com/track/5j94gI0nrtdB3SZ4nEBste) | [Jessica Skye](https://open.spotify.com/artist/6WQhaa0kBY4CVSWnrdbC1S) | [Moon in Aries](https://open.spotify.com/album/6rYgC9GjnJxJE5sh1edfzn) | 4:56 |
 
-Snapshot ID: `MCw3NWQ2MzgxZmFhZjY4MDMxODI1OTZjYTFmOWVjYmI1M2QxZWUzNTA0`
+Snapshot ID: `MCwxYWMwMjliZjM4ZDYxNWFiMDFjZTM0MTg4MTJiY2NlZjdiZGI2OTcx`

@@ -1759,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Esclava (Remix)",
+        "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
+      },
+      "artists": [
+        {
+          "name": "bryant mayers",
+          "url": "https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284281,
+      "name": "Esclava (Remix)",
+      "url": "https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8"
+    },
+    {
+      "album": {
         "name": "Real Hasta La Muerte Mixtape",
         "url": "https://open.spotify.com/album/4B45YXF6QPhVVln3nKPsOA"
       },
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 281568,
       "name": "Esclava (Remix) [feat. Bryant Myers, Anonimus & Almighty]",
       "url": "https://open.spotify.com/track/4is8Zde1EvRRTkhXQKdk0K"

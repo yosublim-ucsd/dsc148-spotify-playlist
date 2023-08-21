@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-386 songs - 1 day 4 hr 25 min
+387 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,8 +360,9 @@
 | [Tu Mujer](https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:01 | 2021-02-02 |  |
 | [Tu Vas a Volar](https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vuelve el Merengue](https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj) | 4:56 | 2021-02-02 |  |
 | [Tu Vas a Volar](https://open.spotify.com/track/63UMjW3BogcZsHsRO9EcDo) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:54 | 2021-02-02 | 2022-07-26 |
-| [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 | 2021-02-02 |  |
+| [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 | 2021-02-02 | 2023-08-21 |
 | [Tus 20 Años](https://open.spotify.com/track/6v54Dghb69jKbp1ROhKRrN) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Grandes Exitos](https://open.spotify.com/album/76WwM4YQgkexLMIz7xtyRH) | 4:52 | 2021-02-02 | 2023-05-26 |
+| [Tus 20 Años](https://open.spotify.com/track/0Ut3iiS2PtpTrH3AmxkG1R) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Tus 20 Años](https://open.spotify.com/album/5Z2Q4YYjgQhB50LE6fWkzk) | 4:55 | 2021-02-02 |  |
 | [Tus Besos](https://open.spotify.com/track/61DtAQlXotYdmaQhbY2pAs) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF) | [Exitos](https://open.spotify.com/album/17MT38IkLUghZfA3EYUQxr) | 4:53 | 2021-02-02 | 2022-09-11 |
 | [Tus Besos Son](https://open.spotify.com/track/77efkShul1aVJMJWGgtB5l) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF) | [Merengon](https://open.spotify.com/album/2tYiN3NWPLJ3rYRhIZfyka) | 4:55 | 2021-02-02 |  |
 | [Un Beso y una Flor](https://open.spotify.com/track/3SnAxVKTCE6oLiXIDqEpUd) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/5pybY0Fv6TnJCi7Ds6roxv) | 4:34 | 2021-02-02 | 2022-08-19 |

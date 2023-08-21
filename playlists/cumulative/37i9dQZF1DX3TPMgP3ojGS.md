@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,733 songs - 3 day 5 hr 42 min
+1,734 songs - 3 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2021-03-18 | 2022-07-17 |
 | [Days Like These](https://open.spotify.com/track/7pwDWr9QNRAv6N63MY2mRn) | [Renard Francis](https://open.spotify.com/artist/1TQQ7EEYrOne3L7iiCObNX) | [Days Like These](https://open.spotify.com/album/207M0Mwbs6wtPdPmayBTUw) | 4:09 | 2021-03-09 | 2022-06-12 |
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2021-05-08 | 2022-04-08 |
-| [Days Passing By](https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Passages](https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB) | 2:39 | 2022-12-22 |  |
+| [Days Passing By](https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Passages](https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB) | 2:39 | 2022-12-22 | 2023-08-21 |
 | [De Angelis](https://open.spotify.com/track/7vF6BeR1XaVvgDVX0zpJKv) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [De Angelis](https://open.spotify.com/album/1WV4uwUBSu9Pwwr8bWv2GP) | 2:23 | 2021-03-16 | 2022-04-15 |
 | [Dear Mama](https://open.spotify.com/track/1qUVgTwfcnO0GXOD89SCwz) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Hidden Depth](https://open.spotify.com/album/7x1LzLQlWwtPTCCEH6ytbM) | 3:16 | 2021-03-21 | 2022-07-23 |
 | [Decay](https://open.spotify.com/track/5FFtJ0ygy9EniovOZIDGuK) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Piano 1 \(Extended\)](https://open.spotify.com/album/2HdTrxH48hXXj5kMxZDoWP) | 2:37 | 2021-03-08 | 2022-04-16 |
@@ -1508,6 +1508,7 @@
 | [The Waltz Between Us](https://open.spotify.com/track/4XJ1vrePP1TxBn7WyWaC49) | [Tonie Green](https://open.spotify.com/artist/3kfHheH2kjb3gsLwSowrdb) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 2:16 | 2021-04-29 | 2022-04-11 |
 | [The Watchtower](https://open.spotify.com/track/504NLPDUBRylbZUUQR97XX) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [The Watchtower](https://open.spotify.com/album/0Pal5VkkxKbiGZZJHsgTHp) | 3:25 | 2021-04-21 | 2022-04-11 |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-09-29 | 2023-04-16 |
+| [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-15 |  |
 | [The Way There](https://open.spotify.com/track/2X0ophIMSyCw9SSISrIEpQ) | [Hreidar](https://open.spotify.com/artist/0tVS8c23TG8rD0vyBSXuWe) | [The Way There](https://open.spotify.com/album/5EZyffRRVIrdJ1tPP06Dac) | 3:24 | 2021-03-20 | 2022-04-15 |
 | [The Willows](https://open.spotify.com/track/2sVHqNjse5KdJkffJce5Dr) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [On the Other Side](https://open.spotify.com/album/633hqMGhBHeMIyTOFfNzm7) | 2:20 | 2021-03-09 | 2022-04-05 |
 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 | 2021-05-10 | 2022-03-31 |

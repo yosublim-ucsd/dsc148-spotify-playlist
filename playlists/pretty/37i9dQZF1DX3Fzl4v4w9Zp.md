@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,704 likes - 149 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,781 likes - 149 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [\(Remember Me\) I'm the One Who Loves You](https://open.spotify.com/track/4DSG3Jl9MHt7EQRR9louzF) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [\(Remember Me\) I'm the One Who Loves You](https://open.spotify.com/album/6mSs7MCOo0rv9f25WMfFnn) | 3:00 |
 | 149 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 |
 
-Snapshot ID: `MCw3NjZiMzNiN2EwOTBmODYwNjQ3MDc4ODQ4OWExMTgzYzBmZjI3ODhl`
+Snapshot ID: `MCxjMWJkMTkzZGQwMmY3NWNlNmUwYmI0YTgyMmI0ZDg5NTRmZTA0YzBk`

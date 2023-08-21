@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 283611,
+  "num_followers": 283707,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTRjMDI3NzU2MjhmZjdkZGI4MzExMGU0MmI2NGQ2MjE3YWUxZDVj",
+  "snapshot_id": "MCwzZGI3YzMzMzI1MWRlNjI3MGFmMWM3ZTc1NDFiMjdmY2M3Nzc5NDNk",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Luke Bell",
+        "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
+      },
+      "artists": [
+        {
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Where Ya Been?",
+      "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Luke Bell",
-        "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
-      },
-      "artists": [
-        {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Where Ya Been?",
-      "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 300895,
-      "name": "Weather",
-      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Welcome to Hard Times",
         "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 185754,
       "name": "Welcome to Hard Times",
       "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 300895,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Daddy's Country Gold",
-        "url": "https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Makin' Memories",
-      "url": "https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Pohorylle",
         "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 187306,
       "name": "Tehachapi",
       "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Daddy's Country Gold",
+        "url": "https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Makin' Memories",
+      "url": "https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "All Or Nothin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
       },
       "artists": [
         {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
+      "duration_ms": 273440,
+      "name": "Four Years of Chances",
+      "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+        "name": "All Or Nothin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 273440,
-      "name": "Four Years of Chances",
-      "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Goodnight Rhonda Lee",
-        "url": "https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Goodnight Rhonda Lee",
-      "url": "https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 197192,
       "name": "Morgan, I Might",
       "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Goodnight Rhonda Lee",
+        "url": "https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Goodnight Rhonda Lee",
+      "url": "https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
-      },
-      "artists": [
-        {
-          "name": "Skylar Gudasz",
-          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
-        }
-      ],
-      "duration_ms": 286146,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Blue Kentucky Girl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 200933,
       "name": "Blue Kentucky Girl - 2003 Remaster",
       "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
+      },
+      "artists": [
+        {
+          "name": "Skylar Gudasz",
+          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Golden Eagle",
         "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 208826,
       "name": "No One Has the Answers",
       "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Stone Me",
+      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
-      },
-      "artists": [
-        {
-          "name": "Lasers Lasers Birmingham",
-          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Road to Heaven",
         "url": "https://open.spotify.com/album/5RCUWKlWpbFjt5TgRns9aA"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 223091,
       "name": "Road to Heaven",
       "url": "https://open.spotify.com/track/0kmJsk0yNfxB1ICbKRpUzZ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
+      },
+      "artists": [
+        {
+          "name": "Lasers Lasers Birmingham",
+          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Secret Sisters",
-        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 143160,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Sometimes Dogs Bark at Nothing",
         "url": "https://open.spotify.com/album/6G9LWAp4G716jXXJA5ESyD"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 236963,
       "name": "When I Quit Drinking",
       "url": "https://open.spotify.com/track/4DivPM8ekqwrivgS5c5eej"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Secret Sisters",
+        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 143160,
+      "name": "My Heart Skips A Beat",
+      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
     }
   ],
   "unique_name": "Vintage Vibes",

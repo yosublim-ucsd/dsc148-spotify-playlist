@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 35434,
+  "num_followers": 35450,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmVhOGJlOGI2NGY4YzUxODk4OTk5ODA0MmQ5MzJlYzEzYjQ4ODJi",
+  "snapshot_id": "MCwxMmNjNDRlOGYzYzBlMmUyMzdiOWIzNzU5YzQ2Njc5YzMyMTdkNWYw",
   "tracks": [
     {
       "added_at": "2023-08-08 00:22:26",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-08-08 00:22:26",
       "album": {
-        "name": "Nh\u1eadt K\u00fd \u0110\u1eddi T\u00f4i",
-        "url": "https://open.spotify.com/album/6VNm9Szdku6nagVbX6ADtR"
-      },
-      "artists": [
-        {
-          "name": "Tr\u01b0\u1eddng V\u0169",
-          "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
-        },
-        {
-          "name": "Mai Thi\u00ean V\u00e2n",
-          "url": "https://open.spotify.com/artist/6DKJX322RvZsWhz0Xn2myz"
-        }
-      ],
-      "duration_ms": 247780,
-      "name": "N\u00f3i V\u1edbi Ng\u01b0\u1eddi T\u00ecnh",
-      "url": "https://open.spotify.com/track/09gYyhwSGWH5agBqRGPYsG"
-    },
-    {
-      "added_at": "2023-08-08 00:22:26",
-      "album": {
         "name": "G\u00f5 C\u1eeda Tr\u00e1i Tim",
         "url": "https://open.spotify.com/album/0xvLPPcHv9ssU71RNZKgBb"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 325450,
       "name": "G\u00f5 C\u1eeda Tr\u00e1i Tim",
       "url": "https://open.spotify.com/track/0JM9iBk3XplmIDvyC9rGyF"
+    },
+    {
+      "added_at": "2023-08-08 00:22:26",
+      "album": {
+        "name": "Nh\u1eadt K\u00fd \u0110\u1eddi T\u00f4i",
+        "url": "https://open.spotify.com/album/6VNm9Szdku6nagVbX6ADtR"
+      },
+      "artists": [
+        {
+          "name": "Tr\u01b0\u1eddng V\u0169",
+          "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
+        },
+        {
+          "name": "Mai Thi\u00ean V\u00e2n",
+          "url": "https://open.spotify.com/artist/6DKJX322RvZsWhz0Xn2myz"
+        }
+      ],
+      "duration_ms": 247780,
+      "name": "N\u00f3i V\u1edbi Ng\u01b0\u1eddi T\u00ecnh",
+      "url": "https://open.spotify.com/track/09gYyhwSGWH5agBqRGPYsG"
     },
     {
       "added_at": "2023-08-08 00:22:26",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-08-08 00:22:26",
       "album": {
+        "name": "Giang T\u1eed Tuy\u1ec7t Ph\u1ea9m",
+        "url": "https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff"
+      },
+      "artists": [
+        {
+          "name": "Giang T\u1eed",
+          "url": "https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "K\u1ebb \u1edf mi\u1ec1n xa",
+      "url": "https://open.spotify.com/track/5QT5sejxWy5F9RvRXxgxNc"
+    },
+    {
+      "added_at": "2023-08-08 00:22:26",
+      "album": {
         "name": "Ng\u01b0\u1eddi Ph\u1ee5 T\u00ecnh T\u00f4i",
         "url": "https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 310200,
       "name": "\u0110\u1eebng n\u00f3i xa nhau",
       "url": "https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk"
-    },
-    {
-      "added_at": "2023-08-08 00:22:26",
-      "album": {
-        "name": "Giang T\u1eed Tuy\u1ec7t Ph\u1ea9m",
-        "url": "https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff"
-      },
-      "artists": [
-        {
-          "name": "Giang T\u1eed",
-          "url": "https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "K\u1ebb \u1edf mi\u1ec1n xa",
-      "url": "https://open.spotify.com/track/5QT5sejxWy5F9RvRXxgxNc"
     },
     {
       "added_at": "2023-08-08 00:22:26",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-08 00:22:26",
       "album": {
-        "name": "Bu\u1ed3n L\u1eafm \u00c1o D\u00e0i \u01a0i!",
-        "url": "https://open.spotify.com/album/2EmIvznxe2WZPqw6DM9acj"
-      },
-      "artists": [
-        {
-          "name": "T\u1ed1 My",
-          "url": "https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb"
-        }
-      ],
-      "duration_ms": 373170,
-      "name": "L\u01b0u B\u00fat Ng\u00e0y Xanh",
-      "url": "https://open.spotify.com/track/56tR6AWgDT46ZAhHb6uJb3"
-    },
-    {
-      "added_at": "2023-08-08 00:22:26",
-      "album": {
         "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
         "url": "https://open.spotify.com/album/5RiWfZNluUklLApntD9oRG"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 173684,
       "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
       "url": "https://open.spotify.com/track/0dnXeBSlnqLpHkJ5g5o2eY"
+    },
+    {
+      "added_at": "2023-08-08 00:22:26",
+      "album": {
+        "name": "Bu\u1ed3n L\u1eafm \u00c1o D\u00e0i \u01a0i!",
+        "url": "https://open.spotify.com/album/2EmIvznxe2WZPqw6DM9acj"
+      },
+      "artists": [
+        {
+          "name": "T\u1ed1 My",
+          "url": "https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb"
+        }
+      ],
+      "duration_ms": 373170,
+      "name": "L\u01b0u B\u00fat Ng\u00e0y Xanh",
+      "url": "https://open.spotify.com/track/56tR6AWgDT46ZAhHb6uJb3"
     },
     {
       "added_at": "2023-08-08 00:22:26",

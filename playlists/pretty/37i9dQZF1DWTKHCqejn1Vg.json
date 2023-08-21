@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 25011,
+  "num_followers": 25059,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmYxZTkxZmRkYjJjY2FkZTg0NTFmMmQ5MGUzYjJhMjNmODRkMWUy",
+  "snapshot_id": "MCw5YTIyOGYxM2Y2OWUzNDc1NWE0MWJiYTE5MmM3OTc1MTVhNzQyOGZj",
   "tracks": [
     {
       "added_at": "2023-07-17 06:18:12",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
-        "name": "with HER",
-        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "She Said (with BIBI)",
-      "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 219080,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "She Said (with BIBI)",
+      "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
-        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
-      },
-      "artists": [
-        {
-          "name": "Choco And Vanilla",
-          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
-        }
-      ],
-      "duration_ms": 176997,
-      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 277928,
       "name": "Love Kills",
       "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
+        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
+      },
+      "artists": [
+        {
+          "name": "Choco And Vanilla",
+          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
-        "name": "TIME DIFFERENCE",
-        "url": "https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX"
-      },
-      "artists": [
-        {
-          "name": "AARON",
-          "url": "https://open.spotify.com/artist/6xYGndMhmSaDbRZX97FWE7"
-        }
-      ],
-      "duration_ms": 197552,
-      "name": "TIME DIFFERENCE",
-      "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
         "name": "White Snow",
         "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 184133,
       "name": "White Snow (feat. prettyhappy)",
       "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
+        "name": "TIME DIFFERENCE",
+        "url": "https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX"
+      },
+      "artists": [
+        {
+          "name": "AARON",
+          "url": "https://open.spotify.com/artist/6xYGndMhmSaDbRZX97FWE7"
+        }
+      ],
+      "duration_ms": 197552,
+      "name": "TIME DIFFERENCE",
+      "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
     },
     {
       "added_at": "2023-07-17 06:18:12",

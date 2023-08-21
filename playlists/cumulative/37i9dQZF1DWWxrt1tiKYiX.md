@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Pink Sweat$
 
-198 songs - 10 hr 58 min
+199 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [All That Really Matters \- Stripped Version](https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters \(Stripped Version\)](https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM) | 3:18 | 2022-10-08 |  |
 | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB) | 9:58 | 2022-01-28 |  |
 | [Alright \(feat\. Russell Dickerson\) \- Stripped](https://open.spotify.com/track/3TaUhDXyTGPZpWbgD5LoUk) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Drunk On Emotions \(Stripped\)](https://open.spotify.com/album/4DUl4eui8ahkGijjHiQC0s) | 2:37 | 2022-01-28 |  |
-| [America Forever \(with Maisie Peters & Carol Ades\)](https://open.spotify.com/track/5C518FHhKZWfBBiR4RmZnv) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [America Forever \(with Maisie Peters & Carol Ades\)](https://open.spotify.com/album/0cSX6abZYSztD0PWqSNOMj) | 4:02 | 2023-07-07 |  |
+| [America Forever \(with Maisie Peters & Carol Ades\)](https://open.spotify.com/track/0FXtE3Ot2m0qgd4Hno6Oxi) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/0JgrsEfBVs4xoD6O5YVaQR) | 4:02 | 2023-08-18 |  |
+| [America Forever \(with Maisie Peters & Carol Ades\)](https://open.spotify.com/track/5C518FHhKZWfBBiR4RmZnv) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [America Forever \(with Maisie Peters & Carol Ades\)](https://open.spotify.com/album/0cSX6abZYSztD0PWqSNOMj) | 4:02 | 2023-07-07 | 2023-08-21 |
 | [american jesus \- demo](https://open.spotify.com/track/6xJFwFiQPMWexTWyWsdnan) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [american jesus \(demo\)](https://open.spotify.com/album/5mgca9De5L6IA3uawjWDR5) | 2:50 | 2023-05-19 |  |
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2022-11-25 |  |
 | [August \- Recorded At Electric Lady Studios](https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Live At Electric Lady](https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T) | 3:48 | 2023-03-10 |  |

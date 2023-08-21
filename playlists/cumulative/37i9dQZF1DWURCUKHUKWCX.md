@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-178 songs - 9 hr 52 min
+179 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Emi](https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Emi](https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM) | 2:29 | 2021-12-10 |  |
 | [Empathy in C Minor](https://open.spotify.com/track/0UDYe5EoHGgEat7DK2u8yv) | [Luke Woodapple](https://open.spotify.com/artist/2KNwx5UTputMUl54ggtPpK), [Out of Berlin](https://open.spotify.com/artist/4OzYsuivUpglOu6MBEpwEe) | [Silent Places](https://open.spotify.com/album/1dP6W90C2R2bEpgLDJShp3) | 3:13 | 2021-12-10 |  |
 | [Es](https://open.spotify.com/track/0MgO8jBw4PScHUQbR4ZxeF) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Es](https://open.spotify.com/album/3BTBwE4I43H0DIOIr465pY) | 2:13 | 2021-12-10 | 2022-07-29 |
-| [Es](https://open.spotify.com/track/4u5cedyEcb8mWnD764OELD) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Es](https://open.spotify.com/album/7nAb18ah0Pey9BZVS2uvbE) | 2:13 | 2022-07-22 |  |
+| [Es](https://open.spotify.com/track/4u5cedyEcb8mWnD764OELD) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Es](https://open.spotify.com/album/7nAb18ah0Pey9BZVS2uvbE) | 2:13 | 2022-07-22 | 2023-08-21 |
+| [Es](https://open.spotify.com/track/1aO78Al3o07IrUdeBy9HXm) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [opus](https://open.spotify.com/album/6U5D76Uw1oeRDSv11Zmjfl) | 2:17 | 2023-03-31 |  |
 | [Everything, Forever](https://open.spotify.com/track/0o4STUmiHirVtus3Qmyh2Y) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Everything, Forever](https://open.spotify.com/album/637FWPiFGlJ5RLhaOcVFyt) | 1:27 | 2021-12-10 |  |
 | [Eyes Closed And Traveling](https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Eyes Closed And Traveling](https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb) | 3:39 | 2021-12-10 | 2023-01-04 |
 | [Falling For](https://open.spotify.com/track/6sjn8knBvkR0eek1zEVkmn) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Falling For](https://open.spotify.com/album/5U9PNefLruNvVFlwTq38pY) | 2:00 | 2022-01-21 |  |

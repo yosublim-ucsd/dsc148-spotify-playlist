@@ -2219,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/07Yw3BguFmrDGZbuRMpSlC"
+      },
+      "artists": [
+        {
+          "name": "Aron Edwards",
+          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215772,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/2jsQkKbjbA9miTDtV7obIh"
+    },
+    {
+      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc"
       },
@@ -5482,7 +5500,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 170291,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX"

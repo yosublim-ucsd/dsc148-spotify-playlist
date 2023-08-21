@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,577 likes - 74 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,593 likes - 74 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 7 | [Ammamma](https://open.spotify.com/track/05eDUk3qxGqsIYGvt02bpD) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B), [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP) | [Ammamma](https://open.spotify.com/album/1L8YDOUkzNY8QheUxpV2R5) | 4:28 |
 | 8 | [Kanavin Azhagi](https://open.spotify.com/track/7ij3EIOUwmt8cp6O8BktQ4) | [Satwik Aradhya](https://open.spotify.com/artist/7pe68lUGRTFDmAxisdfNaE), [Sathwik Padiyar](https://open.spotify.com/artist/1b9bFx1BDk5oFuhox0BMQX) | [Kanavin Azhagi](https://open.spotify.com/album/6pF6ByVbKZqppfsGfmQAEw) | 2:59 |
 | 9 | [Ninaivilae](https://open.spotify.com/track/76o6vlGSmfdHzTXGXyzJrs) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs) | [Ninaivilae](https://open.spotify.com/album/4MuHYgfhH6nizT0yezP0h3) | 2:05 |
-| 10 | [Oru Vaarthai](https://open.spotify.com/track/0SB9hAOh1pImTNIV8SorMF) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Oru Vaarthai](https://open.spotify.com/album/5ZodfDdVVowjXadSWnj5R1) | 3:12 |
+| 10 | [Oru Vaarthai](https://open.spotify.com/track/6X0drUsVUlOouNqBK3N2g0) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Oru Vaarthai](https://open.spotify.com/album/0tWRgKNc7EdUcGH4EZcFAO) | 3:12 |
 | 11 | [Neethan En Rani](https://open.spotify.com/track/7s4NKgq4iSeJKgdpU3jvDX) | [Gurinder Seagal](https://open.spotify.com/artist/0liUJ2xG9JRPSrYGZALfgX), [Aditya Iyengar](https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo) | [Neethan En Rani](https://open.spotify.com/album/3d7lSBg1sEen0tT236axZ0) | 2:58 |
 | 12 | [Cosmo Thambi](https://open.spotify.com/track/2AWotg9hZ0VU8xiwVl5tYW) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Ram Ramasamy](https://open.spotify.com/artist/3MZkQPKZr3O7dzm4QP8thH), [4AM](https://open.spotify.com/artist/5tFetUCC5jiDMwmytHVoy2) | [Cosmo Thambi](https://open.spotify.com/album/5q6ZKvPcqrywlljZXWSRH8) | 3:15 |
 | 13 | [Mila](https://open.spotify.com/track/0ZAot67HK95veTMRyfNftK) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [Mila](https://open.spotify.com/album/570npVAI6oge332efE1Zak) | 3:36 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 73 | [Isaiyai Nee](https://open.spotify.com/track/67nrUmAX18k5PLpmsBfald) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Nilukshan](https://open.spotify.com/artist/2hBjBVtnPvVJ8HycacP7EL) | [Isaiyai Nee](https://open.spotify.com/album/2w0FPic0Oag0MZeyS3zmBz) | 4:03 |
 | 74 | [Kaadhal Dhevathaiye](https://open.spotify.com/track/1J3fwSmN2BNVgptyBYdLpu) | [Ram SK](https://open.spotify.com/artist/6YqlCTnPB1qNu3PlPSnHnq), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Kaadhal Dhevathaiye](https://open.spotify.com/album/6B9CFmXUej7OEbOlzxvVku) | 3:17 |
 
-Snapshot ID: `MCxkNDE1MmYzNjcyMzQ5ZDIzODlkYTM2ZmFjOTNkYjViNTU2MDIyNWEy`
+Snapshot ID: `MCwwZWUwNzk2OGE4OWRlNTk4ZTcyMmE3Y2M0ZmRiNDA3NzAwZGY5NjY4`

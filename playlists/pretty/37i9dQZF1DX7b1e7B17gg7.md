@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 
 > Soft instrumental Blues for any activity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,863 likes - 82 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,902 likes - 82 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 | 81 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 |
 | 82 | [The Prowler](https://open.spotify.com/track/3kigvjr2fMr4E1pQXJ15zG) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Mississippi Moan](https://open.spotify.com/album/1wVpbsQQCr3RG3GdIqucwo) | 6:23 |
 
-Snapshot ID: `MCwzMmM1ZWQ1NzkwNTJlN2QzZjExNDQ5MTMxMDA5YzM1NTFiZTQ5NmUz`
+Snapshot ID: `MCxmODg1NWQ0ZmYzZWVlMTY1NDRhNDI0ODZiYTU2YzczOGI5MDM5N2U0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Choclair
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,551 likes - 78 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,560 likes - 78 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 77 | [Formation](https://open.spotify.com/track/1ohNGsQ3anAsAywqjFvUMA) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H) | [Ecology](https://open.spotify.com/album/7flLLFOfhJ2zGXiyPzCJnJ) | 4:02 |
 | 78 | [The Radio Edit](https://open.spotify.com/track/3LucZMivE3CYFWGFgdao1Q) | [Sugar Jones](https://open.spotify.com/artist/3PDXxxiHRyqwU2GLg6zJHT), [Justin Grey For Big Boom Entertainment](https://open.spotify.com/artist/05JfwFiagvihkfnK64VP9g) | [Days Like That](https://open.spotify.com/album/3MCI6hWXIU3ViGaITU6yz3) | 3:49 |
 
-Snapshot ID: `MCw1NDJkOWE4MWRhODg5ZmQwMGJlMzM1MDcxZWJmZTQ5ZDhhODY3MWIz`
+Snapshot ID: `MCw0YzNjYzAxYzY5MzA1Y2FkOTIwZmE4MzY0ZmVlNmMyMDg0ZmRlODc4`

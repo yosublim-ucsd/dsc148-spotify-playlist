@@ -1,12 +1,12 @@
 {
   "description": "Estamos listas para un festival \u00fanico \u2022 <a href=\"https://www.ticketek.com.ar/festival-equal/hipodromo-de-palermo\">Compr\u00e1 tu entrada ac\u00e1</a> \n#FestivalEQUAL \u2022 16 de septiembre \u2022 Hip\u00f3dromo de Palermo ",
-  "num_followers": 33971,
+  "num_followers": 34040,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjVmZmM2ZGFjZDk2Nzg3MDcxMGQzNjExYWJlNDYzNzIwMTBlZDA1",
+  "snapshot_id": "MCw0NzBkZDQ1ODA0MjVlODlmMjgyZDE1OGI5YzYzMjA2MDI4MzFiMzJl",
   "tracks": [
     {
       "added_at": "2023-08-18 16:15:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "El Buen Gualicho",
-        "url": "https://open.spotify.com/album/4uucwPifnf35dXKEQJm3kT"
-      },
-      "artists": [
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/0saIDjEHkPm4LgafFqsEo5"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 249217,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "El Buen Gualicho",
+        "url": "https://open.spotify.com/album/4uucwPifnf35dXKEQJm3kT"
+      },
+      "artists": [
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/0saIDjEHkPm4LgafFqsEo5"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "La Movidita",
+        "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
+      },
+      "artists": [
+        {
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "La G\u00fcera Salome",
+      "url": "https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Solita (Remix)",
         "url": "https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 230880,
       "name": "Solita - Remix",
       "url": "https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "La Movidita",
-        "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
-      },
-      "artists": [
-        {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "La G\u00fcera Salome",
-      "url": "https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "Lo Que Dicen De Mi",
-        "url": "https://open.spotify.com/album/5jt8WaEAUQAt2X8LmOZMF6"
-      },
-      "artists": [
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        }
-      ],
-      "duration_ms": 203100,
-      "name": "Lo Que Dicen De Mi",
-      "url": "https://open.spotify.com/track/1Jydy8O36gvY6yXnjql1XD"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Fin del Mundo",
         "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 319743,
       "name": "Fin del Mundo",
       "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "Lo Que Dicen De Mi",
+        "url": "https://open.spotify.com/album/5jt8WaEAUQAt2X8LmOZMF6"
+      },
+      "artists": [
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        }
+      ],
+      "duration_ms": 203100,
+      "name": "Lo Que Dicen De Mi",
+      "url": "https://open.spotify.com/track/1Jydy8O36gvY6yXnjql1XD"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "Raices de Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
-      },
-      "artists": [
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Yo no lloro m\u00e1s",
-      "url": "https://open.spotify.com/track/61p3ncr6aD14pvJjdmRBaG"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Tu Casa",
         "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 200213,
       "name": "Tu Casa",
       "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "Raices de Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
+      },
+      "artists": [
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Yo no lloro m\u00e1s",
+      "url": "https://open.spotify.com/track/61p3ncr6aD14pvJjdmRBaG"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
-        "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "Como La Cigarra",
-      "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Cardo o Ceniza",
         "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 183434,
       "name": "Reina",
       "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
+        "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "Como La Cigarra",
+      "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Confesion del Viento",
         "url": "https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 268538,
       "name": "Oraci\u00f3n Del Remanso",
       "url": "https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "Perlas y Diamantes",
+        "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
+      },
+      "artists": [
+        {
+          "name": "Viuda E Hijas De Roque Enroll",
+          "url": "https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "Estoy Tocando Fondo",
+      "url": "https://open.spotify.com/track/01sEco3yGjZm6mAAZzMlKm"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Una Copa",
         "url": "https://open.spotify.com/album/1fT8eNTmfMdwv08d60IknK"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 141428,
       "name": "Una Copa",
       "url": "https://open.spotify.com/track/1GSTIl2aoajD9UCQqW0SDX"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "Perlas y Diamantes",
-        "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
-      },
-      "artists": [
-        {
-          "name": "Viuda E Hijas De Roque Enroll",
-          "url": "https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "Estoy Tocando Fondo",
-      "url": "https://open.spotify.com/track/01sEco3yGjZm6mAAZzMlKm"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "Llorando en la Fiesta",
+        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 191278,
+      "name": "Rothmans",
+      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "UN N\u00daMERO",
-        "url": "https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI"
+        "name": "Lo Que Tenias Conmigo",
+        "url": "https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4"
       },
       "artists": [
         {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+          "name": "Vanesa Britos",
+          "url": "https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j"
         }
       ],
-      "duration_ms": 103656,
-      "name": "DNI",
-      "url": "https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW"
+      "duration_ms": 198542,
+      "name": "Lo Que Tenias Conmigo",
+      "url": "https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "Lo Que Tenias Conmigo",
-        "url": "https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4"
+        "name": "UN N\u00daMERO",
+        "url": "https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI"
       },
       "artists": [
         {
-          "name": "Vanesa Britos",
-          "url": "https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j"
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
         }
       ],
-      "duration_ms": 198542,
-      "name": "Lo Que Tenias Conmigo",
-      "url": "https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm"
+      "duration_ms": 103656,
+      "name": "DNI",
+      "url": "https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1671,22 +1687,6 @@
       "duration_ms": 256416,
       "name": "Gusto de Vos",
       "url": "https://open.spotify.com/track/0xNGtFaZtXnA3crnTZ78gj"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "Llorando en la Fiesta",
-        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
-      },
-      "artists": [
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 191278,
-      "name": "Rothmans",
-      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
     },
     {
       "added_at": "2023-08-18 16:15:00",

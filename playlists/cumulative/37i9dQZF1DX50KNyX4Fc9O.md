@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: RIIKI REID
 
-256 songs - 13 hr 6 min
+257 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-07-20 |  |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-06 | 2023-08-18 |
 | [does it get boring](https://open.spotify.com/track/50oiwP7U2m6xAPbeCgbmUf) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [does it get boring](https://open.spotify.com/album/2WCctmadIGnGxGjJcPN8d3) | 2:27 | 2023-07-06 |  |
-| [Don't Date The Teenager](https://open.spotify.com/track/0PL7DiR8DpXv0SJPrMByVJ) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Don't Date The Teenager](https://open.spotify.com/album/1tV741JpJDCobFVjoKHFXr) | 3:30 | 2023-08-04 |  |
+| [Don't Date The Teenager](https://open.spotify.com/track/0PL7DiR8DpXv0SJPrMByVJ) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Don't Date The Teenager](https://open.spotify.com/album/1tV741JpJDCobFVjoKHFXr) | 3:30 | 2023-08-04 | 2023-08-21 |
+| [Don't Date The Teenager](https://open.spotify.com/track/7INSBLHZ5egLrJzjBQuuMb) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/0JgrsEfBVs4xoD6O5YVaQR) | 3:30 | 2023-08-17 |  |
 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 | 2023-06-15 | 2023-07-21 |
 | [Don't Play Me](https://open.spotify.com/track/43pneUzp06Vntu7XcBaon6) | [Dylan Jett](https://open.spotify.com/artist/1lVI7cnpOOQbZ7drrB3S9W) | [Don't Play Me](https://open.spotify.com/album/4c4DIe9BqJLsM5xMUu6vHJ) | 2:04 | 2023-06-15 | 2023-07-21 |
 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 | 2023-06-15 | 2023-08-11 |

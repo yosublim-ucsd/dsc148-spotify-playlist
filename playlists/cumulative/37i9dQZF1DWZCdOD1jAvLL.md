@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Walker & Royce, Glass Petals & Elohim
 
-548 songs - 1 day 6 hr 17 min
+549 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-02-18 | 2022-03-05 |
 | [Annihilate](https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Annihilate](https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk) | 2:45 | 2022-09-23 | 2023-01-21 |
 | [As Long As We Got House](https://open.spotify.com/track/1haSCrD5ejKJHEYH1gP6OW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [As Long As We Got House](https://open.spotify.com/album/5i2am7GXU3ROJFU8nOPnUz) | 2:53 | 2022-11-11 | 2023-02-25 |
+| [Ascending Into The Clouds \(feat\. Elisabeth Troy\) \- Edit](https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Ascending Into The Clouds \(feat\. Elisabeth Troy\) \[Edit\]](https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K) | 3:28 | 2023-08-18 |  |
 | [Atmosphere](https://open.spotify.com/track/0QLZLD0iTgwQSQFdWQybqF) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [BASTL](https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Madeleine Daye](https://open.spotify.com/artist/664JRDNrKUkhpMSQBykiXD) | [Atmosphere](https://open.spotify.com/album/06UyNlR1RcVBzt21VuYVCf) | 2:35 | 2022-07-15 | 2022-08-06 |
 | [Aurora](https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [ÆON:TWO](https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w) | 3:18 | 2022-08-05 | 2022-11-19 |
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-04-15 | 2022-08-06 |
@@ -462,7 +463,7 @@
 | [Step To](https://open.spotify.com/track/0HsQvGaux6t1XMptT4XrhU) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Step To](https://open.spotify.com/album/2K3748HtawpGZUmelDKNhx) | 3:42 | 2022-10-07 | 2023-02-11 |
 | [Stimulate](https://open.spotify.com/track/6GKyjW8BA1BUMX1BwUyabt) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Stimulate](https://open.spotify.com/album/1le5zXq9nLfSCTVm8LPtnc) | 3:02 | 2022-01-14 | 2022-06-11 |
 | [Stop Time](https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Stop Time](https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4) | 3:13 | 2023-08-04 |  |
-| [Stranger Things Theme \(Felix Cartal's After Dark Remix\)](https://open.spotify.com/track/2nB2qlEjAaVtLxNcIUvfWj) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Stranger Things Theme \(Felix Cartal's After Dark Remix\)](https://open.spotify.com/album/37bxAsxhH15sKeIvRVfjYk) | 2:53 | 2022-08-12 |  |
+| [Stranger Things Theme \(Felix Cartal's After Dark Remix\)](https://open.spotify.com/track/2nB2qlEjAaVtLxNcIUvfWj) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Stranger Things Theme \(Felix Cartal's After Dark Remix\)](https://open.spotify.com/album/37bxAsxhH15sKeIvRVfjYk) | 2:53 | 2022-08-12 | 2023-08-21 |
 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 | 2022-07-15 | 2022-12-03 |
 | [Submit](https://open.spotify.com/track/6J66tZw5bpW7V3xBbpZsCo) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Submit](https://open.spotify.com/album/2R86HHKKU9H1jUG1AnMAzQ) | 3:10 | 2022-01-14 | 2022-04-02 |
 | [Suffer In Silence](https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Suffer In Silence](https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc) | 3:14 | 2023-03-10 | 2023-05-20 |

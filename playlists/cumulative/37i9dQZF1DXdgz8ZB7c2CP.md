@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Louis The Child
 
-507 songs - 1 day 4 hr 9 min
+508 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Overthinker](https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/04jog2osd7pTEQc49jEIem) | 4:28 | 2021-08-06 | 2022-08-27 |
 | [Overthinker](https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/1eCYiLDLT6ZLzCeThN90UF) | 4:28 | 2021-08-06 |  |
 | [overwhelmed \- Ookay remix](https://open.spotify.com/track/64zyMkiyBPSyCUgLl4AIXB) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [overwhelmed \(the remixes\)](https://open.spotify.com/album/3tILcUFrdvba7jYG46EeOQ) | 3:01 | 2021-08-06 | 2022-12-22 |
-| [Oxygen](https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Arpeggio EP](https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu) | 3:43 | 2023-06-30 |  |
+| [Oxygen](https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Arpeggio EP](https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu) | 3:43 | 2023-06-30 | 2023-08-21 |
 | [Pale Blue Dot](https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 2:56 | 2021-08-06 |  |
 | [Paradise](https://open.spotify.com/track/20F3bL1ZP2n0umEGsIcyGE) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy), [Wonderland](https://open.spotify.com/artist/4TXpS1ODZBsaRdS4eeunfC) | [Paradise](https://open.spotify.com/album/3TaDmHFuoElKXGw8JC6LL7) | 3:09 | 2023-05-12 | 2023-05-27 |
 | [Petrichor](https://open.spotify.com/track/5e2QHek93FrcaKfH9znqZE) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f) | [Temp](https://open.spotify.com/album/3bN8zyo2OS44ePXdNaGv2T) | 3:31 | 2021-08-06 | 2022-07-24 |
@@ -487,6 +487,7 @@
 | [wasted](https://open.spotify.com/track/7s7K9Z5YkIMGj1i8lDbucR) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [wasted](https://open.spotify.com/album/5RuB9orsITFfXqrbidC3SZ) | 3:26 | 2023-05-12 | 2023-05-21 |
 | [waves](https://open.spotify.com/track/2Prh6y8sogVP04PjwPI0To) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [waves](https://open.spotify.com/album/7ko2pVfTdGboSqs5EtktDS) | 3:18 | 2021-10-29 | 2022-07-26 |
 | [Waves](https://open.spotify.com/track/7DjdQgWuOECvAc1d7MRh8O) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH) | [Waves](https://open.spotify.com/album/4T3NGJe2sLSEoV9DiU5iOM) | 3:03 | 2022-05-13 | 2023-05-13 |
+| [Wavy](https://open.spotify.com/track/1g2q4DStDT1N6LRRUX0o6e) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Wavy](https://open.spotify.com/album/07jas6TsfQ7q9eiB4GtxqI) | 3:14 | 2023-08-17 |  |
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-03 | 2023-05-13 |
 | [We're Fine](https://open.spotify.com/track/7bxeNP77YS2eeamGdzmLiA) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [We're Fine](https://open.spotify.com/album/3shsnHsWg2aeVluxVeKR7O) | 3:21 | 2023-05-12 | 2023-05-20 |
 | [What About Me?](https://open.spotify.com/track/7kFGfIujyDIFGzJOGMqIrA) | [HOMALS](https://open.spotify.com/artist/7puTH2JaAsyNBhdGHbiRid), [Tim Moyo](https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1) | [What About Me?](https://open.spotify.com/album/3PAuqDEKdychyZALYNf2Y1) | 3:33 | 2021-08-06 | 2022-07-22 |

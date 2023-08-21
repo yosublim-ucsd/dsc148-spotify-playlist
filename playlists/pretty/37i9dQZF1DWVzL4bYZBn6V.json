@@ -1,12 +1,12 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 82492,
+  "num_followers": 82531,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzlmYTNhOGE3NjhkMmNjYmM1ZjA4ZjljNTNkNWIwMzNiNzUzY2Y0",
+  "snapshot_id": "MCxhZmFlN2NkNzA4MDBiZjlhZDdlMzczYzQ2MzUzYWY2ZDQ4ZWE1ZTBh",
   "tracks": [
     {
       "added_at": "2021-04-23 23:14:33",
@@ -919,22 +919,18 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1"
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR"
       },
       "artists": [
         {
-          "name": "Madhouse",
-          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
-        },
-        {
-          "name": "Angel Vergara",
-          "url": "https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x"
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
         }
       ],
-      "duration_ms": 201691,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn"
+      "duration_ms": 160586,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6"
     },
     {
       "added_at": "2021-04-23 23:14:33",
@@ -955,18 +951,22 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1"
       },
       "artists": [
         {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+          "name": "Madhouse",
+          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
+        },
+        {
+          "name": "Angel Vergara",
+          "url": "https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x"
         }
       ],
-      "duration_ms": 160586,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6"
+      "duration_ms": 201691,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn"
     },
     {
       "added_at": "2021-04-23 23:14:33",

@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 139672,
       "name": "Bobo - Remix",
       "url": "https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep"
@@ -2984,6 +2984,28 @@
       "duration_ms": 156295,
       "name": "Caras Vemos",
       "url": "https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6yExO2h8KWW07843q1PV15"
+      },
+      "artists": [
+        {
+          "name": "Dariel J",
+          "url": "https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234057,
+      "name": "Cari\u00f1o Mio",
+      "url": "https://open.spotify.com/track/5YdUCL82yFqJjrUxwpgZun"
     },
     {
       "album": {
@@ -3820,6 +3842,24 @@
       "duration_ms": 156733,
       "name": "CUENTA",
       "url": "https://open.spotify.com/track/2J19dDdM6nmKDbN4AVJ1R4"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6yExO2h8KWW07843q1PV15"
+      },
+      "artists": [
+        {
+          "name": "Dariel J",
+          "url": "https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "Cuerpo Natural",
+      "url": "https://open.spotify.com/track/4EvvYJIu3l45MCUHDvZf7Q"
     },
     {
       "album": {
@@ -6600,7 +6640,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 108091,
       "name": "FLOW DE 30",
       "url": "https://open.spotify.com/track/1cdGWu3rIv4RMyKTQAY88k"
@@ -10403,6 +10443,28 @@
     },
     {
       "album": {
+        "name": "Loca Te Pones",
+        "url": "https://open.spotify.com/album/7yUZKAT93YIAmzwdS2s8kf"
+      },
+      "artists": [
+        {
+          "name": "El Potro Alvarez",
+          "url": "https://open.spotify.com/artist/6P4uOSrdyHqsyLDVcBYUry"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193825,
+      "name": "Loca Te Pones",
+      "url": "https://open.spotify.com/track/2Fbx8duDBkU9vjTtzOajuo"
+    },
+    {
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -12446,7 +12508,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 159272,
       "name": "Mucha Playa",
       "url": "https://open.spotify.com/track/71lg0Qf6i3Qme2OAsGAslT"
@@ -13414,7 +13476,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
@@ -19872,7 +19934,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 123141,
       "name": "Ubicacion y Foto",
       "url": "https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a"

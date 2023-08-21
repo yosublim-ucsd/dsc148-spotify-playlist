@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Quavo, Polo G and Lil Durk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,562,508 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,566,127 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [From The Hood](https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 3:24 |
 | 50 | [Trip McKnight](https://open.spotify.com/track/44lme9otJbQhWX4QsvPkXa) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:37 |
 
-Snapshot ID: `MCw0Mzc5YjRlYzAxNDQzMzFiYjZiYjE0YThlZDY4NzM0MTkzNzFmYTJi`
+Snapshot ID: `MCxlYzgwYjgzZmMyODcxNzNhYjhkYjU5NDVmODJlNzBlMTAzYmFiN2Zi`

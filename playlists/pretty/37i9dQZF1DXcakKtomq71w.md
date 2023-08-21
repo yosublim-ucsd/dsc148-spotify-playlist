@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,790 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,829 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Take It Back](https://open.spotify.com/track/4SMzmquqMX6TEF6KIYWrBC) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Take It Back](https://open.spotify.com/album/361cpEjJRfINouKxchrnOj) | 4:04 |
 | 50 | [A Gozar \- Luis Radio Remix](https://open.spotify.com/track/5TDhlxtu8HvxZoxOLgfiEd) | [Waldo Fabian](https://open.spotify.com/artist/3YvzIWFECmkin8ZuAyd29T), [Luis Radio](https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS) | [A Gozar \(Luis Radio Remix\)](https://open.spotify.com/album/1TXa1GcyKtF326DsQq1Eed) | 7:10 |
 
-Snapshot ID: `MCw1ODEzMTViOTk4ZjMyZmIyMTI2NDNmNDY0MzA3ODExMDU5NGI2Zjgz`
+Snapshot ID: `MCw5MTU2NjZjMGExZWM5YWUyMTM4NTQ2MDA0YmQ0YzdjOTU1MDlhNWFh`

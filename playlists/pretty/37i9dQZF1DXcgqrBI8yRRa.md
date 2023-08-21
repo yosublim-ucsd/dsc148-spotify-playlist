@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Girls just wanna have funds
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,927 likes - 45 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,939 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 44 | [Plenty \(Too Trendy\)](https://open.spotify.com/track/2FjZhlWpuCAnAnTJOfxulV) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Plenty \(Too Trendy\)](https://open.spotify.com/album/6XSJg5zvbDjPydgMetheYE) | 2:47 |
 | 45 | [Business](https://open.spotify.com/track/7eQvy46qkWjEYrlJnlns0D) | [Liza Monet](https://open.spotify.com/artist/2pm7A6x2MssiqbvAox6zXX), [Bilzo](https://open.spotify.com/artist/4uInwINPrpm4RoIL6iyYVy) | [Mother](https://open.spotify.com/album/1LNWHMAB5ouDyaU8sPm0Sv) | 2:54 |
 
-Snapshot ID: `MCwyZjI1MzY1ODkyYjg5OTE3MGQ2OTZhYWQxNzZkOWM0MDBiMDc1M2Jh`
+Snapshot ID: `MCw4N2YyNDNiNjkwMzI4NzViZmFhY2JmZjIzNWE1ODNiZTQ3MWExMjIz`

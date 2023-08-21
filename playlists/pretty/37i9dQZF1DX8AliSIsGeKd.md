@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Teenage Mutants
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,797 likes - 90 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,937 likes - 90 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Everyday \(Far From\)](https://open.spotify.com/track/6EI7rWSTNICgjFB6qxqy4T) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [Guiding Hand](https://open.spotify.com/album/4lsMOOhoxlPuuL7myVFyEy) | 3:21 |
 | 90 | [Romancer & Dancer](https://open.spotify.com/track/0ulTXzGFN6QP87TMwA14aa) | [Sven Tasnadi](https://open.spotify.com/artist/5s05VygMShUXGXitSYkeyo) | [Romancer & Dancer](https://open.spotify.com/album/0Yj0F9DIZvb6bwEDzjfPsY) | 6:48 |
 
-Snapshot ID: `MCwyZGVmNmIwOTFkYTY3ZmE3Yjk5YzAxMTg2NmViZjMwMTZlZDYwMTY0`
+Snapshot ID: `MCw0NTE5OTA4NTM0ZjNiOGFmNmMzZWRhMmM5ZWIyZTk4NTNjZTQzMmNm`

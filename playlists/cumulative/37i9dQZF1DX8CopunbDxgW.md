@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Jungle
 
-883 songs - 2 day 9 hr 35 min
+884 songs - 2 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,7 +683,7 @@
 | [Shapeless](https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW) | 4:34 | 2022-05-20 | 2022-07-16 |
 | [Shotgun \- Magdalena Bay Remix](https://open.spotify.com/track/5m4EJmInvHQJ1wvPx2Qs36) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Shotgun \(Magdalena Bay Remix\)](https://open.spotify.com/album/1ADuxT0WV9GAkcEdtNJxCB) | 3:59 | 2022-08-19 | 2022-09-10 |
 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 | 2023-03-17 | 2023-08-15 |
-| [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 | 2023-07-28 |  |
+| [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 | 2023-07-28 | 2023-08-21 |
 | [Sidney's Lullaby](https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Sidney's Lullaby](https://open.spotify.com/album/506gZaqv5DXu8OjrhYui9e) | 3:19 | 2021-08-13 | 2022-06-11 |
 | [Siento Mi Destino](https://open.spotify.com/track/3pSfCBzoBZzQJVQUl3U06s) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Original Classic](https://open.spotify.com/album/2KBN5wIYIuy8SlrxNiZWq1) | 3:48 | 2021-11-12 | 2022-06-08 |
 | [Silver Balloons](https://open.spotify.com/track/2VJxc7BPipUUdg33cFtVjE) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Silver Balloons](https://open.spotify.com/album/1aMm9iVEdoIlfOtHPtzr48) | 4:25 | 2021-09-24 | 2022-04-15 |
@@ -777,6 +777,7 @@
 | [The Road to Love](https://open.spotify.com/track/2umORTX6Xf9Gqhf3kuGLD0) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [The Road to Love](https://open.spotify.com/album/22rslaxtTJQgVG1KhJAoLW) | 4:10 | 2021-05-21 | 2022-07-29 |
 | [The Sun \(feat\. JAWNY\)](https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Sun](https://open.spotify.com/album/4k1tw6qkLHgJijNDFl09Q0) | 2:39 | 2022-02-11 | 2022-07-29 |
 | [The Trouble with Us](https://open.spotify.com/track/47OJzoslrchHSbjAeR4Srv) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2MrsSz89mk5XCcRF3gccLG) | 3:43 | 2022-04-29 | 2022-07-20 |
+| [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 | 2023-08-18 |  |
 | [The Way You Make Me Feel](https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [The Way You Make Me Feel](https://open.spotify.com/album/3YzSZa0NOzbojLGnhKohbk) | 3:24 | 2021-10-15 | 2022-12-10 |
 | [The Witching Hour](https://open.spotify.com/track/0wCAUFC6yyUh5Eax8uTLwk) | [Psychic Mirrors](https://open.spotify.com/artist/7wTTRevwI9A3odMw7MWnmh) | [I Come for Your Love](https://open.spotify.com/album/1Puz3OhgsjrTtILUCoIZYt) | 4:26 | 2022-01-28 | 2022-04-14 |
 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 | 2022-06-03 | 2022-07-29 |

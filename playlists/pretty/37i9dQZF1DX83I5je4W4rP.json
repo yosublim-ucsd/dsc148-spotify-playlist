@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1062456,
+  "num_followers": 1062619,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTFlYjYzOGMxMTdkMDYyZTg2Y2JlY2MwZTE1OTM5MGZhODlkNDI1",
+  "snapshot_id": "MCwzYmVlMmM1YTQ5MWQyNGM3N2IyZDUxNjc4MGRlODY1MTg3NGZlNjg4",
   "tracks": [
     {
       "added_at": "2023-07-28 15:11:46",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Tribal Seeds",
-        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
-      },
-      "artists": [
-        {
-          "name": "Tribal Seeds",
-          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "Dawn of Time",
-      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Chapter Of The Forest",
         "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 274632,
       "name": "Green Mountain State",
       "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Tribal Seeds",
+        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
+      },
+      "artists": [
+        {
+          "name": "Tribal Seeds",
+          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "Dawn of Time",
+      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "The Clarence Greenwood Recordings",
-        "url": "https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr"
-      },
-      "artists": [
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Bullet and a Target",
-      "url": "https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Sweet and Dandy",
         "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 177440,
       "name": "Pressure Drop",
       "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "The Clarence Greenwood Recordings",
+        "url": "https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr"
+      },
+      "artists": [
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Bullet and a Target",
+      "url": "https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Say What You're Thinking",
-        "url": "https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt"
-      },
-      "artists": [
-        {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Edge of the Ocean",
         "url": "https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 295867,
       "name": "Edge of the Ocean",
       "url": "https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Say What You're Thinking",
+        "url": "https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Open The Door",
-        "url": "https://open.spotify.com/album/4hyuyhzLfqaEYOwwJ09Odb"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
       },
       "artists": [
         {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+          "name": "Adam Friedman",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
         },
         {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
         }
       ],
-      "duration_ms": 192492,
-      "name": "Open The Door",
-      "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
+      "duration_ms": 171764,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1539,22 +1539,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
+        "name": "Open The Door",
+        "url": "https://open.spotify.com/album/4hyuyhzLfqaEYOwwJ09Odb"
       },
       "artists": [
         {
-          "name": "Adam Friedman",
-          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         },
         {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
+      "duration_ms": 192492,
+      "name": "Open The Door",
+      "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1571,26 +1571,6 @@
       "duration_ms": 166400,
       "name": "Bad Seeds",
       "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Put Down What You Are Carrying (with Brett Dennen)",
-        "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 268006,
-      "name": "Put Down What You Are Carrying (with Brett Dennen)",
-      "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1615,6 +1595,26 @@
       "duration_ms": 188304,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/2zwmQwHIlwDBbzMkdrG8rw"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Put Down What You Are Carrying (with Brett Dennen)",
+        "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 268006,
+      "name": "Put Down What You Are Carrying (with Brett Dennen)",
+      "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+        "name": "Every Road I'm On",
+        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
       },
       "artists": [
         {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
         }
       ],
-      "duration_ms": 186845,
-      "name": "Love Her Anyways",
-      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+      "duration_ms": 229381,
+      "name": "Every Road I'm On",
+      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Every Road I'm On",
-        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
       },
       "artists": [
         {
-          "name": "Cas Haley",
-          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
         }
       ],
-      "duration_ms": 229381,
-      "name": "Every Road I'm On",
-      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
+      "duration_ms": 186845,
+      "name": "Love Her Anyways",
+      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -2211,22 +2211,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Drunk Texter (with HIRIE)",
-        "url": "https://open.spotify.com/album/45zHAO1NXFOL5TT0OnlRYq"
+        "name": "Pleasure Point",
+        "url": "https://open.spotify.com/album/4z39wv4tx29BalyKnsy54i"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        },
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+          "name": "The Expendables",
+          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Drunk Texter (with HIRIE)",
-      "url": "https://open.spotify.com/track/1ERbq9x1ozTWRIxWqnesaB"
+      "duration_ms": 232533,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/588pbWob0xei2cCO4GyIT9"
     }
   ],
   "unique_name": "Beach Vibes",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 7085,
+  "num_followers": 7101,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTk4NGMwMjdiOWYzYzY1ZGZhYmU1YjE2NWU0N2Y2OGJkMzgyNjJh",
+  "snapshot_id": "MCw5MDZiNGY5YTJkMGQ3ZTg5NmU0MmY5MjA3NWM0NGI0ZGNiNGQ1ZTkw",
   "tracks": [
     {
       "added_at": "2023-08-10 19:16:14",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
+        "name": "Calz\u00f3n",
+        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 231828,
+      "name": "Calz\u00f3n",
+      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
         "name": "Ma Vie",
         "url": "https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
-        "name": "Calz\u00f3n",
-        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
+        "name": "Emocional",
+        "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
       },
       "artists": [
         {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
         }
       ],
-      "duration_ms": 231828,
-      "name": "Calz\u00f3n",
-      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
+      "duration_ms": 189333,
+      "name": "Emocional",
+      "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
     },
     {
       "added_at": "2023-08-10 19:16:14",
@@ -1163,22 +1179,6 @@
       "duration_ms": 171537,
       "name": "Un Trambo (feat. De La Ghetto)",
       "url": "https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
-        "name": "Emocional",
-        "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Emocional",
-      "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
     },
     {
       "added_at": "2023-08-10 19:16:14",

@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 327973,
+  "num_followers": 328011,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjcxYjZlYjc0MzRkNjZjOTU4NDgzOWY4NGJkNTQ1ZjcyODdmMzhl",
+  "snapshot_id": "MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Monomania",
-        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "Eu Me Lembro",
-      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "N\u00e3o sou obrigada",
         "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 148340,
       "name": "N\u00e3o sou obrigada",
       "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Monomania",
+        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 217756,
+      "name": "Eu Me Lembro",
+      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Angela Roro",
+        "url": "https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd"
+      },
+      "artists": [
+        {
+          "name": "Angela Ro Ro",
+          "url": "https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Amor Meu Grande Amor",
+      "url": "https://open.spotify.com/track/5eEfFfQq3ruywWA5uw7nhj"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "N\u00f3s VOZ Eles",
         "url": "https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Angela Roro",
-        "url": "https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd"
-      },
-      "artists": [
-        {
-          "name": "Angela Ro Ro",
-          "url": "https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Amor Meu Grande Amor",
-      "url": "https://open.spotify.com/track/5eEfFfQq3ruywWA5uw7nhj"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Te Fa\u00e7o um Cafun\u00e9",
-        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 227604,
-      "name": "Te Fa\u00e7o um Cafun\u00e9",
-      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/55KHEIHNfQMBfuJ0JSpd5W"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 155851,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/2izzg0ootMWve10LHVhFcx"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Te Fa\u00e7o um Cafun\u00e9",
+        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        }
+      ],
+      "duration_ms": 227604,
+      "name": "Te Fa\u00e7o um Cafun\u00e9",
+      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        }
+      ],
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Poesia Ac\u00fastica Ep. Acabou",
         "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
-      },
-      "artists": [
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Falei de voc\u00ea pra minha m\u00e3e",
-        "url": "https://open.spotify.com/album/1n9846xOm1ExjM92ZL4RL8"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 162929,
-      "name": "Falei de voc\u00ea pra minha m\u00e3e",
-      "url": "https://open.spotify.com/track/33b5dsChMBIwsSwMqYm0wZ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sol e Mar, Vol. 2",
         "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Falei de voc\u00ea pra minha m\u00e3e",
+        "url": "https://open.spotify.com/album/1n9846xOm1ExjM92ZL4RL8"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 162929,
+      "name": "Falei de voc\u00ea pra minha m\u00e3e",
+      "url": "https://open.spotify.com/track/33b5dsChMBIwsSwMqYm0wZ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Eu",
-        "url": "https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 301871,
-      "name": "Eu",
-      "url": "https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Maxximum - Faf\u00e1 de Bel\u00e9m",
         "url": "https://open.spotify.com/album/6PiK8fXCZVguMpR8DN0dAr"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 250226,
       "name": "Nuvem de L\u00e1grimas",
       "url": "https://open.spotify.com/track/5VRNQc6Z0YNemIvOrD1h2e"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Eu",
+        "url": "https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 301871,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "De Cabe\u00e7a Pra Baixo",
-        "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Cafe\u00edna",
-      "url": "https://open.spotify.com/track/1c8PttPwJZCbgV1P9V5IOB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sorriso Aberto",
         "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 276426,
       "name": "Sorriso Aberto",
       "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "De Cabe\u00e7a Pra Baixo",
+        "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Cafe\u00edna",
+      "url": "https://open.spotify.com/track/1c8PttPwJZCbgV1P9V5IOB"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Letrux em Noite de Clim\u00e3o",
-        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
-      },
-      "artists": [
-        {
-          "name": "Letrux",
-          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
-        }
-      ],
-      "duration_ms": 321647,
-      "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
-      "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Boladona",
         "url": "https://open.spotify.com/album/7KO4hTUN3Jeo5LE6W2ZRbo"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 126520,
       "name": "Boladona",
       "url": "https://open.spotify.com/track/5ylZRbTn28rfKILSrBRKM2"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Letrux em Noite de Clim\u00e3o",
+        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
+      },
+      "artists": [
+        {
+          "name": "Letrux",
+          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
+        }
+      ],
+      "duration_ms": 321647,
+      "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
+      "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 206192,
-      "name": "Preta de Quebrada",
-      "url": "https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Baldin de Gelo",
         "url": "https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 167341,
       "name": "Baldin de Gelo",
       "url": "https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 206192,
+      "name": "Preta de Quebrada",
+      "url": "https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Iai\u00e1",
+        "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 329680,
+      "name": "Menina, Amanh\u00e3 de Manh\u00e3",
+      "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Quer Ir no Meu Show ?",
         "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 280946,
       "name": "Quer Ir no Meu Show ?",
       "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Iai\u00e1",
-        "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 329680,
-      "name": "Menina, Amanh\u00e3 de Manh\u00e3",
-      "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Hitz\u00e3o da Porra",
-        "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
+        "name": "Vinte Palavras ao Redor do Sol",
+        "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
       },
       "artists": [
         {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+          "name": "C\u00e1tia de Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM"
         }
       ],
-      "duration_ms": 132224,
-      "name": "Hitz\u00e3o da Porra",
-      "url": "https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O"
+      "duration_ms": 183933,
+      "name": "Quem Vai Quem Vem",
+      "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
     }
   ],
   "unique_name": "Escuta as Minas",

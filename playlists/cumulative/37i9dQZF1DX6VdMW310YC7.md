@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,508 songs - 4 day 7 hr 56 min
+1,509 songs - 4 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,7 +581,7 @@
 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 | 2021-06-05 | 2021-11-13 |
 | [High On Life](https://open.spotify.com/track/7sPTC8zYAKiKAHUkJtq9YC) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [High On Life](https://open.spotify.com/album/1OfW4pkj3JPFUFbe2cH6Du) | 3:52 | 2020-05-22 | 2020-07-03 |
 | [High On You](https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [High On You](https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt) | 3:06 | 2023-02-17 |  |
-| [High Tide](https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [High Tide](https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO) | 3:17 | 2021-10-22 |  |
+| [High Tide](https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [High Tide](https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO) | 3:17 | 2021-10-22 | 2023-08-21 |
 | [Higher Than Nirvana](https://open.spotify.com/track/06IzQHbqze5gZNkpZdndg9) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Higher Than Nirvana](https://open.spotify.com/album/7wjc6spzbsEeF5VRQKuB25) | 3:19 | 2022-12-16 | 2022-12-29 |
 | [Hildegard](https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Hildegard](https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG) | 4:41 | 2022-01-21 | 2022-02-12 |
 | [Himalaya](https://open.spotify.com/track/310yA0OSNvWriki14qBLeY) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [V EP](https://open.spotify.com/album/4OYAw3CG6IbsnMPrc1Cxh7) | 4:23 | 2020-05-18 | 2020-07-03 |
@@ -1061,6 +1061,7 @@
 | [Purple Sands](https://open.spotify.com/track/3b5guLQVB4k9VZaXW0OAIJ) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Purple Sands](https://open.spotify.com/album/3kCU2EuoADRSWdBflZ9xA7) | 3:11 | 2021-02-19 | 2021-03-10 |
 | [Queen of Ice \- Nora En Pure Club Mix](https://open.spotify.com/track/5VyVQuqtPkKZt1jaXKuQkR) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Queen of Ice \(Nora En Pure Remix\)](https://open.spotify.com/album/6o5REIm1HCnvCQXG8gqC6P) | 4:15 | 2022-12-28 | 2023-01-06 |
 | [Rabiosa](https://open.spotify.com/track/4wETfzGfYptjrNjf31CA06) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Rabiosa](https://open.spotify.com/album/7hre64g0IxybZvKQx22qbP) | 4:11 | 2022-12-28 | 2023-01-06 |
+| [Rain](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Rain](https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin) | 2:32 | 2023-08-18 |  |
 | [Rain](https://open.spotify.com/track/3RPrtaRukLoAulq4dpI1nA) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Rain](https://open.spotify.com/album/284B6dcL3EcXn2PxZ3PD7h) | 3:42 | 2021-01-23 | 2022-10-21 |
 | [Rainbows](https://open.spotify.com/track/4uslfBXTQDaR7xouvpUddz) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Anjunadeep 08](https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy) | 4:47 | 2020-05-22 | 2020-07-03 |
 | [Rainwater](https://open.spotify.com/track/21czP5QqCN1DMCvQiGY1zb) | [Past Palms](https://open.spotify.com/artist/4wzqfemtgKDNKhFjsKANf8) | [Rainwater](https://open.spotify.com/album/05LkRjsJQVdNcUMGh4fYlh) | 5:29 | 2020-05-20 | 2022-04-21 |

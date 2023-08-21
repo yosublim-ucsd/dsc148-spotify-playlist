@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Jude York\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,202 likes - 110 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,218 likes - 110 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cashew](https://open.spotify.com/track/3KFwWrpeAxNFnu7ruKfZr8) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cashew](https://open.spotify.com/album/3CjgMd04vnLRPL9vsJQPGe) | 3:03 |
 | 2 | [Take What You Want](https://open.spotify.com/track/14XKQyTnBQByTqvslOrEUK) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/6azobsqeeFtpjuUKyPSJ3o) | 4:05 |
 | 3 | [Eternal Crush](https://open.spotify.com/track/0ZLCrlcKHqNrH9j3WExZah) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Eternal Crush](https://open.spotify.com/album/4mO9RnjErfClHcqvpCxyp3) | 2:42 |
-| 4 | [Brown Eyes](https://open.spotify.com/track/0ylj5hykySOxR5SDvxITjd) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [BROWN EYES](https://open.spotify.com/album/3SiWlORpHZtvnvcu1H9OVr) | 2:52 |
+| 4 | [Brown Eyes \(She Doesn't Know\)](https://open.spotify.com/track/0ylj5hykySOxR5SDvxITjd) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [Brown Eyes \(She Doesn't Know\)](https://open.spotify.com/album/3SiWlORpHZtvnvcu1H9OVr) | 2:52 |
 | 5 | [Candy Apple](https://open.spotify.com/track/20uwCFdYyUHOhKZ3xGhrQh) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [Candy Apple](https://open.spotify.com/album/1oNoQWHRmr3ADNwAGO9dB6) | 3:46 |
 | 6 | [2 WORDS](https://open.spotify.com/track/3GBddo9n1BBdKgozcbOw7e) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [2 WORDS](https://open.spotify.com/album/3pboZmbk1RjjSeyCDo1yUO) | 2:03 |
 | 7 | [Just Be](https://open.spotify.com/track/7wGaAgai6kCXdcELtEbejw) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH), [Ariel Fantasy](https://open.spotify.com/artist/5Gfr4LXUTNfIudxmr29YlS) | [Just Be](https://open.spotify.com/album/18mFDhMrhELKIqS1heZEsx) | 3:50 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 109 | [recess](https://open.spotify.com/track/5RdJl8Qq03xSmM3Nj7EJAh) | [TOMMYY](https://open.spotify.com/artist/7nHQLYdRclNayYCjwT40WW) | [recess](https://open.spotify.com/album/5VQ4KGmt8s8uqUeLsR2EKn) | 2:35 |
 | 110 | [Equalise](https://open.spotify.com/track/0yNRJehBNI9WMnfgzRCAHZ) | [TŪRNR](https://open.spotify.com/artist/5w8pUtzfP4vtDMAKGWx5jd) | [Equalise](https://open.spotify.com/album/3hvzG89Y75xmlfGK5Q6ySv) | 3:02 |
 
-Snapshot ID: `MCxhYWFlYzgwYTY2MjQzZTQ1YzMyMDNmNzllZTIwZGY4OGEwZmNkZWJk`
+Snapshot ID: `MCw2NGJlZGRkMzAxOTliZDM0YWFlMDA0MDFkNzMzYjljMTgxZWE2NTQ0`

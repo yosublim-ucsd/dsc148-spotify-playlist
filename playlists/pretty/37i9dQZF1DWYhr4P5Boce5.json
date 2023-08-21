@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 198180,
+  "num_followers": 198243,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWEzMzFhOWY4NDdkYjc4Nzg2Yjk1OGI3ODZjZGI3ZDUxMWY3Zjgw",
+  "snapshot_id": "MCwzN2IxZGUwOTE3NDM0Y2Y3MTM5NGNhMzA2YTRkMzZhNTAwYmMxYWVl",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -475,18 +475,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Let It Fly",
-        "url": "https://open.spotify.com/album/0HxQEWPXmbBGyffEIlp5k9"
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
       "artists": [
         {
-          "name": "Jonny Diaz",
-          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 195160,
-      "name": "Thank God I Got Her",
-      "url": "https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4"
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -531,38 +535,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "A Little Crazy",
-        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+        "name": "Let It Fly",
+        "url": "https://open.spotify.com/album/0HxQEWPXmbBGyffEIlp5k9"
       },
       "artists": [
         {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Love Will Have the Final Word",
-        "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "With Every Act of Love",
-      "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
+      "duration_ms": 195160,
+      "name": "Thank God I Got Her",
+      "url": "https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -579,6 +563,22 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Love Will Have the Final Word",
+        "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "With Every Act of Love",
+      "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 158023,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 251640,
       "name": "Don't Deserve You",
       "url": "https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 177658,
+      "name": "What A Mystery",
+      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 179271,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 177658,
-      "name": "What A Mystery",
-      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Dear Future Wife (Acoustic)",
-        "url": "https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 168069,
-      "name": "Dear Future Wife - Acoustic",
-      "url": "https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "'90s Kids",
         "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 206987,
       "name": "Letters",
       "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Dear Future Wife (Acoustic)",
+        "url": "https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 168069,
+      "name": "Dear Future Wife - Acoustic",
+      "url": "https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "How Much You Mean To Me",
+        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 218129,
+      "name": "How Much You Mean To Me",
+      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "BUSY",
         "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 127058,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "How Much You Mean To Me",
-        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 218129,
-      "name": "How Much You Mean To Me",
-      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
     },
     {
       "added_at": "2023-01-31 10:01:12",

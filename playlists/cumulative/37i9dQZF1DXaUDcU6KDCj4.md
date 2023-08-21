@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Gregory Alan Isakov
 
-1,412 songs - 3 day 14 hr 33 min
+1,414 songs - 3 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,7 +763,8 @@
 | [Meet Me in the Garden](https://open.spotify.com/track/65AErQvwHgQK3lm6dWdwJx) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Meet Me in the Garden](https://open.spotify.com/album/2aZPFZL1eFK05olhVnhcvB) | 4:52 | 2022-04-15 | 2022-06-25 |
 | [Meeting Eddie Smith](https://open.spotify.com/track/41MwuIrOmez8k0X5mH9emb) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Meeting Eddie Smith](https://open.spotify.com/album/0Zzyns4s6SphSyfDrg60cC) | 3:38 | 2022-06-24 | 2022-09-24 |
 | [Melt Away](https://open.spotify.com/track/01yFvMxBZDJ9nbmCgGpG1f) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Melt Away: A Tribute To Brian Wilson](https://open.spotify.com/album/0AEoTr8vxfRrNIxawzjEMR) | 3:51 | 2022-07-22 | 2022-10-22 |
-| [Memories](https://open.spotify.com/track/7raFiiAe2tfVTq4fCKhIhE) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Memories](https://open.spotify.com/album/7j4ymmtwxJP6icpbkWwYBh) | 4:13 | 2023-07-14 |  |
+| [Memories](https://open.spotify.com/track/68VZQ9Wcl3tV8ExIyxbNzZ) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Echo The Diamond](https://open.spotify.com/album/4Mal9r2lPvrzpsWstauX32) | 4:13 | 2023-08-18 |  |
+| [Memories](https://open.spotify.com/track/7raFiiAe2tfVTq4fCKhIhE) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Memories](https://open.spotify.com/album/7j4ymmtwxJP6icpbkWwYBh) | 4:13 | 2023-07-14 | 2023-08-21 |
 | [Memory Palace](https://open.spotify.com/track/60wYARCUwuFlDHumkWOIv7) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/2XYClv25hWniJ6eUrejkEe) | 4:01 | 2023-06-30 |  |
 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 | 2023-02-24 | 2023-06-17 |
 | [Merry Go Round](https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Merry Go Round](https://open.spotify.com/album/2JDg4HHyjXlRBiXbLDh3dh) | 2:28 | 2021-12-10 | 2022-03-26 |
@@ -1281,7 +1282,8 @@
 | [Ugly Faces](https://open.spotify.com/track/4XblwOWPMkornESGqDlYnr) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Ugly Faces](https://open.spotify.com/album/5aXQePQNOHGepOiJOYUbV8) | 3:15 | 2022-04-22 | 2022-05-20 |
 | [Uncertainty](https://open.spotify.com/track/5KORQw5JLHcyMdUBG06aGE) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Uncertainty](https://open.spotify.com/album/1WtP3dDIa6L3qIzCZN4r7i) | 5:47 | 2022-12-09 | 2023-04-15 |
 | [Underlands](https://open.spotify.com/track/1qhjnS2Z8W9xYextJvUdrA) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Underlands](https://open.spotify.com/album/2G1X0bE3DTFDLelnK77gzY) | 6:15 | 2022-04-22 | 2022-06-04 |
-| [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-06-23 |  |
+| [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-06-23 | 2023-08-21 |
+| [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 | 2023-08-18 |  |
 | [Until You \- Acoustic](https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You \(Acoustic\)](https://open.spotify.com/album/0tEXwKW165mkLNGv0OL9M1) | 3:17 | 2022-06-17 | 2022-09-10 |
 | [untitled](https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [untitled](https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx) | 1:41 | 2022-04-01 | 2022-04-29 |
 | [Up in the Sky](https://open.spotify.com/track/7nFrk76TTg9FJQ8CAoQMWt) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [El Deafo \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7) | 2:03 | 2022-01-07 | 2022-02-19 |

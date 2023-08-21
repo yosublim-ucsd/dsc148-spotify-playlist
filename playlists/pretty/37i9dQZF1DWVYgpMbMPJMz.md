@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe?si=35e5ea6909dc430f">Anna Golden<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,617 likes - 100 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,790 likes - 100 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 20 | [I Remember \- Radio Version](https://open.spotify.com/track/0vDRJvlyfq8ep0JYaJ1dlh) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [I Remember \(Radio Version\)](https://open.spotify.com/album/3SkfAOiIeJde2GwjAWTOBU) | 3:29 |
 | 21 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
 | 22 | [Break The Bottle](https://open.spotify.com/track/2Vf59fzWMGDRtLwolStTGw) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Hidden Here](https://open.spotify.com/album/5Ux7nchzxdGHPkr10dk6AP) | 4:22 |
-| 23 | [Who Else \- Live](https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/2e2bviyMnMs4Dq8iFbCO7s) | [Who Else \(Live\)](https://open.spotify.com/album/3CqhQB1z0nVAmVHlqFSClB) | 4:50 |
+| 23 | [Who Else \- Live](https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Who Else \(Live\)](https://open.spotify.com/album/3CqhQB1z0nVAmVHlqFSClB) | 4:50 |
 | 24 | [He Calls Me Friend](https://open.spotify.com/track/5v87gR2P18X12GfElLTPHc) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [He Calls Me Friend](https://open.spotify.com/album/22VvLGmescoVzuxUOj5M1G) | 4:20 |
 | 25 | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q) | 6:58 |
 | 26 | [Show Me Your Ways](https://open.spotify.com/track/0izRgQi5DUGHIQB2EweMWh) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Show Me Your Ways](https://open.spotify.com/album/763ptOvXfTbOeQRDbaAuHJ) | 6:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Jesus Always](https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Jesus Always](https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u) | 4:44 |
 | 100 | [It Is Finished](https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Kingdom Kids, Vol\. 2](https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU) | 4:26 |
 
-Snapshot ID: `MCw5NWVkNzdiMTBiNGY2OGVlYmJkYzAxZjE1OGJkZDgxOTY1Yzc1NzA3`
+Snapshot ID: `MCwwYmU2YzI5ZWY1ZTBhODVhYzRkNzg5YWEyZmMwODZkM2E1Mjc2ZTI1`

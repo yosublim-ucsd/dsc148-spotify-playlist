@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 69885,
+  "num_followers": 70037,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTNmY2FkNzczYTg0MDJiYjI2MDE4MDk5ZTg1NzZhM2Y1ZDNlMDEw",
+  "snapshot_id": "MCxlZWFlMThlZTZmNGE1ODMxNDE5ZTgyYmQwNDA4MmNhYmRlYzlhNzRh",
   "tracks": [
     {
       "added_at": "2023-08-16 08:36:54",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 172933,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "Motions & Emotions",
-        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 174641,
-      "name": "Wandering - Remastered",
-      "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
+      "duration_ms": 182293,
+      "name": "Just You, Just Me - Remastered 1999",
+      "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
+        "name": "Motions & Emotions",
+        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "Wandering - Remastered",
+      "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
         "name": "May I Come In?",
         "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 124266,
       "name": "Something Happens To Me",
       "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Just You, Just Me - Remastered 1999",
-      "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+      "duration_ms": 130199,
+      "name": "Ridin' High",
+      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 130199,
-      "name": "Ridin' High",
-      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "It's A Wonderful World",
+      "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "It's A Wonderful World",
-      "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
         "name": "Quartet / Quintet / Sextet",
         "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 173840,
+      "name": "Alright, Okay, You Win",
+      "url": "https://open.spotify.com/track/1m8WU15D9BGbtsgNE4XWuJ"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
         "name": "April In Paris (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
       },
@@ -1039,26 +1055,6 @@
       "duration_ms": 315000,
       "name": "Corner Pocket",
       "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 398266,
-      "name": "Bahia",
-      "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -1151,18 +1147,38 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 173840,
-      "name": "Alright, Okay, You Win",
-      "url": "https://open.spotify.com/track/1m8WU15D9BGbtsgNE4XWuJ"
+      "duration_ms": 398266,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
+        "name": "The Complete Decca Recordings",
+        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "One O'Clock Jump",
+      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "The Complete Decca Recordings",
-        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "One O'Clock Jump",
-      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
         "name": "Chet Baker In Milan",
         "url": "https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 284426,
       "name": "Lady Bird",
       "url": "https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
-        "name": "Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra",
-        "url": "https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 142573,
-      "name": "Woman's Got Soul",
-      "url": "https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
+        "name": "Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra",
+        "url": "https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 142573,
+      "name": "Woman's Got Soul",
+      "url": "https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
         "name": "Swing Along With Me",
         "url": "https://open.spotify.com/album/0n1GnE4WG4suFnOZeBouVT"
       },
@@ -1275,26 +1275,6 @@
       "duration_ms": 151920,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
-        "name": "Mel Torme: Swings Shubert Alley",
-        "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        },
-        {
-          "name": "The Marty Paich Orchestra",
-          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
-        }
-      ],
-      "duration_ms": 245800,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -1319,6 +1299,26 @@
       "duration_ms": 145933,
       "name": "Happy Talk",
       "url": "https://open.spotify.com/track/7ahQIRq0EOeY9UYVvABDFp"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
+        "name": "Mel Torme: Swings Shubert Alley",
+        "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Orchestra",
+          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
+        }
+      ],
+      "duration_ms": 245800,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "Saga Jazz: Easy to Love (Modern Series)",
-        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Happy Little Sunbeam",
-      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
         "name": "A Treasury Of Golden Hits",
         "url": "https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 176560,
       "name": "Hey There",
       "url": "https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
+        "name": "Saga Jazz: Easy to Love (Modern Series)",
+        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+        }
+      ],
+      "duration_ms": 167853,
+      "name": "Happy Little Sunbeam",
+      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 251093,
-      "name": "Jive At Six",
-      "url": "https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
         "name": "Stardust: The Music Of Hoagy Carmichael",
         "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 251093,
+      "name": "Jive At Six",
+      "url": "https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
         "name": "Jazz Abroad",
         "url": "https://open.spotify.com/album/1DWLdf4OEK96kgNNozY1i0"
       },
@@ -1543,6 +1543,26 @@
       "duration_ms": 351720,
       "name": "Sometimes I'm Happy",
       "url": "https://open.spotify.com/track/1aNyLvKxlaRcHq8qswscdo"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "People Will Say We're In Love",
+      "url": "https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -1575,26 +1595,6 @@
       "duration_ms": 108826,
       "name": "From This Moment On",
       "url": "https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "People Will Say We're In Love",
-      "url": "https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
+        "name": "Mel Torm\u00e9 Sings Fred Astaire (Original Recording Remastered 2013)",
+        "url": "https://open.spotify.com/album/6Aa9OqI2DWqeoAgKQpKpr2"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 188594,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/7gczaB86KEDi6D6Uic4vtM"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
         "name": "Harmonica Jazz",
         "url": "https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 132144,
       "name": "Cocktails For Two",
       "url": "https://open.spotify.com/track/12Iu4hfFdWbKE6nfVi1zKK"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
-        "name": "Improvisations for the Human Voice",
-        "url": "https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd"
-      },
-      "artists": [
-        {
-          "name": "Annie Ross",
-          "url": "https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Farmer's Market",
-      "url": "https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU"
     }
   ],
   "unique_name": "Sunny Day Jazz",

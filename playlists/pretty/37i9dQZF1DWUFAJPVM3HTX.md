@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Natanya\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,578 likes - 205 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,648 likes - 205 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 204 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 |
 | 205 | [Borderline](https://open.spotify.com/track/1wuboor2JTlBQMAdeVoGpi) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [Borderline](https://open.spotify.com/album/5lz9iL7GHSTZ9HOUK8WFvw) | 4:09 |
 
-Snapshot ID: `MCw3NTEwMjc0OWFlMTc1OWI2MzA4MWE1ZThmYzRjZWRhZTU3YzI0N2I1`
+Snapshot ID: `MCw4NTkxNGQ4ZGRmYzRmNWQwNjJhNGRmMGEwYTViM2UzYzAzYWU5MGI3`

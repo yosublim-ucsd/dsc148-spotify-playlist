@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 49508,
+  "num_followers": 49534,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTcyYWU5MGU5ODE1Y2EyODYwYTYxM2NlN2NlODI0MTIyNDk4YjU5",
+  "snapshot_id": "MCxiYzliNDM2OWRmZWVmMjIxMDI4ZmU5Y2I4MWQ4ZTA1ODg1M2E4MzA4",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "The Andalusian Guitar",
-        "url": "https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ"
+        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
+        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
       },
       "artists": [
         {
-          "name": "Paco Lara",
-          "url": "https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45"
-        },
-        {
-          "name": "Santiago Lara",
-          "url": "https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ"
+          "name": "Panagiotis Margaris",
+          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
         }
       ],
-      "duration_ms": 236842,
-      "name": "Milonga",
-      "url": "https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b"
+      "duration_ms": 173800,
+      "name": "Tango en Skai - Instrumental",
+      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
-        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
+        "name": "The Andalusian Guitar",
+        "url": "https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ"
       },
       "artists": [
         {
-          "name": "Panagiotis Margaris",
-          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
+          "name": "Paco Lara",
+          "url": "https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45"
+        },
+        {
+          "name": "Santiago Lara",
+          "url": "https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ"
         }
       ],
-      "duration_ms": 173800,
-      "name": "Tango en Skai - Instrumental",
-      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
+      "duration_ms": 236842,
+      "name": "Milonga",
+      "url": "https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b"
     },
     {
       "added_at": "2022-10-27 22:01:00",

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-579 songs - 1 day 0 hr 34 min
+581 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,12 +290,13 @@
 | [Lake District](https://open.spotify.com/track/2xrNBiMKQ8Waq8Yfk3SILh) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Lake District](https://open.spotify.com/album/2D3X3S42HBWPbhWL9nE7YE) | 2:49 | 2022-07-15 | 2022-10-29 |
 | [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 | 2023-04-21 |  |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2023-04-21 |  |
-| [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 | 2023-04-21 |  |
+| [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 | 2023-04-21 | 2023-08-21 |
 | [Lavender Fields](https://open.spotify.com/track/3ExlWxzIV13ak6afl93XDq) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Lavender Fields](https://open.spotify.com/album/5ZWhg4hM263s5Mb21HicFg) | 3:29 | 2022-07-15 | 2022-10-07 |
 | [Layers](https://open.spotify.com/track/3HCq1uKsrIfii8eYSgO9tf) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Layers](https://open.spotify.com/album/3Mru6j8trKeOcaw27xAlqB) | 2:41 | 2023-04-21 |  |
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2023-04-21 |  |
 | [Leaving La Habana](https://open.spotify.com/track/25clc1eJ1cXlUqCk6K9BBL) | [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm), [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Leaving La Habana](https://open.spotify.com/album/4icca12AyQGQAqLzPTYs6E) | 3:38 | 2022-07-15 | 2023-04-22 |
 | [Lemon Butterflies](https://open.spotify.com/track/6LD3GreVtXhePn8SmPDUzm) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [Lemon Butterflies](https://open.spotify.com/album/79atPdOAmjxkB3H4bABUt4) | 1:24 | 2022-07-15 | 2023-04-22 |
+| [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 | 2023-08-17 |  |
 | [Les Ondes](https://open.spotify.com/track/06vt7BIMyVW3CrvWNQ5vCx) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Les Ondes](https://open.spotify.com/album/47iTH8q00rx6DxOhU6UQcp) | 1:44 | 2023-04-21 |  |
 | [Les Yeux Noisette](https://open.spotify.com/track/7zHT43ArNRONxVmJ6Hxxio) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Les Yeux Noisette](https://open.spotify.com/album/4L3J11sHAt33LIzhGMyuCU) | 2:22 | 2023-04-21 |  |
 | [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 | 2022-07-15 | 2023-04-22 |
@@ -475,6 +476,7 @@
 | [Soneto](https://open.spotify.com/track/44hRQCCOLtV5OnghKRFjqa) | [Jonny Wells](https://open.spotify.com/artist/3y9st5kQGA5SegPTroNQwK) | [Belgian Park](https://open.spotify.com/album/7ji31sf4p8xRHMoPA7o6mH) | 2:49 | 2022-07-15 | 2023-04-22 |
 | [Song for Solomon](https://open.spotify.com/track/65ecJZz4yOi2J0zvnHWCCL) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Song for Solomon](https://open.spotify.com/album/1HGnVzzqfxxIKARTUW1LBb) | 1:53 | 2023-04-21 |  |
 | [Sonidos De La Tarde](https://open.spotify.com/track/3qNkQ9TgNVvHKwc55SFUYf) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Sonidos De La Tarde](https://open.spotify.com/album/0piCaKv5lgsUxhGI0wgK37) | 1:49 | 2022-10-07 | 2023-04-22 |
+| [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |
 | [Southern Wind](https://open.spotify.com/track/6dFFteAqdSmnJu6Rzb7fWV) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Southern Wind](https://open.spotify.com/album/4KOcDV0VAlSROSWy2NZvza) | 3:20 | 2022-07-15 | 2023-04-22 |
 | [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2023-04-21 |  |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-07-15 | 2023-04-22 |
@@ -562,7 +564,7 @@
 | [Vøringfossen](https://open.spotify.com/track/3pkttYHK5xWJQVqZ8MpTZ7) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Vøringfossen](https://open.spotify.com/album/5feSa7mTYzFpHcM1QlNxaP) | 2:09 | 2023-05-12 |  |
 | [Waimea Falls](https://open.spotify.com/track/6OI4lw9ZxbrEoY5SRJgG0y) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Waimea Falls](https://open.spotify.com/album/6kDc5lTyqj3ZGm0Wpdjwut) | 3:52 | 2023-04-21 |  |
 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 | 2022-07-15 | 2022-09-17 |
-| [Walden](https://open.spotify.com/track/2jea87kvmbKxK87RJbG2BS) | [Di Bosco](https://open.spotify.com/artist/1j7HrpUlI55EmAx4PVtFgf) | [Walden](https://open.spotify.com/album/2wuBgVuayoe5Sm3GwZJwgH) | 2:07 | 2023-04-21 |  |
+| [Walden](https://open.spotify.com/track/2jea87kvmbKxK87RJbG2BS) | [Di Bosco](https://open.spotify.com/artist/1j7HrpUlI55EmAx4PVtFgf) | [Walden](https://open.spotify.com/album/2wuBgVuayoe5Sm3GwZJwgH) | 2:07 | 2023-04-21 | 2023-08-21 |
 | [warm water in the well](https://open.spotify.com/track/6QgsCarVTD1jp6wFq6sk3E) | [Richard Sapphire](https://open.spotify.com/artist/40Xa6PWV6jW7f8NuS44BzF) | [warm water in the well](https://open.spotify.com/album/1ty4G5zw98T0Wsygo0EGfH) | 2:14 | 2023-04-21 |  |
 | [Weaving Together](https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Weaving Together](https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D) | 3:23 | 2023-08-10 |  |
 | [Wellspring for thought](https://open.spotify.com/track/4ZfA8pzOEHovwGTg5wq32Q) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Wellspring for thought](https://open.spotify.com/album/7KuVAWo78nXDxG4LS9rXvD) | 2:14 | 2023-08-10 |  |

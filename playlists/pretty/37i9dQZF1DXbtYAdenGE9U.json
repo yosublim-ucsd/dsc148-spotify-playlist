@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 452780,
+  "num_followers": 453223,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzUzNjM2ZjA2ZDdjMzQ5NjU0MDJjMTJmNjdjYzAxNjJiZTY5OWVk",
+  "snapshot_id": "MCw2NzY4NjdlZmNhNzZhMjIyNGM3NGZiNmNiMGIyZmY3NDBhZmVmN2Q4",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Greece 2000",
-        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
-      },
-      "artists": [
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Greece 2000 - Edit",
-      "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "The Double Album",
         "url": "https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 313120,
       "name": "Lizard",
       "url": "https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
+      },
+      "artists": [
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Greece 2000 - Edit",
+      "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
     },
     {
       "added_at": "2023-08-11 10:02:57",

@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 135261,
+  "num_followers": 135353,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjIzNWMzMGNmMmMwYmY5YzFiMDE3MzdjNmNjNGNhOGQ5YzdlNzEx",
+  "snapshot_id": "MCwyODg3ZmQwMDdmYTQ1OGQ4NjFjNzhhNGE3ZGQ0ZmI1YTdlMjI2NDkw",
   "tracks": [
     {
       "added_at": "2023-08-16 10:10:49",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 91613,
-      "name": "Live Without You",
-      "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 206004,
       "name": "Don't Need The Real Thing",
       "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 91613,
+      "name": "Live Without You",
+      "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "You're Fine",
-        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
-      },
-      "artists": [
-        {
-          "name": "Barbra Lica",
-          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Before I Do",
-      "url": "https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Before I Do",
+      "url": "https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
         "name": "Taller",
         "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 189733,
       "name": "Endings Are Beginnings",
       "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "That's What Friends Are For",
-        "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "That's What Friends Are For",
-      "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -991,18 +975,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+        "name": "That's What Friends Are For",
+        "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
         }
       ],
-      "duration_ms": 302890,
-      "name": "Just A Little Bit",
-      "url": "https://open.spotify.com/track/1JfbhdC2PRpB1TcobDTvF8"
+      "duration_ms": 223986,
+      "name": "That's What Friends Are For",
+      "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1023,6 +1007,22 @@
       "duration_ms": 249860,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 302890,
+      "name": "Just A Little Bit",
+      "url": "https://open.spotify.com/track/1JfbhdC2PRpB1TcobDTvF8"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "One Less Lonely Girl",
-        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+        "name": "Mother Of Mine",
+        "url": "https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp"
       },
       "artists": [
         {
-          "name": "Nikki Ocean",
-          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+          "name": "more than neighbours",
+          "url": "https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj"
         }
       ],
-      "duration_ms": 236648,
-      "name": "One Less Lonely Girl",
-      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
+      "duration_ms": 242226,
+      "name": "Mother Of Mine",
+      "url": "https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Mother Of Mine",
-        "url": "https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp"
+        "name": "One Less Lonely Girl",
+        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
       },
       "artists": [
         {
-          "name": "more than neighbours",
-          "url": "https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj"
+          "name": "Nikki Ocean",
+          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
         }
       ],
-      "duration_ms": 242226,
-      "name": "Mother Of Mine",
-      "url": "https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD"
+      "duration_ms": 236648,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq"
+      },
+      "artists": [
+        {
+          "name": "Sam Parker",
+          "url": "https://open.spotify.com/artist/4FYQFlxTwb3mnj5YJmnZfE"
+        },
+        {
+          "name": "Priya Marie Chantale",
+          "url": "https://open.spotify.com/artist/23Foj0ZZhR6iwQu9mdOCvQ"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/678zWynlu5RcyEnGUe0EQZ"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
         "name": "At the End of the Day",
         "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 295560,
       "name": "Move Me No Mountain",
       "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq"
-      },
-      "artists": [
-        {
-          "name": "Sam Parker",
-          "url": "https://open.spotify.com/artist/4FYQFlxTwb3mnj5YJmnZfE"
-        },
-        {
-          "name": "Priya Marie Chantale",
-          "url": "https://open.spotify.com/artist/23Foj0ZZhR6iwQu9mdOCvQ"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/678zWynlu5RcyEnGUe0EQZ"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Hey Laura",
-        "url": "https://open.spotify.com/album/5RVJgpxz5uWPDXdGWMCx1d"
-      },
-      "artists": [
-        {
-          "name": "Tiny Little Bigband",
-          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Hey Laura",
-      "url": "https://open.spotify.com/track/3WH078dURFTzcALQD8UBMw"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
         "name": "Enough to Be on Your Way",
         "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 318175,
       "name": "Enough to Be on Your Way",
       "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "Hey Laura",
+        "url": "https://open.spotify.com/album/5RVJgpxz5uWPDXdGWMCx1d"
+      },
+      "artists": [
+        {
+          "name": "Tiny Little Bigband",
+          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Hey Laura",
+      "url": "https://open.spotify.com/track/3WH078dURFTzcALQD8UBMw"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Take Me Off to Dreamland",
-        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 288535,
-      "name": "Take Me Off to Dreamland",
-      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
         "name": "Song Like Ours",
         "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
       },
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
+        "name": "Take Me Off to Dreamland",
+        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
+      },
+      "artists": [
+        {
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+        }
+      ],
+      "duration_ms": 288535,
+      "name": "Take Me Off to Dreamland",
+      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
         "name": "Chamomile Tea",
         "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
       },
@@ -1839,22 +1839,6 @@
       "duration_ms": 252261,
       "name": "Chamomile Tea",
       "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "Same Soul",
-        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
-      },
-      "artists": [
-        {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
-        }
-      ],
-      "duration_ms": 293504,
-      "name": "Your Hands",
-      "url": "https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1875,22 +1859,18 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
-        "name": "Trying Times",
-        "url": "https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti"
+        "name": "Same Soul",
+        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
       "artists": [
         {
-          "name": "Deelee Dube",
-          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
-        },
-        {
-          "name": "Russell Malone",
-          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
         }
       ],
-      "duration_ms": 229682,
-      "name": "Still Trying",
-      "url": "https://open.spotify.com/track/6lYSEJANSrEwgUzNus8KRO"
+      "duration_ms": 293504,
+      "name": "Your Hands",
+      "url": "https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -1931,6 +1911,26 @@
       "duration_ms": 184835,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/4pUe0F3de1wLLGYFkbhmmn"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti"
+      },
+      "artists": [
+        {
+          "name": "Deelee Dube",
+          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+        },
+        {
+          "name": "Russell Malone",
+          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
+        }
+      ],
+      "duration_ms": 229682,
+      "name": "Still Trying",
+      "url": "https://open.spotify.com/track/6lYSEJANSrEwgUzNus8KRO"
     },
     {
       "added_at": "2023-08-16 10:10:49",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2023-08-16 10:10:49",
       "album": {
+        "name": "Let's Get Lost",
+        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Summers",
+          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
+    },
+    {
+      "added_at": "2023-08-16 10:10:49",
+      "album": {
         "name": "Featuring EP",
         "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 176543,
       "name": "I'd Run to the Moon",
       "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
-    },
-    {
-      "added_at": "2023-08-16 10:10:49",
-      "album": {
-        "name": "Let's Get Lost",
-        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Summers",
-          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
     },
     {
       "added_at": "2023-08-16 10:10:49",

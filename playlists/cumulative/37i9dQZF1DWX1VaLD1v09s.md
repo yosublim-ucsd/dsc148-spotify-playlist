@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-473 songs - 1 day 14 hr 56 min
+474 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,8 @@
 | [Still My Little Boy](https://open.spotify.com/track/7pH0SM8tsclIBgRX7Al1zm) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Still My Little Boy](https://open.spotify.com/album/0s00dylb9jlVwZOct1rief) | 4:32 | 2021-04-04 | 2022-07-29 |
 | [Stronger \- Live At The Acer Arena](https://open.spotify.com/track/5m51OO5irIi2ZIk5ywCePh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [This Is Our God \(Live\)](https://open.spotify.com/album/64JHslZZ5Y8uj0HhjGr7th) | 4:26 | 2022-04-02 | 2022-04-20 |
 | [Suffering Servant](https://open.spotify.com/track/4pC2qtOtvIB96m9QE4Divo) | [The Modern Post](https://open.spotify.com/artist/6z989iXQpOqgPU7vDclfna) | [The Water & the Blood](https://open.spotify.com/album/2Chr1Kg4lPsksp7CWpUuta) | 4:30 | 2022-04-02 | 2022-04-19 |
-| [Sunday Is Coming](https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/4dkpEziADCqKpBvszDfPua) | 4:52 | 2023-04-02 |  |
+| [Sunday Is Coming](https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/4dkpEziADCqKpBvszDfPua) | 4:52 | 2023-04-02 | 2023-08-21 |
+| [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 | 2023-04-09 |  |
 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 5:00 | 2021-04-04 |  |
 | [Sweet Victory](https://open.spotify.com/track/3RpcCr8ZlIiYEctUYBAGQm) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Dimitri McDowell](https://open.spotify.com/artist/0z5SAvLBgXdLs33L3tLbfo), [Leah Smith](https://open.spotify.com/artist/29b38fzTLn3i4vvRNCED2E) | [Rise](https://open.spotify.com/album/2QPKh4LqUxtwXGwbriYzqZ) | 5:08 | 2022-04-02 |  |
 | [Take, Eat, Drink \- Live](https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Take, Eat, Drink \(Live\)](https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF) | 4:47 | 2023-04-10 | 2023-06-04 |

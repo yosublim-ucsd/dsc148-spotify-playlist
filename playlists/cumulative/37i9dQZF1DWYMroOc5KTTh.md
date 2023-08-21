@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-458 songs - 1 day 7 hr 5 min
+459 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [Gym Tonic \- Wh0 Remix](https://open.spotify.com/track/6PJVxLDM73zcytFMLiIShF) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Gym Tonic \(Wh0 Remix\)](https://open.spotify.com/album/6f4vZtl0KdwSHk3cQyz44E) | 2:28 | 2022-04-06 | 2022-04-14 |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2022-04-06 |  |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-04-15 | 2022-10-19 |
-| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-05 |  |
+| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-05 | 2023-08-21 |
+| [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-08-04 |  |
 | [Hazy House Vol\. 1](https://open.spotify.com/track/5vt0TzMNRGZiXlGdFZCgjn) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 1](https://open.spotify.com/album/3JgeyFkT8YaNDf4B9gnrnO) | 5:51 | 2022-04-06 | 2022-04-16 |
 | [Hazy House Vol\. 2](https://open.spotify.com/track/6AW0jJcR32Qcp0FJ5w6BRv) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 2](https://open.spotify.com/album/5GjT3ssX2AB16z6K4LOJY8) | 5:31 | 2022-04-06 | 2022-04-12 |
 | [Heaven](https://open.spotify.com/track/3PKd9beBPjwU9RP7e1Bvke) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Heaven](https://open.spotify.com/album/3mjRL9Jz75UKCzwIvXH2DB) | 3:21 | 2023-05-22 |  |

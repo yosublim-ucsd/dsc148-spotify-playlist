@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:04HwAPYr2hTMLjDVrpewQZ">Izabela Zabielska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,961 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,959 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 20 | [Spicy](https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Spicy](https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH) | 2:39 |
 | 21 | [Bezsens](https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Bezsens](https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8) | 2:43 |
 | 22 | [Better Place](https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Better Place](https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG) | 3:01 |
-| 23 | [oddaję Ci melodię](https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [oddaję Ci melodię](https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U) | 2:23 |
-| 24 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 |
+| 23 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 |
+| 24 | [oddaję Ci melodię](https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [oddaję Ci melodię](https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U) | 2:23 |
 | 25 | [Święta Betsy](https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Święta Betsy](https://open.spotify.com/album/7iw76Co0zt3h9kDmhT3U6B) | 2:49 |
 | 26 | [Nie chcę tu wracać już](https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH), [Bart Gałązka](https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A) | [Nie chcę tu wracać już](https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd) | 4:10 |
 | 27 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 59 | [Glitterball](https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Glitterball](https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si) | 5:06 |
 | 60 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 |
 
-Snapshot ID: `MCxkZmI3YTEzNzdiNzYyNzViYzQwMjY1ZmZhN2IwYmFhMzU4MGMzMmVi`
+Snapshot ID: `MCxjMmEyZDkwYzBhMDk3ZjhlZmE2NzQ3Nzc1NGVhMWFiNjI0ZmVjNTE2`

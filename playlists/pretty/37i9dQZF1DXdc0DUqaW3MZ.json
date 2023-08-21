@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 313347,
+  "num_followers": 313459,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmUyMGEyN2EzOTIwNzJjZmYyNTM5MDIwYzFhMGM2ZjgxNDUwOWRk",
+  "snapshot_id": "MCw1ZjQwZTM0ZTZiZDQ5ZmRhOGFkMDJmNGE3MjYwZDdlYzc0M2VlOTFj",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Look Easy",
         "url": "https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 165219,
       "name": "Look Easy",
       "url": "https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw"
+      },
+      "artists": [
+        {
+          "name": "Dirty Freud",
+          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/0NrtOr0vIUnktfY7rxNgD3"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Not Today Mate",
         "url": "https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Sweating",
-        "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 204685,
-      "name": "Sweating",
-      "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "STAY UP / SWEET",
         "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
       },
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "gr\u00e6",
-        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
+        "name": "Sweating",
+        "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
       },
       "artists": [
         {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Cut Me",
-      "url": "https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6"
+      "duration_ms": 204685,
+      "name": "Sweating",
+      "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "gr\u00e6",
+        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Cut Me",
+      "url": "https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "You Could Be",
         "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw"
-      },
-      "artists": [
-        {
-          "name": "Dirty Freud",
-          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/0NrtOr0vIUnktfY7rxNgD3"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 194177,
-      "name": "Unrequited Love",
-      "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Small Moments",
         "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 315608,
       "name": "Moving",
       "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 194177,
+      "name": "Unrequited Love",
+      "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Big Bad Mood (feat. Miraa May)",
         "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 229090,
       "name": "Big Bad Mood (feat. Miraa May)",
       "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Gravitate",
+        "url": "https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 341826,
+      "name": "Gravitate",
+      "url": "https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Above",
         "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Gravitate",
-        "url": "https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 341826,
-      "name": "Gravitate",
-      "url": "https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2"
     },
     {
       "added_at": "2022-06-20 14:19:42",

@@ -4,7 +4,7 @@
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-547 songs - 1 day 18 hr 0 min
+548 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Never Back Down](https://open.spotify.com/track/42E4F50hNU0KFPLQCATsiI) | [Andy James](https://open.spotify.com/artist/4Vh8EFeScM6jIGhc9fx0WO) | [Exodus](https://open.spotify.com/album/4ph5De9IwFT4JRCVLnPEbz) | 3:32 | 2022-07-13 | 2022-07-30 |
 | [New Air](https://open.spotify.com/track/5d7mgCyxijA9CRGVHwAeMJ) | [Mattias IA Eklundh](https://open.spotify.com/artist/22upwnTo7nckdSAMI8CrZa) | [New Air](https://open.spotify.com/album/4tisdZihJbwtpNIt2t159o) | 5:01 | 2022-07-13 | 2022-07-28 |
 | [New Evil](https://open.spotify.com/track/2IvaXSzA8LFKhSVvJV0xtZ) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [New Evil](https://open.spotify.com/album/2iedVBdD7TICbWsudozEbx) | 4:25 | 2022-01-21 | 2023-08-09 |
+| [New Evil](https://open.spotify.com/track/2rDkRLPyZoeUz0Z5nLz4Lr) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Daughters Of The Night](https://open.spotify.com/album/2jtvxz7ihLYzIVjnaomd5J) | 4:25 | 2023-05-19 |  |
 | [New Found Power](https://open.spotify.com/track/0KKDXtEugnwp8lyNPo0YxK) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [New Found Power](https://open.spotify.com/album/3SIe3cPl0rIvPMCafeSNyV) | 4:15 | 2021-10-29 | 2022-06-12 |
 | [New Horizons](https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm), [Fabienne Erni](https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR) | [New Horizons](https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK) | 4:25 | 2023-05-19 |  |
 | [Night Call Girl](https://open.spotify.com/track/7BwCvMXMUf1kt36Xfbi9k6) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Night Call Girl](https://open.spotify.com/album/56gGS0xjiT7JeEQVRFXKiC) | 4:43 | 2020-11-29\* | 2021-05-07 |
@@ -509,7 +510,7 @@
 | [Victorious](https://open.spotify.com/track/5fj8gbxJ0LR464ylTwJPZ6) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Victorious](https://open.spotify.com/album/3dYmEXVat2fvSDh0JimSjR) | 3:55 | 2021-06-19 | 2022-02-26 |
 | [Victorious Dinogods](https://open.spotify.com/track/2WaIiTbj3K9aosf0L0qvat) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Victorious Dinogods](https://open.spotify.com/album/6fAAa9vaM15S6LerBoaN6P) | 4:46 | 2022-04-22 | 2022-07-29 |
 | [Victorious Dinogods](https://open.spotify.com/track/3IELmqSo9EZ3PZAKzfPd2R) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Mighty Magic Mammoth](https://open.spotify.com/album/3B2nV6ZF3dmuxRkofL6BnV) | 4:46 | 2022-10-26 | 2022-11-13 |
-| [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 | 2022-07-08 |  |
+| [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 | 2022-07-08 | 2023-08-21 |
 | [Virtuous Tragedy](https://open.spotify.com/track/6RfFbtkicdF4e4UdPgvm1F) | [Aram Zero](https://open.spotify.com/artist/4w90cLrCPXk5Z5x7d8tetY) | [Virtuous Tragedy](https://open.spotify.com/album/5TUTInpDsD7lSJAls9WN0x) | 4:06 | 2022-07-13 | 2022-07-30 |
 | [Vita Nova](https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [Vita Nova](https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops) | 6:04 | 2022-01-21 |  |
 | [Viva La Victoria](https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Viva La Victoria](https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A) | 3:11 | 2020-11-29\* | 2021-06-04 |

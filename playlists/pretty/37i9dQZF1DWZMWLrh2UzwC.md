@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Talitha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,992 likes - 94 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,995 likes - 94 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 93 | [In Our Own Time](https://open.spotify.com/track/79okfwJ5FubZPIfNwZC4it) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [Cold Summer Paradise](https://open.spotify.com/album/08NOgjtXqECoRNV0agRecq) | 2:40 |
 | 94 | [Daydream](https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Daydream](https://open.spotify.com/album/6FR3pCx1lAGyWlkGVIWkP0) | 3:38 |
 
-Snapshot ID: `MCw2ZTIxMGYyYjhiOTU3NWVlYzE0NWZjYjBjZjFmYjQ4NjZmMzRlM2Mx`
+Snapshot ID: `MCxjZjUxMWRjOGE5MTdhM2YxYzc3NjJiYzg3ZTFmNjhmMzBmMzZkNGY0`

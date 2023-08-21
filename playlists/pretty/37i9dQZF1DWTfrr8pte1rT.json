@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 313842,
+  "num_followers": 313934,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzEyZmVjZDhkZTAyNDk4YmI3NjlhZjZiZDc1NjljZTk2OWZiMDM0",
+  "snapshot_id": "MCxlNGFmZjE5NjBiZWU4NWY4NmFlOWQ1MDc1NWMyNDE1NzY0YzA1M2Nh",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Timebomb (feat. MOD SUN)",
+        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Timebomb (feat. MOD SUN)",
+      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Beautiful Nothing",
         "url": "https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 211862,
       "name": "Beautiful Nothing",
       "url": "https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Timebomb (feat. MOD SUN)",
-        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Timebomb (feat. MOD SUN)",
-      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 259401,
-      "name": "Our Fire",
-      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "This Will Be My Year",
         "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 180618,
       "name": "This Will Be My Year",
       "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 259401,
+      "name": "Our Fire",
+      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
+        "name": "Let Them Only See Butterflies",
+        "url": "https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ"
       },
       "artists": [
         {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
-        },
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+      "duration_ms": 194906,
+      "name": "SURRENDER PEACE!",
+      "url": "https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1291,6 +1287,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "A Change of Perspective (Deluxe)",
         "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Let Them Only See Butterflies",
-        "url": "https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "SURRENDER PEACE!",
-      "url": "https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Angst - RMX by twocolors",
+      "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 250241,
       "name": "Baptize - Sullivan King Remix",
       "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Angst - RMX by twocolors",
-      "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
       },
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
@@ -1923,22 +1923,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Superstars",
-        "url": "https://open.spotify.com/album/0d0hlFmmPN2ez86f5jgzBJ"
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
       },
       "artists": [
         {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        },
-        {
-          "name": "REEBZ",
-          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
         }
       ],
-      "duration_ms": 269461,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/0wR44usvM0qPk1TiLkjovX"
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1963,18 +1959,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+        "name": "Superstars",
+        "url": "https://open.spotify.com/album/0d0hlFmmPN2ez86f5jgzBJ"
       },
       "artists": [
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        },
+        {
+          "name": "REEBZ",
+          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
         }
       ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+      "duration_ms": 269461,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/0wR44usvM0qPk1TiLkjovX"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2059,6 +2059,30 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
+      },
+      "artists": [
+        {
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Raindrops",
         "url": "https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD"
       },
@@ -2079,26 +2103,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "you\u2019ve changed, i\u2019ve changed",
-        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
-        }
-      ],
-      "duration_ms": 311625,
-      "name": "you\u2019ve changed, i\u2019ve changed",
-      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Pursuit of Violence",
         "url": "https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL"
       },
@@ -2115,6 +2119,26 @@
       "duration_ms": 233142,
       "name": "Pursuit of Violence",
       "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "you\u2019ve changed, i\u2019ve changed",
+        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "duration_ms": 311625,
+      "name": "you\u2019ve changed, i\u2019ve changed",
+      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2163,30 +2187,6 @@
       "duration_ms": 174800,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
-      },
-      "artists": [
-        {
-          "name": "WE ARE FURY",
-          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
-        },
-        {
-          "name": "Brassie",
-          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2311,22 +2311,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
       },
       "artists": [
         {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+          "name": "LILO",
+          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
         },
         {
-          "name": "Becko",
-          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+          "name": "Yung Honi",
+          "url": "https://open.spotify.com/artist/3YAIpWMMHRspIoz6yVJOeq"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
+      "duration_ms": 185250,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2347,22 +2347,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
       },
       "artists": [
         {
-          "name": "LILO",
-          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
         },
         {
-          "name": "Yung Honi",
-          "url": "https://open.spotify.com/artist/3YAIpWMMHRspIoz6yVJOeq"
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
         }
       ],
-      "duration_ms": 185250,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
+      "duration_ms": 252800,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
     },
     {
       "added_at": "2023-08-18 04:00:00",

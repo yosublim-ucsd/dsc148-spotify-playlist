@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 189440,
       "name": "Albuquerque",
       "url": "https://open.spotify.com/track/3gkLQWgABigJvtmdA2hJfj"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 195346,
       "name": "American Gothic (feat. Hailey Whitters)",
       "url": "https://open.spotify.com/track/72vF5ESZ9UJEpVZkXNN8FL"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 215680,
       "name": "Drink The River",
       "url": "https://open.spotify.com/track/3znuPoIQWrUGRRL1nh3Ifz"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 233685,
       "name": "February 28, 2016",
       "url": "https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 163480,
       "name": "Fly",
       "url": "https://open.spotify.com/track/0dOo9NqxZf5QtyzU44lhFS"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 168428,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 330636,
       "name": "If Not for the Rain",
       "url": "https://open.spotify.com/track/09KLleKjGJXVYKlkRB548W"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 208942,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/0SKmU6qOXKUdHuZsiSqpcn"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 156200,
       "name": "Me and My Kind",
       "url": "https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 227662,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/1WAgbIFKH1ruetQ3PKUlxi"
@@ -2143,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "A Hard up Life",
+        "url": "https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi"
+      },
+      "artists": [
+        {
+          "name": "Drayton Farley",
+          "url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227366,
+      "name": "Pitchin' fits",
+      "url": "https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL"
+    },
+    {
+      "album": {
         "name": "Playin' On The Tracks",
         "url": "https://open.spotify.com/album/5k3jXuGsFWOIOfsXtP63Wp"
       },
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 159640,
       "name": "Playin' On The Tracks",
       "url": "https://open.spotify.com/track/4YCwBjIphmO1L4eTWbAk0n"
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 206945,
       "name": "Ranch Hand - Me and a Fiddle",
       "url": "https://open.spotify.com/track/51qkvWdztu2I4vBVgnfNAf"
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 215347,
       "name": "The Jealous Kind (Live From The Church)",
       "url": "https://open.spotify.com/track/4kVZzwAjL8y73Oc7qsNG0p"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 172840,
       "name": "Van Gogh",
       "url": "https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8"

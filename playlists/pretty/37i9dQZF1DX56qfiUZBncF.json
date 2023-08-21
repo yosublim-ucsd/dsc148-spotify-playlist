@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 380623,
+  "num_followers": 380655,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzJkNDc0NzQ2NmE1OTg1ZjQ1ZjRhNzk3OWI4MWEzM2UxZTc3MzNi",
+  "snapshot_id": "MCwwMzJiOWRmNDY4NzYzMzU4YmJkZWFlYWUyNWJhZjdkYWYyZGIwMDE3",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "ACT ONE (The Complete Collection)",
-        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "LP (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 158133,
       "name": "Swing Tree",
       "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "ACT ONE (The Complete Collection)",
+        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
-      },
-      "artists": [
-        {
-          "name": "ELLIANA",
-          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
-        }
-      ],
-      "duration_ms": 266036,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "First Contact",
         "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 236173,
       "name": "No Time",
       "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
+      },
+      "artists": [
+        {
+          "name": "ELLIANA",
+          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
+        }
+      ],
+      "duration_ms": 266036,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Size of Relief",
-        "url": "https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI"
-      },
-      "artists": [
-        {
-          "name": "Young & Sick",
-          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
-        }
-      ],
-      "duration_ms": 246118,
-      "name": "Queen of the Valley",
-      "url": "https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Fallss",
         "url": "https://open.spotify.com/album/7t7xugAJAhJhY4AL5M5w1H"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 240108,
       "name": "Fallss",
       "url": "https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Size of Relief",
+        "url": "https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI"
+      },
+      "artists": [
+        {
+          "name": "Young & Sick",
+          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
+        }
+      ],
+      "duration_ms": 246118,
+      "name": "Queen of the Valley",
+      "url": "https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Color of Nothing",
-        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
-      },
-      "artists": [
-        {
-          "name": "ford.",
-          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 203504,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Polydans Remixes",
         "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 239788,
       "name": "Feels Right - Gerd Janson Remix - Radio Edit",
       "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "The Color of Nothing",
+        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
+      },
+      "artists": [
+        {
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 203504,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML"
     }
   ],
   "unique_name": "Creativity Boost",

@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 186140,
+  "num_followers": 186222,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGY4MTAzODY0YTliMjY3M2UyOWZiMjQxMDhhMzI0Nzk1ZTU5MDM2",
+  "snapshot_id": "MCwxNzBkZjkyNmY5ZTgxZGY0YWI5ZDYzMzM3OGViMTg1ZDVlOGUzZDdh",
   "tracks": [
     {
       "added_at": "2023-08-17 22:01:39",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-08-17 22:01:39",
       "album": {
-        "name": "Malory",
-        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+        "name": "Magic Chairs",
+        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
       },
       "artists": [
         {
-          "name": "Martin Stahl",
-          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
         }
       ],
-      "duration_ms": 178003,
-      "name": "Malory",
-      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+      "duration_ms": 293760,
+      "name": "Modern Drift",
+      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
     },
     {
       "added_at": "2023-08-17 22:01:39",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-08-17 22:01:39",
       "album": {
-        "name": "Magic Chairs",
-        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
+        "name": "Malory",
+        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
       },
       "artists": [
         {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+          "name": "Martin Stahl",
+          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
         }
       ],
-      "duration_ms": 293760,
-      "name": "Modern Drift",
-      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
+      "duration_ms": 178003,
+      "name": "Malory",
+      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
     },
     {
       "added_at": "2023-08-17 22:01:39",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-08-17 22:01:39",
       "album": {
+        "name": "I Saw Her from Here / I Saw Here",
+        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
+      },
+      "artists": [
+        {
+          "name": "Christian Kjellvander",
+          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "When the Mourning Comes",
+      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
         "name": "Jag \u00e4r sen igen",
         "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 170875,
       "name": "Halsmandlar",
       "url": "https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav"
-    },
-    {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
-        "name": "I Saw Her from Here / I Saw Here",
-        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
-      },
-      "artists": [
-        {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "When the Mourning Comes",
-      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
     },
     {
       "added_at": "2023-08-17 22:01:39",

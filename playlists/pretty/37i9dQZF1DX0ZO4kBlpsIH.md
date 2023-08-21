@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,546 likes - 88 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,899 likes - 88 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 87 | [El choclo](https://open.spotify.com/track/0VlKpMsojxkDk4UVZVDTUv) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 4:04 |
 | 88 | [Valse Des Niglos](https://open.spotify.com/track/0lHWKbBlhz3uzdFN5GGOT8) | [Jo Privat](https://open.spotify.com/artist/7wWbbQYVV7AVROYT3sMVoA) | [Minor Swing](https://open.spotify.com/album/5hdK38PRwYdBhdBuyGyZDF) | 2:22 |
 
-Snapshot ID: `MCw0YWU3OGQ4YTg0MTQyOTZlNmEyYjViZmZhZmRkMzY3M2U4NTllODJi`
+Snapshot ID: `MCxjYWZmZjRkYTVjMjU4YTQwZDEzOTQ0ZDdlZDA2NjllNDUyNGZjMTFk`

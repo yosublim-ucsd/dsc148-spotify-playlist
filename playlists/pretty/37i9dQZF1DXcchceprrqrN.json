@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 51294,
+  "num_followers": 51474,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTkyYzczMTEwMWYwNzU1ODgwZDkxYmYxMzg3YjA0Nzk1ZGZmOTVk",
+  "snapshot_id": "MCwyMWNiZGVhOWM2NGZjYjg5OWI3NTExYjJkYTg5NGRjNDU3MDYyNzFj",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 129119,
+      "name": "SICK OF IT*",
+      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Boat Songs",
         "url": "https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 192715,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/79mYNfvMefhmL5IqRmUnCK"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 129119,
-      "name": "SICK OF IT*",
-      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
     },
     {
       "added_at": "2023-06-02 04:00:00",

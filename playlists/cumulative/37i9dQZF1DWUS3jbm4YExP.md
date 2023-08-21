@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-575 songs - 1 day 17 hr 39 min
+576 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [Noko Hewon](https://open.spotify.com/track/0lNND4ICbiZEXahwxtl8OX) | [Afrik Bawantu](https://open.spotify.com/artist/2cfMyJQIEEqNhfiqQ24bUW) | [Noko Hewon](https://open.spotify.com/album/5eO68ZD9iOVu08B6LveM11) | 6:34 | 2021-10-06 | 2022-04-27 |
 | [Nosotros También](https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:26 | 2021-10-06 | 2023-04-30 |
 | [Nosotros También](https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nosotros También](https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL) | 3:26 | 2021-10-06 | 2022-07-29 |
-| [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2023-08-07 |  |
+| [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2023-08-07 | 2023-08-21 |
 | [Nuda Sorgente](https://open.spotify.com/track/23pDTmgAmsHoLfYDHDAowF) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Cosmica Italiana](https://open.spotify.com/album/2G5JH90WW0A6TyE6UxKDiu) | 4:51 | 2021-10-06 | 2022-07-25 |
 | [Ojos Negros](https://open.spotify.com/track/0E34QOEIpfSEvwkWOUi16T) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W), [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Ojos Negros](https://open.spotify.com/album/5SgYNPLjnGFIrV37pV6mZ1) | 3:44 | 2021-10-06 | 2022-08-25 |
 | [OK Seke Bien](https://open.spotify.com/track/4faQZK914Arr6kersUJT07) | [Fulu Miziki](https://open.spotify.com/artist/2PmwCPcTuraUcTAXNncbZD), [Sekelembele](https://open.spotify.com/artist/5WYvc8TSGiqyBYWk0QwCx3) | [Ok Seke Bien](https://open.spotify.com/album/0Gcq9nTzFAarycTZYU4B4k) | 5:51 | 2023-07-18 |  |
@@ -409,6 +409,7 @@
 | [Paloma](https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn) | [MiRET](https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Paloma + Remixes](https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K) | 8:26 | 2021-10-06 | 2022-01-13 |
 | [Pas Contente](https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz), [Roger Damawuzan](https://open.spotify.com/artist/6EP95HIx4uVmzGq7YMG0tv) | [Apiafo](https://open.spotify.com/album/1KYJPtlKlYQiZ6TZzLkRbn) | 3:33 | 2021-10-06 | 2022-04-18 |
 | [Pas de Dialogue](https://open.spotify.com/track/1NuiERHsqb9DVrSXOzKpQ7) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:34 | 2023-07-24 |  |
+| [Paulette](https://open.spotify.com/track/70gworYN6uq7jd4qfl3QU7) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [Objectif perfection](https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4) | 7:42 | 2023-08-20 |  |
 | [Pa´lante](https://open.spotify.com/track/2eIz0KUjTWALHdndVtROKp) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Pa'lante](https://open.spotify.com/album/0VoVnn8HzawW4b9Viavikd) | 3:16 | 2023-05-25 | 2023-08-08 |
 | [Pelear](https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM) | [Blanco Palamera](https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk) | [Pelear](https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva) | 4:12 | 2021-12-17 | 2022-06-15 |
 | [Pelota](https://open.spotify.com/track/39p88iz6Hzx5KN00QbLIdv) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pelota](https://open.spotify.com/album/2zX0TMRVNyesrH6kciPrQZ) | 2:47 | 2021-10-06 | 2022-07-29 |

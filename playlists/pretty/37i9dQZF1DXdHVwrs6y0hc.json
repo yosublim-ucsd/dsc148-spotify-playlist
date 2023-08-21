@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 61307,
+  "num_followers": 61407,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjJkNDIxNjRlZmU0NWFkNWQ4Y2I3MTkwYmQxZmViZjE5OGY4N2Iw",
+  "snapshot_id": "MCw0YjQ4ZmVhM2IwMTlmN2M3MzAxZTBhMjZhY2Y4N2NlZjY3NGVlMDE0",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -239,6 +239,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Canyon Moonrise",
+        "url": "https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq"
+      },
+      "artists": [
+        {
+          "name": "Turlough",
+          "url": "https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Smoke and Strong Whiskey",
+      "url": "https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Irish Ballads and Songs",
         "url": "https://open.spotify.com/album/015erneqKmEPClgUAzqc1L"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 184613,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/47Aj72P6zTD6UqkIN44IiM"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Canyon Moonrise",
-        "url": "https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq"
-      },
-      "artists": [
-        {
-          "name": "Turlough",
-          "url": "https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Smoke and Strong Whiskey",
-      "url": "https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Irish Folk: Adieu to Old Ireland",
-        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
-      },
-      "artists": [
-        {
-          "name": "House Devils, The",
-          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
-        }
-      ],
-      "duration_ms": 168413,
-      "name": "The Mickey Dam",
-      "url": "https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Kieran Fahy: Irish Fiddle - Man From the West",
         "url": "https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 165893,
       "name": "The Whole Chicken in the Soup - The Crooked Road",
       "url": "https://open.spotify.com/track/1XseuQQQgFa3Ge2ReHbnSX"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
+      },
+      "artists": [
+        {
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+        }
+      ],
+      "duration_ms": 168413,
+      "name": "The Mickey Dam",
+      "url": "https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -875,18 +875,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Irish Folk: Adieu to Old Ireland",
-        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
+        "name": "Ireland: Tales of Our Land",
+        "url": "https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9"
       },
       "artists": [
         {
-          "name": "House Devils, The",
-          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
         }
       ],
-      "duration_ms": 222200,
-      "name": "The Month of January",
-      "url": "https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj"
+      "duration_ms": 237133,
+      "name": "The Man for Galway / The Rambling Pitchfork",
+      "url": "https://open.spotify.com/track/07WFpOcyzgSCAJ6LUMK2Cv"
     }
   ],
   "unique_name": "Irish Tavern",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl?si=zHZ8NUFtQ02h5y\-P4OBYQg">Elikem Kofi </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,580 likes - 89 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,681 likes - 89 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 88 | [Kara Kara](https://open.spotify.com/track/0iahFIVI5S6o8ERYbL9NzU) | [TNO](https://open.spotify.com/artist/6OW42Eluu7OEDdU898ZE6e) | [Kara Kara](https://open.spotify.com/album/1Q0qOETar1GzrjY183GpYW) | 3:19 |
 | 89 | [You're The Only One](https://open.spotify.com/track/59VmxTexNKtHLylCzLGcdl) | [The Matsiko World Orphan Choir](https://open.spotify.com/artist/4yRxWaKfnOplibd6dzOJLE) | [You're The Only One](https://open.spotify.com/album/5lzNVJnNy7UYiVidzPfLpy) | 3:36 |
 
-Snapshot ID: `MCxkM2IyNWNmNzU1YmNlYTA1YjMxNjc2MTU0NmI4ZDU5ZGViOGJmOGE1`
+Snapshot ID: `MCw2ZTA2MDBiYTlhMjJjYzk0ZmJlMTI4MWRhMWRmM2Y1MmZhNDQ5NWVi`

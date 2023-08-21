@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Genesis Owusu
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,658 likes - 93 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,667 likes - 93 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 |
 | 93 | [Run From Me](https://open.spotify.com/track/0ANQApDotcDS3tKQLbqbQJ) | [nuum](https://open.spotify.com/artist/6BAW0yDEeA4wOskLv8y1qe) | [Run From Me](https://open.spotify.com/album/3IZqIuU9YOm5GIUGDDZDZC) | 3:09 |
 
-Snapshot ID: `MCw0NjI1NzNlYjkyYWYxMWUzMDk2NzkxMTUzZTkzNmUyZDA1NDIxYjFk`
+Snapshot ID: `MCxkMmEwZTY5ZGMyYTM4MjlhMjFkYzU4MDg5MjViMjNlZGI2NTk3MjMy`

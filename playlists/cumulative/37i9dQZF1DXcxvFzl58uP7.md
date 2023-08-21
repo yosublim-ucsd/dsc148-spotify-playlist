@@ -2,7 +2,7 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy jams from the best bedroom producers\. Cover: girl in red
+> Dreamy jams from the best bedroom producers\. Cover: Joji
 
 856 songs - 1 day 20 hr 28 min
 

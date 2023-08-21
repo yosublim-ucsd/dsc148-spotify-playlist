@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "To nejlep\u0161\u00ed 1981-2015",
+        "url": "https://open.spotify.com/album/2dFWy8qsd0SnLcUSDGxaJP"
+      },
+      "artists": [
+        {
+          "name": "Vaso Patejdl",
+          "url": "https://open.spotify.com/artist/0CbbftseLRwYyUdmOXvH6l"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258399,
+      "name": "Ak nie si moja",
+      "url": "https://open.spotify.com/track/0UzMasV4giwxZo9AoosW6m"
+    },
+    {
+      "album": {
         "name": "Fenomen",
         "url": "https://open.spotify.com/album/2Tmg7ukURpv3oftP4WmiuC"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 266213,
       "name": "AKM",
       "url": "https://open.spotify.com/track/3Yn1eOU2fLwJeuBmONmrk2"
@@ -4756,7 +4774,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -5226,6 +5244,24 @@
       "duration_ms": 274137,
       "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
+    },
+    {
+      "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
     },
     {
       "album": {
@@ -6348,7 +6384,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 166153,
       "name": "Drill p\u00e1rty",
       "url": "https://open.spotify.com/track/1aPoBYaPuCZ6ahLuHUNFf4"
@@ -6508,7 +6544,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 155492,
       "name": "D\u00edvej",
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
@@ -6710,7 +6746,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
@@ -10114,7 +10150,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -10730,7 +10766,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 204600,
       "name": "Inverzia",
       "url": "https://open.spotify.com/track/0fP30PpvCS3AB4hBN91GPY"
@@ -11569,6 +11605,24 @@
     },
     {
       "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/6QDzKRaXaNLvz7OkmtMGxX"
+      },
+      "artists": [
+        {
+          "name": "Vaso Patejdl",
+          "url": "https://open.spotify.com/artist/0CbbftseLRwYyUdmOXvH6l"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Kamar\u00e1tka n\u00e1dej",
+      "url": "https://open.spotify.com/track/2367h4ZNVWZK3FM2yS4jc7"
+    },
+    {
+      "album": {
         "name": "J. EDEN E-GEN (mixed by NobodyListen)",
         "url": "https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g"
       },
@@ -12018,7 +12072,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 173589,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/03RojRDRvvbFEPpabo3Aan"
@@ -12160,7 +12214,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 244000,
       "name": "KOMANDER PUMP IT UP",
       "url": "https://open.spotify.com/track/1sk1HMcretzLiljqIBAZ8J"
@@ -13044,7 +13098,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 134518,
       "name": "Life Of Diego",
       "url": "https://open.spotify.com/track/1kQzOvd0NqIQBLlDTN7ki9"
@@ -15179,6 +15233,28 @@
     },
     {
       "album": {
+        "name": "To nejlep\u0161\u00ed 1981-2015",
+        "url": "https://open.spotify.com/album/2dFWy8qsd0SnLcUSDGxaJP"
+      },
+      "artists": [
+        {
+          "name": "Vaso Patejdl",
+          "url": "https://open.spotify.com/artist/0CbbftseLRwYyUdmOXvH6l"
+        },
+        {
+          "name": "O. Zablacka",
+          "url": "https://open.spotify.com/artist/0Sf2hmcNaa0YzSQL5fmcdR"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144213,
+      "name": "Mopedov\u00e1",
+      "url": "https://open.spotify.com/track/4n8EU2mrTw2o6sf7ngdPKQ"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -16297,6 +16373,24 @@
     },
     {
       "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/6QDzKRaXaNLvz7OkmtMGxX"
+      },
+      "artists": [
+        {
+          "name": "Vaso Patejdl",
+          "url": "https://open.spotify.com/artist/0CbbftseLRwYyUdmOXvH6l"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273160,
+      "name": "Nepriznan\u00e1",
+      "url": "https://open.spotify.com/track/2bf1satKE80DmTWhmOFV4X"
+    },
+    {
+      "album": {
         "name": "J. EDEN E-GEN (mixed by NobodyListen)",
         "url": "https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g"
       },
@@ -16872,7 +16966,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 206570,
       "name": "Ni\u010d sa nemen\u00ed",
       "url": "https://open.spotify.com/track/0NJQHng8dKNfJfOktO9XgF"
@@ -20188,7 +20282,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 186782,
       "name": "Re\u017eim neru\u0161it",
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
@@ -20962,7 +21056,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 114000,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
@@ -24257,6 +24351,24 @@
     },
     {
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -24878,6 +24990,24 @@
       "duration_ms": 226800,
       "name": "T\u0159i o\u0159\u00ed\u0161ky",
       "url": "https://open.spotify.com/track/6Da7bx1uRTEhPqyMmxexYa"
+    },
+    {
+      "album": {
+        "name": "Lov na city",
+        "url": "https://open.spotify.com/album/4TdRul8rV6NsU8VzzyyvzH"
+      },
+      "artists": [
+        {
+          "name": "Vaso Patejdl",
+          "url": "https://open.spotify.com/artist/0CbbftseLRwYyUdmOXvH6l"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273933,
+      "name": "Umenie \u017ei\u0165",
+      "url": "https://open.spotify.com/track/6F4eg4xszJnZamIN1sQfzf"
     },
     {
       "album": {
@@ -26051,6 +26181,24 @@
     },
     {
       "album": {
+        "name": "Lov na city",
+        "url": "https://open.spotify.com/album/4TdRul8rV6NsU8VzzyyvzH"
+      },
+      "artists": [
+        {
+          "name": "Vaso Patejdl",
+          "url": "https://open.spotify.com/artist/0CbbftseLRwYyUdmOXvH6l"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205813,
+      "name": "Vo\u0148avky diev\u010dat",
+      "url": "https://open.spotify.com/track/2qagOsBeR0RCt8PfCiwULh"
+    },
+    {
+      "album": {
         "name": "KF ako Rolls",
         "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
       },
@@ -26694,7 +26842,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

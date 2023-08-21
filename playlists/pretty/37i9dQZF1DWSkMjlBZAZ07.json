@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1971368,
+  "num_followers": 1971500,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzE4NzcyNWFjNTRiNjNhNmRjYzIzYzZlZmQ3NjZiNjgwNTFiYWRj",
+  "snapshot_id": "MCxiOGZjMTg0NDQyZDdkMjZlNTY5MWMwZTMyYjJhZjNjMTIxOTUyY2Rl",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Time in the Sun",
         "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 218502,
       "name": "Sweetest Thing",
       "url": "https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Let's Be Still",
-        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Skinny Dipping & Mimosas",
-        "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 163717,
-      "name": "Skinny Dipping & Mimosas",
-      "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Shaky Ground",
         "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Skinny Dipping & Mimosas",
+        "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 163717,
+      "name": "Skinny Dipping & Mimosas",
+      "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 165764,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 199827,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 165764,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Half Moon Light",
-        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 233333,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Half Moon Light",
+        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Shabang",
-        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
-      },
-      "artists": [
-        {
-          "name": "Scott McMicken and THE EVER-EXPANDING",
-          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
-        }
-      ],
-      "duration_ms": 250962,
-      "name": "Diamonds In The Snow",
-      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Graveclothes",
         "url": "https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 227105,
       "name": "Graveclothes",
       "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Pure Serotonin",
+        "url": "https://open.spotify.com/album/7ue0HaSAeeyfcpTBYutsk5"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 271108,
+      "name": "Postcards",
+      "url": "https://open.spotify.com/track/0pqLCQ7tArc5qAH3BnQ9EE"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Pure Serotonin",
-        "url": "https://open.spotify.com/album/7ue0HaSAeeyfcpTBYutsk5"
+        "name": "Shabang",
+        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
       },
       "artists": [
         {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+          "name": "Scott McMicken and THE EVER-EXPANDING",
+          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
         }
       ],
-      "duration_ms": 271108,
-      "name": "Postcards",
-      "url": "https://open.spotify.com/track/0pqLCQ7tArc5qAH3BnQ9EE"
+      "duration_ms": 250962,
+      "name": "Diamonds In The Snow",
+      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Hold On For Dear Life",
-        "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
+        "name": "News from Nowhere",
+        "url": "https://open.spotify.com/album/5HFjkWLcHmVHIwkMEgBltz"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        },
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Graeme James",
+          "url": "https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W"
         }
       ],
-      "duration_ms": 227117,
-      "name": "Hold On For Dear Life",
-      "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
+      "duration_ms": 242000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3VEEWjzviZp6MIWpywkLRq"
     }
   ],
   "unique_name": "Happy Folk",

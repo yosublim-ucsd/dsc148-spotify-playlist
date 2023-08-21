@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Ciara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,978 likes - 171 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,176 likes - 171 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 170 | [Trap Smarter](https://open.spotify.com/track/1EV6tUI8rtDYgszgnDVLRc) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [SAFE & Sound](https://open.spotify.com/album/2FhgHXnunQ49NV0Ikf0sEB) | 1:34 |
 | 171 | [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 |
 
-Snapshot ID: `MCwzZTRlODA1MGRlNDljMjY4MGQ3YWU3MWE5N2UwMzM3OTJmYWY0YjA2`
+Snapshot ID: `MCxiN2NhNzQ0MTZhNDYyNjFmYjYwNTJjYjBmYzAxNzU0NWEzMWI2YzQ0`

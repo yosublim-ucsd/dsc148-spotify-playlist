@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: <a href="https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS?si=YxwaMq5IQm2YyF7DLjNHAQ">Ash</a>
 
-154 songs - 10 hr 25 min
+155 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [lamma bada yatathana](https://open.spotify.com/track/4Pz9TcBWMjH13vMbHItS0v) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Mia\-Maria](https://open.spotify.com/artist/3kzWp3weeysIkcanxwo43n) | [lamma bada yatathana](https://open.spotify.com/album/276Hm5lY9sd4Rf4hWnjfpU) | 7:01 | 2022-03-30 | 2023-06-24 |
 | [Lamouni](https://open.spotify.com/track/64MF9Kii2EhxNr6pm3kkvm) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Lamouni](https://open.spotify.com/album/7z5CP8s91o8O6YXvM4qS3p) | 3:11 | 2023-02-01 | 2023-06-24 |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2023-06-23 |  |
+| [Lessatni Janbi](https://open.spotify.com/track/56gwEECcoSmSwQZb2H3vKv) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL) | [Lessatni Janbi](https://open.spotify.com/album/4dBm61G8fQ5v2qP1KmsBNe) | 3:24 | 2023-08-20 |  |
 | [M3ALLA2 FIKI](https://open.spotify.com/track/2pD9H91mjZjZKxeFaU44RP) | [RABS](https://open.spotify.com/artist/5NnkfNnEiHdhoSnOetQM1R) | [M3ALLA2 FIKI](https://open.spotify.com/album/5xfsxvdJIIA28ss6KuRYUJ) | 4:00 | 2023-02-02 | 2023-06-24 |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2022-03-30 | 2023-06-24 |
 | [Maktoub](https://open.spotify.com/track/3YLQqkq1qr9gecj09ltfcd) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:56 | 2023-06-23 | 2023-08-17 |

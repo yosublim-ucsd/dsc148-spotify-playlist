@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Sabrina Carpenter
 
-1,764 songs - 3 day 17 hr 25 min
+1,766 songs - 3 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [100 degrees](https://open.spotify.com/track/3CUpbtzoKSma5AnP7kLoEv) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [100 degrees](https://open.spotify.com/album/1FtqIRyFbGToVdXkmWN9f0) | 2:38 | 2022-10-21 | 2022-12-03 |
 | [12345](https://open.spotify.com/track/0fxUGOzBYJGKgs5ZKw1Em5) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Egg in the Backseat](https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W) | 2:44 | 2022-07-22 | 2022-08-13 |
 | [14](https://open.spotify.com/track/1AlbmEnnFgR9b4yCw9zkzf) | [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [14](https://open.spotify.com/album/6Y8manNCbK8DfkDFZrEQMh) | 3:28 | 2022-07-01 | 2022-07-08 |
+| [16](https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [16](https://open.spotify.com/album/2u5D7W8rZ1azEWJ02BX27P) | 2:45 | 2023-08-18 |  |
 | [1st](https://open.spotify.com/track/7ocjI38QtLM2Jk3ewzGh04) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [1st](https://open.spotify.com/album/3ar66R02DuMSuvw56H0Ivd) | 3:03 | 2023-02-03 | 2023-02-19 |
 | [1st Gen](https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [1st Gen](https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg) | 2:20 | 2023-08-11 |  |
 | [2 The Weekend](https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [2 The Weekend](https://open.spotify.com/album/3IjdYALpGG1oDMU0PRmFTw) | 2:35 | 2021-11-19 | 2022-03-12 |
@@ -105,6 +106,7 @@
 | [asshole](https://open.spotify.com/track/5XF5930PecOpR4E60wmkK8) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [asshole](https://open.spotify.com/album/4Ne1eeeJkUdQ45hGlmtW87) | 2:36 | 2021-03-20 | 2021-05-28 |
 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 | 2021-03-07 | 2021-10-10 |
 | [Athena](https://open.spotify.com/track/7GgO1gxHBjmnMGTkv5RlKX) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Athena](https://open.spotify.com/album/1u6z7qZdHPtBF4eKGMA5Z9) | 3:58 | 2022-08-01 | 2022-08-25 |
+| [Automatic](https://open.spotify.com/track/5R8lOiAXEKj6IS1wJROpr7) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:07 | 2023-08-18 |  |
 | [Automatic Driver \- Tyler, The Creator Remix](https://open.spotify.com/track/59S3SiDxj914oyXd25zt3j) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Automatic Driver \(Tyler, The Creator Remix\)](https://open.spotify.com/album/57PHygGtLqa9kJRE3rUy15) | 3:30 | 2021-02-26 | 2021-07-31 |
 | [autumn](https://open.spotify.com/track/6MaZfHpY4EbxiLcEoZMjtO) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [autumn](https://open.spotify.com/album/2prJ7eqFdaGHq95cJdDjzj) | 2:47 | 2021-02-22 | 2021-12-04 |
 | [avoiding](https://open.spotify.com/track/33n7ILhPNDsTjksq15o4qJ) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [avoiding](https://open.spotify.com/album/2O8CTOf7Urxw9curxCraoY) | 4:07 | 2019-07-27 | 2020-04-15 |
@@ -119,7 +121,7 @@
 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 | 2019-05-26\* | 2020-02-20 |
 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 | 2022-12-02 | 2023-01-21 |
 | [Backwards \(feat\. Knox\)](https://open.spotify.com/track/6GgVR79vDpKNuHmULz7loA) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Backwards \(feat\. Knox\)](https://open.spotify.com/album/2WjAg7qrEs39TCmltinppH) | 3:10 | 2023-06-30 |  |
-| [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 | 2023-04-22 |  |
+| [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 | 2023-04-22 | 2023-08-21 |
 | [bad day](https://open.spotify.com/track/5612zrK8d3HhPCobx2Kuci) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [bad day](https://open.spotify.com/album/7vTPUsgBPNHmB3T1hoQOJO) | 2:04 | 2021-03-27 | 2021-11-20 |
 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 | 2021-04-27 | 2021-11-20 |
 | [Bad Energy](https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [The Character](https://open.spotify.com/album/7dAPAxXAFZPsBDiSJu1CUx) | 2:22 | 2022-07-29 | 2022-10-26 |
@@ -582,7 +584,7 @@
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 | 2023-08-20 |
 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 | 2022-05-13 | 2022-06-25 |
 | [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 | 2022-06-17 | 2022-10-28 |
-| [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 | 2023-06-02 |  |
+| [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 | 2023-06-02 | 2023-08-21 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-12-23 | 2023-01-28 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-10 | 2023-02-04 |
 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 | 2022-02-18 | 2022-07-16 |

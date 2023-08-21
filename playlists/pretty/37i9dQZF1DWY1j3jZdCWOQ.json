@@ -1,12 +1,12 @@
 {
   "description": "Spain without the S ",
-  "num_followers": 421451,
+  "num_followers": 421722,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGFjYjk0ZDZhNzhlY2MwMWEwZDFkYjdhZGU3MGFkYTk5ZTQ5ZmQy",
+  "snapshot_id": "MCwzMTdkNDYxOTg3MzUzNTJmOWJiOGQ4ZDJmMzZhNmFlMjAwZjNiMGQ1",
   "tracks": [
     {
       "added_at": "2023-03-23 19:18:07",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-03-23 19:18:07",
       "album": {
-        "name": "sTraNgeRs",
-        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 195747,
-      "name": "sTraNgeRs",
-      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
-    },
-    {
-      "added_at": "2023-03-23 19:18:07",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 209200,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+    },
+    {
+      "added_at": "2023-03-23 19:18:07",
+      "album": {
+        "name": "sTraNgeRs",
+        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 195747,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
       "added_at": "2023-03-23 19:18:07",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-23 19:18:07",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "The Downfall Of Us All",
-      "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
-    },
-    {
-      "added_at": "2023-03-23 19:18:07",
-      "album": {
         "name": "Cinematics (Expanded Edition)",
         "url": "https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 211026,
       "name": "Partners in Crime (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
+    },
+    {
+      "added_at": "2023-03-23 19:18:07",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "The Downfall Of Us All",
+      "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
     }
   ],
   "unique_name": "teen angst",

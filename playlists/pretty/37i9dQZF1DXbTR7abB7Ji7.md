@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTR7abB7Ji7.md) - [plain]
 
 > The perfect instrumental accompaniment to your wedding day or engagement party; elegant background music for seating guests, walking down the aisle or cocktail hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,587 likes - 46 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,696 likes - 46 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Einaudi: I Giorni](https://open.spotify.com/track/6TCX42krn2Hq8vqCuEIkrh) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [I Giorni](https://open.spotify.com/album/5P6Z5FDdLweX6oXp38nFHl) | 5:59 |
+| 1 | [I Giorni](https://open.spotify.com/track/6TCX42krn2Hq8vqCuEIkrh) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [I Giorni](https://open.spotify.com/album/5P6Z5FDdLweX6oXp38nFHl) | 5:59 |
 | 2 | [Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon](https://open.spotify.com/track/1Mse9NKBbEASi50CQ4aYhr) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Mozart: Eine Kleine Nachtmusik etc.](https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9) | 5:01 |
 | 3 | [Schubert: Ave Maria, D.839 \- Arr\. Hazell](https://open.spotify.com/track/6dJnup5SONQ4YRV44eThsh) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Members Of The BBC National Orchestra Of Wales](https://open.spotify.com/artist/7MsqdRX56j8HrqSEoLFtrs), [Members of the English Chamber Orchestra](https://open.spotify.com/artist/04zr23ENfpoJoyuoGUeFRK), [Members Of The Philharmonia Orchestra](https://open.spotify.com/artist/4w62fxz0Jcdpcv3pHmFZm8), [Christopher Warren\-Green](https://open.spotify.com/artist/6exISmHxzPKtfKOWwkVHwK) | [The Royal Wedding \- The Official Album](https://open.spotify.com/album/7ivHp5OyJc1kgb4YBugNuA) | 2:37 |
 | 4 | [A Thousand Years](https://open.spotify.com/track/0E0xI4AgMNU7UkwBt3FCVN) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:35 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTR7abB7Ji7.md) - [plain]
 | 45 | [Andante spianato](https://open.spotify.com/track/0UCnqGnJpwvgEwzUMoVcaQ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Eldar Nebolsin](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX), [Warsaw Philharmonic Orchestra](https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED), [Antoni Wit](https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh) | [Chopin: Piano Concerto No\. 2 \- Variations on La ci darem \- Andante spianato and Grande polonaise brillante](https://open.spotify.com/album/4wJI6GbiR951BmUdbrVkFE) | 4:46 |
 | 46 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
 
-Snapshot ID: `MCxlNzk4ODAwN2QyYmQ2YThhN2FiZWNjNTc1MzgzZDRiZWVmOWE1MDQ3`
+Snapshot ID: `MCw3M2Y0MzM4MDFjMGY1NTc5OWM5NzU2YmFjYzM2NmNjMzI0ZmIxM2I0`

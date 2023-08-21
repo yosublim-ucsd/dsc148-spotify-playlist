@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1526418,
+  "num_followers": 1526712,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzgxMGQwYTY2MjUzMjc2M2I2ZjYyYzdlZTk4Y2IwNTllM2VlMTBi",
+  "snapshot_id": "MCwxZWIxZGM3NmE4MjFiYWM3ZGYwNTYwYTYwNGFkNjI1ZmYwMjNhNjAy",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Suicidal Tendencies",
-        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Institutionalized",
-      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 136426,
       "name": "Human Fly",
       "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Suicidal Tendencies",
+        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 89160,
-      "name": "Minor Threat",
-      "url": "https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 279520,
       "name": "I'm Waiting For The Man",
       "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 89160,
+      "name": "Minor Threat",
+      "url": "https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 120333,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 119826,
       "name": "Last Caress",
       "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 120333,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 100333,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 211973,
       "name": "Anarchy in the U.K.",
       "url": "https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
       "artists": [
         {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
+      "duration_ms": 100333,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 297733,
+      "name": "Gut Feeling / (Slap Your Mammy)",
+      "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 211200,
       "name": "TV Party",
       "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 297733,
-      "name": "Gut Feeling / (Slap Your Mammy)",
-      "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "GI",
-        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
-      },
-      "artists": [
-        {
-          "name": "Germs",
-          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
-        }
-      ],
-      "duration_ms": 104360,
-      "name": "Lexicon Devil",
-      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Day the Country Died",
         "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 164200,
       "name": "Mickey Mouse Is Dead",
       "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "GI",
+        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
+      },
+      "artists": [
+        {
+          "name": "Germs",
+          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+        }
+      ],
+      "duration_ms": 104360,
+      "name": "Lexicon Devil",
+      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Can I Say",
-        "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
-      },
-      "artists": [
-        {
-          "name": "Dag Nasty",
-          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Angels With Dirty Faces",
         "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 206666,
       "name": "Hurry Up Harry",
       "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Can I Say",
+        "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
+      },
+      "artists": [
+        {
+          "name": "Dag Nasty",
+          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
     },
     {
       "added_at": "2022-11-28 15:26:19",

@@ -1,12 +1,12 @@
 {
   "description": "Crowdpleasing classics for an easy, carefree day.",
-  "num_followers": 416643,
+  "num_followers": 416795,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGIxMDcxYmFkOWNlYWM5YTJlZjAyOGNjMjhhNTE3OGEyNGU1OTcx",
+  "snapshot_id": "MCw0MjYxNzEwOWJjZDNlNGMyMTEwMjEyYmI2YWQxOTExNjUwZGMwMTAy",
   "tracks": [
     {
       "added_at": "2023-03-23 19:38:22",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-07-05 19:06:26",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2023-07-05 19:06:26",
-      "album": {
         "name": "Bigger Than Both Of Us",
         "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 142786,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
+    },
+    {
+      "added_at": "2023-07-05 19:06:26",
+      "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 324422,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 330643,
       "name": "All Right Now",
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 324422,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
     },
     {
       "added_at": "2023-07-05 19:06:26",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Movin' Out (Anthony's Song)",
-      "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "30 Years Of Funk: 1969-1999 The Anthology",
         "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 202733,
       "name": "Some Kind Of Wonderful - Remastered 1999",
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Movin' Out (Anthony's Song)",
+      "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Eddie Money (2022 Remaster)",
-        "url": "https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye"
-      },
-      "artists": [
-        {
-          "name": "Eddie Money",
-          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
-        }
-      ],
-      "duration_ms": 240419,
-      "name": "Two Tickets to Paradise (2022 Remaster)",
-      "url": "https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Gorilla (2019 Remaster)",
         "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 178693,
       "name": "Mexico - 2019 Remaster",
       "url": "https://open.spotify.com/track/0CMuiL9aePFA6VG3wBeNPi"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Eddie Money (2022 Remaster)",
+        "url": "https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye"
+      },
+      "artists": [
+        {
+          "name": "Eddie Money",
+          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
+        }
+      ],
+      "duration_ms": 240419,
+      "name": "Two Tickets to Paradise (2022 Remaster)",
+      "url": "https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Turn to Stone",
-      "url": "https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "With A Little Help From My Friends",
         "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 250840,
       "name": "Feelin' Alright",
       "url": "https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Turn to Stone",
+      "url": "https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
-      },
-      "artists": [
-        {
-          "name": "The Hooters",
-          "url": "https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "And We Danced",
-      "url": "https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 272946,
       "name": "Rikki Don't Lose That Number",
       "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
+      },
+      "artists": [
+        {
+          "name": "The Hooters",
+          "url": "https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "And We Danced",
+      "url": "https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC"
     },
     {
       "added_at": "2023-07-05 19:06:26",

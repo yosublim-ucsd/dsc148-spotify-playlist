@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-634 songs - 1 day 8 hr 22 min
+635 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Fresh Prince](https://open.spotify.com/track/2eqb2THAY8YgGXPEJasn0Z) | [Sivero](https://open.spotify.com/artist/0QgXMWhEvffZRMma292j8n) | [Fresh Prince](https://open.spotify.com/album/1CJY6BaJCiTHkY0YzROl0K) | 2:59 | 2022-06-03 | 2023-08-18 |
 | [From Me To You \- Edit](https://open.spotify.com/track/1AgZA1lTtCXeIbhXrIup4W) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [From Me To You](https://open.spotify.com/album/1oUmEpb1N5hk2F7pBTLUDC) | 3:33 | 2022-01-14 | 2022-04-19 |
 | [Frozen Tide](https://open.spotify.com/track/2nPZts2J87iS1N0tmzvEMO) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Frozen Tide](https://open.spotify.com/album/7spxBGGlm1asxU4h681SMO) | 2:28 | 2022-10-14 | 2023-06-27 |
-| [Fuck Our Fears \(feat\. GASHI\)](https://open.spotify.com/track/0pacGoPRQV0e6pcowMqrPJ) | [JESSIKA](https://open.spotify.com/artist/2aOthbkNIZZkkex559x6Vq), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Fuck Our Fears \(feat\. GASHI\)](https://open.spotify.com/album/620jmqRdU3vFJ6ASxc5i8c) | 3:14 | 2023-07-07 |  |
+| [Fuck Our Fears \(feat\. GASHI\)](https://open.spotify.com/track/0pacGoPRQV0e6pcowMqrPJ) | [JESSIKA](https://open.spotify.com/artist/2aOthbkNIZZkkex559x6Vq), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Fuck Our Fears \(feat\. GASHI\)](https://open.spotify.com/album/620jmqRdU3vFJ6ASxc5i8c) | 3:14 | 2023-07-07 | 2023-08-21 |
 | [Future Self \(feat\. Melody Noel\)](https://open.spotify.com/track/0Oom8UCxknB2ussaW0P9HL) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Future Self \(feat\. Melody Noel\)](https://open.spotify.com/album/1VOn5C736v12oFdDVnwdd2) | 3:21 | 2022-01-14 | 2022-05-20 |
 | [Get To Me](https://open.spotify.com/track/53gkmTnp8eEZ1gQWouBA7n) | [Lonely Night](https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx), [Ellou](https://open.spotify.com/artist/5DtAmwUDq3xbaWecjPBeSy), [Nody](https://open.spotify.com/artist/2SntfW96QEEwMEGO2Ns61z) | [Get To Me](https://open.spotify.com/album/5FbgV9W1TqNKyrlYo71DPv) | 2:49 | 2023-01-11 |  |
 | [Get With Nobody \(feat\. Baimz\)](https://open.spotify.com/track/0gqKw1OIuiSC9Ad6QVWXAK) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Baimz](https://open.spotify.com/artist/5Hg39B4SZlegOjpTNzaclT) | [Get With Nobody \(feat\. Baimz\)](https://open.spotify.com/album/5maWcarbPD7B93zV5o6DCr) | 3:19 | 2022-12-09 |  |
@@ -403,6 +403,7 @@
 | [Often \- Kygo Remix](https://open.spotify.com/track/27NV2KxoQ8WuLMqlTDI61F) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Often \(Kygo Remix\)](https://open.spotify.com/album/0V4FRK9laLF1enOUga4b2d) | 3:54 | 2022-04-01 | 2022-04-21 |
 | [Oh Baby](https://open.spotify.com/track/2MmmLzAFA2XmKB4hP843gh) | [Seizo](https://open.spotify.com/artist/5ECvdR4H6eAsFL3kmUUzdX) | [The Bearded Man \- Beards On The Beach \(Ibiza 2016\)](https://open.spotify.com/album/2RKn3sW8xSUVgChxnvDVl0) | 2:39 | 2022-01-14 | 2022-04-27 |
 | [Old Guitar](https://open.spotify.com/track/38tGRxFP5NkWbtOWsXbQ0L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Old Guitar](https://open.spotify.com/album/5OMuOXDJwxGMLXvPj9kvqz) | 3:28 | 2022-04-01 | 2022-04-21 |
+| [Old Life](https://open.spotify.com/track/0zDd81VI35l7iRj1fUvadx) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Old Life](https://open.spotify.com/album/7LYLKTXCoT8kotqcflJTvR) | 3:04 | 2023-08-18 |  |
 | [On Fire](https://open.spotify.com/track/0uExPDE9Myy7FN9WkKNL72) | [True Emotions](https://open.spotify.com/artist/4g90cxKE5fIoVkPK3Rll02) | [On Fire](https://open.spotify.com/album/3rxExh454D4LTixvdiJ6Hj) | 3:28 | 2022-04-01 | 2022-07-29 |
 | [On My Own](https://open.spotify.com/track/2OmBaJYDXL2ygMVVV4M7L0) | [Gktrk](https://open.spotify.com/artist/2hoTdea8RAt8OxW7RIcR6d), [Daïtshi](https://open.spotify.com/artist/6dYujIzzHgSWODbmPYoJVC), [Mikayla](https://open.spotify.com/artist/53gBJot4NtKHSCLTuUdTYR) | [On My Own](https://open.spotify.com/album/0YlVmBr9EBZc9NrFZvYjho) | 2:24 | 2022-04-29 | 2023-06-19 |
 | [On My Side](https://open.spotify.com/track/5hRVBXMn6TFyOncZTYl7ej) | [Hounded](https://open.spotify.com/artist/0ttHbJjRLbyrOgRy0oUMug), [Savoi](https://open.spotify.com/artist/4dRRQxDsUXpBkGqjS7vNcO) | [On My Side \(feat\. Savoi\)](https://open.spotify.com/album/5PCo30Irlzv3HTIZYae18C) | 3:04 | 2022-01-14 | 2022-05-10 |

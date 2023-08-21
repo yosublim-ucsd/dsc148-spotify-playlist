@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 59407,
+  "num_followers": 59457,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTE4ODkyMTBkNzI4NzVlYzkzOWEwZWIwNTg2Njk3MTJiNzQzOWEz",
+  "snapshot_id": "MCwwZjdlMzM1OGM2YjYwZTMwNGEyN2VmYjUzOTMxNDIwN2UwODdiZjk5",
   "tracks": [
     {
       "added_at": "2023-08-18 14:34:32",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-08-18 14:34:32",
       "album": {
+        "name": "Freya",
+        "url": "https://open.spotify.com/album/5HmDv1SzlqZzy4hE22Oycs"
+      },
+      "artists": [
+        {
+          "name": "Soothing Dreamscapes",
+          "url": "https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG"
+        }
+      ],
+      "duration_ms": 144766,
+      "name": "Huma",
+      "url": "https://open.spotify.com/track/4sUDVt3gP4omAmrt6UzI4g"
+    },
+    {
+      "added_at": "2023-08-18 14:34:32",
+      "album": {
         "name": "Vibrational",
         "url": "https://open.spotify.com/album/7ItE1PpkbhDgDQQkmGEn7V"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-08-18 14:34:32",
       "album": {
-        "name": "Lights on Water",
-        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Lights on Water",
-      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
-    },
-    {
-      "added_at": "2023-08-18 14:34:32",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 160000,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
+    },
+    {
+      "added_at": "2023-08-18 14:34:32",
+      "album": {
+        "name": "Lights on Water",
+        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Lights on Water",
+      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
     },
     {
       "added_at": "2023-08-18 14:34:32",
@@ -1036,22 +1052,6 @@
       "added_at": "2023-08-18 14:34:32",
       "album": {
         "name": "Hush",
-        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
-      },
-      "artists": [
-        {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
-        }
-      ],
-      "duration_ms": 161012,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
-    },
-    {
-      "added_at": "2023-08-18 14:34:32",
-      "album": {
-        "name": "Hush",
         "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
       },
       "artists": [
@@ -1063,6 +1063,22 @@
       "duration_ms": 141724,
       "name": "Hush",
       "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
+    },
+    {
+      "added_at": "2023-08-18 14:34:32",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+      },
+      "artists": [
+        {
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+        }
+      ],
+      "duration_ms": 161012,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
     },
     {
       "added_at": "2023-08-18 14:34:32",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-08-18 14:34:32",
       "album": {
-        "name": "Sleep Sequence",
-        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 203374,
-      "name": "Sleep Sequence",
-      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
-    },
-    {
-      "added_at": "2023-08-18 14:34:32",
-      "album": {
         "name": "Ambient Sleep Bliss",
         "url": "https://open.spotify.com/album/6N4hsBasKsW1LAuv2bPKNp"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-08-18 14:34:32",
       "album": {
-        "name": "Moonlit",
-        "url": "https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3"
+        "name": "Sleep Sequence",
+        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
       },
       "artists": [
         {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
         }
       ],
-      "duration_ms": 158766,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8"
+      "duration_ms": 203374,
+      "name": "Sleep Sequence",
+      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
     },
     {
       "added_at": "2023-08-18 14:34:32",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-18 14:34:32",
       "album": {
-        "name": "Oh so Quiet",
-        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Oh so Quiet",
-      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
-    },
-    {
-      "added_at": "2023-08-18 14:34:32",
-      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2023-08-18 14:34:32",
       "album": {
+        "name": "Oh so Quiet",
+        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
+      },
+      "artists": [
+        {
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Oh so Quiet",
+      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
+    },
+    {
+      "added_at": "2023-08-18 14:34:32",
+      "album": {
         "name": "mOther World",
         "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 124458,
       "name": "mOther World",
       "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
+    },
+    {
+      "added_at": "2023-08-18 14:34:32",
+      "album": {
+        "name": "Moonlit",
+        "url": "https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3"
+      },
+      "artists": [
+        {
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+        }
+      ],
+      "duration_ms": 158766,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8"
     },
     {
       "added_at": "2023-08-18 14:34:32",
@@ -1263,34 +1279,18 @@
     {
       "added_at": "2023-08-18 14:34:32",
       "album": {
-        "name": "Calming Water",
-        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
       },
       "artists": [
         {
-          "name": "Divine Retreat",
-          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
+          "name": "Sleeping Clouds",
+          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
         }
       ],
-      "duration_ms": 239353,
-      "name": "Cleansing Raindrops",
-      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
-    },
-    {
-      "added_at": "2023-08-18 14:34:32",
-      "album": {
-        "name": "Expanded Reality",
-        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
-      },
-      "artists": [
-        {
-          "name": "Axial Flow",
-          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Expanded Reality",
-      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
+      "duration_ms": 170958,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

@@ -8096,7 +8096,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 158509,
       "name": "LELELE",
       "url": "https://open.spotify.com/track/0GacjftLDThkCn0kMJETNh"
@@ -11064,7 +11064,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"
@@ -12665,6 +12665,24 @@
     },
     {
       "album": {
+        "name": "KADER SK.",
+        "url": "https://open.spotify.com/album/2U3BMQ4x81ZIyyrxLcBa9P"
+      },
+      "artists": [
+        {
+          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
+          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163021,
+      "name": "Tutun Sen Bana",
+      "url": "https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y"
+    },
+    {
+      "album": {
         "name": "T\u00f6vbe",
         "url": "https://open.spotify.com/album/27Wl0Q1RGlcHVgMgikuZrR"
       },
@@ -12676,7 +12694,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 192166,
       "name": "T\u00f6vbe",
       "url": "https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,263 likes - 102 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,256 likes - 102 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 93 | [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 |
 | 94 | [En dans på nevroser](https://open.spotify.com/track/2RiGhe1repDRG6NzzcgnQa) | [Oslo Ess](https://open.spotify.com/artist/0uDxCS9qmxWJTWCSLAK8Rr) | [En dans på nevroser](https://open.spotify.com/album/2M1fA77nW0oFZQ9FOWJFy5) | 2:37 |
 | 95 | [Can't Find The Brakes](https://open.spotify.com/track/6XjAQNS6ixTdIPsmxi1M3p) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Can't Find The Brakes](https://open.spotify.com/album/0BNdlvpT02P5UCqXf3hzSa) | 3:02 |
-| 96 | [Feel The Same](https://open.spotify.com/track/74P7rZ3cDSfxUhdcVaz1LD) | [Sam Day](https://open.spotify.com/artist/63zxJAaGx8Y3kNX3LDl8MT), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a), [Julie Yu](https://open.spotify.com/artist/0xzx4FfqCREw2ZbVwuey1g) | [Feel The Same](https://open.spotify.com/album/7KqjcGKqEQl70lXkSdZQ7Z) | 2:41 |
+| 96 | [Feel The Same](https://open.spotify.com/track/74P7rZ3cDSfxUhdcVaz1LD) | [Sam Day](https://open.spotify.com/artist/63zxJAaGx8Y3kNX3LDl8MT), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a), [Julie Yu](https://open.spotify.com/artist/48wNEk3VQ435LP1t90y8lz) | [Feel The Same](https://open.spotify.com/album/7KqjcGKqEQl70lXkSdZQ7Z) | 2:41 |
 | 97 | [This Time](https://open.spotify.com/track/5tDZrdg12chJxvwgTuqwqp) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [VIVECA](https://open.spotify.com/artist/2uYfZgbgpBFnJMlNnHCdLe) | [This Time](https://open.spotify.com/album/019Q21F3xq4sNaEQ4vUZZn) | 3:48 |
 | 98 | [Make It Right](https://open.spotify.com/track/2wNqCDXBv98atZ8KigYCtV) | [WIN WIN](https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt), [FAME Sounds](https://open.spotify.com/artist/47gZgELu7feCG8NwdhoNF2), [Lola K](https://open.spotify.com/artist/4DgpZkPvuXxPMeo4jJAHl6) | [Make It Right](https://open.spotify.com/album/5W7bqUc1xKY1RneGRVu423) | 1:58 |
 | 99 | [Life Around You](https://open.spotify.com/track/0IelRLp96dmmmZdObUeEp8) | [Good Vibe Delivery](https://open.spotify.com/artist/4swXjMO9bISpgMepYlO1wJ) | [Life Around You](https://open.spotify.com/album/5hxUg4isxXAzMHp7hEZVk2) | 1:58 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 101 | [Glasgowkyss](https://open.spotify.com/track/0KyqGOCLIyyYGa9UMXS5si) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Glasgowkyss](https://open.spotify.com/album/2diuedXxsq0lRszTiK28uN) | 3:54 |
 | 102 | [Our Energy](https://open.spotify.com/track/4KM8bp4QcSxlnq4VNszzNg) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Gina Livia](https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh) | [Our Energy](https://open.spotify.com/album/0baRBtUwBjjD5xWPyGAJeV) | 3:02 |
 
-Snapshot ID: `MCwyNDY0ODQ0NWY2ODcxOGZjNmNiMWU5MzNlNGUyMWZiYTRjZmFmY2M5`
+Snapshot ID: `MCw1MzIwZjI1ZjA1YmM3ZDRkOGZkMzlhN2Y1MjRhY2RhNGZkYmNiZjZl`

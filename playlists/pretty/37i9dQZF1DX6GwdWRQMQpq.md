@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,907,704 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,908,775 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
 | 50 | [Dusties](https://open.spotify.com/track/7kswp4MJqT6Ts9P0iVL3kg) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Dusties](https://open.spotify.com/album/07gLKffRhrhVRpgkqN6K28) | 2:26 |
 
-Snapshot ID: `MCxiMjY3NzI1ODg4MjhjN2I4YjQ1MzFjZDIzZTIwOTEyZmE5MGI5NGUz`
+Snapshot ID: `MCwwYjU4NmEyNjJlYzJkYzIxZTFiMWYxOTRkZWI4NDk3YzkyMDI0ZDRi`

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-413 songs - 1 day 12 hr 6 min
+414 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Simply Put](https://open.spotify.com/track/5F8ZtPUBSVjNygbxNfp4vR) | [Bakai](https://open.spotify.com/artist/5O7M8SLNNzWp0TJWufgUxA), [Orah](https://open.spotify.com/artist/4t0cROlLdti1op48QSOHmn) | [Kiwi Daze](https://open.spotify.com/album/2Knyl8PMxuUU2vHI0h9lgx) | 3:24 | 2021-12-08 |  |
 | [Sin City](https://open.spotify.com/track/1YQiIO9Lfx00x2Ce55316v) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Swing Theory EP](https://open.spotify.com/album/6a6PwmzMz6P2T3SZez82Mj) | 6:31 | 2021-12-08 | 2022-07-28 |
 | [Sinuous](https://open.spotify.com/track/6v6YqwH38kDXhTxPHGi1UN) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Sinuous EP](https://open.spotify.com/album/0pyomTkFrKNckotPAbWSKw) | 4:09 | 2021-12-08 | 2023-05-06 |
+| [Sirena Deep](https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sirena Deep](https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl) | 5:41 | 2023-08-18 |  |
 | [Skyline](https://open.spotify.com/track/6RkBU15iuIWpNA67pL4ZE7) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu) | [Skyline EP](https://open.spotify.com/album/4mDdzRcCfgkleAYlKB17VG) | 8:26 | 2021-12-08 |  |
 | [Snow In The Distance](https://open.spotify.com/track/3A4MQf1npDonTCo8L2D4HS) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 2:32 | 2023-04-04 |  |
 | [Sofia's Theme](https://open.spotify.com/track/16qgL8moRXVRZA5K0yU4yZ) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Arum Flowers](https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu) | [Sofia's Theme](https://open.spotify.com/album/2GBTgLWpMzjDS3LPazU8C1) | 5:26 | 2021-12-08 | 2022-07-29 |
@@ -380,7 +381,7 @@
 | [Trace](https://open.spotify.com/track/6GiNEkzxsD0IQARCc6eHjE) | [Tommy Tickle](https://open.spotify.com/artist/6fdPipPgwuSQrqDkAFpqu9) | [Trace](https://open.spotify.com/album/5eyT1hs1NEOkcSk6uyBDxT) | 3:31 | 2021-12-08 | 2022-07-29 |
 | [Tranquility](https://open.spotify.com/track/1FTbeseqg1XrgTnPjhChjn) | [Tommy Vercetti](https://open.spotify.com/artist/2noNB4p7pYhP4XfNcdDfJc) | [Tranquility EP](https://open.spotify.com/album/3sb10HqXfC7j3JXdp1j9Up) | 5:56 | 2021-12-08 | 2022-07-29 |
 | [Transience](https://open.spotify.com/track/0rWfxCowxTVuh4gLNGDcme) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Transience EP](https://open.spotify.com/album/0LmBlbVu1Q7UBs0x4aROWz) | 5:40 | 2023-01-06 |  |
-| [Transit of Venus](https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac) | [Processing Vessel](https://open.spotify.com/artist/5Lyrb1o3Ep95k5A3nhtiqz) | [Spacefaring](https://open.spotify.com/album/4LcRkEnfpQm4akG6q0gr4F) | 6:48 | 2021-12-08 |  |
+| [Transit of Venus](https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac) | [Processing Vessel](https://open.spotify.com/artist/5Lyrb1o3Ep95k5A3nhtiqz) | [Spacefaring](https://open.spotify.com/album/4LcRkEnfpQm4akG6q0gr4F) | 6:48 | 2021-12-08 | 2023-08-21 |
 | [Trilobit](https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov) | [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Sarcophyton / Trilobit](https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E) | 7:40 | 2021-12-08 | 2023-07-03 |
 | [Trouble](https://open.spotify.com/track/6nhUxgNa071Y79ihXy8K1c) | [Friz07](https://open.spotify.com/artist/39HPoPdSDDc9nJO6d3mOZR) | [Save The Night \- House: Trouble](https://open.spotify.com/album/4WyBZhrBG7FJTKXFRBLRf6) | 7:13 | 2021-12-08 | 2022-07-22 |
 | [tu tienes mi corazón](https://open.spotify.com/track/2b4xMVXYYIIbWjDLSy1Wcv) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [tu tienes mi corazón](https://open.spotify.com/album/6JcbnYuwiJ1UYCAtlwSWlo) | 4:09 | 2021-12-08 |  |

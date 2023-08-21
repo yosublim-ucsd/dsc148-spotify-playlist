@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paz Court.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,473 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,475 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,20 +30,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 20 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
 | 21 | [Si me dejas](https://open.spotify.com/track/4pCGMLMhgZlyseZ8Au5Nh1) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n), [Franz Mesko](https://open.spotify.com/artist/6tfDJJX5alHOFNYcxzHL66) | [La Niña Rayo](https://open.spotify.com/album/14VjpVYVi3CGHvJYuOrHWL) | 4:46 |
 | 22 | [Cm no me va a doler?](https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Crónicas de un cora roto](https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2) | 3:32 |
-| 23 | [Purga](https://open.spotify.com/track/0N40SPBpzzLUEbLhyWa3xA) | [Dania Neko](https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE) | [Depura](https://open.spotify.com/album/3vjJyFUnFaBtNwKxJkWmoI) | 1:38 |
-| 24 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
-| 25 | [Flor De Azucena](https://open.spotify.com/track/5YdQ2kntFxlQGsAKdnwS4n) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Todas Seremos Reinas](https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd) | 3:31 |
-| 26 | [Manzano](https://open.spotify.com/track/3NOf0QLsXrP9Urv50nkA5L) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Manzano](https://open.spotify.com/album/5NwWXF2UL3jwK5WY5aZrdi) | 3:12 |
-| 27 | [Mi Poder](https://open.spotify.com/track/3aOGGk2vLVaaB9hd22ELsW) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Mi Poder](https://open.spotify.com/album/565UI9ZusNFHOzmlLbCQhV) | 4:20 |
-| 28 | [bfly](https://open.spotify.com/track/0STumFIQjbAGvDILpjOmFL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:41 |
+| 23 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
+| 24 | [Purga](https://open.spotify.com/track/0N40SPBpzzLUEbLhyWa3xA) | [Dania Neko](https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE) | [Depura](https://open.spotify.com/album/3vjJyFUnFaBtNwKxJkWmoI) | 1:38 |
+| 25 | [Manzano](https://open.spotify.com/track/3NOf0QLsXrP9Urv50nkA5L) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Manzano](https://open.spotify.com/album/5NwWXF2UL3jwK5WY5aZrdi) | 3:12 |
+| 26 | [Flor De Azucena](https://open.spotify.com/track/5YdQ2kntFxlQGsAKdnwS4n) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Todas Seremos Reinas](https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd) | 3:31 |
+| 27 | [bfly](https://open.spotify.com/track/0STumFIQjbAGvDILpjOmFL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:41 |
+| 28 | [Mi Poder](https://open.spotify.com/track/3aOGGk2vLVaaB9hd22ELsW) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Mi Poder](https://open.spotify.com/album/565UI9ZusNFHOzmlLbCQhV) | 4:20 |
 | 29 | [Te Fuiste](https://open.spotify.com/track/7lfZPghEhMddjiKmUUzjGf) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Te Fuiste](https://open.spotify.com/album/6iki406BxDxrFOXfaLVxHC) | 3:16 |
 | 30 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 |
 | 31 | [Me Gustas](https://open.spotify.com/track/0eeVBQ80pEKWMxKIIuwjFc) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 3:23 |
 | 32 | [Nanai](https://open.spotify.com/track/5Gl6ibnuMpUU9jiJ6idF7Q) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 4:23 |
 | 33 | [Amante](https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:51 |
-| 34 | [Algo Real \- Acústico](https://open.spotify.com/track/3KFeZhnUFQTB34gh4kAtcw) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Solosiberia](https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1) | [No Me Detiene \(Acústico\)](https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs) | 2:28 |
-| 35 | [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 |
-| 36 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
+| 34 | [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 |
+| 35 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
+| 36 | [Algo Real \- Acústico](https://open.spotify.com/track/3KFeZhnUFQTB34gh4kAtcw) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Solosiberia](https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1) | [No Me Detiene \(Acústico\)](https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs) | 2:28 |
 | 37 | [Rey secreto](https://open.spotify.com/track/1KG6D1n93vB5N79MncATlg) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Rey Secreto](https://open.spotify.com/album/0uvDf9ljskD5hI9XxvBIJI) | 3:19 |
 | 38 | [Me Atrapo](https://open.spotify.com/track/7hkW1zfCSUG3ydscxBI2Rb) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Me Atrapo](https://open.spotify.com/album/0ey9v3dXxNPZuSc9Vx27S6) | 4:10 |
 | 39 | [Quiero Estar Sola](https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX) | [María Colores](https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan) | [Quiero Estar Sola](https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
 | 50 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 
-Snapshot ID: `MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0`
+Snapshot ID: `MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz`

@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico C\u00e9sar",
-  "num_followers": 344524,
+  "num_followers": 344636,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDJkNDBiMWNmYjkzOWM5Mzk4ZGQzYmI5ZjQ4NDJhZDg4ZGY3Y2Rl",
+  "snapshot_id": "MCw0N2IwYTE3MWU1MzNhZjJmNmQ4MDhmMzI3NjkxYzM0NjU3Y2JkMGE2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:36:55",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Serafim",
-        "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 300028,
-      "name": "Serafim",
-      "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Esse Amor Chegou",
         "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 152801,
       "name": "Esse Amor Chegou",
       "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Serafim",
+        "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 300028,
+      "name": "Serafim",
+      "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1071,26 +1071,22 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "ESTRELA",
-        "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         },
         {
-          "name": "Flor Gil",
-          "url": "https://open.spotify.com/artist/1K0XrriGifMKnhdKhxODXy"
-        },
-        {
-          "name": "Sol de Maria",
-          "url": "https://open.spotify.com/artist/1neBz4e5qmsNOeblVEoS2G"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 185777,
-      "name": "ESTRELA",
-      "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1111,26 +1107,6 @@
       "duration_ms": 204873,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Tarde Em Itapu\u00e3",
-      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1187,6 +1163,30 @@
       "duration_ms": 185691,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "ESTRELA",
+        "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Flor Gil",
+          "url": "https://open.spotify.com/artist/1K0XrriGifMKnhdKhxODXy"
+        },
+        {
+          "name": "Sol de Maria",
+          "url": "https://open.spotify.com/artist/1neBz4e5qmsNOeblVEoS2G"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "ESTRELA",
+      "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 194443,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "Ao Que Vai Chegar",
         "url": "https://open.spotify.com/album/6QVpgpJQUDGHL97KChJ39z"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 206457,
       "name": "Ao Que Vai Chegar",
       "url": "https://open.spotify.com/track/0vMwa2OtZ2FLsqQ1lJBFYK"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 194443,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Tenho Sede",
-        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 190468,
-      "name": "Tenho Sede",
-      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Teus Olhos em Mim",
         "url": "https://open.spotify.com/album/0IYDM5cNdsuyjYD1jZ4Ubm"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 182528,
       "name": "Teus Olhos em Mim",
       "url": "https://open.spotify.com/track/67oWKa0ZE7IjkHBDMEg8Hm"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Tenho Sede",
+        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 190468,
+      "name": "Tenho Sede",
+      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
-        "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 165815,
-      "name": "Regra Tr\u00eas",
-      "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "De Longe Toda Serra \u00c9 Azul",
         "url": "https://open.spotify.com/album/03GfLlRj4Ni6dzy7M3cHgA"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 177825,
       "name": "De Longe Toda Serra \u00c9 Azul",
       "url": "https://open.spotify.com/track/6dLdOv1iSkJ4Ub9cq5roVM"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
+        "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 165815,
+      "name": "Regra Tr\u00eas",
+      "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1623,6 +1623,26 @@
       "duration_ms": 207240,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Prazer Carnal",
+        "url": "https://open.spotify.com/album/7DWExuvGnXS0T4QEKzePbn"
+      },
+      "artists": [
+        {
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "Wado",
+          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Prazer Carnal",
+      "url": "https://open.spotify.com/track/3XNunTqvR2cxO2uSF76EN0"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1687,26 +1707,6 @@
       "duration_ms": 222925,
       "name": "O Anel",
       "url": "https://open.spotify.com/track/3xg3P55NwmLh29uKCjF5uI"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Prazer Carnal",
-        "url": "https://open.spotify.com/album/7DWExuvGnXS0T4QEKzePbn"
-      },
-      "artists": [
-        {
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        },
-        {
-          "name": "Wado",
-          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Prazer Carnal",
-      "url": "https://open.spotify.com/track/3XNunTqvR2cxO2uSF76EN0"
     },
     {
       "added_at": "2023-07-28 04:36:55",

@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Eyedress, Mac DeMarco
 
-1,246 songs - 3 day 1 hr 44 min
+1,247 songs - 3 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1017,7 +1017,8 @@
 | [Stream](https://open.spotify.com/track/42j12jraWgoae4Q39MiUmt) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Stream](https://open.spotify.com/album/4fYWdQMUjmzeGLiCv8E0nM) | 2:48 | 2022-05-13 | 2022-06-28 |
 | [Stuck](https://open.spotify.com/track/5wnr6e51ZFcNt6NJciCKYG) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [You'll Be Forgiven](https://open.spotify.com/album/1dO6IGNIGxpOivJCvcCE3x) | 3:05 | 2022-10-14 | 2023-02-11 |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-02 | 2023-07-08 |
-| [Stupid 4 U](https://open.spotify.com/track/69wanT7uQsE61wuDCuOoq7) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/7go7I6pad4do86ALsmB8ZC) | 3:56 | 2023-08-18 |  |
+| [Stupid 4 U](https://open.spotify.com/track/0XudTjuk5umhu2Q8KYEZDU) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 3:56 | 2023-08-18 |  |
+| [Stupid 4 U](https://open.spotify.com/track/69wanT7uQsE61wuDCuOoq7) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/7go7I6pad4do86ALsmB8ZC) | 3:56 | 2023-08-18 | 2023-08-21 |
 | [Suddenly](https://open.spotify.com/track/49H43h8jd9pE3qy5v5NseC) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Suddenly](https://open.spotify.com/album/2ujA7Bkj0mWEWPimvJV1Iu) | 4:23 | 2023-07-28 |  |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-01 | 2022-04-23 |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-12-31 | 2022-01-29 |

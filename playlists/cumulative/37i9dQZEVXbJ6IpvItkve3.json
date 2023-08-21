@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 175609,
       "name": "DXB to TLV",
       "url": "https://open.spotify.com/track/1huEeoVeYDxX6XEF640FfM"
@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -8982,7 +8982,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 153874,
       "name": "\u05d2\u05d5\u05e9\u05e4\u05e0\u05e7\u05d0",
       "url": "https://open.spotify.com/track/5I0WaR0LpN4Kn1zwbvd145"
@@ -13196,6 +13196,28 @@
       "duration_ms": 135497,
       "name": "\u05e2\u05d6\u05d1\u05d9",
       "url": "https://open.spotify.com/track/6EVRPTFEzBFCGDy8w0Omow"
+    },
+    {
+      "album": {
+        "name": "TATE WE MADE IT",
+        "url": "https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn"
+      },
+      "artists": [
+        {
+          "name": "Peled",
+          "url": "https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS"
+        },
+        {
+          "name": "Nastia Rod",
+          "url": "https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228234,
+      "name": "\u05e2\u05d6\u05d1\u05ea \u05ea'\u05d1\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy"
     },
     {
       "album": {

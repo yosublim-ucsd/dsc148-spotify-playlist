@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-167 songs - 12 hr 58 min
+168 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [For No One](https://open.spotify.com/track/1fszxlX9SnaiWOZvIEjGFq) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 2:28 | 2023-02-28 |  |
 | [Get Here](https://open.spotify.com/track/2IX8WR2FoBLii7teJJLibA) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Johan Norberg](https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr), [Rasmus Kihlberg](https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR) | [Eternal Beauty](https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx) | 4:20 | 2022-09-13 |  |
 | [Hallelujah](https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 6:20 | 2022-10-13 |  |
+| [Hallelujah](https://open.spotify.com/track/10PSaPtIOHaUL4iehB8cqc) | [Joshua Espinoza](https://open.spotify.com/artist/6sQipnSTh0MtEdmUM8w49E), [Kris Monson](https://open.spotify.com/artist/2kUPNaq8pnJ4Q7TYoFme5t), [Jaron Lamar Davis](https://open.spotify.com/artist/2XeV55IyaL6jSh1yOlVOHG) | [Hallelujah](https://open.spotify.com/album/5c94mh8n70i90diVbMelpt) | 6:58 | 2023-08-17 |  |
 | [Hallelujah](https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Return To You](https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj) | 5:35 | 2022-09-13 |  |
 | [Harvest Moon](https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Fictions](https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3) | 3:05 | 2022-09-13 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 4:10 | 2022-09-13 |  |
@@ -91,7 +92,7 @@
 | [Imagine](https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [My Working Class Hero](https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf) | 4:42 | 2022-10-05 |  |
 | [Imagine](https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 3:35 | 2022-09-13 |  |
 | [Imagine](https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Imagine](https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8) | 3:53 | 2023-05-30 |  |
-| [Immigrant Song](https://open.spotify.com/track/6dx1sQaWu3Yul87HfddFeA) | [Obed Calvaire](https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm), [Bob Franceshini](https://open.spotify.com/artist/0gj84Qpcn2TU0vS4C1dqs9), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J) | [Whole Lotta Love: The Music of Led Zeppelin](https://open.spotify.com/album/1v691IFSm1faUW5cTIhVfu) | 6:51 | 2022-10-11 |  |
+| [Immigrant Song](https://open.spotify.com/track/6dx1sQaWu3Yul87HfddFeA) | [Obed Calvaire](https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm), [Bob Franceshini](https://open.spotify.com/artist/0gj84Qpcn2TU0vS4C1dqs9), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J) | [Whole Lotta Love: The Music of Led Zeppelin](https://open.spotify.com/album/1v691IFSm1faUW5cTIhVfu) | 6:51 | 2022-10-11 | 2023-08-21 |
 | [In My Life](https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [What's It All About?](https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh) | 4:22 | 2022-09-27 |  |
 | [In My Life](https://open.spotify.com/track/0vHHA2NGykToUDhiKyB7wF) | [Vincent Meissner](https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL), [Josef Zeimetz](https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca), [Henri Reichmann](https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7) | [Wille](https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK) | 3:51 | 2023-05-30 |  |
 | [It's Alright Ma \(I'm Only Bleeding\)](https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu) | [Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat](https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP) | [Ships With Tattooed Sails](https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9) | 6:30 | 2022-10-11 |  |

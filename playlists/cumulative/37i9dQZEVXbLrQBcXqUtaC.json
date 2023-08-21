@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 159761,
       "name": "Arson",
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
@@ -7308,7 +7308,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 185920,
       "name": "Killin\u2019 Me Good",
       "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
@@ -9158,7 +9158,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -9802,7 +9802,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
@@ -11526,7 +11526,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -12658,7 +12658,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
@@ -17242,6 +17242,24 @@
       "duration_ms": 178359,
       "name": "\u0628\u0631\u0627\u06a4\u0648 \u0639\u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/4QtFRUFS7BVi3OHUfmt2dP"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0642\u0627\u064a\u0627 \u062c\u0631\u0648\u062d",
+        "url": "https://open.spotify.com/album/2fdRAbhmfs3DAr6ilBX6T8"
+      },
+      "artists": [
+        {
+          "name": "Khaled Abdul Rahman",
+          "url": "https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328520,
+      "name": "\u0628\u0642\u0627\u064a\u0627 \u062c\u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/2EGHdJhQR1ncxB2oZ7dn1k"
     },
     {
       "album": {

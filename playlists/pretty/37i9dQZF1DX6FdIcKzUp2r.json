@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 207523,
+  "num_followers": 207599,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGZjNGNkYTRhMDFkOGRjYWQ2NTI3ZGNjZGZjMGNkNmNiMzJjZmE3",
+  "snapshot_id": "MCxkYTUwYzVkOTZjYWUyZmVkMGEzODE5YTliZjNlZGQyOWYxNDQxZWU5",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -239,22 +239,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "A Real Hero EP",
-        "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
-      },
-      "artists": [
-        {
-          "name": "College & Electric Youth",
-          "url": "https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "A Real Hero",
-      "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Welcome To The Pleasuredome",
         "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 332506,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "A Real Hero EP",
+        "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
+      },
+      "artists": [
+        {
+          "name": "College & Electric Youth",
+          "url": "https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "A Real Hero",
+      "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -623,22 +623,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Celts",
-        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Boadicea",
-      "url": "https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 189760,
       "name": "Mystified - 2017 Remaster",
       "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Celts",
+        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Boadicea",
+      "url": "https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -851,22 +851,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Songs From The Big Chair",
-        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 295093,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 207960,
       "name": "Father to Son - 2016 Remaster",
       "url": "https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 295093,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -951,22 +951,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/2Ybk2o6v6vqbLcRkPS7m2F"
-      },
-      "artists": [
-        {
-          "name": "Clannad",
-          "url": "https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Lady Marian - Remastered 2003",
-      "url": "https://open.spotify.com/track/4hCacl8149uMvU4EBx4c19"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Never for Ever (2018 Remaster)",
         "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 179160,
       "name": "Army Dreamers - 2018 Remaster",
       "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/2Ybk2o6v6vqbLcRkPS7m2F"
+      },
+      "artists": [
+        {
+          "name": "Clannad",
+          "url": "https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Lady Marian - Remastered 2003",
+      "url": "https://open.spotify.com/track/4hCacl8149uMvU4EBx4c19"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "If Leaving Me Is Easy - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3PuwTAbtjZDgeCqb7OAdzd"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 303293,
       "name": "For a Friend",
       "url": "https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "If Leaving Me Is Easy - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3PuwTAbtjZDgeCqb7OAdzd"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "White Eagle",
-        "url": "https://open.spotify.com/album/2A0SJoM4mCeUrnnahHLNOw"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 274906,
-      "name": "White Eagle - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5NNSddZXHgTFSbH2cUaH3Y"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Yellow Moon",
         "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 223266,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "White Eagle",
+        "url": "https://open.spotify.com/album/2A0SJoM4mCeUrnnahHLNOw"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 274906,
+      "name": "White Eagle - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5NNSddZXHgTFSbH2cUaH3Y"
     },
     {
       "added_at": "2018-12-12 11:36:39",

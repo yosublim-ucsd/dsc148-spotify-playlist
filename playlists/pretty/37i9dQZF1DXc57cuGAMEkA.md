@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Jon Batiste, Charlie Puth, Perfume, Hozier, and more! Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,320 likes - 78 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,364 likes - 78 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 77 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 |
 | 78 | [Too Bad \(with Max Clarke of Cut Worms\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/6USd3imp91uPnvgBYRM2Kx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Too Bad \(with Max Clarke of Cut Worms\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5ZwGfcxcGrkVK5ye78Kak1) | 5:30 |
 
-Snapshot ID: `MCw3ZDc0ZmI3YjE4ZTg1ZjQ0ZDAwZDkxZGI4NWNhZTA4Y2MxZDVjMzU4`
+Snapshot ID: `MCxkODJkN2MzMmNkMzlkYTY1NTU3ODA1NmU3ZWQ3OGIyNWU5ZjczZjc2`

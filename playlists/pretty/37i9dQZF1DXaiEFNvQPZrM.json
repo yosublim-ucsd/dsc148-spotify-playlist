@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 701182,
+  "num_followers": 701441,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2IyMDI0YjkyNWM1MTIwMWJjNjEwODgzMGZkYTRmNzA0OTU0ZTdk",
+  "snapshot_id": "MCwzMTZjYjAyYTIzOGRmNDYyNDczYTEwNzJhODY0YWFmZDhhYjYyODFj",
   "tracks": [
     {
       "added_at": "2023-08-18 04:57:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-18 04:57:00",
       "album": {
-        "name": "Don't Close Your Eyes",
-        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
-      },
-      "artists": [
-        {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
-        }
-      ],
-      "duration_ms": 252626,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
-    },
-    {
-      "added_at": "2023-08-18 04:57:00",
-      "album": {
         "name": "The Deana Carter Collection",
         "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 290466,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
+    },
+    {
+      "added_at": "2023-08-18 04:57:00",
+      "album": {
+        "name": "Don't Close Your Eyes",
+        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "duration_ms": 252626,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
     },
     {
       "added_at": "2023-08-18 04:57:00",

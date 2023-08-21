@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Margaret Glaspy
 
-835 songs - 2 day 3 hr 0 min
+837 songs - 2 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [A Wave Across A Bay](https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [A Wave Across A Bay](https://open.spotify.com/album/7cBsGWCsDuu0KC38K3uBFF) | 3:43 | 2022-01-14 | 2022-03-05 |
 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 | 2022-08-12 | 2022-12-10 |
 | [Ace Up My Sleeve](https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Ben Schneider](https://open.spotify.com/artist/501ebBxChWPmTwFhmZzOLh) | [Ace Up My Sleeve](https://open.spotify.com/album/05HcccTQPjodlQiWjtQ5rW) | 3:50 | 2023-05-19 |  |
-| [Act Natural](https://open.spotify.com/track/3QPcAIBe5rJy9WdzmbBxtL) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Act Natural](https://open.spotify.com/album/2sUwM4xWyiyh9yPHWqXdQZ) | 4:19 | 2023-06-02 |  |
+| [Act Natural](https://open.spotify.com/track/3QPcAIBe5rJy9WdzmbBxtL) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Act Natural](https://open.spotify.com/album/2sUwM4xWyiyh9yPHWqXdQZ) | 4:19 | 2023-06-02 | 2023-08-21 |
+| [Act Natural](https://open.spotify.com/track/3urh371tmIWyKiK5D7emx1) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Echo The Diamond](https://open.spotify.com/album/4Mal9r2lPvrzpsWstauX32) | 4:19 | 2023-08-18 |  |
 | [Adult Friend Finder](https://open.spotify.com/track/1LT1jHtnFN7uHM5xbJwWnS) | [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [Everyone Stop](https://open.spotify.com/album/412JTr9RnrVoNANnMuWb07) | 3:36 | 2022-12-16 | 2023-02-25 |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-06-02 | 2023-06-24 |
 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2022-11-25 | 2023-05-13 |
@@ -182,7 +183,8 @@
 | [Déjà Vu \(ft\. Mavis Staples\)](https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:18 | 2023-04-14 | 2023-06-03 |
 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 | 2022-12-02 | 2023-05-01 |
 | [Easier Said Than Done](https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 2:54 | 2023-04-28 | 2023-05-13 |
-| [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-17 |  |
+| [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-17 | 2023-08-21 |
+| [Eat Your Young](https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:03 | 2023-08-18 |  |
 | [El Mirador](https://open.spotify.com/track/4e5XjSkzKcGH13tXCMenrt) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/0GYUzPcQE3XA2BdpYrNetm) | 3:38 | 2022-02-04 | 2022-03-12 |
 | [Electric Cowboy](https://open.spotify.com/track/4kKmJL2v9btxEtZ3nWAek8) | [Drumming Bird](https://open.spotify.com/artist/3x2gRycOH4rmXmGnXwiR2K) | [All God's Children](https://open.spotify.com/album/5k5dLBC687N5WHrL33c8nT) | 2:58 | 2022-11-04 | 2022-11-12 |
 | [Electric Cowboy](https://open.spotify.com/track/5kbKsEeybjC4dwC81VzcMI) | [Drumming Bird](https://open.spotify.com/artist/3x2gRycOH4rmXmGnXwiR2K) | [Electric Cowboy](https://open.spotify.com/album/1PEI81AumE2BIfv35EdHpa) | 2:58 | 2022-10-14 | 2022-11-11 |

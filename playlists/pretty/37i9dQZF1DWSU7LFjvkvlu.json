@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks for that emo kid in all of us. Cover: Paramore ",
-  "num_followers": 166853,
+  "num_followers": 166946,
   "original_name": "Emo Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmM0NjEwN2VkNjA3NWEzNDkxN2NkOTdhNjY3Zjc2MGM0MGEwOTdh",
+  "snapshot_id": "MCw4YWY0NTQzNGYyMjkzMzExMDc3MmYzNzQyODIzZjIyN2Y4MzNlODM0",
   "tracks": [
     {
       "added_at": "2022-09-12 15:41:09",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-09-12 15:41:09",
       "album": {
-        "name": "Menace To Sobriety",
-        "url": "https://open.spotify.com/album/3b7Bc4IZtiJCCE0bMlAg5a"
-      },
-      "artists": [
-        {
-          "name": "OPM",
-          "url": "https://open.spotify.com/artist/5X2XAU0eSvRPWUl9hUb9mV"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "Heaven Is a Halfpipe (If I Die)",
-      "url": "https://open.spotify.com/track/1Sm3U3B5XoidYQEZQZrh3i"
-    },
-    {
-      "added_at": "2022-09-12 15:41:09",
-      "album": {
         "name": "American Hi-Fi",
         "url": "https://open.spotify.com/album/418rqqXvvFf4XXlU2cQWck"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 188866,
       "name": "Flavor Of The Weak",
       "url": "https://open.spotify.com/track/5wjQihzWIKgBc1hzf5work"
+    },
+    {
+      "added_at": "2022-09-12 15:41:09",
+      "album": {
+        "name": "Menace To Sobriety",
+        "url": "https://open.spotify.com/album/3b7Bc4IZtiJCCE0bMlAg5a"
+      },
+      "artists": [
+        {
+          "name": "OPM",
+          "url": "https://open.spotify.com/artist/5X2XAU0eSvRPWUl9hUb9mV"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "Heaven Is a Halfpipe (If I Die)",
+      "url": "https://open.spotify.com/track/1Sm3U3B5XoidYQEZQZrh3i"
     },
     {
       "added_at": "2022-09-12 15:41:09",

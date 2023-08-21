@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-5,858 songs - 9 day 6 hr 7 min
+5,859 songs - 9 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1828,6 +1828,7 @@
 | [Flower Power](https://open.spotify.com/track/1DqShofo2t9wofJvPbvDhU) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Flower Power](https://open.spotify.com/album/41j47yepxHxJHo0hAye4T2) | 2:58 | 2022-11-18 | 2023-06-08 |
 | [flowerbap](https://open.spotify.com/track/2m2Nl8XooJyfSlxA4Eq6B5) | [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK) | [flowerbap](https://open.spotify.com/album/70rRqNsJxe1j0ebOqrBoqi) | 2:00 | 2022-09-16 | 2022-12-24 |
 | [Flowerpath](https://open.spotify.com/track/4TvyILq5u0fNlcdMCZHRiV) | [Syrran](https://open.spotify.com/artist/4WA3z5CPGxhaTemW1MxyPr), [Ultramarinblau](https://open.spotify.com/artist/0ZzVsShp5a93vikX006voH), [Sacnid](https://open.spotify.com/artist/14iDPvEpIzsD4d0zLKWOtQ) | [Flowerpath](https://open.spotify.com/album/0x9YUQ7E4dJIqmWuYKCuzJ) | 2:03 | 2022-10-14 |  |
+| [Flowers](https://open.spotify.com/track/3QMD8uNCffzpO061QKqu8X) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [Flowers](https://open.spotify.com/album/1hGzYHnXjh2MzwXkDM1UCa) | 2:07 | 2023-08-17 |  |
 | [Flowers](https://open.spotify.com/track/27tnbPBfFjof7acoR2aqcQ) | [Goldenninjah](https://open.spotify.com/artist/7h8yHAeuxxeKQjRXc7XiBu) | [Flowers](https://open.spotify.com/album/5YVzJaRvsKENWQB7Xki2UH) | 1:25 | 2021-07-29 | 2022-03-12 |
 | [Flowers Of Pantai Lima](https://open.spotify.com/track/2OWjlSMhJKEkMSiaQNgNc9) | [slow luna](https://open.spotify.com/artist/3MW5fdqmiIb1rKXccPjEID), [Clark Can](https://open.spotify.com/artist/0JGNOIhIiz8RuyOzxAQ5cP) | [Badung Colors](https://open.spotify.com/album/2fdzPBjXZQws4ya9Vb1blK) | 1:52 | 2022-12-16 |  |
 | [flowfield](https://open.spotify.com/track/2q0sZLBkccCNOiHCvBcNIP) | [ben buru](https://open.spotify.com/artist/5mRaT6rnqIeeuE6Io3mVRS) | [flowfield](https://open.spotify.com/album/3YOod8QqVkpXplLHP47Z9A) | 2:03 | 2022-01-21 | 2022-09-02 |
@@ -2518,7 +2519,7 @@
 | [Is This The End](https://open.spotify.com/track/7opP7RVoRsC6VXpQ3vVA5j) | [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Is This The End](https://open.spotify.com/album/2ZwL03RuB90MYnrhM12M6W) | 2:32 | 2022-03-19 | 2022-08-19 |
 | [Isca](https://open.spotify.com/track/1FuMbvSroodhlglkr9oxOQ) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Isca](https://open.spotify.com/album/680zVSC2JJsjKFfIjO0LJN) | 2:06 | 2022-02-25 | 2022-07-29 |
 | [Island Cruise](https://open.spotify.com/track/1p4dQ512YT3stjtVMvFikF) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Island Cruise](https://open.spotify.com/album/2wx7IMwd9EiWhZoO2xYCdC) | 1:38 | 2022-08-05 | 2022-11-18 |
-| [Island Observatory](https://open.spotify.com/track/7L6psy6Uxo4LM16qj8TiaT) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Island Observatory](https://open.spotify.com/album/2S4mjRCwyX4UDGqXhfBd59) | 2:17 | 2023-02-07 |  |
+| [Island Observatory](https://open.spotify.com/track/7L6psy6Uxo4LM16qj8TiaT) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Island Observatory](https://open.spotify.com/album/2S4mjRCwyX4UDGqXhfBd59) | 2:17 | 2023-02-07 | 2023-08-21 |
 | [island sunset](https://open.spotify.com/track/24L9HqYQIXb0wiu4FIzrGN) | [phant\-trium](https://open.spotify.com/artist/6Pa9swcpmaRZ7VfHuduEOf), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [island sunset](https://open.spotify.com/album/3qcKQi6YKkYC6dtLv3n6wg) | 1:46 | 2022-12-02 | 2023-03-09 |
 | [Island Time](https://open.spotify.com/track/0HOGdLkCrgZ4tKhyHyGDXJ) | [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt) | [Island Time](https://open.spotify.com/album/5ZYZSnTf2brjCDlknlxuIy) | 3:41 | 2020-10-16 | 2021-10-20 |
 | [island vibes](https://open.spotify.com/track/1afFU8ViYqQo6XMXxyKCfl) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [island vibes](https://open.spotify.com/album/0r3fC17UPhDT0Pgqs2UCf5) | 2:36 | 2022-01-21 | 2022-09-02 |

@@ -1,12 +1,12 @@
 {
   "description": "The <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">best new music</a> by independent artists and labels. Cover: Nep. Updates every Wednesday. Artwork by Isu Kim. ",
-  "num_followers": 1160750,
+  "num_followers": 1160800,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmJjM2U3OWQwY2UzOWYwMDg0YmU3MzAxZDhlZTlmMGM4NzI1Y2Zk",
+  "snapshot_id": "MCxlZmY2NWU3MjI1ZjdlNWEyZWQ3NDk1N2ZkZjQwYmMwNzE4ZmE0N2Jj",
   "tracks": [
     {
       "added_at": "2023-08-16 14:27:41",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/69jLc0ETDk9tUKo6dmuYA0"
     },
     {
+      "added_at": "2023-08-16 14:27:41",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi"
+      },
+      "artists": [
+        {
+          "name": "SWEET SPINE",
+          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG"
+    },
+    {
       "added_at": "2023-08-09 15:00:00",
       "album": {
         "name": "i think i like your girlfriend",
@@ -379,22 +395,6 @@
       "duration_ms": 195262,
       "name": "care about myself",
       "url": "https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj"
-    },
-    {
-      "added_at": "2023-08-16 14:27:41",
-      "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi"
-      },
-      "artists": [
-        {
-          "name": "SWEET SPINE",
-          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG"
     },
     {
       "added_at": "2023-08-16 14:27:41",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-08-16 14:27:41",
       "album": {
+        "name": "Wicked Styley",
+        "url": "https://open.spotify.com/album/1H5rc0kUITrP2PfdQyypUX"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 152166,
+      "name": "Wicked Styley",
+      "url": "https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP"
+    },
+    {
+      "added_at": "2023-08-16 14:27:41",
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 274976,
       "name": "Springtime Red Tulips",
       "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
-    },
-    {
-      "added_at": "2023-08-16 14:27:41",
-      "album": {
-        "name": "Wicked Styley",
-        "url": "https://open.spotify.com/album/1H5rc0kUITrP2PfdQyypUX"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 152166,
-      "name": "Wicked Styley",
-      "url": "https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP"
     },
     {
       "added_at": "2023-08-09 15:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-08-16 14:27:41",
       "album": {
+        "name": "Early In The Morning",
+        "url": "https://open.spotify.com/album/32NPVWN201kqojJc3JquHs"
+      },
+      "artists": [
+        {
+          "name": "Gamuel Sori",
+          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
+        }
+      ],
+      "duration_ms": 145795,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/45Z6g1bxpi81DeB4xq590r"
+    },
+    {
+      "added_at": "2023-08-16 14:27:41",
+      "album": {
         "name": "Love Hate",
         "url": "https://open.spotify.com/album/6r2jKxm2Duy0NnwpvbEFI2"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 188411,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/1Wf7dRAvAqd9ljdK7nQm6u"
-    },
-    {
-      "added_at": "2023-08-16 14:27:41",
-      "album": {
-        "name": "Early In The Morning",
-        "url": "https://open.spotify.com/album/32NPVWN201kqojJc3JquHs"
-      },
-      "artists": [
-        {
-          "name": "Gamuel Sori",
-          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
-        }
-      ],
-      "duration_ms": 145795,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/45Z6g1bxpi81DeB4xq590r"
     },
     {
       "added_at": "2023-08-16 14:27:41",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/3IZX6KX7yL1EbQo0KxoTPT"
     },
     {
-      "added_at": "2023-08-16 14:27:41",
-      "album": {
-        "name": "Quality Of Life",
-        "url": "https://open.spotify.com/album/4vqsUZRMTzUbOwdCna7rGt"
-      },
-      "artists": [
-        {
-          "name": "Quality Used Cars",
-          "url": "https://open.spotify.com/artist/3E6OqTqiCpUvb8NbAw0OEm"
-        }
-      ],
-      "duration_ms": 208687,
-      "name": "If The Moon Were A Mirror",
-      "url": "https://open.spotify.com/track/2AvihM1Ylrh2zMzBljkkwp"
-    },
-    {
       "added_at": "2023-08-09 15:00:00",
       "album": {
         "name": "Easy",
@@ -667,6 +651,22 @@
       "duration_ms": 156830,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6Jd1Erx95ihRcoagGOqSDK"
+    },
+    {
+      "added_at": "2023-08-16 14:27:41",
+      "album": {
+        "name": "Quality Of Life",
+        "url": "https://open.spotify.com/album/4vqsUZRMTzUbOwdCna7rGt"
+      },
+      "artists": [
+        {
+          "name": "Quality Used Cars",
+          "url": "https://open.spotify.com/artist/3E6OqTqiCpUvb8NbAw0OEm"
+        }
+      ],
+      "duration_ms": 208687,
+      "name": "If The Moon Were A Mirror",
+      "url": "https://open.spotify.com/track/2AvihM1Ylrh2zMzBljkkwp"
     },
     {
       "added_at": "2023-08-16 14:27:41",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-16 14:27:41",
       "album": {
-        "name": "No Me Afecta",
-        "url": "https://open.spotify.com/album/5MBx8BOImNR9MsFAgA3DSP"
-      },
-      "artists": [
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 284571,
-      "name": "No Me Afecta",
-      "url": "https://open.spotify.com/track/5NdattxSDaevBwA4TXT3ZY"
-    },
-    {
-      "added_at": "2023-08-16 14:27:41",
-      "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/78G8I9RToPRKWIHxoCM4os"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2023-08-16 14:27:41",
       "album": {
-        "name": "entrelasal",
-        "url": "https://open.spotify.com/album/52T9eBIbCfTXuNGm9sLiOn"
+        "name": "No Me Afecta",
+        "url": "https://open.spotify.com/album/5MBx8BOImNR9MsFAgA3DSP"
       },
       "artists": [
         {
-          "name": "nopornada",
-          "url": "https://open.spotify.com/artist/7wjJYcWynWV6vnWulTTQUU"
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
         }
       ],
-      "duration_ms": 219428,
-      "name": "entrelasal",
-      "url": "https://open.spotify.com/track/05Gft7dGw92o6MfhnDU6VB"
+      "duration_ms": 284571,
+      "name": "No Me Afecta",
+      "url": "https://open.spotify.com/track/5NdattxSDaevBwA4TXT3ZY"
     },
     {
       "added_at": "2023-08-16 14:27:41",
@@ -919,6 +903,22 @@
     {
       "added_at": "2023-08-16 14:27:41",
       "album": {
+        "name": "entrelasal",
+        "url": "https://open.spotify.com/album/52T9eBIbCfTXuNGm9sLiOn"
+      },
+      "artists": [
+        {
+          "name": "nopornada",
+          "url": "https://open.spotify.com/artist/7wjJYcWynWV6vnWulTTQUU"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "entrelasal",
+      "url": "https://open.spotify.com/track/05Gft7dGw92o6MfhnDU6VB"
+    },
+    {
+      "added_at": "2023-08-16 14:27:41",
+      "album": {
         "name": "Aye Best Friend",
         "url": "https://open.spotify.com/album/6KZOOhXgONg3akXnze2SpQ"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 155526,
       "name": "Aye Best Friend",
       "url": "https://open.spotify.com/track/1j8dfLNsSezsfHE5XiJJv5"
+    },
+    {
+      "added_at": "2023-08-16 14:27:41",
+      "album": {
+        "name": "Junkie",
+        "url": "https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 216821,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo"
     },
     {
       "added_at": "2023-08-16 14:27:41",
@@ -951,6 +967,22 @@
       "duration_ms": 257760,
       "name": "Be Sure to Let Go",
       "url": "https://open.spotify.com/track/4KBOeL6SMOenJUG4bXEIBP"
+    },
+    {
+      "added_at": "2023-08-16 14:27:41",
+      "album": {
+        "name": "Good Ones",
+        "url": "https://open.spotify.com/album/4OM17zvx5kNMQbcJHQgp4l"
+      },
+      "artists": [
+        {
+          "name": "nickname jos",
+          "url": "https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn"
+        }
+      ],
+      "duration_ms": 171981,
+      "name": "Good Ones",
+      "url": "https://open.spotify.com/track/4fdCbomN0QtMzMlc2KXk6Y"
     },
     {
       "added_at": "2023-08-16 14:27:41",
@@ -983,38 +1015,6 @@
       "duration_ms": 232888,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk"
-    },
-    {
-      "added_at": "2023-08-16 14:27:41",
-      "album": {
-        "name": "Good Ones",
-        "url": "https://open.spotify.com/album/4OM17zvx5kNMQbcJHQgp4l"
-      },
-      "artists": [
-        {
-          "name": "nickname jos",
-          "url": "https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn"
-        }
-      ],
-      "duration_ms": 171981,
-      "name": "Good Ones",
-      "url": "https://open.spotify.com/track/4fdCbomN0QtMzMlc2KXk6Y"
-    },
-    {
-      "added_at": "2023-08-16 14:27:41",
-      "album": {
-        "name": "Junkie",
-        "url": "https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 216821,
-      "name": "Junkie",
-      "url": "https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo"
     },
     {
       "added_at": "2023-08-16 14:27:41",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-16 14:27:41",
       "album": {
-        "name": "Light Split Sparkle (Expanded)",
-        "url": "https://open.spotify.com/album/4KdY0XsL3pQQ6wgq2miLq1"
-      },
-      "artists": [
-        {
-          "name": "Double Wish",
-          "url": "https://open.spotify.com/artist/1p3ZXIrJk5siJQowDwBxU7"
-        }
-      ],
-      "duration_ms": 193761,
-      "name": "Pleasure",
-      "url": "https://open.spotify.com/track/2IBCbpm7uSpMuVv4TJM6rl"
-    },
-    {
-      "added_at": "2023-08-16 14:27:41",
-      "album": {
         "name": "An Cnoc M\u00f3r",
         "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 515435,
       "name": "Instinct, Eye and Mind",
       "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
+    },
+    {
+      "added_at": "2023-08-16 14:27:41",
+      "album": {
+        "name": "Light Split Sparkle (Expanded)",
+        "url": "https://open.spotify.com/album/4KdY0XsL3pQQ6wgq2miLq1"
+      },
+      "artists": [
+        {
+          "name": "Double Wish",
+          "url": "https://open.spotify.com/artist/1p3ZXIrJk5siJQowDwBxU7"
+        }
+      ],
+      "duration_ms": 193761,
+      "name": "Pleasure",
+      "url": "https://open.spotify.com/track/2IBCbpm7uSpMuVv4TJM6rl"
     },
     {
       "added_at": "2023-08-16 14:27:41",

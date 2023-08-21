@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,569 likes - 86 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,634 likes - 86 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 9 | [Oysterdate](https://open.spotify.com/track/0QPSjqBltCTN4RI51YHoqP) | [Cmooth Operators](https://open.spotify.com/artist/7jbFr8lLTMytrhaHgoo3Sh) | [Oysterdate](https://open.spotify.com/album/57LtqLeAKvSpBDRa5JWBCj) | 3:00 |
 | 10 | [Inside](https://open.spotify.com/track/266AcipKTXIgXJxre9q96l) | [Karl Spark](https://open.spotify.com/artist/1fT4bjnaK1NRVL2Kt62clf) | [Eternity](https://open.spotify.com/album/1hao8mc9TnqAnw0CxneHYN) | 2:38 |
 | 11 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 |
-| 12 | [Sphinx](https://open.spotify.com/track/5yxbR0xFLPYD1Rwcpue0L9) | [Lui](https://open.spotify.com/artist/3gtCKCi0Er4NlFhSb9rS1c) | [Sphinx](https://open.spotify.com/album/7BkPWJsOkhwGgSU4cU0FtP) | 3:14 |
+| 12 | [Sphinx](https://open.spotify.com/track/5yxbR0xFLPYD1Rwcpue0L9) | [Lui](https://open.spotify.com/artist/0Rk4M5J8WUbwga9BIXQyZA) | [Sphinx](https://open.spotify.com/album/7BkPWJsOkhwGgSU4cU0FtP) | 3:14 |
 | 13 | [Fast Friends](https://open.spotify.com/track/55SNJ5c6P2s9qoBjBSAJbq) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Low Tide](https://open.spotify.com/album/0KYdYU0aQoFid6Bx5Vp4WE) | 2:20 |
 | 14 | [drift](https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [drift](https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw) | 3:57 |
 | 15 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 85 | [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 |
 | 86 | [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 |
 
-Snapshot ID: `MCw4Yzg5ZGJmOTkxNjgxYmQ3ZTc2NjBjYmZkZmIyMTZlZWM5MWY3N2Rk`
+Snapshot ID: `MCw3ZWVmMjExZDJkN2QwYjI3ZmNhN2UyOTBhNTNkYzgwMmRmMmMxNjMy`

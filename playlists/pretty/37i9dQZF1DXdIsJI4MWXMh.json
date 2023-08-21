@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 57615,
+  "num_followers": 57669,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGVjYzAzYjdhOWE2NzlkNzUxY2VlMjNiYjJmYzc5MjEwOWU4NzJk",
+  "snapshot_id": "MCwxZWJhYWJhODJkYWJkZjM0ZWMzNTQ4ZTliNzk3ZmZkODdhZmI4OWNm",
   "tracks": [
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "La Chupilca",
-        "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
-      },
-      "artists": [
-        {
-          "name": "Josepth el Ranchero",
-          "url": "https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT"
-        }
-      ],
-      "duration_ms": 175205,
-      "name": "La Chupilca",
-      "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "EN HONOR A NUESTRO HERMANO",
         "url": "https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Siempre Arriba",
-        "url": "https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR"
+        "name": "La Chupilca",
+        "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
       },
       "artists": [
         {
-          "name": "Gran Sismo Tropikal",
-          "url": "https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs"
+          "name": "Josepth el Ranchero",
+          "url": "https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT"
         }
       ],
-      "duration_ms": 246230,
-      "name": "Con Que Derecho",
-      "url": "https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j"
+      "duration_ms": 175205,
+      "name": "La Chupilca",
+      "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1207,6 +1191,22 @@
       "duration_ms": 265293,
       "name": "Un Lobo Est\u00e1 Llorando",
       "url": "https://open.spotify.com/track/59zQnQvkMLAIe8k2vUCS66"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Siempre Arriba",
+        "url": "https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR"
+      },
+      "artists": [
+        {
+          "name": "Gran Sismo Tropikal",
+          "url": "https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs"
+        }
+      ],
+      "duration_ms": 246230,
+      "name": "Con Que Derecho",
+      "url": "https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Palomita de Alas Blancas",
         "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 115466,
       "name": "Palomita de Alas Blancas",
       "url": "https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
-        "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
-      },
-      "artists": [
-        {
-          "name": "Los Diamantes de Purapel",
-          "url": "https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Para Nuestra Gente",
         "url": "https://open.spotify.com/album/15HAfwDUkpyOBdYGFmce2N"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 211710,
       "name": "Son Solo Palabritas",
       "url": "https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
+        "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
+      },
+      "artists": [
+        {
+          "name": "Los Diamantes de Purapel",
+          "url": "https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
-      },
-      "artists": [
-        {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Le Canto a Mi Pueblo",
         "url": "https://open.spotify.com/album/5BZjYcqsuK3yQITQJY4V47"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 208653,
       "name": "Caballo de Patas Blancas",
       "url": "https://open.spotify.com/track/5J81nFtP3zPfcY1u8XIbKy"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+      },
+      "artists": [
+        {
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Fiesta Ranchera",
-        "url": "https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W"
-      },
-      "artists": [
-        {
-          "name": "Los Ruise\u00f1ores de la Frontera",
-          "url": "https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "Abrazado a Mi Botella",
-      "url": "https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Alex y el Clan Azabache",
         "url": "https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 180708,
       "name": "S\u00e1cale Leche a la Vaca",
       "url": "https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Fiesta Ranchera",
+        "url": "https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W"
+      },
+      "artists": [
+        {
+          "name": "Los Ruise\u00f1ores de la Frontera",
+          "url": "https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Abrazado a Mi Botella",
+      "url": "https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X"
     },
     {
       "added_at": "2023-05-29 14:34:48",

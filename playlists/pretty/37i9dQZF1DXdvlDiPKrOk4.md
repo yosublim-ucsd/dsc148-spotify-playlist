@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 
 > Celebrate the legend Lata Mangeshkar with her evergreen songs \(1929 \- ∞\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,423 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,456 likes - 49 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 | 24 | [Mera Saaya Saath Hoga](https://open.spotify.com/track/0za65XON6dtr5CE6LMQMkV) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 6:03 |
 | 25 | [Pyar Kiya To Darna Kya](https://open.spotify.com/track/1EezmZapxk6dDafoJuou6k) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 6:21 |
 | 26 | [Chalte Chalte Yun Hi Koi](https://open.spotify.com/track/1KpTS270MT96OszvcFVdlk) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 5:53 |
-| 27 | [Yara Seeli Seeli](https://open.spotify.com/track/2bvSrOKLBSM6spSHLfdnZp) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lekin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7qmGaQpTwiimvbheYIooGs) | 5:05 |
+| 27 | [YARA SEELI SEELI](https://open.spotify.com/track/3uLbP51oGqW2LptFFoKqNC) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Gulzar Lata](https://open.spotify.com/album/1Crl97kFr62EVygfqE8bd5) | 5:05 |
 | 28 | [Naam Goom Jayega](https://open.spotify.com/track/2KTP44IQ9n51VoRM1Otijb) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Revival Vol.14 \- Dil Deke Dekho](https://open.spotify.com/album/4DMnuxBicK1Ab3QrMxLSE2) | 5:52 |
 | 29 | [Kahin Deep Jale Kahin Dil](https://open.spotify.com/track/5jaj1jTdCVVpdcdTvCXPZC) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 5:24 |
 | 30 | [Inhin Logon Ne](https://open.spotify.com/track/6HT84RqFrC0wmQy4LvW0cn) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Pakeezah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/725323yYZyNi4SzBVto6f0) | 3:39 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 | 48 | [DIL DEEWANA](https://open.spotify.com/track/4qHVuUaejwuIrrvuuMZyiA) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Didi \- Free Hits](https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8) | 5:55 |
 | 49 | [Luka Chuppi](https://open.spotify.com/track/500H9ENeR5AYbKU1ScK6ME) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 6:36 |
 
-Snapshot ID: `MCxiZDY5ZTRmY2VkN2YzMWFmZTA3ODU5NDhjMDkyNGY2ZDI1OWFkNmEx`
+Snapshot ID: `MCxmNDBhNWJmMTljYjQ0NjAyZmE0NDRlNTc5MjNmY2Y5MzY3NWIyOTdh`

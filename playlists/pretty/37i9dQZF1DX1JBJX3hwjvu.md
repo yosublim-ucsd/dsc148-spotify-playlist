@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JBJX3hwjvu.md) - [plain]
 
 > listen to my podcast, inner monologue\. a spotify original!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,702 likes - 123 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,708 likes - 123 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JBJX3hwjvu.md) - [plain]
 | 122 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 |
 | 123 | [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:22 |
 
-Snapshot ID: `MCxlMjA1Nzc3Y2M3Mzc3MjZiYTNhODQxMzBlZTllNWI0MDkzNjc4NDI0`
+Snapshot ID: `MCwwNzY0ZDZkNzExMjBiZGNiMmNkYTRlZTRmMDkxMjA3ZGQyNWRmZjE2`

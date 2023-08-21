@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 124145,
+  "num_followers": 124250,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFkOTk1Y2ZjZmFjODUwYWQ3YTUyYjJmOThhNGIyZmM4ZjRlYWE1",
+  "snapshot_id": "MCxmZjk0ODQ2ZTVkNjMxMTFkNTM4ZDRiZDZlYjRiODZlODY1YzZmODVl",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Esa Hembra Es Mala",
-      "url": "https://open.spotify.com/track/3xIyTWewE9LFZwy3HklGwE"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "El Amor Manda",
         "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 196866,
       "name": "Porque El Amor Manda",
       "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Esa Hembra Es Mala",
+      "url": "https://open.spotify.com/track/3xIyTWewE9LFZwy3HklGwE"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Los Ganadores De La Voz",
-        "url": "https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6"
+        "name": "Super #1's",
+        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
       },
       "artists": [
         {
-          "name": "Alejandra Orozco",
-          "url": "https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3"
-        },
-        {
-          "name": "Oscar Cruz",
-          "url": "https://open.spotify.com/artist/0Jnwlov8CnJTEZBbQoRcfF"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 229213,
-      "name": "S\u00f3lo Un Suspiro",
-      "url": "https://open.spotify.com/track/2APQKFq7yuq3sNaziTaeWE"
+      "duration_ms": 220613,
+      "name": "Contra Viento Y Marea",
+      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
     }
   ],
   "unique_name": "Telenovelas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,447 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,542 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [SOL](https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [SOL](https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj) | 2:49 |
 | 50 | [Reggaeton](https://open.spotify.com/track/3UM4EqBHd1sexZKDDrgyok) | [El Yonka](https://open.spotify.com/artist/5wyypFnWe76Vw0S6dRPnP6), [Los Yakuza](https://open.spotify.com/artist/5TpLSxUPvubzVZZP2TMvO3), [Richdope](https://open.spotify.com/artist/4NMgNHBwj9HB3hUgWceS3v) | [Reggaeton](https://open.spotify.com/album/464hSbtSIgSkX2twUeRKC7) | 3:32 |
 
-Snapshot ID: `MCwzZmU3MjI5OTY3NTNiYjRjZjM5NTIwNDMyODI5OWNlNzEzYjEyNTRk`
+Snapshot ID: `MCw2MzBmMjJiZjFkYTUyOWY5N2I3NGRiOTNlNGVmMGU1ZTMxNDBiOTIw`

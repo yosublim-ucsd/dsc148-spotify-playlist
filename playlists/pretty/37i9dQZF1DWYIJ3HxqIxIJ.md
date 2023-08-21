@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 ### [RADAR AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYIJ3HxqIxIJ)
 
-> Teen Jesus and the Jean Teasers is our new RADAR artist to watch!
+> Teen Jesus and the Jean Teasers are our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,425 likes - 63 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,426 likes - 63 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 62 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 |
 | 63 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 |
 
-Snapshot ID: `MCxhMzViY2MwZjM4NjViYTYxMTIzOTkyMDA1OTNkYTgyNTEzOWQ0NzIw`
+Snapshot ID: `MCwxNDQ2N2E3NTFhNzYyODEyY2RkMmY0NWY1Nzk4NWQ5YTgzMDc4MzUw`

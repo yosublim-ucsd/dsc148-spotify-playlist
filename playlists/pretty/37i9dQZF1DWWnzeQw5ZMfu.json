@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Kelly Clarkson",
-  "num_followers": 59574,
+  "num_followers": 59618,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzM1OTIxNzE4NWIxZWJhMTFkYmNmZjg0MmE1ZDNmYWUwOWIxNmRh",
+  "snapshot_id": "MCwxNjZjYWJkYjNlYTE5NDljMjI3OTAyZmI5ZDc1Y2M0ZDIwZTU5NTcy",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "You're Still The One - Live",
-      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Jason Mraz's Beautiful Mess: Live on Earth",
         "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 312800,
       "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
       "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "You're Still The One - Live",
+      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Pompeii / Come As You Are (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 268690,
-      "name": "Pompeii - MTV Unplugged / Edit",
-      "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Live Friday The 13th",
         "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 379013,
       "name": "She Will Be Loved - Live",
       "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Pompeii / Come As You Are (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 268690,
+      "name": "Pompeii - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Spotify Sessions (Live From Spotify NYC)",
-        "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "Ghost - Live From Spotify NYC",
-      "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "All of Me (Live)",
         "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 299666,
       "name": "All of Me - Live",
       "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Spotify Sessions (Live From Spotify NYC)",
+        "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Ghost - Live From Spotify NYC",
+      "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
     },
     {
       "added_at": "2023-08-18 04:01:00",

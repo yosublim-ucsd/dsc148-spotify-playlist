@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: Asmaa lmnawar\n\n",
-  "num_followers": 11022,
+  "num_followers": 11074,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2MxYjdkMGZlOTRkM2RhNTU2YTdmYmNlNmU4YjY1YTFlNDY5Nzc0",
+  "snapshot_id": "MCxiMzZhMjkwYTIyODQxYjk4YTRlMmQ5YTlkOGM3YTYyYmYwYzFhM2Nm",
   "tracks": [
     {
       "added_at": "2023-08-17 20:10:52",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-08-17 20:10:52",
       "album": {
+        "name": "\u0647\u0632\u0647\u0632\u0647",
+        "url": "https://open.spotify.com/album/23YwHiontIeiG7E4TPRSWd"
+      },
+      "artists": [
+        {
+          "name": "Cyrine Abdel Noor",
+          "url": "https://open.spotify.com/artist/6Dclk6RIvbl0c7U42WxehG"
+        }
+      ],
+      "duration_ms": 124946,
+      "name": "\u0647\u0632\u0647\u0632\u0647",
+      "url": "https://open.spotify.com/track/5PGD581fRybnPqDAMgAD6L"
+    },
+    {
+      "added_at": "2023-08-17 20:10:52",
+      "album": {
         "name": "\u064a\u0630\u0643\u0631\u0646\u064a \u0627\u0644\u0634\u062a\u0627\u0621",
         "url": "https://open.spotify.com/album/2H1sagWhwYpDkxI3lprHUC"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 195576,
       "name": "Ya Tayar",
       "url": "https://open.spotify.com/track/3lxUL4F9yaYupuTu3g9Byg"
-    },
-    {
-      "added_at": "2023-08-17 20:10:52",
-      "album": {
-        "name": "\u0647\u0632\u0647\u0632\u0647",
-        "url": "https://open.spotify.com/album/23YwHiontIeiG7E4TPRSWd"
-      },
-      "artists": [
-        {
-          "name": "Cyrine Abdel Noor",
-          "url": "https://open.spotify.com/artist/6Dclk6RIvbl0c7U42WxehG"
-        }
-      ],
-      "duration_ms": 124946,
-      "name": "\u0647\u0632\u0647\u0632\u0647",
-      "url": "https://open.spotify.com/track/5PGD581fRybnPqDAMgAD6L"
     },
     {
       "added_at": "2023-08-17 20:10:52",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-17 20:10:52",
       "album": {
-        "name": "Enta El Aseel",
-        "url": "https://open.spotify.com/album/6nUvAb96iFIbxtxELpjZrl"
-      },
-      "artists": [
-        {
-          "name": "Carmen Soliman",
-          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
-        }
-      ],
-      "duration_ms": 216449,
-      "name": "Enta El Aseel",
-      "url": "https://open.spotify.com/track/7j8tmCMqHfLdg75uyDHxXQ"
-    },
-    {
-      "added_at": "2023-08-17 20:10:52",
-      "album": {
         "name": "Maksour Albi - \u0645\u0643\u0633\u0648\u0631 \u0642\u0644\u0628\u064a (From Eshret Omor Series - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0634\u0631\u0629 \u0639\u0645\u0631)",
         "url": "https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 161298,
       "name": "Maksour Albi - \u0645\u0643\u0633\u0648\u0631 \u0642\u0644\u0628\u064a - From Eshret Omor Series - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0634\u0631\u0629 \u0639\u0645\u0631",
       "url": "https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft"
+    },
+    {
+      "added_at": "2023-08-17 20:10:52",
+      "album": {
+        "name": "Enta El Aseel",
+        "url": "https://open.spotify.com/album/6nUvAb96iFIbxtxELpjZrl"
+      },
+      "artists": [
+        {
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
+        }
+      ],
+      "duration_ms": 216449,
+      "name": "Enta El Aseel",
+      "url": "https://open.spotify.com/track/7j8tmCMqHfLdg75uyDHxXQ"
     },
     {
       "added_at": "2023-08-17 20:10:52",

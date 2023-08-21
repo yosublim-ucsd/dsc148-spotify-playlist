@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7353,
+  "num_followers": 7352,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjAyZWViMjMzZDcwODQ5MTRhZTlmOWNhZTZkNGQwZGRjMzFlZDcx",
+  "snapshot_id": "MCw1ZGYxNDk1YjM5MGNjYTYxOGEyOTIyNTc5NjEwODE4ODgyOGFjMWNh",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "New Orleans Jazz Collection - French Quarter Favorites",
-        "url": "https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 154825,
-      "name": "Bourbon Street Parade",
-      "url": "https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "I Must Have It",
         "url": "https://open.spotify.com/album/6ZdBK9AQtlbIFhf2tszKY8"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 175626,
       "name": "New Orleans Shout",
       "url": "https://open.spotify.com/track/5Pcr62bLUsT3KIotsiafwB"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "New Orleans Jazz Collection - French Quarter Favorites",
+        "url": "https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 154825,
+      "name": "Bourbon Street Parade",
+      "url": "https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -323,6 +323,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Best Of The Dukes Of Dixieland (Formerly Titled : The Dukes Of Disneyland)",
+        "url": "https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 389960,
+      "name": "Wolverine Blues",
+      "url": "https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "The Complete Hot Five And Hot Seven Recordings Volume 2",
         "url": "https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 183960,
       "name": "Struttin' with Some Barbecue - 78 rpm Version",
       "url": "https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Goes South!",
-        "url": "https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc"
-      },
-      "artists": [
-        {
-          "name": "Firehouse Five Plus Two",
-          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
-        }
-      ],
-      "duration_ms": 220540,
-      "name": "Milenberg Joys",
-      "url": "https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -371,6 +371,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Goes South!",
+        "url": "https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc"
+      },
+      "artists": [
+        {
+          "name": "Firehouse Five Plus Two",
+          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
+        }
+      ],
+      "duration_ms": 220540,
+      "name": "Milenberg Joys",
+      "url": "https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "That's A Plenty",
         "url": "https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 227026,
       "name": "Frankie & Johnny",
       "url": "https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Best Of The Dukes Of Dixieland (Formerly Titled : The Dukes Of Disneyland)",
-        "url": "https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 389960,
-      "name": "Wolverine Blues",
-      "url": "https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Marie Laveau",
+        "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
+      },
+      "artists": [
+        {
+          "name": "Papa Celestin",
+          "url": "https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx"
+        }
+      ],
+      "duration_ms": 199550,
+      "name": "Old Time Religion",
+      "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "George Girard's Band",
         "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 179573,
       "name": "Roses of Picardy",
       "url": "https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Marie Laveau",
-        "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
-      },
-      "artists": [
-        {
-          "name": "Papa Celestin",
-          "url": "https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx"
-        }
-      ],
-      "duration_ms": 199550,
-      "name": "Old Time Religion",
-      "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Best Of Dixieland Volume 1",
-        "url": "https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4"
+        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
+        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
       },
       "artists": [
         {
-          "name": "Pete Fountain and The Kings Of Dixieland",
-          "url": "https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So"
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
         }
       ],
-      "duration_ms": 192783,
-      "name": "Washington Post March",
-      "url": "https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q"
+      "duration_ms": 232489,
+      "name": "Carry Me Back to Old Virginia",
+      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
     }
   ],
   "unique_name": "Hot-Jazz Classics",

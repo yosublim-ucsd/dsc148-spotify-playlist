@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUCY) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 218835,
+  "num_followers": 218900,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzUxOWM5NDk2ZTgzNzUxNWQwZWM0NzY3ZGM5N2MwZjA5MmMzYmJj",
+  "snapshot_id": "MCxmZjY1NDUyYzYwMWQyZDdjYTdmOWM4ZjFhMGQ2ZThhNzI3ZWEzNzM1",
   "tracks": [
     {
       "added_at": "2023-08-17 15:17:40",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 183670,
+      "name": "Freakin' Bad",
+      "url": "https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq"
+    },
+    {
+      "added_at": "2023-08-17 15:17:40",
+      "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 221133,
       "name": "WINTER FLOWER(Feat.RM)",
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
-    },
-    {
-      "added_at": "2023-08-17 15:17:40",
-      "album": {
-        "name": "Deadlock",
-        "url": "https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 183670,
-      "name": "Freakin' Bad",
-      "url": "https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq"
     },
     {
       "added_at": "2023-08-17 15:17:40",

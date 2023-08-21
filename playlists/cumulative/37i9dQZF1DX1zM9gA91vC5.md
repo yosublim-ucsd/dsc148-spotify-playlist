@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-902 songs - 1 day 15 hr 11 min
+903 songs - 1 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A New Beginning](https://open.spotify.com/track/4m5fuE2Y959j9iaqXJzCIr) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [A New Beginning](https://open.spotify.com/album/3a0NGG4i0BOHlBpUtCeURn) | 2:40 | 2020-08-14\* | 2022-09-24 |
 | [A New Day](https://open.spotify.com/track/3f3o11I6fICW22aTW3ZK2k) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A New Day](https://open.spotify.com/album/1OUJJk70WJeyliPi5Hu3q9) | 2:18 | 2020-12-10 | 2022-07-20 |
 | [a new love](https://open.spotify.com/track/4DOUtqXfuYKR6RqZ3O6TIi) | [Albrecht Valiery](https://open.spotify.com/artist/3GyopzakL0G5uqjcv56M9h) | [a new love](https://open.spotify.com/album/1OCzduP701HjAIhRhGaBts) | 3:02 | 2021-08-06 | 2022-09-15 |
-| [A partire dal](https://open.spotify.com/track/3M0EGPJEuloXdbnrP6cC4j) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [A partire dal](https://open.spotify.com/album/412D6erKmAsitjfDKwd7vK) | 2:20 | 2021-04-10 |  |
+| [A partire dal](https://open.spotify.com/track/3M0EGPJEuloXdbnrP6cC4j) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [A partire dal](https://open.spotify.com/album/412D6erKmAsitjfDKwd7vK) | 2:20 | 2021-04-10 | 2023-08-21 |
 | [A Place To Call Home](https://open.spotify.com/track/1flCNGkRXEk58gkcJ4X6DV) | [Michael Ottosson](https://open.spotify.com/artist/3dz4vgXeam9Ba1Bo7gud9b) | [Three Waltzes](https://open.spotify.com/album/28DqpGRLUjFtNPTaSs2rgr) | 3:08 | 2020-08-14\* | 2021-02-25 |
 | [A Prominent Response](https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [A Prominent Response](https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3) | 2:53 | 2020-08-14\* | 2020-08-20 |
 | [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 | 2022-05-05 | 2022-06-08 |
@@ -244,6 +244,7 @@
 | [Field Spirits](https://open.spotify.com/track/4TWwr6i2WiJ9KKFjDUvfdL) | [Ella Stark](https://open.spotify.com/artist/1MCorvkVV2ldv9FraZpH5u) | [Field Spirits](https://open.spotify.com/album/6kMlN6t2fJFTeumrYbfU5j) | 2:46 | 2020-08-14\* | 2022-07-20 |
 | [Field trip](https://open.spotify.com/track/4dtgMavxb4LCIJeTmQ5GUI) | [Roman Melass](https://open.spotify.com/artist/4YWm9hzqB5RDVrrQm01zzu) | [Field trip](https://open.spotify.com/album/30ozVFrsS8qqDuDZuBpZqk) | 2:23 | 2020-08-14\* | 2020-08-20 |
 | [Fils Du Soleil](https://open.spotify.com/track/67np71K50CRwUfpXqlsXJV) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Dreamweaver](https://open.spotify.com/album/6dSfSgGrlFwRU7Rcjnvsrf) | 4:19 | 2021-08-06 | 2021-09-29 |
+| [Final Thoughts](https://open.spotify.com/track/33N2hGEswrt2owzlW5PAsX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Final Thoughts](https://open.spotify.com/album/445Tm1RU9hCsXTagEdZ3Y1) | 2:14 | 2023-08-15 |  |
 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 | 2020-08-14\* | 2022-12-24 |
 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 | 2021-10-28 | 2022-07-20 |
 | [Fireflies](https://open.spotify.com/track/0xD0B7HW1VXcNuOPZ2QPTI) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [Fireflies](https://open.spotify.com/album/2gRDXli0cRQmopNo4nwQ62) | 2:05 | 2021-11-24 | 2022-03-02 |

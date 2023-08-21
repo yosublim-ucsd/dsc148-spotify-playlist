@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-162 songs - 13 hr 28 min
+164 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Echo Valley](https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL) | [Spreading Rhythm](https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB) | 4:01 | 2023-02-02 |  |
 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 | 2022-09-05 |  |
 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2022-09-05 |  |
-| [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-14 |  |
+| [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-14 | 2023-08-21 |
+| [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-07-14 |  |
 | [Final Days \- Bonobo Remix](https://open.spotify.com/track/4RHMC3OE3oBpS32peJ6tR6) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Final Days \(Bonobo Remix\)](https://open.spotify.com/album/7cPU3dVK7sRJKdQ6JNlAVB) | 5:40 | 2022-09-05 |  |
 | [Fly Away / Walking in the Sunshine \- 2008 Remaster](https://open.spotify.com/track/39HnpKxGPzP3EUlXvs4VBQ) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Keep Smiling \[Remastered\] \(Remastered Version\)](https://open.spotify.com/album/04bsO604edaafFrGyDcaFy) | 8:32 | 2022-09-05 |  |
 | [Four Hills](https://open.spotify.com/track/3SiKNNc24oEddCMH9KUVxN) | [DJ Day](https://open.spotify.com/artist/64nlNvqVtLkdY4x8Hhvq6T) | [The Day Before \(Deluxe Edition\)](https://open.spotify.com/album/1FJWNRqws0bdFbFRk5MxDX) | 3:13 | 2022-09-05 | 2023-02-03 |
@@ -66,7 +67,8 @@
 | [Gobi](https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage](https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji) | 5:57 | 2022-09-05 |  |
 | [Hablame](https://open.spotify.com/track/5zOUieF8uLE90U0cJDn2pL) | [Carlo](https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo) | [Hablame](https://open.spotify.com/album/1mzMF0AB5CBiwaNOIq6tZS) | 6:19 | 2022-09-05 | 2022-10-15 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-09-05 | 2022-10-19 |
-| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-05 |  |
+| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-05 | 2023-08-21 |
+| [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-07-14 |  |
 | [Hard To Say Goodbye](https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Mister Mellow](https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm) | 4:12 | 2022-09-05 |  |
 | [Heartbreaker](https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [When We On](https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM) | 5:26 | 2022-09-05 |  |
 | [House in the Hills](https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 4:27 | 2023-02-02 | 2023-05-10 |

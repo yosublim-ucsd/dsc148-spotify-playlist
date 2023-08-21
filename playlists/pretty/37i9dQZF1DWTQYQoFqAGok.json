@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 57139,
+  "num_followers": 57158,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2RjODY2MDVkZWUxNmRmYTQ3Nzk0ZjliNTE0OGExYmYwYTFjZTEy",
+  "snapshot_id": "MCxjMzQ4ZDY4MzMzMTg1MzkzMTgyNDc5ZmI4OTFlMzhlZTg4OGI4MjUx",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -539,6 +539,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
+      },
+      "artists": [
+        {
+          "name": "Cuco Valtierra",
+          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
+        }
+      ],
+      "duration_ms": 160031,
+      "name": "El Hombre Del Brazo De Oro",
+      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Fulgor",
         "url": "https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
-      },
-      "artists": [
-        {
-          "name": "Cuco Valtierra",
-          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
-        }
-      ],
-      "duration_ms": 160031,
-      "name": "El Hombre Del Brazo De Oro",
-      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Ventana espacial",
         "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
-      },
-      "artists": [
-        {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
-        }
-      ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Pavel Loaria Big Band, Vol. 1",
         "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 233306,
       "name": "The Pink Panther",
       "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+      },
+      "artists": [
+        {
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+        }
+      ],
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz Mariachi",
-        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
-      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Your Voice",
         "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 175776,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz Mariachi",
+        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
+      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Tipitipit\u00edn",
+      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
+    },
+    {
       "added_at": "2022-03-30 03:01:09",
       "album": {
         "name": "Kumoi",
@@ -735,22 +751,6 @@
       "duration_ms": 127240,
       "name": "Suite Yusef Lateef",
       "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Tipitipit\u00edn",
-      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Frente A Frente: Mexican Jazz Jam",
-        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Safo (La Sacerdotiza Del Amor)",
-      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Nuevas Relaciones: Atardecer",
         "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 370586,
       "name": "La vida tiene que seguir, amor",
       "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Frente A Frente: Mexican Jazz Jam",
+        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Safo (La Sacerdotiza Del Amor)",
+      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
     },
     {
       "added_at": "2021-07-28 16:44:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: muva of Earth Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,561 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,589 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Raised by Conservatives](https://open.spotify.com/track/0n4yQY4XrRjVTlus30ev9c) | [Gerald Bailey](https://open.spotify.com/artist/0ZKZwZhlCV6E3RSS2X66zx), [Kyle Hodges](https://open.spotify.com/artist/1nzbH7agHYeRORFpQCVqyI) | [Raised by Conservatives](https://open.spotify.com/album/0b9Or60Bvb4SuNrChpI93H) | 2:03 |
 | 75 | [Venango](https://open.spotify.com/track/1F1uCJIJeldjVC5E3ukStK) | [The Dam Jawn](https://open.spotify.com/artist/7dzbcGQjhmLwoPTOBeZDid), [Dick Oatts](https://open.spotify.com/artist/6HAwEMXs6wBDDAY3MDuo8i) | [Master St.](https://open.spotify.com/album/3kxUnjjRa5Jjr0G4C06Pqp) | 5:32 |
 
-Snapshot ID: `MCw0YTU3N2I4MjQ4Yjk4NjNmNDE2MmJlMmE4NWQzM2E1ZmI2Y2IyOTQ0`
+Snapshot ID: `MCwzYWRkYTNjZGQzODNiYjFmODY3MmQ5N2VkNjlkNDhmZGRkYzAxMjM4`

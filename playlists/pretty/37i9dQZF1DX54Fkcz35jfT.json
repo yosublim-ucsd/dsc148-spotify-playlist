@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: BABYMETAL",
-  "num_followers": 38566,
+  "num_followers": 38618,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGU5ODU5YTgzYTMwNTg5YzhhYjc1M2ZhMzllOTg3ZWY5ZjJjNGM5",
+  "snapshot_id": "MCw3MTMzMWMxZTIwNjU2ODg2NTBmZDdmYjBiZWQ0N2NkOWViYjhjNTgz",
   "tracks": [
     {
       "added_at": "2023-08-17 14:59:56",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-17 14:59:56",
       "album": {
-        "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc"
-    },
-    {
-      "added_at": "2023-08-17 14:59:56",
-      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 351354,
       "name": "METAL KINGDOM",
       "url": "https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT"
+    },
+    {
+      "added_at": "2023-08-17 14:59:56",
+      "album": {
+        "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 226253,
+      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc"
     },
     {
       "added_at": "2023-08-17 14:59:56",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-08-17 14:59:56",
       "album": {
-        "name": "ANTITHESE",
-        "url": "https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK"
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
       "artists": [
         {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo"
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
     },
     {
       "added_at": "2023-08-17 14:59:56",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-08-17 14:59:56",
       "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+        "name": "ANTITHESE",
+        "url": "https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
         }
       ],
-      "duration_ms": 244258,
-      "name": "Light and Darkness",
-      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+      "duration_ms": 260000,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo"
     },
     {
       "added_at": "2023-08-17 14:59:56",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-08-17 14:59:56",
       "album": {
-        "name": "\u30a2\u30f3\u30d3\u30b7\u30e3\u30b9",
-        "url": "https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr"
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
       "artists": [
         {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 186000,
-      "name": "\u30a2\u30f3\u30d3\u30b7\u30e3\u30b9",
-      "url": "https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR"
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2023-08-17 14:59:56",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-08-17 14:59:56",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+        "name": "\u30a2\u30f3\u30d3\u30b7\u30e3\u30b9",
+        "url": "https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
         }
       ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+      "duration_ms": 186000,
+      "name": "\u30a2\u30f3\u30d3\u30b7\u30e3\u30b9",
+      "url": "https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR"
     },
     {
       "added_at": "2023-08-17 14:59:56",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-08-17 14:59:56",
       "album": {
-        "name": "Nonnegative",
-        "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 233678,
-      "name": "From Today",
-      "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
-    },
-    {
-      "added_at": "2023-08-17 14:59:56",
-      "album": {
         "name": "I'M A RAT",
         "url": "https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 124719,
       "name": "I'M A RAT",
       "url": "https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa"
+    },
+    {
+      "added_at": "2023-08-17 14:59:56",
+      "album": {
+        "name": "Nonnegative",
+        "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 233678,
+      "name": "From Today",
+      "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
     },
     {
       "added_at": "2023-08-17 14:59:56",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-08-17 14:59:56",
       "album": {
-        "name": "YAEN",
-        "url": "https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
-          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
-        }
-      ],
-      "duration_ms": 139892,
-      "name": "YAEN",
-      "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
-    },
-    {
-      "added_at": "2023-08-17 14:59:56",
-      "album": {
         "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
         "url": "https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 185877,
       "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
       "url": "https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC"
+    },
+    {
+      "added_at": "2023-08-17 14:59:56",
+      "album": {
+        "name": "YAEN",
+        "url": "https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+        }
+      ],
+      "duration_ms": 139892,
+      "name": "YAEN",
+      "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
     },
     {
       "added_at": "2023-08-17 14:59:56",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-08-17 14:59:56",
       "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "added_at": "2023-08-17 14:59:56",
+      "album": {
         "name": "BBB",
         "url": "https://open.spotify.com/album/3Mkz92SxIR2f4ZsQMUVxcD"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 200000,
       "name": "BBB",
       "url": "https://open.spotify.com/track/6nmOIy04qnDqRFXePEjnPs"
-    },
-    {
-      "added_at": "2023-08-17 14:59:56",
-      "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 246518,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
     },
     {
       "added_at": "2023-08-17 14:59:56",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-17 14:59:56",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 131680,
-      "name": "Drain Water",
-      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
-    },
-    {
-      "added_at": "2023-08-17 14:59:56",
-      "album": {
         "name": "Tank-top Flower for Friends",
         "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 132386,
       "name": "Blooming the Tank-top",
       "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
+    },
+    {
+      "added_at": "2023-08-17 14:59:56",
+      "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Drain Water",
+      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
     },
     {
       "added_at": "2023-08-17 14:59:56",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-08-17 14:59:56",
       "album": {
+        "name": "True Self",
+        "url": "https://open.spotify.com/album/1uiHPKRGpdwSeBjqcBo9Ng"
+      },
+      "artists": [
+        {
+          "name": "WHISPER OUT LOUD",
+          "url": "https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP"
+        }
+      ],
+      "duration_ms": 172458,
+      "name": "True Self",
+      "url": "https://open.spotify.com/track/3x0Uu5KT1NkYa07UpgbS6D"
+    },
+    {
+      "added_at": "2023-08-17 14:59:56",
+      "album": {
         "name": "living dead!!",
         "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 147157,
       "name": "living dead!!",
       "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
-    },
-    {
-      "added_at": "2023-08-17 14:59:56",
-      "album": {
-        "name": "True Self",
-        "url": "https://open.spotify.com/album/1uiHPKRGpdwSeBjqcBo9Ng"
-      },
-      "artists": [
-        {
-          "name": "WHISPER OUT LOUD",
-          "url": "https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP"
-        }
-      ],
-      "duration_ms": 172458,
-      "name": "True Self",
-      "url": "https://open.spotify.com/track/3x0Uu5KT1NkYa07UpgbS6D"
     },
     {
       "added_at": "2023-08-17 14:59:56",

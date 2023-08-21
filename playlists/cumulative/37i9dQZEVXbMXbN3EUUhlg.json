@@ -3344,7 +3344,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 221538,
       "name": "Conex\u00f5es de M\u00e1fia (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap"
@@ -4491,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "D\u00f3i",
+        "url": "https://open.spotify.com/album/23xCMjuFXyFuQ2k1Q4EXyx"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181747,
+      "name": "D\u00f3i",
+      "url": "https://open.spotify.com/track/5qjwjBzWAxXjjqinjENzIF"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -4740,7 +4758,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 155767,
       "name": "Elevador - Ao Vivo",
       "url": "https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux"
@@ -8718,7 +8736,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 175086,
       "name": "Me Lambe",
       "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
@@ -12166,7 +12184,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 162865,
       "name": "Quem t\u00e1 Pegando",
       "url": "https://open.spotify.com/track/6L2ule7uWSdh1qjcMO3vUD"
@@ -14934,7 +14952,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 172950,
       "name": "Used To Be",
       "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"

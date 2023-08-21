@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,781 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,910 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 6 | [Qimmijuat \(Wild Horses\)](https://open.spotify.com/track/3Rt3viQJXYZ72pLpqmL1C2) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimmijuat \(Wild Horses\)](https://open.spotify.com/album/464WdsCECkTzqIEv3ITRrD) | 5:29 |
 | 7 | [Your Beautiful Self](https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Your Beautiful Self](https://open.spotify.com/album/2lCbzs1hrhbnh1Ra7HafE3) | 4:12 |
 | 8 | [Psycho](https://open.spotify.com/track/0ACxNWb6ZrSdod5OKqlPTx) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 4:29 |
-| 9 | [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 |
+| 9 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 |
 | 10 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 |
 | 11 | [Forever Had to End](https://open.spotify.com/track/1y8vdU1RBpQCIXp1tphNgb) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Forever Had to End](https://open.spotify.com/album/5ytUlTMjhqqyptHuseHrxW) | 3:42 |
 | 12 | [Take My Hand](https://open.spotify.com/track/7EOlgcPeMDnCaHnSxOnVA0) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Take My Hand](https://open.spotify.com/album/1RVywQGe5Gws3vNX74Iilo) | 5:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [I Don't Live Here Anymore](https://open.spotify.com/track/7ECJeHWuydb003xEiqUnn1) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [I Don't Live Here Anymore](https://open.spotify.com/album/5YZg6tXn4z1kPX30tJ8scD) | 3:06 |
 | 100 | [Head for the Hills](https://open.spotify.com/track/2NfZgnqLABxmb3mRwYVc2y) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Something Easy](https://open.spotify.com/album/09pC9vJ3xDCpLmkuLLUiP8) | 4:39 |
 
-Snapshot ID: `MCwxMGMyMTIyNDQ4NjQ2ZDdkOWZmZjNkMDc2MTdjMjJjYzRhNWZmMTdk`
+Snapshot ID: `MCw1MmM0OTE0ZGRlZTQyODA2OTExMzRiOGM2MTIzYzYwMzdhN2YyN2Qx`

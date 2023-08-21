@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-729 songs - 1 day 20 hr 23 min
+730 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Rectify](https://open.spotify.com/track/0EjQ11NHcGwEhYHStzB4li) | [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV) | [Rectify](https://open.spotify.com/album/2u0P3ZhgmtHmTAEJpdMt6Z) | 3:27 | 2021-12-17 | 2022-02-26 |
 | [Red Lights \- Gabriel & Dresden Remix](https://open.spotify.com/track/2hxPK1ADdvG45RFXmnvs6g) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY), [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV) | [Red Lights](https://open.spotify.com/album/5POqxIIEc8PqOhgRMuQnAc) | 3:57 | 2021-12-17 | 2022-02-26 |
 | [Reflect](https://open.spotify.com/track/4pcjuvD75lFUMBG5sRyOcS) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [Reflect](https://open.spotify.com/album/6l87QQFgA8QSfRm2zHPAjS) | 3:45 | 2023-04-29 |  |
+| [Reflected](https://open.spotify.com/track/5apmD6ssqm55PJoLlersMZ) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Reflected](https://open.spotify.com/album/3AgYoG9ZcGPVhB3DC4952Y) | 3:20 | 2023-08-18 |  |
 | [Reflection](https://open.spotify.com/track/0UF2B2YgRTzzJMOU4G5zye) | [Twin View](https://open.spotify.com/artist/522ttEolqLXI712uSO3B23) | [Reflection](https://open.spotify.com/album/1JUCd4rurF7aHrhcrsNBMb) | 4:31 | 2021-12-17 | 2022-02-26 |
 | [REFLEXION \(ASOT 2023 Anthem\)](https://open.spotify.com/track/2nnRJHxIaoDe3FPTitG0iB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [REFLEXION \(ASOT 2023 Anthem\)](https://open.spotify.com/album/1kEvjuKyBiP0hqGpRAoQuO) | 2:39 | 2022-12-16 | 2023-03-04 |
 | [Remember Me](https://open.spotify.com/track/6SgvrfbLr63HjUH2fa23gS) | [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx), [July Mell](https://open.spotify.com/artist/7IK1lv7AzDt7FIiPkdhzUn) | [Remember Me](https://open.spotify.com/album/3V1nDTX1ZQcDpARdOAZnZ0) | 3:42 | 2023-02-24 | 2023-05-20 |
@@ -729,7 +730,7 @@
 | [you broke me first](https://open.spotify.com/track/3ztpVHzt35X2zwBbEh4gMg) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [you broke me first](https://open.spotify.com/album/0OowUlZkI9g5T1qTWWyhID) | 2:41 | 2021-12-17 | 2022-04-23 |
 | [you broke me first \- XiJaro & Pitch Remix](https://open.spotify.com/track/3mivCx58qsgZszezCkvmcp) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [you broke me first \(XiJaro & Pitch Remix\)](https://open.spotify.com/album/635AMftd7i92nnCOIX5Dse) | 2:49 | 2023-06-23 |  |
 | [You Can't Save Me](https://open.spotify.com/track/61dE4pgV3F1TKdrPm3ToCD) | [Lasse Macbeth](https://open.spotify.com/artist/0Bqc6zw67oGyYGoIz0w9Te), [Josie Sandfeld](https://open.spotify.com/artist/19HQyS89sUHeCAUAXWsznp) | [You Can't Save Me](https://open.spotify.com/album/2z3FPPHUPYRKUGVSWm1t5J) | 4:02 | 2022-04-29 | 2023-04-03 |
-| [You Get Me](https://open.spotify.com/track/4swpBMR7chyLpb3sbCOnUC) | [Phillip Castle](https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd), [Koyah](https://open.spotify.com/artist/3ruRvp4imiIkW1LP666jnd) | [You Get Me](https://open.spotify.com/album/5WSK9jWpf5iSBlj0jBS7tc) | 3:45 | 2023-07-21 |  |
+| [You Get Me](https://open.spotify.com/track/4swpBMR7chyLpb3sbCOnUC) | [Phillip Castle](https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd), [Koyah](https://open.spotify.com/artist/3ruRvp4imiIkW1LP666jnd) | [You Get Me](https://open.spotify.com/album/5WSK9jWpf5iSBlj0jBS7tc) | 3:45 | 2023-07-21 | 2023-08-21 |
 | [You Make Me Feel Alive](https://open.spotify.com/track/5LKMOemvpTqzRXIafoMLnt) | [Jody 6](https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y) | [You Make Me Feel Alive](https://open.spotify.com/album/3OO29jCURj0yDJl0Ot38Cs) | 3:30 | 2023-02-24 |  |
 | [You're All I Want](https://open.spotify.com/track/58vWCkOvsAPXsAhOW9OQhE) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Klassy Project](https://open.spotify.com/artist/2r1CRqPCo5kYuR7PvuLkEf) | [You’re All I Want](https://open.spotify.com/album/6JTRDvoBl3xRLYIIX7VQd3) | 3:01 | 2022-11-25 | 2023-08-19 |
 | [You're Never Alone \- Uplifting Mix](https://open.spotify.com/track/7MTg6uURum6LUw7O3mAd9K) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [You’re Never Alone \(Uplifting Mix\)](https://open.spotify.com/album/4wti7dibaj0vfpvMo0lH3d) | 3:59 | 2023-06-09 |  |

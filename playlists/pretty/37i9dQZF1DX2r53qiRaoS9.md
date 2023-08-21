@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,830 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,850 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 14 | [Taare Balliye](https://open.spotify.com/track/1fj1gSkScVWLznaWAVe413) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Taare Balliye](https://open.spotify.com/album/5WDtdptyAvi8A1Kiu3yIK6) | 2:45 |
 | 15 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 |
 | 16 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
-| 17 | [Kya Baat Ay \- DJ NYK Remix](https://open.spotify.com/track/1iZy5CIGgFwR1DfnagLJ1I) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF) | [Kya Baat Ay \(DJ NYK Remix\)](https://open.spotify.com/album/4cpqIsA8KjBLViMcpPBHEL) | 3:07 |
+| 17 | [Kya Baat Ay \- DJ NYK Remix](https://open.spotify.com/track/1iZy5CIGgFwR1DfnagLJ1I) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Baat Ay \(DJ NYK Remix\)](https://open.spotify.com/album/4cpqIsA8KjBLViMcpPBHEL) | 3:07 |
 | 18 | [Shadgi](https://open.spotify.com/track/7pV4fzDrc5ekLJzZ9MpG30) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Shadgi](https://open.spotify.com/album/7a2HtTgL4nHJuhrRkEPrth) | 3:12 |
 | 19 | [Panjeban](https://open.spotify.com/track/5UpDw777uj0nvw6dtDRjw7) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Panjeban](https://open.spotify.com/album/05IH45QvIWWy7g77Cd9uzB) | 3:20 |
 | 20 | [Bottle](https://open.spotify.com/track/40mBzQIpmcxFUzuJMOAHFC) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Bottle](https://open.spotify.com/album/2Ywo4nVpumOk0RgUPJCan0) | 3:15 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 42 | [Haaye Oye \(feat\. Ash King\)](https://open.spotify.com/track/0oukMLKedsqQ3ltnI2daRO) | [QARAN](https://open.spotify.com/artist/0KDEADL3DeTLtENG3DliCd), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Haaye Oye \(feat\. Ash King\)](https://open.spotify.com/album/5vQyWyFVzojsUsBGSzmZSe) | 3:20 |
 | 43 | [Life](https://open.spotify.com/track/7Bb4ZmnWkHIYcaZdSWPbP5) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Life \- Single](https://open.spotify.com/album/7HPag3Vh4cQKdztkUfyYiP) | 3:00 |
 | 44 | [Thug Life](https://open.spotify.com/track/3UiuBJG8s4euEM6Lqq3aDl) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:30 |
-| 45 | [Naah](https://open.spotify.com/track/0zRsGGueSQLRkYWs4kPA4V) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Naah](https://open.spotify.com/album/69E3qRzBF9CVToWXmXH4po) | 3:10 |
+| 45 | [Naah](https://open.spotify.com/track/0zRsGGueSQLRkYWs4kPA4V) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Naah](https://open.spotify.com/album/69E3qRzBF9CVToWXmXH4po) | 3:10 |
 | 46 | [Move Your Lakk](https://open.spotify.com/track/3aYMKdSitJeHUCZO8Wt6fw) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sonakshi Sinha](https://open.spotify.com/artist/7Bs820pxTkAddFJ3O6WhKi) | [Move Your Lakk](https://open.spotify.com/album/0V06TMGQQQkvKxNmFlKyEj) | 3:14 |
 | 47 | [Gangland](https://open.spotify.com/track/1AGeDbAlIcoJN01bLkFN82) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 2:48 |
 | 48 | [Nikle Currant](https://open.spotify.com/track/5T3rp70MEW4XnWv82BDVey) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Nikle Currant](https://open.spotify.com/album/7dXErOdlQlzs0pYIYmPP2c) | 3:32 |
 | 49 | [Daru Band](https://open.spotify.com/track/5ykIUH7FqS7J9rMIGx07sj) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Do Gabru \- Mankirt Aulakh & Parmish Verma](https://open.spotify.com/album/0VCDWiGktLuwEvDZyOqYmn) | 3:17 |
 | 50 | [Prada](https://open.spotify.com/track/3cdEx2rKrEdZ2Vj3AcSDt2) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [Prada](https://open.spotify.com/album/2JZmViMjoYTqnTvtkkTloI) | 3:05 |
 
-Snapshot ID: `MCwwMDVlNzg2ZWUzYTk0ZDgzMzIyYmI4MDY1M2IzYWIzNDdjZDNhYzkw`
+Snapshot ID: `MCxmNzk0MDg0MmM2Yjg1Mjc4OGU3MzdkOWU0NGMzOTIzNmUxMzUxNTJk`

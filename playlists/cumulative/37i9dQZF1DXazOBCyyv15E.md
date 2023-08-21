@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Genesis Owusu
 
-1,700 songs - 4 day 5 hr 10 min
+1,701 songs - 4 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,8 @@
 | [Daze](https://open.spotify.com/track/1VYb2WzD5MceEJfnQ8iy6W) | [Beach for Tiger](https://open.spotify.com/artist/1QVfnmiJuStWWhpLM0mt7F) | [Daze](https://open.spotify.com/album/34s4HP3VGEUtOuaj3FPymi) | 3:51 | 2021-01-23 | 2021-03-14 |
 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 | 2023-07-13 |  |
 | [De Selby \(Part 2\)](https://open.spotify.com/track/20kkA2JHtAF5J7iz89iOuB) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/3XhPF8KnqNLkSPbNbBqMw6) | 3:47 | 2023-07-20 | 2023-07-22 |
-| [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-20 |  |
+| [De Selby \(Part 2\)](https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:47 | 2023-08-17 |  |
+| [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-20 | 2023-08-21 |
 | [Dead Submarines](https://open.spotify.com/track/1CfljNbof7L1IDqEH8AAs7) | [Jacob Slater](https://open.spotify.com/artist/2ySjYyLhcKzJFDult8UdYw) | [Pinky, I Love You](https://open.spotify.com/album/1UxVB3EeqH303QRMW24bmG) | 3:31 | 2023-08-03 |  |
 | [Deadman Deadman Deadman](https://open.spotify.com/track/3KH13eIaIOl0e75yLfFWV0) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Deadman Deadman Deadman](https://open.spotify.com/album/6kGZlSN6C6At36Hcxk3y84) | 3:28 | 2023-04-20 | 2023-04-28 |
 | [Dealer](https://open.spotify.com/track/7iqQz931tn59mK6IZ3knRx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:34 | 2021-10-29 | 2022-03-09 |

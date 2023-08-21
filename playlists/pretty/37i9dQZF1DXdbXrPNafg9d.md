@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Sufjan Stevens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,394 likes - 150 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,425 likes - 150 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [My Time As a Ghostly Someone Else](https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [My Time As a Ghostly Someone Else](https://open.spotify.com/album/2XRwNGOkqLRrUYnC9AdDDO) | 4:20 |
 | 150 | [All the Good Times Never Die](https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [All the Good Times Never Die](https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL) | 3:08 |
 
-Snapshot ID: `MCw4NTViOWQwYjI5Yzc3OTExYmZjMmNhOWIxMzQ0YjI5NmQ3YWU1NThi`
+Snapshot ID: `MCwxYTMwZmVmM2M1MjIxZDU3MjM2NmRjZGRlZjFkODBhZWU2ODBkNjg5`

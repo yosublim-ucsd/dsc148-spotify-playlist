@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,613 songs - 5 day 18 hr 30 min
+3,614 songs - 5 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1048,6 +1048,7 @@
 | [Flowers Of Pantai Lima](https://open.spotify.com/track/2OWjlSMhJKEkMSiaQNgNc9) | [slow luna](https://open.spotify.com/artist/3MW5fdqmiIb1rKXccPjEID), [Clark Can](https://open.spotify.com/artist/0JGNOIhIiz8RuyOzxAQ5cP) | [Badung Colors](https://open.spotify.com/album/2fdzPBjXZQws4ya9Vb1blK) | 1:52 | 2022-12-15 | 2023-07-28 |
 | [Flowow](https://open.spotify.com/track/7lY2zovuTeMCvUvk07Z0sG) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Flowow](https://open.spotify.com/album/08Ga0oeERhkVviuU1PML0I) | 1:55 | 2022-12-22 | 2023-07-28 |
 | [Flowstate](https://open.spotify.com/track/3en1UeswrAkiqpJjy0yqM5) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Flowstate](https://open.spotify.com/album/26Xh03TQE0jvRP0mhqYAR6) | 1:52 | 2020-10-23 | 2021-05-21 |
+| [Fluff](https://open.spotify.com/track/54LKiXE5UIdFzDgKsbLacL) | [Hanses](https://open.spotify.com/artist/6wwQjgTWrlZBFU4PcloxaR), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fluff](https://open.spotify.com/album/7qnaVlVTffLYXPSaQzLkiB) | 1:53 | 2023-08-17 |  |
 | [Flushing the Stairs](https://open.spotify.com/track/16lFjZrnMZmW9wU44yexlY) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Flushing the Stairs](https://open.spotify.com/album/4cBSnTytjdcnDt8QvpwSmt) | 2:52 | 2020-11-06 | 2021-01-04 |
 | [Flutes And Guitars](https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Flutes And Guitars](https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq) | 1:36 | 2023-06-01 |  |
 | [fluttr](https://open.spotify.com/track/3tys93mrUZQSpGUM2H7U3Q) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [fluttr](https://open.spotify.com/album/0FEZp9tj02g0YUJA9qYiSA) | 1:54 | 2022-01-20 | 2022-02-18 |
@@ -1880,7 +1881,7 @@
 | [Mango Tree](https://open.spotify.com/track/697J2HJPgF7klXERmeLs4f) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Mango Tree](https://open.spotify.com/album/77Rw2U1zpOiRys3V6t5r7h) | 2:05 | 2021-11-12 | 2022-07-29 |
 | [Maple Tree](https://open.spotify.com/track/7oMBaIaQmrxSe40QouKQGe) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Maple Tree](https://open.spotify.com/album/0AISjVbzcuOeKcmtSjoxns) | 2:04 | 2021-06-12 | 2021-07-16 |
 | [maravi](https://open.spotify.com/track/5GDoCm1iNcRp2BU4nxXpgw) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [maravi](https://open.spotify.com/album/5b5LWcmvDS4cmGnxSlRYUg) | 2:14 | 2019-08-24 | 2020-02-01 |
-| [Marbles](https://open.spotify.com/track/0WZVKvzrIHoQhmY2Nhl7GQ) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Marbles](https://open.spotify.com/album/39xX4oBkTKXzXqWx3qnWgI) | 2:30 | 2023-08-17 |  |
+| [Marbles](https://open.spotify.com/track/0WZVKvzrIHoQhmY2Nhl7GQ) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Marbles](https://open.spotify.com/album/39xX4oBkTKXzXqWx3qnWgI) | 2:30 | 2023-08-17 | 2023-08-21 |
 | [March \- Little Trumpeter](https://open.spotify.com/track/4qPpClQjmFyJPOEVEFmT6D) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [March \- Little Trumpeter](https://open.spotify.com/album/2WWdvmOzow02t9UTZg4gOH) | 2:33 | 2019-05-26\* | 2019-08-13 |
 | [Maria](https://open.spotify.com/track/6YK8exJVz6WXsSugl3AhNk) | [Wyl](https://open.spotify.com/artist/0WfdC8rfPxrkSrNSCaC4xU), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Ferdinand Schwarz](https://open.spotify.com/artist/3NNGaCTd5ocJPjmPooObtA) | [Maria](https://open.spotify.com/album/0MCRLnkN5YdysWSzzT8ZvG) | 2:24 | 2020-09-11 | 2020-12-04 |
 | [Marigold](https://open.spotify.com/track/3OmR1Xu0fJj3HVna1suXAa) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Marigold](https://open.spotify.com/album/0CEZGY9yvfXEI36ZUCfs01) | 3:04 | 2021-08-27 | 2021-10-22 |

@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: DannyLux",
-  "num_followers": 185,
+  "num_followers": 197,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGVkYzUzNDUwOTIxZDY5MTAyZmRjOTQzOWNmYmQzNTQ1YzBjODg1",
+  "snapshot_id": "MCw3ODhmMzE0N2UwNjNkZDJiN2UwYWEzZGYwMjU4YWFmNWVhNjY2Mzcx",
   "tracks": [
     {
       "added_at": "2023-08-18 20:32:46",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-08-18 20:32:46",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187723,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
-    },
-    {
-      "added_at": "2023-08-18 20:32:46",
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss"
+    },
+    {
+      "added_at": "2023-08-18 20:32:46",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187723,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
     },
     {
       "added_at": "2023-08-18 20:32:46",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-08-18 20:32:46",
       "album": {
-        "name": "Malib\u00fa",
-        "url": "https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz"
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Malib\u00fa",
-      "url": "https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj"
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
       "added_at": "2023-08-18 20:32:46",
@@ -375,6 +375,22 @@
       "duration_ms": 154119,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
+    },
+    {
+      "added_at": "2023-08-18 20:32:46",
+      "album": {
+        "name": "Malib\u00fa",
+        "url": "https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Malib\u00fa",
+      "url": "https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj"
     },
     {
       "added_at": "2023-08-18 20:32:46",
@@ -439,22 +455,6 @@
       "duration_ms": 185002,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
-    },
-    {
-      "added_at": "2023-08-18 20:32:46",
-      "album": {
-        "name": "La V\u00edctima",
-        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 156345,
-      "name": "La V\u00edctima",
-      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
       "added_at": "2023-08-18 20:32:46",

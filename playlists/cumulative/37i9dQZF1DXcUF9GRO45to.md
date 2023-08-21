@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-275 songs - 17 hr 36 min
+276 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Miracle](https://open.spotify.com/track/3suH330uWXsMHBM8PrJiAg) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Kaioty](https://open.spotify.com/album/0wSJlmSKVzARspRSz0VD98) | 3:16 | 2023-06-29 |  |
 | [Miroir](https://open.spotify.com/track/69p81RFFWx60N6oECYgI89) | [Bipolar Club](https://open.spotify.com/artist/6SGmaTmG3ZDt5krt6rklru) | [Miroir](https://open.spotify.com/album/4UKd6gVT7dWalCUgCIav2A) | 2:57 | 2022-01-27 | 2022-07-26 |
 | [Model](https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [...About Going Home](https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI) | 4:09 | 2023-06-29 |  |
+| [Moments](https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v) | [TERNE](https://open.spotify.com/artist/4QkgbsfcoQbCfiSw9gT4kq) | [Moments](https://open.spotify.com/album/72enbv0nkgZK6bnIUh9fNj) | 3:09 | 2023-07-23 |  |
 | [Mr\. BigYellowSun](https://open.spotify.com/track/27YpSQcKYFC2BDKXPba4D7) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Sunflower](https://open.spotify.com/album/7yaDbs8UuwGoYqzgmGt3lu) | 3:09 | 2022-06-30 |  |
 | [Mr\. Perfect](https://open.spotify.com/track/43XPO9j08EgaPyGwsCjxpz) | [Holy Fake News](https://open.spotify.com/artist/6HGor9KJpMcOImEhrQpWy4) | [Holy Fake News](https://open.spotify.com/album/5ZBR50XOCNosCl7XB2vi15) | 3:36 | 2022-01-03 | 2022-07-25 |
 | [Murderology](https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn) | [Yard of Blondes](https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg) | [Murderology](https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti) | 4:23 | 2021-12-15 | 2022-07-28 |
@@ -186,7 +187,7 @@
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:32 | 2022-12-11 | 2023-06-30 |
 | [One Big Mess](https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:56 | 2023-01-29 |  |
 | [Only Weird People Can Fly](https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ) | [Dust On Earth](https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6) | [Only Weird People Can Fly](https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV) | 4:18 | 2023-06-29 | 2023-07-31 |
-| [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 | 2022-03-24 |  |
+| [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 | 2022-03-24 | 2023-08-21 |
 | [Paradis](https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Paradis](https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9) | 2:21 | 2023-06-29 |  |
 | [Parasite](https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY) | [Fabulous Sheep](https://open.spotify.com/artist/53PR6aQRtneL0Gf0ZhxWvh) | [Parasite](https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz) | 2:38 | 2022-01-27 | 2023-06-30 |
 | [Pas la peine](https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w) | [MSS FRNCE](https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO) | [V](https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum) | 1:47 | 2021-12-31 |  |

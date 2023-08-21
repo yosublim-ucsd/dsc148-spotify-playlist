@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 98768,
+  "num_followers": 98831,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTQ1MDc0YWE4NGRiMzgwNDVlZDliZjg5ZjY3YjcwNDgwNzUwNzIw",
+  "snapshot_id": "MCwyNDRkNmI2YjI5MWZhZWMxZDM4YzhjZTY3MzBhN2JiZDdlNWE3OTE4",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -391,26 +391,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Abu Simbel (Hania Rani Invalides Version)",
-        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 339082,
-      "name": "Abu Simbel - Hania Rani Invalides Version",
-      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Spring 1 (Levitation Mix)",
         "url": "https://open.spotify.com/album/4maru8HKkGFwwrUWovd1wX"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 215281,
       "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - Levitation Mix",
       "url": "https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Abu Simbel (Hania Rani Invalides Version)",
+        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 339082,
+      "name": "Abu Simbel - Hania Rani Invalides Version",
+      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 186000,
       "name": "Caf\u00e9 Papantla",
       "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1047,26 +1047,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Gabriel (Tom Player Strings Version)",
-        "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
       },
       "artists": [
         {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        },
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh"
-        },
-        {
-          "name": "Tom Player",
-          "url": "https://open.spotify.com/artist/6kEt6wb2fUfh3iB7Sr0PrJ"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         }
       ],
-      "duration_ms": 182212,
-      "name": "Gabriel - Tom Player Strings Version",
-      "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
+      "duration_ms": 268124,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1087,18 +1079,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+        "name": "Gabriel (Tom Player Strings Version)",
+        "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
       },
       "artists": [
         {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh"
+        },
+        {
+          "name": "Tom Player",
+          "url": "https://open.spotify.com/artist/6kEt6wb2fUfh3iB7Sr0PrJ"
         }
       ],
-      "duration_ms": 268124,
-      "name": "Ostinato",
-      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
+      "duration_ms": 182212,
+      "name": "Gabriel - Tom Player Strings Version",
+      "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1171,6 +1171,34 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Elv",
+        "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        },
+        {
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+        },
+        {
+          "name": "Ruben Jeyasundaram",
+          "url": "https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2"
+        },
+        {
+          "name": "Vocaal Ensemble Cordier",
+          "url": "https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Drang",
+      "url": "https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Sound Visions",
         "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
       },
@@ -1203,34 +1231,6 @@
       "duration_ms": 263708,
       "name": "North/South",
       "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Elv",
-        "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
-      },
-      "artists": [
-        {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
-        },
-        {
-          "name": "Canea Quartett",
-          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
-        },
-        {
-          "name": "Ruben Jeyasundaram",
-          "url": "https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2"
-        },
-        {
-          "name": "Vocaal Ensemble Cordier",
-          "url": "https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Drang",
-      "url": "https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Riva",
+        "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        }
+      ],
+      "duration_ms": 238602,
+      "name": "Riva",
+      "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
       },
@@ -1307,22 +1327,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Riva",
-        "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
+        "name": "Unfold (XXIM:EXPO #2)",
+        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Frank Wiedemann",
-          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         }
       ],
-      "duration_ms": 238602,
-      "name": "Riva",
-      "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
+      "duration_ms": 218743,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1395,18 +1411,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Unfold (XXIM:EXPO #2)",
-        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+        "name": "Human Reworked",
+        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        },
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
         }
       ],
-      "duration_ms": 218743,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+      "duration_ms": 277653,
+      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1431,42 +1451,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Human Reworked",
-        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu"
       },
       "artists": [
         {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         },
         {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
-      },
-      "artists": [
-        {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+          "name": "Vocaal Ensemble Cordier",
+          "url": "https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr"
         },
         {
-          "name": "Angus MacRae",
-          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+          "name": "Ruben Jeyasundaram",
+          "url": "https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2"
         }
       ],
-      "duration_ms": 267871,
-      "name": "Enerhodar",
-      "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
+      "duration_ms": 199106,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R"
     }
   ],
   "unique_name": "Classical X",

@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSPWTO4n5fg.md) - [plain]
 | 58 | [Gloomy Driver](https://open.spotify.com/track/7ou4CDQnMYF4BfWZQzfhfr) | [KIM JONG CHEON](https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86) | [Delivery Man \(Original Soundtrack\)](https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9) | 2:17 |
 | 59 | [Opening Signal](https://open.spotify.com/track/6jNuWvdZ4xmHltQehWxsDX) | [Kim Ho Jung](https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF), [블루키](https://open.spotify.com/artist/7KbMn3yuGgzCotcFCtm3zL) | [Delivery Man \(Original Soundtrack\)](https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9) | 0:24 |
 
-Snapshot ID: `MCxjMTg5MzMzYWMwNGYzMjliN2MwOTgwZWMyZDUxZTJiODRhZjgyMzlk`
+Snapshot ID: `MCw4ODJkMzQ3N2UxYzE4OWM1MTlhNjA3NjIxMzNhMjUwNTg2OWE2Nzhl`

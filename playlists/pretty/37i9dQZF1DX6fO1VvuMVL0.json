@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 58125,
+  "num_followers": 58184,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODgwZjFlM2M0OTU0ZDRhZGYyZDNkNmQ5NTk0MTI4NzY5NDJlY2E5",
+  "snapshot_id": "MCw1NTA5YThlMTFiNzU2YWJjZDA2MzlkYzM5N2EwODczNzI4MjNjYzgx",
   "tracks": [
     {
       "added_at": "2023-08-16 12:54:59",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-08-16 12:54:59",
       "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Kathy's Waltz",
+      "url": "https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30"
+    },
+    {
+      "added_at": "2023-08-16 12:54:59",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 204480,
       "name": "Come Rain Or Come Shine (Take 5)",
       "url": "https://open.spotify.com/track/13KYyenapQ2RMEGBJuRkUa"
-    },
-    {
-      "added_at": "2023-08-16 12:54:59",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Kathy's Waltz",
-      "url": "https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30"
     },
     {
       "added_at": "2023-08-16 12:54:59",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-16 12:54:59",
       "album": {
-        "name": "Lennie Tristano / The New Tristano",
-        "url": "https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9"
-      },
-      "artists": [
-        {
-          "name": "Lennie Tristano",
-          "url": "https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e"
-        }
-      ],
-      "duration_ms": 365840,
-      "name": "Ghost of a Chance",
-      "url": "https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM"
-    },
-    {
-      "added_at": "2023-08-16 12:54:59",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 324773,
       "name": "Topsy",
       "url": "https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek"
+    },
+    {
+      "added_at": "2023-08-16 12:54:59",
+      "album": {
+        "name": "Lennie Tristano / The New Tristano",
+        "url": "https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9"
+      },
+      "artists": [
+        {
+          "name": "Lennie Tristano",
+          "url": "https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e"
+        }
+      ],
+      "duration_ms": 365840,
+      "name": "Ghost of a Chance",
+      "url": "https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM"
     },
     {
       "added_at": "2023-08-16 12:54:59",

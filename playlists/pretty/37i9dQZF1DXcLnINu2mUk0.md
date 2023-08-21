@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Slow J.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,011 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,033 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 35 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
 | 36 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 37 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
-| 38 | [Filhos](https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Filhos](https://open.spotify.com/album/16xD2hWPUrnrUrWmzBweXQ) | 3:30 |
-| 39 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
+| 38 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
+| 39 | [Filhos](https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Filhos](https://open.spotify.com/album/16xD2hWPUrnrUrWmzBweXQ) | 3:30 |
 | 40 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
 | 41 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 42 | [Depois da Chuva](https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:39 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 61 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
 | 62 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
 | 63 | [100 Maneiras](https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8) | [xtussy](https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI) | [100 Maneiras](https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD) | 4:00 |
-| 64 | [Tudo Se Repete](https://open.spotify.com/track/2gLijdOpgmEv7K8Ly8y4su) | [Miguel](https://open.spotify.com/artist/7a4kyJ95ewEhOmBeDFH5Qz) | [Tudo Se Repete](https://open.spotify.com/album/4brC0gox7AtKcndkkHhhpe) | 3:06 |
-| 65 | [Ohhh](https://open.spotify.com/track/4eG7PhXsV1S9jW4ENOu1GN) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Ohhh](https://open.spotify.com/album/3yRusfv9KZ0EFI2HWpO77p) | 3:38 |
-| 66 | [Sem Parar](https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN) | [Vicente Augusto](https://open.spotify.com/artist/50bEMb8JJd2GxHQF1AoOV7), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [Sem Parar](https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV) | 3:16 |
+| 64 | [Sem Parar](https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN) | [Vicente Augusto](https://open.spotify.com/artist/50bEMb8JJd2GxHQF1AoOV7), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [Sem Parar](https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV) | 3:16 |
+| 65 | [Tudo Se Repete](https://open.spotify.com/track/2gLijdOpgmEv7K8Ly8y4su) | [Miguel](https://open.spotify.com/artist/7a4kyJ95ewEhOmBeDFH5Qz) | [Tudo Se Repete](https://open.spotify.com/album/4brC0gox7AtKcndkkHhhpe) | 3:06 |
+| 66 | [Ohhh](https://open.spotify.com/track/4eG7PhXsV1S9jW4ENOu1GN) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Ohhh](https://open.spotify.com/album/3yRusfv9KZ0EFI2HWpO77p) | 3:38 |
 | 67 | [Não Liga Pra Mim](https://open.spotify.com/track/52HXxFOvQ3o8qMT9lmdaWZ) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Não Liga Pra Mim](https://open.spotify.com/album/6DQkKTTgkyn0vajNSZTwer) | 2:45 |
 | 68 | [Backseat](https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Backseat](https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR) | 3:12 |
 | 69 | [Bebé](https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Bebé](https://open.spotify.com/album/5O0n73lPSFwtGrQCqCAIe4) | 2:43 |
 | 70 | [Feelings](https://open.spotify.com/track/5vwt5fdPoIbNYkWPOBInfp) | [Tonny K](https://open.spotify.com/artist/337etR6tCrVdPEREaN9Qqc), [Lil Saint](https://open.spotify.com/artist/7odbCfUO9CRAZH4NE4GdU4) | [Feelings](https://open.spotify.com/album/7hJtnNxChO1mGUtdWUuG6F) | 3:04 |
 
-Snapshot ID: `MCxkYmYxZjFjNjVlZmFiNzhjZjc1MTM5YmJkYTE2ZDVlMDM1ODVlMTEw`
+Snapshot ID: `MCwxOWQzMDA2YjEyYzU0OTJhYjkzOGVmYTgzNzNjOTMzMjg5NmFmNWU3`

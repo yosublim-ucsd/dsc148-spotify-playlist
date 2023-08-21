@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 80757,
+  "num_followers": 80796,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDcwMzk2MDkxMTgyZGIzMDE0OTkxNjFmNTBiYTUwOTZkZTc3NjVj",
+  "snapshot_id": "MCxkYWQ5N2MwZjBjMDA2ZmM5NmU2MGFjZThlNDMxMWQwY2NjYzk4OGJm",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Who Cares?",
-      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Frank",
         "url": "https://open.spotify.com/album/2poSmwqkBX2RE1Z7eQoU5c"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 268440,
       "name": "Someone To Watch Over Me - Demo",
       "url": "https://open.spotify.com/track/6NTYTe9TefEXD65luwjxal"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -763,6 +763,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 426866,
+      "name": "Oh, Kay!: Overture",
+      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
       },
@@ -787,34 +815,6 @@
       "duration_ms": 438560,
       "name": "Piano Concerto in F Major: III. Allegro agitato",
       "url": "https://open.spotify.com/track/533JRQYBlNy9qEBXGm8LeE"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
-        }
-      ],
-      "duration_ms": 426866,
-      "name": "Oh, Kay!: Overture",
-      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
-        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
         "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
       },
@@ -1007,8 +987,8 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
-        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
       },
       "artists": [
         {
@@ -1016,13 +996,13 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
         }
       ],
-      "duration_ms": 199421,
-      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
-      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
+      "duration_ms": 239693,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1051,6 +1031,26 @@
       "duration_ms": 1224000,
       "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
       "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
+        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 199421,
+      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
+      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1209,7 +1209,7 @@
         },
         {
           "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
         }
       ],
       "duration_ms": 498373,

@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "In Control",
+        "url": "https://open.spotify.com/album/6QzEa12UN5OJ0SM8p0tfKW"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120990,
+      "name": "In Control",
+      "url": "https://open.spotify.com/track/0gwupaJdsfzEqKGe4sKDzy"
+    },
+    {
+      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/7mBjRZdYC0gN0du3ZKHHvK"
       },
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 431120,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7D4Dco7KtJWomSWYNbECA7"

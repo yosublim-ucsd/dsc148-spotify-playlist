@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Valentina Rico",
-  "num_followers": 283253,
+  "num_followers": 283296,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDU3ODVmMWI3OWYwNzdhMTU2NWU5NTgxNWQxN2VlOGU0NTEzOGM3",
+  "snapshot_id": "MCw3NzAzNzhjYWQ2ZjY5ZTBlNDUxNGY1MWRlODZiMzg1N2M3NzhlYjkw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -87,18 +87,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Los \u00c1ngeles",
-        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 158483,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 154374,
-      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
-      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+      "duration_ms": 158483,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -555,22 +555,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "MUCHO TXT",
-        "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
       },
       "artists": [
         {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 149777,
-      "name": "Multiverso (feat. Jay Wheeler)",
-      "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
+      "duration_ms": 186333,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -591,18 +587,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Diosa",
-        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
+        "name": "MUCHO TXT",
+        "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 186333,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+      "duration_ms": 149777,
+      "name": "Multiverso (feat. Jay Wheeler)",
+      "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "cielo violeta",
-        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "cielo violeta",
-      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "cielo violeta",
+        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "cielo violeta",
+      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 172066,
       "name": "Amor",
       "url": "https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 145741,
-      "name": "Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -867,6 +851,22 @@
       "duration_ms": 170389,
       "name": "Nunca Deja de Llover",
       "url": "https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 145741,
+      "name": "Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB"
     },
     {
       "added_at": "2023-08-18 04:00:00",

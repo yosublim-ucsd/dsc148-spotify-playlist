@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-487 songs - 1 day 1 hr 22 min
+488 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Into The Fire](https://open.spotify.com/track/2pkLSXs8Wv9Xe3aiCR7K5p) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Arsnøvä](https://open.spotify.com/artist/3vhqqkOtusdgbpr9336aFA) | [Into The Fire](https://open.spotify.com/album/33i8sQO6hNZk6wMhIBJSEv) | 2:57 | 2022-01-21 | 2022-07-20 |
 | [Into the Night](https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [Into the Night](https://open.spotify.com/album/0LL0D6ryvVY1qF5lh98Tuo) | 2:53 | 2023-07-14 |  |
 | [INTO THE UNKNOWN](https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng) | 3:58 | 2022-04-01 | 2022-07-13 |
-| [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 | 2023-07-28 |  |
+| [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 | 2023-07-28 | 2023-08-21 |
 | [It Gets Better](https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [It Gets Better](https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6) | 3:04 | 2021-07-16 | 2022-04-19 |
 | [It's Ours \- Short Mix](https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 3:20 | 2022-10-14 | 2023-05-11 |
 | [I’ll Take You High](https://open.spotify.com/track/4wkUa6PiswVtAwak37I1zC) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I’ll Take You High](https://open.spotify.com/album/3XapOB6DvwWEvaLH91I5Ex) | 2:52 | 2022-03-18 | 2022-04-15 |
@@ -236,6 +236,7 @@
 | [Live 4 Ever](https://open.spotify.com/track/2J8f89cDYoFuEVZAXKN3sH) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Live 4 Ever](https://open.spotify.com/album/4RT18SyW0vxHw7pjmfEQZS) | 2:13 | 2023-04-07 | 2023-05-27 |
 | [Live And Die \(feat\. Sophie Simmons\)](https://open.spotify.com/track/0QR4vZ9iuNjrkWYNLoVAnM) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Live And Die \(feat\. Sophie Simmons\)](https://open.spotify.com/album/3CSYACo4ZoOGR9u8HLdmMs) | 2:54 | 2022-08-19 | 2023-04-28 |
 | [Live For](https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Live For](https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7) | 2:51 | 2021-10-01 | 2022-09-03 |
+| [Locked Up \(ft\. Akon\)](https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Locked Up \(ft\. Akon\)](https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu) | 2:27 | 2023-08-18 |  |
 | [Lonely Days](https://open.spotify.com/track/6B6UOiNJIaymyr05jwMmuw) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Lonely Days](https://open.spotify.com/album/0QELvGe0mwITZXCdlHozC9) | 3:04 | 2022-03-18 | 2022-06-01 |
 | [Look Into My Eyes](https://open.spotify.com/track/44n8IiEeBHcZukhfxxfV9L) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Sary](https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW) | [Look Into My Eyes](https://open.spotify.com/album/1sFDhICmXyVfall99PnFbe) | 2:28 | 2023-02-03 | 2023-03-02 |
 | [Loop](https://open.spotify.com/track/0lqgo6rIBS0nVsvppZC3Ay) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loop](https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW) | 3:10 | 2022-07-15 | 2023-07-29 |

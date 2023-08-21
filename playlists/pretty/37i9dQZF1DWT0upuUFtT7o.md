@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Matilda Lyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,052 likes - 120 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,095 likes - 120 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 119 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 |
 | 120 | [Trashcan Heart](https://open.spotify.com/track/6y7Br5JDzdHcPH1LkmGBCN) | [Jive Talk](https://open.spotify.com/artist/1qVQwF3vK1r0TkCZwP9Xbo) | [Trashcan Heart](https://open.spotify.com/album/2TFdJ2HpgEXBRFkDViJkbA) | 3:38 |
 
-Snapshot ID: `MCxmYzRhOWUxMWY1NWQ4MTk2ZmE0NjY1MDY5ODY1OWFlOTdjM2EwOGMz`
+Snapshot ID: `MCw0OWIwOGYwYWZhYThlMDM2Y2ZjYWQ0Mjc1MzVhNTA5ZmU4NzFhYmI1`

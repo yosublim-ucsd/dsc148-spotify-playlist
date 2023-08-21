@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Adolescent's Orquestra",
-  "num_followers": 1840053,
+  "num_followers": 1840237,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2ZiZDVkMTBkMWRmNmNiNzMwOWYwNjg4Mzk2ODMwODNlOWM2OTAz",
+  "snapshot_id": "MCxmNGUzN2EzZmI2Nzg1MDAyZGQxNzdmNmU5ZjZmODUzYWRhZGMwNDFi",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Bueno y M\u00e1s",
         "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 270863,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Probablemente",
+        "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 217547,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Pa'lla Voy",
         "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Busco Un Pueblo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Si T\u00fa Me Besas",
-      "url": "https://open.spotify.com/track/5981zpjMYeKGoEQ6K9794L"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "De Costa a Costa",
         "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 309760,
       "name": "Te Voy a Hacer Feliz",
       "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Probablemente",
-        "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 217547,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Busco Un Pueblo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Si T\u00fa Me Besas",
+      "url": "https://open.spotify.com/track/5981zpjMYeKGoEQ6K9794L"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Al Duro",
         "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 327000,
       "name": "Vuelvo A Sentir",
       "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Pare Cochero",
         "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 217773,
       "name": "Con la Punta del Pie",
       "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
       },
       "artists": [
         {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
         }
       ],
-      "duration_ms": 374840,
-      "name": "La Pantera Mambo",
-      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
+      "duration_ms": 209743,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+      },
+      "artists": [
+        {
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        }
+      ],
+      "duration_ms": 374840,
+      "name": "La Pantera Mambo",
+      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 388160,
       "name": "Te Est\u00e1n Buscando",
       "url": "https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 209743,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ"
+        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
+        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
       },
       "artists": [
         {
-          "name": "Miguel Enriquez",
-          "url": "https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 262746,
-      "name": "Abre Que Voy",
-      "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
+      "duration_ms": 153608,
+      "name": "Acuyuye",
+      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
-        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Miguel Enriquez",
+          "url": "https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL"
         }
       ],
-      "duration_ms": 153608,
-      "name": "Acuyuye",
-      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
+      "duration_ms": 262746,
+      "name": "Abre Que Voy",
+      "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Desn\u00fadate",
-        "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 231363,
-      "name": "Desn\u00fadate",
-      "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Tromboranga",
         "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Desn\u00fadate",
+        "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 231363,
+      "name": "Desn\u00fadate",
+      "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 286453,
       "name": "Maria Teresa y Danilo",
       "url": "https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Los Oscares De Oscar",
         "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Oro Salsero (Vol 2)",
         "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 298546,
       "name": "T\u00fa Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Luis Figueroa",
-        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 189463,
-      "name": "Vienes",
-      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Empezando Otra Vez",
         "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
       },
@@ -1571,22 +1555,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Afirmando",
-        "url": "https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Gal\u00e9",
-          "url": "https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP"
-        }
-      ],
-      "duration_ms": 335360,
-      "name": "Ven a Medell\u00edn",
-      "url": "https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Mis Ojos Lloran por T\u00ed",
         "url": "https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R"
       },
@@ -1599,6 +1567,38 @@
       "duration_ms": 258786,
       "name": "Mis Ojos Lloran por T\u00ed",
       "url": "https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Luis Figueroa",
+        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 189463,
+      "name": "Vienes",
+      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Afirmando",
+        "url": "https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Gal\u00e9",
+          "url": "https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP"
+        }
+      ],
+      "duration_ms": 335360,
+      "name": "Ven a Medell\u00edn",
+      "url": "https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Ya No Te Amo",
-        "url": "https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM"
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
       },
       "artists": [
         {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 236257,
-      "name": "Ya No Te Amo",
-      "url": "https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi"
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1671,6 +1671,22 @@
       "duration_ms": 341839,
       "name": "Charrupi",
       "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Ya No Te Amo",
+        "url": "https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 236257,
+      "name": "Ya No Te Amo",
+      "url": "https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1695,22 +1711,6 @@
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Pas\u00e1ndola bien",
-        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 174411,
-      "name": "Pas\u00e1ndola bien",
-      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
     }
   ],
   "unique_name": "Salsa Nation",

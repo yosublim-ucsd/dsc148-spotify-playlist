@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 110837,
+  "num_followers": 110843,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZThlOTRhMzQxOTRhZjRkOTQ3OThhOTNlZmRiNDViMzI5NmYyYzQ3",
+  "snapshot_id": "MCxhNTQ1YTYzYzc4ZWFhYjE3ZWViNzg1MTA3MDVkMDlhZTE5ODI3MTFj",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -131,22 +131,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "summer nights.",
-        "url": "https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc"
+        "name": "With U",
+        "url": "https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3"
       },
       "artists": [
         {
-          "name": "halberd",
-          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
+          "name": "SwuM",
+          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
         },
         {
-          "name": "Nion",
-          "url": "https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0"
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
         }
       ],
-      "duration_ms": 84315,
-      "name": "summer nights.",
-      "url": "https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK"
+      "duration_ms": 218666,
+      "name": "With U",
+      "url": "https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -167,22 +167,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "With U",
-        "url": "https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3"
+        "name": "summer nights.",
+        "url": "https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc"
       },
       "artists": [
         {
-          "name": "SwuM",
-          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
         },
         {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+          "name": "Nion",
+          "url": "https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0"
         }
       ],
-      "duration_ms": 218666,
-      "name": "With U",
-      "url": "https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP"
+      "duration_ms": 84315,
+      "name": "summer nights.",
+      "url": "https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -367,18 +367,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "The Blyat Tapes,Vol.1",
-        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
+        "name": "sunny",
+        "url": "https://open.spotify.com/album/0enwhVDrDgNf2QpeleSUSZ"
       },
       "artists": [
         {
-          "name": "DVLTVN",
-          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
         }
       ],
-      "duration_ms": 85514,
-      "name": "Dont.Be.Afraid.",
-      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
+      "duration_ms": 139130,
+      "name": "sunny",
+      "url": "https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -403,22 +407,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "sunny",
-        "url": "https://open.spotify.com/album/0enwhVDrDgNf2QpeleSUSZ"
+        "name": "The Blyat Tapes,Vol.1",
+        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
       },
       "artists": [
         {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        },
-        {
-          "name": "Pandrezz",
-          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+          "name": "DVLTVN",
+          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
         }
       ],
-      "duration_ms": 139130,
-      "name": "sunny",
-      "url": "https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa"
+      "duration_ms": 85514,
+      "name": "Dont.Be.Afraid.",
+      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Sonatina",
-        "url": "https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU"
-      },
-      "artists": [
-        {
-          "name": "Huey Daze",
-          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
-        }
-      ],
-      "duration_ms": 165235,
-      "name": "Afternoon Calm",
-      "url": "https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Directions",
         "url": "https://open.spotify.com/album/1GNYINM8gupBbSdJSPuaud"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Sonatina",
+        "url": "https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU"
+      },
+      "artists": [
+        {
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        }
+      ],
+      "duration_ms": 165235,
+      "name": "Afternoon Calm",
+      "url": "https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Around the World",
         "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Beat Batch #2",
-        "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
+        "name": "another.wun",
+        "url": "https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS"
       },
       "artists": [
         {
-          "name": "Blvk",
-          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
         }
       ],
-      "duration_ms": 77844,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
+      "duration_ms": 105789,
+      "name": "another.wun",
+      "url": "https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "another.wun",
-        "url": "https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS"
+        "name": "Beat Batch #2",
+        "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
       },
       "artists": [
         {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+          "name": "Blvk",
+          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
         }
       ],
-      "duration_ms": 105789,
-      "name": "another.wun",
-      "url": "https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56"
+      "duration_ms": 77844,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Discography",
-        "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
-      },
-      "artists": [
-        {
-          "name": "Caleb Belkin",
-          "url": "https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Lost Samurai",
-      "url": "https://open.spotify.com/track/0LWoUEKzOpy7PWbSC67Oz6"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Cats Walking",
         "url": "https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 136470,
       "name": "Cats Walking",
       "url": "https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Discography",
+        "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
+      },
+      "artists": [
+        {
+          "name": "Caleb Belkin",
+          "url": "https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Lost Samurai",
+      "url": "https://open.spotify.com/track/0LWoUEKzOpy7PWbSC67Oz6"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1027,22 +1027,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "It's Ok",
-        "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
+        "name": "Sofie's SOS Tape",
+        "url": "https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit"
       },
       "artists": [
         {
-          "name": "Pandrezz",
-          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+          "name": "Mndsgn",
+          "url": "https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26"
         },
         {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
         }
       ],
-      "duration_ms": 168297,
-      "name": "It's Ok",
-      "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
+      "duration_ms": 219149,
+      "name": "Abeja",
+      "url": "https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1063,22 +1063,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Sofie's SOS Tape",
-        "url": "https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit"
+        "name": "It's Ok",
+        "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
       },
       "artists": [
         {
-          "name": "Mndsgn",
-          "url": "https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26"
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
         },
         {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
         }
       ],
-      "duration_ms": 219149,
-      "name": "Abeja",
-      "url": "https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ"
+      "duration_ms": 168297,
+      "name": "It's Ok",
+      "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
     },
     {
       "added_at": "2022-04-15 12:09:52",

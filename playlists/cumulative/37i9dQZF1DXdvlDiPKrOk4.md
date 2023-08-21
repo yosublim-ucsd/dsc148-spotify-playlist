@@ -4,7 +4,7 @@
 
 > Celebrate the legend Lata Mangeshkar with her evergreen songs \(1929 \- ∞\)
 
-51 songs - 4 hr 27 min
+52 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Tere Mere Milan Ki Yeh Raina \(From "Abhimaan"\)](https://open.spotify.com/track/4oUJpT44uR4ShMHqp4J0OR) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:54 | 2023-02-12 |  |
 | [Tu Mere Samne](https://open.spotify.com/track/08XzRV4mGjGwbpvYw68xBk) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7xGWECEsvj4iI3CajtZ1GH) | 6:06 | 2023-02-12 |  |
 | [Tujhe Dekha To \(From "Dilwale Dulhania Le Jayenge"\)](https://open.spotify.com/track/6FZrX6epdqcaQHx9LFRcuf) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:03 | 2023-02-12 |  |
-| [Yara Seeli Seeli](https://open.spotify.com/track/2bvSrOKLBSM6spSHLfdnZp) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lekin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7qmGaQpTwiimvbheYIooGs) | 5:05 | 2023-02-12 |  |
+| [Yara Seeli Seeli](https://open.spotify.com/track/2bvSrOKLBSM6spSHLfdnZp) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lekin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7qmGaQpTwiimvbheYIooGs) | 5:05 | 2023-02-12 | 2023-08-21 |
+| [YARA SEELI SEELI](https://open.spotify.com/track/3uLbP51oGqW2LptFFoKqNC) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Gulzar Lata](https://open.spotify.com/album/1Crl97kFr62EVygfqE8bd5) | 5:05 | 2023-08-03 |  |
 | [Ye Samaa Samaa Hai Pyar Ka](https://open.spotify.com/track/4vXuRuHYd0xzy3OmIUWD9z) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Humforlatadidi](https://open.spotify.com/album/5SEwkuBauaQPFfqF4wxkqr) | 4:46 | 2023-02-12 |  |
 | [Yeh Kahan Aa Gaye Hum \(From "Silsila"\)](https://open.spotify.com/track/4aZ428dOn67xa2i02kDmru) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR) | [Masterworks Lata Mangeshkar](https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr) | 7:54 | 2023-02-12 |  |
 

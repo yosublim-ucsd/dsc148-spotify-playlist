@@ -4,7 +4,7 @@
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-176 songs - 11 hr 45 min
+177 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,10 +138,11 @@
 | [Scoring The End Of The World \(feat\. Mick Gordon\)](https://open.spotify.com/track/7AZkyWdzyMLHSriJ61XAln) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Scoring The End Of The World \(feat\. Mick Gordon\)](https://open.spotify.com/album/1Na4wama079xflx3Y4vip4) | 3:48 | 2022-06-01 | 2022-09-28 |
 | [Seasick Sailor](https://open.spotify.com/track/3I1VLSWBv6R9gMGbrESodh) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Seasick Sailor](https://open.spotify.com/album/5H6eXAmScgzOpgrhioVe7e) | 3:39 | 2022-04-28 | 2022-07-29 |
 | [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 | 2022-05-12 | 2022-07-29 |
-| [Sham Pain](https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:29 | 2022-06-16 |  |
+| [Sham Pain](https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:29 | 2022-06-16 | 2023-08-21 |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-17 |  |
 | [Silence Is Golden](https://open.spotify.com/track/3i1Y99wGuncMydGzYCti68) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:24 | 2022-04-28 | 2022-07-29 |
 | [Stay Away](https://open.spotify.com/track/3FRB1HLHRqOamWnPeoQbK0) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Stay Away](https://open.spotify.com/album/6pZvlQmlxF8rmXK0xlMYgm) | 3:19 | 2022-04-28 | 2022-07-25 |
+| [STFU](https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 3:30 | 2022-12-15 |  |
 | [STFU](https://open.spotify.com/track/1SRLP4Itr5mk2J5flHiCah) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [STFU](https://open.spotify.com/album/7vUWe8QGIF73C0Nh5ariLc) | 3:30 | 2022-04-28 | 2022-07-29 |
 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 | 2022-04-28 |  |
 | [Stricken](https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:05 | 2022-04-28 | 2022-09-28 |

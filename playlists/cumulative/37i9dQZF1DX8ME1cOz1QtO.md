@@ -4,7 +4,7 @@
 
 > Find the path back to an era of enlightenment.
 
-122 songs - 14 hr 20 min
+123 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [In the Beginning](https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI) | 8:01 | 2022-10-04 |  |
 | [In the Beginning](https://open.spotify.com/track/648HIKBghwkMmbL9c29LL1) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0) | 8:01 | 2021-10-27 | 2023-04-29 |
 | [Inner Mood I](https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [Mooncircles](https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk) | 1:30 | 2021-10-27 |  |
-| [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 | 2022-07-01 |  |
+| [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 | 2022-07-01 | 2023-08-21 |
 | [Inside Celeste](https://open.spotify.com/track/7vGQ5QFaO8jnCr7R4L4kxA) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/6k6ghR0Lh0W0cCXCrbkFsU) | 2:57 | 2021-10-27 | 2022-07-29 |
 | [Interlude II](https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf) | [Mannheim Steamroller](https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe) | [Fresh Aire I](https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu) | 2:33 | 2021-10-27 |  |
 | [Keys To Imagination](https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl) | [Yanni](https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz) | [Keys To Imagination](https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n) | 5:14 | 2021-10-27 |  |
@@ -92,6 +92,7 @@
 | [Prism](https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK) | [Chris Spheeris](https://open.spotify.com/artist/42hAALNK37w5Zx8dnGGLZ6), [Paul Voudouris](https://open.spotify.com/artist/5Qwks7s6d53U9yYy9jyQfh) | [Passage](https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB) | 12:34 | 2021-10-27 |  |
 | [Procession](https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 7:27 | 2021-10-27 |  |
 | [Processional: Root Chakra](https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 5:23 | 2021-10-27 |  |
+| [Quiet Joy](https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Quiet Joy / Domestic Peace](https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb) | 3:02 | 2023-08-18 |  |
 | [Rachel's Song](https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:48 | 2021-10-27 |  |
 | [Rain Forest](https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n) | [Paul Speer](https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe), [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Natural States](https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K) | 4:18 | 2021-10-27 |  |
 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 | 2021-10-27 |  |

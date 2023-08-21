@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ca\u00f1onazos salseros para persignar la pista de baile!",
-  "num_followers": 42821,
+  "num_followers": 42929,
   "original_name": "Salsa Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmVmYmIzM2M4ZmJjYWZjYjIxZWYwNjkwNTc5MjIzNjgxMmE1OWU5",
+  "snapshot_id": "MCxiYjNlNjFmNWNkZjA4NTA2NWJjMTdlYjhjMDQxNzlmMmE2MTZkNmIy",
   "tracks": [
     {
       "added_at": "2022-12-30 20:26:55",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Que Suenen los Tambores",
-        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "No Quer\u00eda Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Sed\u00faceme",
         "url": "https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 321178,
       "name": "Caricias Prohibidas",
       "url": "https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
+        "name": "Hansel & Raul 33",
+        "url": "https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0"
       },
       "artists": [
         {
-          "name": "Max Torres",
-          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
         }
       ],
-      "duration_ms": 264312,
-      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
+      "duration_ms": 348600,
+      "name": "Ella Feat. Luis Enrique",
+      "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Hansel & Raul 33",
-        "url": "https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0"
+        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
       },
       "artists": [
         {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
+          "name": "Max Torres",
+          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
         }
       ],
-      "duration_ms": 348600,
-      "name": "Ella Feat. Luis Enrique",
-      "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
+      "duration_ms": 264312,
+      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
-        "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 261472,
-      "name": "Punta a Punta",
-      "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Sin Apariencias",
         "url": "https://open.spotify.com/album/5ZHCO172wRxkcOAx9RbHmO"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 305998,
       "name": "Ya No Te Puedo Amar",
       "url": "https://open.spotify.com/track/0SpeO0AlcVWQVcAZV3RUjZ"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
+        "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 261472,
+      "name": "Punta a Punta",
+      "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
+        "name": "Aut\u00e9ntico",
+        "url": "https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 289706,
+      "name": "Sombra Loca",
+      "url": "https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 293067,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Aut\u00e9ntico",
-        "url": "https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 289706,
-      "name": "Sombra Loca",
-      "url": "https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364466,
+      "name": "Un Monton De Estrellas",
+      "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
         "name": "Por Las Buenas",
         "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
       },
@@ -1147,26 +1163,6 @@
       "duration_ms": 155538,
       "name": "Por Las Buenas",
       "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
-      },
-      "artists": [
-        {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Memoria",
-        "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
       "artists": [
         {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
         }
       ],
-      "duration_ms": 364466,
-      "name": "Un Monton De Estrellas",
-      "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
+      "duration_ms": 199862,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/5Ca6GAFh3ig8v7GrIy6MK9"
-      },
-      "artists": [
-        {
-          "name": "Hansel",
-          "url": "https://open.spotify.com/artist/7h3fRXqTgVWDokASFfEWOb"
-        }
-      ],
-      "duration_ms": 269826,
-      "name": "\u00bfQu\u00e9 Pas\u00f3?",
-      "url": "https://open.spotify.com/track/4rU0PHummLWtI4Y1IhP7WQ"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Soy Feliz",
         "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
       },
@@ -1279,22 +1263,6 @@
       "duration_ms": 244800,
       "name": "Las Tumbas",
       "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Septimo Sentido",
-        "url": "https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
-        }
-      ],
-      "duration_ms": 312006,
-      "name": "Isi",
-      "url": "https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1315,6 +1283,38 @@
       "duration_ms": 267311,
       "name": "Hechizo",
       "url": "https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/5Ca6GAFh3ig8v7GrIy6MK9"
+      },
+      "artists": [
+        {
+          "name": "Hansel",
+          "url": "https://open.spotify.com/artist/7h3fRXqTgVWDokASFfEWOb"
+        }
+      ],
+      "duration_ms": 269826,
+      "name": "\u00bfQu\u00e9 Pas\u00f3?",
+      "url": "https://open.spotify.com/track/4rU0PHummLWtI4Y1IhP7WQ"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Septimo Sentido",
+        "url": "https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+        }
+      ],
+      "duration_ms": 312006,
+      "name": "Isi",
+      "url": "https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
+        "name": "Maelo...El \u00danico",
+        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 339240,
+      "name": "El Nazareno",
+      "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
         "name": "Hermanos Cartagena",
         "url": "https://open.spotify.com/album/0UfbpgoRUfXRSJKTnrOFCE"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 414706,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Maelo...El \u00danico",
-        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 339240,
-      "name": "El Nazareno",
-      "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "\u00a1Para Bailar!",
         "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 212640,
       "name": "Dime Que Pas\u00f3",
       "url": "https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
         "name": "Tremendo Trio",
         "url": "https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 232385,
       "name": "Mala Mujer",
       "url": "https://open.spotify.com/track/6WodQgc6eoPietr4k9lPHR"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Al Son Que Me Toquen, Vol. 1",
-        "url": "https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 283924,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/7rHFlEWOFJYn60AybSRj02"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 262613,
       "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
       "url": "https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Al Son Que Me Toquen, Vol. 1",
+        "url": "https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 283924,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/7rHFlEWOFJYn60AybSRj02"
     },
     {
       "added_at": "2022-12-30 20:26:55",

@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 40843,
+  "num_followers": 40885,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWZlYTMxN2RiOWU0NTdkY2ViYjEwOTE4ZjQ1YTNmYzlmMTQ4NzYy",
+  "snapshot_id": "MCxlZTk0ODU1ZGFkZGFiMDUwYTdkYTMzYjFlZDQ3YmY2OGZkNGNhMTE3",
   "tracks": [
     {
       "added_at": "2023-05-04 16:53:25",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Dr. John Plays Mac Rebennack The Legendary Sessions V. 1",
-        "url": "https://open.spotify.com/album/6pqnO3wDzP4fdXWbK9KaaL"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "Mac's Boogie",
-      "url": "https://open.spotify.com/track/6tH4egDSg8ozs54aPAD4Uw"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "See You Later, Alligator",
         "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 225000,
       "name": "Later Alligator (See You Later, Alligator)",
       "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Dr. John Plays Mac Rebennack The Legendary Sessions V. 1",
+        "url": "https://open.spotify.com/album/6pqnO3wDzP4fdXWbK9KaaL"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "Mac's Boogie",
+      "url": "https://open.spotify.com/track/6tH4egDSg8ozs54aPAD4Uw"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Let Me Go Home, Whiskey",
-      "url": "https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Presenting Blind Blake",
         "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 190400,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Let Me Go Home, Whiskey",
+      "url": "https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Return Of The Boogie Man",
-        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
-      },
-      "artists": [
-        {
-          "name": "Preacher Jack",
-          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Jessie's Boogie Woogie",
-      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Rum and Coke",
         "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 208067,
       "name": "501 Boogie",
       "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Return Of The Boogie Man",
+        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
+      },
+      "artists": [
+        {
+          "name": "Preacher Jack",
+          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Jessie's Boogie Woogie",
+      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "Boogie Stomp",
-        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
-      },
-      "artists": [
-        {
-          "name": "Bob Seeley",
-          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
-        },
-        {
-          "name": "Bob Baldori",
-          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
-        }
-      ],
-      "duration_ms": 287190,
-      "name": "Boogie Stomp",
-      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Tell Me Pretty Baby",
         "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 170040,
       "name": "Rocket Boogie \"88\" (Pt. 1)",
       "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "Boogie Stomp",
+        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
+      },
+      "artists": [
+        {
+          "name": "Bob Seeley",
+          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
+        },
+        {
+          "name": "Bob Baldori",
+          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
+        }
+      ],
+      "duration_ms": 287190,
+      "name": "Boogie Stomp",
+      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 160795,
+      "name": "Boogie Woogie - Mono",
+      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
         "name": "Barrelhouse, Blues & Boogie Woogie, Vol. 4",
         "url": "https://open.spotify.com/album/6F0PGqrZc1OGHxSEsXdg6P"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 221657,
       "name": "Memphis Blues",
       "url": "https://open.spotify.com/track/0wX7APzteSLd07TL8St7iY"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 160795,
-      "name": "Boogie Woogie - Mono",
-      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "So Swell",
-        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
-      },
-      "artists": [
-        {
-          "name": "Jon Cleary",
-          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
-        }
-      ],
-      "duration_ms": 151261,
-      "name": "Swanee River Boogie",
-      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 161173,
       "name": "Boogie Woogie Country Girl",
       "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "So Swell",
+        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
+      },
+      "artists": [
+        {
+          "name": "Jon Cleary",
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+        }
+      ],
+      "duration_ms": 151261,
+      "name": "Swanee River Boogie",
+      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
     },
     {
       "added_at": "2023-05-04 16:53:25",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-04 16:53:25",
       "album": {
-        "name": "St. Louis Blues Piano Man",
-        "url": "https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX"
-      },
-      "artists": [
-        {
-          "name": "James Crutchfield",
-          "url": "https://open.spotify.com/artist/0sI1SWCDI7JGeEhEuLaOoc"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Piggly Wiggly Blues",
-      "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
-    },
-    {
-      "added_at": "2023-05-04 16:53:25",
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 198260,
       "name": "Okay",
       "url": "https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb"
+    },
+    {
+      "added_at": "2023-05-04 16:53:25",
+      "album": {
+        "name": "St. Louis Blues Piano Man",
+        "url": "https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX"
+      },
+      "artists": [
+        {
+          "name": "James Crutchfield",
+          "url": "https://open.spotify.com/artist/0sI1SWCDI7JGeEhEuLaOoc"
+        }
+      ],
+      "duration_ms": 248226,
+      "name": "Piggly Wiggly Blues",
+      "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
     },
     {
       "added_at": "2023-05-04 16:53:25",

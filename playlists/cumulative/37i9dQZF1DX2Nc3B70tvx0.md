@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Sufjan graces us with a new track fit for Carrie & Lowell fanatics.
 
-1,739 songs - 4 day 8 hr 19 min
+1,740 songs - 4 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,8 @@
 | [Days Like These](https://open.spotify.com/track/2exuDqNVfSYuPEBAmogFeY) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Days Like These](https://open.spotify.com/album/3OIhcJ1dODYadOqISRc4SG) | 3:32 | 2021-08-19 | 2021-08-20 |
 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 | 2023-06-22 | 2023-08-18 |
 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 | 2019-05-26\* | 2019-11-01 |
-| [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-21 |  |
+| [De Selby \(Part 2\)](https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:47 | 2023-07-21 |  |
+| [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-21 | 2023-08-21 |
 | [Dead](https://open.spotify.com/track/6Ww5yDLIVX3ZcUs9wSvXH8) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Dead](https://open.spotify.com/album/3QutVC0xl9EKHyHeUhUV21) | 3:39 | 2022-07-15 | 2022-07-25 |
 | [Dead Dear \(Deer\)](https://open.spotify.com/track/36tSVRFlsdxAUtWODAAIpx) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Dead Dear \(Deer\)](https://open.spotify.com/album/56QKLIjO5nur7Z4ekgQzwG) | 2:46 | 2021-09-15 | 2022-04-07 |
 | [Dear Arkansas Daughter](https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [After](https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8) | 5:52 | 2023-06-26 |  |

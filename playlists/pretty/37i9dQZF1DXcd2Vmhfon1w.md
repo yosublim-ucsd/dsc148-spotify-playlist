@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Prok
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,998 likes - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,080 likes - 48 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 3 | [Cicatrices](https://open.spotify.com/track/2zQvtkghOHiBG48Bj0oFR9) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/3DtogKlZPCChofGSlc7DUu) | 2:56 |
 | 4 | [Shorty](https://open.spotify.com/track/5tL5OWnOFNgGhRu3frvYGT) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Tirititando](https://open.spotify.com/album/6DfZ9xZKkGM2GmvSz2mIw3) | 3:03 |
 | 5 | [Shars 2020](https://open.spotify.com/track/2OazFN4VRGMQe09Z71Yqqa) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2020](https://open.spotify.com/album/2a8XiNKgs13ufOWWuBFwrx) | 3:05 |
-| 6 | [Sin\-Ceros](https://open.spotify.com/track/512VEdEqHzzXDKgJELN0Ue) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Inkebrantable](https://open.spotify.com/album/2rWMEx26W79N05xBT5uEF4) | 3:55 |
-| 7 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
+| 6 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
+| 7 | [Sin\-Ceros](https://open.spotify.com/track/512VEdEqHzzXDKgJELN0Ue) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Inkebrantable](https://open.spotify.com/album/2rWMEx26W79N05xBT5uEF4) | 3:55 |
 | 8 | [Reproches](https://open.spotify.com/track/7aKXQCV7TaA56bnhXTxJFn) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Reproches](https://open.spotify.com/album/2z4I2HXUaqMlxprZfXJ0qe) | 4:33 |
 | 9 | [Ja Morant](https://open.spotify.com/track/74Y6PcHH1FU0ZXb34GHbsB) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:13 |
 | 10 | [Sudores fríos](https://open.spotify.com/track/4OuiDQdjh3I7aswGHyT0rC) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 4:35 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 47 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 |
 | 48 | [Hasta que salga el sol](https://open.spotify.com/track/296VAw6iwgYX38mWMy98EG) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hasta que salga el sol](https://open.spotify.com/album/6OxPnl4d7ZjsEyYhuWvG1k) | 4:07 |
 
-Snapshot ID: `MCw1MTY1YjJjZTY1OTE4ZWMwMjgwMWFkZTJiZDBlM2Y5OTQxMzM0NjY0`
+Snapshot ID: `MCwxYTk5Y2E0YTljNzA5Y2RjNjJmY2UxOWI0MTQ4MzY1YjYwOGY4ODk2`

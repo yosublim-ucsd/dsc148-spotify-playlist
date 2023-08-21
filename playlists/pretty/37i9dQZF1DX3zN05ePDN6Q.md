@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Haikaiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,290 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,353 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Água no Feijão](https://open.spotify.com/track/01iDxGokio8GbYW63DLVet) | [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [Sombra](https://open.spotify.com/artist/54cBoDN5Z8F9chRzmQz7V3) | [Imigrante](https://open.spotify.com/album/5Xa8dKUdTqJL2qOzadUnt3) | 2:15 |
 | 75 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 |
 
-Snapshot ID: `MCw5Nzc2YmM4MzdmYzM5NDRkZmYyNDY2OGFhOTc2YTNhNDJiNGMyNjA1`
+Snapshot ID: `MCw1YjAxYzk4YTFjNzA2OWVjNjg5ZjM1MDEyMGJmNjU0NTk5NGMwNzk3`

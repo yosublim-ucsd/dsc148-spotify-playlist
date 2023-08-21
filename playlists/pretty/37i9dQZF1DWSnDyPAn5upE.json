@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 43022,
+  "num_followers": 43100,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDZkNzQ4NGQxODJkZDgzMmE2NTEwOWE5YzdlZjViOWE4ZjgyYzhi",
+  "snapshot_id": "MCwzOTQ1NWI0NDM2OWFiNDUwYTZkNTZmM2IxYTE2NzIyNzBkYTAwM2I3",
   "tracks": [
     {
       "added_at": "2023-08-11 11:33:04",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-08-11 11:33:04",
       "album": {
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Theories",
+      "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
+    },
+    {
+      "added_at": "2023-08-11 11:33:04",
+      "album": {
         "name": "The Metallic Index",
         "url": "https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 94632,
       "name": "The Metallic Index",
       "url": "https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr"
-    },
-    {
-      "added_at": "2023-08-11 11:33:04",
-      "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Theories",
-      "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
     },
     {
       "added_at": "2023-08-11 11:33:04",
@@ -563,6 +563,30 @@
     {
       "added_at": "2023-08-11 11:33:04",
       "album": {
+        "name": "Tree of Life G Minor",
+        "url": "https://open.spotify.com/album/1zaBRRNsmiI4Tf7wVh1ojK"
+      },
+      "artists": [
+        {
+          "name": "Urbanski",
+          "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
+        },
+        {
+          "name": "Micha\u0142 S\u0142awecki",
+          "url": "https://open.spotify.com/artist/6HXAKf63cjz0G4NAiSwU7M"
+        },
+        {
+          "name": "Ch\u00f3r Politechniki Morskiej w Szczecinie",
+          "url": "https://open.spotify.com/artist/222VaksbMkcTr4vuK79lMh"
+        }
+      ],
+      "duration_ms": 184957,
+      "name": "Tree of Life G Minor",
+      "url": "https://open.spotify.com/track/5SlcSnTcZMthoi6wu6wrRP"
+    },
+    {
+      "added_at": "2023-08-11 11:33:04",
+      "album": {
         "name": "LP.8",
         "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
       },
@@ -595,46 +619,6 @@
     {
       "added_at": "2023-08-11 11:33:04",
       "album": {
-        "name": "Tree of Life G Minor",
-        "url": "https://open.spotify.com/album/1zaBRRNsmiI4Tf7wVh1ojK"
-      },
-      "artists": [
-        {
-          "name": "Urbanski",
-          "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
-        },
-        {
-          "name": "Micha\u0142 S\u0142awecki",
-          "url": "https://open.spotify.com/artist/6HXAKf63cjz0G4NAiSwU7M"
-        },
-        {
-          "name": "Ch\u00f3r Politechniki Morskiej w Szczecinie",
-          "url": "https://open.spotify.com/artist/222VaksbMkcTr4vuK79lMh"
-        }
-      ],
-      "duration_ms": 184957,
-      "name": "Tree of Life G Minor",
-      "url": "https://open.spotify.com/track/5SlcSnTcZMthoi6wu6wrRP"
-    },
-    {
-      "added_at": "2023-08-11 11:33:04",
-      "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        }
-      ],
-      "duration_ms": 276305,
-      "name": "Tendril",
-      "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
-    },
-    {
-      "added_at": "2023-08-11 11:33:04",
-      "album": {
         "name": "Time Is Local",
         "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
       },
@@ -655,22 +639,18 @@
     {
       "added_at": "2023-08-11 11:33:04",
       "album": {
-        "name": "Eyeline",
-        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL"
       },
       "artists": [
         {
-          "name": "LEYA",
-          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
         }
       ],
-      "duration_ms": 104544,
-      "name": "DOG",
-      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
+      "duration_ms": 276305,
+      "name": "Tendril",
+      "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
     },
     {
       "added_at": "2023-08-11 11:33:04",
@@ -687,6 +667,26 @@
       "duration_ms": 151838,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I"
+    },
+    {
+      "added_at": "2023-08-11 11:33:04",
+      "album": {
+        "name": "Eyeline",
+        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
+      },
+      "artists": [
+        {
+          "name": "LEYA",
+          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 104544,
+      "name": "DOG",
+      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
     },
     {
       "added_at": "2023-08-11 11:33:04",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-08-11 11:33:04",
       "album": {
-        "name": "Orbits",
-        "url": "https://open.spotify.com/album/5yX9DKolmT1yaFht5vQPlL"
-      },
-      "artists": [
-        {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
-        },
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        }
-      ],
-      "duration_ms": 284724,
-      "name": "Orbits",
-      "url": "https://open.spotify.com/track/6ncyCZRN47j2h1Ps537PFe"
-    },
-    {
-      "added_at": "2023-08-11 11:33:04",
-      "album": {
         "name": "Guiding Light",
         "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 194706,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
+    },
+    {
+      "added_at": "2023-08-11 11:33:04",
+      "album": {
+        "name": "Orbits",
+        "url": "https://open.spotify.com/album/5yX9DKolmT1yaFht5vQPlL"
+      },
+      "artists": [
+        {
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        },
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        }
+      ],
+      "duration_ms": 284724,
+      "name": "Orbits",
+      "url": "https://open.spotify.com/track/6ncyCZRN47j2h1Ps537PFe"
     },
     {
       "added_at": "2023-08-11 11:33:04",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-08-11 11:33:04",
       "album": {
+        "name": "Meditations Mixtape Vol.1",
+        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
+      },
+      "artists": [
+        {
+          "name": "Ami Dang",
+          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
+        }
+      ],
+      "duration_ms": 299666,
+      "name": "Satnam Waheguru",
+      "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
+    },
+    {
+      "added_at": "2023-08-11 11:33:04",
+      "album": {
         "name": "emerged, vol. II",
         "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 143157,
       "name": "abundance",
       "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
-    },
-    {
-      "added_at": "2023-08-11 11:33:04",
-      "album": {
-        "name": "Meditations Mixtape Vol.1",
-        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
-      },
-      "artists": [
-        {
-          "name": "Ami Dang",
-          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
-        }
-      ],
-      "duration_ms": 299666,
-      "name": "Satnam Waheguru",
-      "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
     },
     {
       "added_at": "2023-08-11 11:33:04",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2023-08-11 11:33:04",
       "album": {
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
+      },
+      "artists": [
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "anth\u00e9ne",
+          "url": "https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Remission",
+      "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
+    },
+    {
+      "added_at": "2023-08-11 11:33:04",
+      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 227631,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
-    },
-    {
-      "added_at": "2023-08-11 11:33:04",
-      "album": {
-        "name": "Remission",
-        "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
-      },
-      "artists": [
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "anth\u00e9ne",
-          "url": "https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Remission",
-      "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
     },
     {
       "added_at": "2023-08-11 11:33:04",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-08-11 11:33:04",
       "album": {
+        "name": "Grass Grow",
+        "url": "https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl"
+      },
+      "artists": [
+        {
+          "name": "Dolphin Midwives",
+          "url": "https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P"
+        }
+      ],
+      "duration_ms": 269252,
+      "name": "Grass Grow",
+      "url": "https://open.spotify.com/track/4yohulilOac5oAymyVOvaa"
+    },
+    {
+      "added_at": "2023-08-11 11:33:04",
+      "album": {
         "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
         "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
       },
@@ -1799,22 +1815,6 @@
     {
       "added_at": "2023-08-11 11:33:04",
       "album": {
-        "name": "Grass Grow",
-        "url": "https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl"
-      },
-      "artists": [
-        {
-          "name": "Dolphin Midwives",
-          "url": "https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P"
-        }
-      ],
-      "duration_ms": 269252,
-      "name": "Grass Grow",
-      "url": "https://open.spotify.com/track/4yohulilOac5oAymyVOvaa"
-    },
-    {
-      "added_at": "2023-08-11 11:33:04",
-      "album": {
         "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
       },
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2023-08-11 11:33:04",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+        "name": "Dalmarnock Tapes",
+        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
       },
       "artists": [
         {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
         }
       ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
+      "duration_ms": 314036,
+      "name": "L\u00e4mp\u00f6",
+      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
     }
   ],
   "unique_name": "ethereal voices",

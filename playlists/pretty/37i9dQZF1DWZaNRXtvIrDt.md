@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: 1tbsp
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,699 likes - 70 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,705 likes - 70 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [let you go](https://open.spotify.com/track/2S7gtwp6NctXZqA413ZZBh) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [let you go](https://open.spotify.com/album/3UzPE2AritxgXE3xVX5n5T) | 3:20 |
 | 70 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 |
 
-Snapshot ID: `MCwzNDA4YmNlYWU1YjU1YjM0OWQ4NzI4ZTIzMzczZDJhZjkxZjZlMmNk`
+Snapshot ID: `MCxhNzhiNjgwODUzNzdhY2U2MTBlZTE2MTlmODBhOTQyZjRmMTJiNmZm`

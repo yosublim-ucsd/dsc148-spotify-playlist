@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Dani Zam Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,713 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,729 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Oxygen](https://open.spotify.com/track/5WRMxSCs9W65GMcnbF6LQH) | [Phoebe Gil](https://open.spotify.com/artist/32DK9SxDI8Q7ri4yMXbraU) | [Oxygen](https://open.spotify.com/album/58qH32y3o7Sd0kudNfXH2V) | 3:32 |
 | 74 | [Akit](https://open.spotify.com/track/75KTAl7LtIHeXc0OOezZFF) | [Maxie Andreison](https://open.spotify.com/artist/2QuQBf81nBbfyLSQcTvXtl) | [Akit](https://open.spotify.com/album/4gyuvv2ooE1VTCxnxAyE7E) | 3:17 |
 
-Snapshot ID: `MCxjOGM5ZTZlNjM1ZDAzODI0Nzk3MWIwMDI2Yzk5ZDhiZDYxZGIzZjNj`
+Snapshot ID: `MCwyZDFjMDQ1NDVkYWQ2OWE1YTk5NDY3YTY1YzIwMWI2ZDU2M2UzYmUx`

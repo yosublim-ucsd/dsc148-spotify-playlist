@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Texas' own Parker McCollum is taking over to celebrate the release of his new album \"Never Enough\"! ",
+  "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. ",
   "name": "Heart Of Texas",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 204228,
       "name": "Best I Never Had",
       "url": "https://open.spotify.com/track/7L18O0h5x9EBdRcoh9Dl1z"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 222280,
       "name": "Big City Blues",
       "url": "https://open.spotify.com/track/6OB6FyZkkq4ipo6dJ5AKhQ"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 280946,
       "name": "Ellis Unit One",
       "url": "https://open.spotify.com/track/10LSAbxfWdPRmI7IZunckV"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 224027,
       "name": "Happier Alone",
       "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 237578,
       "name": "How Lucky Am I",
       "url": "https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 281653,
       "name": "Interstate",
       "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "Marfa Lights",
       "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 210760,
       "name": "Meet You in the Middle",
       "url": "https://open.spotify.com/track/5fgeba92zIjtr49JupqI9O"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 272160,
       "name": "Mendocino County Line",
       "url": "https://open.spotify.com/track/41cm0jYZCvTcBeYZQ8lnwV"
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 263706,
       "name": "Out Here In The Middle",
       "url": "https://open.spotify.com/track/6sNKmWhHQHUt2CD5qA0AVP"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 272733,
       "name": "Paint The Town Beige",
       "url": "https://open.spotify.com/track/6YYlOigshrUfgkBhsW36o6"
@@ -2216,6 +2216,24 @@
       "duration_ms": 268968,
       "name": "Pretty Things",
       "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
+    },
+    {
+      "album": {
+        "name": "Pretty Ugly",
+        "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178469,
+      "name": "Pretty Ugly",
+      "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
     },
     {
       "album": {
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 331480,
       "name": "Run Wild Horses",
       "url": "https://open.spotify.com/track/7iN0aONHwJW6jg0dRVUMVz"
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 225801,
       "name": "Tails I Lose",
       "url": "https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe"
@@ -2696,6 +2714,24 @@
       "duration_ms": 280000,
       "name": "Texas On My Mind",
       "url": "https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX"
+    },
+    {
+      "album": {
+        "name": "Texas Rain",
+        "url": "https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa"
+      },
+      "artists": [
+        {
+          "name": "Graycie York",
+          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218094,
+      "name": "Texas Rain",
+      "url": "https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5"
     },
     {
       "album": {
@@ -2908,7 +2944,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 224840,
       "name": "Three Days",
       "url": "https://open.spotify.com/track/0vCfqTdVanc42UWTQmVU2S"

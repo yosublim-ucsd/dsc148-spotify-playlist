@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Maluma y Carin León
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,689 likes - 64 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,770 likes - 64 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 63 | [Más de lo Que Te Imaginas](https://open.spotify.com/track/6GXwiQx7uqLQw8ZV5lqMGK) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW), [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Más de lo Que Te Imaginas](https://open.spotify.com/album/0m9qBGXLit9ucfdcZL2flZ) | 3:57 |
 | 64 | [El Rey De La Noche \(DJ Fn1 Remix\)](https://open.spotify.com/track/7a0R4km1nZ10G94dUWVmOv) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q), [Dj Fn1](https://open.spotify.com/artist/0qdNc5R8c5unxjVpywfg9p) | [Sigilos y Decretos \(Edición 1er Aniversario\)](https://open.spotify.com/album/1bCiKxXrc7vU7tabTU9PKq) | 4:37 |
 
-Snapshot ID: `MCw3YjMyODYzYjI3YzJhOWFlMTBhNWI2YTNkZTAyOTFiNDg0MTM1MjAx`
+Snapshot ID: `MCxjODAwNzc1YWRlZDY4NDY2ZGUwOTZlNjZmYTU1NDVkZmUxMGEwYzVl`

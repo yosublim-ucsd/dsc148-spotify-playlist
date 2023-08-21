@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: ¿Téo?
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,388 likes - 200 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,399 likes - 200 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 199 | [Más](https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:52 |
 | 200 | [Vida Cotidiana](https://open.spotify.com/track/3n93Sj6hK7kVBYERcJg8L4) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:02 |
 
-Snapshot ID: `MCwwY2YxODIyOTlhMWI3NmUzZDUwNTk1ZjIwMTBhZWUxNGUwMDFmMjY4`
+Snapshot ID: `MCxhYzhhZDhiN2VkZTIxOTkxN2U5NDEyN2Q3NWRiMWViNTQ1MTllOWU2`

@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-205 songs - 17 hr 9 min
+206 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Creepin in the Shadow \- Original Mix](https://open.spotify.com/track/01lpiNuE2762wUx4IImGV3) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Creepin in the Shadow](https://open.spotify.com/album/1t0dcAbDxYfH9r0Zzg5ewY) | 6:13 | 2023-03-10 |  |
 | [D.N.C.](https://open.spotify.com/track/1eoPkDYe6hRTE0jLP2SITo) | [Miguel Lobo](https://open.spotify.com/artist/6PWQ9tAq0UNhzf68T1zYUZ) | [Janette](https://open.spotify.com/album/4ax3ouk91c4VdY1WXxytoP) | 5:57 | 2022-06-03 | 2022-07-28 |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-07-01 |  |
+| [Damn](https://open.spotify.com/track/0GYQ8MgmNLu8Z9uRmzPUKS) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Damn](https://open.spotify.com/album/5NQfmvp7sjG2vhWBcWRB5t) | 2:51 | 2023-08-18 |  |
 | [Dance Of The Shaman](https://open.spotify.com/track/2zGULLp2IsYlWeRaF0ZV13) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Dance Of The Shaman](https://open.spotify.com/album/16gssDflHOT9uFtZh7AJsv) | 7:02 | 2022-06-03 | 2022-07-27 |
 | [Dance With Me](https://open.spotify.com/track/4ElK9xhUZXhigP26T6CIqN) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Dance With Me](https://open.spotify.com/album/5sFZ2Ev2UyuhgeTzhtXlmK) | 7:07 | 2023-03-17 | 2023-04-14 |
 | [Dangerous \- Bailey Ibbs Remix](https://open.spotify.com/track/4LocLlqHWsmiS9GqaevYF0) | [Michael Dangerous](https://open.spotify.com/artist/4HSRGJTvC1MxEQTVeqTiti), [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Dangerous](https://open.spotify.com/album/5bIb9T2gF7fRJlKjGKj2w5) | 5:31 | 2022-06-17 | 2022-07-23 |
@@ -179,7 +180,7 @@
 | [That's Right](https://open.spotify.com/track/4DQQw8ILU9DUpkXhfVJYtQ) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [That's Right / The Maze](https://open.spotify.com/album/4Ea6xrbMghxpsECU18mqBS) | 5:58 | 2022-06-03 | 2022-07-28 |
 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 | 2022-06-24 |  |
 | [The Ciggie](https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [The Ciggie](https://open.spotify.com/album/5TijfininJwDUX6P1iSyf7) | 6:13 | 2022-06-03 |  |
-| [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 | 2023-04-28 |  |
+| [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 | 2023-04-28 | 2023-08-21 |
 | [The Joint](https://open.spotify.com/track/4ARzhxqybRXS2VUzBNmCrS) | [Cla$$ & JCult](https://open.spotify.com/artist/1lDbjaD50tkeLZnqAMtU1i), [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [The Joint](https://open.spotify.com/album/2M1mgjq4GL4imAn0PdQAme) | 3:04 | 2023-04-07 | 2023-06-12 |
 | [The Key](https://open.spotify.com/track/1JqC0dklBZxfMeiqtsuUqP) | [Umberto Pagliaroli](https://open.spotify.com/artist/4wShOgYAKFtg2grzqostEI), [Calypse](https://open.spotify.com/artist/5AlXpYWCJe4VSQmk7up88A), [Grasso & Maxim](https://open.spotify.com/artist/2CEohVbXylc1fCqUlGh2Rk) | [Movements, Pt.3](https://open.spotify.com/album/0zkmWtgsX7D4Jkslo3qHX2) | 6:40 | 2022-06-10 | 2022-07-29 |
 | [The Mascot](https://open.spotify.com/track/0buZKE91rR2IQlUVYv6KMo) | [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [The Mascot](https://open.spotify.com/album/4UXxHyBwW1lOedH3vV9x4O) | 3:15 | 2022-07-15 | 2022-08-30 |

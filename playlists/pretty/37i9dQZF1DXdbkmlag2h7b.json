@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 634720,
+  "num_followers": 634749,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmVhY2FkM2M1MGZjMjE3NDEzYTI0ZjFhMDA1NTFmZTk3MWJmZmM2",
+  "snapshot_id": "MCwwZDBjZmFkZWQwMjA4YWFlZTE0MmFhZTlkZmJkNmZhMmVmNWZlOTRh",
   "tracks": [
     {
       "added_at": "2023-08-18 14:32:56",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Teegarden C",
-        "url": "https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR"
-      },
-      "artists": [
-        {
-          "name": "By Lotus",
-          "url": "https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8"
-        }
-      ],
-      "duration_ms": 248896,
-      "name": "Standing Wave",
-      "url": "https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "From Another View",
         "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 178636,
       "name": "From Another View",
       "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Teegarden C",
+        "url": "https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR"
+      },
+      "artists": [
+        {
+          "name": "By Lotus",
+          "url": "https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8"
+        }
+      ],
+      "duration_ms": 248896,
+      "name": "Standing Wave",
+      "url": "https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Jeevan",
-        "url": "https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ"
-      },
-      "artists": [
-        {
-          "name": "Gamini Khatri",
-          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
-        }
-      ],
-      "duration_ms": 150066,
-      "name": "Jeevan",
-      "url": "https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Serum",
         "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 224000,
       "name": "Serum",
       "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Jeevan",
+        "url": "https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "duration_ms": 150066,
+      "name": "Jeevan",
+      "url": "https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Even Silence",
-        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
+        "name": "Intrinsic Silence",
+        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
       },
       "artists": [
         {
-          "name": "Sadia Leys",
-          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Even Silence",
-      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
+      "duration_ms": 164017,
+      "name": "Intrinsic Silence",
+      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Intrinsic Silence",
-        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
+        "name": "Even Silence",
+        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
       },
       "artists": [
         {
-          "name": "Hatha Priya",
-          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+          "name": "Sadia Leys",
+          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
         }
       ],
-      "duration_ms": 164017,
-      "name": "Intrinsic Silence",
-      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
+      "duration_ms": 140000,
+      "name": "Even Silence",
+      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Charcoal",
-        "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
       },
       "artists": [
         {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+          "name": "Andy Kamman",
+          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
         }
       ],
-      "duration_ms": 329773,
-      "name": "Such Owls As You",
-      "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
+      "duration_ms": 193500,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Sweven",
-        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+        "name": "Charcoal",
+        "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
       },
       "artists": [
         {
-          "name": "Andy Kamman",
-          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Sweven",
-      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+      "duration_ms": 329773,
+      "name": "Such Owls As You",
+      "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj"
-      },
-      "artists": [
-        {
-          "name": "Sanyo Green",
-          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
-        }
-      ],
-      "duration_ms": 215235,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 162857,
       "name": "Nebulae",
       "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj"
+      },
+      "artists": [
+        {
+          "name": "Sanyo Green",
+          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
+        }
+      ],
+      "duration_ms": 215235,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Meadow / Forests",
-        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Winskog",
-          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
-        }
-      ],
-      "duration_ms": 140878,
-      "name": "Forests",
-      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Theta Sleep",
         "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 166000,
       "name": "Clear-Headed",
       "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Meadow / Forests",
+        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Winskog",
+          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
+        }
+      ],
+      "duration_ms": 140878,
+      "name": "Forests",
+      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
-      },
-      "artists": [
-        {
-          "name": "Tom Ellenhag",
-          "url": "https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ"
-        }
-      ],
-      "duration_ms": 175661,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Liquid Air",
         "url": "https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 213878,
       "name": "Liquid Air",
       "url": "https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
+      },
+      "artists": [
+        {
+          "name": "Tom Ellenhag",
+          "url": "https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ"
+        }
+      ],
+      "duration_ms": 175661,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
-      },
-      "artists": [
-        {
-          "name": "FANAR",
-          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Song For Wermland",
         "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 226862,
       "name": "Song For Wermland",
       "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
+      },
+      "artists": [
+        {
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     },
     {
       "added_at": "2023-08-18 14:32:56",

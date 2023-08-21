@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17453,
+  "num_followers": 17455,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTFkZjY0NDYzNDY5MzE5YTVjZTY2ZDNhMGZhYTU4ODA4ZjM5MzEz",
+  "snapshot_id": "MCxlN2I4MTU4ZTYzZjYzY2U1ZDc5NjgzYjY2MGRiNDU4ODE4YjZlY2Fk",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "L.S.D",
         "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 217538,
       "name": "L.S.D",
       "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Melted",
         "url": "https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 132760,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/5vEE1d5gkv3pgfZyppLeX8"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Manipulator",
-        "url": "https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Tall Man Skinny Lady",
-      "url": "https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Glazin'",
         "url": "https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 203906,
       "name": "Glazin'",
       "url": "https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Manipulator",
+        "url": "https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Tall Man Skinny Lady",
+      "url": "https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG"
     },
     {
       "added_at": "2021-04-09 06:19:31",

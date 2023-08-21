@@ -1,12 +1,12 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Northern19",
-  "num_followers": 107179,
+  "num_followers": 107247,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGM2NjAxZmVkMTJkYjJjNDdmY2MxM2E4ZmUzNDZlODJmODI4MjQ0",
+  "snapshot_id": "MCwzMzhhNzRmNDQ3ODQyNzgwYTRiNzg3OTc1ZTNhOWJhYWM3ZmUxZDA3",
   "tracks": [
     {
       "added_at": "2023-08-17 15:40:11",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-17 15:40:11",
       "album": {
-        "name": "\u307d",
-        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
-      },
-      "artists": [
-        {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "\u3061\u3087",
-      "url": "https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA"
-    },
-    {
-      "added_at": "2023-08-17 15:40:11",
-      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
+    },
+    {
+      "added_at": "2023-08-17 15:40:11",
+      "album": {
+        "name": "\u307d",
+        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
+      },
+      "artists": [
+        {
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "\u3061\u3087",
+      "url": "https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA"
     },
     {
       "added_at": "2023-08-17 15:40:11",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-08-17 15:40:11",
       "album": {
-        "name": "Goo Goo Goo",
-        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
-      },
-      "artists": [
-        {
-          "name": "PAN",
-          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
-      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
-    },
-    {
-      "added_at": "2023-08-17 15:40:11",
-      "album": {
         "name": "175R BEST \u300cANNIVERSARY 1998-2018\u300d",
         "url": "https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-08-17 15:40:11",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+        "name": "Goo Goo Goo",
+        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
       },
       "artists": [
         {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+          "name": "PAN",
+          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
         }
       ],
-      "duration_ms": 131680,
-      "name": "Drain Water",
-      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+      "duration_ms": 192453,
+      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
+      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
     },
     {
       "added_at": "2023-08-17 15:40:11",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2023-08-17 15:40:11",
       "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Drain Water",
+      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+    },
+    {
+      "added_at": "2023-08-17 15:40:11",
+      "album": {
         "name": "Fresh Cheese Delivery",
         "url": "https://open.spotify.com/album/04dxT90eA6LOzUjMOxej12"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-17 15:40:11",
       "album": {
-        "name": "BLOOMING",
-        "url": "https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN"
-      },
-      "artists": [
-        {
-          "name": "The Winking Owl",
-          "url": "https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Open Up My Heart",
-      "url": "https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV"
-    },
-    {
-      "added_at": "2023-08-17 15:40:11",
-      "album": {
         "name": "GEAR BLUES",
         "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 207773,
       "name": "SMOKIN' BILLY",
       "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
+    },
+    {
+      "added_at": "2023-08-17 15:40:11",
+      "album": {
+        "name": "BLOOMING",
+        "url": "https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN"
+      },
+      "artists": [
+        {
+          "name": "The Winking Owl",
+          "url": "https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Open Up My Heart",
+      "url": "https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV"
     },
     {
       "added_at": "2023-08-17 15:40:11",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-08-17 15:40:11",
       "album": {
-        "name": "Super Champon",
-        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
-      },
-      "artists": [
-        {
-          "name": "Otoboke Beaver",
-          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
-        }
-      ],
-      "duration_ms": 105466,
-      "name": "PARDON?",
-      "url": "https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO"
-    },
-    {
-      "added_at": "2023-08-17 15:40:11",
-      "album": {
         "name": "Wicked and Naked",
         "url": "https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 219400,
       "name": "PARTY PARTY",
       "url": "https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS"
+    },
+    {
+      "added_at": "2023-08-17 15:40:11",
+      "album": {
+        "name": "Super Champon",
+        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "duration_ms": 105466,
+      "name": "PARDON?",
+      "url": "https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO"
     },
     {
       "added_at": "2023-08-17 15:40:11",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-08-17 15:40:11",
       "album": {
-        "name": "GIANTSTAMP",
-        "url": "https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj"
-      },
-      "artists": [
-        {
-          "name": "Suspended 4th",
-          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
-    },
-    {
-      "added_at": "2023-08-17 15:40:11",
-      "album": {
         "name": "REPLAY \u301cLimited Collection\u301c",
         "url": "https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 190166,
       "name": "\u5927\u5207\u306a\u3082\u306e",
       "url": "https://open.spotify.com/track/4QMLig3qhuUz4KYqsGE4Ov"
+    },
+    {
+      "added_at": "2023-08-17 15:40:11",
+      "album": {
+        "name": "GIANTSTAMP",
+        "url": "https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj"
+      },
+      "artists": [
+        {
+          "name": "Suspended 4th",
+          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
     },
     {
       "added_at": "2023-08-17 15:40:11",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-08-17 15:40:11",
       "album": {
-        "name": "\u307d",
-        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
-      },
-      "artists": [
-        {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "\u611b\u3059\u308bPOW",
-      "url": "https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo"
-    },
-    {
-      "added_at": "2023-08-17 15:40:11",
-      "album": {
         "name": "GRIP",
         "url": "https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 133133,
       "name": "WALK",
       "url": "https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv"
+    },
+    {
+      "added_at": "2023-08-17 15:40:11",
+      "album": {
+        "name": "\u307d",
+        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
+      },
+      "artists": [
+        {
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "\u611b\u3059\u308bPOW",
+      "url": "https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo"
     },
     {
       "added_at": "2023-08-17 15:40:11",

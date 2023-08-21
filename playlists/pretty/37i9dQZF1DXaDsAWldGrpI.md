@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,918 likes - 116 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,948 likes - 116 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
+| 1 | [Fast Car \- Live](https://open.spotify.com/track/7AQjb9B8CJ9Hb07ma21zoy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fast Car \(Live\)](https://open.spotify.com/album/77UPYl23MLMV81NslkxgUe) | 4:27 |
 | 2 | ['Til You Can't \- Live](https://open.spotify.com/track/6aZVQQUl17WqobPx0UZKxo) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cody Johnson & The Rockin’ CJB Live](https://open.spotify.com/album/4VFBMu9CJECPk7fAG2oHkr) | 4:25 |
 | 3 | [Suds in the Bucket \- Live at West Virginia University Creative Arts Center, Morgantown, West Virginia \- Aug\. 28, 2004](https://open.spotify.com/track/2TafupUYnuVWEMdJuM9M4q) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless \(Deluxe Edition\)](https://open.spotify.com/album/6ecuNAudkzhKkokkXS7xXa) | 3:53 |
 | 4 | [Penthouse \(Healed Version\) \- Live](https://open.spotify.com/track/0CWzAubKh2XcmGVdGZfJTV) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 4:20 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 115 | [Once In A Lifetime \- Live At The Arena At Gwinnett, GA/2008](https://open.spotify.com/track/384QzCWUyXbF4U2afrLYcT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 7:10 |
 | 116 | [Real Good Man \- Live From Spotify NYC](https://open.spotify.com/track/0MNezJUzb1fx2gqQ8cPeLT) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Spotify Sessions](https://open.spotify.com/album/3citk3NfGLpdph8cGMiKQz) | 3:51 |
 
-Snapshot ID: `MCxlYThkM2IyMmIxYTlhMDY1NGQ5MGYwY2YwMWE4MWJjYzAxMTBkNWQx`
+Snapshot ID: `MCw0MDk4MWVkYTkzYTM3MzgzYWY3MGQ3ODFiZDc5ZmZjOTNiYTlhNTQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Cautious Clay
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,590 likes - 99 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,763 likes - 99 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [Catalyst](https://open.spotify.com/track/751KTKDG30KIxUo2CHHas9) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Bryan Carter](https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ), [Andrew Gould](https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0), [John Lake](https://open.spotify.com/artist/4dyFqMBXDGSMXAev9B0NGX) | [Catalyst](https://open.spotify.com/album/4HWL8RyCRoeoh6JK1TduJu) | 7:38 |
 | 99 | [No End](https://open.spotify.com/track/2MJMUvGIN5aidX8rHTsJcH) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [No End](https://open.spotify.com/album/5R1eo5djaopbyuWH3vpJHd) | 2:38 |
 
-Snapshot ID: `MCxlYzJjNTUzODE2YTExNzBlODVhNjk0NTUzOGIwNjliZTI1MzFhYmEx`
+Snapshot ID: `MCwzYjg4MmVkZDAwZDUwZTlkYWY5OWE4MGFlODM2YTdjOTZhZTI5ZGZm`

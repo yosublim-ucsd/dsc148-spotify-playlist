@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 30858,
+  "num_followers": 30864,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzNmZTdjNDc0NWU4MDE1NzEyMjFlYzQyNTdkNTZhYmM3NDhjODdj",
+  "snapshot_id": "MCxmNmEzYTZhNmFhNzUzNDYwZTMzZDc3Y2Y4NWQxMjNhMmRmYjM0ZDgy",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:45",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "El Bosque Brillante",
-        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
-      },
-      "artists": [
-        {
-          "name": "Lucio Balduini",
-          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "En Busca de la Tierra Sin Mal",
-      "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 301893,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "El Bosque Brillante",
+        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
+      },
+      "artists": [
+        {
+          "name": "Lucio Balduini",
+          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "En Busca de la Tierra Sin Mal",
+      "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "L\u00fadico",
+        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
+      },
+      "artists": [
+        {
+          "name": "Francisco De Rosa",
+          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
+        },
+        {
+          "name": "Francisco De Rosa Quinteto",
+          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
+        }
+      ],
+      "duration_ms": 306999,
+      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
+      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "Pettinato Plays Garc\u00eda",
         "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 339612,
       "name": "Veinte Trajes Verdes",
       "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "L\u00fadico",
-        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
-      },
-      "artists": [
-        {
-          "name": "Francisco De Rosa",
-          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
-        },
-        {
-          "name": "Francisco De Rosa Quinteto",
-          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
-        }
-      ],
-      "duration_ms": 306999,
-      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
-      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -919,18 +919,26 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
       "artists": [
         {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
         }
       ],
-      "duration_ms": 361280,
-      "name": "Viva Jujuy",
-      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
+      "duration_ms": 493933,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -955,26 +963,18 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
       },
       "artists": [
         {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
         }
       ],
-      "duration_ms": 493933,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
+      "duration_ms": 361280,
+      "name": "Viva Jujuy",
+      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "El Sapo Argentino de Boca Ancha",
+        "url": "https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX"
+      },
+      "artists": [
+        {
+          "name": "Esteban Sehinkman",
+          "url": "https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6"
+        }
+      ],
+      "duration_ms": 419426,
+      "name": "Tatami",
+      "url": "https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "I Remember Clifford",
         "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 192000,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "El Sapo Argentino de Boca Ancha",
-        "url": "https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX"
-      },
-      "artists": [
-        {
-          "name": "Esteban Sehinkman",
-          "url": "https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6"
-        }
-      ],
-      "duration_ms": 419426,
-      "name": "Tatami",
-      "url": "https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Inocencia Repetida",
-        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
+        "name": "El Ombligo de un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
       },
       "artists": [
         {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+          "name": "Ernesto Amstein",
+          "url": "https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w"
+        },
+        {
+          "name": "Gabriel Domenicucci",
+          "url": "https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0"
         }
       ],
-      "duration_ms": 157533,
-      "name": "Coplas de Luna Quieta",
-      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
+      "duration_ms": 324506,
+      "name": "Pretos",
+      "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1291,22 +1295,18 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "El Ombligo de un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
+        "name": "A Bajo y Pa'fuera",
+        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
       },
       "artists": [
         {
-          "name": "Ernesto Amstein",
-          "url": "https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w"
-        },
-        {
-          "name": "Gabriel Domenicucci",
-          "url": "https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0"
+          "name": "Sebasti\u00e1n Tozzola",
+          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
         }
       ],
-      "duration_ms": 324506,
-      "name": "Pretos",
-      "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"
+      "duration_ms": 146757,
+      "name": "A Bajo y Pa'fuera",
+      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "A Bajo y Pa'fuera",
-        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
+        "name": "Inocencia Repetida",
+        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Tozzola",
-          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
+          "name": "Ignacio Montoya Carlotto",
+          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
         }
       ],
-      "duration_ms": 146757,
-      "name": "A Bajo y Pa'fuera",
-      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
+      "duration_ms": 157533,
+      "name": "Coplas de Luna Quieta",
+      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
     },
     {
       "added_at": "2023-08-11 14:55:45",

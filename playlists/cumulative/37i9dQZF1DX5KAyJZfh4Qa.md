@@ -4,7 +4,7 @@
 
 > it's just one of those days with Home Is Where.
 
-128 songs - 7 hr 4 min
+129 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Roxies and Cigarettes](https://open.spotify.com/track/2G1P7fzblRleUALoFmtJyD) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [About Your Imaginary Friend](https://open.spotify.com/album/5D2FeA8bJy0VM7zT2vNGxo) | 3:55 | 2022-11-25 | 2023-04-15 |
 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 | 2022-11-25 |  |
 | [Savior Mode](https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Too Quick to Forgive](https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY) | 4:21 | 2023-04-14 |  |
-| [Scenery](https://open.spotify.com/track/20ubvnxFGvq9YX8YCFE4VM) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Scenery](https://open.spotify.com/album/7enb4iw7WjPOH3eUeSLedb) | 2:39 | 2023-03-17 |  |
+| [Scenery](https://open.spotify.com/track/20ubvnxFGvq9YX8YCFE4VM) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Scenery](https://open.spotify.com/album/7enb4iw7WjPOH3eUeSLedb) | 2:39 | 2023-03-17 | 2023-08-21 |
+| [Scenery](https://open.spotify.com/track/4ZJDUqVn8n592qx7IQft5o) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [The Best Part About Being Human](https://open.spotify.com/album/5W3BwgmLw8jbsgOm4Rv9po) | 2:39 | 2023-05-19 |  |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 | 2023-03-10 | 2023-05-18 |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 | 2023-04-14 |  |
 | [Sick As Your Secrets](https://open.spotify.com/track/1v7zwwBb8iKquvkApcnCHn) | [Mikey Erg](https://open.spotify.com/artist/5YuPLav1vGZmaeeASQrsQK) | [Love At Leeds](https://open.spotify.com/album/3xEWVX0nsMdrElVih8p62M) | 2:39 | 2022-11-25 | 2023-03-18 |

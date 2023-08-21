@@ -719,6 +719,32 @@
     },
     {
       "album": {
+        "name": "Alf Rooh (Manoukian/Angelo Remix)",
+        "url": "https://open.spotify.com/album/31pWCpj4AthQfLCkPvHezl"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        },
+        {
+          "name": "Guy Manoukian",
+          "url": "https://open.spotify.com/artist/7cSr0LrHabJyfJRCEfoB00"
+        },
+        {
+          "name": "Mark F. Angelo",
+          "url": "https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "Alf Rooh (Manoukian/Angelo Remix)",
+      "url": "https://open.spotify.com/track/5s85Ha9iUpfjh4wB0yi7Ae"
+    },
+    {
+      "album": {
         "name": "Alf Rooh (\u0623\u0644\u0641 \u0631\u0648\u062d)",
         "url": "https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE"
       },
@@ -2360,6 +2386,24 @@
       "duration_ms": 203052,
       "name": "El Nas El Ghalyeen",
       "url": "https://open.spotify.com/track/7rIJTP8YSOetYFz8vSGaUT"
+    },
+    {
+      "album": {
+        "name": "El Okd",
+        "url": "https://open.spotify.com/album/6nt3aY91do3MhLXe4xeclj"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218322,
+      "name": "El Okd",
+      "url": "https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0"
     },
     {
       "album": {
@@ -7761,6 +7805,24 @@
     },
     {
       "album": {
+        "name": "Wesh Fe Wesh",
+        "url": "https://open.spotify.com/album/3SO89tvWh3ntHESFjvTL80"
+      },
+      "artists": [
+        {
+          "name": "Diab",
+          "url": "https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115285,
+      "name": "Wesh Fe Wesh",
+      "url": "https://open.spotify.com/track/5fAUv5a2irIalEikHDrhTi"
+    },
+    {
+      "album": {
         "name": "Wleeh",
         "url": "https://open.spotify.com/album/6Zuvzyj59U0Q1xKMSFo0xG"
       },
@@ -7946,7 +8008,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 190714,
       "name": "Ya Layaly",
       "url": "https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw"

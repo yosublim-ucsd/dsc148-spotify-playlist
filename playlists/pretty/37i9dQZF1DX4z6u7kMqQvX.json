@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 102470,
+  "num_followers": 102482,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDMwNDIyNWFjZDk3ZDEwZDZiMTZmYThkMmJmMGRlNDgwZjFjYmRi",
+  "snapshot_id": "MCxiNDk5NmFhYjgzZWRjMTFiMGJhZDg5NmYyMDkyOGExYWQzZGJlNjQx",
   "tracks": [
     {
       "added_at": "2023-08-17 20:38:35",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-08-17 20:38:35",
       "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
-      },
-      "artists": [
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        },
-        {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
-        }
-      ],
-      "duration_ms": 178392,
-      "name": "El Encuentro",
-      "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
-    },
-    {
-      "added_at": "2023-08-17 20:38:35",
-      "album": {
         "name": "El Paradise",
         "url": "https://open.spotify.com/album/1Mu2ASzYyaoygPrhFH6xME"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 255240,
       "name": "Esp\u00e9rame (feat. Elastic Bond)",
       "url": "https://open.spotify.com/track/0iMhQB3iXc3I4Ef1261lrr"
+    },
+    {
+      "added_at": "2023-08-17 20:38:35",
+      "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        },
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        }
+      ],
+      "duration_ms": 178392,
+      "name": "El Encuentro",
+      "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
     },
     {
       "added_at": "2023-08-17 20:38:35",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-17 20:38:35",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2023-08-17 20:38:35",
-      "album": {
         "name": "Primavera 2020 (feat. Zoe Gotusso)",
         "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 289842,
       "name": "Primavera 2020 (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
+    },
+    {
+      "added_at": "2023-08-17 20:38:35",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2023-08-17 20:38:35",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-08-17 20:38:35",
       "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
-    },
-    {
-      "added_at": "2023-08-17 20:38:35",
-      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2023-08-17 20:38:35",
+      "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2023-08-17 20:38:35",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-08-17 20:38:35",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2023-08-17 20:38:35",
-      "album": {
         "name": "TKM",
         "url": "https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 195483,
       "name": "Conexi\u00f3n de Almas",
       "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
+    },
+    {
+      "added_at": "2023-08-17 20:38:35",
+      "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2023-08-17 20:38:35",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-17 20:38:35",
       "album": {
-        "name": "Antibi\u00f3ticx",
-        "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 255750,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88"
-    },
-    {
-      "added_at": "2023-08-17 20:38:35",
-      "album": {
         "name": "romantiklov <3",
         "url": "https://open.spotify.com/album/2rkMB180JWhLwRXBHHmOlj"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 186941,
       "name": "romantiklov <3",
       "url": "https://open.spotify.com/track/6eNU9r9JCEjmodmoQo8lwf"
+    },
+    {
+      "added_at": "2023-08-17 20:38:35",
+      "album": {
+        "name": "Antibi\u00f3ticx",
+        "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 255750,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88"
     },
     {
       "added_at": "2023-08-17 20:38:35",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-08-17 20:38:35",
       "album": {
-        "name": "Amarte as\u00ed",
-        "url": "https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 215596,
-      "name": "Amarte as\u00ed",
-      "url": "https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q"
-    },
-    {
-      "added_at": "2023-08-17 20:38:35",
-      "album": {
         "name": "T\u00fa Me Llevas",
         "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 263650,
       "name": "T\u00fa Me Llevas",
       "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
+    },
+    {
+      "added_at": "2023-08-17 20:38:35",
+      "album": {
+        "name": "Amarte as\u00ed",
+        "url": "https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 215596,
+      "name": "Amarte as\u00ed",
+      "url": "https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q"
     },
     {
       "added_at": "2023-08-17 20:38:35",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-08-17 20:38:35",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
       },
       "artists": [
         {
-          "name": "Planeta Tres",
-          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
         }
       ],
-      "duration_ms": 204166,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
     },
     {
       "added_at": "2023-08-17 20:38:35",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-08-17 20:38:35",
       "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
       },
       "artists": [
         {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+          "name": "Planeta Tres",
+          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
         }
       ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+      "duration_ms": 204166,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
     },
     {
       "added_at": "2023-08-17 20:38:35",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-08-17 20:38:35",
       "album": {
-        "name": "Sue\u00f1o con Encontrarte",
-        "url": "https://open.spotify.com/album/6EeLJzNkjT9o3i26SNL1Ag"
-      },
-      "artists": [
-        {
-          "name": "G\u00fcili",
-          "url": "https://open.spotify.com/artist/1P4R6sU4WSNcitkFlLawvK"
-        },
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 199532,
-      "name": "Sue\u00f1o con Encontrarte",
-      "url": "https://open.spotify.com/track/6xtw2JpsQkoYyeqsIXmKPR"
-    },
-    {
-      "added_at": "2023-08-17 20:38:35",
-      "album": {
         "name": "M\u00fasico",
         "url": "https://open.spotify.com/album/2V67eSPc4jTfG1aT5DAYk7"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 216771,
       "name": "Inteligencia Emocional",
       "url": "https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa"
+    },
+    {
+      "added_at": "2023-08-17 20:38:35",
+      "album": {
+        "name": "Sue\u00f1o con Encontrarte",
+        "url": "https://open.spotify.com/album/6EeLJzNkjT9o3i26SNL1Ag"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcili",
+          "url": "https://open.spotify.com/artist/1P4R6sU4WSNcitkFlLawvK"
+        },
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 199532,
+      "name": "Sue\u00f1o con Encontrarte",
+      "url": "https://open.spotify.com/track/6xtw2JpsQkoYyeqsIXmKPR"
     },
     {
       "added_at": "2023-08-17 20:38:35",

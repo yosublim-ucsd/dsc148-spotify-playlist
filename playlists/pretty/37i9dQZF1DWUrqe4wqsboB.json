@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 2642,
+  "num_followers": 2666,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTA4MTQ2YThhYmYwN2MyZWNlNDY0MTczZWU3M2UyZTM5YzU4Zjhk",
+  "snapshot_id": "MCxiYjg0YWYwZjY5MDVhZDQwZWRjNDk0NWY1ZTk0NDM2NjRiODA2NjRl",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Tu Mundo",
-        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 234041,
-      "name": "Tu Mundo",
-      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Vibra",
         "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 174947,
       "name": "Vibra",
       "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Tu Mundo",
+        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 234041,
+      "name": "Tu Mundo",
+      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 258523,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -543,8 +543,8 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Pir\u00e1mide",
-        "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
+        "name": "Circuito por Mil\u00e1n",
+        "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Pir\u00e1mide",
-      "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
+      "duration_ms": 194707,
+      "name": "Circuito por Mil\u00e1n",
+      "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -659,8 +659,8 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Circuito por Mil\u00e1n",
-        "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
+        "name": "Pir\u00e1mide",
+        "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
         }
       ],
-      "duration_ms": 194707,
-      "name": "Circuito por Mil\u00e1n",
-      "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
+      "duration_ms": 204000,
+      "name": "Pir\u00e1mide",
+      "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Mares\u00eda",
+        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
+      },
+      "artists": [
+        {
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
+        }
+      ],
+      "duration_ms": 211169,
+      "name": "Mares\u00eda",
+      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/69HOtVSMleCuO9fH67qh5U"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 167157,
       "name": "Veintis\u00e9is",
       "url": "https://open.spotify.com/track/6AM79PtldyQT9mb1ERTBUz"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Mares\u00eda",
-        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        }
-      ],
-      "duration_ms": 211169,
-      "name": "Mares\u00eda",
-      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
     },
     {
       "added_at": "2023-08-11 04:00:00",

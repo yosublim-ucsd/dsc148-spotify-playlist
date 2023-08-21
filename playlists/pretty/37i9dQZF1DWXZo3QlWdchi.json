@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 284696,
+  "num_followers": 284828,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNThhYWRkMzM5NTgxMWUwOGRiNjVlZmYyNWRkZjU3ZTJjYjBkZDE1",
+  "snapshot_id": "MCxiN2Y5MGNhMDhhNTU3NjQ2ZGMzNzE4YTYxZmU5MTNjNTE5ZWRmMzZl",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Dookie (30th Anniversary 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 187970,
+      "name": "Basket Case - 4-track demo",
+      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 183052,
-      "name": "Stand by Me - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Dookie (30th Anniversary 4-Track Demos)",
-        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
         }
       ],
-      "duration_ms": 187970,
-      "name": "Basket Case - 4-track demo",
-      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
+      "duration_ms": 183052,
+      "name": "Stand by Me - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Digital (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
+      },
+      "artists": [
+        {
+          "name": "Pirredy",
+          "url": "https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf"
+        }
+      ],
+      "duration_ms": 196023,
+      "name": "Digital - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Conflitos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ha8mzXCyPKldZDuwHuTnJ"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 203045,
       "name": "Conflitos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7fvhpffV4tyXlPZi1ywyqt"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Digital (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
-      },
-      "artists": [
-        {
-          "name": "Pirredy",
-          "url": "https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf"
-        }
-      ],
-      "duration_ms": 196023,
-      "name": "Digital - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Outros",
-        "url": "https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0"
-      },
-      "artists": [
-        {
-          "name": "Nenhum De N\u00f3s",
-          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Can\u00e7\u00e3o Da Meia Noite",
-      "url": "https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "J\u00e1 Vou Me Acostumar",
         "url": "https://open.spotify.com/album/6kkPACmXiwyKhK4axxpH2s"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 242636,
       "name": "J\u00e1 Vou Me Acostumar",
       "url": "https://open.spotify.com/track/46AU10i9KATIFs9dVAv5oI"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Outros",
+        "url": "https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0"
+      },
+      "artists": [
+        {
+          "name": "Nenhum De N\u00f3s",
+          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Can\u00e7\u00e3o Da Meia Noite",
+      "url": "https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ"
     },
     {
       "added_at": "2023-08-18 03:01:00",

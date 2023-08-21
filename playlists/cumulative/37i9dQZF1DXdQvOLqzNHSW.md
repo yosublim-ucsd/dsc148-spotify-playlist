@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-590 songs - 1 day 12 hr 23 min
+591 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [A Song About Being Sad](https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 2:16 | 2022-10-13 | 2022-12-06 |
 | [A Song About Being Sad](https://open.spotify.com/track/6Jl3ZOX6MUOlyoUc721bsX) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 2:16 | 2022-07-22 | 2022-10-13 |
 | [A Song About Being Sad](https://open.spotify.com/track/6zI4PkexiDszvG3lt35OIA) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [bcos u will never b free](https://open.spotify.com/album/1RoAhM89QrFvZ8JCUoRveL) | 2:16 | 2020-12-21 | 2022-04-18 |
-| [About You](https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [About You](https://open.spotify.com/album/71gKjKg1GfdCM7rtEWc48o) | 2:56 | 2023-05-25 |  |
+| [About You](https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [About You](https://open.spotify.com/album/71gKjKg1GfdCM7rtEWc48o) | 2:56 | 2023-05-25 | 2023-08-21 |
 | [ADDICT](https://open.spotify.com/track/4NFxFhEqXaJKKXL5cmeO5k) | [Eryn Martin](https://open.spotify.com/artist/58nhaWrZa0dN2OxZ1Pr2Ph) | [ADDICT](https://open.spotify.com/album/79tWX8DDCWtHRynV2EiAqK) | 2:04 | 2023-06-08 | 2023-08-19 |
 | [Aeroplane Bathroom](https://open.spotify.com/track/5ul1z9YxrM9MEsB8MPKJpZ) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Aeroplane Bathroom](https://open.spotify.com/album/55LTuxXSV15FHGHZxSwBd6) | 5:44 | 2020-12-21 | 2022-04-19 |
 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 | 2023-05-25 | 2023-08-19 |
@@ -265,6 +265,7 @@
 | [i feel like chet](https://open.spotify.com/track/00qHRkAlOCsjbs8N4hBUH5) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [i feel like chet](https://open.spotify.com/album/29zIPO1LeQbnyVJ4vvE6Qh) | 3:03 | 2020-12-21 | 2022-04-18 |
 | [I Know \(feat\. Fiona Apple\) \- RISE Recording](https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [I Know \(feat\. Fiona Apple\) \[RISE Recording\]](https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z) | 4:59 | 2020-12-21 | 2022-04-20 |
 | [i know why you stay out](https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [i know why you stay out](https://open.spotify.com/album/2X7m57LD0vjPSIrJx22HfZ) | 2:57 | 2021-06-25 | 2023-08-19 |
+| [I Love You, Cookie](https://open.spotify.com/track/2yYcsHthLf7mgQWXrJ9Xas) | [Whoarei](https://open.spotify.com/artist/4GgjFtEaMvNZ4TOE3iD0Pu) | [Love Spectrum](https://open.spotify.com/album/41Gl21wIOxKNNflUYg7zuE) | 3:33 | 2023-08-18 |  |
 | [I must apologise](https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [I must apologise](https://open.spotify.com/album/0m1wwIx9Eoa7fWb9KYh7pt) | 1:48 | 2021-10-08 | 2022-07-09 |
 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 | 2022-07-22 |  |
 | [I Need A Forest Fire](https://open.spotify.com/track/6zSQt8h1Mcgh78mnkDiVH9) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [I Need A Forest Fire](https://open.spotify.com/album/07hmu28zzgXybHfpQeb0iY) | 4:17 | 2020-12-21 | 2022-04-21 |

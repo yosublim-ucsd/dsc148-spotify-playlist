@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Silas Magalhães
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,637 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,809 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 40 | [Labirinto](https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Labirinto](https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW) | 3:37 |
 | 41 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
 | 42 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 |
-| 43 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 |
-| 44 | [Filho Pródigo](https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [Filho Pródigo](https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP) | 1:54 |
+| 43 | [Filho Pródigo](https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [Filho Pródigo](https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP) | 1:54 |
+| 44 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 |
 | 45 | [Teste](https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Teste](https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi) | 3:12 |
 | 46 | [Romanos 3: 24](https://open.spotify.com/track/1BktyXmllWajvP7fP2b1Xd) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4) | [Romanos 3: 24](https://open.spotify.com/album/4zglNpaYV8KryBUTDv9YTq) | 2:06 |
 | 47 | [Esperança para o Perdido](https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Esperança para o Perdido](https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q) | 3:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 79 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 |
 | 80 | [Uma Missão](https://open.spotify.com/track/2bxYiuNc2hYWkuzK5HrVcZ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Uma Missão](https://open.spotify.com/album/3v56SzOs0MHmJ8Vl273i41) | 2:48 |
 
-Snapshot ID: `MCwyYzY1ZTQ0YjllYzQwNzgxYjAyOWYzNmUxMGRmODllMTk2Yjk1OGUy`
+Snapshot ID: `MCxkMzg3ZDc4M2ZmNDhlZjZkMGZlZTMxOWIwOTE3NjZmZTU0YmU4YTZj`

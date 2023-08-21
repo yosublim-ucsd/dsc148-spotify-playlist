@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days with Home Is Where.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,640 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,754 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 33 | [closure](https://open.spotify.com/track/0PnpSFbRM8BoUFHXCKTQNX) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [closure](https://open.spotify.com/album/4wizf68w9Q5Uz7UFTUKqp3) | 2:34 |
 | 34 | [Fading](https://open.spotify.com/track/4A47nHEgN6z3BXpOdwX0Bd) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Dog Bless](https://open.spotify.com/album/6Vt0JBlyS72DFXoU0RFAud) | 2:35 |
 | 35 | [live from the ufo](https://open.spotify.com/track/4LYWWt5bpBdTj0e29Wsctx) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [re: turn](https://open.spotify.com/album/1iA09V577wlsPIUfhj8RN0) | 2:30 |
-| 36 | [Scenery](https://open.spotify.com/track/20ubvnxFGvq9YX8YCFE4VM) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Scenery](https://open.spotify.com/album/7enb4iw7WjPOH3eUeSLedb) | 2:39 |
+| 36 | [Scenery](https://open.spotify.com/track/4ZJDUqVn8n592qx7IQft5o) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [The Best Part About Being Human](https://open.spotify.com/album/5W3BwgmLw8jbsgOm4Rv9po) | 2:39 |
 | 37 | [Mulholland Dr.](https://open.spotify.com/track/337bOFFRgT6HyF2V4fLCYf) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:01 |
 | 38 | [Pyramid](https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY) | [Guitar Fight from Fooly Cooly](https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL) | [Drought](https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ) | 2:25 |
 | 39 | [Kiss the Ladder](https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 1:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 79 | [If This is Sadness, I Don't Like It One Bit](https://open.spotify.com/track/3ttOAHJLXSoWRpN5oYLlRd) | [Mt\. Oriander](https://open.spotify.com/artist/2Kq6yQuA3lw7tMfUvPQYXo), [Joie De Vivre](https://open.spotify.com/artist/1sUOIv1YrZ2WRmTg0GRi0V), [Warren Franklin](https://open.spotify.com/artist/5ub2IP1YottOMHKb6ECb8b) | [Then the Lightness Leaves and I Become Heavy Again](https://open.spotify.com/album/7s5pO2fLBtRuSqY1SSm6lK) | 3:24 |
 | 80 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
 
-Snapshot ID: `MCwwMzAwNjYwNWJmYWQyMzM2MTVmYWVlZjljMzNhY2QxNDIyNDRmNWU2`
+Snapshot ID: `MCw1MjVhODYzNmYyYjJjN2E1ZDUzODA4ZjBkYjgzYzVkYjUwNTE5MGU5`

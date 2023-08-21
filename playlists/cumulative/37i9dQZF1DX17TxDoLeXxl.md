@@ -4,7 +4,7 @@
 
 > for hiking through nature's playground 🏔️
 
-163 songs - 9 hr 57 min
+164 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Take It Away \- Pt\. B](https://open.spotify.com/track/7DsQSKvFdDz2FkEy8n22hy) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Take It Away](https://open.spotify.com/album/3387BxSFngr5GZLszB9kdb) | 2:10 | 2023-05-15 |  |
 | [Take Me Back](https://open.spotify.com/track/47qcNFVq9AEe9TAvtqgPHy) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Take Me Back](https://open.spotify.com/album/3ouOFBXDGBldUn49ziDnv6) | 2:52 | 2023-05-12 |  |
 | [Taking Things For Granted](https://open.spotify.com/track/3I6n5FDKw6TCjPw7JjLHSG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:36 | 2023-05-12 |  |
+| [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 | 2023-08-20 |  |
 | [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 | 2023-05-12 |  |
 | [The Mtn\. Song](https://open.spotify.com/track/1kjmgTx2PCBJTPTue0bDb4) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Feathers & Fishhooks](https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud) | 4:28 | 2023-05-12 |  |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-14 |  |

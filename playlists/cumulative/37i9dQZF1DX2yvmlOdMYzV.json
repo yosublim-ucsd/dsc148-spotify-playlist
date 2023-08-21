@@ -2981,6 +2981,28 @@
     },
     {
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/3NCYgSaRffcH4a5Vw5bNTg"
+      },
+      "artists": [
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174855,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4lYpoz9pRsUKHazWsKq1QV"
+    },
+    {
+      "album": {
         "name": "green house",
         "url": "https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z"
       },
@@ -8282,7 +8304,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 271580,
       "name": "Too Late (feat. James Fauntleroy & Elena Pinderhughes)",
       "url": "https://open.spotify.com/track/3eNf4OuKOBp1pCkuvVRaxT"
@@ -8322,7 +8344,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 209446,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj"
@@ -8456,6 +8478,32 @@
       "duration_ms": 206367,
       "name": "U Got Me",
       "url": "https://open.spotify.com/track/4bvNJ5So34WwPSGXaERnGh"
+    },
+    {
+      "album": {
+        "name": "U Should Be Mine",
+        "url": "https://open.spotify.com/album/1SAL8acM2LnCU1GmQpks37"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205661,
+      "name": "U Should Be Mine",
+      "url": "https://open.spotify.com/track/6babFcorQ58c4wRURJARaE"
     },
     {
       "album": {

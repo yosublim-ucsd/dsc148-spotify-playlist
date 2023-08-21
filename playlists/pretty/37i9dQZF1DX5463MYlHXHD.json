@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: La T y La M",
-  "num_followers": 554655,
+  "num_followers": 554791,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDU2YjdhN2U5YzY5OTNjYzZkNzQ2YzcxYThmMmU3NDMzODkyZDk3",
+  "snapshot_id": "MCwyMTVkMGM0MGY1NDZlYWM1YTYxNGMyM2QzNGIyOTM1MmMxNzU2NmRi",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -367,7 +367,7 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Un Exito (feat. The La Planta)",
+        "name": "Un Exito",
         "url": "https://open.spotify.com/album/2WM7WeqbFCooMCRw4fd8TA"
       },
       "artists": [
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "TRUCHO",
         "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 144000,
       "name": "TRUCHO",
       "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Par-Tusa",
         "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 190850,
       "name": "Par-Tusa",
       "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 313190,
-      "name": "Sentimiento Villero",
-      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "ROMPE",
         "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 233247,
       "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
       "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 313190,
+      "name": "Sentimiento Villero",
+      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Una copa mas",
-      "url": "https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Vicera, las Zapas",
         "url": "https://open.spotify.com/album/7jYECg5W7BIF5sMksrqxoi"
       },
@@ -1507,22 +1491,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
-        "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 171434,
-      "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
-      "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
+      "duration_ms": 224093,
+      "name": "Una copa mas",
+      "url": "https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1539,6 +1519,26 @@
       "duration_ms": 157080,
       "name": "Mata",
       "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
+        "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 171434,
+      "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
+      "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Dale Zorrita",
-      "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Con S\u00edndrome de Abstinencia",
         "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
       },
@@ -2007,6 +1991,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Dale Zorrita",
+      "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "CD3",
         "url": "https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86"
       },
@@ -2019,6 +2019,22 @@
       "duration_ms": 149159,
       "name": "El Arca De Noe",
       "url": "https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "No Hay Mal Que Dure 100 A\u00f1os",
+        "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
+      },
+      "artists": [
+        {
+          "name": "El Aspirante",
+          "url": "https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "En la Cama T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -2043,18 +2059,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "No Hay Mal Que Dure 100 A\u00f1os",
-        "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
+        "name": "Alta Gira",
+        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
       },
       "artists": [
         {
-          "name": "El Aspirante",
-          "url": "https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK"
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
         }
       ],
-      "duration_ms": 175933,
-      "name": "En la Cama T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
+      "duration_ms": 247144,
+      "name": "Vos de Bebe",
+      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -2115,22 +2131,6 @@
       "duration_ms": 220464,
       "name": "Gordo Rata - En Vivo",
       "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Alta Gira",
-        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
-      },
-      "artists": [
-        {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        }
-      ],
-      "duration_ms": 247144,
-      "name": "Vos de Bebe",
-      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Ritmo Sustancia",
-        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 268720,
-      "name": "Pocos Quedan",
-      "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -2295,8 +2279,8 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Barra Libre",
-        "url": "https://open.spotify.com/album/4BxwFfRR2mzpzvHXbeipOW"
+        "name": "Adentro del Party",
+        "url": "https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5"
       },
       "artists": [
         {
@@ -2306,15 +2290,27 @@
         {
           "name": "DT.Bilardo",
           "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Gonzalo Nawel",
-          "url": "https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5"
         }
       ],
-      "duration_ms": 238112,
-      "name": "Barra Libre",
-      "url": "https://open.spotify.com/track/61nprE5601F6rxnEcTR5Dl"
+      "duration_ms": 180000,
+      "name": "Adentro del Party",
+      "url": "https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 268720,
+      "name": "Pocos Quedan",
+      "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -2339,22 +2335,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Hdp",
-        "url": "https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "Hdp",
-      "url": "https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Una Vela",
         "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
       },
@@ -2371,18 +2351,42 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Ponte La 10",
-        "url": "https://open.spotify.com/album/3ILo8ufIhYW8jR4nCJ7rVr"
+        "name": "Hdp",
+        "url": "https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp"
       },
       "artists": [
         {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 200842,
-      "name": "Ponte La 10",
-      "url": "https://open.spotify.com/track/7BTZzDl2yiRc8ICoFK6Po2"
+      "duration_ms": 185603,
+      "name": "Hdp",
+      "url": "https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Sabado Picado",
+        "url": "https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Markito Navaja",
+          "url": "https://open.spotify.com/artist/5cpU1d4hNVlVL3zNcguTS0"
+        },
+        {
+          "name": "Joaco Lopez",
+          "url": "https://open.spotify.com/artist/72TU86QoReKLAjNKWvBiOR"
+        }
+      ],
+      "duration_ms": 137608,
+      "name": "Sabado Picado",
+      "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
     }
   ],
   "unique_name": "Cumbia de Barrio",

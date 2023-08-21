@@ -1156,10 +1156,28 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 166581,
       "name": "Permanecer",
       "url": "https://open.spotify.com/track/4nBhXPQZP4YurzudIPHR9X"
+    },
+    {
+      "album": {
+        "name": "Ele Continua Sendo Deus",
+        "url": "https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166581,
+      "name": "Permanecer",
+      "url": "https://open.spotify.com/track/5Jrh9mDvWKTCWbUhyqKThN"
     },
     {
       "album": {
@@ -1526,6 +1544,24 @@
     {
       "album": {
         "name": "Ele Continua Sendo Deus",
+        "url": "https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174098,
+      "name": "V\u00ea Se Vigia",
+      "url": "https://open.spotify.com/track/3R4hCzwQ1qWVxUia5wn7mj"
+    },
+    {
+      "album": {
+        "name": "Ele Continua Sendo Deus",
         "url": "https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13"
       },
       "artists": [
@@ -1536,7 +1572,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 174098,
       "name": "V\u00ea Se Vigia",
       "url": "https://open.spotify.com/track/5NFTXXhjDzWhoX0jg3Azdd"

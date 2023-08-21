@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Andruss
 
-1,231 songs - 2 day 23 hr 4 min
+1,232 songs - 2 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A Walk In The Park \- Seth Troxler Cruising Remix](https://open.spotify.com/track/4stegoRgdLrI4H72VvzOPp) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [A Walk In The Park \(Seth Troxler Cruising Remix\)](https://open.spotify.com/album/1lhwvgyb8kbJ7QHVz91FEt) | 6:16 | 2022-12-28 | 2023-01-06 |
 | [About The Music](https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Mikey V](https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe) | [Snatch! OFF 071](https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg) | 3:06 | 2022-07-29 | 2022-09-17 |
 | [About You](https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [About You](https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId) | 3:38 | 2022-04-08 | 2022-07-23 |
+| [Acid \(All Night Long\)](https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Acid \(All Night Long\)](https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x) | 2:33 | 2023-08-18 |  |
 | [Acrobatic \- Biscits Remix](https://open.spotify.com/track/3q9dy1PPTtOHFEWF2GkTSK) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Acrobatic \(Biscits Remix\)](https://open.spotify.com/album/6ECySlEvaeHz6K2l6GSg30) | 3:24 | 2021-11-26 | 2022-02-26 |
 | [Acrobatic \- J\. Worra Remix](https://open.spotify.com/track/32kyLM9IUVQncBdpoqHsMs) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Acrobatic \(J\. Worra Remix\)](https://open.spotify.com/album/4A3oSNieTwnYJojmSodaaE) | 3:21 | 2021-11-26 | 2022-01-06 |
 | [Activate](https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Activate](https://open.spotify.com/album/2Fadnb53Ooc0owSGGvC0MM) | 3:22 | 2023-04-07 | 2023-07-15 |
@@ -444,7 +445,7 @@
 | [Handy Work](https://open.spotify.com/track/1AXDyDxGiXpAUQb5UmTLu8) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Handy Work](https://open.spotify.com/album/2G67wbm29gUteqjfqEFxhL) | 6:11 | 2021-11-26 | 2022-04-23 |
 | [Hawt \- JADED Remix](https://open.spotify.com/track/11udJ5QypFmFDzHsf2jgoF) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Hawt \(JADED Remix\)](https://open.spotify.com/album/5kWj4oN2IaINH1AagjRz6n) | 2:48 | 2023-05-12 |  |
 | [Hazy](https://open.spotify.com/track/5Pw2QDs4xlOz4kLfbBEano) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Hazy](https://open.spotify.com/album/3rg53FnQ5jhKDMe6pWwAnT) | 3:08 | 2022-08-26 | 2022-11-29 |
-| [Hear What They Hear \- Danny Howard Re\-Edit](https://open.spotify.com/track/6oRobOhehVMPpGL58M3CRw) | [Adrian Hour](https://open.spotify.com/artist/6eBe6zD6bYfdYUjwB1YStj), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [Hear What They Hear \(Danny Howard Re\-Edit\)](https://open.spotify.com/album/6x7rPWruPaxqSNDaGla4py) | 3:17 | 2023-08-11 |  |
+| [Hear What They Hear \- Danny Howard Re\-Edit](https://open.spotify.com/track/6oRobOhehVMPpGL58M3CRw) | [Adrian Hour](https://open.spotify.com/artist/6eBe6zD6bYfdYUjwB1YStj), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [Hear What They Hear \(Danny Howard Re\-Edit\)](https://open.spotify.com/album/6x7rPWruPaxqSNDaGla4py) | 3:17 | 2023-08-11 | 2023-08-21 |
 | [Heartbeat](https://open.spotify.com/track/69Va1kxcuI2i7rm3hmYLBL) | [Sandor](https://open.spotify.com/artist/0AOi7WKRj3gZQYLisfyX23) | [Heartbeat](https://open.spotify.com/album/47LZUQMxUS736gJSJYl3Oj) | 3:04 | 2021-11-26 | 2022-01-06 |
 | [Heat Of The Night \- Dom Dolla Remix](https://open.spotify.com/track/0jRUOijG1AckwVDmPG55S0) | [Eat More Cake](https://open.spotify.com/artist/0AuULFGFXVvFqzsCEdUCMZ), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Heat Of The Night](https://open.spotify.com/album/10Ng3F686lmxAvGPd8H9tA) | 5:41 | 2021-11-26 | 2022-04-23 |
 | [Heat the Club](https://open.spotify.com/track/3q4DV4TQSjSCiyc5iutSoF) | [Mz Worthy](https://open.spotify.com/artist/6AYgHoc0rxMltUiblsFc6c), [Worthy](https://open.spotify.com/artist/3H73pVo61GsGGlCzn4k1df) | [Heat the Club](https://open.spotify.com/album/6PokAp9WPMwcjw11zz7h7P) | 3:07 | 2022-09-05 | 2022-10-15 |

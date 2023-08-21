@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,920 likes - 174 songs - 13 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,328 likes - 174 songs - 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 79 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 |
 | 80 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 |
 | 81 | [The Light](https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:59 |
-| 82 | [Take My Time](https://open.spotify.com/track/4vYuZjqIxGsRzyqjV15dWk) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:52 |
+| 82 | [Take My Time](https://open.spotify.com/track/1AOOPFrGRGwqO1a8djtxdc) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 4:52 |
 | 83 | [A Little More Love](https://open.spotify.com/track/4KD0A7LJb3ETVuUYxZnrlm) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso) | [A Little More Love](https://open.spotify.com/album/1z6mTGaZizVyY80HWws1vm) | 3:03 |
 | 84 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 |
 | 85 | [Wave](https://open.spotify.com/track/5aH41smzTehoCIqj7VmAT3) | [Kill Them With Colour](https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU) | [Wave](https://open.spotify.com/album/0EHVHLmFiIgxxVSeqEtaci) | 3:14 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 116 | [Apollo \- Edit](https://open.spotify.com/track/0eIUmsCBeaJnGmhMhmQSAA) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Apollo](https://open.spotify.com/album/6ki829oCnngPMQqw0y01Gl) | 3:57 |
 | 117 | [Mirrors](https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Mirrors](https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY) | 3:45 |
 | 118 | [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 |
-| 119 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
+| 119 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
 | 120 | [porco rosso](https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS) | 3:39 |
 | 121 | [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 |
 | 122 | [Get Away \(We Love House Remix\)](https://open.spotify.com/track/6mM4muql5uzdMJmEpS9vXQ) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Get Away \(We Love House Remix\)](https://open.spotify.com/album/7bsxqS9AjAz43vbLaasY4R) | 5:33 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 173 | [Remember When](https://open.spotify.com/track/3eGvc60ZfpRNs9Tmh7k6T9) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Faro](https://open.spotify.com/album/3MpTyXDrpbmFhrGIndfeME) | 4:40 |
 | 174 | [phases \(feat\. Kojey Radical\) \- P\-rallel Remix](https://open.spotify.com/track/0BUU2Sw6QrDyIVg4U6G3Gl) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [phases \(feat\. Kojey Radical\) \[P\-rallel Remix\]](https://open.spotify.com/album/5UMUOPkLKNKKfHIT9D9D4x) | 3:08 |
 
-Snapshot ID: `MCw5NDY2ZjUxNjQ4NDZhZTE5YjdhY2FmYWQ0YjQ2NTVkYWJjOTRmMDRi`
+Snapshot ID: `MCw2YjdhNjBjZmY4ZGRhZjFhNWViYjc1MmUwMWU1MDkzMTFhZjQ5MzI3`

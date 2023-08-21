@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-748 songs - 1 day 15 hr 32 min
+749 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Ensamvarg](https://open.spotify.com/track/4raZ0nYoiJ4mmeXlKgtNFI) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Ensamvarg](https://open.spotify.com/album/5SNsjFUqouam47L3HTtqXf) | 3:35 | 2022-06-16 | 2022-07-10 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-04-14 |
 | [Evergreen](https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Evergreen](https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo) | 3:54 | 2022-07-28 | 2022-09-20 |
-| [Every Little Heart](https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:09 | 2023-04-20 | 2023-08-18 |
+| [Every Little Heart](https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:09 | 2023-04-20 |  |
 | [Every Little Heart](https://open.spotify.com/track/7rn9elPfuViahibddSfGdn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Every Little Heart](https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2) | 3:09 | 2023-02-02 | 2023-04-26 |
 | [Everyone](https://open.spotify.com/track/1ZSbMB7SpKvDC7gVc9bJVV) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Everyone](https://open.spotify.com/album/0kudkPZkyrIWJ7gRHa93xv) | 2:30 | 2022-07-21 | 2022-07-29 |
 | [Evigt ung](https://open.spotify.com/track/6e2RCj2TJ3G7Jn31kthwv6) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [Evigt ung](https://open.spotify.com/album/35O5IzH51F7gFXmJEnfufw) | 2:40 | 2022-02-17 | 2022-05-13 |
@@ -455,7 +455,7 @@
 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 | 2021-12-16 | 2022-03-04 |
 | [Nonono](https://open.spotify.com/track/3yfMnmyvUPamwT4aXCORmk) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Nonono](https://open.spotify.com/album/2uDilBq2pCCTzXA3RdKCwT) | 4:02 | 2021-12-16 | 2022-02-22 |
 | [not your fault](https://open.spotify.com/track/2jtHAE1bwV0qPnpg1KCMkH) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [not your fault](https://open.spotify.com/album/0Qq8puDyqqdmAWMUirix5o) | 3:45 | 2022-03-10 | 2022-04-21 |
-| [Notre\-Dame](https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Notre\-Dame](https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch) | 3:22 | 2022-04-07 |  |
+| [Notre\-Dame](https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Notre\-Dame](https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch) | 3:22 | 2022-04-07 | 2023-08-21 |
 | [Nu Brinner Ängarna](https://open.spotify.com/track/3RmmF7UZoucWbBy8zuG3T5) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Nu Brinner Ängarna](https://open.spotify.com/album/31Jd4Ug0PDK80oj1rGZEsY) | 2:41 | 2021-12-16 | 2022-03-11 |
 | [Nu grönskar det](https://open.spotify.com/track/5ZZGRLU47Gkp8q5ERLTLP5) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [Nu grönskar det](https://open.spotify.com/album/7sMqoulaSuezdKiz0T9K3d) | 3:39 | 2022-03-17 | 2022-07-29 |
 | [Nu kan du få mig så lätt \- Spotify Singles](https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Nu kan du få mig så lätt \- Spotify Singles](https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo) | 3:00 | 2022-05-12 | 2023-04-01 |
@@ -482,7 +482,7 @@
 | [Ordning & Reda](https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Ordning & Reda](https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB) | 2:21 | 2022-06-30 | 2022-10-25 |
 | [Oron](https://open.spotify.com/track/50yVZ2s5nmodWAvKGDdnxT) | [O!](https://open.spotify.com/artist/7nza9FCmRyw0Kha7Sqv2K6) | [Oron](https://open.spotify.com/album/4NHcks6sxG0wXXFv7CBjhL) | 2:40 | 2022-04-01 | 2022-04-21 |
 | [Oscillating Love](https://open.spotify.com/track/3OkCg0FmQic1z61kpzMmkI) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Oscillating Love](https://open.spotify.com/album/0px93W1pVB6l4matH0a2TK) | 4:58 | 2021-12-16 | 2022-02-06 |
-| [Oslo](https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Oslo](https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ) | 3:16 | 2023-04-20 |  |
+| [Oslo](https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Oslo](https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ) | 3:16 | 2023-04-20 | 2023-08-21 |
 | [Our Night](https://open.spotify.com/track/7FBjqWG2unTeEHV2Hi6Mcg) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Motik](https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Our Night](https://open.spotify.com/album/1OTQVr8JLKQ3vwBjSDb3Ry) | 2:45 | 2021-12-16 | 2021-12-25 |
 | [Out of Love](https://open.spotify.com/track/5yHP1bh80YwdDX3fvKGVKA) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Out of Love](https://open.spotify.com/album/1TCfjANz5UpO95yH3OTrTw) | 2:40 | 2022-05-30 | 2022-07-09 |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-11 | 2023-06-23 |
@@ -661,6 +661,7 @@
 | [The River](https://open.spotify.com/track/2wBy3s54lq5HmJgUIp9SBA) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [The River](https://open.spotify.com/album/2BfuSNlZYVmszJzluzFTkb) | 3:20 | 2022-03-17 | 2022-07-29 |
 | [The Terrace](https://open.spotify.com/track/7IbQF9e3Lz1LBPsCxTnBF3) | [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [The Terrace](https://open.spotify.com/album/7I3sbs1SUZU7VGKIQEOxSz) | 2:55 | 2021-12-16 | 2021-12-23 |
 | [The Voice Within](https://open.spotify.com/track/1VmGd9Gw2sKXCT27x5IvwJ) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/0alHmJAANap6kwhm1BMZvc) | 3:56 | 2022-02-24 | 2022-07-24 |
+| [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 | 2023-08-17 |  |
 | [Thin](https://open.spotify.com/track/36DjnovGfaU6tWduDb0skt) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Thin](https://open.spotify.com/album/1AmKGq5TXiKTxYrEAe5KQn) | 3:33 | 2022-03-10 | 2022-04-02 |
 | [THRILLER \(with Clara Mae\)](https://open.spotify.com/track/0rFAE6PNRKkw4b6nxCK7b1) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [THRILLER \(with Clara Mae\)](https://open.spotify.com/album/6fYCA4iunXPtY9JnLhNeZE) | 2:41 | 2023-04-20 |  |
 | [Through The Fire](https://open.spotify.com/track/2ML88ePNxtALsVHzg3rLjK) | [Alex Alexander](https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj) | [Through The Fire](https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf) | 3:53 | 2022-09-15 | 2023-06-23 |

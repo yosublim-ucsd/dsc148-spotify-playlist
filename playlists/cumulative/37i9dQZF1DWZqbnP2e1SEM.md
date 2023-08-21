@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-246 songs - 13 hr 28 min
+247 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Gotta Get Thru This \- D'N'D Radio Edit](https://open.spotify.com/track/023lag1AgeOf7YChojecRu) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX), [D'N'D Productions](https://open.spotify.com/artist/7cp62T0Av3mTgy0imKzat7) | [Gotta Get Thru This](https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL) | 2:41 | 2021-07-09 | 2022-05-11 |
 | [Hands Free](https://open.spotify.com/track/4ULgU2dA3wrnmYwpW6uvMA) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4), [Screama](https://open.spotify.com/artist/1e3xhbR7Jo9vB5rvtMQv9c) | [Hands Free](https://open.spotify.com/album/7DA9N7yyg0v7erXnFTliAd) | 4:03 | 2021-07-09 | 2022-05-09 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-06-20 | 2022-10-19 |
-| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-06-20 |  |
+| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-06-20 | 2023-08-21 |
+| [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2022-06-20 |  |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2021-07-09 |  |
 | [Heartbroken \- Edit](https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru) | 2:58 | 2021-07-09 | 2022-05-11 |
 | [Heater](https://open.spotify.com/track/3bJwiNmreZkHXjeuFmW8bG) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Heater](https://open.spotify.com/album/6ZJ5jjlpvAXnQS7bYsEbMk) | 7:06 | 2021-07-09 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Bilal Saeed & Sunanda Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,257 likes - 77 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,462 likes - 77 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 76 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 |
 | 77 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 |
 
-Snapshot ID: `MCxmNTMwOTI2ODQyYzc3MzkyMWU1YzE0MzkwMzkzZTEwNGM1YzA0ZDFi`
+Snapshot ID: `MCxkNjFkZmRlNzc3YzAwMmEyYTYyN2YyODE1ODViMmY3MGJhNjU2YzIw`

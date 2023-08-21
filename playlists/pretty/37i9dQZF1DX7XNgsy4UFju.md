@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 10 | [Wandering Lies](https://open.spotify.com/track/31FzcFpBHhmOAXCCrfsO9t) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Wandering Lies](https://open.spotify.com/album/5ypRKrHR9cPkfsw1NxOlD4) | 5:00 |
 | 11 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
 | 12 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 |
-| 13 | [Stupid 4 U](https://open.spotify.com/track/69wanT7uQsE61wuDCuOoq7) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/7go7I6pad4do86ALsmB8ZC) | 3:56 |
+| 13 | [Stupid 4 U](https://open.spotify.com/track/0XudTjuk5umhu2Q8KYEZDU) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 3:56 |
 | 14 | [Me & Me](https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Me & Me](https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi) | 2:27 |
 | 15 | [The Absent Sea](https://open.spotify.com/track/6hQCfppZa3B4gs5TwytSDF) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [The Absent Sea](https://open.spotify.com/album/3PsHxIsmHKdXak2kT4ufYd) | 5:06 |
 | 16 | [This Time](https://open.spotify.com/track/79ob9RdP6xf1MmdIxW9jSt) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [This Time](https://open.spotify.com/album/1FP5BG78Zrej8cyry5DZ2w) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Leila](https://open.spotify.com/track/7sKJkJN7dhfBDmG86AKtOI) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paris\-Hawaï](https://open.spotify.com/album/4q2iiAmoWmM57F6I2al84B) | 5:03 |
 | 100 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 |
 
-Snapshot ID: `MCxlNWYxZjQ4Mzg1ZTIzNDdkNDg0YjYwZjFlZmFjYzgyZjZlNDI5YTY3`
+Snapshot ID: `MCw1YTJkODU3MmRkNWQ1NDRhYjI4MTE1MmY1MTg4OTg2NWJkYTI4NmFk`

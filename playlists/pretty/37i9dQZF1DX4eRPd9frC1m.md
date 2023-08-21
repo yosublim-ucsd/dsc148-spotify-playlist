@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > DIESEL celebrates his GORILLA WARFARE album release by taking over Hype with his favorite aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,569,591 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,569,995 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 48 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 |
 | 49 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
 | 50 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 |
-| 51 | [Laserbeam](https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Laserbeam](https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a) | 3:41 |
-| 52 | [Old School](https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Old School](https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk) | 2:19 |
+| 51 | [Old School](https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Old School](https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk) | 2:19 |
+| 52 | [Laserbeam](https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Laserbeam](https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a) | 3:41 |
 | 53 | [DAMN](https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 3:40 |
 | 54 | [Birdz](https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:42 |
 | 55 | [Here With Me](https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Here With Me](https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN) | 3:43 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 71 | [damn Right Pt\. 2](https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [damn Right Pt\. 2](https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4) | 3:06 |
 | 72 | [Vibe Check](https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Vibe Check](https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ) | 2:49 |
 | 73 | [Burial \(feat\. Pusha T, Moody Good, TrollPhace\)](https://open.spotify.com/track/7DHX1Ng0V186U2idfFfjGi) | [Yogi](https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Trollphace](https://open.spotify.com/artist/0OJ5ViZQUFL6ileg5HvKKy) | [Burial \(feat\. Pusha T, Moody Good, TrollPhace\)](https://open.spotify.com/album/3rOzXYxXqBUcw3u131mrjE) | 3:46 |
-| 74 | [Wake Up](https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Wake Up](https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw) | 5:16 |
-| 75 | [PEACE LOVE & WUBZ](https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Cojaxx](https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2) | 4:00 |
+| 74 | [PEACE LOVE & WUBZ](https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Cojaxx](https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2) | 4:00 |
+| 75 | [Wake Up](https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Wake Up](https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw) | 5:16 |
 
-Snapshot ID: `MCw2NTdmYzJmNmJjMDkwM2IwYzRkNTZiZDAwZjdkNDQzYzBkMjg2ODA0`
+Snapshot ID: `MCw1OTcxZWNmZTg0NmFjMjMwYWUxNWFiYzI5NmZlOGUwMzJlOGJhODU4`

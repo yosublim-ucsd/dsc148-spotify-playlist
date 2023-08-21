@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover:  <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a">Pastor Mike Jr.</a>, <a href="https://www.thestellarawards.com/index.html">Stellar Awards'</a> Artist of the Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,659 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,747 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 94 | [Overflow](https://open.spotify.com/track/6BMKu4bu0kDdPYviP1Umrz) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i), [Roderick Giles & Grace](https://open.spotify.com/artist/5jMr6s2EqsG4U4HQROzA8e) | [Overflow](https://open.spotify.com/album/7gggTmjWOAI4VtzBKDhSz4) | 4:25 |
 | 95 | [Black Lives Matter](https://open.spotify.com/track/5ZXZWHmI69IAhiseyYWF2D) | [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [Black Lives Matter](https://open.spotify.com/album/6Y5VoweQfvHReQl4KTGFNd) | 5:49 |
 | 96 | [You're Bigger \(Radio Edit\)](https://open.spotify.com/track/6H81l4DgtgdEvfRGow3gI9) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY) | 3:50 |
-| 97 | [Never Let Me Go](https://open.spotify.com/track/1z69IavRF0D3MXsdbvsPBE) | [Jason McGee & The Choir](https://open.spotify.com/artist/2a1U4XLduUgLzFErHznt9d), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Never Let Me Go](https://open.spotify.com/album/5vGpKoJ12FjCFJUaaZeBtP) | 4:11 |
-| 98 | [Praying and Believing](https://open.spotify.com/track/7hfv1V47dO8Wg930ARWsex) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Warryn Campbell Presents My Block Inc.](https://open.spotify.com/album/1cbaR2xRm6YAHgbTgr5met) | 5:12 |
+| 97 | [Praying and Believing](https://open.spotify.com/track/7hfv1V47dO8Wg930ARWsex) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Warryn Campbell Presents My Block Inc.](https://open.spotify.com/album/1cbaR2xRm6YAHgbTgr5met) | 5:12 |
+| 98 | [Never Let Me Go](https://open.spotify.com/track/1z69IavRF0D3MXsdbvsPBE) | [Jason McGee & The Choir](https://open.spotify.com/artist/2a1U4XLduUgLzFErHznt9d), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Never Let Me Go](https://open.spotify.com/album/5vGpKoJ12FjCFJUaaZeBtP) | 4:11 |
 | 99 | [High and Lifted](https://open.spotify.com/track/5BEfxZNZZa4wN6mlz4LH4U) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Warryn Campbell Presents My Block Inc.](https://open.spotify.com/album/1cbaR2xRm6YAHgbTgr5met) | 4:01 |
 | 100 | [You’re Gonna Get The Glory \- Live](https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 8:01 |
 
-Snapshot ID: `MCwwMGVlYTQxOTljOGViMjBlZDNhZTBlOTI2Zjg3MDEwNDVkZDJhYWJi`
+Snapshot ID: `MCxhMWI3NjZlZDU2MzBiOTEwN2RmMWJjMjJmZjNjYmQzYjkyN2RiZTdj`

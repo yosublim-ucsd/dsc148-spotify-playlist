@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Lavora
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,690 likes - 77 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,959 likes - 77 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 76 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 |
 | 77 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 |
 
-Snapshot ID: `MCwxMjhkNTZjZGYwOTA2YzI0MzUxYWMzMzhjNDQ4ZmYwMzQyZmY1NGUx`
+Snapshot ID: `MCw2NzRmZjJhZDI3ZmY1YmJmZjIyOTM4MzRhNjA1M2Q0NzMxMGE1ZjRh`

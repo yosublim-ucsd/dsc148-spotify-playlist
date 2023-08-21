@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 71908,
+  "num_followers": 71901,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ1ODA5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ1ODk1NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Chakalitos",
         "url": "https://open.spotify.com/album/1SDkQBxs672NHOFSZ9mNzo"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3dDhSk8D6fDJeEnpwMEZTp"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Ballin [Pablo]",
         "url": "https://open.spotify.com/album/5ZZPEnjcgfjzI5i00XbcWB"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/7JdbdO7SLzz1dumKQzMetO"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/0mrflT70oAJM0Tzdo2jUXx"
@@ -81,7 +81,23 @@
       "url": "https://open.spotify.com/track/7hnoT6lhcdgYt3yiNEkY4u"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Lo Que Tiene",
+        "url": "https://open.spotify.com/album/1bDRGkwsccXIuVgFKda4LC"
+      },
+      "artists": [
+        {
+          "name": "MDLUXE",
+          "url": "https://open.spotify.com/artist/2voI2aILML9xOO0eazobd9"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Lo Que Tiene",
+      "url": "https://open.spotify.com/track/728kg1ila9Fhjv2amlyxut"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Ride Or Die",
         "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "V\u00c1MONOS PA LA EUROPA",
         "url": "https://open.spotify.com/album/1wI6Z4ek2MVDY3bKDtuXwe"
@@ -149,23 +165,7 @@
       "url": "https://open.spotify.com/track/2VfBDjJ0tZ9XUi24aQibTM"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "I\u2019m Just Ken (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        }
-      ],
-      "duration_ms": 222633,
-      "name": "I\u2019m Just Ken (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "3x3",
         "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
@@ -185,39 +185,23 @@
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+        "name": "I\u2019m Just Ken (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
         }
       ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+      "duration_ms": 222633,
+      "name": "I\u2019m Just Ken (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Giuliano Yankees",
         "url": "https://open.spotify.com/album/5CthlC0N9UiDbdo2HuneWO"
@@ -233,23 +217,39 @@
       "url": "https://open.spotify.com/track/2Na1Ic7Jo2vbibI2fLVETK"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
-          "name": "MISAMO",
-          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Do not touch",
-      "url": "https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Perdidos",
         "url": "https://open.spotify.com/album/64uPiuBBTJEDqjC7FKc781"
@@ -265,7 +265,55 @@
       "url": "https://open.spotify.com/track/6ughI6FwGbF0cLicG7lrat"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Do not touch",
+      "url": "https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Devuelvete (Guaracha)",
+        "url": "https://open.spotify.com/album/1UH60K9xF2k5EQi3evqjLB"
+      },
+      "artists": [
+        {
+          "name": "Deejay Ghost",
+          "url": "https://open.spotify.com/artist/4N8sMKcWQVo6bHBit1GsWL"
+        }
+      ],
+      "duration_ms": 262153,
+      "name": "Devuelvete (Guaracha)",
+      "url": "https://open.spotify.com/track/1SODbO76xvYjobGXyvQA15"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 151373,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -285,39 +333,7 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "Devuelvete (Guaracha)",
-        "url": "https://open.spotify.com/album/1UH60K9xF2k5EQi3evqjLB"
-      },
-      "artists": [
-        {
-          "name": "Deejay Ghost",
-          "url": "https://open.spotify.com/artist/4N8sMKcWQVo6bHBit1GsWL"
-        }
-      ],
-      "duration_ms": 262153,
-      "name": "Devuelvete (Guaracha)",
-      "url": "https://open.spotify.com/track/1SODbO76xvYjobGXyvQA15"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "NewJeans 2nd EP 'Get Up'",
-        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 151373,
-      "name": "ETA",
-      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "\u9752\u306e\u3059\u307f\u304b",
         "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
@@ -349,31 +365,23 @@
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
-        "name": "CONTANDO",
-        "url": "https://open.spotify.com/album/0qyoXkWdCYH8HQM9hBayze"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3"
       },
       "artists": [
         {
-          "name": "Bxnja Firstt",
-          "url": "https://open.spotify.com/artist/6BIQ5I5TADskOF6TdR6wRB"
-        },
-        {
-          "name": "Giuliano Yankees",
-          "url": "https://open.spotify.com/artist/2Fm1I4mYmmdvuQ4QirrZvO"
-        },
-        {
-          "name": "Il Nene De Oro",
-          "url": "https://open.spotify.com/artist/4dGA9qLlw4tQ0cKz90p3dL"
+          "name": "Siinamota",
+          "url": "https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD"
         }
       ],
-      "duration_ms": 115100,
-      "name": "CONTANDO",
-      "url": "https://open.spotify.com/track/4NUmj3QQX3rX9K3BUCnZc7"
+      "duration_ms": 221500,
+      "name": "Young Girl A",
+      "url": "https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "EL AMOR DE TU VIDA",
         "url": "https://open.spotify.com/album/4xar1X3zTK8oN2eq5yfQKE"
@@ -397,23 +405,7 @@
       "url": "https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "Oppenheimer (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 110160,
-      "name": "Can You Hear The Music",
-      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
@@ -429,23 +421,23 @@
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3"
+        "name": "Oppenheimer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
       },
       "artists": [
         {
-          "name": "Siinamota",
-          "url": "https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD"
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 221500,
-      "name": "Young Girl A",
-      "url": "https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6"
+      "duration_ms": 110160,
+      "name": "Can You Hear The Music",
+      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
@@ -465,7 +457,23 @@
       "url": "https://open.spotify.com/track/2no3AeFeRxHhoY7lJ9X4bM"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "3O",
+        "url": "https://open.spotify.com/album/1pg2wYeS9f748uM2fgZBMh"
+      },
+      "artists": [
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "duration_ms": 119500,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/2iRZVaF6hzz61FX2iK5mNj"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "A Giant Step",
         "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
@@ -485,27 +493,7 @@
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "Yo No S\u00e9",
-        "url": "https://open.spotify.com/album/4PQsCza6g2zeLg4bbwr6PC"
-      },
-      "artists": [
-        {
-          "name": "Mati G\u00f3mez",
-          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
-        },
-        {
-          "name": "La Industria Inc",
-          "url": "https://open.spotify.com/artist/2cTphZaL79hSnysE6CLYEE"
-        }
-      ],
-      "duration_ms": 164443,
-      "name": "Yo No S\u00e9",
-      "url": "https://open.spotify.com/track/3sI5i0FEFOfcgfJ9R8Cyt0"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -521,7 +509,7 @@
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Caba\u00f1a",
         "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
@@ -545,43 +533,7 @@
       "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "3O",
-        "url": "https://open.spotify.com/album/1pg2wYeS9f748uM2fgZBMh"
-      },
-      "artists": [
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        }
-      ],
-      "duration_ms": 119500,
-      "name": "Suerte",
-      "url": "https://open.spotify.com/track/2iRZVaF6hzz61FX2iK5mNj"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "Alta Gama",
-        "url": "https://open.spotify.com/album/03DNBUpkhBhoGZdMood0db"
-      },
-      "artists": [
-        {
-          "name": "El Adem",
-          "url": "https://open.spotify.com/artist/3EaTlUVdPrAzDircCdLgEA"
-        },
-        {
-          "name": "Giuliano Yankees",
-          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
-        }
-      ],
-      "duration_ms": 139673,
-      "name": "Alta Gama",
-      "url": "https://open.spotify.com/track/0A9tKdUOauWHIjz1SAO3jA"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
@@ -601,55 +553,7 @@
       "url": "https://open.spotify.com/track/1Dlzq86mlvJEkaGoS9c7MN"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "wiggy",
-        "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 146559,
-      "name": "wiggy",
-      "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "NewJeans 2nd EP 'Get Up'",
-        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 147880,
-      "name": "Cool With You",
-      "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "The Automotivo Infernal 1.0",
-        "url": "https://open.spotify.com/album/0F4VNLWhlhnOz4JzEt6xZ8"
-      },
-      "artists": [
-        {
-          "name": "MRL",
-          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
-        }
-      ],
-      "duration_ms": 114593,
-      "name": "The Automotivo Infernal 1.0 - Purple",
-      "url": "https://open.spotify.com/track/684yJVwS41anCimZla5jk9"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
@@ -665,7 +569,135 @@
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Alta Gama",
+        "url": "https://open.spotify.com/album/03DNBUpkhBhoGZdMood0db"
+      },
+      "artists": [
+        {
+          "name": "El Adem",
+          "url": "https://open.spotify.com/artist/3EaTlUVdPrAzDircCdLgEA"
+        },
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        }
+      ],
+      "duration_ms": 139673,
+      "name": "Alta Gama",
+      "url": "https://open.spotify.com/track/0A9tKdUOauWHIjz1SAO3jA"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "wiggy",
+        "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 146559,
+      "name": "wiggy",
+      "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "The Automotivo Infernal 1.0",
+        "url": "https://open.spotify.com/album/0F4VNLWhlhnOz4JzEt6xZ8"
+      },
+      "artists": [
+        {
+          "name": "MRL",
+          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+        }
+      ],
+      "duration_ms": 114593,
+      "name": "The Automotivo Infernal 1.0 - Purple",
+      "url": "https://open.spotify.com/track/684yJVwS41anCimZla5jk9"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Cool With You",
+      "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Polvo Sano",
+        "url": "https://open.spotify.com/album/6PglDLsz2x1oOmD9xNMPuS"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Arez",
+          "url": "https://open.spotify.com/artist/7lkOYikCqUXJmw9mvuzojx"
+        }
+      ],
+      "duration_ms": 212007,
+      "name": "Polvo Sano",
+      "url": "https://open.spotify.com/track/7nJZcBCBHo9vZbL9rycfwR"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Yo No S\u00e9",
+        "url": "https://open.spotify.com/album/4PQsCza6g2zeLg4bbwr6PC"
+      },
+      "artists": [
+        {
+          "name": "Mati G\u00f3mez",
+          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
+        },
+        {
+          "name": "La Industria Inc",
+          "url": "https://open.spotify.com/artist/2cTphZaL79hSnysE6CLYEE"
+        }
+      ],
+      "duration_ms": 164443,
+      "name": "Yo No S\u00e9",
+      "url": "https://open.spotify.com/track/3sI5i0FEFOfcgfJ9R8Cyt0"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "LOUD (feat. Piero 47, 3TRIPLE J, JulianoChieff)",
         "url": "https://open.spotify.com/album/6FtE6zJfTCiDMh0ju5B8nN"
@@ -701,79 +733,23 @@
       "url": "https://open.spotify.com/track/4urZ3ocnvCpgU0Rv1P6Pd5"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/63VppC7XCI7wgkKcFdYVKy"
-      },
-      "artists": [
-        {
-          "name": "Mati G\u00f3mez",
-          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 184120,
-      "name": "Yo No S\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/4iE5KihD6fcdBZ3hWpHtlX"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "Back To Me / Alive",
-        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "Porfiado",
-        "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 259680,
-      "name": "Enamorado tuyo",
-      "url": "https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "4 ONLY",
         "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
@@ -789,39 +765,23 @@
       "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 230204,
-      "name": "Tiempo de Nada",
-      "url": "https://open.spotify.com/track/0W4qe30BMkPY98jWtVe6ZS"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
@@ -841,7 +801,55 @@
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Porfiado",
+        "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 259680,
+      "name": "Enamorado tuyo",
+      "url": "https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 230204,
+      "name": "Tiempo de Nada",
+      "url": "https://open.spotify.com/track/0W4qe30BMkPY98jWtVe6ZS"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "Un Finde | CROSSOVER #2",
         "url": "https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80"
@@ -865,59 +873,7 @@
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
     },
     {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "KISS OF LIFE",
-        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
-        "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
-      "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 173005,
-      "name": "S91",
-      "url": "https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO"
-    },
-    {
-      "added_at": "2023-08-19 10:23:29",
+      "added_at": "2023-08-20 10:20:30",
       "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
         "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
@@ -935,6 +891,46 @@
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "XOXO (Kisses Hugs)",
+        "url": "https://open.spotify.com/album/7ypr8nw5re15S7r5XR8Q28"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "horrormovies",
+          "url": "https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA"
+        },
+        {
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
+        }
+      ],
+      "duration_ms": 130785,
+      "name": "XOXO (Kisses Hugs)",
+      "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"
+    },
+    {
+      "added_at": "2023-08-20 10:20:30",
+      "album": {
+        "name": "KISS OF LIFE",
+        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8"
     }
   ],
   "unique_name": "Viral 50 - Chile",

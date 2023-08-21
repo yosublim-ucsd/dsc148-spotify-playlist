@@ -4,7 +4,7 @@
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-110 songs - 10 hr 16 min
+111 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Yamma Yamma \- Shaan / Soundtrack Version](https://open.spotify.com/track/1Kbupq9XjIG5xlppdyTWSe) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [King of Melody \- R\. D\. Burman \- Top Hits](https://open.spotify.com/album/3oiZILCKIBsxDUAObiAThW) | 5:41 | 2021-11-26 | 2023-01-22 |
 | [Yamma Yamma \- Shaan / Soundtrack Version](https://open.spotify.com/track/2dBdzMZ0EMjIqaE42qYhZB) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [70s 80s Bollywood Nostalgia Casette Side B](https://open.spotify.com/album/1mn2q71OMGbMLbLRlR53bu) | 5:41 | 2021-11-26 | 2022-11-13 |
 | [Yamma Yamma \- Shaan / Soundtrack Version](https://open.spotify.com/track/0XPSzRRQw8KZZiRZE7jlYf) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Shaan](https://open.spotify.com/album/7gvT1psTdUXs1WtgZmyBDe) | 5:41 | 2021-11-26 | 2022-07-29 |
-| [Yara Seeli Seeli](https://open.spotify.com/track/2bvSrOKLBSM6spSHLfdnZp) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lekin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7qmGaQpTwiimvbheYIooGs) | 5:05 | 2023-05-24 |  |
+| [Yara Seeli Seeli](https://open.spotify.com/track/2bvSrOKLBSM6spSHLfdnZp) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lekin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7qmGaQpTwiimvbheYIooGs) | 5:05 | 2023-05-24 | 2023-08-21 |
+| [YARA SEELI SEELI](https://open.spotify.com/track/3uLbP51oGqW2LptFFoKqNC) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Gulzar Lata](https://open.spotify.com/album/1Crl97kFr62EVygfqE8bd5) | 5:05 | 2023-06-20 |  |
 | [Yeh Hai Bambai Nagaria](https://open.spotify.com/track/60pGBy2GQpVhy7kPzYtT94) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0avWVNdAm5tK8fQnLHDKYD) | 5:53 | 2021-11-26 | 2023-05-24 |
 | [Yeh Hai Bambai Nagaria](https://open.spotify.com/track/63Rd0UCg3NDto94Xjj7Jda) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Kalyanji\-Anandji](https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq) | [Don](https://open.spotify.com/album/6SgnpI7uyQkDr8F1TzmR66) | 5:53 | 2021-11-26 | 2022-07-29 |
 | [Yeh Mera Dil Yaar Ka Diwana](https://open.spotify.com/track/4jqDpyUwVkcTJXufkuV79t) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0avWVNdAm5tK8fQnLHDKYD) | 4:13 | 2021-11-26 | 2023-05-24 |

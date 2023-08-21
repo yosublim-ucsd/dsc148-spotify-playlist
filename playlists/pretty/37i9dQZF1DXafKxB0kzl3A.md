@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafKxB0kzl3A.md) - [plain]
 
 > International hitmaker, producer & DJ <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a> shares his exclusive Spotify mix, featuring banger after banger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,177 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,439 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafKxB0kzl3A.md) - [plain]
 | 19 | [NO MIENTEN \- Tiësto Remix \- Mixed](https://open.spotify.com/track/2gp3ZM6h0GemBI40D5iHeF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN \- Tiësto Remix \(Mixed\)](https://open.spotify.com/album/5tcykKJYLeIWzDbjSKyrHA) | 2:16 |
 | 20 | [Savage \- Mixed](https://open.spotify.com/track/2n56D9thfe2XQqe8NjalWE) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Savage \(Mixed\)](https://open.spotify.com/album/2WypBJp2P5x9XogHwzLz7y) | 3:17 |
 
-Snapshot ID: `MCxhYTU3OWFiZTA5NDQ3ZGM1YTcyMTc3YjFhYzNkNDg0NjA5MGM1OTM1`
+Snapshot ID: `MCxlNzQ0YWUzNzU5NTI3ZGIyNDFmZjA5NmE3YTJhZjFlZDUyNmNjMDc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=jDi4XWhlQaaX7vBCLqxkag">Beatenberg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,624 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,627 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
 | 50 | [Cool Around You II](https://open.spotify.com/track/4WcLzxeWscSObQenatHcoe) | [Yo Grapes](https://open.spotify.com/artist/7rwiN8Fkuy6Pa9lGiIGyBY) | [Cool Around You II](https://open.spotify.com/album/6XXZlfWCPa2bQNC5IgN18b) | 2:59 |
 
-Snapshot ID: `MCxjNjAxNDcyZjE2ZGQ0OGMyMTY0ZWRhYjU1NTZkNjUxODc4ZmNiMDIy`
+Snapshot ID: `MCw3OTQ2NWYzZmEzYzUyYmE0YzU1NWIyNTU3MmI2MmI0YWZiNjBiNDdm`

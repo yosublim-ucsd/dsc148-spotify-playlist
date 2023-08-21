@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,100 songs - 2 day 8 hr 25 min
+1,101 songs - 2 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -912,7 +912,8 @@
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-02 |  |
 | [Studying Your Door](https://open.spotify.com/track/2pAbcnRMvygn1WPqGQX7dS) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Studying Your Door](https://open.spotify.com/album/2D1sSDYQrKkXfDrJArdubC) | 3:20 | 2022-04-08 | 2022-05-07 |
 | [Stupid](https://open.spotify.com/track/42c7aUxtj89o7CxXO6bJo5) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Stupid](https://open.spotify.com/album/4nZL6dJ1pZk81IA7sPkpWz) | 2:38 | 2022-03-04 | 2022-06-04 |
-| [Stupid 4 U](https://open.spotify.com/track/69wanT7uQsE61wuDCuOoq7) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/7go7I6pad4do86ALsmB8ZC) | 3:56 | 2023-08-18 |  |
+| [Stupid 4 U](https://open.spotify.com/track/0XudTjuk5umhu2Q8KYEZDU) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 3:56 | 2023-08-18 |  |
+| [Stupid 4 U](https://open.spotify.com/track/69wanT7uQsE61wuDCuOoq7) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/7go7I6pad4do86ALsmB8ZC) | 3:56 | 2023-08-18 | 2023-08-21 |
 | [Sucker](https://open.spotify.com/track/6IRZc1ZeglfYbGQENnTUnw) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Sucker](https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp) | 3:43 | 2023-02-16 |  |
 | [Sugar Cane](https://open.spotify.com/track/2sZmWnIzxhRgcRUYelB7uT) | [Nawms](https://open.spotify.com/artist/6efvYNQ3tDNE6Dn8IDzvEw), [Emilia Ali](https://open.spotify.com/artist/1mYkjTt1PWeSzxNoAsSd37) | [Sugar Cane](https://open.spotify.com/album/3dbX5k1YlERrrme5OG6aZy) | 3:17 | 2020-11-28 | 2021-01-21 |
 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 | 2022-01-21 | 2022-03-05 |

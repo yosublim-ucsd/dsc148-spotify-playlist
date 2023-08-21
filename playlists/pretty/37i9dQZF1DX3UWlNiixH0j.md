@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: KIRINJI
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,240 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,268 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,18 +54,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 44 | [WASH IT](https://open.spotify.com/track/0dw3UuqDZBRCFtN3r4ASOQ) | [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [WASH IT](https://open.spotify.com/album/2lhR8KI4TzL3EURFcsaTBj) | 4:21 |
 | 45 | [Signal](https://open.spotify.com/track/0RWAEbEcbu53uJjGEykgOi) | [藤本夏樹](https://open.spotify.com/artist/0l14yZqsqEyTqqaR7tz4iz) | [RANDOM](https://open.spotify.com/album/4S7xvdrtOQqUFMd9Clwksr) | 5:07 |
 | 46 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 |
-| 47 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 |
+| 47 | [光るとき](https://open.spotify.com/track/7Aflm6F9jMApKat1tjvhxT) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [our hope](https://open.spotify.com/album/1ONQrLL5EaVJd34qsM21id) | 5:51 |
 | 48 | [光のいたずら](https://open.spotify.com/track/1pasHyZ2yDpJa74RVYKgSg) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [光のいたずら](https://open.spotify.com/album/5etZZ4Sr6LLabyYGKx7Nbz) | 3:44 |
-| 49 | [光るとき](https://open.spotify.com/track/7Aflm6F9jMApKat1tjvhxT) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [our hope](https://open.spotify.com/album/1ONQrLL5EaVJd34qsM21id) | 5:51 |
+| 49 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 |
 | 50 | [眠り過ぎたお昼](https://open.spotify.com/track/08Br2Hpst0Ig7gNgQ7BnSW) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [眠り過ぎたお昼](https://open.spotify.com/album/01PE7XC46VnXGb0TlCZlew) | 3:36 |
 | 51 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 |
 | 52 | [Just an Ordinary Sunday](https://open.spotify.com/track/6p6NytZ2eNa7ZWstx6Kvva) | [EMPTYSCENARIO](https://open.spotify.com/artist/6KbPaXqXnqgcSfdK1kN9lu) | [Just an Ordinary Sunday](https://open.spotify.com/album/02s2ewiUd2YgGpL5uH9WWq) | 3:02 |
 | 53 | [スカフィンのうた](https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [スカフィンのうた](https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1) | 2:30 |
 | 54 | [定刻が過ぎて](https://open.spotify.com/track/1aBfnGTsDlJepUBaKf9gh7) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [定刻が過ぎて](https://open.spotify.com/album/3sRmij0HZYroryWMWujGZB) | 4:30 |
-| 55 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 |
+| 55 | [桃源郷](https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo) | [シャイトープ](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [桃源郷](https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3) | 4:03 |
 | 56 | [Moldy Chips](https://open.spotify.com/track/07DadWwyfVVfQP7KpqOdnM) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Moldy Chips](https://open.spotify.com/album/4wYnGdxAkAgXXbYHxBcaKa) | 2:11 |
 | 57 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 |
-| 58 | [桃源郷](https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo) | [シャイトープ](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [桃源郷](https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3) | 4:03 |
+| 58 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 |
 | 59 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 |
 | 60 | [Hotaru No Sen](https://open.spotify.com/track/6Oc6mETshqnFn2clxDi6Ya) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [Hotaru No Sen](https://open.spotify.com/album/1EwG6rfg5cuSoKTxt5sKbk) | 3:31 |
 | 61 | [SCENE!](https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [SCENE!](https://open.spotify.com/album/08O2jixS5hkpjsI0KZUzP2) | 2:26 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 84 | [Clockwise](https://open.spotify.com/track/4d5utY9ixyUP7FIkwtJHzp) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Clockwise](https://open.spotify.com/album/3ZYJ3qfsls9eOCR2WcoAPF) | 3:26 |
 | 85 | [独りの夜は \- album ver.](https://open.spotify.com/track/7LhK3a6HGN58KTXCGJUl5h) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [Parade](https://open.spotify.com/album/2C6DtEFcfhc7QNJRQebDrr) | 3:43 |
 | 86 | [Mother](https://open.spotify.com/track/7IY2Ro6XnoIAtr5bLuoCJD) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [ILL\-BOSSTINO](https://open.spotify.com/artist/5jhQeriKleBz95HuKGNcbO), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Mother](https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq) | 4:07 |
-| 87 | [チルチルクラブ](https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [チルチルクラブ](https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7) | 3:49 |
-| 88 | [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 |
-| 89 | [のらりつらり](https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [のらりつらり](https://open.spotify.com/album/55M8zj4SdtQwVUxDqn7d6h) | 3:25 |
-| 90 | [晴れるな](https://open.spotify.com/track/2YTSYQPXLljftwle3Q6Jom) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [晴れるな](https://open.spotify.com/album/3ghXwssaEDLOwvzMXYCHgS) | 3:08 |
+| 87 | [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 |
+| 88 | [晴れるな](https://open.spotify.com/track/2YTSYQPXLljftwle3Q6Jom) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [晴れるな](https://open.spotify.com/album/3ghXwssaEDLOwvzMXYCHgS) | 3:08 |
+| 89 | [チルチルクラブ](https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [チルチルクラブ](https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7) | 3:49 |
+| 90 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 |
 | 91 | [大東京万博](https://open.spotify.com/track/4Rnpl433c6SsYhynnPS4dN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ゴーストアルバム](https://open.spotify.com/album/6Vq6frI8HsXVoYZiQG8v9e) | 5:05 |
-| 92 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 |
-| 93 | [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 |
-| 94 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 |
+| 92 | [のらりつらり](https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [のらりつらり](https://open.spotify.com/album/55M8zj4SdtQwVUxDqn7d6h) | 3:25 |
+| 93 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 |
+| 94 | [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 |
 | 95 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 |
-| 96 | [All to Myself](https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [All to Myself](https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2) | 3:18 |
-| 97 | [在夜市再見](https://open.spotify.com/track/3e2DlkRgMkGQyRpHvxuekb) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Tabu Zombie](https://open.spotify.com/artist/3Vp0jjkPKrwvBWfYCXyDRC) | [在夜市再見](https://open.spotify.com/album/4T8JGSQyzpRN9LclQj3ki5) | 4:42 |
+| 96 | [在夜市再見](https://open.spotify.com/track/3e2DlkRgMkGQyRpHvxuekb) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Tabu Zombie](https://open.spotify.com/artist/3Vp0jjkPKrwvBWfYCXyDRC) | [在夜市再見](https://open.spotify.com/album/4T8JGSQyzpRN9LclQj3ki5) | 4:42 |
+| 97 | [All to Myself](https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [All to Myself](https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2) | 3:18 |
 | 98 | [季節すら追い抜いて](https://open.spotify.com/track/4P0Gq52E5FmBp4IAcJa2eh) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [季節すら追い抜いて](https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f) | 3:13 |
 | 99 | [赤と青](https://open.spotify.com/track/2udGq9U6BVzKk2UqTpji45) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 3:13 |
 | 100 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 |
 
-Snapshot ID: `MCwwYjhmNjY4YWIxOTQzZDlkOWU2NjI3MGQ4ZDdiN2IxMzM4NzFkNjU2`
+Snapshot ID: `MCxhZWVkYjA4YjRkZDMxMDdlMjcyMzgwOWVlZmNkZWY2M2YyMTVlMGFi`

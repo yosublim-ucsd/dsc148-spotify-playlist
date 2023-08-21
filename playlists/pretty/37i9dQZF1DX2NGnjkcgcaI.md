@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,340 likes - 60 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,395 likes - 60 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 36 | [Ashes](https://open.spotify.com/track/2ruTSgMeznXTUP1mxLk7cv) | [Sounds & Sequences](https://open.spotify.com/artist/2117ihAoWRaE1nOF5K4us7) | [Program](https://open.spotify.com/album/6yvfUF23AlzHJEiUkX023P) | 11:56 |
 | 37 | [Orbiting](https://open.spotify.com/track/1fVSqMZPCjxVv8iqyo9kMm) | [Douala](https://open.spotify.com/artist/2iWOFT9U8InefnarwZUmv0) | [Recit De Voyage 2](https://open.spotify.com/album/46gTZslnW4cfnpggpvdWRT) | 7:33 |
 | 38 | [Jazire \- Isolée Remix](https://open.spotify.com/track/5OVNeHoQKR32qt645sj4v2) | [Amberoom](https://open.spotify.com/artist/6ZOpAQ5JTszY6FRaelMY2t), [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Jazire EP](https://open.spotify.com/album/0akpmGZacwrDnSBh4ppapp) | 7:49 |
-| 39 | [Meteor](https://open.spotify.com/track/5aN2zNWyY6CICaU6G1hLSJ) | [Guzz \(Arg\)](https://open.spotify.com/artist/0jkpnPQWoP6kEGPrijuQHF) | [Legacy Volume 1](https://open.spotify.com/album/2FrO5t37vwxBNXgh3zguDM) | 5:20 |
+| 39 | [Meteor](https://open.spotify.com/track/5aN2zNWyY6CICaU6G1hLSJ) | [Guzz \(Arg\)](https://open.spotify.com/artist/1iI9I5UokB8cWDnK5GbHBn) | [Legacy Volume 1](https://open.spotify.com/album/2FrO5t37vwxBNXgh3zguDM) | 5:20 |
 | 40 | [Spring Will Come and We Will Open the Windows](https://open.spotify.com/track/3U4HbEVFnO9jq8qQF780ox) | [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [A Touch of Seafields](https://open.spotify.com/album/7KB3Lic993iqXlCu3deMXb) | 10:06 |
 | 41 | [We Out Here](https://open.spotify.com/track/1RCHyoaZY2dQ2LmHUobHvM) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Karma Baby EP](https://open.spotify.com/album/2EL95PlWudjVVnpnd9UOi1) | 7:12 |
 | 42 | [Deep In Dub \- Zzzzra Minimal Techno Mix](https://open.spotify.com/track/0pfmRTCjCfZKn53A5HUPVc) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Deeplife Selection 01](https://open.spotify.com/album/6W5pFubOmnJjE2zexYlhbd) | 7:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 59 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 |
 | 60 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
 
-Snapshot ID: `MCw3NjhhMGM1MjRiMjEwZDU2ZGU4NmVkYjUzNTNjMDk4ODFhOGYwNTJh`
+Snapshot ID: `MCw4OTE2N2I4NDc4ZmUxZjAzMjNkYjY5ZjdkZmQyNmM5NjJhNmRiYzdh`

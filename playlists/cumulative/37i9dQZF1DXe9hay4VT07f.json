@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 294373,
       "name": "21 Seconds - 12\" Version",
       "url": "https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4"
@@ -1426,6 +1426,28 @@
       "duration_ms": 226400,
       "name": "Give Me the Light",
       "url": "https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9"
+    },
+    {
+      "album": {
+        "name": "Glock 40",
+        "url": "https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136323,
+      "name": "Glock 40",
+      "url": "https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ"
     },
     {
       "album": {

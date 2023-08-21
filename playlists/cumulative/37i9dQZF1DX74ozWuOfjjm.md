@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Angie McMahon
 
-454 songs - 1 day 0 hr 31 min
+455 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Headroom](https://open.spotify.com/track/60H0HIt7mIPD3dZnlOCc97) | [Micra](https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK) | [Headroom](https://open.spotify.com/album/2pE7v0KHgpvx2ss1ggtbDF) | 3:55 | 2022-04-05 | 2022-10-03 |
 | [Healed](https://open.spotify.com/track/25aXkVesKv9EZKHfZQ29PZ) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Healed](https://open.spotify.com/album/3qRbOKBRvy4YhOW4aemjTk) | 3:19 | 2023-06-30 |  |
 | [heart attack](https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [heart attack](https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by) | 3:02 | 2022-12-31 |  |
-| [Heartbreak Baby](https://open.spotify.com/track/0pnLKuTr9dt1442AiXcn3K) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartbreak Baby](https://open.spotify.com/album/6Fd84hpMmLeOsrngWNKW1L) | 3:37 | 2023-05-31 |  |
+| [Heartbreak Baby](https://open.spotify.com/track/0pnLKuTr9dt1442AiXcn3K) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartbreak Baby](https://open.spotify.com/album/6Fd84hpMmLeOsrngWNKW1L) | 3:37 | 2023-05-31 | 2023-08-21 |
+| [Heartbreak Baby](https://open.spotify.com/track/6EfhY8vZYt027wQkz6dTaS) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/0JgrsEfBVs4xoD6O5YVaQR) | 3:37 | 2023-08-15 |  |
 | [Heaven](https://open.spotify.com/track/6zTKXx4SE7FjwWx7CAzArx) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr) | [Coming In From The Dark](https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq) | 3:28 | 2022-02-03 | 2022-04-06 |
 | [Heavy](https://open.spotify.com/track/70f71uZ7egz2Vshwx4D425) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Heavy](https://open.spotify.com/album/2ycoGTMxZ684swkDhzgv4s) | 2:52 | 2022-02-03 | 2022-03-02 |
 | [Hey](https://open.spotify.com/track/5MzllEBNIrtgFbBdMS3s7C) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Player](https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx) | 3:08 | 2022-10-31 | 2023-05-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > The latest releases in Rock, updated weekly\. Cover: MONOWHALES
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,482 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,486 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Lost](https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [Lost](https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O) | 3:25 |
 | 100 | [Celebration](https://open.spotify.com/track/0Xlu5BC1DjXWkqYWCV9dI7) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Celebration](https://open.spotify.com/album/77MiW4JNal4KdTTI0VDWBI) | 3:31 |
 
-Snapshot ID: `MCw1NjU0ZDZjZGQ2Zjc3ZTY4MjZmZTJkNzBkMjkxYmM5ZWVjMjUzMmRm`
+Snapshot ID: `MCwyNzJiNjUyYmY0MDAwNjJlYTAxYmFiYTBhM2IzNWRlZmVkMmQxYzRh`

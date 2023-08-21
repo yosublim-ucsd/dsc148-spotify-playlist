@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-198 songs - 12 hr 0 min
+199 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Help Me](https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 3:08 | 2022-07-08 |  |
 | [Help Me](https://open.spotify.com/track/0reXR4LnjbkmgJu5gNcF6t) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [His Best](https://open.spotify.com/album/3zDQRzZI2ZbCTGU7pYABj5) | 3:11 | 2022-05-25 | 2022-07-15 |
 | [Help Me](https://open.spotify.com/track/6LfPMqwKz9h4Vs3Lf2hMDz) | [Sudsy Mcgee](https://open.spotify.com/artist/6oDhTADY9Px7WgDwXskAF1) | [Help Me](https://open.spotify.com/album/2jmS1jYAeh5mpl7DSfZS0B) | 4:09 | 2023-08-10 |  |
-| [High Fever Blues](https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH) | [The Jujubes](https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN) | [Raging Moon](https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy) | 5:39 | 2023-01-20 |  |
+| [High Fever Blues](https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH) | [The Jujubes](https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN) | [Raging Moon](https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy) | 5:39 | 2023-01-20 | 2023-08-21 |
 | [Homecookin' Mama](https://open.spotify.com/track/5UYCzsjfLS29GfWlccU0yQ) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Homecookin' Mama](https://open.spotify.com/album/6kw3VuKvowP7pjnfBSwWkD) | 3:00 | 2023-01-20 |  |
 | [I Can Feel You Smiling](https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: IV\. Farewell](https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x) | 3:47 | 2022-09-12 |  |
 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 | 2022-07-08 |  |
@@ -182,6 +182,7 @@
 | [Sweet Little Angel](https://open.spotify.com/track/5OKOMO49kNKx3QfJEgNEnF) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball And Chain](https://open.spotify.com/album/2AOVcou4z2NUEEJ8p36eje) | 5:30 | 2022-05-25 | 2022-07-29 |
 | [Sweet Thang](https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 4:12 | 2022-05-25 |  |
 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/0ldxVkKiyazLlHc6lWR10n) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [The Ballad of John Howard Griffin](https://open.spotify.com/album/29IVT0NuqSjjXKbvShXQH6) | 5:16 | 2023-02-24 | 2023-03-27 |
+| [The Difference](https://open.spotify.com/track/6zzZZJHUu54U93xTJ0FBYj) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Difference](https://open.spotify.com/album/0dljYSROOElwPmv67IgAbH) | 3:28 | 2023-08-18 |  |
 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 | 2022-09-20 |  |
 | [The Fools Gold Blues \- Stripped Back](https://open.spotify.com/track/3X5QEkIW5e38ByxavuR0sV) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [All The Bad Things \(Stripped Back\)](https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4) | 2:18 | 2023-05-22 |  |
 | [The Moon Is Rising](https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:44 | 2022-07-01 |  |

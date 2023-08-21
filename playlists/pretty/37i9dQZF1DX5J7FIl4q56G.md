@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,124 likes - 84 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,308 likes - 84 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 83 | [The Human Plague](https://open.spotify.com/track/5jPIKBIeRrsOMJfkArAv7w) | [Dead Talks](https://open.spotify.com/artist/6cGK6iUdBgzinU92vsbCLS) | [Veneration of the Dead](https://open.spotify.com/album/1Wj1qXc0DQlgxOlWetzDhq) | 4:12 |
 | 84 | [Veil of Sanity](https://open.spotify.com/track/3FgF50tuRV8Cp0OLwXMjfW) | [A Goat As Our Shepherd](https://open.spotify.com/artist/3uY2OWm0SxXkay5taEJG3V) | [Veil of Sanity](https://open.spotify.com/album/3iH0avGtUCzeVo7inilWeq) | 3:55 |
 
-Snapshot ID: `MCxiMjU2MTZiZDE0NGQyNjgzOWI1OTRmOWZiMDhiZDY5M2UyMzNiZmM0`
+Snapshot ID: `MCw2NTc5NTIzMjdmMWZiZTM4OWE1NGQ1YmM0MWE2NDkxM2Y2NWNiYWRh`

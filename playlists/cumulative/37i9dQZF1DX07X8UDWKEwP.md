@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Maffio & Christian Alicea
 
-300 songs - 17 hr 43 min
+301 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 | 2022-06-29 | 2023-01-28 |
 | [La Culpa](https://open.spotify.com/track/5OkBHe7uEoC03x7x4sckQG) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [La Culpa](https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR) | 3:24 | 2022-07-19 | 2023-01-24 |
 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 | 2023-01-20 | 2023-06-10 |
-| [La Despedida](https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [La Despedida](https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2) | 3:20 | 2023-04-21 |  |
+| [La Despedida](https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [La Despedida](https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2) | 3:20 | 2023-04-21 | 2023-08-21 |
 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 | 2023-06-02 |  |
 | [La Foto Se Me Borró \- Bachata](https://open.spotify.com/track/7lQXFaerELCnqOWIk1VxGk) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Ryan Milo](https://open.spotify.com/artist/76X8Z4o3DI4rr5GCmzg9ap) | [Regresó el Jefe 2.0](https://open.spotify.com/album/7D21gZNHtQdIlc3pFotIiO) | 3:45 | 2022-01-01 | 2022-06-30 |
 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-03 |  |
@@ -172,6 +172,7 @@
 | [Mi Corazón \- Remix](https://open.spotify.com/track/3KglN5BWos8EXnBluIgcLN) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Mi Corazón \(Remix\)](https://open.spotify.com/album/5wq2L0PiFWKqno6eQuWeB8) | 5:11 | 2022-01-01 | 2022-01-28 |
 | [Mi Enemigo El Amor](https://open.spotify.com/track/4Nh7LF0TCmRXmOU5JEeyno) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Mi Enemigo El Amor](https://open.spotify.com/album/2jhaUhXgMnjpXiWCyNFLoC) | 4:01 | 2022-06-29 | 2023-01-14 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-11 |  |
+| [MI HOGAR \(with maye\)](https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:55 | 2023-08-18 |  |
 | [Mi Mejor Amiga](https://open.spotify.com/track/6vfYlNM2xvoE81qV5C0cqW) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX) | [Mi Mejor Amiga](https://open.spotify.com/album/25tzyzIX2g6Zo1bMVhNS9C) | 4:06 | 2022-03-25 | 2022-06-30 |
 | [Mi Mundo Entero](https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Mundo Entero](https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw) | 2:38 | 2022-02-11 | 2023-03-25 |
 | [Mi Otra Mitad](https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Mi Otra Mitad](https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM) | 4:14 | 2023-03-24 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-736 songs - 1 day 12 hr 59 min
+737 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-15 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-10-24 |
 | [LE CANE](https://open.spotify.com/track/03S0moTUyxwtznCNWOreb4) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [LE CANE](https://open.spotify.com/album/6xdKUwHPi18XDPbymocoVM) | 4:16 | 2021-07-18 | 2021-10-24 |
-| [LELELE](https://open.spotify.com/track/0GacjftLDThkCn0kMJETNh) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [LELELE](https://open.spotify.com/album/280tzkxAqhjDejY78x31ZX) | 2:38 | 2023-08-19 |  |
+| [LELELE](https://open.spotify.com/track/0GacjftLDThkCn0kMJETNh) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [LELELE](https://open.spotify.com/album/280tzkxAqhjDejY78x31ZX) | 2:38 | 2023-08-19 | 2023-08-21 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-05-06 | 2021-07-22 |
 | [Leyla Mecnun](https://open.spotify.com/track/35R8t7HRKv0r3aFAIbzT0q) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Leyla Mecnun](https://open.spotify.com/album/1gYeqch4zMFRrxuYFfN3js) | 2:19 | 2021-07-13 | 2021-09-25 |
 | [Leylim Yar](https://open.spotify.com/track/26uWcQnnhCXzkjM7OqVFlj) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Leylim Yar](https://open.spotify.com/album/4fHmkc1XqsWmUQrT8Wd0qs) | 2:43 | 2022-03-12 | 2022-10-01 |
@@ -574,7 +574,7 @@
 | [Sahibinden](https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Sahibinden](https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z) | 2:03 | 2023-03-25 | 2023-03-27 |
 | [Sakatat](https://open.spotify.com/track/1r56JjG9mRobTXWfb7UGvO) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Sakatat](https://open.spotify.com/album/775yVS4bLXoaJj1TiaxD66) | 2:36 | 2021-04-04 | 2021-07-05 |
 | [SAKIN OLA](https://open.spotify.com/track/1pDtgy08kaciI0c9z52Udt) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [SAKIN OLA](https://open.spotify.com/album/2CHcRXtH2WK6TcPHpoaP1G) | 2:47 | 2021-10-24 | 2021-11-14 |
-| [Sakladığın Bir Şeyler Var](https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sakladığın Bir Şeyler Var](https://open.spotify.com/album/4Q9gbvetq0DATn0W7OIfZ8) | 3:16 | 2022-10-17 |  |
+| [Sakladığın Bir Şeyler Var](https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sakladığın Bir Şeyler Var](https://open.spotify.com/album/4Q9gbvetq0DATn0W7OIfZ8) | 3:16 | 2022-10-17 | 2023-08-21 |
 | [SALAH](https://open.spotify.com/track/1hoI5KrTn5aEyBZJnVwdr0) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [SALAH](https://open.spotify.com/album/69JpxQN95CyG5gX6zdN2PE) | 2:01 | 2021-10-03 | 2021-10-04 |
 | [Salam Alaykum](https://open.spotify.com/track/69YWQXUtlAlir0zRcFrPyr) | [Hypzex](https://open.spotify.com/artist/42jeWT1YU3yKejPa704z25), [RECO](https://open.spotify.com/artist/6W9GklXF52RYMTtbPbty7q) | [Salam Alaykum](https://open.spotify.com/album/2cp6COEaiPoaNQzDmQNzLO) | 2:36 | 2021-04-26 | 2021-06-14 |
 | [Sallan](https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [Sallan](https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh) | 3:15 | 2021-03-27\* | 2021-05-23 |
@@ -654,7 +654,8 @@
 | [TURKISH BOY](https://open.spotify.com/track/1Lk1gfIzJF5RyhyCkHUWEG) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [LEVO](https://open.spotify.com/artist/4VkQs39IBA4Af9gaqMskcK) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:22 | 2022-09-10 | 2022-09-12 |
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2022-11-05 | 2022-11-07 |
 | [Tutsak](https://open.spotify.com/track/33eHMRTXayncWkfj72BI3U) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Tutsak](https://open.spotify.com/album/5HpUVb0Hodj7W7RJqF9LIK) | 3:02 | 2022-04-30 | 2022-10-16 |
-| [Tövbe](https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Tövbe](https://open.spotify.com/album/27Wl0Q1RGlcHVgMgikuZrR) | 3:12 | 2023-07-25 | 2023-08-20 |
+| [Tutun Sen Bana](https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [KADER SK.](https://open.spotify.com/album/2U3BMQ4x81ZIyyrxLcBa9P) | 2:43 | 2023-08-20 |  |
+| [Tövbe](https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Tövbe](https://open.spotify.com/album/27Wl0Q1RGlcHVgMgikuZrR) | 3:12 | 2023-07-25 |  |
 | [Umrumda Değil](https://open.spotify.com/track/72t3CRd8YEFrlc3x0OVaob) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:05 | 2021-03-27\* | 2022-06-03 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-04 | 2022-11-25 |
 | [Unutmak Öyle Kolay Mı Sandın](https://open.spotify.com/track/2Pe8d9oClBgLkkz2N35AiN) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Unutmak Öyle Kolay Mı Sandın](https://open.spotify.com/album/1aa3sNKu8ulpGRTBVl2ck2) | 2:24 | 2022-08-26 | 2023-07-30 |

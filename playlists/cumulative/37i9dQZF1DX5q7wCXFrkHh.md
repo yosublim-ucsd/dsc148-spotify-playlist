@@ -4,7 +4,7 @@
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-207 songs - 18 hr 24 min
+208 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Dat Dere](https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 5:24 | 2022-08-17 |  |
 | [Dawn Mist](https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb) | [Freddie Redd](https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV) | [Fishin' In Stockholm](https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21) | 2:51 | 2022-05-13 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/521qezMfJ71NGibQanQvvN) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 2:40 | 2022-05-13 | 2022-10-01 |
+| [Days Of Wine And Roses](https://open.spotify.com/track/35OwBJaBTm1PwvzijDVlNs) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Legendary Recordings](https://open.spotify.com/album/2UR3YTGu7pUAvoLSdikGne) | 2:42 | 2023-08-16 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/3pJVi6t0Afe4JGzgR7Q2xJ) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz Volume: Oscar Peterson](https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ) | 2:42 | 2022-10-07 | 2023-01-09 |
 | [Days Of Wine And Roses](https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 2:42 | 2022-09-21 | 2023-08-14 |
 | [Days Of Wine And Roses](https://open.spotify.com/track/37x5B9xv1QVF4WAY6vtKV0) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 2:43 | 2022-05-13 | 2022-07-29 |
@@ -84,7 +85,7 @@
 | [High Wire](https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Ready Take One](https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM) | 3:47 | 2022-05-13 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/0EYRLGRgsgnKetAVziaaLT) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa) | [If You Got To Ask, You Ain't Got It!](https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB) | 2:38 | 2022-05-13 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/3effiLoXVfGDbAXEn7vfxz) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa) | [RCA Original Masters](https://open.spotify.com/album/3hGOdVGnUJPJfAJJOi1ADF) | 2:38 | 2022-05-13 | 2022-07-29 |
-| [Hot Sauce](https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza) | [Elmo Hope Trio](https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft) | [Trio And Quintet](https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe) | 3:53 | 2022-05-13 |  |
+| [Hot Sauce](https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza) | [Elmo Hope Trio](https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft) | [Trio And Quintet](https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe) | 3:53 | 2022-05-13 | 2023-08-21 |
 | [How Deep Is The Ocean](https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 3:33 | 2022-05-13 |  |
 | [How High The Moon](https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn) | [Hank Jones Trio](https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U) | [The Trio](https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx) | 6:03 | 2022-05-13 |  |
 | [How Long Has This Been Going On? \- Instrumental](https://open.spotify.com/track/1pRlbZOrK4SzYLqOKxvgZY) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [The Cats](https://open.spotify.com/album/7aW9SO9EQ569LB2SwpaIYQ) | 5:55 | 2022-05-13 | 2022-10-08 |

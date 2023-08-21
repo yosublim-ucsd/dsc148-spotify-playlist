@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 星野源 \*👉 <a href="https://spice.eplus.jp/articles/321161?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,805 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,820 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [誰かの肩](https://open.spotify.com/track/7x467PNoX5oTgYfMBKg5Qf) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [おひとりさま天国 \(Special Edition\)](https://open.spotify.com/album/59S4WhSLhyg2BmhDmKHsMN) | 5:33 |
 | 70 | [常夏プラネット](https://open.spotify.com/track/5gruonMxv9H4daLdjmLr63) | [BiTE A SHOCK](https://open.spotify.com/artist/55rmIlUIdsNkX7d6GkZdXL) | [常夏プラネット](https://open.spotify.com/album/5PqgpPdTjU6WyVEsLGGSIu) | 3:05 |
 
-Snapshot ID: `MCxjMzkzOGZmNzc1YTE0YTE5ZjliNDFkMzlmNzI3MzRlZmMzY2UwZmM0`
+Snapshot ID: `MCxmNzc5MDFjZjlhYzRkMTBiNTlkNDc0NjA0ZjQ0YzQ0YWViMzBkYTE4`

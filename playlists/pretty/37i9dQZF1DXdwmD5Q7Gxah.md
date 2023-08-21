@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > have u heard \- mac demarco uses spotify\. cover: mac x eydress \#macdress
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,390 likes - 113 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,537 likes - 113 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 112 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 |
 | 113 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 
-Snapshot ID: `MCxlNDI5NDJlMWJiOTZlYzY4NDNjNGY2YjM0ZDEyMDA3NWU3MzUxOGQ3`
+Snapshot ID: `MCwzNWYzZTE5NDg2YmE5OGMzZDkzZTdhNjYzNWVhNGJlYWRiY2Q2MmFj`

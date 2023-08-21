@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,114 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,133 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 79 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 |
 | 80 | [Atmosphere](https://open.spotify.com/track/5RLXorPT049PXrZhVUS7RK) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Atmosphere](https://open.spotify.com/album/03fvTmdZAQc5UO9ddnLf82) | 3:14 |
 
-Snapshot ID: `MCxiOTYxMDk0NDNjNDE2YzBlMjJlOWQyOTExMWQxYzg2NDdlMDEwZDdl`
+Snapshot ID: `MCw5YjgzYzBkNTZiY2I1MWViMDYyYzE3YjhjYjhkMzk0M2NjMzQ0MmM3`

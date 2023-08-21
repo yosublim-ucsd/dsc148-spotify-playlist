@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-256 songs - 15 hr 27 min
+257 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Down With You](https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT) | 3:30 | 2022-08-05 | 2022-11-12 |
 | [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 | 2022-09-30 |  |
 | [Drifting In Out of Time](https://open.spotify.com/track/1P69oceVUgEEKO5TBKM7kn) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:15 | 2021-12-10 | 2023-07-29 |
-| [Drunk Texter \(with HIRIE\)](https://open.spotify.com/track/1ERbq9x1ozTWRIxWqnesaB) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Drunk Texter \(with HIRIE\)](https://open.spotify.com/album/45zHAO1NXFOL5TT0OnlRYq) | 3:37 | 2023-07-28 |  |
+| [Drunk Texter \(with HIRIE\)](https://open.spotify.com/track/1ERbq9x1ozTWRIxWqnesaB) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Drunk Texter \(with HIRIE\)](https://open.spotify.com/album/45zHAO1NXFOL5TT0OnlRYq) | 3:37 | 2023-07-28 | 2023-08-21 |
 | [Earthquake Weather](https://open.spotify.com/track/5E4fq3FNmrqj9pQlD4zbrt) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Earthquake Weather](https://open.spotify.com/album/4nzGzHJW8frtilga4igCH4) | 3:25 | 2021-12-10 | 2022-07-29 |
 | [Edge of the Ocean](https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Edge of the Ocean](https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1) | 4:55 | 2022-08-15 |  |
 | [Endless Summer](https://open.spotify.com/track/3pQpVawEKfVPBwj8RDdgfD) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Endless Summer](https://open.spotify.com/album/2FWsrjGA1kLgzNURoAGX5E) | 3:25 | 2023-07-28 |  |
@@ -261,6 +261,7 @@
 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 | 2021-12-10 |  |
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2022-07-06 |  |
 | [Where's The Love](https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Trevor Hall](https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn) | 3:59 | 2021-12-10 |  |
+| [Wicked Game](https://open.spotify.com/track/588pbWob0xei2cCO4GyIT9) | [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9) | [Pleasure Point](https://open.spotify.com/album/4z39wv4tx29BalyKnsy54i) | 3:52 | 2023-07-28 |  |
 | [Words As Weapons](https://open.spotify.com/track/5bOo03qfadhiJz8yroH3aN) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Departure](https://open.spotify.com/album/4HpqV8YH4vqpn24vKwZyzo) | 3:18 | 2021-12-10 | 2022-06-23 |
 | [Work That We Do](https://open.spotify.com/track/16yxo4Dq5hMohINfjX7DGz) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Work That We Do](https://open.spotify.com/album/3C1lw128oB4uQjuFcEQlaj) | 2:46 | 2021-12-10 | 2022-07-29 |
 | [You're Right Here](https://open.spotify.com/track/3M9jPmPtMJPiJEEVBltsvu) | [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9) | [You're Right Here](https://open.spotify.com/album/0PRnfs64LfGF38AOplbVSU) | 4:35 | 2021-12-10 | 2022-07-29 |

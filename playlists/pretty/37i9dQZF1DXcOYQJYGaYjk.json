@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 224036,
+  "num_followers": 224035,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzExZjFhNjIzYzZlNzkwYjFlYTkyZWMzNmMyM2I5ODM2YjNiZDlj",
+  "snapshot_id": "MCxkNjgwYzU0MDIzNTBmMjM0ZTVmZmFiNGQ2NDE5ZWU3NGRiY2RlOGVl",
   "tracks": [
     {
       "added_at": "2022-12-15 16:14:29",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209703,
-      "name": "Sham Pain",
-      "url": "https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 242066,
       "name": "The Sinner",
       "url": "https://open.spotify.com/track/4SAeLRKTvdvEKUvpYIoBzT"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 210406,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"
     }
   ],
   "unique_name": "Heavy Gamers",

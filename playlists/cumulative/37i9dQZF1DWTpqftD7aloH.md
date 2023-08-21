@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-205 songs - 19 hr 22 min
+206 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH) | 6:26 | 2023-02-10 | 2023-02-25 |
 | [Começo, Meio e Fim / Mais Perto Quero Estar \- Ao Vivo](https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Começo, Meio e Fim / Mais Perto Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E) | 5:37 | 2022-09-09 |  |
 | [Comigo Estás \- Ao Vivo](https://open.spotify.com/track/2eDcy7W8SCXkfe8IxdNu28) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Comigo Estás \(Ao Vivo\)](https://open.spotify.com/album/140QPFhB1nbMMbpW5jHXvn) | 4:49 | 2023-03-24 | 2023-04-16 |
-| [Como Será O Amanhã](https://open.spotify.com/track/6pn1RvIvRxkRbnNXQuXvBJ) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Como Será O Amanhã](https://open.spotify.com/album/7GEV5TiNIQoN9aKNKR8OjB) | 3:16 | 2023-06-23 |  |
+| [Como Será O Amanhã](https://open.spotify.com/track/6pn1RvIvRxkRbnNXQuXvBJ) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Como Será O Amanhã](https://open.spotify.com/album/7GEV5TiNIQoN9aKNKR8OjB) | 3:16 | 2023-06-23 | 2023-08-21 |
 | [Conquistando o Impossível](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) | [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Conquistando O Impossível](https://open.spotify.com/album/1oqWPqtbHvtiP4o8EmxQ9y) | 4:28 | 2023-02-17 |  |
 | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/track/3yMXARmXJgM6c0sYrtLJDk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/album/02EClmGIfQz1LDlAw8XEER) | 4:49 | 2023-01-14 | 2023-01-21 |
 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2022-09-09 | 2023-01-14 |
@@ -64,6 +64,7 @@
 | [Esperança \- Ao Vivo](https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO) | 5:19 | 2022-09-09 | 2023-07-08 |
 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 | 2022-11-04 |  |
 | [Espírito, Enche A Minha Vida / Ao Único](https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:36 | 2022-09-09 | 2023-06-24 |
+| [Estremece a Terra](https://open.spotify.com/track/4dAXUOXLtF5Tj5BQZ65zug) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [ASSIM SEJA](https://open.spotify.com/album/7Bel1Ka4jSYFXlckOLJFsu) | 6:02 | 2023-08-18 |  |
 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 | 2022-09-09 |  |
 | [Eu Sei](https://open.spotify.com/track/0IQPqr6gEgoG5Oe6c5vYDI) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ) | [Eu Sei](https://open.spotify.com/album/6fPFKEvTXKwlFcf8x2JbWB) | 9:05 | 2023-02-17 | 2023-03-04 |
 | [Eu Te Agradeço \(feat\. Israel Salazar\) \- Ao Vivo](https://open.spotify.com/track/0qdMGjFLPHsPq973VKV6Xr) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 5:32 | 2023-07-14 |  |

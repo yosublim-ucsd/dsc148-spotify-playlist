@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 184211,
+  "num_followers": 184483,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWFjNDY1M2I2MzdhNDhjZTJiN2ZmNzg1NzdhODgxMjcwOGQ2ZmRi",
+  "snapshot_id": "MCwyN2U1ZjU4NGE4NjhhODg3NjZmNWZkMzI5N2E1N2NkMjNhZDUwMjE2",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -439,6 +439,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Presentando a La Orquesta Cuerdas y Metales",
+        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Cuerdas Y Metales",
+          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Integral",
         "url": "https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 692373,
       "name": "Rodrigo: Concierto De Aranjuez: 2. Adagio",
       "url": "https://open.spotify.com/track/1XgTqDYeR2L4AWObBUu5rC"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a La Orquesta Cuerdas y Metales",
-        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Cuerdas Y Metales",
-          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Music To Watch Girls By",
-        "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 111026,
-      "name": "Music to Watch Girls By",
-      "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 215986,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/1rshuebpBibATjY7UtHolH"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Music To Watch Girls By",
+        "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 111026,
+      "name": "Music to Watch Girls By",
+      "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
-      },
-      "artists": [
-        {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
-        }
-      ],
-      "duration_ms": 353680,
-      "name": "Lluvia de Primavera",
-      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 260200,
       "name": "Lily Was Here (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+      },
+      "artists": [
+        {
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+        }
+      ],
+      "duration_ms": 353680,
+      "name": "Lluvia de Primavera",
+      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -975,22 +975,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Paul Mauriat",
-          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
-        }
-      ],
-      "duration_ms": 145680,
-      "name": "Love In Every Room",
-      "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Presentando a La Orquesta Cuerdas y Metales",
         "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 189346,
       "name": "Im\u00e1genes",
       "url": "https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Paul Mauriat",
+          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Love In Every Room",
+      "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
-        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Never On Sunday",
-      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Boleros Bonitos",
         "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 169773,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
+        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1195,22 +1195,6 @@
       "duration_ms": 121333,
       "name": "Billy Jack's Theme",
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1307,6 +1291,22 @@
       "duration_ms": 170333,
       "name": "L'Incontro - 1M1",
       "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rain Forest",
-        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
-      },
-      "artists": [
-        {
-          "name": "Walter Wanderley",
-          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Le Cin\u00e9ma De Francis Lai",
         "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 206266,
       "name": "Bilitis",
       "url": "https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Rain Forest",
+        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
+      },
+      "artists": [
+        {
+          "name": "Walter Wanderley",
+          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
     },
     {
       "added_at": "2020-12-08 19:02:01",

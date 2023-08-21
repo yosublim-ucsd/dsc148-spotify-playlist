@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Gaab",
-  "num_followers": 162398,
+  "num_followers": 162411,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWVhMmY2MWEzMjdlYzNkNTRjYTBlNTMzYzc5NzYyMDA4Y2Q3ZTNl",
+  "snapshot_id": "MCw5ZjIxZTVkODU1YjFkNjgwNTg1ZDc2NDkzZjc1ZTU1ZTcyMjAwY2Mw",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Sinal",
+        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Play, Som e Sexo",
         "url": "https://open.spotify.com/album/5OmfAGtJ4AmzjaaDU1ObQL"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 176000,
       "name": "Baby Quando Voc\u00ea Desce",
       "url": "https://open.spotify.com/track/21VJSpzpv7swj87x8bYSQd"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Sinal",
-        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Sinal",
-      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Localiza\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Localiza\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Ch\u00e1zinho",
         "url": "https://open.spotify.com/album/79mcJaBbFTsuDkOhOmFca6"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 195291,
       "name": "Ch\u00e1zinho",
       "url": "https://open.spotify.com/track/65NHHBrdCc5PuZkSFyICC2"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Localiza\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Localiza\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -607,6 +607,26 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -631,26 +651,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 184489,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -683,22 +699,6 @@
       "duration_ms": 222368,
       "name": "Muito Sou(L)",
       "url": "https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
-      },
-      "artists": [
-        {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
+      },
+      "artists": [
+        {
+          "name": "Yuri Fernandes",
+          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
+        }
+      ],
+      "duration_ms": 215094,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Real (Citando Djonga)",
         "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
       },
@@ -1095,42 +1111,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Vers\u00e3o Beta",
-        "url": "https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "PNDA",
-          "url": "https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI"
-        }
-      ],
-      "duration_ms": 133825,
-      "name": "Vers\u00e3o Beta",
-      "url": "https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Reprise",
-        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
-      },
-      "artists": [
-        {
-          "name": "Yuri Fernandes",
-          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
-        }
-      ],
-      "duration_ms": 215094,
-      "name": "Reprise",
-      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Mais Um Pouco",
         "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Vers\u00e3o Beta",
+        "url": "https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "PNDA",
+          "url": "https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI"
+        }
+      ],
+      "duration_ms": 133825,
+      "name": "Vers\u00e3o Beta",
+      "url": "https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw"
     },
     {
       "added_at": "2023-08-18 03:01:00",

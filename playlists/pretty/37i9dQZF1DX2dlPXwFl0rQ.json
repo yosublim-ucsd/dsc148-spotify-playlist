@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Ana B\u00e1rbara en portada.",
-  "num_followers": 92792,
+  "num_followers": 92877,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2U4MDEyYjdlNWE5NGY5ZmY1OWRiNTFlN2E1ZmE5MmYxZmQ0MmI2",
+  "snapshot_id": "MCwwM2ZmYTgwNTlmNGViYmE0ODNhM2Y4NDIzYjFhM2YxZjhlM2JjNmMz",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Vida Prestada",
-        "url": "https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 194739,
-      "name": "Vida Prestada",
-      "url": "https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "Soy de Parral",
         "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 205825,
       "name": "Soy de Parral",
       "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Vida Prestada",
+        "url": "https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 194739,
+      "name": "Vida Prestada",
+      "url": "https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "As\u00ed Nom\u00e1s",
         "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 191028,
       "name": "As\u00ed Nom\u00e1s",
       "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1447,42 +1447,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "En Vivo: Irene del Rosario",
-        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 214414,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
-        "name": "La Gitanilla",
-        "url": "https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA"
-      },
-      "artists": [
-        {
-          "name": "Dueto Eleval",
-          "url": "https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK"
-        },
-        {
-          "name": "Banda las Angelinas",
-          "url": "https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "La Gitanilla",
-      "url": "https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
       },
@@ -1503,6 +1467,22 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
+        "name": "En Vivo: Irene del Rosario",
+        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 214414,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
         "name": "No Te Fui Suficiente",
         "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 278666,
       "name": "No Te Fui Suficiente",
       "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "La Gitanilla",
+        "url": "https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA"
+      },
+      "artists": [
+        {
+          "name": "Dueto Eleval",
+          "url": "https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK"
+        },
+        {
+          "name": "Banda las Angelinas",
+          "url": "https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "La Gitanilla",
+      "url": "https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w"
     },
     {
       "added_at": "2023-07-28 16:33:48",

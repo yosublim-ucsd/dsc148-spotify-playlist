@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Gregory Alan Isakov
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,893 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,031 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 99 | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE) | 5:26 |
 | 100 | [Shinbone](https://open.spotify.com/track/5udxaeL6YV0ToIwekTM4Mt) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [20 Years and a Nickel](https://open.spotify.com/album/02bhRp09k7erA3JsN8BHTz) | 3:46 |
 | 101 | [Honey](https://open.spotify.com/track/7KXox0OtaeI7iAadPc2dEw) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX), [Jacob Sharp](https://open.spotify.com/artist/7rAqCeLrJNATPpQ0uc3Y4S) | [Honey](https://open.spotify.com/album/7CVVXHlbXtVb4AZnjVPulD) | 4:13 |
-| 102 | [Memories](https://open.spotify.com/track/7raFiiAe2tfVTq4fCKhIhE) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Memories](https://open.spotify.com/album/7j4ymmtwxJP6icpbkWwYBh) | 4:13 |
+| 102 | [Memories](https://open.spotify.com/track/68VZQ9Wcl3tV8ExIyxbNzZ) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Echo The Diamond](https://open.spotify.com/album/4Mal9r2lPvrzpsWstauX32) | 4:13 |
 | 103 | [The Scull of Lucia](https://open.spotify.com/track/20bC86TdhHky8j8dkjVmpH) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [The Scull of Lucia](https://open.spotify.com/album/5RGqrKUuLfcRNMIN6iuBVy) | 4:11 |
 | 104 | [Cover You](https://open.spotify.com/track/2ieUJFsBqyqFY2ve0RuNyl) | [Phillip LaRue](https://open.spotify.com/artist/7gIDHAJ0iFOGSMTiqsNUZT) | [Colors](https://open.spotify.com/album/54czM290XrgPLNKfs5WChy) | 3:14 |
 | 105 | [Together \(In That Way\)](https://open.spotify.com/track/0vlkQBJ7ARny1Q0sS0E79X) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Together \(In That Way\)](https://open.spotify.com/album/2ycFtiwrhuS5D0Fu4vxXaK) | 4:01 |
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 130 | [I've Got Me](https://open.spotify.com/track/3OEkjjCpSSDJKtgCKA7lXx) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/7554UBrWWgTDrFloVXvVCc) | 2:16 |
 | 131 | [Younger](https://open.spotify.com/track/0j00W4ErC8xqB2l0GZQXFI) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:44 |
 | 132 | [too young to die](https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [supernatural thing](https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG) | 4:34 |
-| 133 | [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 |
+| 133 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 |
 | 134 | [Repeat \(If You Remind Me\)](https://open.spotify.com/track/32RZLjdJOaDxZn3ptleU5o) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL) | 4:08 |
 | 135 | [A Turning of the Tide](https://open.spotify.com/track/6Js59cJ15vZab28V8931L1) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [A Turning of the Tide](https://open.spotify.com/album/6yWDqqPbrGvp7KA8MZ16DJ) | 3:39 |
 | 136 | [Miles Away](https://open.spotify.com/track/2GMRJPivUIJiGLkmpWwH2O) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi), [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Miles Away](https://open.spotify.com/album/5TvqtSnghTKtTN42h6AW1N) | 5:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Same Page](https://open.spotify.com/track/39uCoYHGaI6ShUUBfqezNQ) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Same Page](https://open.spotify.com/album/7Hi0hHfhJL4q2g6aCq5b1l) | 3:23 |
 | 150 | [My Old Man](https://open.spotify.com/track/62bQlzpi2X72D59ROPDoAi) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [My Old Man](https://open.spotify.com/album/03JXfzPjyNoCaRNraHdokq) | 3:23 |
 
-Snapshot ID: `MCxkOWExMjVlOGVmOTBhMTIzYWIxNWZlYjMyODE0MWNhNDcyNjQ0ZDEy`
+Snapshot ID: `MCwyNTVhNjQxZjA3ZDE2NjBlNWVmNTYwODIwYjAyYjBhNWMwMmFmOTEy`

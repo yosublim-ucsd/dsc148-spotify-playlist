@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 109820,
+  "num_followers": 110389,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjUzMmEyYWQ4MWUwMGY1YWE4M2Q4MWM3NGE4NGE3ZGM0MzIxN2Fm",
+  "snapshot_id": "MCw3MzU3MWFlMWFhMzAxMzU1MDVkYTQyY2MxYmNhNWUyYWEyNjMzMTNi",
   "tracks": [
     {
       "added_at": "2023-07-14 00:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "where is life?",
-        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
-      },
-      "artists": [
-        {
-          "name": "Sibewest",
-          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "where is life?",
-      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 289592,
       "name": "Still Numbers",
       "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+      },
+      "artists": [
+        {
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Snowa",
-        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
-      },
-      "artists": [
-        {
-          "name": "Slo Mance",
-          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
-        }
-      ],
-      "duration_ms": 260482,
-      "name": "Snowa",
-      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Set the Weather Fair: Seasons",
         "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 396773,
       "name": "Gold of the Azure - Marconi Union Remix",
       "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Snowa",
+        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
+      },
+      "artists": [
+        {
+          "name": "Slo Mance",
+          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
+        }
+      ],
+      "duration_ms": 260482,
+      "name": "Snowa",
+      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Lie Beneath the Stars",
         "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 389530,
       "name": "Lie Beneath the Stars",
       "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "As Bright as the Night",
+      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 70306,
-      "name": "Safn",
-      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Permanently Midnight",
         "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 315284,
       "name": "As I Came Through the Desert Thus It Was",
       "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 70306,
+      "name": "Safn",
+      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
     }
   ],
   "unique_name": "gloomcore",

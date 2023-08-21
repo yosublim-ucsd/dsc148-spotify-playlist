@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 65548,
+  "num_followers": 65594,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjU4YTEwYzllOWZkODBlYjljOGFkMzhlYmJkM2E1MGYyODE5M2Vj",
+  "snapshot_id": "MCw0YmIwNDk4NDYxNzYzYTc5OWRlM2M2ZjBjMDQwMmI5ZDEyYjU2Mzhj",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Bayside",
-        "url": "https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 329037,
-      "name": "Bayside",
-      "url": "https://open.spotify.com/track/7GhnJwfACNTFXOlyByTWtK"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Work It (Soulwax Remix)",
         "url": "https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 286080,
       "name": "Work It - Soulwax Remix",
       "url": "https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Bayside",
+        "url": "https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 329037,
+      "name": "Bayside",
+      "url": "https://open.spotify.com/track/7GhnJwfACNTFXOlyByTWtK"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "No Hay Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
-      },
-      "artists": [
-        {
-          "name": "COCO-PALOMA",
-          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
-        },
-        {
-          "name": "H\u00e9ctor Oaks",
-          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
-        }
-      ],
-      "duration_ms": 423601,
-      "name": "No Hay Ma\u00f1ana - Club Mix",
-      "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Variations",
         "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "No Hay Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
+      },
+      "artists": [
+        {
+          "name": "COCO-PALOMA",
+          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
+        },
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        }
+      ],
+      "duration_ms": 423601,
+      "name": "No Hay Ma\u00f1ana - Club Mix",
+      "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Fuck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
-      },
-      "artists": [
-        {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "Fuck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 321000,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Fuck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
+      },
+      "artists": [
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "Fuck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        }
-      ],
-      "duration_ms": 244499,
-      "name": "The Ghost",
-      "url": "https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "duration_ms": 244499,
+      "name": "The Ghost",
+      "url": "https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "LOFF IS ALL YOU SPEED",
         "url": "https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 183936,
       "name": "LOFF IS ALL YOU SPEED",
       "url": "https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
     },
     {
       "added_at": "2023-07-07 04:00:00",

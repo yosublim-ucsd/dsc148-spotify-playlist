@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Trueno",
-  "num_followers": 484816,
+  "num_followers": 484912,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTNkZDAzNzM5OWY0MmVhMjA3NjFiNmZmZGFlYWMzMjJjNjU0Mzlm",
+  "snapshot_id": "MCwxZmQ4NmYwNDI4MjA3MGM3ZmEzZjI3NGY2ZDQzYjI4NDQ0NzUzZmIw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
-        "url": "https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
-        }
-      ],
-      "duration_ms": 141320,
-      "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
-      "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 349297,
       "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
       "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
+        "url": "https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        }
+      ],
+      "duration_ms": 141320,
+      "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
+      "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Ni\u00f1os Peque\u00f1os",
-        "url": "https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Ni\u00f1os Peque\u00f1os",
-      "url": "https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Que Oso",
         "url": "https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 150259,
       "name": "Que Oso",
       "url": "https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Ni\u00f1os Peque\u00f1os",
+        "url": "https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Ni\u00f1os Peque\u00f1os",
+      "url": "https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "obst\u00e1culo",
-        "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 135704,
-      "name": "obst\u00e1culo",
-      "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Kachipun",
         "url": "https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 168080,
       "name": "Kachipun",
       "url": "https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "obst\u00e1culo",
+        "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 135704,
+      "name": "obst\u00e1culo",
+      "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2483,18 +2483,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Mexicanos Bravos",
-        "url": "https://open.spotify.com/album/3m1UaPJRxE8fDFcZ8u9L4I"
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
       "artists": [
         {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
         }
       ],
-      "duration_ms": 218706,
-      "name": "Mexicanos Bravos",
-      "url": "https://open.spotify.com/track/2jXfyuL0PbApA4GVn6pWhV"
+      "duration_ms": 175208,
+      "name": "Seguimos Controlando",
+      "url": "https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2519,22 +2523,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+        "name": "Mexicanos Bravos",
+        "url": "https://open.spotify.com/album/3m1UaPJRxE8fDFcZ8u9L4I"
       },
       "artists": [
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
         }
       ],
-      "duration_ms": 175208,
-      "name": "Seguimos Controlando",
-      "url": "https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz"
+      "duration_ms": 218706,
+      "name": "Mexicanos Bravos",
+      "url": "https://open.spotify.com/track/2jXfyuL0PbApA4GVn6pWhV"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2555,26 +2555,6 @@
       "duration_ms": 234374,
       "name": "Ta To Saldo",
       "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Sosiego",
-        "url": "https://open.spotify.com/album/3NTgBrqQsM4gmBQG5DHNEQ"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 207619,
-      "name": "Sosiego",
-      "url": "https://open.spotify.com/track/3DCpNEyzKPwF8gWKbwyiEw"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2603,6 +2583,26 @@
       "duration_ms": 330196,
       "name": "Patr\u00f3n",
       "url": "https://open.spotify.com/track/2bE5ZNbhykDaIYqOCH3rQk"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Sosiego",
+        "url": "https://open.spotify.com/album/3NTgBrqQsM4gmBQG5DHNEQ"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 207619,
+      "name": "Sosiego",
+      "url": "https://open.spotify.com/track/3DCpNEyzKPwF8gWKbwyiEw"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2827,38 +2827,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Cu\u00eddate (Me Dijo Mi Ap\u00e1)",
-        "url": "https://open.spotify.com/album/6O9Fp2P3j1iW0B8Fbc331L"
+        "name": "Wassap",
+        "url": "https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Cu\u00eddate (Me Dijo Mi Ap\u00e1)",
-      "url": "https://open.spotify.com/track/53X6Vbh6y13U0NWvFK4ne2"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Tiempos de Lluvia",
-        "url": "https://open.spotify.com/album/5DRUcNEvB5cfiQ0SgPOZ3h"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         },
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 202152,
-      "name": "Tiempos de Lluvia",
-      "url": "https://open.spotify.com/track/1MbknaLa9YLqz4NudTNxuX"
+      "duration_ms": 165482,
+      "name": "Wassap",
+      "url": "https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2911,26 +2895,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Wassap",
-        "url": "https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 165482,
-      "name": "Wassap",
-      "url": "https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "TRIPLE H (REMIX)",
         "url": "https://open.spotify.com/album/6DJhpdquLwZrRQKLAXzOmI"
       },
@@ -2955,6 +2919,42 @@
       "duration_ms": 285986,
       "name": "TRIPLE H - REMIX",
       "url": "https://open.spotify.com/track/308zx3494Sp10C1eBTK3Y6"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Cu\u00eddate (Me Dijo Mi Ap\u00e1)",
+        "url": "https://open.spotify.com/album/6O9Fp2P3j1iW0B8Fbc331L"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Cu\u00eddate (Me Dijo Mi Ap\u00e1)",
+      "url": "https://open.spotify.com/track/53X6Vbh6y13U0NWvFK4ne2"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Tiempos de Lluvia",
+        "url": "https://open.spotify.com/album/5DRUcNEvB5cfiQ0SgPOZ3h"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 202152,
+      "name": "Tiempos de Lluvia",
+      "url": "https://open.spotify.com/track/1MbknaLa9YLqz4NudTNxuX"
     },
     {
       "added_at": "2023-08-18 04:00:00",

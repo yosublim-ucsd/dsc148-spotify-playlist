@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Point North
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,329 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,493 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 149 | [Calm Before The Storm](https://open.spotify.com/track/00pQHFVMLQFxJ5YGJlRwpy) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Calm Before The Storm](https://open.spotify.com/album/7rZYtNrVKMr5wR7e6zH9pa) | 3:47 |
 | 150 | [Terminal](https://open.spotify.com/track/4Z9tWNJocirwz6btdF5Ocq) | [Veio](https://open.spotify.com/artist/3QY5DMEgg7H5EAttsSHSSg) | [Terminal](https://open.spotify.com/album/3f0WYqDiUWm4thElxyEoLG) | 3:40 |
 
-Snapshot ID: `MCw1NWZiZWM5ODMzNDcxZmJkNGI1YjYyZDQ1ZjRmNGVlMWE0NmRiYzU0`
+Snapshot ID: `MCxkYTg5MmE0YjVhMTM3NTkxNTM4MzBlODJiNTI2MjY5NTU2ZDVkMzZi`

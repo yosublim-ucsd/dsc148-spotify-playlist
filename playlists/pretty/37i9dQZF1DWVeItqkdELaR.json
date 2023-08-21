@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 100959,
+  "num_followers": 101155,
   "original_name": "Ver\u00e3o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWMyZDQ2NjM3ZTVmN2NkMDgyMWJjNGJlNTJhM2I3OTAwZGMxNWRi",
+  "snapshot_id": "MCwyZmZlZWRjOGFiNTQ2NzVjNmQyMWU4ZjAzYzk2ZTMzNjYzNDBkY2Q5",
   "tracks": [
     {
       "added_at": "2023-08-10 23:00:00",
@@ -387,6 +387,26 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
         "name": "Duas Tr\u00eas",
         "url": "https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 156942,
       "name": "Duas Tr\u00eas",
       "url": "https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1515,30 +1515,22 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "EUROPA (feat. Gson)",
-        "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
+        "name": "Solteiros",
+        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
       },
       "artists": [
-        {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
-        },
         {
           "name": "Deejay Telio",
           "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
         },
         {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 216800,
-      "name": "EUROPA (feat. Gson)",
-      "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
+      "duration_ms": 179023,
+      "name": "Solteiros",
+      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1563,22 +1555,30 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Solteiros",
-        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
+        "name": "EUROPA (feat. Gson)",
+        "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
       },
       "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
         {
           "name": "Deejay Telio",
           "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
         },
         {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 179023,
-      "name": "Solteiros",
-      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
+      "duration_ms": 216800,
+      "name": "EUROPA (feat. Gson)",
+      "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Para Casa",
-        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Para Casa",
-      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Onde Anda",
         "url": "https://open.spotify.com/album/2BLhHO8nvFd0rzzCEiJxd0"
       },
@@ -1883,22 +1867,18 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Placas",
-        "url": "https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn"
+        "name": "Para Casa",
+        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 212093,
-      "name": "Placas",
-      "url": "https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K"
+      "duration_ms": 248421,
+      "name": "Para Casa",
+      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1923,6 +1903,26 @@
       "duration_ms": 236814,
       "name": "underwater",
       "url": "https://open.spotify.com/track/4vfHRcjchtEjRLspB4HUpc"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Placas",
+        "url": "https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Placas",
+      "url": "https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K"
     },
     {
       "added_at": "2023-08-10 23:00:00",

@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-127 songs - 8 hr 59 min
+128 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Drinkin' Problem \- Live From The Palomino](https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Live From The Palomino](https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T) | 3:52 | 2021-07-22 |  |
 | [Drunk Girls Don't Cry \(Live from SXSW 2016\)](https://open.spotify.com/track/0fM5MtNJg3l7iGnOrxMoMB) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Spotify Sessions](https://open.spotify.com/album/4uQJWohk7ZtN5yCIbWqIYm) | 3:57 | 2021-07-22 |  |
 | [Dust on the Bottle \(with David Lee Murphy\) \- Live](https://open.spotify.com/track/3oKY5smJilXhPZ3ewVanYI) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 3:41 | 2021-07-22 | 2022-03-26 |
-| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-08-18 |  |
+| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-08-18 | 2023-08-21 |
+| [Fast Car \- Live](https://open.spotify.com/track/7AQjb9B8CJ9Hb07ma21zoy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fast Car \(Live\)](https://open.spotify.com/album/77UPYl23MLMV81NslkxgUe) | 4:27 | 2023-08-20 |  |
 | [Fast Cars And Freedom \- Live In Concert](https://open.spotify.com/track/3FS8K3u8fGeiGz0FybRIeP) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Vault](https://open.spotify.com/album/4LCKLiSDG78CCZf7BGYC7V) | 4:51 | 2021-07-22 |  |
 | [Fishin' In The Dark \- Live At The Red Deer Fine Arts Center, Canada/1991](https://open.spotify.com/track/1EzLOOiaWCQGIQVQeBKngv) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:26 | 2021-07-22 |  |
 | [For What It’s Worth \- Live](https://open.spotify.com/track/6AznYwxsKQLpoPGdLqjaQg) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [For What It’s Worth \(Live\)](https://open.spotify.com/album/3vn1HJdEPP6aGL4veUz5k6) | 3:01 | 2023-02-10 |  |

@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "El Okd",
+        "url": "https://open.spotify.com/album/6nt3aY91do3MhLXe4xeclj"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218322,
+      "name": "El Okd",
+      "url": "https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0"
+    },
+    {
+      "album": {
         "name": "El Youm El Helw Dah",
         "url": "https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v"
       },
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 49597,
       "name": "\u064a\u0648\u0645 \u062c\u062f\u064a\u062f",
       "url": "https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D"

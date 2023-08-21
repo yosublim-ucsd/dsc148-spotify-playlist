@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 203261,
       "name": "Back to the Start",
       "url": "https://open.spotify.com/track/5TdgnDOtgNJRCxjrTVAwks"
@@ -6880,6 +6880,24 @@
       "duration_ms": 221746,
       "name": "The Way Life Goes (feat. Oh Wonder)",
       "url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
+    },
+    {
+      "album": {
+        "name": "The Wisp Sings",
+        "url": "https://open.spotify.com/album/4KvzpS3WSxlafB0psUNwfV"
+      },
+      "artists": [
+        {
+          "name": "Winter Aid",
+          "url": "https://open.spotify.com/artist/15S89CUJtshT2P7WIa2M5l"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313252,
+      "name": "The Wisp Sings",
+      "url": "https://open.spotify.com/track/008McaJl3WM1UqxxVie9BP"
     },
     {
       "album": {

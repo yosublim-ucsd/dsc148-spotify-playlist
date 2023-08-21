@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,296 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,387 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 98 | [Tempted](https://open.spotify.com/track/6hiA6WO0DRm9D480BIGqOT) | [Summon U](https://open.spotify.com/artist/0TyHSpKbAEP2QoXB7jVxCE) | [Technically Sane](https://open.spotify.com/album/3zVigb4My48jZIPLWVDiRW) | 2:55 |
 | 99 | [canggu \- Edit](https://open.spotify.com/track/0jy4TqKxOwZoraKJkle0dC) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [canggu \(Edit\)](https://open.spotify.com/album/6X8rpYiAaelLkwZK9Vx32k) | 2:23 |
 
-Snapshot ID: `MCw5ZTgyYzE1OGY1YjJiOTVjNmQ4ZDc0MmQzYzNiMjliZTQwY2I3MzQ0`
+Snapshot ID: `MCwxMWYwMzU4ODI4N2QwMjFkZTNhOGE5NTA1MDMyMjk4MGM3YmY2ZTNh`

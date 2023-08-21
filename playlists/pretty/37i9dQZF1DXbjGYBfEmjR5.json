@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 289621,
+  "num_followers": 289799,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGFmNWY0NmVhM2RhMzEzMGFmZTBhNGEyYzU1MDcyODRhZDZkYzk0",
+  "snapshot_id": "MCxiZTkyYjU5M2MwMWQ2MjAxYTFjOGQwYzJjOTA2YTk0MTllZjdlNTMw",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "The Beach Episode",
-        "url": "https://open.spotify.com/album/3BdhPzfJtbh21UgnEyFZd9"
-      },
-      "artists": [
-        {
-          "name": "GHOST DATA",
-          "url": "https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf"
-        }
-      ],
-      "duration_ms": 241572,
-      "name": "The Beach Episode",
-      "url": "https://open.spotify.com/track/3RndwYA9WJBU66zcqbO0nn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "DaFuture Is Now",
         "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 171428,
       "name": "Sunset On The Shore",
       "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "The Beach Episode",
+        "url": "https://open.spotify.com/album/3BdhPzfJtbh21UgnEyFZd9"
+      },
+      "artists": [
+        {
+          "name": "GHOST DATA",
+          "url": "https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf"
+        }
+      ],
+      "duration_ms": 241572,
+      "name": "The Beach Episode",
+      "url": "https://open.spotify.com/track/3RndwYA9WJBU66zcqbO0nn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Pink Dance EP",
+        "url": "https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV"
+      },
+      "artists": [
+        {
+          "name": "Future Girlfriend Music",
+          "url": "https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Crazy Nights",
+      "url": "https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Hooked On Aesthetics",
         "url": "https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Pink Dance EP",
-        "url": "https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV"
+        "name": "Back By Popular Demand",
+        "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
       },
       "artists": [
         {
-          "name": "Future Girlfriend Music",
-          "url": "https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB"
+          "name": "Proux",
+          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Crazy Nights",
-      "url": "https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N"
+      "duration_ms": 110313,
+      "name": "Funk Express",
+      "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -999,22 +1015,6 @@
       "duration_ms": 201142,
       "name": "You Can't Run",
       "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Back By Popular Demand",
-        "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
-      },
-      "artists": [
-        {
-          "name": "Proux",
-          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
-        }
-      ],
-      "duration_ms": 110313,
-      "name": "Funk Express",
-      "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        }
-      ],
-      "duration_ms": 173232,
-      "name": "Lovin' Is Everywhere",
-      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Saturn St.",
         "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 157500,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "duration_ms": 173232,
+      "name": "Lovin' Is Everywhere",
+      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "My Gurl",
-        "url": "https://open.spotify.com/album/0PUnDsNY0lq6ua4LC6dwik"
-      },
-      "artists": [
-        {
-          "name": "Wealstarcks",
-          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
-        }
-      ],
-      "duration_ms": 197948,
-      "name": "My Gurl",
-      "url": "https://open.spotify.com/track/0ZSDS6ZUAIDyXzCiS7xfuH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Shine On",
-        "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 173374,
-      "name": "Why Future Funk ROCKED in '17",
-      "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
         "url": "https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt"
       },
@@ -1491,6 +1459,38 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 173374,
+      "name": "Why Future Funk ROCKED in '17",
+      "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "My Gurl",
+        "url": "https://open.spotify.com/album/0PUnDsNY0lq6ua4LC6dwik"
+      },
+      "artists": [
+        {
+          "name": "Wealstarcks",
+          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+        }
+      ],
+      "duration_ms": 197948,
+      "name": "My Gurl",
+      "url": "https://open.spotify.com/track/0ZSDS6ZUAIDyXzCiS7xfuH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Sexy Times (3rd Anniversary Edition)",
         "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 128032,
-      "name": "Dancefloor Sneakers",
-      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 141145,
       "name": "Shiny Shiny",
       "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 128032,
+      "name": "Dancefloor Sneakers",
+      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "R&B",
-        "url": "https://open.spotify.com/album/7FlTwgH1CA7Yqpz2zUku1z"
-      },
-      "artists": [
-        {
-          "name": "BarbWalters",
-          "url": "https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "R&B",
-      "url": "https://open.spotify.com/track/2FGT4Tpk5M9qO2nBHpNE6R"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 173421,
       "name": "Palm Road",
       "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+      },
+      "artists": [
+        {
+          "name": "Skylar Spence",
+          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
+        }
+      ],
+      "duration_ms": 170634,
+      "name": "Kratos in Love",
+      "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1667,18 +1667,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+        "name": "R&B",
+        "url": "https://open.spotify.com/album/7FlTwgH1CA7Yqpz2zUku1z"
       },
       "artists": [
         {
-          "name": "Skylar Spence",
-          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
+          "name": "BarbWalters",
+          "url": "https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj"
         }
       ],
-      "duration_ms": 170634,
-      "name": "Kratos in Love",
-      "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
+      "duration_ms": 205714,
+      "name": "R&B",
+      "url": "https://open.spotify.com/track/2FGT4Tpk5M9qO2nBHpNE6R"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "#TRUE FUTURE",
+        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+      },
+      "artists": [
+        {
+          "name": "Q-Rabbit",
+          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "keep down flyday",
+      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1703,22 +1719,6 @@
       "duration_ms": 250344,
       "name": "Monstruo Japon\u00e9s",
       "url": "https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "#TRUE FUTURE",
-        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
-      },
-      "artists": [
-        {
-          "name": "Q-Rabbit",
-          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "keep down flyday",
-      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
     }
   ],
   "unique_name": "Future Funk",

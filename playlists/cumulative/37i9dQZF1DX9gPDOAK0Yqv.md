@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-320 songs - 1 day 3 hr 36 min
+321 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Electric](https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta) | [Electric](https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX) | 4:21 | 2022-12-28 | 2023-01-06 |
 | [Ellipse](https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ellipse](https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj) | 6:51 | 2022-11-23 | 2023-02-10 |
 | [Encounters](https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Encounters](https://open.spotify.com/album/5POP54QLWkGpuydNX7sWod) | 4:05 | 2022-11-23 |  |
+| [Encounters \- SOHMI Fantasy Remix](https://open.spotify.com/track/5wcA4ajXGIep3vf4p9S6Xp) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Encounters \(SOHMI Fantasy Remix\)](https://open.spotify.com/album/3WDEo5D6KzsvS9uSPLS2j7) | 3:56 | 2023-08-18 |  |
 | [Energy Of Life](https://open.spotify.com/track/4TvWgymXM4iswW8NCwZZSh) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Energy Of Life](https://open.spotify.com/album/2Ad0p8tuq3cLBqRxKC7yoy) | 3:20 | 2023-06-02 | 2023-06-10 |
 | [Equal](https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 5:19 | 2023-03-03 | 2023-03-22 |
 | [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-02-10 | 2023-03-11 |
@@ -135,7 +136,7 @@
 | [I'm So Weak \- Dark Mix](https://open.spotify.com/track/3Q7eE5wxQnxBC697LoqUcj) | [Volaris](https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [I'm So Weak \(Dark Mix\)](https://open.spotify.com/album/1CLQiCWjOZDBCmw2v7PXrN) | 2:59 | 2023-05-23 | 2023-06-01 |
 | [In And Out Of Love \- Innellea Remix](https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love \(Innellea Remix\)](https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD) | 3:38 | 2023-07-28 |  |
 | [In The Bleak Midwinter](https://open.spotify.com/track/48cnRNsq3ICFe51oUMzZ3z) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [In The Bleak Midwinter](https://open.spotify.com/album/0frtwhJ0tufQdIjAA8u36v) | 3:54 | 2023-03-10 | 2023-03-22 |
-| [In White Rooms \- 2023 Remix](https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [In White Rooms \(2023 Remix\)](https://open.spotify.com/album/2i8LUozW0ddEp5ldWDVfYV) | 6:11 | 2023-06-23 |  |
+| [In White Rooms \- 2023 Remix](https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [In White Rooms \(2023 Remix\)](https://open.spotify.com/album/2i8LUozW0ddEp5ldWDVfYV) | 6:11 | 2023-06-23 | 2023-08-21 |
 | [Infinity](https://open.spotify.com/track/4h867FJKioG1h0nZZ7hwgN) | [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Euphoria](https://open.spotify.com/album/2QTLHBhDtEm7HwOsCBk9Tk) | 3:14 | 2022-12-28 | 2023-01-06 |
 | [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 | 2022-11-23 | 2023-02-01 |
 | [Inside My Head](https://open.spotify.com/track/1r8aDSQwCBdfHWHQE0Vvhr) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Inside My Head](https://open.spotify.com/album/2jjIP47viQxEy1d6JOp9MW) | 6:50 | 2022-11-23 | 2022-11-28 |

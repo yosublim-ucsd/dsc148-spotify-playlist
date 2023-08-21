@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -8345,6 +8345,32 @@
     },
     {
       "album": {
+        "name": "Friesenjung",
+        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
+    },
+    {
+      "album": {
         "name": "TESTING",
         "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
       },
@@ -8792,7 +8818,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
@@ -10636,7 +10662,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -10788,7 +10814,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -12277,6 +12303,24 @@
     },
     {
       "album": {
+        "name": "Ko vair\u0101k man vajag",
+        "url": "https://open.spotify.com/album/35saZ5XcRxj9dSrdBIMBro"
+      },
+      "artists": [
+        {
+          "name": "Mesa",
+          "url": "https://open.spotify.com/artist/2BVeB55HSYHIpcmNZkG8Fy"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200170,
+      "name": "Ko vair\u0101k man vajag",
+      "url": "https://open.spotify.com/track/4eoIViQSq5TmScgOmqBM8P"
+    },
+    {
+      "album": {
         "name": "Atomic Heart (Original Game Soundtrack) Vol.1",
         "url": "https://open.spotify.com/album/2XVO5mhDvOpSTYpXUDVisx"
       },
@@ -12642,6 +12686,28 @@
       "duration_ms": 114408,
       "name": "LAIM' UZ MANA R\u0112\u0136IN'",
       "url": "https://open.spotify.com/track/6sVXxjxWuDhRLIz32L61sU"
+    },
+    {
+      "album": {
+        "name": "Laimes krekl\u0101",
+        "url": "https://open.spotify.com/album/0oEbAPdOmnEmnNPq359qYH"
+      },
+      "artists": [
+        {
+          "name": "Mesa",
+          "url": "https://open.spotify.com/artist/2BVeB55HSYHIpcmNZkG8Fy"
+        },
+        {
+          "name": "Ieva Akuratere",
+          "url": "https://open.spotify.com/artist/76ULwbikvVYPMTNpG4Y4GE"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Laimes krekl\u0101",
+      "url": "https://open.spotify.com/track/7bOuPFKXNfcYNiBf4otj9w"
     },
     {
       "album": {
@@ -14984,7 +15050,7 @@
       ],
       "date_added": "2021-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 229180,
       "name": "Meitene",
       "url": "https://open.spotify.com/track/3FZyFfXS4aecdtVDTyYrKv"
@@ -15620,7 +15686,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -15906,7 +15972,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
@@ -16438,13 +16504,13 @@
           "url": "https://open.spotify.com/artist/4ec4Os8XAiwmqZdQga3V7f"
         },
         {
-          "name": "Justs Sirmais",
-          "url": "https://open.spotify.com/artist/5A0cSJUARw9f1zSFW35Ue4"
+          "name": "Justs",
+          "url": "https://open.spotify.com/artist/7fS3xrdlESSV2i31FMqZeV"
         }
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "M\u016b\u017eam Jauns",
       "url": "https://open.spotify.com/track/3oQTUYUbPjUZybgQhS6yfW"
@@ -18568,7 +18634,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 255606,
       "name": "Piepist Seju",
       "url": "https://open.spotify.com/track/0fyfPkT2929pU4hsqJqp7y"
@@ -21106,7 +21172,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -22622,7 +22688,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
@@ -24346,7 +24412,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 192940,
       "name": "The Lost Soul Down",
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
@@ -25929,6 +25995,24 @@
     },
     {
       "album": {
+        "name": "Viktors",
+        "url": "https://open.spotify.com/album/1wHR5tLXZlAgJ9dyzSGEGj"
+      },
+      "artists": [
+        {
+          "name": "GACHO",
+          "url": "https://open.spotify.com/artist/4ec4Os8XAiwmqZdQga3V7f"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234352,
+      "name": "Viktors",
+      "url": "https://open.spotify.com/track/0ABOvY9oWhbGZNWQA8GjYI"
+    },
+    {
+      "album": {
         "name": "Visiting Hours",
         "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
       },
@@ -25944,6 +26028,46 @@
       "duration_ms": 215506,
       "name": "Visiting Hours",
       "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
+    },
+    {
+      "album": {
+        "name": "Smaids L\u012bdz Aus\u012bm",
+        "url": "https://open.spotify.com/album/3epao3FKU8gmoDSLMB8JJ1"
+      },
+      "artists": [
+        {
+          "name": "GACHO",
+          "url": "https://open.spotify.com/artist/4ec4Os8XAiwmqZdQga3V7f"
+        },
+        {
+          "name": "Justs",
+          "url": "https://open.spotify.com/artist/7fS3xrdlESSV2i31FMqZeV"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221274,
+      "name": "Viss Pa \u012astam",
+      "url": "https://open.spotify.com/track/2AoUIDi7A7hixQMoWmM5gA"
+    },
+    {
+      "album": {
+        "name": "M3SA",
+        "url": "https://open.spotify.com/album/3HXDGXWABY3XmLV6IvAVbY"
+      },
+      "artists": [
+        {
+          "name": "Mesa",
+          "url": "https://open.spotify.com/artist/2BVeB55HSYHIpcmNZkG8Fy"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Visu no jauna",
+      "url": "https://open.spotify.com/track/5dSMUZJKYqfdpPrdK3ZCTK"
     },
     {
       "album": {
@@ -29200,7 +29324,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 135272,
       "name": "\u041f\u043b\u043e\u0445\u0430\u044f \u0414\u0435\u0432\u043e\u0447\u043a\u0430",
       "url": "https://open.spotify.com/track/0B1rCA4jxosOrIQFDqdE8A"

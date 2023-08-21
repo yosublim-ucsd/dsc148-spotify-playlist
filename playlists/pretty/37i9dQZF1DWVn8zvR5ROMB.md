@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Old Dominion & Megan Moroney, Warren Zeiders, Alana Springsteen and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,848 likes - 57 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,077 likes - 57 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 56 | [Kills Me](https://open.spotify.com/track/0tqdJ46O9ZVta6PVeNS7Yg) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Kills Me](https://open.spotify.com/album/4Io3CS0efa03JplU5sbr4f) | 2:47 |
 | 57 | [Gone Are The Days](https://open.spotify.com/track/2aqO1xxSKvUsQ5Zva8jnrR) | [Ross Cooper](https://open.spotify.com/artist/0boXKQqSGu5yWmNPlmPp51) | [Gone Are The Days](https://open.spotify.com/album/5XBbbZPrc72X773XYqOUoK) | 3:45 |
 
-Snapshot ID: `MCwwMzA0ZDE0MTRjYzY4ZTU5MTJjOWQ3MjFiZmYyM2IzNWI0MjhmZDc4`
+Snapshot ID: `MCw2MzdlNmU4ODRlZTQ2ZmI5OGU2MGUwZDAxOTgyYTc4ZTRiNjMwMmNm`

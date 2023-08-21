@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Y U QT",
-  "num_followers": 197508,
+  "num_followers": 197541,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzEyNDI5MDAwNmRhM2YwYWQ0N2VkMTdkY2M2Yjc4MjhhNWQ5MmMy",
+  "snapshot_id": "MCw4ZmJhZWI0MDRlOTkyZDZlZWY5ZGI0ZTY0ZGE4ZGEwNTE3MGMzODVh",
   "tracks": [
     {
       "added_at": "2023-08-10 23:00:00",
@@ -375,26 +375,22 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "EGODEATH",
-        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
+        "name": "Fly With Us",
+        "url": "https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny"
       },
       "artists": [
         {
-          "name": "GHENGHIS OTT",
-          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "GRM Daily",
-          "url": "https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW"
-        },
-        {
-          "name": "6HRS",
-          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 192000,
-      "name": "EGODEATH",
-      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
+      "duration_ms": 248437,
+      "name": "Fly With Us",
+      "url": "https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -419,22 +415,26 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Fly With Us",
-        "url": "https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny"
+        "name": "EGODEATH",
+        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "GHENGHIS OTT",
+          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
         },
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "GRM Daily",
+          "url": "https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW"
+        },
+        {
+          "name": "6HRS",
+          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
         }
       ],
-      "duration_ms": 248437,
-      "name": "Fly With Us",
-      "url": "https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI"
+      "duration_ms": 192000,
+      "name": "EGODEATH",
+      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Emergency",
-        "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 191818,
       "name": "Take Me as I Am - Holy Goof Remix",
       "url": "https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
     },
     {
       "added_at": "2023-08-10 23:00:00",

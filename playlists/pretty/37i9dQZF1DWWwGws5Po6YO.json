@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 30309,
+  "num_followers": 30324,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2NkODQyMGMyNjk3M2I3YzFlMjJjNzZiYjA2ZDJiOGFlMmZmZTNl",
+  "snapshot_id": "MCw3NGYwMWFmNzhmZTc1YTFjYmJmY2YwOGRhZTE3ZTlmNzEyNzdhYmY0",
   "tracks": [
     {
       "added_at": "2023-08-11 11:32:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "The Expanding Universe",
-        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 390720,
-      "name": "The Unquestioned Answer",
-      "url": "https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
         "name": "Selected Works Preview",
         "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 381496,
       "name": "Composition Of Flowers (Excerpt)",
       "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
+        "name": "The Expanding Universe",
+        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 390720,
+      "name": "The Unquestioned Answer",
+      "url": "https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "is this nature escape",
-        "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
-      },
-      "artists": [
-        {
-          "name": "Katharine Petkovski",
-          "url": "https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA"
-        }
-      ],
-      "duration_ms": 212848,
-      "name": "is this nature escape",
-      "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
         "name": "Grafts",
         "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 1351601,
       "name": "Grafts",
       "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
+        "name": "is this nature escape",
+        "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
+      },
+      "artists": [
+        {
+          "name": "Katharine Petkovski",
+          "url": "https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA"
+        }
+      ],
+      "duration_ms": 212848,
+      "name": "is this nature escape",
+      "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 406706,
       "name": "Zhao Hua",
       "url": "https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "The Flower And The Vessel",
-        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        }
-      ],
-      "duration_ms": 478488,
-      "name": "Moderato Cantabile",
-      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
+        "name": "The Flower And The Vessel",
+        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 478488,
+      "name": "Moderato Cantabile",
+      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Collagen",
-        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lerkenfeldt",
-          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "In Her Hair",
-      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
         "name": "Penelope Three",
         "url": "https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 184973,
       "name": "Fur & Feather",
       "url": "https://open.spotify.com/track/70QhYy1IM2lzMfsprIQ8nJ"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
+        "name": "Collagen",
+        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lerkenfeldt",
+          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "In Her Hair",
+      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Keep the Ocean Inside",
-        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
-      },
-      "artists": [
-        {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
-        }
-      ],
-      "duration_ms": 291026,
-      "name": "Divining (naming of the Lost)",
-      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
         "name": "Sketch for Winter IX: Perlita",
         "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 266057,
       "name": "Light in Phases",
       "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
+        "name": "Keep the Ocean Inside",
+        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+      },
+      "artists": [
+        {
+          "name": "The Seven Fields Of Aphelion",
+          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+        }
+      ],
+      "duration_ms": 291026,
+      "name": "Divining (naming of the Lost)",
+      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Night Changes Many Thoughts",
-      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
         "name": "The Fifth Season (Versions)",
         "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 571000,
       "name": "Epistasis",
       "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Night Changes Many Thoughts",
+      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
     },
     {
       "added_at": "2023-08-11 11:32:53",

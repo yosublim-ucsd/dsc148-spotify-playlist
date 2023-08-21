@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1517772,
+  "num_followers": 1518621,
   "original_name": "Sommerhits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDYyMmM2MTE0MjUyOWRiM2JkOTgwN2ZiNGQyOWU1NGVmNzE2NTA3",
+  "snapshot_id": "MCxjNmZiNzMyZjA1Y2I2OWQ5NTM3OTA5ZDVkODY4YjRiYmJhMjcxMjdh",
   "tracks": [
     {
       "added_at": "2023-08-18 08:41:08",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-08-18 08:41:08",
       "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "duration_ms": 148116,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
+    },
+    {
+      "added_at": "2023-08-18 08:41:08",
+      "album": {
         "name": "Side Effects",
         "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 153742,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
-    },
-    {
-      "added_at": "2023-08-18 08:41:08",
-      "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 148116,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
     },
     {
       "added_at": "2023-08-18 08:41:08",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-18 08:41:08",
       "album": {
-        "name": "You Only Love Me",
-        "url": "https://open.spotify.com/album/5Vqzr0g0cyJES3rIs4IkTq"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 148920,
-      "name": "You Only Love Me",
-      "url": "https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2"
-    },
-    {
-      "added_at": "2023-08-18 08:41:08",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 166109,
       "name": "Tuff Cookie",
       "url": "https://open.spotify.com/track/4vWAaoSebO4sp4Jo9f3cVn"
+    },
+    {
+      "added_at": "2023-08-18 08:41:08",
+      "album": {
+        "name": "You Only Love Me",
+        "url": "https://open.spotify.com/album/5Vqzr0g0cyJES3rIs4IkTq"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 148920,
+      "name": "You Only Love Me",
+      "url": "https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2"
     },
     {
       "added_at": "2023-08-18 08:41:08",
@@ -1551,26 +1551,18 @@
     {
       "added_at": "2023-08-18 08:41:08",
       "album": {
-        "name": "Good Morning (feat. YOU)",
-        "url": "https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0"
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "YOU",
-          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 175032,
-      "name": "Good Morning (feat. YOU)",
-      "url": "https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV"
+      "duration_ms": 196224,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
     },
     {
       "added_at": "2023-08-18 08:41:08",
@@ -1591,22 +1583,6 @@
     {
       "added_at": "2023-08-18 08:41:08",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 196224,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
-    },
-    {
-      "added_at": "2023-08-18 08:41:08",
-      "album": {
         "name": "Somewhere in Between",
         "url": "https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp"
       },
@@ -1619,6 +1595,30 @@
       "duration_ms": 156475,
       "name": "Somewhere in Between",
       "url": "https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG"
+    },
+    {
+      "added_at": "2023-08-18 08:41:08",
+      "album": {
+        "name": "Good Morning (feat. YOU)",
+        "url": "https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "YOU",
+          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
+        }
+      ],
+      "duration_ms": 175032,
+      "name": "Good Morning (feat. YOU)",
+      "url": "https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV"
     },
     {
       "added_at": "2023-08-18 08:41:08",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-08-18 08:41:08",
       "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 180329,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
-    },
-    {
-      "added_at": "2023-08-18 08:41:08",
-      "album": {
         "name": "Ein Traum",
         "url": "https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 169500,
       "name": "Ein Traum",
       "url": "https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ"
+    },
+    {
+      "added_at": "2023-08-18 08:41:08",
+      "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 180329,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
     },
     {
       "added_at": "2023-08-18 08:41:08",

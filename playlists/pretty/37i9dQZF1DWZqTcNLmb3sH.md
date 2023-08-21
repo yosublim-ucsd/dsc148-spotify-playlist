@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Hostel Hudugaru Bekagiddare
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,218 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,258 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Ee Kshana Romanchana \(From "Nodadha Putagalu"\)](https://open.spotify.com/track/6JtZ4fpPS1TgqyIP2igKL7) | [Abhishek M R](https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97), [Vignesh Menon](https://open.spotify.com/artist/3rUb0UcwcnZpNvirKf8dmP), [Prashanth Gunaki](https://open.spotify.com/artist/5vBD08awxu6cK3457kIKR1) | [Ee Kshana Romanchana \(From "Nodadha Putagalu"\)](https://open.spotify.com/album/7sC9276hbPG6mgHVZAuw7o) | 5:33 |
 | 75 | [Tun Tun Tun \(from "Elra Kaaleliyatte Kaala"\)](https://open.spotify.com/track/1LGE5fbDTx4jQ3LBPph72i) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Tun Tun Tun \(from "Elra Kaaleliyatte Kaala"\)](https://open.spotify.com/album/1LW27XGKtMDlCtyeYaDhbd) | 3:27 |
 
-Snapshot ID: `MCw2ODk0NjRmYjc1ZmYxZjlmZWEzYjRjMTM4MjIxOTRiMjg0ODc4ZTBl`
+Snapshot ID: `MCxkYjIzM2U5M2JiMzlkODU1N2ZhMzlkMjU1NGExYzY2MzU3MmQ0YTQw`

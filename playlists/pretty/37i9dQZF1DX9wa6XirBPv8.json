@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1581103,
+  "num_followers": 1581715,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjAzN2VlMWJmYTAzNzBkNWU5YzY2ZGQwZTFiN2VmNmQzMjgzMjQ3",
+  "snapshot_id": "MCxkYWNjYTRjOGRkNzg2YzhiMjJjMjhhZGYzMDc1YThiNTIxMjQ0ODE5",
   "tracks": [
     {
       "added_at": "2023-07-25 14:04:38",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Buried a Lie",
-      "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
         "name": "The Lonesome Crowded West",
         "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 209960,
       "name": "Polar Opposites",
       "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Buried a Lie",
+      "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
     },
     {
       "added_at": "2023-07-25 14:04:38",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "Full Collapse",
-        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Understanding In A Car Crash",
-      "url": "https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7"
-    },
-    {
-      "added_at": "2023-07-25 14:04:38",
-      "album": {
         "name": "We The Kings",
         "url": "https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB"
       },
@@ -1599,18 +1583,34 @@
     {
       "added_at": "2023-07-25 14:04:38",
       "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 249066,
-      "name": "Accidents",
-      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
+      "duration_ms": 264546,
+      "name": "Understanding In A Car Crash",
+      "url": "https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7"
+    },
+    {
+      "added_at": "2023-07-25 14:04:38",
+      "album": {
+        "name": "In Keeping Secrets Of Silent Earth: 3",
+        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 244880,
+      "name": "Blood Red Summer",
+      "url": "https://open.spotify.com/track/6SVMJlw8NLnfuPw0PSlrQR"
     }
   ],
   "unique_name": "Emo Forever",

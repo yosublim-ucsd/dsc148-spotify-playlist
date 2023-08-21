@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 209703,
       "name": "Sham Pain",
       "url": "https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA"
@@ -2458,6 +2458,24 @@
       "duration_ms": 199960,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/3FRB1HLHRqOamWnPeoQbK0"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210406,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,231 likes - 95 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,293 likes - 95 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 18 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 |
 | 19 | [Zonke](https://open.spotify.com/track/16WWnfjYPxZ8vPAFGZkeeQ) | [Shaik Omar](https://open.spotify.com/artist/6uyYHSi3xlCzb4222Ywd7p), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Zonke](https://open.spotify.com/album/33eNdn70pZjbv8CsRKomtm) | 4:13 |
 | 20 | [Ke Tshepile Wena \- Amapiano Remix](https://open.spotify.com/track/17fvvpCD8y1DRmawmYPoR5) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Amapiano Remix\)](https://open.spotify.com/album/7FIoXi9TYAsAoEnWMGgNsh) | 5:14 |
-| 21 | [Count 'Em](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 |
+| 21 | [COUNT' EM](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 |
 | 22 | [Most Holy One](https://open.spotify.com/track/7xtBUMRzhwvVPTx1b7cPLa) | [Mnqobi Nxumalo](https://open.spotify.com/artist/70Y2n0KGh0iCJrpBronVOW) | [Most Holy One](https://open.spotify.com/album/3hIi5s4zrx24zp32aW5geU) | 5:15 |
 | 23 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 |
 | 24 | [Nothing Without You \- Live At The Barnyard Theatre](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 94 | [Graves Into Gardens](https://open.spotify.com/track/4rnoCR7AOaa6RWdyh7JgP0) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:43 |
 | 95 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
 
-Snapshot ID: `MCxiOWFmNTYzNzg2MDcyYmE0MjU0OGEwNjhiZDUxZTI5OTc4ZDk1ZjVh`
+Snapshot ID: `MCxjYTA2ZGM3YmViNDZlODg4YzliMjI4OTg2MjdiMTdhOWZiODQ2M2Y0`

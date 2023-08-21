@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3?si=5912d4229e324b1e\">Pat Barrett</a> ",
-  "num_followers": 881528,
+  "num_followers": 881607,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTVkZTNlODZmMDQ2MjExZjA0ZGI3ZGI4ZWJkZWVkNTI2NGU0MTY4",
+  "snapshot_id": "MCxmZTQ3MTMxY2UyYjA0NDZlZWQxNDc1ZTI2ZmQ0ZWE5YzRjZDBhOTJh",
   "tracks": [
     {
       "added_at": "2023-08-11 11:00:34",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "I've Witnessed It (Live)",
-        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "I've Witnessed It - Single Version",
-      "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 147945,
       "name": "Growing Pains Pt. 2",
       "url": "https://open.spotify.com/track/3JT72Odgjboph3SnXhDbzk"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "I've Witnessed It - Single Version",
+      "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "You Will Be Saved",
-        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 374904,
-      "name": "You Will Be Saved",
-      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "House Of Miracles (Live)",
         "url": "https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 288706,
       "name": "In the Room (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "You Will Be Saved",
+        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 374904,
+      "name": "You Will Be Saved",
+      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Miracle in Me",
-        "url": "https://open.spotify.com/album/5B2fXFqXOZ9lu1SY0JIIJp"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 308864,
-      "name": "Miracle in Me",
-      "url": "https://open.spotify.com/track/2oPoSdBoNR5jwSXsMzDz1b"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Church (Live)",
         "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
       },
@@ -827,6 +811,26 @@
       "duration_ms": 362500,
       "name": "Manasseh - Live",
       "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Team Night (Live)",
+        "url": "https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 273245,
+      "name": "Never Walk Alone - Live At Team Night",
+      "url": "https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -855,22 +859,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Team Night (Live)",
-        "url": "https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO"
+        "name": "Miracle in Me",
+        "url": "https://open.spotify.com/album/5B2fXFqXOZ9lu1SY0JIIJp"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
         }
       ],
-      "duration_ms": 273245,
-      "name": "Never Walk Alone - Live At Team Night",
-      "url": "https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf"
+      "duration_ms": 308864,
+      "name": "Miracle in Me",
+      "url": "https://open.spotify.com/track/2oPoSdBoNR5jwSXsMzDz1b"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "King of Calvary - Live",
+      "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Because Of You (Live)",
         "url": "https://open.spotify.com/album/6AY30EqlFxWj7s3vpXKfP5"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 361027,
       "name": "Because Of You - Live",
       "url": "https://open.spotify.com/track/3BQWQdgTzKSnnsLSFlntQB"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 251612,
-      "name": "King of Calvary - Live",
-      "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 403920,
-      "name": "Never Lost - Live",
-      "url": "https://open.spotify.com/track/0kB28CdAxrYvMXrQB1iXor"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "ALL AGES ADMITTED",
         "url": "https://open.spotify.com/album/2MLykMg4A3Xurzk8kwjyNs"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 380964,
       "name": "Beautiful (Hidden Worlds) - Live",
       "url": "https://open.spotify.com/track/3bnvYVdaSgf2NBVPz1aqUE"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 403920,
+      "name": "Never Lost - Live",
+      "url": "https://open.spotify.com/track/0kB28CdAxrYvMXrQB1iXor"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "All In (Live)",
-        "url": "https://open.spotify.com/album/4y9fpBs2yhCjdeXPLhPXyW"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Brett Lee Miller",
-          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
-        }
-      ],
-      "duration_ms": 426052,
-      "name": "All In - Live",
-      "url": "https://open.spotify.com/track/3MHZjcYk9GpBrbEgR3MjID"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Thin Place (Live)",
         "url": "https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50"
       },
@@ -1735,18 +1715,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
+        "name": "All In (Live)",
+        "url": "https://open.spotify.com/album/4y9fpBs2yhCjdeXPLhPXyW"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Brett Lee Miller",
+          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
         }
       ],
-      "duration_ms": 237466,
-      "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
-      "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
+      "duration_ms": 426052,
+      "name": "All In - Live",
+      "url": "https://open.spotify.com/track/3MHZjcYk9GpBrbEgR3MjID"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1763,6 +1747,22 @@
       "duration_ms": 239922,
       "name": "Steady Light - Live",
       "url": "https://open.spotify.com/track/4C25Cy09CwtbyJkkMFLXCu"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
+      "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
     },
     {
       "added_at": "2023-08-11 11:00:34",

@@ -1698,10 +1698,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 159000,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/20ubvnxFGvq9YX8YCFE4VM"
+    },
+    {
+      "album": {
+        "name": "The Best Part About Being Human",
+        "url": "https://open.spotify.com/album/5W3BwgmLw8jbsgOm4Rv9po"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Scenery",
+      "url": "https://open.spotify.com/track/4ZJDUqVn8n592qx7IQft5o"
     },
     {
       "album": {

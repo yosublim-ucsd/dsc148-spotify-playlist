@@ -1113,12 +1113,12 @@
       "artists": [
         {
           "name": "Fariha Pervez",
-          "url": "https://open.spotify.com/artist/5LwE32eXslmO2Ffb0sv0UQ"
+          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
         }
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 524113,
       "name": "Balma",
       "url": "https://open.spotify.com/track/7KAhqHJrSBzh0k70mRrF0V"
@@ -2706,7 +2706,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 321377,
       "name": "Husn-e-Haqiqi",
       "url": "https://open.spotify.com/track/2Qry5LiUPVW4KBumqJo4Df"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-21",
       "duration_ms": 964760,
       "name": "Khabaram Raseeda",
       "url": "https://open.spotify.com/track/0q4658Fq3RFbtzxMyeo1HI"
@@ -5724,7 +5724,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 380272,
       "name": "Phool Banro",
       "url": "https://open.spotify.com/track/2obmpv5y7Ny6fHwWv7fqxX"

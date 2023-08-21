@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,906 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,282 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 27 | [Dheere Dheere Hausla](https://open.spotify.com/track/3dY8ozWoOCSg6akDHnt1hj) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Phool Aur Kaante \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Io1WaSa7zSLlLmop0bNKL) | 2:28 |
 | 28 | [Tune Zamane Ye Kya Kar Diya](https://open.spotify.com/track/1bU6jdC9p3vf3ufR7sCZNv) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn), [Vipin Sachdeva](https://open.spotify.com/artist/3izgcexQY0nJQiSMchE0dJ) | [Jeena Marna Tere Sang](https://open.spotify.com/album/2yz7UrxzL3jModmo9NNuEG) | 5:17 |
 | 29 | [Dil Hoom Hoom Kare \- Female Version](https://open.spotify.com/track/5A3tZCjNhmqtmNUNbjOZeL) | [Bhupen Hazarika](https://open.spotify.com/artist/31fDaUsley7Ms790N4CcSv), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rudaali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4K4inDaW2TgqkkOOdXTorN) | 3:55 |
-| 30 | [Yara Seeli Seeli](https://open.spotify.com/track/2bvSrOKLBSM6spSHLfdnZp) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lekin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7qmGaQpTwiimvbheYIooGs) | 5:05 |
+| 30 | [YARA SEELI SEELI](https://open.spotify.com/track/3uLbP51oGqW2LptFFoKqNC) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Gulzar Lata](https://open.spotify.com/album/1Crl97kFr62EVygfqE8bd5) | 5:05 |
 | 31 | [Yeh Raat Khushnaseeb Hai](https://open.spotify.com/track/4KlZYoWM2d2xubN8ZHjseR) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Aaina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5D3yhDwUoMpj4dVHqw07VL) | 4:49 |
 | 32 | [Hum Na Samjhe The](https://open.spotify.com/track/7BHiUTRUS93wHA9vZrViFr) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Gardish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VoMY6VEh3Lpg2KXQH5V7s) | 4:28 |
 | 33 | [Dil Cheer Ke Dekh](https://open.spotify.com/track/4lcIEnEAPlcwJQI4XjYkQW) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Rang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wIeKD44ztijKo5vyzGIRe) | 5:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 49 | [Tu Na Jaa Mere Baadshah](https://open.spotify.com/track/68IoPplcSgQ2xO4WSsUAaI) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Mohammed Aziz](https://open.spotify.com/artist/3vXBH4XwXSLM1YIrRBt98k) | [Khuda Gawah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1NwSU4uh3PqSnTXWuTbqkv) | 5:06 |
 | 50 | [Woh Aankh Hi Kya](https://open.spotify.com/track/0hfDWBZGL27m85K1w42T4i) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Khuddar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lAWtblxva9vLJP7bOG1wr) | 7:01 |
 
-Snapshot ID: `MCxhYzcyNGM2OWY4Y2I2NjRlYjAwYjQzZDg3ODBmMjhkNWE3ODk0NzEz`
+Snapshot ID: `MCw3YzA5NzY4YWI5MDY5ZjBkOGZjZWFlODg4ZWVhY2MwZTFlOWYwZjEw`

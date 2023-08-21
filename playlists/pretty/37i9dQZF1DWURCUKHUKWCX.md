@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,004 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,131 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 94 | [Still](https://open.spotify.com/track/6B0ZlLf0p2s1Lwt3ivAXKy) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Still](https://open.spotify.com/album/0QxD0lOJH9NBtJuSb2can4) | 2:22 |
 | 95 | [That Feeling, Though](https://open.spotify.com/track/5W7cnjrNZcv1ITMv3xyvkV) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [That Feeling, Though](https://open.spotify.com/album/0KApkc3q8azy74RibeRkb1) | 1:31 |
 | 96 | [Everything, Forever](https://open.spotify.com/track/0o4STUmiHirVtus3Qmyh2Y) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Everything, Forever](https://open.spotify.com/album/637FWPiFGlJ5RLhaOcVFyt) | 1:27 |
-| 97 | [Es](https://open.spotify.com/track/4u5cedyEcb8mWnD764OELD) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Es](https://open.spotify.com/album/7nAb18ah0Pey9BZVS2uvbE) | 2:13 |
+| 97 | [Es](https://open.spotify.com/track/1aO78Al3o07IrUdeBy9HXm) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [opus](https://open.spotify.com/album/6U5D76Uw1oeRDSv11Zmjfl) | 2:17 |
 | 98 | [Tuesday](https://open.spotify.com/track/2GuchYit1FmdtXTxl6SbUE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Tuesday](https://open.spotify.com/album/34NwQqEqmAFJW30p70psIt) | 3:11 |
 | 99 | [Feathered Friend](https://open.spotify.com/track/5Ac0ipN7YqSDXOi3aT37kO) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Echo Pool](https://open.spotify.com/album/0lZpC773e5FEXVyZ67bKzA) | 2:08 |
 
-Snapshot ID: `MCw0YTljZDc0NmJmMTI4YWQ2ZDAzMDFmOWZlZjA1ODIyMzZjZTlhMjY4`
+Snapshot ID: `MCwzMGIyMGM2MjgzODk1ZGM5NDdkOTRkOGUxZjVhNzQ2MTJmNzE4ODg2`

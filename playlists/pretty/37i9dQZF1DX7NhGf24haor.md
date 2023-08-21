@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Sefa
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,410 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,528 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 89 | [Make The Crowd Go](https://open.spotify.com/track/24NDSuRev3JPKVh0wdWLk9) | [JNXD](https://open.spotify.com/artist/4by5ENA6ZMNCQkOX3RIh0G), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [Make The Crowd Go](https://open.spotify.com/album/2rQno7OXZMZ6D264HB6QHt) | 3:12 |
 | 90 | [Reflections](https://open.spotify.com/track/4yuqtzwV5flMo1HkXOMSu1) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Reflections](https://open.spotify.com/album/1lYXabkqizoZa0Ke8EbaH1) | 3:02 |
 
-Snapshot ID: `MCwyODMzZjcyYjg3YjkwMGU0OTI4MDFjOTRmY2JiZTdmZTlkYWIwMWMy`
+Snapshot ID: `MCw5MTdkYzdlNWQyOWEwZDQ2ODg4OTUwZDdkMTdhMWU3OTc1YTQwYTZi`

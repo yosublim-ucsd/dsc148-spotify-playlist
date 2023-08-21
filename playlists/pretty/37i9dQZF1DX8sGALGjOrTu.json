@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Thrice",
-  "num_followers": 423741,
+  "num_followers": 423982,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODM0ZGFiZWUwMDVkODhjNTYxMGEyMWNjZjNkZDQ3YzM1ODQ5YmVj",
+  "snapshot_id": "MCw3YWQyZGNjYzBjNjkzNzA1OTI2MDFhZjg0YWZjOTM0NTJlNjdiOGQx",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/6TTBhxnb9NYT7cz6aLOkBy"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 238053,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/6TTBhxnb9NYT7cz6aLOkBy"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Roses for the Dead",
+      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "The Emptiness",
         "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 180026,
       "name": "Deadbolt",
       "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Roses for the Dead",
-      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Try This With Your Eyes Closed",
-        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
       },
       "artists": [
         {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 249613,
-      "name": "Apology",
-      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
+      "duration_ms": 227706,
+      "name": "Ready To Fall",
+      "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Ready To Fall",
-      "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Bone Palace Ballet: Grand Coda",
         "url": "https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 208960,
       "name": "Bulls Make Money, Bears Make Money, Pigs Get Slaughtered",
       "url": "https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Try This With Your Eyes Closed",
+        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 249613,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
     },
     {
       "added_at": "2023-03-28 16:00:32",

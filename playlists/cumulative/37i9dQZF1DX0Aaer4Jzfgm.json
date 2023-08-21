@@ -349,24 +349,6 @@
     },
     {
       "album": {
-        "name": "I Giorni",
-        "url": "https://open.spotify.com/album/5P6Z5FDdLweX6oXp38nFHl"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "date_added": "2021-05-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 359213,
-      "name": "Einaudi: I Giorni",
-      "url": "https://open.spotify.com/track/6TCX42krn2Hq8vqCuEIkrh"
-    },
-    {
-      "album": {
         "name": "Elgar: Enigma Variations & Pomp & Circumstance Marches Nos 1-5",
         "url": "https://open.spotify.com/album/2TM5vanNqnVzeUovSArNZR"
       },
@@ -560,6 +542,24 @@
       "duration_ms": 359213,
       "name": "I giorni",
       "url": "https://open.spotify.com/track/46g8ENyqfzLrkbr88aoVMG"
+    },
+    {
+      "album": {
+        "name": "I Giorni",
+        "url": "https://open.spotify.com/album/5P6Z5FDdLweX6oXp38nFHl"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2021-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359213,
+      "name": "I Giorni",
+      "url": "https://open.spotify.com/track/6TCX42krn2Hq8vqCuEIkrh"
     },
     {
       "album": {

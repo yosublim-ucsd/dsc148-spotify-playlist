@@ -4,7 +4,7 @@
 
 > Flirty tracks Tove Lo loves\. Put this on when you want your intentions to be obvious..\. Welcome to mixtape, a curator's playground.
 
-30 songs - 2 hr 0 min
+31 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 | 2023-07-05 |  |
 | [Together Again](https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:01 | 2023-07-05 |  |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-07-05 |  |
-| [Turning You On](https://open.spotify.com/track/6ApvETfR03Th0uFdTBzzTh) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [VA Compilation, Vol\. 2](https://open.spotify.com/album/7AcWr6yt8F1yRmtafE5XCV) | 6:45 | 2023-07-05 |  |
+| [Turning You On](https://open.spotify.com/track/6ApvETfR03Th0uFdTBzzTh) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [VA Compilation, Vol\. 2](https://open.spotify.com/album/7AcWr6yt8F1yRmtafE5XCV) | 6:45 | 2023-07-05 | 2023-08-21 |
+| [Turning You On](https://open.spotify.com/track/6Uwee6Ej0Oplqm6vXAdNuc) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Turning You On](https://open.spotify.com/album/1TaRVGr8jOfDQIbAzhHP5S) | 6:45 | 2023-07-05 |  |
 | [Woman Like You](https://open.spotify.com/track/0Tby0PFN8E8I8pg0oxeapb) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Woman Like You](https://open.spotify.com/album/3thcwDUKvwi5ghc2KZbkkv) | 4:05 | 2023-07-05 |  |
 
 \*This playlist was first scraped on 2023-07-07. Prior content cannot be recovered.

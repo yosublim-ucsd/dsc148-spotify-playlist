@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Louis The Child",
-  "num_followers": 760523,
+  "num_followers": 760592,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGIwNjk0ZGZiOWE4MzRjNDZjOGEwMDliZWQwMDU1ZjdkZjE3ZjY5",
+  "snapshot_id": "MCxmZWFhMzRiOTEwODFlMGI0N2FiZTg3NzI4ODhmYTc0M2IxNDE1M2Jl",
   "tracks": [
     {
       "added_at": "2023-08-17 22:02:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "gutter",
-        "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
-      },
-      "artists": [
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        }
-      ],
-      "duration_ms": 127180,
-      "name": "gutter",
-      "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "So Much In Love (Sub Focus Remix)",
         "url": "https://open.spotify.com/album/47FtmJz3uPnswg7tTrAvF0"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 235885,
       "name": "So Much In Love - Sub Focus Remix",
       "url": "https://open.spotify.com/track/7umV8hDGUBIYV3kxoNz1Vb"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "gutter",
+        "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "duration_ms": 127180,
+      "name": "gutter",
+      "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 249160,
       "name": "MADLY",
       "url": "https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
+      },
+      "artists": [
+        {
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
+        }
+      ],
+      "duration_ms": 197832,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
         "name": "Out Of Options (feat. midwxst)",
         "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 156500,
       "name": "Out Of Options (feat. midwxst)",
       "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
-      },
-      "artists": [
-        {
-          "name": "MONSS",
-          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
-        }
-      ],
-      "duration_ms": 197832,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
         "name": "Microworlds",
         "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 209341,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "feel something real",
-        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 208676,
-      "name": "feel something real",
-      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "Windhorse",
         "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 194050,
       "name": "SUB ZERO",
       "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "feel something real",
+        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 208676,
+      "name": "feel something real",
+      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "TINY FLOWERS",
-        "url": "https://open.spotify.com/album/2UPG7QpPTFwEhsgvxZ8mpD"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 244063,
-      "name": "TINY FLOWERS",
-      "url": "https://open.spotify.com/track/4WFFyA0F7N0G2n58JlUvzP"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "Down The Line",
         "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 208440,
       "name": "Down The Line",
       "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "TINY FLOWERS",
+        "url": "https://open.spotify.com/album/2UPG7QpPTFwEhsgvxZ8mpD"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 244063,
+      "name": "TINY FLOWERS",
+      "url": "https://open.spotify.com/track/4WFFyA0F7N0G2n58JlUvzP"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
+        "name": "Thirst (Hex Cougar Remix)",
+        "url": "https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        }
+      ],
+      "duration_ms": 204963,
+      "name": "Thirst - Hex Cougar Remix",
+      "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
         "name": "Beyond The Veil (Remixes)",
         "url": "https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh)",
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
-        "name": "Thirst (Hex Cougar Remix)",
-        "url": "https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Hex Cougar",
-          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
-        }
-      ],
-      "duration_ms": 204963,
-      "name": "Thirst - Hex Cougar Remix",
-      "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -1779,18 +1779,22 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "Decision",
-        "url": "https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim"
+        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
       },
       "artists": [
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
         }
       ],
-      "duration_ms": 262682,
-      "name": "Decision",
-      "url": "https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR"
+      "duration_ms": 218581,
+      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -1815,22 +1819,18 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
-        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
+        "name": "Decision",
+        "url": "https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim"
       },
       "artists": [
         {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         }
       ],
-      "duration_ms": 218581,
-      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
-      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
+      "duration_ms": 262682,
+      "name": "Decision",
+      "url": "https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "Feeble Games",
-        "url": "https://open.spotify.com/album/4znRSwR5zTBwYuHPxtwMxo"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "Feeble Games",
-      "url": "https://open.spotify.com/track/4PZFQgPQy4bNmEztzaPzUQ"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -2007,26 +1991,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "Today Tomorrow Forever (feat. fknsyd)",
-        "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
-      },
-      "artists": [
-        {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 155175,
-      "name": "Today Tomorrow Forever (feat. fknsyd)",
-      "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "Empress (Zeds Dead Remix)",
         "url": "https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG"
       },
@@ -2043,6 +2007,42 @@
       "duration_ms": 134148,
       "name": "Empress - Zeds Dead Remix",
       "url": "https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "Feeble Games",
+        "url": "https://open.spotify.com/album/4znRSwR5zTBwYuHPxtwMxo"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "Feeble Games",
+      "url": "https://open.spotify.com/track/4PZFQgPQy4bNmEztzaPzUQ"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "Today Tomorrow Forever (feat. fknsyd)",
+        "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 155175,
+      "name": "Today Tomorrow Forever (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 92307,
-      "name": "And then it came together",
-      "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/6TAhNtHs5NGaEViqb1uINw"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 220869,
       "name": "Fool",
       "url": "https://open.spotify.com/track/1bDclm0e8PVf7t8D0UEl1i"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 92307,
+      "name": "And then it came together",
+      "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "VOODOO",
-        "url": "https://open.spotify.com/album/2IwOQiCHcma5ic1WTPzz0L"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "VOODOO",
-      "url": "https://open.spotify.com/track/2ryYs693sIZvV2No5g3vY7"
-    },
-    {
-      "added_at": "2023-08-17 22:02:00",
-      "album": {
         "name": "i luv ur smile",
         "url": "https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP"
       },
@@ -2343,18 +2327,18 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "all you'll get from me is my company",
-        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
+        "name": "VOODOO",
+        "url": "https://open.spotify.com/album/2IwOQiCHcma5ic1WTPzz0L"
       },
       "artists": [
         {
-          "name": "After Wes",
-          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 159375,
-      "name": "all you'll get from me is my company",
-      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
+      "duration_ms": 165500,
+      "name": "VOODOO",
+      "url": "https://open.spotify.com/track/2ryYs693sIZvV2No5g3vY7"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -2371,6 +2355,22 @@
       "duration_ms": 226950,
       "name": "2hard2letgo",
       "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
+    },
+    {
+      "added_at": "2023-08-17 22:02:00",
+      "album": {
+        "name": "all you'll get from me is my company",
+        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
+      },
+      "artists": [
+        {
+          "name": "After Wes",
+          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "all you'll get from me is my company",
+      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
     },
     {
       "added_at": "2023-08-17 22:02:00",
@@ -2411,18 +2411,22 @@
     {
       "added_at": "2023-08-17 22:02:00",
       "album": {
-        "name": "Arpeggio EP",
-        "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/07jas6TsfQ7q9eiB4GtxqI"
       },
       "artists": [
         {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+          "name": "Mazde",
+          "url": "https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 223714,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
+      "duration_ms": 194285,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/1g2q4DStDT1N6LRRUX0o6e"
     }
   ],
   "unique_name": "creamy",

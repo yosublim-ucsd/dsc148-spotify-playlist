@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 202160,
+  "num_followers": 202297,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWMyZDc4NDQwNWNhYjYxOTcwMTllZDM4NmUxYjM0MTU4NWIwZTY3",
+  "snapshot_id": "MCw3YmM0NTIwNmJkYjVjNjA2NjM5ODM0ZmI3ZGQ2Nzc5MTgzNmUyZWMz",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "By The End Of The Night",
-        "url": "https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 188562,
-      "name": "By The End Of The Night",
-      "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Frozen (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "By The End Of The Night",
+        "url": "https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 188562,
+      "name": "By The End Of The Night",
+      "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Dirt Femme (Extended Cut)",
+        "url": "https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 190902,
+      "name": "I like u",
+      "url": "https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "THE SNAKE",
         "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Dirt Femme (Extended Cut)",
-        "url": "https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 190902,
-      "name": "I like u",
-      "url": "https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "In Ghost Colours",
         "url": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
       },
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/4KCpGAzRm43d1KR0uHopMy"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 140586,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/6VKp9ZRRULPkWTt87jYVMG"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Henge",
         "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 206133,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/1AWvfGBiJQ6GV5Va0dS0es"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Dance Away The Pain",
-        "url": "https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in"
-      },
-      "artists": [
-        {
-          "name": "Number One Popstar",
-          "url": "https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q"
-        }
-      ],
-      "duration_ms": 176813,
-      "name": "Dance Away The Pain",
-      "url": "https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg"
     }
   ],
   "unique_name": "night pop",

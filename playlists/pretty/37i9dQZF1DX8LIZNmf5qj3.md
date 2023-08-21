@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Miguel x Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,354 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,360 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 |
 | 50 | [Dopamine](https://open.spotify.com/track/2aH5hMaNmlHHi6oJhwR8AK) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Dopamine](https://open.spotify.com/album/5WJ7b5yW2GXwHJkYlcpYVs) | 2:43 |
 
-Snapshot ID: `MCw1ZTMzNjRmMTg1OTE1NWZjOGMxNWYyNGU1YjlkMWFhMTU1OTI1ODFh`
+Snapshot ID: `MCxmNThlM2ZiYzllYzAyZjcwZDIxZjRkYWY3OGJlYjMzZmI2ZDhmZTRm`

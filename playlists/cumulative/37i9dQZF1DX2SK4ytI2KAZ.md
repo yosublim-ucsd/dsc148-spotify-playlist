@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-475 songs - 1 day 2 hr 27 min
+476 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [loneliness for love](https://open.spotify.com/track/5Kth6cQqMCY9HSo0GbhjUF) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [loneliness for love](https://open.spotify.com/album/5Ydukmq7CbdVsEKCqCuiXo) | 3:57 | 2021-03-10 | 2022-07-29 |
 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 | 2022-01-21 |  |
 | [Look at the Sky](https://open.spotify.com/track/4l5nn3zlcrKSB1eyfuWHhu) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Look at the Sky](https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y) | 5:09 | 2021-03-10 | 2023-03-29 |
-| [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-31 |  |
+| [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-31 | 2023-08-21 |
 | [Lose Money](https://open.spotify.com/track/5k6nFk3OyHxrZu6bHGYNan) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [teche](https://open.spotify.com/album/64tfW7uOt51l5TU7LyLgcf) | 3:06 | 2021-09-09 | 2022-05-04 |
 | [Loser](https://open.spotify.com/track/4LPvSKqEmFidSIgdLbHDcn) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/11HM6Bh33f02veTCxKm42q) | 3:05 | 2022-10-07 | 2023-06-08 |
 | [Loser](https://open.spotify.com/track/6WkRlNw5zd50xqm4Kd1mp5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Loser](https://open.spotify.com/album/7r1ccYfMGvbkcAB0T2yDCq) | 3:05 | 2022-07-29 | 2022-08-18 |
@@ -303,6 +303,7 @@
 | [Out of My Hands](https://open.spotify.com/track/2cMOFBM3yX5ntYPkayvKPc) | [Fox Royale](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [Out of My Hands](https://open.spotify.com/album/245d5Tm6FfK9n2tFmpFQv7) | 2:26 | 2021-03-10 | 2022-07-29 |
 | [Out Of My Head](https://open.spotify.com/track/1FMhjKZO2L2fNB08Ik1iBs) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Out Of My Head](https://open.spotify.com/album/7wnPpvk2a9PaqyW8IM8ScA) | 3:47 | 2022-03-11 | 2022-04-19 |
 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 | 2023-02-17 | 2023-08-12 |
+| [OUT OF MY MIND](https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [SELF TITLED](https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2) | 2:40 | 2023-08-07 |  |
 | [Outta My Head](https://open.spotify.com/track/1E4i0Acldoa1uclFevNIso) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [Outta My Head](https://open.spotify.com/album/32xPXPMA480Br7d4HvpAnS) | 3:18 | 2021-03-10 | 2022-07-29 |
 | [Over my head](https://open.spotify.com/track/6r5tlCMur8Vngv3n0DzOFl) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Over my head](https://open.spotify.com/album/5fpYoh1ma26Fsr2XJB21Cp) | 3:15 | 2021-03-10 | 2022-04-18 |
 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 | 2023-06-30 |  |

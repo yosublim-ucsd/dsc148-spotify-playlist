@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Victor Ruz & Caspian Marvin",
-  "num_followers": 1722,
+  "num_followers": 1723,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzU3ODUxYTk5MTY3ZDQyZTI2MDhkYmJiMTk0ZGU5NGI5MjY4MGI3",
+  "snapshot_id": "MCxjNDA1MTNiZTUxZDlhNzE5OTVkNzVmOTFlNDNhZjY0OWZmNzlmMzUw",
   "tracks": [
     {
       "added_at": "2023-08-18 11:35:13",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Bedroom Essentials",
-        "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
-      },
-      "artists": [
-        {
-          "name": "Elijah Kitaka",
-          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
-        },
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Tutu Mama",
-      "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
+        "name": "Bedroom Essentials",
+        "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
+      },
+      "artists": [
+        {
+          "name": "Elijah Kitaka",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        },
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Tutu Mama",
+      "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -395,18 +395,22 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
+        "name": "Shabada",
+        "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Mudra D Viral",
+          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
+        },
+        {
+          "name": "Ava Peace",
+          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
         }
       ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
+      "duration_ms": 196858,
+      "name": "Shabada",
+      "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -431,38 +435,18 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Shabada",
-        "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
       },
       "artists": [
         {
-          "name": "Mudra D Viral",
-          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
-        },
-        {
-          "name": "Ava Peace",
-          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         }
       ],
-      "duration_ms": 196858,
-      "name": "Shabada",
-      "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
-        "name": "Pretty Young Thing",
-        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Pretty Young Thing",
-      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -483,6 +467,22 @@
       "duration_ms": 169200,
       "name": "Salary",
       "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
+        "name": "Pretty Young Thing",
+        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Pretty Young Thing",
+      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
       },
@@ -639,6 +619,26 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
         "name": "Kika Buka",
         "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
       },
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE"
+      },
+      "artists": [
+        {
+          "name": "Kivumbi King",
+          "url": "https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
         "name": "Kitooke Kyagonja",
         "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 190129,
       "name": "Kitooke Kyagonja",
       "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
-      },
-      "artists": [
-        {
-          "name": "Fancy Fingers",
-          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
-        },
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 179762,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -711,22 +711,22 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Captain",
-        "url": "https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
       },
       "artists": [
         {
-          "name": "Kivumbi King",
-          "url": "https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv"
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
         },
         {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         }
       ],
-      "duration_ms": 132857,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
+      "duration_ms": 179762,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Chai We Njaye",
-        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
-      },
-      "artists": [
-        {
-          "name": "Omutume Planet",
-          "url": "https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Chai We Njaye",
-      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
         "name": "Wanting Me",
         "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
       },
@@ -799,22 +783,18 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
+        "name": "Chai We Njaye",
+        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
       },
       "artists": [
         {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+          "name": "Omutume Planet",
+          "url": "https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp"
         }
       ],
-      "duration_ms": 226153,
-      "name": "On my Mind",
-      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
+      "duration_ms": 165015,
+      "name": "Chai We Njaye",
+      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -835,6 +815,26 @@
       "duration_ms": 175072,
       "name": "Fertilizer",
       "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "On my Mind",
+      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "BESTIE",
-        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "BESTIE",
-      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
         "name": "Leaving Summer",
         "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 157500,
       "name": "Leaving Summer",
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     },
     {
       "added_at": "2023-08-18 11:35:13",

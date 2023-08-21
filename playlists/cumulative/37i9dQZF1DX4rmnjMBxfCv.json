@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Lessatni Janbi",
+        "url": "https://open.spotify.com/album/4dBm61G8fQ5v2qP1KmsBNe"
+      },
+      "artists": [
+        {
+          "name": "Hijazi",
+          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204673,
+      "name": "Lessatni Janbi",
+      "url": "https://open.spotify.com/track/56gwEECcoSmSwQZb2H3vKv"
+    },
+    {
+      "album": {
         "name": "M3ALLA2 FIKI",
         "url": "https://open.spotify.com/album/5xfsxvdJIIA28ss6KuRYUJ"
       },

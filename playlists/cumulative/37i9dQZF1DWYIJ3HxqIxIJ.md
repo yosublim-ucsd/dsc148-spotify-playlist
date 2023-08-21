@@ -2,7 +2,7 @@
 
 ### [RADAR AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYIJ3HxqIxIJ)
 
-> Teen Jesus and the Jean Teasers is our new RADAR artist to watch!
+> Teen Jesus and the Jean Teasers are our new RADAR artist to watch!
 
 253 songs - 13 hr 13 min
 
