@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-230 songs - 12 hr 27 min
+232 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,9 @@
 | [After The Tone](https://open.spotify.com/track/3XwSVHvobJ4Z4SfvF9fTNz) | [Justin Adijanto](https://open.spotify.com/artist/3jPJR4xjyCwJQSG5JLEbzl), [SAWA](https://open.spotify.com/artist/0HCd0T7uXpnIUJgrBTlEvE) | [After The Tone](https://open.spotify.com/album/7HwIUiOremortAibAsFUPM) | 4:35 | 2022-06-13 | 2022-06-15 |
 | [ain't leavin' without you](https://open.spotify.com/track/4RMvwkiBDFysupvBWkJDoJ) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [ain't leavin' without you](https://open.spotify.com/album/6UshO89K1Or0hwvl7r05MO) | 3:57 | 2022-06-06 | 2022-07-27 |
 | [Alive](https://open.spotify.com/track/44OznaUsvuPVbcJNKMOVcp) | [Tropic](https://open.spotify.com/artist/5Ix5mo2NuCnVO5mhWpcvOJ) | [Alive](https://open.spotify.com/album/3WFJRVtfR6GeafsW7SOxrz) | 3:40 | 2022-06-06 | 2022-07-28 |
-| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 |  |
+| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 | 2023-08-22 |
 | [All My Sins \(feat\. syd hartha\)](https://open.spotify.com/track/3i0CZ8RoNRrNoNkHzm8UYQ) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [All My Sins \(feat\. syd hartha\)](https://open.spotify.com/album/2KmGCyKY57BZUfuH33BZnV) | 2:51 | 2022-06-06 | 2022-07-29 |
-| [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 | 2023-02-13 |  |
+| [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 | 2023-02-13 | 2023-08-22 |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 | 2022-08-08 | 2022-08-16 |
 | [All That](https://open.spotify.com/track/4gtOXb4PIqd2ojM8JLSmKX) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [All That](https://open.spotify.com/album/5dGFEC14f3mNCNZNnYLClk) | 3:18 | 2022-06-06 | 2022-07-28 |
 | [Attention](https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:28 | 2022-07-25 |  |
@@ -101,6 +101,7 @@
 | [if i don't have your love](https://open.spotify.com/track/1CxImGOa5w53prpeB3F7uA) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Wallflower](https://open.spotify.com/album/5LFH7fj2hCEPCGh7Ojsne3) | 2:47 | 2022-06-06 | 2022-07-29 |
 | [If We Ever Broke Up \(feat\. Zack Tabudlo\) \- Remix](https://open.spotify.com/track/4eGD9nC7r8npeJMJclBbKc) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [If We Ever Broke Up \(feat\. Zack Tabudlo\) \[Remix\]](https://open.spotify.com/album/6PMJzBTQ6vKeKxtco1FqKU) | 2:22 | 2023-07-03 | 2023-07-11 |
 | [Illusion](https://open.spotify.com/track/74WIjSs3N0fI3LtC0rB2Gs) | [Julia Duclos](https://open.spotify.com/artist/0eK60XV9Prh7naXVKJt1XE) | [Illusion EP](https://open.spotify.com/album/7dRKHBi8oyyDjb5uQrro8N) | 2:49 | 2022-06-06 | 2022-07-28 |
+| [In Our Own Time](https://open.spotify.com/track/79okfwJ5FubZPIfNwZC4it) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [Cold Summer Paradise](https://open.spotify.com/album/08NOgjtXqECoRNV0agRecq) | 2:40 | 2023-08-21 |  |
 | [is it cool?](https://open.spotify.com/track/6NmMyDDd74hWU8UlmxF47d) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [is it cool?](https://open.spotify.com/album/7x2IK86XxyIi1hw5lJqGbY) | 2:09 | 2022-06-06 | 2022-07-28 |
 | [Is This A Game](https://open.spotify.com/track/4spfk3QA3CL2RfWXVYgDRn) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa) | [Is This A Game](https://open.spotify.com/album/1G7X6Dmj2fTsa7UaJGckWd) | 3:08 | 2022-06-06 | 2022-07-27 |
 | [It Takes Two](https://open.spotify.com/track/5V7qLbZJNTwaEVbZADqofc) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [It Takes Two](https://open.spotify.com/album/3bTLu0LF1pBSZsZUDohta0) | 2:39 | 2022-11-07 | 2023-03-28 |
@@ -124,6 +125,7 @@
 | [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 | 2022-11-07 | 2022-11-15 |
 | [Lighter](https://open.spotify.com/track/5s3RCDdbxRL0ykNxv20Sdk) | [Alyn Wee](https://open.spotify.com/artist/7DJh9nDNvYCoQnmhGaFJiH) | [Alyn](https://open.spotify.com/album/2CViWGevIoTpyB1WwIua6d) | 4:21 | 2022-06-06 | 2022-07-28 |
 | [Lighthouse \- Remastered](https://open.spotify.com/track/5oXQCEgLQxhzVDIodLgC6T) | [Scarlet Avenue](https://open.spotify.com/artist/6EY542nuCIu9Q0TXwGKd05) | [2024](https://open.spotify.com/album/2ID16fz9ZIyhUHqNZrs4TS) | 3:48 | 2022-06-13 | 2022-07-29 |
+| [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-08-21 |  |
 | [Lobby](https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Lobby](https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu) | 2:37 | 2022-08-22 | 2022-11-13 |
 | [Loser](https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:24 | 2022-10-10 |  |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-21 |  |

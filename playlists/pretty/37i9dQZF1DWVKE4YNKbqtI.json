@@ -1,12 +1,12 @@
 {
   "description": "Little Walter, Junior Wells, James Cotton the finest blues harmonica players.",
-  "num_followers": 9386,
+  "num_followers": 9395,
   "original_name": "Blues Harp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQwOWYzNGJhYjA5ODE4NGMxOTc1MDg4ZGNmZWE4OGMzYjRiZGIz",
+  "snapshot_id": "MCwzMjYzMjVmZmFlZWVkZjM2OTZiNjM0NzZmNTUzNjkyYzQ1Nzc3N2Ji",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -195,38 +195,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Have A Good Time",
-      "url": "https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -247,6 +215,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "The Resurrection Of Pigboy Crabshaw",
         "url": "https://open.spotify.com/album/5nEOJtjR1clDZQZwAlA7Qs"
       },
@@ -263,18 +247,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Too Cool to Move",
-        "url": "https://open.spotify.com/album/62xvQ20A7TCjo2ZeafeuJx"
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
       "artists": [
         {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
         }
       ],
-      "duration_ms": 182933,
-      "name": "Bottle It Up and Go",
-      "url": "https://open.spotify.com/track/5eHeHvy9wdvATbd7Wj4R8T"
+      "duration_ms": 228533,
+      "name": "Have A Good Time",
+      "url": "https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -311,6 +295,22 @@
       "duration_ms": 217226,
       "name": "Diggin' My Potatoes",
       "url": "https://open.spotify.com/track/7vsJLJHAYHRmovTbRTgRFx"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Too Cool to Move",
+        "url": "https://open.spotify.com/album/62xvQ20A7TCjo2ZeafeuJx"
+      },
+      "artists": [
+        {
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Bottle It Up and Go",
+      "url": "https://open.spotify.com/track/5eHeHvy9wdvATbd7Wj4R8T"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Deep In The Blues",
-        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Play With Your Poodle",
-      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Shoulder To Shoulder",
         "url": "https://open.spotify.com/album/6mHbgI7rA71VIDAgy2z1YV"
       },
@@ -455,6 +439,38 @@
       "duration_ms": 321080,
       "name": "Looking For A Woman",
       "url": "https://open.spotify.com/track/6JuJtd8K0jpEejEBJBitlA"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Deep In The Blues",
+        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Play With Your Poodle",
+      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Heartaches And Pain",
+        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Carey Bell Rocks",
+      "url": "https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -515,18 +531,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Heartaches And Pain",
-        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
       "artists": [
         {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Carey Bell Rocks",
-      "url": "https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9"
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -547,6 +567,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "One Wrong Turn",
+        "url": "https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl"
+      },
+      "artists": [
+        {
+          "name": "Rick Estrin & The Nightcats",
+          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+        }
+      ],
+      "duration_ms": 313680,
+      "name": "Callin' All Fools",
+      "url": "https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "That's Life",
         "url": "https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii"
       },
@@ -559,26 +595,6 @@
       "duration_ms": 256906,
       "name": "Don't Bite the Hand That Feeds You",
       "url": "https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -603,18 +619,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "One Wrong Turn",
-        "url": "https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl"
+        "name": "Alone With The Blues",
+        "url": "https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ"
       },
       "artists": [
         {
-          "name": "Rick Estrin & The Nightcats",
-          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+          "name": "Keith Dunn",
+          "url": "https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL"
         }
       ],
-      "duration_ms": 313680,
-      "name": "Callin' All Fools",
-      "url": "https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF"
+      "duration_ms": 171133,
+      "name": "Need To Make A Dollar",
+      "url": "https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -631,22 +647,6 @@
       "duration_ms": 548440,
       "name": "Bad Boys Heaven",
       "url": "https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Alone With The Blues",
-        "url": "https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ"
-      },
-      "artists": [
-        {
-          "name": "Keith Dunn",
-          "url": "https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Need To Make A Dollar",
-      "url": "https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J"
     },
     {
       "added_at": "2020-10-22 17:19:34",

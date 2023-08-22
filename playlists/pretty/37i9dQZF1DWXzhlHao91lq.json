@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 68861,
+  "num_followers": 68879,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2QyMGNkZmRkMDZkOWRkNDc1YmNjNmE3NWE4YTk4ZDNiNTViMWNk",
+  "snapshot_id": "MCxjNWUzOWRjZmM0YjcxMzllMjE2YzhkNTg2MWZhZDM4N2RhNDI5MDQw",
   "tracks": [
     {
       "added_at": "2023-08-14 04:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 152666,
       "name": "favorite crime",
       "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
-    },
-    {
-      "added_at": "2023-08-14 04:00:00",
-      "album": {
-        "name": "Lucky (Jason's First Draft)",
-        "url": "https://open.spotify.com/album/5jZJPl8660caI1l3w2NaQD"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "Lucky (Jason's First Draft)",
-      "url": "https://open.spotify.com/track/2zhuP2JZpqyTEwzTERNdHc"
     },
     {
       "added_at": "2023-08-14 04:00:00",
@@ -387,22 +371,6 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
-    },
-    {
-      "added_at": "2023-08-14 04:00:00",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
@@ -419,6 +387,22 @@
       "duration_ms": 253531,
       "name": "Beautiful People Beautiful Problems (feat. Stevie Nicks)",
       "url": "https://open.spotify.com/track/3O7p9Itz8PXUoAjD2vmuM6"
+    },
+    {
+      "added_at": "2023-08-14 04:00:00",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
     },
     {
       "added_at": "2023-08-14 04:00:00",
@@ -883,22 +867,18 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
-        "name": "Northern Anthems",
-        "url": "https://open.spotify.com/album/4rCcHDbNIPKBkYi1rdgPYr"
+        "name": "Lucky (Jason's First Draft)",
+        "url": "https://open.spotify.com/album/5jZJPl8660caI1l3w2NaQD"
       },
       "artists": [
         {
-          "name": "Vian Izak",
-          "url": "https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq"
-        },
-        {
-          "name": "Juniper Vale",
-          "url": "https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 102288,
-      "name": "Mostly",
-      "url": "https://open.spotify.com/track/2yWhQ9D4tbjpEcpJZCGkC4"
+      "duration_ms": 170853,
+      "name": "Lucky (Jason's First Draft)",
+      "url": "https://open.spotify.com/track/2zhuP2JZpqyTEwzTERNdHc"
     },
     {
       "added_at": "2023-08-14 04:00:00",
@@ -915,6 +895,26 @@
       "duration_ms": 152346,
       "name": "To Watch the World Spin Without You",
       "url": "https://open.spotify.com/track/0BdpYdgNeEZwHqP1vSrsw0"
+    },
+    {
+      "added_at": "2023-08-14 04:00:00",
+      "album": {
+        "name": "Northern Anthems",
+        "url": "https://open.spotify.com/album/4rCcHDbNIPKBkYi1rdgPYr"
+      },
+      "artists": [
+        {
+          "name": "Vian Izak",
+          "url": "https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq"
+        },
+        {
+          "name": "Juniper Vale",
+          "url": "https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK"
+        }
+      ],
+      "duration_ms": 102288,
+      "name": "Mostly",
+      "url": "https://open.spotify.com/track/2yWhQ9D4tbjpEcpJZCGkC4"
     },
     {
       "added_at": "2023-08-14 04:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
+        "name": "Leave It Beautiful (Complete)",
+        "url": "https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 184908,
+      "name": "Think Before I Talk",
+      "url": "https://open.spotify.com/track/0W23tLZdwTqLwcmZ3eUhLp"
+    },
+    {
+      "added_at": "2023-08-14 04:00:00",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 180466,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
-    },
-    {
-      "added_at": "2023-08-14 04:00:00",
-      "album": {
-        "name": "Leave It Beautiful (Complete)",
-        "url": "https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 184908,
-      "name": "Think Before I Talk",
-      "url": "https://open.spotify.com/track/0W23tLZdwTqLwcmZ3eUhLp"
     },
     {
       "added_at": "2023-08-14 04:00:00",

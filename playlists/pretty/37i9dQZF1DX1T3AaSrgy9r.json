@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 101601,
+  "num_followers": 101685,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjdhZGQwNGU1ODZkMzdjMmM2MjNiOTk1Y2RjNTE5YTk0MWJhZDlm",
+  "snapshot_id": "MCxlM2M2ZjIwNGQwMzUxMjhiZWE4OTdjOWE0ZjFmMDhhNzdkN2UxODkw",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -307,6 +307,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 328680,
-      "name": "Da Funk",
-      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 298466,
-      "name": "Sexy Boy",
-      "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -483,6 +467,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 298466,
+      "name": "Sexy Boy",
+      "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -547,26 +547,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Maxinquaye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "Hell Is Round The Corner",
-      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Amnesiac",
         "url": "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0"
       },
@@ -583,18 +563,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
         }
       ],
-      "duration_ms": 117240,
-      "name": "Organ Donor",
-      "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
+      "duration_ms": 227066,
+      "name": "Hell Is Round The Corner",
+      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -643,6 +627,22 @@
       "duration_ms": 258533,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 117240,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -715,6 +715,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "Human Behaviour",
+      "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "The Fat of the Land",
         "url": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 382360,
       "name": "Original - Remastered",
       "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "Human Behaviour",
-      "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Vegas",
-        "url": "https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt"
-      },
-      "artists": [
-        {
-          "name": "The Crystal Method",
-          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
-        }
-      ],
-      "duration_ms": 445000,
-      "name": "Busy Child",
-      "url": "https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Wreckage",
         "url": "https://open.spotify.com/album/6niSmIWp5Pgl3pyMndWSKx"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 287426,
       "name": "Supermoves",
       "url": "https://open.spotify.com/track/1HeCBrZd0A2ub1E8aeZJie"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt"
+      },
+      "artists": [
+        {
+          "name": "The Crystal Method",
+          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
+        }
+      ],
+      "duration_ms": 445000,
+      "name": "Busy Child",
+      "url": "https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "The Journey Man",
-        "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
-      },
-      "artists": [
-        {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
-        },
-        {
-          "name": "Ulterior Motive",
-          "url": "https://open.spotify.com/artist/711RACYACplatReI4JGaoa"
-        },
-        {
-          "name": "Natalie Williams",
-          "url": "https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF"
-        }
-      ],
-      "duration_ms": 366387,
-      "name": "I Adore You",
-      "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Music for the Jilted Generation",
         "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
       },
@@ -1163,6 +1139,30 @@
       "duration_ms": 367493,
       "name": "Original Bedroom Rockers",
       "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "The Journey Man",
+        "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        },
+        {
+          "name": "Ulterior Motive",
+          "url": "https://open.spotify.com/artist/711RACYACplatReI4JGaoa"
+        },
+        {
+          "name": "Natalie Williams",
+          "url": "https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF"
+        }
+      ],
+      "duration_ms": 366387,
+      "name": "I Adore You",
+      "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Abc Music - The Radio 1 Sessions",
-        "url": "https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
-        }
-      ],
-      "duration_ms": 260640,
-      "name": "Gabriel",
-      "url": "https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dead Cities",
         "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 345893,
       "name": "Weapon Of Choice",
       "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Abc Music - The Radio 1 Sessions",
+        "url": "https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "duration_ms": 260640,
+      "name": "Gabriel",
+      "url": "https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO"
     },
     {
       "added_at": "2021-07-14 17:36:34",

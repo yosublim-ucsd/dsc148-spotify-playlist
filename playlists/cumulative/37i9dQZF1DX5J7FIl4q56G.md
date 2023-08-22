@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Within Temptation
 
-4,315 songs - 12 day 3 hr 42 min
+4,316 songs - 12 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4307,7 +4307,8 @@
 | [Zoro Kokonotsu No Yaiba \- From "One Piece"](https://open.spotify.com/track/32P1WGuqcMRjYwafyuWJnS) | [Gabriele Motta](https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ) | [Zoro Kokonotsu No Yaiba \(From "One Piece"\)](https://open.spotify.com/album/7IYQjOr9PKX8axdmoJgwc8) | 1:59 | 2022-12-16 | 2023-01-06 |
 | [Ácido](https://open.spotify.com/track/5OhPEv9XcpITi0esK0ivCu) | [Grima](https://open.spotify.com/artist/0dD18OLw7WRlZlBu9ZDmSH), [Kaixo](https://open.spotify.com/artist/7wgHIRNWM47VkaCHN7UMeG) | [Ácido](https://open.spotify.com/album/4nczcW3LTUmC2b5rAZnS5L) | 2:31 | 2022-03-18 | 2022-03-25 |
 | [Övergivenheten \- Single Edit](https://open.spotify.com/track/4N7F0yJ3IqPJbsqB3z0huv) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Övergivenheten](https://open.spotify.com/album/0m5Myw8279H3fmmhSd5XdT) | 3:52 | 2022-05-13 | 2022-05-20 |
-| [Ýdalir](https://open.spotify.com/track/4l83K4I8nrw199XotkMtqy) | [Skálmöld](https://open.spotify.com/artist/61OnUq2Pb2GDDGlrHb7I6U) | [Ýdalir](https://open.spotify.com/album/5lTYv86bxfIwbl0Xx9d8Y1) | 5:06 | 2023-08-18 |  |
+| [Ýdalir](https://open.spotify.com/track/4l83K4I8nrw199XotkMtqy) | [Skálmöld](https://open.spotify.com/artist/61OnUq2Pb2GDDGlrHb7I6U) | [Ýdalir](https://open.spotify.com/album/5lTYv86bxfIwbl0Xx9d8Y1) | 5:06 | 2023-08-18 | 2023-08-22 |
+| [Ýdalir](https://open.spotify.com/track/5Lf5i3G6YhoFxruADqzUfn) | [Skálmöld](https://open.spotify.com/artist/61OnUq2Pb2GDDGlrHb7I6U) | [Ýdalir](https://open.spotify.com/album/4ir1jZRai84GjhTjnGrG84) | 5:06 | 2023-08-18 |  |
 | [μ\. EGO DEATH](https://open.spotify.com/track/1zi8usav8eswpD1LttGbDV) | [As They Burn](https://open.spotify.com/artist/0fqfKLohlNT5e7qTgczTrC) | [Ego Death](https://open.spotify.com/album/1VMOF2CvjlWdrsjb8Mk6cK) | 4:21 | 2022-11-11 | 2022-11-19 |
 | [ΠΥΡ ΑΕΝΑΟΝ](https://open.spotify.com/track/1IMZQzhK6C8mWHg5YQp8IL) | [Aetherian](https://open.spotify.com/artist/3dpDSmg1jDGvwMVQxhDYlw) | [ΠΥΡ ΑΕΝΑΟΝ](https://open.spotify.com/album/0aUBSAZ1KsjnEdwbLrJfJy) | 4:29 | 2023-05-26 | 2023-06-03 |
 | [Лімб](https://open.spotify.com/track/1Hs7VY4g7MDOAcBT64ay95) | [Burned Time Machine](https://open.spotify.com/artist/1CqrtuYsF9FgMfSeWM4uB1) | [Лімб](https://open.spotify.com/album/43rjfWOh0aQrqimWhqCNht) | 2:44 | 2023-08-11 | 2023-08-19 |

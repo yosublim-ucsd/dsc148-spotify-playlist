@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Dani Zam Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,729 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,740 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 14 | [First Love](https://open.spotify.com/track/4eIKHlI0TcXodMAHFuv4al) | [Lance A](https://open.spotify.com/artist/0fdCjtR1V4tSbkShNAXeNq) | [First Love](https://open.spotify.com/album/3BwJzDf57Rkl0smjYlKBTA) | 2:44 |
 | 15 | [All I Need](https://open.spotify.com/track/6tEkZqn9uZkamlkUVNMAME) | [Léah the Leo](https://open.spotify.com/artist/6eZlJr1NA9IWzeoPW1gFOz), [MKLO](https://open.spotify.com/artist/1V6MmznmBWW7DLQF20oPsq) | [All I Need](https://open.spotify.com/album/1lFau2Ju0k0hyyogv6WPJu) | 2:56 |
 | 16 | [Meant To Be](https://open.spotify.com/track/6mexXWzbZzaCDMULwyRZaK) | [NIKO](https://open.spotify.com/artist/38bJMa81Dtu0Li8C6OXnTd), [Angelica Violette](https://open.spotify.com/artist/54XSAh19sUsCZ7JstAAm1L) | [Meant To Be](https://open.spotify.com/album/5WAKgoa7kDt3BDxDbziXwF) | 3:04 |
-| 17 | [Wag Ka Mag Alala](https://open.spotify.com/track/7wMPCCRpXHIrIORGFTh9Dk) | [JKwervo](https://open.spotify.com/artist/4ky3wibKyqWBJyoOMfL8Au), [Trynket](https://open.spotify.com/artist/532KYewibPingKExTDrDbA), [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q) | [Wag Ka Mag Alala](https://open.spotify.com/album/30ave8gjOSi9tLp6fIWNau) | 2:55 |
+| 17 | [Wag Ka Mag Alala](https://open.spotify.com/track/7wMPCCRpXHIrIORGFTh9Dk) | [JKwervo](https://open.spotify.com/artist/4ky3wibKyqWBJyoOMfL8Au), [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q), [Trynket](https://open.spotify.com/artist/532KYewibPingKExTDrDbA) | [Wag Ka Mag Alala](https://open.spotify.com/album/30ave8gjOSi9tLp6fIWNau) | 2:55 |
 | 18 | [Totoo Lang](https://open.spotify.com/track/1PHy2M2RuDQ1SRhHrJPsgP) | [Rich Flo](https://open.spotify.com/artist/71junpzEi4CvJM1nhoVuWc) | [Totoo Lang](https://open.spotify.com/album/0ebGwTsXwgNlDWq9zpLVbL) | 3:33 |
 | 19 | [Dance With Me](https://open.spotify.com/track/7uj2Ylzg8wy2SV1440jmpb) | [Childlike Wonder](https://open.spotify.com/artist/0DWpyJrc1Vn7rLct905fPA) | [Dance With Me](https://open.spotify.com/album/4tGGBcxlyRhwgF3QO1uUYm) | 4:27 |
 | 20 | [Low](https://open.spotify.com/track/6LYP96Eqyt1O7asUis0hBv) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Low](https://open.spotify.com/album/6S2U5Eij3jlBfxKAwwh9uP) | 3:40 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Oxygen](https://open.spotify.com/track/5WRMxSCs9W65GMcnbF6LQH) | [Phoebe Gil](https://open.spotify.com/artist/32DK9SxDI8Q7ri4yMXbraU) | [Oxygen](https://open.spotify.com/album/58qH32y3o7Sd0kudNfXH2V) | 3:32 |
 | 74 | [Akit](https://open.spotify.com/track/75KTAl7LtIHeXc0OOezZFF) | [Maxie Andreison](https://open.spotify.com/artist/2QuQBf81nBbfyLSQcTvXtl) | [Akit](https://open.spotify.com/album/4gyuvv2ooE1VTCxnxAyE7E) | 3:17 |
 
-Snapshot ID: `MCwyZDFjMDQ1NDVkYWQ2OWE1YTk5NDY3YTY1YzIwMWI2ZDU2M2UzYmUx`
+Snapshot ID: `MCxjOGM5ZTZlNjM1ZDAzODI0Nzk3MWIwMDI2Yzk5ZDhiZDYxZGIzZjNj`

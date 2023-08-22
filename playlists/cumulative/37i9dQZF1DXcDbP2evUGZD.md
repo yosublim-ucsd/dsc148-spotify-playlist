@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-241 songs - 15 hr 37 min
+244 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Mr.Love](https://open.spotify.com/track/2cNDYm1m7yfZUcZnc5mWmj) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [Blast From The Past](https://open.spotify.com/album/7rHZCf6NdEpBseFNpiZMGH) | 3:26 | 2022-09-27 | 2023-07-13 |
 | [My Father](https://open.spotify.com/track/7h9DPxZTg2SYa7p5CXR5H7) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [30th Yoo Jae Ha Music Contest](https://open.spotify.com/album/5skmOItX1dPpVxAjH5tvMt) | 5:15 | 2022-09-27 | 2023-07-13 |
 | [My Ocean](https://open.spotify.com/track/1x1dsKXn4vzzMWli3PaXe4) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [My Ocean](https://open.spotify.com/album/1GYc2ZVmStW924LtEIL0jd) | 4:18 | 2022-09-27 | 2022-12-03 |
+| [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 | 2023-08-21 |  |
 | [National Police Shit](https://open.spotify.com/track/6kcHBBYyMPRtniP1hRvBjb) | [Drinking Boys and Girls Choir](https://open.spotify.com/artist/1ZBsXLFV4kdFa0yqqNy9kx) | [Keep Drinking](https://open.spotify.com/album/5weZL40Nw4VmHCAAJtBzKv) | 1:33 | 2023-07-12 |  |
 | [necessary girl](https://open.spotify.com/track/4DgHeH6J9Zt4Sy9T3guUaY) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [b\-side: 90s kids never get old](https://open.spotify.com/album/3LSB4lngs6O4VrYR4uagos) | 2:12 | 2022-09-27 | 2023-07-13 |
 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 | 2022-10-17 | 2023-07-13 |
@@ -214,6 +215,7 @@
 | [TNT \(Truth&Trust\)](https://open.spotify.com/track/4T30WW01s7L6kVDjJcIjST) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter 1\. TRACKS](https://open.spotify.com/album/2ZgUNU6gmCxWtEdHNWjtDw) | 3:19 | 2023-07-12 |  |
 | [Today is the day \(Good Day\)](https://open.spotify.com/track/2Iio7YzWcoCLLWConHTfIc) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Cheer Up \(Original Soundtrack Part.5\)](https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7) | 3:51 | 2023-07-12 |  |
 | [Too Old to Die Young](https://open.spotify.com/track/5eNHy4Amzm9Y6JR9lNOb7i) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Too Old to Die Young](https://open.spotify.com/album/5Kq5vJogXqkMmwxkdgwxM8) | 4:12 | 2022-09-27 | 2023-07-13 |
+| [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 | 2023-08-21 |  |
 | [Twenty years old](https://open.spotify.com/track/0HNX0housEsXeku4BTAICS) | [Wings of the ISANG](https://open.spotify.com/artist/000dicAA3QWT6m118rFXLO) | [The Borderline between Hope and Despair](https://open.spotify.com/album/1AvwXkcx9xngszexcHqFN7) | 5:26 | 2022-09-27 | 2023-07-13 |
 | [Undecided](https://open.spotify.com/track/6IdGaZrX3GwcOmJ1JIIUps) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0Kl9kesX2QKKGPajZkmPkE) | 3:49 | 2023-07-12 |  |
 | [Unforgettable](https://open.spotify.com/track/44YVBW6cpHJ9gRD93FIk8R) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Unforgettable](https://open.spotify.com/album/7JNkxkkZ1TAYdtnVxNd0qM) | 3:11 | 2023-07-12 |  |
@@ -238,6 +240,7 @@
 | [YOU](https://open.spotify.com/track/1t4brrmAIeYghJ3QAAF5Ri) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Summer Tales](https://open.spotify.com/album/4zOhFGKRXA7Mwe6c0sJRXD) | 3:34 | 2022-10-17 |  |
 | [Zinnia](https://open.spotify.com/track/0ll9zCUAVr3qmpGPfenFvI) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Zinnia](https://open.spotify.com/album/5MQ5dlRGUTSmWeKAYw9Ckh) | 3:47 | 2022-09-27 | 2023-07-13 |
 | [Zoom in](https://open.spotify.com/track/2KqDiLmDIG3Q7DoxS07tCr) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Dress code](https://open.spotify.com/album/7dG75t5CvFXocpg2OnrSFd) | 3:30 | 2022-09-27 | 2023-07-13 |
+| [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 | 2023-08-21 |  |
 | [꽃 Blossom](https://open.spotify.com/track/34f6JDNuJZfRt2Mrd1w00K) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [꽃 Blossom](https://open.spotify.com/album/5W8EKu6OvTWD8V9mt86wc0) | 4:33 | 2023-07-12 |  |
 | [나란바다 My Ocean](https://open.spotify.com/track/61wYlf38rsIiuwho8HAv0Y) | [SESANG](https://open.spotify.com/artist/5HhKUpoirT4YAwh6REQO03) | [나란바다 My Ocean](https://open.spotify.com/album/6UAJ6V6s3FhNyujlFeD0uY) | 4:18 | 2022-10-22 | 2023-07-13 |
 | [눈이 내린다 It's Snowing \(feat\. Earip\)](https://open.spotify.com/track/1vf4FWtwAk47SWqD55osz1) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n), [earip](https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU) | [발라드 Ballad](https://open.spotify.com/album/4f28918eMeOEGiJNoR2yEk) | 5:39 | 2022-10-22 |  |

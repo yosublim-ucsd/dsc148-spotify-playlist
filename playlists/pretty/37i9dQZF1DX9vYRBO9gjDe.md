@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。8月19日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,820 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,909 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [AtsuAtsu Boogie Back](https://open.spotify.com/track/1Vf71RESUKVtrWqe585IWw) | [Suzukisuzuki](https://open.spotify.com/artist/690KyTd8rr5DRhIbtsO19x) | [AtsuAtsu Boogie Back](https://open.spotify.com/album/4v22hgXmdSiQebAG1pb0EP) | 3:05 |
 | 50 | [B・BLUE](https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ) | [BOØWY](https://open.spotify.com/artist/0pr3ep0knQaPHEZ2X8niA0) | [BEAT EMOTION](https://open.spotify.com/album/2bkKCQ1ASzhXrQebGRTTSm) | 3:57 |
 
-Snapshot ID: `MCxmNGZhNzllOWRmOTgzOGFhMjRkMDA5YWYxOWE3MWNhMWZlN2E5Yzg1`
+Snapshot ID: `MCxkZDE0YWUxYTAwODBiNTNiODk0YzI4ODc3ZDJhNDI5ZmE1YTQ4ZjI2`

@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUCY) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 218900,
+  "num_followers": 219024,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjY1NDUyYzYwMWQyZDdjYTdmOWM4ZjFhMGQ2ZThhNzI3ZWEzNzM1",
+  "snapshot_id": "MCwxMzUxOWM5NDk2ZTgzNzUxNWQwZWM0NzY3ZGM5N2MwZjA5MmMzYmJj",
   "tracks": [
     {
       "added_at": "2023-08-17 15:17:40",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "ride",
+      "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
+    },
+    {
+      "added_at": "2023-08-17 15:17:40",
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
       },
@@ -247,22 +263,6 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
-    },
-    {
-      "added_at": "2023-08-17 15:17:40",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -279,8 +279,24 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
-        "name": "summer flows 0.02",
-        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+    },
+    {
+      "added_at": "2023-08-17 15:17:40",
+      "album": {
+        "name": "pueblo",
+        "url": "https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR"
       },
       "artists": [
         {
@@ -289,8 +305,8 @@
         }
       ],
       "duration_ms": 228500,
-      "name": "ride",
-      "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
+      "name": "pueblo",
+      "url": "https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA"
     },
     {
       "added_at": "2023-08-17 15:17:40",
@@ -307,6 +323,22 @@
       "duration_ms": 183670,
       "name": "Freakin' Bad",
       "url": "https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq"
+    },
+    {
+      "added_at": "2023-08-17 15:17:40",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
     },
     {
       "added_at": "2023-08-17 15:17:40",
@@ -331,22 +363,6 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 175836,
-      "name": "Shoot Me",
-      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
-    },
-    {
-      "added_at": "2023-08-17 15:17:40",
-      "album": {
         "name": "Traffic light",
         "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
       },
@@ -359,38 +375,6 @@
       "duration_ms": 231586,
       "name": "Traffic light",
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
-    },
-    {
-      "added_at": "2023-08-17 15:17:40",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
-    },
-    {
-      "added_at": "2023-08-17 15:17:40",
-      "album": {
-        "name": "pueblo",
-        "url": "https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "pueblo",
-      "url": "https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA"
     },
     {
       "added_at": "2023-08-17 15:17:40",
@@ -423,6 +407,22 @@
       "duration_ms": 191788,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
+    },
+    {
+      "added_at": "2023-08-17 15:17:40",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
     },
     {
       "added_at": "2023-08-17 15:17:40",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
-        "name": "HEAL",
-        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 200581,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
-    },
-    {
-      "added_at": "2023-08-17 15:17:40",
-      "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
-        "name": "Rawww",
-        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Rawww",
-      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
     },
     {
       "added_at": "2023-08-17 15:17:40",
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
+        "name": "Rawww",
+        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Rawww",
+      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+    },
+    {
+      "added_at": "2023-08-17 15:17:40",
+      "album": {
         "name": "COLORFUL TRAUMA",
         "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
       },
@@ -667,18 +667,50 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+        "name": "She",
+        "url": "https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9"
       },
       "artists": [
         {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
         }
       ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
+      "duration_ms": 194000,
+      "name": "She",
+      "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
+    },
+    {
+      "added_at": "2023-08-17 15:17:40",
+      "album": {
+        "name": "The Book of Us : Entropy",
+        "url": "https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Sweet Chaos",
+      "url": "https://open.spotify.com/track/52Dx3quiQ9ZmtCg2Y2jqkm"
+    },
+    {
+      "added_at": "2023-08-17 15:17:40",
+      "album": {
+        "name": "1st Album [Dystopia : The Tree of Language]",
+        "url": "https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T"
     },
     {
       "added_at": "2023-08-17 15:17:40",
@@ -699,34 +731,18 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9"
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
       "artists": [
         {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
         }
       ],
-      "duration_ms": 194000,
-      "name": "She",
-      "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
-    },
-    {
-      "added_at": "2023-08-17 15:17:40",
-      "album": {
-        "name": "1st Album [Dystopia : The Tree of Language]",
-        "url": "https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T"
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     },
     {
       "added_at": "2023-08-17 15:17:40",
@@ -763,18 +779,18 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
-        "name": "The Book of Us : Entropy",
-        "url": "https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr"
+        "name": "MONKEY HOTEL",
+        "url": "https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
         }
       ],
-      "duration_ms": 227240,
-      "name": "Sweet Chaos",
-      "url": "https://open.spotify.com/track/52Dx3quiQ9ZmtCg2Y2jqkm"
+      "duration_ms": 243000,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi"
     },
     {
       "added_at": "2023-08-17 15:17:40",
@@ -795,34 +811,18 @@
     {
       "added_at": "2023-08-17 15:17:40",
       "album": {
-        "name": "Raid of Dream",
-        "url": "https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ"
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
         }
       ],
-      "duration_ms": 224784,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm"
-    },
-    {
-      "added_at": "2023-08-17 15:17:40",
-      "album": {
-        "name": "MONKEY HOTEL",
-        "url": "https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi"
+      "duration_ms": 199600,
+      "name": "DIVE",
+      "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

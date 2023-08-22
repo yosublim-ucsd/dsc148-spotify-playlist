@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F?si=WuRmhrj6SE2biS12uKfXOQ"> تامر عاشور</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,577 likes - 62 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,652 likes - 62 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [El Okd](https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [El Okd](https://open.spotify.com/album/6nt3aY91do3MhLXe4xeclj) | 3:38 |
-| 2 | [Adeit](https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Adeit](https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv) | 2:50 |
-| 3 | [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 |
-| 4 | [Wesh Fe Wesh](https://open.spotify.com/track/5fAUv5a2irIalEikHDrhTi) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Wesh Fe Wesh](https://open.spotify.com/album/3SO89tvWh3ntHESFjvTL80) | 1:55 |
-| 5 | [Mesh Saleem](https://open.spotify.com/track/06GfyzaBSbs18pJsZO1jvM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mesh Saleem](https://open.spotify.com/album/6XnP1hueQTJJSBsXMdgRHc) | 3:33 |
-| 6 | [Lela](https://open.spotify.com/track/2QAi4scKA8gb5QdbFPHpa6) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lela](https://open.spotify.com/album/34FAOuyGpr0rbvbGZu4qbT) | 3:44 |
-| 7 | [Hawwa](https://open.spotify.com/track/1y3sV7iuYh4RYZcCvHuVMQ) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hawwa](https://open.spotify.com/album/7n5q111QMBAd1ZlO0sRk4S) | 3:07 |
+| 1 | [Adeit](https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Adeit](https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv) | 2:50 |
+| 2 | [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 |
+| 3 | [Wesh Fe Wesh](https://open.spotify.com/track/5fAUv5a2irIalEikHDrhTi) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Wesh Fe Wesh](https://open.spotify.com/album/3SO89tvWh3ntHESFjvTL80) | 1:55 |
+| 4 | [Mesh Saleem](https://open.spotify.com/track/06GfyzaBSbs18pJsZO1jvM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mesh Saleem](https://open.spotify.com/album/6XnP1hueQTJJSBsXMdgRHc) | 3:33 |
+| 5 | [Lela](https://open.spotify.com/track/2QAi4scKA8gb5QdbFPHpa6) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lela](https://open.spotify.com/album/34FAOuyGpr0rbvbGZu4qbT) | 3:44 |
+| 6 | [Hawwa](https://open.spotify.com/track/1y3sV7iuYh4RYZcCvHuVMQ) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hawwa](https://open.spotify.com/album/7n5q111QMBAd1ZlO0sRk4S) | 3:07 |
+| 7 | [Or2os Gamed](https://open.spotify.com/track/5mJI45zDeZ4Ik16iam6JJw) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Or2os Gamed](https://open.spotify.com/album/1nIJUN3xNcXKcqqoKVirgi) | 2:57 |
 | 8 | [Deb Deb](https://open.spotify.com/track/2u1j3h1Oy9xOgvOV3kvU4X) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Deb Deb](https://open.spotify.com/album/3bPOumkC31Zv4pBa6udoZ7) | 3:00 |
 | 9 | [Hanor2os](https://open.spotify.com/track/5iILBNAqhYBWSSYVszZMDC) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Hanor2os](https://open.spotify.com/album/2ptIOi4S50Eb2GCOcHkSKb) | 2:20 |
 | 10 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 15 | [مش كفاية فراق](https://open.spotify.com/track/75Ca7I3xIHLqG1S0izGV02) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [مش كفاية فراق](https://open.spotify.com/album/6pUq5K38plrNVoJ7shbzb5) | 4:34 |
 | 16 | [3ayza Ba7r](https://open.spotify.com/track/52WUBAeaELu5d39P1FlQdi) | [Shams](https://open.spotify.com/artist/5gH54npc6AzgNhSbArd6oe) | [3ayza Ba7r](https://open.spotify.com/album/4Cg0j4ZSVfmF5Wf1lUzM7L) | 3:49 |
 | 17 | [رنة خلخال](https://open.spotify.com/track/4EqNT4pCDGVv2rC5Fd6NBO) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [رنة خلخال](https://open.spotify.com/album/0cze08hL6Iw0XbHwqVzwzR) | 3:31 |
-| 18 | [Daloaa](https://open.spotify.com/track/7kDh5pD2V1cnPpNfYGqsd8) | [Natasha](https://open.spotify.com/artist/4r4BXCZEaC6Eew0l7NjPpr) | [Daloaa](https://open.spotify.com/album/244l0BzNjcwWmR8gKLn7ZY) | 2:55 |
+| 18 | [Daloaa](https://open.spotify.com/track/7kDh5pD2V1cnPpNfYGqsd8) | [Natacha](https://open.spotify.com/artist/4Jqy6fyxfKMCJk9FrxNp05) | [Daloaa](https://open.spotify.com/album/244l0BzNjcwWmR8gKLn7ZY) | 2:55 |
 | 19 | [Shiekh El Arab](https://open.spotify.com/track/1t6TBaFGvaPxWlF7eC83QT) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Shiekh El Arab](https://open.spotify.com/album/1GkhRERlHRAGdMgaxEdMmJ) | 3:47 |
 | 20 | [بلاش تتغر](https://open.spotify.com/track/0rjP7wNQffUE86c4ogPUrQ) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بلاش تتغر](https://open.spotify.com/album/3l5B196f1xLIIpzysyaCDV) | 3:32 |
 | 21 | [Hala Beek Ya Medala3](https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hala Beek Ya Medala3](https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6) | 2:47 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 61 | [Men Fouq](https://open.spotify.com/track/1ELjjmUDD8xTMIsUJ0cNWe) | [Ahmad Zmaili](https://open.spotify.com/artist/4ocVQVhOCz7s01n7K6xmrq) | [Men Fouq](https://open.spotify.com/album/3yTG7hFTp5jT8WuOqEgkus) | 3:44 |
 | 62 | [Felfel W Shatta](https://open.spotify.com/track/5ochjQf3Sm80KNIARwaqTi) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [Felfel W Shatta](https://open.spotify.com/album/3Jis71LRlNV1wR8BTkFyrL) | 3:01 |
 
-Snapshot ID: `MCw3MGRlMzlkODM3MmQwZDQ1NzYxMDFkNDNhNzgwYTVmMTY2ZDIyYzll`
+Snapshot ID: `MCw5NDM1MDhmYTdlYzYwNWMyMGE2ZDYwOTY5YWZiZGI3ZTZjMjI4MjRk`

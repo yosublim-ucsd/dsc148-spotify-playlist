@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Baby Gang, Nayt, Ele A e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,437 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,457 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,17 +23,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 13 | [El Clásico](https://open.spotify.com/track/1o3zBspiPekHlbnewhq7Nf) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Sacrosanto](https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69) | 2:47 |
 | 14 | [Ma Xkè A Me?](https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ma Xkè A Me?](https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea) | 2:36 |
 | 15 | [MAKAI](https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:38 |
-| 16 | [WE MAN](https://open.spotify.com/track/7eEA003LpGnkMz765TtPyn) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [WE MAN](https://open.spotify.com/album/39WBRLH8CvDmOV8snicCzk) | 2:25 |
-| 17 | [Responsabile \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/3YNDnWbIzjtVo87DalnFmK) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Responsabile \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/7tyFbNorSj6F0n9zUl25hO) | 2:34 |
-| 18 | [Mi Reina](https://open.spotify.com/track/0Qc1IpcxqsHrZVetOWTWnl) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Import\-Export](https://open.spotify.com/album/6mNGUrdydtHjGC5nlBueSD) | 2:43 |
+| 16 | [Responsabile \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/3YNDnWbIzjtVo87DalnFmK) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Responsabile \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/7tyFbNorSj6F0n9zUl25hO) | 2:34 |
+| 17 | [Mi Reina](https://open.spotify.com/track/0Qc1IpcxqsHrZVetOWTWnl) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Import\-Export](https://open.spotify.com/album/6mNGUrdydtHjGC5nlBueSD) | 2:43 |
+| 18 | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o) | 2:09 |
 | 19 | [Allez les Gars](https://open.spotify.com/track/0ZVVkO991nkdDu6npYJQl1) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [Allez les Gars](https://open.spotify.com/album/0qsSYysDRyy9wSlbBqzEXa) | 2:45 |
 | 20 | [MAFIA MOVIE](https://open.spotify.com/track/4JuFo1jpt8bN2GrpLGtN7w) | [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8) | [MAFIA MOVIE](https://open.spotify.com/album/0YBvWZtJYK12JFBmPpKLA2) | 2:34 |
 | 21 | [TAF TAF](https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TAF TAF](https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u) | 3:03 |
 | 22 | [BLA](https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [BLA](https://open.spotify.com/album/7eKJ2EUwqxepLiIbPFFZ9n) | 2:17 |
 | 23 | [Come va \#2](https://open.spotify.com/track/0BIyN18v0AqjbsEHkcjWhn) | [4m](https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S), [Rivreck](https://open.spotify.com/artist/1nB0WQrdlmT4vEV158VV7i) | [Come va \#2](https://open.spotify.com/album/65k600pWhk77ViCzk9yXOx) | 2:05 |
-| 24 | [FACETIME](https://open.spotify.com/track/6sQFxf7r1RQv9Rc4MAYYrH) | [Red Roses](https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY) | [FACETIME](https://open.spotify.com/album/0KgrYKEicvfHzFBIg6Nfpb) | 2:13 |
-| 25 | [40%](https://open.spotify.com/track/231tHFIeAdspw4ByRdGrSH) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [40%](https://open.spotify.com/album/0t1df3vvOfUf0fkiGk1Iqm) | 1:10 |
-| 26 | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o) | 2:09 |
+| 24 | [WE MAN](https://open.spotify.com/track/7eEA003LpGnkMz765TtPyn) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [WE MAN](https://open.spotify.com/album/39WBRLH8CvDmOV8snicCzk) | 2:25 |
+| 25 | [FACETIME](https://open.spotify.com/track/6sQFxf7r1RQv9Rc4MAYYrH) | [Red Roses](https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY) | [FACETIME](https://open.spotify.com/album/0KgrYKEicvfHzFBIg6Nfpb) | 2:13 |
+| 26 | [40%](https://open.spotify.com/track/231tHFIeAdspw4ByRdGrSH) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [40%](https://open.spotify.com/album/0t1df3vvOfUf0fkiGk1Iqm) | 1:10 |
 | 27 | [9MM](https://open.spotify.com/track/2TB6N2b4m312syOhW86L78) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [9MM](https://open.spotify.com/album/7zvA7MTa3LecAa491Ho10i) | 2:18 |
 | 28 | [Chica Mala](https://open.spotify.com/track/7KgC9H7PkOJnaR0NZ2IYKG) | [Ye$hua](https://open.spotify.com/artist/4w6gswqkpl74hoxgvne66c) | [Chica Mala](https://open.spotify.com/album/42uNDEYJ2NokVorkbRdxGf) | 3:10 |
 | 29 | [Dark Inside](https://open.spotify.com/track/64UaPtMhX3ZYNjYNb8UN5K) | [Yhablo](https://open.spotify.com/artist/0m0H3OBN5MzVnGQgZP3jBe), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Dark Inside](https://open.spotify.com/album/190GncQ1L4vxAHUAOHSxbb) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 74 | [Brucia](https://open.spotify.com/track/323tjKMDvjoQqxz3QfdXNV) | [Mudimbi](https://open.spotify.com/artist/0pmgwPGqkEVI0zPABTxPVR) | [Brucia](https://open.spotify.com/album/3RSSQw6znEoriNnTUdfgLT) | 2:09 |
 | 75 | [Tu ta ta \(Il Ballo della Scimmia\)](https://open.spotify.com/track/3AnPTdcuZKDQwf3r8qlwQe) | [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [Tu ta ta \(Il Ballo della Scimmia\)](https://open.spotify.com/album/0q0CyudUuar5D8NVG2cVF9) | 2:28 |
 
-Snapshot ID: `MCxhYmI5MGExMTk1MTFkMzRmMjE5NWQ1N2YxYjAxZTUyZTBkZGNjMjZl`
+Snapshot ID: `MCwxZjgzYjlhYzRmNWE4MmM0ZTdiNDNiOTgyMzM4NWZlODI2N2VlNTA5`

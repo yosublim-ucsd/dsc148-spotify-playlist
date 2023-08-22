@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 53343,
+  "num_followers": 53387,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDk5ZWQ3MmFkNTY3NzM5OGJjYzdlYmZiOTM3NjUyNjhiYWJmZDBl",
+  "snapshot_id": "MCwwNTJkY2QwY2ExMzlhYjc1YTAyODY5NDU2OWUxZDE5YzIzOTY5NTNk",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Trapo",
-        "url": "https://open.spotify.com/album/65OgHp58osKvhu1XlWwI09"
-      },
-      "artists": [
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        }
-      ],
-      "duration_ms": 167832,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/7JWYtvZzxAptMETUfm37oL"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "Commitment Issues",
         "url": "https://open.spotify.com/album/0RHc0eLRmJ7dFidneiGXeX"
       },
@@ -191,18 +175,42 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/4uu6Jz7fGrOpVKgXPLMPYl"
+        "name": "Trapo",
+        "url": "https://open.spotify.com/album/65OgHp58osKvhu1XlWwI09"
       },
       "artists": [
         {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
         }
       ],
-      "duration_ms": 167007,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/6wa1aDgVhjTuYXqkLcVL6A"
+      "duration_ms": 167832,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/7JWYtvZzxAptMETUfm37oL"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "I Dunno (feat. Dutchavelli & Stormzy)",
+        "url": "https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "dutchavelli",
+          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 178137,
+      "name": "I Dunno (feat. Dutchavelli & Stormzy)",
+      "url": "https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -239,26 +247,30 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "I Dunno (feat. Dutchavelli & Stormzy)",
-        "url": "https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU"
+        "name": "TPL x Fumez The Engineer - Plugged In Freestyle",
+        "url": "https://open.spotify.com/album/0qD48aseZrFjSw4E5x3Lbf"
       },
       "artists": [
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Fumez The Engineer",
+          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
         },
         {
-          "name": "dutchavelli",
-          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
+          "name": "Sava",
+          "url": "https://open.spotify.com/artist/25A5LqeSK0yH4ks5fGxbI2"
         },
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "OTP",
+          "url": "https://open.spotify.com/artist/3AFt30387waHIjjDL63XeI"
+        },
+        {
+          "name": "BM X MINI",
+          "url": "https://open.spotify.com/artist/6xNUn9epduXbZmCgsxutSx"
         }
       ],
-      "duration_ms": 178137,
-      "name": "I Dunno (feat. Dutchavelli & Stormzy)",
-      "url": "https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E"
+      "duration_ms": 217714,
+      "name": "TPL x Fumez The Engineer - Plugged In Freestyle",
+      "url": "https://open.spotify.com/track/2oW5T6viRcUuE6Ttk6TJ9B"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -287,8 +299,8 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Woi",
-        "url": "https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r"
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/4uu6Jz7fGrOpVKgXPLMPYl"
       },
       "artists": [
         {
@@ -296,37 +308,9 @@
           "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         }
       ],
-      "duration_ms": 182142,
-      "name": "Woi",
-      "url": "https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "TPL x Fumez The Engineer - Plugged In Freestyle",
-        "url": "https://open.spotify.com/album/0qD48aseZrFjSw4E5x3Lbf"
-      },
-      "artists": [
-        {
-          "name": "Fumez The Engineer",
-          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
-        },
-        {
-          "name": "Sava",
-          "url": "https://open.spotify.com/artist/25A5LqeSK0yH4ks5fGxbI2"
-        },
-        {
-          "name": "OTP",
-          "url": "https://open.spotify.com/artist/3AFt30387waHIjjDL63XeI"
-        },
-        {
-          "name": "BM X MINI",
-          "url": "https://open.spotify.com/artist/6xNUn9epduXbZmCgsxutSx"
-        }
-      ],
-      "duration_ms": 217714,
-      "name": "TPL x Fumez The Engineer - Plugged In Freestyle",
-      "url": "https://open.spotify.com/track/2oW5T6viRcUuE6Ttk6TJ9B"
+      "duration_ms": 167007,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/6wa1aDgVhjTuYXqkLcVL6A"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -363,6 +347,58 @@
       "duration_ms": 161118,
       "name": "London (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/0jgO2f0lAPSs36KBAHx9Dl"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Corn",
+        "url": "https://open.spotify.com/album/5hf9tYrWhDC5ZdKy7f9Kx8"
+      },
+      "artists": [
+        {
+          "name": "2smokeyy",
+          "url": "https://open.spotify.com/artist/4MUA591QaNW7xiMlMgBJV2"
+        }
+      ],
+      "duration_ms": 201398,
+      "name": "Corn",
+      "url": "https://open.spotify.com/track/4aaEROAXVunrYjS556YxAn"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "The Great Escape (feat. Central Cee)",
+        "url": "https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 192676,
+      "name": "The Great Escape (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -407,40 +443,8 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Corn",
-        "url": "https://open.spotify.com/album/5hf9tYrWhDC5ZdKy7f9Kx8"
-      },
-      "artists": [
-        {
-          "name": "2smokeyy",
-          "url": "https://open.spotify.com/artist/4MUA591QaNW7xiMlMgBJV2"
-        }
-      ],
-      "duration_ms": 201398,
-      "name": "Corn",
-      "url": "https://open.spotify.com/track/4aaEROAXVunrYjS556YxAn"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Double Tap Diaries",
-        "url": "https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ"
+        "name": "Woi",
+        "url": "https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r"
       },
       "artists": [
         {
@@ -448,9 +452,9 @@
           "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         }
       ],
-      "duration_ms": 192386,
-      "name": "No Diet",
-      "url": "https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj"
+      "duration_ms": 182142,
+      "name": "Woi",
+      "url": "https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -471,46 +475,6 @@
       "duration_ms": 159724,
       "name": "Fizzler x Fumez The Engineer - Plugged In Freestyle",
       "url": "https://open.spotify.com/track/0Nc02dTQgwGy1cRVHE2OnH"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "The Great Escape (feat. Central Cee)",
-        "url": "https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5"
-      },
-      "artists": [
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "The Great Escape (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Music x Road",
-        "url": "https://open.spotify.com/album/6J41exElcUa6rK5SJmjV6S"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 189321,
-      "name": "18HUNNA (feat. Dave)",
-      "url": "https://open.spotify.com/track/2tC6dm3WkOKYcgS2nZybmg"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -591,6 +555,38 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "6am in Brighton",
+        "url": "https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "6am in Brighton",
+      "url": "https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Double Tap Diaries",
+        "url": "https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "No Diet",
+      "url": "https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "No More Leaks",
         "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
       },
@@ -603,6 +599,26 @@
       "duration_ms": 178285,
       "name": "Crypto Price",
       "url": "https://open.spotify.com/track/0GlNBy7uuYyc8zvr4grPVS"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Music x Road",
+        "url": "https://open.spotify.com/album/6J41exElcUa6rK5SJmjV6S"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 189321,
+      "name": "18HUNNA (feat. Dave)",
+      "url": "https://open.spotify.com/track/2tC6dm3WkOKYcgS2nZybmg"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -627,42 +643,6 @@
       "duration_ms": 205714,
       "name": "Block 6 x Fumez The Engineer - Plugged In Freestyle",
       "url": "https://open.spotify.com/track/7esgTfwtLhISeKP7GgTsSP"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Bringing It Back",
-        "url": "https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 190937,
-      "name": "Bringing It Back",
-      "url": "https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "6am in Brighton",
-        "url": "https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW"
-      },
-      "artists": [
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 194366,
-      "name": "6am in Brighton",
-      "url": "https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -763,6 +743,26 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "Bringing It Back",
+        "url": "https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 190937,
+      "name": "Bringing It Back",
+      "url": "https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "Talk To Me Nice",
         "url": "https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 148000,
       "name": "Talk To Me Nice",
       "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Spin This Coupe",
+        "url": "https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC"
+      },
+      "artists": [
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        }
+      ],
+      "duration_ms": 161564,
+      "name": "Spin This Coupe",
+      "url": "https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -847,22 +863,6 @@
       "duration_ms": 210731,
       "name": "Know Better (feat. Rv)",
       "url": "https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Spin This Coupe",
-        "url": "https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC"
-      },
-      "artists": [
-        {
-          "name": "Abra Cadabra",
-          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
-        }
-      ],
-      "duration_ms": 161564,
-      "name": "Spin This Coupe",
-      "url": "https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer"
     },
     {
       "added_at": "2022-10-23 18:38:51",

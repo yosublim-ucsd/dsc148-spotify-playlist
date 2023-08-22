@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano\. Cover: Slings, Guè
 
-340 songs - 15 hr 47 min
+341 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [BU!](https://open.spotify.com/track/2rhTJhBMz2l7iDKQzl2KCd) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:25 | 2022-11-24 | 2022-12-08 |
 | [BU!](https://open.spotify.com/track/52Q2Ocg7mAG5B9LZ1szKoQ) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:25 | 2022-12-06 | 2022-12-16 |
 | [BULLS](https://open.spotify.com/track/02ziGICyxDi5VHvKkQBkUB) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb) | [BULLS](https://open.spotify.com/album/5uCB7ufT1yu047ld0EY1a0) | 2:32 | 2023-02-16 | 2023-03-18 |
-| [Business \(feat\. Kid Yugi\)](https://open.spotify.com/track/2xtRttQROrOFKg10rNLZ73) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 3:07 | 2023-07-13 |  |
+| [Business \(feat\. Kid Yugi\)](https://open.spotify.com/track/2xtRttQROrOFKg10rNLZ73) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 3:07 | 2023-07-13 | 2023-08-22 |
 | [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:32 | 2022-09-29 | 2022-12-16 |
 | [C'est la rue](https://open.spotify.com/track/4uAbCVyHM56DlMM7qYj1AY) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [C'est la rue](https://open.spotify.com/album/7eWZqUMC43TaQgu4TW2KAN) | 2:17 | 2022-05-11 | 2022-06-24 |
 | [C'EST PAS FACIL](https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:21 | 2022-06-30 | 2023-04-07 |
@@ -327,6 +327,7 @@
 | [UNO, DUE E TRE \(feat\. Neima Ezza\)](https://open.spotify.com/track/15wHsZvGEuT8W2KsEydgFu) | [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [UNO, DUE E TRE \(feat\. Neima Ezza\)](https://open.spotify.com/album/4IPtQv7AcN7ObxDQ8wX1B4) | 2:54 | 2023-06-08 |  |
 | [Vada come vada](https://open.spotify.com/track/5bJKrpclp5ZwxHjgMHQD9O) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Vada come vada](https://open.spotify.com/album/1uiCVnEYRbmcRACX7cfq8S) | 2:27 | 2023-04-06 | 2023-04-28 |
 | [Vegeta \(feat\. Néza\)](https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Vegeta \(feat\. Néza\)](https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg) | 2:28 | 2023-06-15 |  |
+| [Victoria \(feat\. Artie 5ive\)](https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 2:48 | 2023-08-21 |  |
 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 | 2023-06-15 |  |
 | [Viral](https://open.spotify.com/track/3Nww47FJ3MiIdpHCMarCBU) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/5OkP2IKTap8fIUptFcFbNN) | 2:27 | 2023-03-27 | 2023-04-07 |
 | [Viral](https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy) | 2:27 | 2023-03-09 | 2023-03-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo argentino\. <br/>📷 El Club Audiovisual
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,708 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,717 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 74 | [Última fuerza](https://open.spotify.com/track/3cbjpIGLyADDB0GYF3Ru41) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Última fuerza](https://open.spotify.com/album/7kEcwjomzNk2XFK8jFmKkR) | 4:04 |
 | 75 | [El Viaje](https://open.spotify.com/track/4CZzNgqOqB8nvcJz1sG3AE) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [La Gracia De No Estar Solas](https://open.spotify.com/album/788Pukbo3xwJXaSBPzYEBh) | 2:45 |
 
-Snapshot ID: `MCw0NGFkMzg1OTE3ZmRjMTQzZmRiZjBjYjQwM2M4MmJkNGFhNTM3ZmEz`
+Snapshot ID: `MCwyZjM3NGU5MjI3MjY5ZTU5MTZlNGQ0ZDg3M2M3MGFjNTllMWVjYTBm`

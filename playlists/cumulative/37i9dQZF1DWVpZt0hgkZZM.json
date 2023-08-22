@@ -144,7 +144,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 283480,
       "name": "Amor Sin Fronteras",
       "url": "https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs"
@@ -318,6 +318,28 @@
       "duration_ms": 226086,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/705gb4qpSn1fYD0Qlz46z6"
+    },
+    {
+      "album": {
+        "name": "De Peligro",
+        "url": "https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230306,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
     },
     {
       "album": {

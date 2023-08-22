@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA?si=sa1MczKmTbStHjRz0SIwNg">Babyface Ray</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,448 likes - 57 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,468 likes - 57 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 56 | [OSAY](https://open.spotify.com/track/1eDVrqs5Pt7ln75wvpciny) | [BLOOD $MOKE BODY](https://open.spotify.com/artist/0H8po4L35Y4ieuQYg0b4LL) | [OSAY](https://open.spotify.com/album/5mIrTLqA1A9svpQIQ0FF5i) | 3:56 |
 | 57 | [OOGIE](https://open.spotify.com/track/2VYLS3j03FZLKIebP7ume9) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K), [Rellim](https://open.spotify.com/artist/5peUHq2Ya8RBqm5GSq16QU) | [OOGIE](https://open.spotify.com/album/5EetXOn0c4hCGfDwy7MD4A) | 2:34 |
 
-Snapshot ID: `MCw5OTJmODA0OWE1MzY0YzE5YjA4NGMxY2Q5YzA2N2RlYWU0YTY2M2Nl`
+Snapshot ID: `MCwyNDA0YWMwZjA1MjYwOWY2OWEyODUwMjljOThiMWI0NTZhOGNmYmMy`

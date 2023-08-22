@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Vitor Bueno
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,288 likes - 69 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,291 likes - 69 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 68 | [Oxygen](https://open.spotify.com/track/7yhncpKK3TG7aoYcyjKKAc) | [Pic Schmitz](https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl) | [Oxygen](https://open.spotify.com/album/0XY1qjL2K0GCil4lbmEs8L) | 3:05 |
 | 69 | [Taki](https://open.spotify.com/track/5hKRfygrnxV9mN7y8xo7EN) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [verk](https://open.spotify.com/artist/6VTs7LSFnN636jvXUTkUgo) | [Taki](https://open.spotify.com/album/274pH7bndWdA3YdBQz09g9) | 2:39 |
 
-Snapshot ID: `MCxkMmRlY2NlOWVhMDc1OTA0ZmU5ZTMxZTBlZGVmOGFiYjg1NDY2OGYz`
+Snapshot ID: `MCxhYmI5MzkyYzFkNDVmZDY2YWIzNzU5MDBlZmNkZWI1NjJhMzI0OTU1`

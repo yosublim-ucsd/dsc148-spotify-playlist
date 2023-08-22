@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 47 min
+59 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [My Policeman \- From the Amazon Original Motion Picture Soundtrack "My Policeman"](https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(From the Amazon Original Motion Picture Soundtrack "My Policeman"\)](https://open.spotify.com/album/6YXkJcrqYmStToq7sa95M2) | 5:09 | 2023-08-04 |  |
 | [Nighttime Conversation](https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:39 | 2023-08-04 |  |
 | [Norman](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:50 | 2023-08-04 |  |
+| [Nothing To Stop Us](https://open.spotify.com/track/6OBrG19AuVOmrFonog79re) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:12 | 2023-08-21 |  |
 | [Of All The Amazing Things](https://open.spotify.com/track/5KaXnve8UKz3BFXsB81s8x) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Aeronauts \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE) | 2:28 | 2023-08-13 | 2023-08-20 |
 | [Ophelia](https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:52 | 2023-08-04 |  |
 | [Redwoods](https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Forests \(Episode 8 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW) | 1:22 | 2023-08-06 | 2023-08-20 |
@@ -52,7 +53,7 @@
 | [The Age of Giants](https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 4:00 | 2023-08-04 |  |
 | [The Blue Whale](https://open.spotify.com/track/0llny9ylQqeIK0MCQ5XQ45) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 5:12 | 2023-08-04 |  |
 | [The Clam Shell Challenge](https://open.spotify.com/track/5QUUxWpWBDOK1yTcDXB3Bp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 1:37 | 2023-08-19 |  |
-| [The Museum](https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:35 | 2023-08-04 |  |
+| [The Museum](https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:35 | 2023-08-04 | 2023-08-22 |
 | [The Ocean Returns The Favour \- From "Our Planet"](https://open.spotify.com/track/30m0iV0x6N2XydxSE3kurk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 2:20 | 2023-08-04 |  |
 | [The Seasonal Seas](https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coastal Seas \(Episode 4 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h) | 0:55 | 2023-08-04 |  |
 | [The War Is Not Over](https://open.spotify.com/track/7MHmZEYVLowwputJgtcVT7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 1:47 | 2023-08-04 |  |

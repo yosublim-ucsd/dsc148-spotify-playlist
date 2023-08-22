@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-141 songs - 7 hr 5 min
+142 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bad Boys \- Harddance Mix](https://open.spotify.com/track/6EZsJ6KkOPQtSqWKw0KsGF) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Bad Boys \(Harddance Mix\)](https://open.spotify.com/album/2zzWnVDrpUWehyFWdYXtqc) | 2:53 | 2023-02-02 | 2023-04-14 |
 | [Bad Habits](https://open.spotify.com/track/7JLHaZFkxdOlq4Fzkc6pxh) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Bad Habits](https://open.spotify.com/album/4VNyPO6EhBSKg83IMLchl3) | 3:07 | 2023-04-13 | 2023-05-12 |
 | [Bailando](https://open.spotify.com/track/37DUuymoNwvzuxmlsIeUEB) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [TESFY](https://open.spotify.com/artist/2ElvCuSMCZ357wrmbDvz2C), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/55D7V1U0QxSauay1loyOsS) | 2:40 | 2023-06-29 | 2023-07-22 |
+| [Barbie Girl RMX](https://open.spotify.com/track/3GnXG8EvUeuo0IWH3kXFec) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Barbie Girl RMX](https://open.spotify.com/album/5ZgTuCjlxomuHqtRnFt9OR) | 2:56 | 2023-08-16 |  |
 | [Because The Night](https://open.spotify.com/track/6T4pigGxYcBBOi6q4pdTDl) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:21 | 2022-12-05 | 2023-01-13 |
 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 | 2022-12-05 | 2023-06-16 |
 | [Bella Ciao](https://open.spotify.com/track/0aSdsoufzNzGKFkRTkBYzM) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Bella Ciao](https://open.spotify.com/album/1l2IEJRSiiM8dyo9bzMYDY) | 3:18 | 2022-12-05 | 2023-02-17 |
@@ -40,7 +41,7 @@
 | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS) | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6) | 2:15 | 2023-01-26 | 2023-04-12 |
 | [Children](https://open.spotify.com/track/3toZLVE2wYiH7SJkv3QObm) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Stormerz](https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Children](https://open.spotify.com/album/6gPqh8lsH8TR4IPxmwffCq) | 2:42 | 2023-06-15 | 2023-06-30 |
 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 | 2022-12-05 |  |
-| [Cotton Eye Joe](https://open.spotify.com/track/6drFg3M61Ed3puJCcQ44XI) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cotton Eye Joe](https://open.spotify.com/album/554PqhvRs4nc1b5M9Er6Ej) | 2:26 | 2023-04-20 |  |
+| [Cotton Eye Joe](https://open.spotify.com/track/6drFg3M61Ed3puJCcQ44XI) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cotton Eye Joe](https://open.spotify.com/album/554PqhvRs4nc1b5M9Er6Ej) | 2:26 | 2023-04-20 | 2023-08-22 |
 | [Country Roads](https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Country Roads](https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf) | 2:53 | 2022-12-05 |  |
 | [Creep \- Hardstyle Remix](https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Creep \(Hardstyle Remix\)](https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92) | 3:07 | 2022-12-05 |  |
 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/1U43pviSmkzoBDxIqPWbAc) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/0WNNiEmWs9OlBiZaBvM9Et) | 1:48 | 2023-02-09 | 2023-05-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Yuja Wang
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,466 likes - 56 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,557 likes - 56 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 55 | [Preludio amolecado](https://open.spotify.com/track/2MJCE8HVJ3T3p57dUZQyLy) | [Radamés Gnattali](https://open.spotify.com/artist/10KxhFfJjMOgwomXBlcO8R), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Preludio amolecado](https://open.spotify.com/album/4YMzwTUuzwZBYbL7lkSJWN) | 1:52 |
 | 56 | [Madrigali à 5 voci from "Libro I & II": Credetel voi \(Libro I, 13\)](https://open.spotify.com/track/2Tssno9tPiTshKTQmZ4dDl) | [Michelangelo Rossi](https://open.spotify.com/artist/2pVdT7gKUjoyErUKRVZKoS), [Schola Heidelberg](https://open.spotify.com/artist/6GfbZOwOU9v9ZEXwmInlnz), [Walter Nußbaum](https://open.spotify.com/artist/5BqrvsHIeDlXE3MLrU9jPC) | [Michelangelo Rossi \- Credetel voi](https://open.spotify.com/album/0ONt3Pf4S5XuXyJZfe0Opp) | 2:20 |
 
-Snapshot ID: `MCw1ZTFiNmNkOTZiNjAxMjU4N2M3ZjE3OWRjNzdkZTIzYTE2YjAzYWQx`
+Snapshot ID: `MCxjOGNiNzYzMWY5NmQ0MzhjMWViMDRiOGQwNzRhOTQwNDIzNzhlMTVk`

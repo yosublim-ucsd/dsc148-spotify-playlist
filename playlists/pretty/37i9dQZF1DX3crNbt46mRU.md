@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,723 likes - 105 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,719 likes - 105 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 104 | [End Of The World](https://open.spotify.com/track/25JnZYGNwdJg9MB9eaQ8TU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5s2IqfqzXdVUrI1YcZ8XBN) | 2:38 |
 | 105 | [I Sell](https://open.spotify.com/track/0UBGT7DgAI1F4k1jMUMf0H) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [I Sell](https://open.spotify.com/album/2kcmTK3wZEyAKore4X5lXC) | 2:47 |
 
-Snapshot ID: `MCxlNTVkNmQ5MjRmMzhmMjUwYzUyMmU4YjU0MGMyZGRkMzU5YTdhMDE0`
+Snapshot ID: `MCxmNDM2YzZjMjdkMGFjY2Y2MmVkYmNlZDFhM2QxNWFiMWIwOWZhNTYw`

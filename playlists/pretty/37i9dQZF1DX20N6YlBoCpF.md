@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=uK3kbGQ1SSC1lIRWZuwkoA">Prop</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,211 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,228 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Foute](https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Foute](https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l) | 3:22 |
 | 50 | [Tekkies Brand \- Cre8tro Remix](https://open.spotify.com/track/60xg0myi1c2g3dBhnE77DO) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma), [Cre8tro](https://open.spotify.com/artist/59ht5rH8CKq06KBYaks85z) | [Tekkies Brand \(Cre8tro Remix\)](https://open.spotify.com/album/1nSbpOqMKbjca12K49xPFL) | 3:54 |
 
-Snapshot ID: `MCw0MWNhYjUzYWRhZDA4YjgxMzUxNzFkMzlkZmQ1MzYxN2ZkMjY2MWU1`
+Snapshot ID: `MCxiZDY5OTdlMTNiM2VkODhhZDc5MDgyZWIwMzU2NDc3NmY1MDVjZGE4`

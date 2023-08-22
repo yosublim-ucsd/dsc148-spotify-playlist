@@ -4,7 +4,7 @@
 
 > New music from Jessie Reyez & Miguel, Charlie Puth, Reneé Rapp and New West.
 
-8,462 songs - 18 day 18 hr 13 min
+8,463 songs - 18 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3991,7 +3991,8 @@
 | [Kité](https://open.spotify.com/track/714aK4Z7RopS0NxlPl0jmr) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Kité](https://open.spotify.com/album/2I7x6rFiyHKHCT0QVqut5b) | 3:35 | 2023-07-07 | 2023-07-15 |
 | [Knee Deep at ATP](https://open.spotify.com/track/7GdIvzFCC3ZGS4sGsCuR9W) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/4COjHeRyvJkn9C5a2QnLkr) | 3:07 | 2021-12-31 | 2022-01-08 |
 | [Knock Off](https://open.spotify.com/track/4OFyzhB3z7NI9LHk1imE5E) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Knock Off](https://open.spotify.com/album/3lGl8LGBSvrLvv89wFpy6y) | 3:04 | 2022-07-08 | 2022-07-16 |
-| [Knock The Wind](https://open.spotify.com/track/16zmpunEamESQNJWqUUGih) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Knock The Wind](https://open.spotify.com/album/2P5Hbwj8Pl8ZJI5X5lbsAG) | 2:45 | 2023-08-18 |  |
+| [Knock The Wind](https://open.spotify.com/track/16zmpunEamESQNJWqUUGih) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Knock The Wind](https://open.spotify.com/album/2P5Hbwj8Pl8ZJI5X5lbsAG) | 2:45 | 2023-08-18 | 2023-08-22 |
+| [Knock The Wind](https://open.spotify.com/track/72elIQIbmE6rLBvXXsknK5) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 2:45 | 2023-08-18 |  |
 | [Know](https://open.spotify.com/track/4uij1uhS9gnTFfg4kPIRfN) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Know](https://open.spotify.com/album/2i0YV5xzjVa51onaAMtuBi) | 3:00 | 2022-06-17 | 2022-06-25 |
 | [Know](https://open.spotify.com/track/0DC4dhfW0BhEy7HKMFeiJf) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H) | [No Division Vol\. 2](https://open.spotify.com/album/5iBJfpPsLzwlB91QhjmlOm) | 3:12 | 2022-05-20 | 2022-05-28 |
 | [Know Like I Know](https://open.spotify.com/track/7x2MQ3XwOCAt3QpZamsA3a) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Colors \(Deluxe\)](https://open.spotify.com/album/23xXG1FGqcdDVUCUIfTuUt) | 3:52 | 2022-01-21 | 2022-01-29 |

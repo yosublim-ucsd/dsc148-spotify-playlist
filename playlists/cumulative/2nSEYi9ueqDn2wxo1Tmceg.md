@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-583 songs - 1 day 15 hr 49 min
+585 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [balance is gone](https://open.spotify.com/track/5fNzVAFXZH1hk6PvUNWNFY) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [balance is gone](https://open.spotify.com/album/55wZccrNqRIwnbECVp34Dv) | 3:33 | 2022-09-28 | 2022-11-03 |
 | [Bang](https://open.spotify.com/track/5XmfmJl6z8B5bvVzhk5vUg) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/2ekIzRVrvwVtjRiK7vrhhU) | 5:10 | 2023-06-28 | 2023-08-03 |
 | [Before We Fell From Grace](https://open.spotify.com/track/0Ifom3QrLplQBsCTP5J4qX) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [Before We Fell From Grace](https://open.spotify.com/album/7xoC815gar0ukkCYPJj36q) | 4:51 | 2023-01-25 | 2023-03-02 |
-| [Beginner's Luck](https://open.spotify.com/track/1aGHJWuMcqXA3occrRcTll) | [Former Champ](https://open.spotify.com/artist/1ntDd3adPrsrlLpiJBPfzM) | [Motherwell](https://open.spotify.com/album/0z388Qszg0TTCt4F2cTlCs) | 2:10 | 2023-08-02 |  |
+| [Beginner's Luck](https://open.spotify.com/track/1aGHJWuMcqXA3occrRcTll) | [Former Champ](https://open.spotify.com/artist/1ntDd3adPrsrlLpiJBPfzM) | [Motherwell](https://open.spotify.com/album/0z388Qszg0TTCt4F2cTlCs) | 2:10 | 2023-08-02 | 2023-08-22 |
 | [Belong To Heaven](https://open.spotify.com/track/2jVyFmTMPX6z1IBj9yD7Y9) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Belong To Heaven](https://open.spotify.com/album/6MWLPGQ4kR8z6mFFnxKALE) | 4:11 | 2022-06-08 | 2022-06-17 |
 | [Bend Back \- Red Ladder Version](https://open.spotify.com/track/4bSkf6shzJIszUausfM5Eq) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Red Ladder](https://open.spotify.com/album/4Pi5ycF17d2dKxZuG1FPbn) | 4:11 | 2022-12-07 | 2023-01-26 |
 | [Betelgeuse](https://open.spotify.com/track/17k3mmarEw2guj3Iiy4CxB) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Hyaline](https://open.spotify.com/album/6J1NeQ3OmX4LW5Yg9EhPjd) | 4:22 | 2022-06-16 | 2022-07-28 |
@@ -302,6 +302,7 @@
 | [Karaoke](https://open.spotify.com/track/4WCPrvhloByVBtR0A9hqoo) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Karaoke](https://open.spotify.com/album/4Wl09axz0nWF0XwdZn4TYJ) | 3:41 | 2022-07-27 | 2022-09-15 |
 | [Keep It Secret](https://open.spotify.com/track/23regeg5c1f5dOzRuhJHwN) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Keep It Secret](https://open.spotify.com/album/0SF5P1JiRL5U6s14B73BDM) | 2:48 | 2023-05-31 | 2023-07-13 |
 | [Key To The City](https://open.spotify.com/track/3QAT8Y88JqW2nZWFYots94) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Key To The City](https://open.spotify.com/album/1iv4L6ZunwwdI1wbvdYH4L) | 3:40 | 2022-09-06 | 2022-10-21 |
+| [King of the Slugs](https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [King of the Slugs](https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ) | 7:05 | 2023-08-21 |  |
 | [Kiss City](https://open.spotify.com/track/7f1mKhZ8s6di51f76Qf03E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 2:23 | 2023-05-24 | 2023-07-06 |
 | [Kiss U](https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Kiss U](https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd) | 5:35 | 2022-09-12 | 2022-10-21 |
 | [Kiss U \- Ricardo Villalobos Remix](https://open.spotify.com/track/2BsDtdmu8H6ZlMWK4oPlL6) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4) | [♡ \(Ricardo Villalobos Remixes\)](https://open.spotify.com/album/09Sz1xnLiKWOXPz0BMxt51) | 13:16 | 2023-03-23 | 2023-05-11 |
@@ -354,6 +355,7 @@
 | [Mother](https://open.spotify.com/track/0GAr2dDEqEXqlhQzvyZTsK) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mother](https://open.spotify.com/album/038nzTPTer7dDaM9Z5K4M6) | 3:41 | 2023-04-20 | 2023-06-08 |
 | [Mother \- George FitzGerald Remix](https://open.spotify.com/track/1vgxVLYzVL4OHbPMie9Ngu) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mother \(Remixes\)](https://open.spotify.com/album/4dkxdBbALMtQCORM3vne8u) | 4:23 | 2023-07-20 |  |
 | [Mother \- Pretty Girl Remix](https://open.spotify.com/track/2rGOL5VgjeJUjQEoRVSQ8o) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Mother \(Remixes\)](https://open.spotify.com/album/4dkxdBbALMtQCORM3vne8u) | 5:50 | 2023-07-20 |  |
+| [Motherwell](https://open.spotify.com/track/1jizTrVCzc1nrTdB3gP7we) | [Former Champ](https://open.spotify.com/artist/1ntDd3adPrsrlLpiJBPfzM) | [Motherwell](https://open.spotify.com/album/0z388Qszg0TTCt4F2cTlCs) | 3:38 | 2023-08-21 |  |
 | [Movement 3 \- Pt\. 2](https://open.spotify.com/track/7dGG8bWKcfil2mLxXp6GZy) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Scottish Ensemble](https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ), [Josephine Stephenson](https://open.spotify.com/artist/1H7ShLxcYKrkdluOqoQBDm) | [Folded Landscapes](https://open.spotify.com/album/38mhxC6TEoXfimNwed6MhD) | 3:33 | 2023-05-10 | 2023-06-22 |
 | [Mr Medicine](https://open.spotify.com/track/02xliGbqxFVQGRctSA7V1G) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Mr Medicine](https://open.spotify.com/album/0Ne4VAoUWMv7ZB8XR4KTKx) | 2:26 | 2022-11-09 | 2022-12-15 |
 | [Murmuration](https://open.spotify.com/track/0RHSlvZimmkAssf6fgd1jz) | [Modern Nature](https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms) | [Murmuration](https://open.spotify.com/album/4ANr4PMLV3Z7K6Y34cGrm9) | 6:55 | 2023-06-28 | 2023-08-03 |

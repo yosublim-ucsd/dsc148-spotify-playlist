@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 19735,
+  "num_followers": 19808,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzgwOTYxMzQ4YzkwMjA2ODg4M2I2YWE3ZDY3OTcxNzgxMTEzODQ3",
+  "snapshot_id": "MCw5MTZhZTQyN2NhNzJhYjJiYWY4OWU5YTkyMWUxMTZiZDVjMTgzZjY0",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
+      },
+      "artists": [
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "40 Grandi Successi",
         "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 198373,
       "name": "Un'estate al mare",
       "url": "https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Addio al Nubilato",
+        "url": "https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h"
+      },
+      "artists": [
+        {
+          "name": "Lu Colombo",
+          "url": "https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk"
+        }
+      ],
+      "duration_ms": 233744,
+      "name": "Maracaibo",
+      "url": "https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 151720,
       "name": "Guarda come dondolo",
       "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Addio al Nubilato",
-        "url": "https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h"
-      },
-      "artists": [
-        {
-          "name": "Lu Colombo",
-          "url": "https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk"
-        }
-      ],
-      "duration_ms": 233744,
-      "name": "Maracaibo",
-      "url": "https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 159312,
-      "name": "Pinne fucile ed occhiali",
-      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Le pi\u00f9 belle canzoni di Milva",
         "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 156920,
       "name": "Con Te Sulla Spiaggia",
       "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
+        }
+      ],
+      "duration_ms": 159312,
+      "name": "Pinne fucile ed occhiali",
+      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
     }
   ],
   "unique_name": "Sapore di Sale",

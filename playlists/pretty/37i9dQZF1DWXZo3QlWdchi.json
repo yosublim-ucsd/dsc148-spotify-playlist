@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 284828,
+  "num_followers": 284941,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2Y5MGNhMDhhNTU3NjQ2ZGMzNzE4YTYxZmU5MTNjNTE5ZWRmMzZl",
+  "snapshot_id": "MCxlNThhYWRkMzM5NTgxMWUwOGRiNjVlZmYyNWRkZjU3ZTJjYjBkZDE1",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Dookie (30th Anniversary 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 187970,
+      "name": "Basket Case - 4-track demo",
+      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
         "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
       },
@@ -231,22 +247,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Dookie (30th Anniversary 4-Track Demos)",
-        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 187970,
-      "name": "Basket Case - 4-track demo",
-      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
@@ -259,38 +259,6 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 233946,
-      "name": "Ironic - Live / Unplugged",
-      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Ac\u00fastico Ira!",
-        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
-      },
-      "artists": [
-        {
-          "name": "Ira!",
-          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -311,6 +279,38 @@
       "duration_ms": 291125,
       "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Ac\u00fastico Ira!",
+        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
+      },
+      "artists": [
+        {
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "Ironic - Live / Unplugged",
+      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 438583,
-      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
-      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Live From Soho",
         "url": "https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 290266,
       "name": "How to Save a Life - Live in NYC - 2009",
       "url": "https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 438583,
+      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
+      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 277693,
-      "name": "S\u00f3 por hoje / Tenis Roque",
-      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Behind Your Walls",
-        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
         }
       ],
-      "duration_ms": 201186,
-      "name": "Behind Your Walls - Acoustic",
-      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
+      "duration_ms": 277693,
+      "name": "S\u00f3 por hoje / Tenis Roque",
+      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -831,6 +815,22 @@
       "duration_ms": 224080,
       "name": "Pra Dizer Adeus - Trio Ac\u00fastico",
       "url": "https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Behind Your Walls",
+        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Behind Your Walls - Acoustic",
+      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Quando Eu Te Encontrar",
         "url": "https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 220265,
       "name": "Quando Eu Te Encontrar",
       "url": "https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -971,6 +971,22 @@
       "duration_ms": 227541,
       "name": "O Teatro dos Vampiros",
       "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 307233,
+      "name": "The Little Things That Give You Away - Recorded at Neptune Valley, LA",
+      "url": "https://open.spotify.com/track/09SVUiWffBpVGOC19bHcwk"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 307233,
-      "name": "The Little Things That Give You Away - Recorded at Neptune Valley, LA",
-      "url": "https://open.spotify.com/track/09SVUiWffBpVGOC19bHcwk"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Bad Guy (Acoustic)",
         "url": "https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 196023,
       "name": "Digital - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 231496,
+      "name": "What's Going On - Recorded at Neptune Valley, LA",
+      "url": "https://open.spotify.com/track/2oCvlNPQ3EsLOBo1WkWz0K"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
+        "name": "J\u00e1 Vou Me Acostumar",
+        "url": "https://open.spotify.com/album/6kkPACmXiwyKhK4axxpH2s"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Tuono",
+          "url": "https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL"
         }
       ],
-      "duration_ms": 231496,
-      "name": "What's Going On - Recorded at Neptune Valley, LA",
-      "url": "https://open.spotify.com/track/2oCvlNPQ3EsLOBo1WkWz0K"
+      "duration_ms": 242636,
+      "name": "J\u00e1 Vou Me Acostumar",
+      "url": "https://open.spotify.com/track/46AU10i9KATIFs9dVAv5oI"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 128106,
       "name": "O Coro Vai Come - Ao Vivo",
       "url": "https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "J\u00e1 Vou Me Acostumar",
-        "url": "https://open.spotify.com/album/6kkPACmXiwyKhK4axxpH2s"
-      },
-      "artists": [
-        {
-          "name": "Tuono",
-          "url": "https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL"
-        }
-      ],
-      "duration_ms": 242636,
-      "name": "J\u00e1 Vou Me Acostumar",
-      "url": "https://open.spotify.com/track/46AU10i9KATIFs9dVAv5oI"
     },
     {
       "added_at": "2023-08-18 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Paz Court.\nDales PLAY, dales POWER.",
-  "num_followers": 12475,
+  "num_followers": 12491,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz",
+  "snapshot_id": "MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Rectificar",
-        "url": "https://open.spotify.com/album/30RXjLMWvfnWPIst1AOYwq"
-      },
-      "artists": [
-        {
-          "name": "AlmenDra DelPilar",
-          "url": "https://open.spotify.com/artist/3Hw6f6nZQytsgW29Hy3gG4"
-        }
-      ],
-      "duration_ms": 100419,
-      "name": "Ya Pas\u00f3 la Vieja",
-      "url": "https://open.spotify.com/track/3xIsKve8QasumCXEAJTeVK"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "ANASTASIA",
         "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 182299,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/06xFmWwVcOUFy3RgmJWN6I"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Rectificar",
+        "url": "https://open.spotify.com/album/30RXjLMWvfnWPIst1AOYwq"
+      },
+      "artists": [
+        {
+          "name": "AlmenDra DelPilar",
+          "url": "https://open.spotify.com/artist/3Hw6f6nZQytsgW29Hy3gG4"
+        }
+      ],
+      "duration_ms": 100419,
+      "name": "Ya Pas\u00f3 la Vieja",
+      "url": "https://open.spotify.com/track/3xIsKve8QasumCXEAJTeVK"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Gracias Por Lo Malo",
-        "url": "https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf"
-      },
-      "artists": [
-        {
-          "name": "Celeste Shaw",
-          "url": "https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj"
-        },
-        {
-          "name": "Catana",
-          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "No m\u00e1s me dio",
-      "url": "https://open.spotify.com/track/3bms00eq58V702DSRk7spN"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/2qQh3tdTsOhONQLwHKtzHP"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 181700,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/6OnDDDF6rvkDcYlG3ZDLxV"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Gracias Por Lo Malo",
+        "url": "https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf"
+      },
+      "artists": [
+        {
+          "name": "Celeste Shaw",
+          "url": "https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj"
+        },
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "No m\u00e1s me dio",
+      "url": "https://open.spotify.com/track/3bms00eq58V702DSRk7spN"
     },
     {
       "added_at": "2023-08-02 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 620931,
+  "num_followers": 620996,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzY4NjdmNjkxOWE3NTNhZjQ1MWQ2YzdhNmI0YmMxZWE4ZGI3NTE0",
+  "snapshot_id": "MCw0MTAyZjlkN2JhNTQ4NTJhMTcxODM2YTA5ZWRkNDgxMWZhMjE1NGRk",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Stompa",
+      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 233266,
       "name": "Highway Vagabond",
       "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
-      },
-      "artists": [
-        {
-          "name": "Serena Ryder",
-          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Stompa",
-      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Serious Love",
-        "url": "https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I"
-      },
-      "artists": [
-        {
-          "name": "Anya Marina",
-          "url": "https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Serious Love",
-      "url": "https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 181818,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Serious Love",
+        "url": "https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I"
+      },
+      "artists": [
+        {
+          "name": "Anya Marina",
+          "url": "https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Serious Love",
+      "url": "https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "In Loving Memory of When I Gave a Shit",
-        "url": "https://open.spotify.com/album/5o32Ftd7SS0EKIQlFwubH4"
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG"
       },
       "artists": [
         {
-          "name": "LOLO",
-          "url": "https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA"
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
         }
       ],
-      "duration_ms": 164586,
-      "name": "Not Gonna Let You Walk Away",
-      "url": "https://open.spotify.com/track/0UyCF0hctdZJomjdzDibPB"
+      "duration_ms": 185986,
+      "name": "Help Me Mama",
+      "url": "https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Storm",
-        "url": "https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG"
+        "name": "In Loving Memory of When I Gave a Shit",
+        "url": "https://open.spotify.com/album/5o32Ftd7SS0EKIQlFwubH4"
       },
       "artists": [
         {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+          "name": "LOLO",
+          "url": "https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA"
         }
       ],
-      "duration_ms": 185986,
-      "name": "Help Me Mama",
-      "url": "https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc"
+      "duration_ms": 164586,
+      "name": "Not Gonna Let You Walk Away",
+      "url": "https://open.spotify.com/track/0UyCF0hctdZJomjdzDibPB"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Springtime Carnivore",
-        "url": "https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO"
-      },
-      "artists": [
-        {
-          "name": "Springtime Carnivore",
-          "url": "https://open.spotify.com/artist/0EikLJdrz7f8ocaHztUO0S"
-        }
-      ],
-      "duration_ms": 256399,
-      "name": "Name on a Matchbook",
-      "url": "https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Once I Was An Eagle",
         "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 196351,
       "name": "Master Hunter",
       "url": "https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Springtime Carnivore",
+        "url": "https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO"
+      },
+      "artists": [
+        {
+          "name": "Springtime Carnivore",
+          "url": "https://open.spotify.com/artist/0EikLJdrz7f8ocaHztUO0S"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Name on a Matchbook",
+      "url": "https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 232242,
-      "name": "How Much Does Your Love Cost?",
-      "url": "https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Cannonball (Acoustic)",
         "url": "https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 278196,
       "name": "Cannonball - Acoustic",
       "url": "https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 232242,
+      "name": "How Much Does Your Love Cost?",
+      "url": "https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ"
     },
     {
       "added_at": "2023-07-21 04:00:00",

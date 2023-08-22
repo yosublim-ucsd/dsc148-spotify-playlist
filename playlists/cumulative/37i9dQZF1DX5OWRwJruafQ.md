@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-183 songs - 8 hr 50 min
+184 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All Sorted](https://open.spotify.com/track/1yuduFmsdDHWRrJiQCL73U) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [GURI SINGH](https://open.spotify.com/artist/4YK5CprOTeHRmdNX0c5UpZ), [MIXBYDOLCE](https://open.spotify.com/artist/4tcqUfUJ97wTStbNVYK9ul) | [All Sorted](https://open.spotify.com/album/4JZuiGIpa59jLIeJvzH4za) | 2:58 | 2023-04-21 | 2023-05-06 |
 | [Aloof](https://open.spotify.com/track/1CqkvBoq1vYh0TVX67aVFe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [YOLO](https://open.spotify.com/album/4xBhPWyrysJmW2bnaGKXOV) | 2:46 | 2023-03-29 |  |
 | [Area De Jatt](https://open.spotify.com/track/4rSERGLZ8k4AV7GXsfU5Ji) | [Darsh Dhaliwal](https://open.spotify.com/artist/3kTRwHuAvpLQmaxjtCUEXq), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Area De Jatt](https://open.spotify.com/album/05MRUTVqjKYuIUBn0gmeK4) | 4:12 | 2023-03-29 | 2023-04-25 |
+| [Award](https://open.spotify.com/track/5jTxpXe7Lav7oUdWYGzpPg) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Award](https://open.spotify.com/album/6BKaGsIy9fP46kMc9olq32) | 2:55 | 2023-08-21 |  |
 | [Bad Boy](https://open.spotify.com/track/405XCqBuCIDDqVnaRYWKr6) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Bad Boy](https://open.spotify.com/album/6r6cbSRfx2jw0Ih1xB7KfW) | 3:00 | 2023-06-08 | 2023-07-13 |
 | [Badmashi](https://open.spotify.com/track/0CDDcwKKEemSQCZIEtXJDZ) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [5 Star](https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn) | 3:02 | 2023-06-27 |  |
 | [Balcony](https://open.spotify.com/track/6qDHgeUBJFKYAGPBj3eVD6) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:43 | 2023-03-29 | 2023-07-15 |

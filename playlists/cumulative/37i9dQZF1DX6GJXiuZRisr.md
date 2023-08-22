@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-404 songs - 1 day 5 hr 23 min
+405 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Ready For More](https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Two Are](https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD), [Alar](https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a) | [Ready For More](https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm) | 4:07 | 2021-12-10 |  |
 | [Reclaim Me \(feat\. Nimmo\) \- Maya Jane Coles Remix \[Edit\]](https://open.spotify.com/track/7DLxRocVGAXVaq63ZuuIby) | [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Reclaim Me \(feat\. Nimmo\) \[Maya Jane Coles Remix\]](https://open.spotify.com/album/2a6PATwWoogkNkzaWI05vU) | 3:23 | 2021-05-07 | 2022-05-21 |
 | [Red Sky](https://open.spotify.com/track/6db3K1345xcIVsYaofJauI) | [DoubleV](https://open.spotify.com/artist/6Ess5QdnNvdRhAMhGNq1uS) | [Red Sky](https://open.spotify.com/album/6Le1yadSvu8kwHwS15Pfxh) | 3:29 | 2021-05-07 | 2022-04-13 |
-| [Remember](https://open.spotify.com/track/7B2ytzid2B2D1Wg83Iyt66) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Yourney](https://open.spotify.com/album/3P2oam7JHSOjZMH6IVf04U) | 3:29 | 2023-06-02 |  |
+| [Remember](https://open.spotify.com/track/7B2ytzid2B2D1Wg83Iyt66) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Yourney](https://open.spotify.com/album/3P2oam7JHSOjZMH6IVf04U) | 3:29 | 2023-06-02 | 2023-08-22 |
 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 | 2022-01-28 |  |
 | [Replay](https://open.spotify.com/track/67Lj6xHDrizXIDDFKYwdae) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Replay](https://open.spotify.com/album/2bwXbiQpSrhw8ioKitFRDD) | 4:12 | 2022-04-15 | 2022-07-29 |
 | [Rewind](https://open.spotify.com/track/2mEb5O579Ctj4sYqfkJSZd) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Rewind EP](https://open.spotify.com/album/2uwlsjnBdNtDzikfUibUjn) | 3:33 | 2021-05-07 | 2022-07-27 |
@@ -372,6 +372,7 @@
 | [Twin Souls](https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Twin Souls](https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm) | 4:29 | 2021-05-07 | 2023-05-13 |
 | [Twisted Reality \- Edit](https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Twisted Reality \(Edit\)](https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg) | 3:27 | 2021-09-17 |  |
 | [U CANT STOP ME NOW](https://open.spotify.com/track/7frTfDcziY9MJKaxh9o2cB) | [Mandaworld](https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3) | [U CANT STOP ME NOW](https://open.spotify.com/album/7usNqMOvyt0qBKCoJvGaJu) | 3:02 | 2023-03-31 | 2023-05-23 |
+| [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 | 2023-08-18 |  |
 | [Ultraviolet \(2022\)](https://open.spotify.com/track/46iNTZ0LIKZEBOqzXHA9sE) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Ultraviolet \(2022\)](https://open.spotify.com/album/4346HSVfG9ZOESnoWDYWfH) | 3:42 | 2022-02-04 | 2022-07-27 |
 | [Umbra](https://open.spotify.com/track/6WJll3eZF7ok5LAKouTj61) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf), [Sebek](https://open.spotify.com/artist/070GpDQjNHzkY6j2OrFcrA) | [Umbra](https://open.spotify.com/album/5n8XJ70T3OkIFOGOsL8YvA) | 8:19 | 2021-05-07 | 2022-04-21 |
 | [Under My Skin](https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Under My Skin](https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i) | 3:42 | 2023-07-21 |  |

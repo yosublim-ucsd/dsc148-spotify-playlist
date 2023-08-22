@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s fresas de la era del rocanrol para bailar \"de cachetito\".",
-  "num_followers": 110575,
+  "num_followers": 110580,
   "original_name": "Romance Rocanrol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2MzM2QxNGIzZDI4NDcwYTZkYTc1YTFkZjk2ZmRjMTU5OTY1YTc1",
+  "snapshot_id": "MCw3NDE1OTIzNWI5NzBkOWI0YTdhOTAxMGFjMDExYWQ3MjJjZThhN2Iw",
   "tracks": [
     {
       "added_at": "2018-12-05 03:36:52",
@@ -111,6 +111,38 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
+        }
+      ],
+      "duration_ms": 142800,
+      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
+      "url": "https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "El Ultimo Beso",
+        "url": "https://open.spotify.com/album/5uJpqm7QRlk7YDAB6gFFUl"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "El Ultimo Beso",
+      "url": "https://open.spotify.com/track/7raBju70gLsxnEJxAWRg8V"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "15 Exitos De Enrique Guzman Vol. ll",
         "url": "https://open.spotify.com/album/5Y0jl26HDiRVf7G4uBJV8y"
       },
@@ -175,38 +207,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jordan",
-          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
-        }
-      ],
-      "duration_ms": 142800,
-      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
-      "url": "https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "El Ultimo Beso",
-        "url": "https://open.spotify.com/album/5uJpqm7QRlk7YDAB6gFFUl"
-      },
-      "artists": [
-        {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "El Ultimo Beso",
-      "url": "https://open.spotify.com/track/7raBju70gLsxnEJxAWRg8V"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
         "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
       },
@@ -239,22 +239,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 136385,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/7L6laDgYm7x2JbKdXtHVNw"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Tesoros De Colecci\u00f3n - Los 5 Grandes del Rock",
         "url": "https://open.spotify.com/album/1QvD59dOUvZjajFvxzrKmY"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 153000,
       "name": "Tu Cabeza en Mi Hombro",
       "url": "https://open.spotify.com/track/6nh1jLT0OpOrqgHVwhtvk9"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 136385,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/7L6laDgYm7x2JbKdXtHVNw"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -419,22 +419,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Ritmos Juveniles",
-        "url": "https://open.spotify.com/album/4q3QY3SLomktS4PcgRCT9N"
-      },
-      "artists": [
-        {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
-        }
-      ],
-      "duration_ms": 159105,
-      "name": "La Historia de Mi Amor",
-      "url": "https://open.spotify.com/track/7B5kvvWZQ4kVEPIaluqa4A"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Glamour (Remastered 2015)",
         "url": "https://open.spotify.com/album/7wwVcBOt4BExqwusSQJcfe"
       },
@@ -467,54 +451,18 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "La Hiedra Venenosa",
-        "url": "https://open.spotify.com/album/6LBidnqJag1vXDiNCMYXIu"
+        "name": "Ritmos Juveniles",
+        "url": "https://open.spotify.com/album/4q3QY3SLomktS4PcgRCT9N"
       },
       "artists": [
         {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
         }
       ],
-      "duration_ms": 138631,
-      "name": "Dulces Tonterias",
-      "url": "https://open.spotify.com/track/0VexJnnOkihunQtGSyPt3Y"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "P\u00f3lvora",
-        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 135706,
-      "name": "Amorcito",
-      "url": "https://open.spotify.com/track/5nY0Hb0b7fDhgRjJi4Y3Kt"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Enrique Guzm\u00e1n (Celos de Ti)",
-        "url": "https://open.spotify.com/album/5BZ9SZPvCiXRjx9YGBjLXQ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Cari\u00f1o y Desprecio (Half Heaven-Half Heartache)",
-      "url": "https://open.spotify.com/track/7kfM5OnPGQ9O4fag48WFDC"
+      "duration_ms": 159105,
+      "name": "La Historia de Mi Amor",
+      "url": "https://open.spotify.com/track/7B5kvvWZQ4kVEPIaluqa4A"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -535,6 +483,26 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "La Hiedra Venenosa",
+        "url": "https://open.spotify.com/album/6LBidnqJag1vXDiNCMYXIu"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "duration_ms": 138631,
+      "name": "Dulces Tonterias",
+      "url": "https://open.spotify.com/track/0VexJnnOkihunQtGSyPt3Y"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z"
       },
@@ -547,6 +515,38 @@
       "duration_ms": 141572,
       "name": "Con Un Beso Peque\u00f1isimo",
       "url": "https://open.spotify.com/track/3NSoccXNlR0igm0a2Igxy3"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Enrique Guzm\u00e1n (Celos de Ti)",
+        "url": "https://open.spotify.com/album/5BZ9SZPvCiXRjx9YGBjLXQ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Cari\u00f1o y Desprecio (Half Heaven-Half Heartache)",
+      "url": "https://open.spotify.com/track/7kfM5OnPGQ9O4fag48WFDC"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "P\u00f3lvora",
+        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 135706,
+      "name": "Amorcito",
+      "url": "https://open.spotify.com/track/5nY0Hb0b7fDhgRjJi4Y3Kt"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -579,22 +579,6 @@
       "duration_ms": 157226,
       "name": "La Favorita del Profesor (Teacher's Pet)",
       "url": "https://open.spotify.com/track/24nhRNpFhLfWU8z7gYQHCK"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
-        "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 141973,
-      "name": "Mu\u00f1equita (Roly Poly)",
-      "url": "https://open.spotify.com/track/1jB2iqxlQZcLe2Cd9QOhgQ"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -645,20 +629,36 @@
       "url": "https://open.spotify.com/track/5MA2Oc7KhWjIe5bGKWX8Up"
     },
     {
-      "added_at": "2018-12-05 03:36:52",
+      "added_at": "2022-03-30 15:46:23",
       "album": {
-        "name": "Serie de Colecci\u00f3n de la Nueva Ola en el Per\u00fa",
-        "url": "https://open.spotify.com/album/738VKlMASfWSgL7xVgOEcB"
+        "name": "Grandes Exitos, Vol.2",
+        "url": "https://open.spotify.com/album/0n71y9FUaH4NHAu3hbeh3b"
       },
       "artists": [
         {
-          "name": "Regina Alcover",
-          "url": "https://open.spotify.com/artist/4KLsvXkmpe7TOzwush9YLh"
+          "name": "Billy Cafaro",
+          "url": "https://open.spotify.com/artist/13tqcy2zEw2Y4LzL29xAMB"
         }
       ],
-      "duration_ms": 144133,
-      "name": "Yo,T\u00fa y las Rosas",
-      "url": "https://open.spotify.com/track/26bc0h5bngOkWEv5944ZEA"
+      "duration_ms": 131800,
+      "name": "Pity Pity",
+      "url": "https://open.spotify.com/track/4WRMkSZDRD0MA7rEl9XchA"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
+        "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 141973,
+      "name": "Mu\u00f1equita (Roly Poly)",
+      "url": "https://open.spotify.com/track/1jB2iqxlQZcLe2Cd9QOhgQ"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -679,34 +679,18 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/4GjepOhyR5PpIyRTIb24LH"
+        "name": "Serie de Colecci\u00f3n de la Nueva Ola en el Per\u00fa",
+        "url": "https://open.spotify.com/album/738VKlMASfWSgL7xVgOEcB"
       },
       "artists": [
         {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
+          "name": "Regina Alcover",
+          "url": "https://open.spotify.com/artist/4KLsvXkmpe7TOzwush9YLh"
         }
       ],
-      "duration_ms": 139533,
-      "name": "Tombola",
-      "url": "https://open.spotify.com/track/0IIFQcQwXEnJtJp7BKyPVg"
-    },
-    {
-      "added_at": "2022-03-30 15:46:23",
-      "album": {
-        "name": "Grandes Exitos, Vol.2",
-        "url": "https://open.spotify.com/album/0n71y9FUaH4NHAu3hbeh3b"
-      },
-      "artists": [
-        {
-          "name": "Billy Cafaro",
-          "url": "https://open.spotify.com/artist/13tqcy2zEw2Y4LzL29xAMB"
-        }
-      ],
-      "duration_ms": 131800,
-      "name": "Pity Pity",
-      "url": "https://open.spotify.com/track/4WRMkSZDRD0MA7rEl9XchA"
+      "duration_ms": 144133,
+      "name": "Yo,T\u00fa y las Rosas",
+      "url": "https://open.spotify.com/track/26bc0h5bngOkWEv5944ZEA"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -743,18 +727,18 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/4GjepOhyR5PpIyRTIb24LH"
       },
       "artists": [
         {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
         }
       ],
-      "duration_ms": 149681,
-      "name": "Muchacho Solitario",
-      "url": "https://open.spotify.com/track/7mSSpmOLEnULFBfnhQJcmr"
+      "duration_ms": 139533,
+      "name": "Tombola",
+      "url": "https://open.spotify.com/track/0IIFQcQwXEnJtJp7BKyPVg"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -775,6 +759,22 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 149681,
+      "name": "Muchacho Solitario",
+      "url": "https://open.spotify.com/track/7mSSpmOLEnULFBfnhQJcmr"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "Disco Conmemorativo 40 Aniversario El Disco de Oro de Rock",
         "url": "https://open.spotify.com/album/2cK8ZVic0S4a039K7SSLMl"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Las Numero 1 De Angelica Maria",
-        "url": "https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
-      "url": "https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 141773,
       "name": "D\u00edmelo T\u00fa",
       "url": "https://open.spotify.com/track/3VT0jt1qyl5XTzRHraac14"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Las Numero 1 De Angelica Maria",
+        "url": "https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
+      "url": "https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8"
     }
   ],
   "unique_name": "Romance Rocanrol",

@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Sexyy Red
 
-419 songs - 17 hr 46 min
+420 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Hood Celebrity \(Shake it\)](https://open.spotify.com/track/3MJ8iBdGoL3qMg0fhSsMgq) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Flow Of Forum](https://open.spotify.com/album/36QL5IbxHb7GKTxR3W5SBH) | 2:08 | 2022-08-05 | 2022-10-22 |
 | [Hood Love Story](https://open.spotify.com/track/6YqllTrCzrCJQghRu4vdtS) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Hood Love Story](https://open.spotify.com/album/3jPCWncrNMtE7eJRHEkGNP) | 2:36 | 2022-10-28 | 2022-11-12 |
 | [HOOD RAT SHIT](https://open.spotify.com/track/3kngaJLn8ch92TAI33kGtf) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Chenzehn](https://open.spotify.com/artist/4f6mzHylkFqgtpggUv7qdq) | [HOOD RAT SHIT](https://open.spotify.com/album/6XMm1PP7M1nUzXypot7Rut) | 2:42 | 2023-06-30 |  |
+| [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Rats \(with Sukihana\)](https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx) | 2:55 | 2023-08-21 |  |
 | [Hot Friend](https://open.spotify.com/track/7apkSpHwMzhpSCi3rRa352) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [Hot Friend](https://open.spotify.com/album/2FpQM6aXOAhInjnFoK7tg5) | 2:29 | 2023-06-16 |  |
 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-07-01 | 2022-10-01 |
 | [Huh](https://open.spotify.com/track/0WwULq4T2uJSPFxHgs90su) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Huh](https://open.spotify.com/album/7hFzIU57hDLZhjTg5b8p58) | 3:03 | 2023-06-02 | 2023-07-22 |

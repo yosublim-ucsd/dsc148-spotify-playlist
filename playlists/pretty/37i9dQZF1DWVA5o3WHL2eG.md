@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,460 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,466 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Egal was](https://open.spotify.com/track/71z6IWe0V0z5mfLcvxEJFt) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Egal was](https://open.spotify.com/album/51427tNhEqzDNVbtLQJyFZ) | 2:28 |
 | 17 | [Purple Moon](https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [Purple Moon](https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4) | 3:17 |
 | 18 | [Summer Love](https://open.spotify.com/track/0nsGKdYyhCkHErQjkMwtRe) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Summer Love](https://open.spotify.com/album/282lZlTXEyo401BruSaBoA) | 2:43 |
-| 19 | [Späti.wav](https://open.spotify.com/track/0mcE2lux5WXnkbAnd3Env6) | [EAZI](https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ) | [Späti.wav](https://open.spotify.com/album/3FENmaFwl4Mly7a2tKdh5J) | 2:07 |
-| 20 | [Immer mehr](https://open.spotify.com/track/2xauduEOjPHqO1SLYJUpGM) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [Immer mehr](https://open.spotify.com/album/2EoXgzamMfjdsovHFqv0tt) | 2:20 |
+| 19 | [Immer mehr](https://open.spotify.com/track/2xauduEOjPHqO1SLYJUpGM) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [Immer mehr](https://open.spotify.com/album/2EoXgzamMfjdsovHFqv0tt) | 2:20 |
+| 20 | [Späti.wav](https://open.spotify.com/track/0mcE2lux5WXnkbAnd3Env6) | [EAZI](https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ) | [Späti.wav](https://open.spotify.com/album/3FENmaFwl4Mly7a2tKdh5J) | 2:07 |
 | 21 | [Sag Mir](https://open.spotify.com/track/2YG0wTvsEoOgEcVjz9age7) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Sag Mir](https://open.spotify.com/album/2sGnyS8c8lYluA9nClevoF) | 3:00 |
 | 22 | [Warum so kalt](https://open.spotify.com/track/0ax4fascbiYqqAk1RJUk2p) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Eine kleine EP about kälte and the heat](https://open.spotify.com/album/0ZtSHFfLpT8HmkiHi2kwup) | 3:10 |
-| 23 | [Bitch](https://open.spotify.com/track/7vXeRpDn6QxlJoyoHOmJcu) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Bitch](https://open.spotify.com/album/6KxOcr7awsBTsQDOSvblzV) | 2:44 |
-| 24 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
+| 23 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
+| 24 | [Bitch](https://open.spotify.com/track/7vXeRpDn6QxlJoyoHOmJcu) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Bitch](https://open.spotify.com/album/6KxOcr7awsBTsQDOSvblzV) | 2:44 |
 | 25 | [Buchstabiere Leonie](https://open.spotify.com/track/1BkNxB6qDnbgHRjHXy9pj3) | [Ona](https://open.spotify.com/artist/6BmqNgPvi0shd76X7uIGGr) | [Buchstabiere Leonie](https://open.spotify.com/album/3L79Enm62o7wIVT4e00RMu) | 3:15 |
 | 26 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 |
 | 27 | [Was Junge was](https://open.spotify.com/track/3Qg8LKffaRkjafolzopnCU) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Was Junge was](https://open.spotify.com/album/1lEyvoDuMCQejVlQiQP0Me) | 2:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 46 | [Co\-Star](https://open.spotify.com/track/272y0bdH3mzLoKieq33tVt) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ), [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [Co\-Star](https://open.spotify.com/album/167qtsWfNh9Bpejtg1Reu5) | 2:29 |
 | 47 | [moleküle](https://open.spotify.com/track/1SJKpDbieneXDefohANb75) | [ELAV](https://open.spotify.com/artist/54qCVYlwbZUAxWzLIdSYF4) | [moleküle](https://open.spotify.com/album/59kjbQ5UaM0CvMprAMZf2F) | 2:56 |
 | 48 | [Zu viel Gas](https://open.spotify.com/track/1QAxkcH1gyZcmtnqUUAsvh) | [Brenda Blitz](https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd) | [Zu viel Gas](https://open.spotify.com/album/39z9n76kVdHZ5Py8kOTgKx) | 2:12 |
-| 49 | [Loneliness](https://open.spotify.com/track/0EX7O1fUvcIJeWsbE5UVfN) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Loneliness](https://open.spotify.com/album/1pKvju0BnwcxXNaPstmMGi) | 3:33 |
-| 50 | [Verliebt](https://open.spotify.com/track/7fmXUVYmTQaS1bQRGNLpmW) | [Juli Holz](https://open.spotify.com/artist/7M7vQv8K3CLzWRK6urf1aJ) | [Verliebt](https://open.spotify.com/album/4FZi3s1p5rWhryOw6HKyVo) | 4:44 |
+| 49 | [Verliebt](https://open.spotify.com/track/7fmXUVYmTQaS1bQRGNLpmW) | [Juli Holz](https://open.spotify.com/artist/7M7vQv8K3CLzWRK6urf1aJ) | [Verliebt](https://open.spotify.com/album/4FZi3s1p5rWhryOw6HKyVo) | 4:44 |
+| 50 | [Loneliness](https://open.spotify.com/track/0EX7O1fUvcIJeWsbE5UVfN) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Loneliness](https://open.spotify.com/album/1pKvju0BnwcxXNaPstmMGi) | 3:33 |
 
-Snapshot ID: `MCw0YWMzM2RkYTIwNWYyNzgzNjQzNGE5NzcyZTMxZjlhM2NhOGNmNGYz`
+Snapshot ID: `MCwzNWM1Yzc5ZDM1NTA2N2FjY2FlZTI4NjEyYWNlOTIzMTA2YmY3M2Qx`

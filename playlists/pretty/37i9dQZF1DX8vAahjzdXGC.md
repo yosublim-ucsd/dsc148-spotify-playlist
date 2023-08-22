@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Lyodra
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,700 likes - 96 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,732 likes - 96 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 95 | [Daydream](https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Daydream](https://open.spotify.com/album/6FR3pCx1lAGyWlkGVIWkP0) | 3:38 |
 | 96 | [J\-O\-B](https://open.spotify.com/track/4Y04Y4j9y3urznHQOzMuxk) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [J\-O\-B](https://open.spotify.com/album/2QsCvTev6EAZVuxYA5nfi5) | 2:40 |
 
-Snapshot ID: `MCxiMDQ1NjQ2ZGM5OGIyN2QyMWY3YjBiYzhjOWY5OTUzZGQ3NDIwODc4`
+Snapshot ID: `MCwwMjJkODgzMzUzZTQ1OWU3ZWI1NGFlOGI5Njk4OTJhMjY5ZjE1YWYw`

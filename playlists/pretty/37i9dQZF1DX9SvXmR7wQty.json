@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aya Nakamura",
-  "num_followers": 37588,
+  "num_followers": 37601,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWYyMjQyM2UzNTJhOWI1NTI5MGI2Y2YxNTEyMDU4NWUwM2QyYTRh",
+  "snapshot_id": "MCwyOTRjMGEyZGJkZmNkYTAzODUxZDUwODhjNWM5ZGIxNGJiMDQ1NGI1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -131,26 +131,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Y Dor",
-        "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Unleaded",
-          "url": "https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 145620,
-      "name": "Y Dor",
-      "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
+      "duration_ms": 195659,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -175,18 +167,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
+        "name": "Ouvert tout l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Sadek",
+          "url": "https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 195659,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
+      "duration_ms": 178266,
+      "name": "TP",
+      "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -207,22 +203,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Ouvert tout l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB"
+        "name": "Y Dor",
+        "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
       },
       "artists": [
         {
-          "name": "Sadek",
-          "url": "https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         },
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Unleaded",
+          "url": "https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 178266,
-      "name": "TP",
-      "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
+      "duration_ms": 145620,
+      "name": "Y Dor",
+      "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Mon BB",
-        "url": "https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL"
-      },
-      "artists": [
-        {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "Mon BB",
-      "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
@@ -407,6 +387,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Mon BB",
+        "url": "https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 188786,
+      "name": "Mon BB",
+      "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Trop parler",
         "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
       },
@@ -419,6 +419,26 @@
       "duration_ms": 183865,
       "name": "Trop parler",
       "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 136711,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -491,26 +511,6 @@
       "duration_ms": 134423,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 136711,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "TESLA (feat. DaChoyce)",
+        "url": "https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "DaChoyce",
+          "url": "https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl"
+        }
+      ],
+      "duration_ms": 131633,
+      "name": "TESLA (feat. DaChoyce)",
+      "url": "https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Daddy 9",
         "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 176453,
       "name": "Molo (feat. Dadju)",
       "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "G\u00c9 VOULAIT",
-        "url": "https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 161122,
-      "name": "G\u00c9 VOULAIT",
-      "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -703,22 +703,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "TESLA (feat. DaChoyce)",
-        "url": "https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9"
+        "name": "G\u00c9 VOULAIT",
+        "url": "https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
         },
         {
-          "name": "DaChoyce",
-          "url": "https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         }
       ],
-      "duration_ms": 131633,
-      "name": "TESLA (feat. DaChoyce)",
-      "url": "https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1"
+      "duration_ms": 161122,
+      "name": "G\u00c9 VOULAIT",
+      "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
     },
     {
       "added_at": "2023-08-18 04:00:00",

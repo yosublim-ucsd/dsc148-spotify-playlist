@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 9082,
+  "num_followers": 9111,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2Q1Nzc5NDkxNzJiYThlMDA5OGE5OTg4MGU3ZDI2MDkxZGNmYjI3",
+  "snapshot_id": "MCw0OTQ2NDNhZmQ5MTNjNTFhMmExZjEyNzQzYjAxOWIzYjVkY2ZiZDQw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "No Friends In The Industry",
+      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "SUVs (Black on Black)",
         "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
       },
@@ -179,22 +195,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "No Friends In The Industry",
-      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Clash (feat. Stormzy)",
         "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
       },
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Trip At Knight (Complete Edition)",
         "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 188025,
       "name": "Matt Hardy 999 (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/1HsOTiVqdN7PB1zOS2bcsO"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -311,6 +311,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 228461,
+      "name": "Love All (with JAY-Z)",
+      "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "NEVER LEFT",
         "url": "https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 184833,
       "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 228461,
-      "name": "Love All (with JAY-Z)",
-      "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "SKAT (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 231414,
-      "name": "SKAT (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Gardner Express",
         "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 171000,
       "name": "Attachments",
       "url": "https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "SKAT (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 231414,
+      "name": "SKAT (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Steppers",
+        "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Steppers",
+      "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Off-White (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 164353,
       "name": "Off-White (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Steppers",
-        "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
-      },
-      "artists": [
-        {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Steppers",
-      "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -787,42 +787,6 @@
       "duration_ms": 206533,
       "name": "Relentless (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Rah Swish",
-          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
-        }
-      ],
-      "duration_ms": 150449,
-      "name": "Brush Em (feat. Rah Swish)",
-      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Don\u2019t Leave Me",
-      "url": "https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -875,6 +839,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "duration_ms": 150449,
+      "name": "Brush Em (feat. Rah Swish)",
+      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "My Shit",
         "url": "https://open.spotify.com/album/7C6YsJ2PYab0ydSTP7BQB2"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Don\u2019t Leave Me",
+      "url": "https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "I Ain't Scared",
         "url": "https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 123870,
       "name": "Toxic Punk",
       "url": "https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Senseless",
-        "url": "https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 143857,
-      "name": "Senseless",
-      "url": "https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -959,6 +943,22 @@
       "duration_ms": 228251,
       "name": "30 (feat. Bizzy Banks)",
       "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Senseless",
+        "url": "https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 143857,
+      "name": "Senseless",
+      "url": "https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ"
     }
   ],
   "unique_name": "DJ Akademiks' Taste",

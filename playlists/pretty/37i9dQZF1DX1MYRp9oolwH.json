@@ -1,28 +1,52 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 104150,
+  "num_followers": 104301,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWZiOGM4N2RjNDhkZDQ5MjhjN2NjY2M5MDRhYzhjYTRkZGNiYjIz",
+  "snapshot_id": "MCxmM2JjN2ExMTgzOGE3ZDdmZDZiZTQxOWQ1NDFiODE3MTQ2OWExMWRm",
   "tracks": [
     {
-      "added_at": "2023-07-28 12:41:29",
+      "added_at": "2023-05-09 06:55:53",
       "album": {
-        "name": "Kushi Title Song (From \"Kushi\") (Telugu)",
-        "url": "https://open.spotify.com/album/6FJ7RPoVzmPFp4QN6pGONQ"
+        "name": "Na Roja Nuvve (From \"Kushi\") - Single",
+        "url": "https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS"
       },
       "artists": [
         {
           "name": "Hesham Abdul Wahab",
           "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Shiva Nirvana",
+          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Kushi Title Song (From \"Kushi\") (Telugu)",
-      "url": "https://open.spotify.com/track/3Trl1pPBlTQfzWvHDlTvfR"
+      "duration_ms": 242526,
+      "name": "Na Roja Nuvve (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr"
+    },
+    {
+      "added_at": "2023-05-29 10:28:29",
+      "album": {
+        "name": "Ooru Peru Bhairavakona",
+        "url": "https://open.spotify.com/album/6a287rBCL3c5YmfQ9JiQkB"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Shekar Chandra",
+          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        }
+      ],
+      "duration_ms": 214997,
+      "name": "Nijame Ne Chebutunna",
+      "url": "https://open.spotify.com/track/37KgM3qNYvDdMC9m6IvBOf"
     },
     {
       "added_at": "2023-07-31 07:52:31",
@@ -67,6 +91,42 @@
       "duration_ms": 202401,
       "name": "Suttamla Soosi",
       "url": "https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO"
+    },
+    {
+      "added_at": "2022-12-20 12:37:49",
+      "album": {
+        "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
+        "url": "https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Sreerama Chandra",
+          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
+        }
+      ],
+      "duration_ms": 314342,
+      "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
+      "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"
+    },
+    {
+      "added_at": "2023-07-28 12:41:29",
+      "album": {
+        "name": "Kushi Title Song (From \"Kushi\") (Telugu)",
+        "url": "https://open.spotify.com/album/6FJ7RPoVzmPFp4QN6pGONQ"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Kushi Title Song (From \"Kushi\") (Telugu)",
+      "url": "https://open.spotify.com/track/3Trl1pPBlTQfzWvHDlTvfR"
     },
     {
       "added_at": "2023-08-16 06:50:09",
@@ -119,6 +179,22 @@
       "duration_ms": 255445,
       "name": "Vennello Aadapilla",
       "url": "https://open.spotify.com/track/4WFMMeXBuMgoNabiRjAWLc"
+    },
+    {
+      "added_at": "2023-02-20 04:48:12",
+      "album": {
+        "name": "Balagam",
+        "url": "https://open.spotify.com/album/34y8xs6VBq9OldZUZGgZ4h"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        }
+      ],
+      "duration_ms": 223310,
+      "name": "Potti Pilla",
+      "url": "https://open.spotify.com/track/3ocPclZ3oyIHCaG7Jsl4kf"
     },
     {
       "added_at": "2023-08-16 05:55:24",
@@ -389,26 +465,6 @@
       "url": "https://open.spotify.com/track/4wFU6Q4vInTg2HQ2mkko8x"
     },
     {
-      "added_at": "2023-05-29 10:28:29",
-      "album": {
-        "name": "Ooru Peru Bhairavakona",
-        "url": "https://open.spotify.com/album/6a287rBCL3c5YmfQ9JiQkB"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Shekar Chandra",
-          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
-        }
-      ],
-      "duration_ms": 214997,
-      "name": "Nijame Ne Chebutunna",
-      "url": "https://open.spotify.com/track/37KgM3qNYvDdMC9m6IvBOf"
-    },
-    {
       "added_at": "2023-05-26 10:14:15",
       "album": {
         "name": "Oopirey (From \"Takkar\")",
@@ -451,26 +507,6 @@
       "duration_ms": 177130,
       "name": "Lalana (From \"LGM (Telugu)\")",
       "url": "https://open.spotify.com/track/5nClSarCW9enQgWpeblJfU"
-    },
-    {
-      "added_at": "2023-05-09 06:55:53",
-      "album": {
-        "name": "Na Roja Nuvve (From \"Kushi\") - Single",
-        "url": "https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Shiva Nirvana",
-          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Na Roja Nuvve (From \"Kushi\")",
-      "url": "https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr"
     },
     {
       "added_at": "2023-07-10 12:55:27",
@@ -821,26 +857,6 @@
       "url": "https://open.spotify.com/track/2uFuVr7pangSzmAqBmULbh"
     },
     {
-      "added_at": "2022-12-20 12:37:49",
-      "album": {
-        "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
-        "url": "https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT"
-      },
-      "artists": [
-        {
-          "name": "Vijai Bulganin",
-          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
-        },
-        {
-          "name": "Sreerama Chandra",
-          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
-        }
-      ],
-      "duration_ms": 314342,
-      "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
-      "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"
-    },
-    {
       "added_at": "2023-03-21 06:30:28",
       "album": {
         "name": "Nelamedha Lene (From \"O Saathiya\")",
@@ -1027,22 +1043,6 @@
       "duration_ms": 213242,
       "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\")",
       "url": "https://open.spotify.com/track/3d4BUW2iX1HagWRRkat9l7"
-    },
-    {
-      "added_at": "2023-02-20 04:48:12",
-      "album": {
-        "name": "Balagam",
-        "url": "https://open.spotify.com/album/34y8xs6VBq9OldZUZGgZ4h"
-      },
-      "artists": [
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        }
-      ],
-      "duration_ms": 223310,
-      "name": "Potti Pilla",
-      "url": "https://open.spotify.com/track/3ocPclZ3oyIHCaG7Jsl4kf"
     },
     {
       "added_at": "2022-12-19 10:39:37",

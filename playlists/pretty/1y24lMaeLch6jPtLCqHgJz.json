@@ -6,7 +6,7 @@
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "MjM1Miw3OWMxZmExYTEwYjEyNmJkYzVlYzUzYTM5MjAzYjRiZGFlZDA2NzA1",
+  "snapshot_id": "MjM1NCw1NGRhZjg3NDA4OWUzMTIzOGQ1MmMzYTc4NTliY2Y2NTNkNzI3YzNh",
   "tracks": [
     {
       "added_at": "2023-08-10 12:30:58",
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
+      "added_at": "2023-08-21 09:26:01",
+      "album": {
+        "name": "Turn It Around Baby",
+        "url": "https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Turn It Around Baby",
+      "url": "https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq"
+    },
+    {
       "added_at": "2023-08-10 12:30:58",
       "album": {
         "name": "Do It",
@@ -279,6 +295,30 @@
       "duration_ms": 183668,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5ZCZmL42ETXg6BaPWe1emp"
+    },
+    {
+      "added_at": "2023-08-21 09:40:03",
+      "album": {
+        "name": "Curura",
+        "url": "https://open.spotify.com/album/5ownYiFYYBZXWGQJ4txRKf"
+      },
+      "artists": [
+        {
+          "name": "Wolfpack",
+          "url": "https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox"
+        },
+        {
+          "name": "Jaxx & Vega",
+          "url": "https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w"
+        },
+        {
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
+        }
+      ],
+      "duration_ms": 142004,
+      "name": "Curura",
+      "url": "https://open.spotify.com/track/2qrEyfQgY9KsKx7haqzo5S"
     },
     {
       "added_at": "2023-08-11 07:26:11",

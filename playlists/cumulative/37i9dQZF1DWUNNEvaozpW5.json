@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
+    },
+    {
+      "album": {
         "name": "Un Palo Al Agua (20 Grandes Canciones)",
         "url": "https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq"
       },
@@ -622,7 +640,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 211173,
       "name": "Ay Que Gustito Pa' Mis Orejas",
       "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 380973,
       "name": "Calle Melancol\u00eda",
       "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203213,
       "name": "Como Camar\u00f3n",
       "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Corazon de Tango",
       "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 298706,
       "name": "Cruzando el para\u00edso",
       "url": "https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp"
@@ -1851,6 +1869,88 @@
     },
     {
       "album": {
+        "name": "El Carro de la Vida (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5TziM0FWmtLYoKQZxlijkp"
+      },
+      "artists": [
+        {
+          "name": "Sinkope",
+          "url": "https://open.spotify.com/artist/3pGly9FAB9GLVX1wkNTXoP"
+        },
+        {
+          "name": "Adormidera",
+          "url": "https://open.spotify.com/artist/04VCcTST2Kr8bwhjAqa8yD"
+        },
+        {
+          "name": "Ant\u00edlopez",
+          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
+        },
+        {
+          "name": "Ara Malikian",
+          "url": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
+        },
+        {
+          "name": "Aurora Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/3GnMrfvoW6rrZxbau2b6fu"
+        },
+        {
+          "name": "BAMBIKINA",
+          "url": "https://open.spotify.com/artist/6yQRoGwzyeHHHnUZGf6iZW"
+        },
+        {
+          "name": "Derby Motoreta\u2019s Burrito Kachimba",
+          "url": "https://open.spotify.com/artist/1nRVWZrJJCFAfkRWtFFPj4"
+        },
+        {
+          "name": "El Drogas",
+          "url": "https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK"
+        },
+        {
+          "name": "Kutxi Romero",
+          "url": "https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY"
+        },
+        {
+          "name": "La Ira",
+          "url": "https://open.spotify.com/artist/3tTvOTpqhx1NKvmdMi4kdV"
+        },
+        {
+          "name": "Los ni\u00f1os de los ojos rojos",
+          "url": "https://open.spotify.com/artist/6XmvBOd1tQZKCbGcoPwCDA"
+        },
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        },
+        {
+          "name": "O'Funk'illo",
+          "url": "https://open.spotify.com/artist/3GaVCQ4OFLD0BdrXoCKKh8"
+        },
+        {
+          "name": "Porretas",
+          "url": "https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk"
+        },
+        {
+          "name": "Reincidentes",
+          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
+        },
+        {
+          "name": "S\u00f4ber",
+          "url": "https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN"
+        },
+        {
+          "name": "Tah\u00fares Z\u00fardos",
+          "url": "https://open.spotify.com/artist/5B6JwEo3bqy1bun6WKFCxR"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287873,
+      "name": "El Carro de la Vida - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7LVBTC1yuwJxoEm9kAyTbl"
+    },
+    {
+      "album": {
         "name": "El Carro de la Vida",
         "url": "https://open.spotify.com/album/3gNZBIQIf7FHfHPqQCL8db"
       },
@@ -2052,7 +2152,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 192106,
       "name": "El imperio contraataca",
       "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
@@ -2298,7 +2398,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 245026,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh"
@@ -2596,7 +2696,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249791,
       "name": "Fr\u00edo (con Fito y Fitipaldis, Tarque y Rosendo)",
       "url": "https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57"
@@ -3608,7 +3708,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
@@ -3662,7 +3762,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 243040,
       "name": "Masculino singular",
       "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
@@ -3774,7 +3874,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 233026,
       "name": "Mediterraneo",
       "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
@@ -4161,6 +4261,24 @@
     },
     {
       "album": {
+        "name": "El doble de tu mitad",
+        "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
+      },
+      "artists": [
+        {
+          "name": "Rulo y la contrabanda",
+          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240760,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
+    },
+    {
+      "album": {
         "name": "Greta Garbo",
         "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
       },
@@ -4230,7 +4348,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236160,
       "name": "Pacto Entre Caballeros",
       "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
@@ -4266,7 +4384,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 294200,
       "name": "Palabras Para Julia",
       "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
@@ -4694,7 +4812,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 247401,
       "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
       "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
@@ -4864,6 +4982,24 @@
       "duration_ms": 299977,
       "name": "Rey del Glam",
       "url": "https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1"
+    },
+    {
+      "album": {
+        "name": "Rock and Roll Actitud (1978-2018)",
+        "url": "https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "Rock and Roll Star - 2017 Remaster",
+      "url": "https://open.spotify.com/track/6UJZUMcCgKHi4uGozQc8EE"
     },
     {
       "album": {
@@ -5074,7 +5210,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190013,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
@@ -5336,6 +5472,24 @@
       "duration_ms": 138691,
       "name": "Solo Soy Un Jugador",
       "url": "https://open.spotify.com/track/7GOaB0DZcmbJo3HQkgpIQB"
+    },
+    {
+      "album": {
+        "name": "Corre Corre",
+        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f1o",
+          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245440,
+      "name": "Sorprendente",
+      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
     },
     {
       "album": {
@@ -5628,7 +5782,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 188106,
       "name": "Tras la barra",
       "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
@@ -5650,6 +5804,24 @@
       "duration_ms": 182169,
       "name": "Trocito de Cielo",
       "url": "https://open.spotify.com/track/4Cr2O3m84McsJNOT1IRclx"
+    },
+    {
+      "album": {
+        "name": "Un Encuentro",
+        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
+      },
+      "artists": [
+        {
+          "name": "Triana",
+          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263506,
+      "name": "Tu frialdad",
+      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
     },
     {
       "album": {
@@ -5806,7 +5978,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 217900,
       "name": "Ur\u00f3boros",
       "url": "https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX"
@@ -6042,7 +6214,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 226813,
       "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
       "url": "https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD"

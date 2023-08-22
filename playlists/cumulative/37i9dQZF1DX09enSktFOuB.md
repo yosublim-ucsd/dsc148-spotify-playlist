@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX09enSktFOuB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX09enSktFOuB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX09enSktFOuB)
 
-### [Tamil BAE 💕](https://open.spotify.com/playlist/37i9dQZF1DX09enSktFOuB)
+### [Tamil BAE](https://open.spotify.com/playlist/37i9dQZF1DX09enSktFOuB)
 
 > Best Love songs, Before Anything Else<br/>Cover : Don
 

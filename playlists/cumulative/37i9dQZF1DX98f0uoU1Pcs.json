@@ -4893,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "Let's Do Drugs",
+        "url": "https://open.spotify.com/album/6dFaxMX3QrHLdUO54jID00"
+      },
+      "artists": [
+        {
+          "name": "NOBRO",
+          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139549,
+      "name": "Let's Do Drugs",
+      "url": "https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh"
+    },
+    {
+      "album": {
         "name": "Let's Go Home",
         "url": "https://open.spotify.com/album/3Qg4vX2IV4MOYD25au2PKX"
       },

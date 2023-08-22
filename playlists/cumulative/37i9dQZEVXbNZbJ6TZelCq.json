@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 173174,
       "name": "Alo baza baza",
       "url": "https://open.spotify.com/track/1KDSdCDKLSVJNREpp7OICq"
@@ -5136,7 +5136,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 197333,
       "name": "Dac\u0103 n-ai bani",
       "url": "https://open.spotify.com/track/1C0G4YZEz2eOQlL2HfbyFO"
@@ -10319,6 +10319,24 @@
     },
     {
       "album": {
+        "name": "Ia-ma Du-ma",
+        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Ia-ma Du-ma",
+      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
+    },
+    {
+      "album": {
         "name": "Idealu`",
         "url": "https://open.spotify.com/album/5H3j1rRLFx4uuVBjROo8mI"
       },
@@ -10414,7 +10432,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 192000,
       "name": "IN LIPSA TA",
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
@@ -10440,6 +10458,32 @@
       "duration_ms": 166264,
       "name": "IN LIPSA TA 2",
       "url": "https://open.spotify.com/track/3T2mWZe3ArDpKwFcdSS3iF"
+    },
+    {
+      "album": {
+        "name": "In Palma Ta (Erik Van Tools Remix)",
+        "url": "https://open.spotify.com/album/2aaewBcR1QdBeSyeLaHjks"
+      },
+      "artists": [
+        {
+          "name": "Ioana Ignat",
+          "url": "https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu"
+        },
+        {
+          "name": "Edward Sanda",
+          "url": "https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V"
+        },
+        {
+          "name": "Erik Van Tools",
+          "url": "https://open.spotify.com/artist/1fIMETIKEDYvggl0VokeoM"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232890,
+      "name": "In Palma Ta - Erik Van Tools Remix",
+      "url": "https://open.spotify.com/track/54EBvuNQ9GNMv83MMFSI7r"
     },
     {
       "album": {
@@ -22404,7 +22448,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"

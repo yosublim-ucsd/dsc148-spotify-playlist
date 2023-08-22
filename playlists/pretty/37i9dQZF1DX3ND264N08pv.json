@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 52194,
+  "num_followers": 52256,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmEyZTI4YWU1YTIxYWZlZjVkNjVmNTY4NjIwYmM1OTdlZTI5Nzc1",
+  "snapshot_id": "MCw4ODY2NjdlMjNmMDNmZTNiZTdiNGU4ZTkwMzMwMTcxZTZiN2M3ZTJi",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Broken Inside",
+        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
+      },
+      "artists": [
+        {
+          "name": "Namara",
+          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
+        }
+      ],
+      "duration_ms": 205339,
+      "name": "Broken Inside",
+      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Hell Of A Ride (Official Dominator 2022 Anthem)",
         "url": "https://open.spotify.com/album/5DJ81U0ycYxyM6g0DwJv0d"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 251368,
       "name": "Hell Of A Ride - Official Dominator 2022 Anthem",
       "url": "https://open.spotify.com/track/4mmfmBwioCjlXjkklzXzHx"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Broken Inside",
-        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
-      },
-      "artists": [
-        {
-          "name": "Namara",
-          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
-        }
-      ],
-      "duration_ms": 205339,
-      "name": "Broken Inside",
-      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Cannibal (Radical Redemption Remix)",
-        "url": "https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        }
-      ],
-      "duration_ms": 187336,
-      "name": "Cannibal - Radical Redemption Remix",
-      "url": "https://open.spotify.com/track/2DWwikXjYJpQe7sbdjgUQl"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
         "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
       },
@@ -455,22 +435,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "PartyRockerz",
-        "url": "https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI"
+        "name": "Cannibal (Radical Redemption Remix)",
+        "url": "https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq"
       },
       "artists": [
         {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         },
         {
-          "name": "Elite Enemy",
-          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         }
       ],
-      "duration_ms": 175151,
-      "name": "PartyRockerz",
-      "url": "https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX"
+      "duration_ms": 187336,
+      "name": "Cannibal - Radical Redemption Remix",
+      "url": "https://open.spotify.com/track/2DWwikXjYJpQe7sbdjgUQl"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -507,6 +487,26 @@
       "duration_ms": 222272,
       "name": "DEQUINOX 100",
       "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "PartyRockerz",
+        "url": "https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Elite Enemy",
+          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
+        }
+      ],
+      "duration_ms": 175151,
+      "name": "PartyRockerz",
+      "url": "https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Dirty Thoughts",
+        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
+      },
+      "artists": [
+        {
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        }
+      ],
+      "duration_ms": 158421,
+      "name": "Dirty Thoughts",
+      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Fat Beat",
         "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 231600,
       "name": "Fat Beat",
       "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Dirty Thoughts",
-        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
-      },
-      "artists": [
-        {
-          "name": "Unproven",
-          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
-        }
-      ],
-      "duration_ms": 158421,
-      "name": "Dirty Thoughts",
-      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Game Breaker",
-        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
-      },
-      "artists": [
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        },
-        {
-          "name": "E-Force",
-          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
-        }
-      ],
-      "duration_ms": 198987,
-      "name": "Game Breaker",
-      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
       },
@@ -847,22 +827,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Fake Shit",
-        "url": "https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Fake Shit",
-      "url": "https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Order & Chaos",
         "url": "https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U"
       },
@@ -879,18 +843,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Without Respect",
-        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
+        "name": "Game Breaker",
+        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
       },
       "artists": [
         {
-          "name": "System of Fury",
-          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Without Respect",
-      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
+      "duration_ms": 198987,
+      "name": "Game Breaker",
+      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -907,6 +875,38 @@
       "duration_ms": 174857,
       "name": "Crazy, Like Me!",
       "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Fake Shit",
+        "url": "https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Fake Shit",
+      "url": "https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Without Respect",
+        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
+      },
+      "artists": [
+        {
+          "name": "System of Fury",
+          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Without Respect",
+      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
         "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 279157,
       "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
       "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Til The AM",
         "url": "https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 188511,
       "name": "Til The AM",
       "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
-      },
-      "artists": [
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
-      },
-      "artists": [
-        {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
-        }
-      ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 294600,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
     },
     {
       "added_at": "2023-07-27 22:01:00",

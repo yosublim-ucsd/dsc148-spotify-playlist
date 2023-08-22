@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5727,
+  "num_followers": 5733,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm",
+  "snapshot_id": "MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -315,6 +315,26 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "Shouldn't Have\u2026",
+        "url": "https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 212761,
+      "name": "Shouldn't Have\u2026",
+      "url": "https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "Kim Hyung Joong 1",
         "url": "https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 220437,
       "name": "UP ALL NIGHT",
       "url": "https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Shouldn't Have\u2026",
-        "url": "https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        },
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 212761,
-      "name": "Shouldn't Have\u2026",
-      "url": "https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 232729,
-      "name": "One-Sided Love",
-      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Mr. Sunshine (Original Television Soundtrack), Pt. 14",
         "url": "https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 264223,
       "name": "If You Were Me",
       "url": "https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 232729,
+      "name": "One-Sided Love",
+      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "AMY",
-        "url": "https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "RE:PLAYLIST Vol.3",
         "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 264921,
       "name": "Love Me Once Again",
       "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "AMY",
+        "url": "https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "A lonely song",
-        "url": "https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba"
-      },
-      "artists": [
-        {
-          "name": "I'll",
-          "url": "https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs"
-        }
-      ],
-      "duration_ms": 225214,
-      "name": "A lonely song",
-      "url": "https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "19to20",
         "url": "https://open.spotify.com/album/7HvpuKHVE5xQ1yloKOrBV2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 219440,
       "name": "to him",
       "url": "https://open.spotify.com/track/2m84CF73KrOUcZ0MtcFEPG"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "A lonely song",
+        "url": "https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba"
+      },
+      "artists": [
+        {
+          "name": "I'll",
+          "url": "https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs"
+        }
+      ],
+      "duration_ms": 225214,
+      "name": "A lonely song",
+      "url": "https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF"
     },
     {
       "added_at": "2023-05-02 09:09:27",

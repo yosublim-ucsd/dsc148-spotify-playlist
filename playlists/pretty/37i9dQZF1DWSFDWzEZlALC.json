@@ -1,29 +1,13 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: PaulWetz",
-  "num_followers": 389970,
+  "num_followers": 390070,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTk5ZDg4N2Q4YjI3NjhmNWUwNjllOTA5Y2E3Y2EwZWJmYTQ2YjUy",
+  "snapshot_id": "MCxiODlkYmIyNmYyYjIxZmQwZDZkMGIyMmFmYmFjZTgxNTM4ZWQ5YmY1",
   "tracks": [
-    {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
-        "name": "Da f\u00fcr dich",
-        "url": "https://open.spotify.com/album/26JCG4Lq0kTAlmVOu6OBqt"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 196354,
-      "name": "Da f\u00fcr dich",
-      "url": "https://open.spotify.com/track/5YP1scuRzU6LOgj7u1rnvt"
-    },
     {
       "added_at": "2023-08-17 22:01:39",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 176276,
       "name": "Paris Paris",
       "url": "https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Da f\u00fcr dich",
+        "url": "https://open.spotify.com/album/26JCG4Lq0kTAlmVOu6OBqt"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 196354,
+      "name": "Da f\u00fcr dich",
+      "url": "https://open.spotify.com/track/5YP1scuRzU6LOgj7u1rnvt"
     },
     {
       "added_at": "2023-08-17 22:01:39",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-08-17 22:01:39",
       "album": {
-        "name": "K\u00f6nigin der Nacht",
-        "url": "https://open.spotify.com/album/1IlrO1vexqP55HwH78rsM8"
-      },
-      "artists": [
-        {
-          "name": "Sam James",
-          "url": "https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "K\u00f6nigin der Nacht",
-      "url": "https://open.spotify.com/track/27cs61wZgDAgKUVznXlTnm"
-    },
-    {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW"
       },
@@ -143,18 +127,18 @@
     {
       "added_at": "2023-08-17 22:01:39",
       "album": {
-        "name": "1996",
-        "url": "https://open.spotify.com/album/5H7rYopIRRjHTfzJDTSuQq"
+        "name": "K\u00f6nigin der Nacht",
+        "url": "https://open.spotify.com/album/1IlrO1vexqP55HwH78rsM8"
       },
       "artists": [
         {
-          "name": "Kicker Dibs",
-          "url": "https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt"
+          "name": "Sam James",
+          "url": "https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy"
         }
       ],
-      "duration_ms": 163626,
-      "name": "1996",
-      "url": "https://open.spotify.com/track/6qkWqGP2McFW7HCo43QqQc"
+      "duration_ms": 147600,
+      "name": "K\u00f6nigin der Nacht",
+      "url": "https://open.spotify.com/track/27cs61wZgDAgKUVznXlTnm"
     },
     {
       "added_at": "2023-08-17 22:01:39",
@@ -187,6 +171,38 @@
       "duration_ms": 162523,
       "name": "Nie mehr weg",
       "url": "https://open.spotify.com/track/5qR2DOSkZufXivgcLTgbzR"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "schwarzes wasser",
+        "url": "https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe"
+      },
+      "artists": [
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "duration_ms": 157071,
+      "name": "schwarzes wasser",
+      "url": "https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/5H7rYopIRRjHTfzJDTSuQq"
+      },
+      "artists": [
+        {
+          "name": "Kicker Dibs",
+          "url": "https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "1996",
+      "url": "https://open.spotify.com/track/6qkWqGP2McFW7HCo43QqQc"
     },
     {
       "added_at": "2023-08-17 22:01:39",
@@ -271,22 +287,6 @@
       "duration_ms": 120732,
       "name": "Hallo",
       "url": "https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc"
-    },
-    {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
-        "name": "schwarzes wasser",
-        "url": "https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe"
-      },
-      "artists": [
-        {
-          "name": "jolle",
-          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
-        }
-      ],
-      "duration_ms": 157071,
-      "name": "schwarzes wasser",
-      "url": "https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6"
     },
     {
       "added_at": "2023-08-17 22:01:39",

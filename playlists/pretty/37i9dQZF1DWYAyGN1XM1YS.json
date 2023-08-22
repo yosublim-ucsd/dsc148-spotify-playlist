@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 115458,
+  "num_followers": 115619,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2IzMGE0YWU1MDBmZGNhODMwZDc2OGQwYzJlMTQ3YmNlZjg5NmZi",
+  "snapshot_id": "MCw1MjZiNjcyNTZjNTQ2NjFiMGY5M2RlNWNlY2RkY2Y2M2NmMTkxMmNj",
   "tracks": [
     {
       "added_at": "2023-03-28 15:58:25",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "The World Has Turned And Left Me Here",
-      "url": "https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Full Collapse",
         "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Your Favorite Weapon",
-        "url": "https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj"
+        "name": "Pleasant Living",
+        "url": "https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci"
       },
       "artists": [
         {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+          "name": "Tiny Moving Parts",
+          "url": "https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH"
         }
       ],
-      "duration_ms": 222080,
-      "name": "Jude Law And A Semester Abroad",
-      "url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6"
+      "duration_ms": 160613,
+      "name": "Always Focused",
+      "url": "https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -315,18 +299,18 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Pleasant Living",
-        "url": "https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
       "artists": [
         {
-          "name": "Tiny Moving Parts",
-          "url": "https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 160613,
-      "name": "Always Focused",
-      "url": "https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN"
+      "duration_ms": 259466,
+      "name": "The World Has Turned And Left Me Here",
+      "url": "https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -363,22 +347,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Pinkerton",
-        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "Getchoo",
-      "url": "https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -391,6 +359,38 @@
       "duration_ms": 229706,
       "name": "Lucky Denver Mint",
       "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Your Favorite Weapon",
+        "url": "https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj"
+      },
+      "artists": [
+        {
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Jude Law And A Semester Abroad",
+      "url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "Getchoo",
+      "url": "https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Progression Through Unlearning",
-        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
-      },
-      "artists": [
-        {
-          "name": "Snapcase",
-          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
-        }
-      ],
-      "duration_ms": 153586,
-      "name": "Caboose",
-      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -475,22 +459,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Orange Rhyming Dictionary",
-        "url": "https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD"
-      },
-      "artists": [
-        {
-          "name": "Jets To Brazil",
-          "url": "https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY"
-        }
-      ],
-      "duration_ms": 335933,
-      "name": "Chinatown",
-      "url": "https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "War All The Time",
         "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
       },
@@ -503,6 +471,38 @@
       "duration_ms": 196426,
       "name": "For The Workforce, Drowning",
       "url": "https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Progression Through Unlearning",
+        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
+      },
+      "artists": [
+        {
+          "name": "Snapcase",
+          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
+        }
+      ],
+      "duration_ms": 153586,
+      "name": "Caboose",
+      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Orange Rhyming Dictionary",
+        "url": "https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD"
+      },
+      "artists": [
+        {
+          "name": "Jets To Brazil",
+          "url": "https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY"
+        }
+      ],
+      "duration_ms": 335933,
+      "name": "Chinatown",
+      "url": "https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
+        "name": "Nothing Feels Good",
+        "url": "https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO"
+      },
+      "artists": [
+        {
+          "name": "The Promise Ring",
+          "url": "https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Red & Blue Jeans",
+      "url": "https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
         "name": "Something to Write Home About",
         "url": "https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 264280,
       "name": "While Oceana Sleeps",
       "url": "https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
-        "name": "Nothing Feels Good",
-        "url": "https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO"
-      },
-      "artists": [
-        {
-          "name": "The Promise Ring",
-          "url": "https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Red & Blue Jeans",
-      "url": "https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Dine Alone",
-      "url": "https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Everything You Ever Wanted To Know About Silence Remaster",
         "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 229826,
       "name": "Siberian Kiss - 2009 Remaster",
       "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Dine Alone",
+      "url": "https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1"
     },
     {
       "added_at": "2023-03-28 15:58:25",

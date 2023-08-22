@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 130774,
       "name": "Beginner's Luck",
       "url": "https://open.spotify.com/track/1aGHJWuMcqXA3occrRcTll"
@@ -5673,6 +5673,24 @@
     },
     {
       "album": {
+        "name": "King of the Slugs",
+        "url": "https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425363,
+      "name": "King of the Slugs",
+      "url": "https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs"
+    },
+    {
+      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
       },
@@ -6678,6 +6696,24 @@
       "duration_ms": 350296,
       "name": "Mother - Pretty Girl Remix",
       "url": "https://open.spotify.com/track/2rGOL5VgjeJUjQEoRVSQ8o"
+    },
+    {
+      "album": {
+        "name": "Motherwell",
+        "url": "https://open.spotify.com/album/0z388Qszg0TTCt4F2cTlCs"
+      },
+      "artists": [
+        {
+          "name": "Former Champ",
+          "url": "https://open.spotify.com/artist/1ntDd3adPrsrlLpiJBPfzM"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218242,
+      "name": "Motherwell",
+      "url": "https://open.spotify.com/track/1jizTrVCzc1nrTdB3gP7we"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-196 songs - 7 hr 48 min
+198 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [can't get you out of my head](https://open.spotify.com/track/0pMDDVEwKLJ0WaUK4BL4f2) | [amelia liz](https://open.spotify.com/artist/7N0txyqhJC7i8CPZQoWOVq) | [can't get you out of my head](https://open.spotify.com/album/5wox44PtCaRPxM1tMp1ozd) | 2:37 | 2023-03-01 |  |
 | [Cantaloupe Island \- Spotify Singles](https://open.spotify.com/track/7yKsd3VFFd4RD5Io5c1LyR) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 2:01 | 2022-09-02 |  |
 | [chandelier](https://open.spotify.com/track/25AjoIOjVfxe6kgE9ftvep) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [chandelier](https://open.spotify.com/album/7rd5lKApMDcncjp7ZBEoMQ) | 3:33 | 2023-01-06 |  |
+| [changes \- lofi](https://open.spotify.com/track/48c0IQHjMzz0ZVjObrCs9K) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [lofi chill vibes with 2Pac](https://open.spotify.com/album/5W1jGRoH27AASKghzZmt4Q) | 2:18 | 2023-08-21 |  |
 | [Chasing Cars](https://open.spotify.com/track/1VOGwVCwqfCN57a1g1ZMSg) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/070uuSMrffZLnxkqseJehl) | 2:31 | 2022-09-02 | 2022-10-02 |
 | [Chasing Cars](https://open.spotify.com/track/2kGy10LaMDzVoSjB3t4xAq) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/0MvaTmVF5rnkSZlLLNfLzo) | 2:31 | 2022-09-30 |  |
 | [Circles](https://open.spotify.com/track/1D7pJ9CBEQa9O48kgB5acI) | [<3BEAT](https://open.spotify.com/artist/1GXEDNbnO4Zq5DSNfayzN5) | [Feelin' Cute](https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12) | 3:03 | 2022-09-02 |  |
@@ -148,6 +149,7 @@
 | [Running Up That Hill \(Stranger Things Lofi\)](https://open.spotify.com/track/5dDs4tMasCeg1bsN1zxlOe) | [Chill Astronaut](https://open.spotify.com/artist/6QjN6GM0FYKcviJrQoAsbD) | [Running Up That Hill \(Stranger Things Lofi\)](https://open.spotify.com/album/1ynYbSsyT9TeywWt4Oh80E) | 2:09 | 2022-09-02 |  |
 | [Savage Love](https://open.spotify.com/track/49tiZj04if4awJE2vjJo6z) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Intentions](https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x) | 2:51 | 2022-11-11 |  |
 | [Save Your Tears](https://open.spotify.com/track/5Hn992puLQFGQVrPQiFypz) | [Ingelwood Syndicate](https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7) | [Save Your Tears](https://open.spotify.com/album/22pdGXHvnPyLMvd6ZnMWNP) | 1:58 | 2022-11-11 |  |
+| [Save Your Tears](https://open.spotify.com/track/2yoNY32JruGk2kCx04GZo3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Save Your Tears](https://open.spotify.com/album/6tPYTNx6QpdWg8ytSlDEe0) | 5:20 | 2023-08-21 |  |
 | [Say You Won't Let Go](https://open.spotify.com/track/4fB0z2PbEvhlElpRnJhPLn) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Say You Won't Let Go](https://open.spotify.com/album/5a9FR1GRQ9AkNDVxafIOIq) | 2:08 | 2022-10-14 |  |
 | [See You Again](https://open.spotify.com/track/11c2RqFZfpq8Z6vxBfMDzk) | [T.R.I.C.K](https://open.spotify.com/artist/4h6veOIcgL56r2sY3razZa) | [See You Again](https://open.spotify.com/album/5poY8hpoc3zoqMaQcVZnkg) | 2:09 | 2022-10-28 |  |
 | [Señorita](https://open.spotify.com/track/2OM7Asq8WtmCuWLDuaUphc) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Intentions](https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x) | 2:46 | 2022-11-11 |  |

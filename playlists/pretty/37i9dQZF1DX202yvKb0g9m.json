@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 101870,
+  "num_followers": 101971,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGM5ZTkzY2M3NzY2MTcxYWVhNGNhYTI1MmM0ZDkwNzIyNDBkZWNi",
+  "snapshot_id": "MCxkNWQ2ZjQ5NDFkYmQ1Zjc2NWYxMjU0ZGVjYzE1ZDY1NWJlNWIwZWFm",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -515,6 +515,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Defiant Order",
+        "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
+      },
+      "artists": [
+        {
+          "name": "Birdy Nam Nam",
+          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Defiant order",
+      "url": "https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
         "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 590030,
       "name": "Auto Machine",
       "url": "https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Defiant Order",
-        "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
-      },
-      "artists": [
-        {
-          "name": "Birdy Nam Nam",
-          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Defiant order",
-      "url": "https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -791,18 +791,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "The Feast Of The Broken Heart",
-        "url": "https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH"
+        "name": "Box Energy",
+        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
       },
       "artists": [
         {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 281815,
-      "name": "Do You Feel The Same?",
-      "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
+      "duration_ms": 370306,
+      "name": "Box Energy",
+      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -827,22 +831,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Double Cup",
-        "url": "https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR"
+        "name": "The Feast Of The Broken Heart",
+        "url": "https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH"
       },
       "artists": [
         {
-          "name": "DJ Rashad",
-          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
-        },
-        {
-          "name": "Addison Groove",
-          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
         }
       ],
-      "duration_ms": 204579,
-      "name": "Acid Bit (feat. Addison Groove)",
-      "url": "https://open.spotify.com/track/2yvsFzmOODkBzhJo4l5ywM"
+      "duration_ms": 281815,
+      "name": "Do You Feel The Same?",
+      "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
     }
   ],
   "unique_name": "303 Classics",

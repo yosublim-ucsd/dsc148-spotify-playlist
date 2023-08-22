@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Doechii, Quavo, D4vd, Renee Rapp, Charlie Puth, Anitta and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,159,442 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,159,760 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Favourite](https://open.spotify.com/track/4VfjUbKtTaZsQriNud6Iz2) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Favourite](https://open.spotify.com/album/0MOXOTpfhSdr2sOUg1EZcQ) | 2:56 |
 | 100 | [Masterpiece](https://open.spotify.com/track/6yposourraxoag0EGmpVQ1) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Masterpiece](https://open.spotify.com/album/7y1dXbEm0e6qPPA4qpCxnp) | 4:46 |
 
-Snapshot ID: `MCwyOWZkN2FiYjIyYTYxNjBiMDJkODUyZWU3MWM1NzkyMzZjNTAyNjNj`
+Snapshot ID: `MCwzMjQzM2U0NDMxYTQ5NDE1ZmEwMTkzODRmNzRiODVkMzU4NzM5YjQw`

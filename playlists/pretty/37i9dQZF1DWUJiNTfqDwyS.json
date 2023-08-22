@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 298707,
+  "num_followers": 299077,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQ0ZmRhYjg5MTY0MTZmNGQ5ZWRmNTllYTQ1MGE4ZWM2OTE1NDI2",
+  "snapshot_id": "MCw3MmNhMWNmMjVjYTU5OTE2NGYzYWFjYzM3OWVhM2ViZjM2YjIzMWY3",
   "tracks": [
     {
       "added_at": "2023-06-22 11:25:49",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 366400,
-      "name": "Turn The Page",
-      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
-    },
-    {
-      "added_at": "2023-06-22 11:25:49",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 124173,
       "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
       "url": "https://open.spotify.com/track/4HpIh5wWfkq5sSuCLLSwYR"
+    },
+    {
+      "added_at": "2023-06-22 11:25:49",
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 366400,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
     },
     {
       "added_at": "2023-06-22 11:25:49",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
-      },
-      "artists": [
-        {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
-        }
-      ],
-      "duration_ms": 183357,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
-    },
-    {
-      "added_at": "2023-06-22 11:25:49",
-      "album": {
         "name": "The Stage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 313918,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl"
+    },
+    {
+      "added_at": "2023-06-22 11:25:49",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "duration_ms": 183357,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
     },
     {
       "added_at": "2023-06-22 11:25:49",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "Bloody Kisses",
-        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI"
-    },
-    {
-      "added_at": "2023-06-22 11:25:49",
-      "album": {
         "name": "Shape of You",
         "url": "https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 236250,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni"
+    },
+    {
+      "added_at": "2023-06-22 11:25:49",
+      "album": {
+        "name": "Bloody Kisses",
+        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI"
     },
     {
       "added_at": "2023-06-22 11:25:49",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "Greatest Lovesongs Vol. 666",
-        "url": "https://open.spotify.com/album/6meTP5bnTECxbCBv8hzD7c"
-      },
-      "artists": [
-        {
-          "name": "HIM",
-          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/0evX82L72YwaZIEKw5fEQT"
-    },
-    {
-      "added_at": "2023-06-22 11:25:49",
-      "album": {
         "name": "October Rust (Special Edition)",
         "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 248333,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
+    },
+    {
+      "added_at": "2023-06-22 11:25:49",
+      "album": {
+        "name": "Greatest Lovesongs Vol. 666",
+        "url": "https://open.spotify.com/album/6meTP5bnTECxbCBv8hzD7c"
+      },
+      "artists": [
+        {
+          "name": "HIM",
+          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/0evX82L72YwaZIEKw5fEQT"
     },
     {
       "added_at": "2023-06-22 11:25:49",

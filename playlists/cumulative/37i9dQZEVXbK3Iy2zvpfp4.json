@@ -6524,7 +6524,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-21",
+      "date_removed": null,
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
@@ -11030,7 +11030,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -13605,6 +13605,24 @@
     },
     {
       "album": {
+        "name": "Chlapcensk\u00fd \u00fasmev",
+        "url": "https://open.spotify.com/album/6a3rGdkausjNP93AQVAOrx"
+      },
+      "artists": [
+        {
+          "name": "Vaso Patejdl",
+          "url": "https://open.spotify.com/artist/0CbbftseLRwYyUdmOXvH6l"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "Miestna jedni\u010dka",
+      "url": "https://open.spotify.com/track/1b2i1lEIinm7SfUtsOVRRW"
+    },
+    {
+      "album": {
         "name": "MISA MISA!",
         "url": "https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ"
       },
@@ -16110,7 +16128,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 152925,
       "name": "OneShot",
       "url": "https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM"
@@ -20930,7 +20948,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -25428,7 +25446,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 154236,
       "name": "YUM YUM - Slowed",
       "url": "https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46"

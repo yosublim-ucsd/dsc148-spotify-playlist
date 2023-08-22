@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth joints from around the globe
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,953 likes - 85 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,979 likes - 85 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 84 | [Earthly Times \- billy woods rework](https://open.spotify.com/track/13xE4sseIp2FSqcHWdQOBK) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Earthly Times \(billy woods rework\)](https://open.spotify.com/album/5HsBVXVIgCoQ2AnliVyUPE) | 3:11 |
 | 85 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 |
 
-Snapshot ID: `MCxjOWYzYzNhN2UzZjMwNDQ5NDNkYjU0MmExZGIzMjZiNDRkZGQyOTJm`
+Snapshot ID: `MCw2ZTNjYzM2Mzg3OTk4OWJiNDAxNDUxZDNmN2Y0NTg4Y2NkZTZjMWM0`

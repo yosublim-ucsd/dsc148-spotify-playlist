@@ -1,13 +1,189 @@
 {
   "description": "Party like it's the early 2000s. \u2728  ",
-  "num_followers": 80735,
+  "num_followers": 80914,
   "original_name": "Bling Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjBiMjRjNDc1NDFlZmEwMDNjMzhhZTNjNWI3NjBkNDVhZjA0ODE2",
+  "snapshot_id": "MCxkN2UyYzg1ZDM5MGZlMjc3NjkwMzg0MzdjZGIwMTA3ZjY4M2E3ODJi",
   "tracks": [
+    {
+      "added_at": "2023-08-03 02:21:47",
+      "album": {
+        "name": "Crime Mob",
+        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
+      },
+      "artists": [
+        {
+          "name": "Crime Mob",
+          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
+        },
+        {
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
+      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
+    },
+    {
+      "added_at": "2023-08-03 02:21:47",
+      "album": {
+        "name": "AttenCHUN!",
+        "url": "https://open.spotify.com/album/1tHNA1zsv6EKLHAR1idmAi"
+      },
+      "artists": [
+        {
+          "name": "Bone Crusher",
+          "url": "https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 316133,
+      "name": "Never Scared (feat. Killer Mike & T.I.) - Club Mix",
+      "url": "https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC"
+    },
+    {
+      "added_at": "2023-08-03 02:21:47",
+      "album": {
+        "name": "Beware Of Dog",
+        "url": "https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow",
+          "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
+        },
+        {
+          "name": "Xscape",
+          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Bounce With Me (feat. Xscape) - Edited Album Version",
+      "url": "https://open.spotify.com/track/5jZfGxZDayFA1HzYmyOG3a"
+    },
+    {
+      "added_at": "2023-08-03 02:21:47",
+      "album": {
+        "name": "Back For The First Time",
+        "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "What's Your Fantasy (Featuring Shawna)",
+      "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"
+    },
+    {
+      "added_at": "2023-08-03 02:21:47",
+      "album": {
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Is That Yo Bitch",
+      "url": "https://open.spotify.com/track/5PhUfEu7VYoIFgJQh1KprV"
+    },
+    {
+      "added_at": "2023-08-03 02:21:47",
+      "album": {
+        "name": "Diamond Princess",
+        "url": "https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ"
+      },
+      "artists": [
+        {
+          "name": "Trina",
+          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 261986,
+      "name": "B R Right (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4"
+    },
+    {
+      "added_at": "2023-08-03 02:21:47",
+      "album": {
+        "name": "Are You That Somebody",
+        "url": "https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 265666,
+      "name": "Are You That Somebody",
+      "url": "https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5"
+    },
+    {
+      "added_at": "2023-08-03 02:21:47",
+      "album": {
+        "name": "Thug Misses (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
+      },
+      "artists": [
+        {
+          "name": "Khia",
+          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "My Neck, My Back (Lick It)",
+      "url": "https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6"
+    },
+    {
+      "added_at": "2023-08-03 02:21:47",
+      "album": {
+        "name": "Kings Of Crunk",
+        "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+        },
+        {
+          "name": "Ying Yang Twins",
+          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+        }
+      ],
+      "duration_ms": 334066,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
+    },
     {
       "added_at": "2023-08-03 02:21:47",
       "album": {
@@ -43,42 +219,6 @@
       "duration_ms": 223000,
       "name": "Goodies (feat. Petey Pablo)",
       "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
-    },
-    {
-      "added_at": "2023-08-03 02:21:47",
-      "album": {
-        "name": "Kings Of Crunk",
-        "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
-      },
-      "artists": [
-        {
-          "name": "Lil Jon & The East Side Boyz",
-          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
-        },
-        {
-          "name": "Ying Yang Twins",
-          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
-        }
-      ],
-      "duration_ms": 334066,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
-    },
-    {
-      "added_at": "2023-08-03 02:21:47",
-      "album": {
-        "name": "Thug Misses (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
-      },
-      "artists": [
-        {
-          "name": "Khia",
-          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "My Neck, My Back (Lick It)",
-      "url": "https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6"
     },
     {
       "added_at": "2023-08-03 02:21:47",
@@ -1235,26 +1375,6 @@
     {
       "added_at": "2023-08-03 02:21:47",
       "album": {
-        "name": "Diamond Princess",
-        "url": "https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ"
-      },
-      "artists": [
-        {
-          "name": "Trina",
-          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 261986,
-      "name": "B R Right (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4"
-    },
-    {
-      "added_at": "2023-08-03 02:21:47",
-      "album": {
         "name": "Vol. 3... Life And Times Of S. Carter",
         "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
       },
@@ -1271,22 +1391,6 @@
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
-    },
-    {
-      "added_at": "2023-08-03 02:21:47",
-      "album": {
-        "name": "Are You That Somebody",
-        "url": "https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Are You That Somebody",
-      "url": "https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5"
     },
     {
       "added_at": "2023-08-03 02:21:47",
@@ -1495,90 +1599,6 @@
       "duration_ms": 206400,
       "name": "Young'n",
       "url": "https://open.spotify.com/track/0jdkdbnRwNVHJQ6zL84pQs"
-    },
-    {
-      "added_at": "2023-08-03 02:21:47",
-      "album": {
-        "name": "Vol. 3... Life And Times Of S. Carter",
-        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Is That Yo Bitch",
-      "url": "https://open.spotify.com/track/5PhUfEu7VYoIFgJQh1KprV"
-    },
-    {
-      "added_at": "2023-08-03 02:21:47",
-      "album": {
-        "name": "Back For The First Time",
-        "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Shawnna",
-          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "What's Your Fantasy (Featuring Shawna)",
-      "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"
-    },
-    {
-      "added_at": "2023-08-03 02:21:47",
-      "album": {
-        "name": "AttenCHUN!",
-        "url": "https://open.spotify.com/album/1tHNA1zsv6EKLHAR1idmAi"
-      },
-      "artists": [
-        {
-          "name": "Bone Crusher",
-          "url": "https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 316133,
-      "name": "Never Scared (feat. Killer Mike & T.I.) - Club Mix",
-      "url": "https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC"
-    },
-    {
-      "added_at": "2023-08-03 02:21:47",
-      "album": {
-        "name": "Crime Mob",
-        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
-      },
-      "artists": [
-        {
-          "name": "Crime Mob",
-          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
-        },
-        {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
-      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
     },
     {
       "added_at": "2023-08-03 02:21:47",
@@ -1943,26 +1963,6 @@
       "duration_ms": 237800,
       "name": "Oops (Oh My) [feat. Missy Elliott]",
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
-    },
-    {
-      "added_at": "2023-08-03 02:21:47",
-      "album": {
-        "name": "Beware Of Dog",
-        "url": "https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO"
-      },
-      "artists": [
-        {
-          "name": "Bow Wow",
-          "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
-        },
-        {
-          "name": "Xscape",
-          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
-        }
-      ],
-      "duration_ms": 175893,
-      "name": "Bounce With Me (feat. Xscape) - Edited Album Version",
-      "url": "https://open.spotify.com/track/5jZfGxZDayFA1HzYmyOG3a"
     }
   ],
   "unique_name": "Bling Era",

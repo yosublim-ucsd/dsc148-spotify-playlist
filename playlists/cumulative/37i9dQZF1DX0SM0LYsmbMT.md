@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,614 songs - 5 day 18 hr 32 min
+3,615 songs - 5 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -930,6 +930,7 @@
 | [Ethereal Dub](https://open.spotify.com/track/78LfqVYpsCwWW3hw8bwUy0) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Ethereal Dub](https://open.spotify.com/album/4ujJwtqhmWV2Ye2jGyNcGZ) | 2:06 | 2020-12-11 | 2021-06-18 |
 | [Eton Mess at Tower Bridge](https://open.spotify.com/track/0YtcFMPj4UiPZSg1wvy5X6) | [JK Soul](https://open.spotify.com/artist/0OINA1IEY4yNLRFD5n10uS) | [Eton Mess at Tower Bridge](https://open.spotify.com/album/4p1u3Myr7CWEEUbJIxsPBG) | 1:54 | 2021-11-19 | 2021-12-10 |
 | [Etta](https://open.spotify.com/track/3MaaXFPA4RQWfVqmWqxAEN) | [Mvdk](https://open.spotify.com/artist/4o7tRo120tjPGqAVvh15uH), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Etta](https://open.spotify.com/album/73BjvLxeBQ2PH7cOgzAEBd) | 1:56 | 2022-06-16 | 2022-09-23 |
+| [Euphoria](https://open.spotify.com/track/3IO3Zv6tEqDjzFLcTOAlfz) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Euphoria](https://open.spotify.com/album/2B1p2QqjQ3BpStgDZ3wGw9) | 2:01 | 2023-08-17 |  |
 | [Euphoria](https://open.spotify.com/track/6QrOA0ayK7aBy6DbDk9aK3) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Euphoria](https://open.spotify.com/album/1HaJZpeZtZvmjLiDPhyEw2) | 2:21 | 2023-07-13 |  |
 | [Evening Beach](https://open.spotify.com/track/7tZqf6gDV2p8ubRglD2ONo) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Evening Beach](https://open.spotify.com/album/67qWS47gpLcprzL0H9igA9) | 2:36 | 2020-09-04 | 2021-01-29 |
 | [Evening Call](https://open.spotify.com/track/7u4DbAqjmwB38fa8FJgZ02) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Evening Call](https://open.spotify.com/album/51UZLZHh6igzZe2QPoaZnd) | 2:27 | 2020-05-05 | 2020-07-18 |
@@ -1308,7 +1309,7 @@
 | [High Moon](https://open.spotify.com/track/13QDeabNsq5hbIRd68lMZn) | [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds) | [High Moon](https://open.spotify.com/album/2vXtN9LicrwHxQucL96EZK) | 5:15 | 2019-05-26\* | 2019-08-13 |
 | [High Noon](https://open.spotify.com/track/5Mye4uXvFSX8IMmAUXBvNv) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [High Noon](https://open.spotify.com/album/2ToG7d5JuY50VKQFdc30HV) | 2:12 | 2021-07-17 | 2021-08-20 |
 | [higher](https://open.spotify.com/track/1zvi8dfPE8N05au0znnRhD) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [higher](https://open.spotify.com/album/2JIRIG79MPFLsKlZE1wOse) | 1:58 | 2021-11-19 |  |
-| [Higher](https://open.spotify.com/track/5vee7TEioh9MxJ1cJ5QRgR) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Higher](https://open.spotify.com/album/2Drd0p0rR7MCSzs9EBjkTy) | 1:45 | 2023-07-27 |  |
+| [Higher](https://open.spotify.com/track/5vee7TEioh9MxJ1cJ5QRgR) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Higher](https://open.spotify.com/album/2Drd0p0rR7MCSzs9EBjkTy) | 1:45 | 2023-07-27 | 2023-08-22 |
 | [Himawari](https://open.spotify.com/track/6qFATy6A0wlVvY6jjKzDLW) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Himawari](https://open.spotify.com/album/4FNNBeMkEB1Q0oCvvoiSG1) | 2:26 | 2021-10-29 | 2023-01-27 |
 | [hiro](https://open.spotify.com/track/1cO3FUW4M7E56H9HcFclCB) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [hiro \| mori](https://open.spotify.com/album/4pArbij5jHQfdMIwrPnurN) | 2:25 | 2020-04-18 | 2020-06-19 |
 | [Hit Snooze](https://open.spotify.com/track/0bWuelZvef2phu1D5Gq3BI) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Hit Snooze](https://open.spotify.com/album/7zqcqCtcicIaWnwQwnwVXf) | 2:05 | 2022-11-17 | 2023-03-25 |

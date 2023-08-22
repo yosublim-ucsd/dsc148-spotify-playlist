@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-91 songs - 5 hr 7 min
+92 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Adult](https://open.spotify.com/track/63XfIeYZsChaaky8oIXmE4) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [Adult](https://open.spotify.com/album/78OTuh1gO0a8Y1nPMOVps2) | 4:02 | 2023-02-23 | 2023-03-18 |
 | [Afstand](https://open.spotify.com/track/45RziHZ3kb4hZvu15keuPx) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Afstand](https://open.spotify.com/album/6huHJqUrttdNj15htCDjp9) | 3:32 | 2023-02-23 |  |
 | [Alleen In Bed](https://open.spotify.com/track/5YYGua7TW1KjqjqDO0EjqJ) | [Véras](https://open.spotify.com/artist/4xXJqw435dtoVF6WsncUcn), [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Het Niets](https://open.spotify.com/album/5qUBj35J2gbHxtnX8lbAZL) | 3:03 | 2023-02-23 |  |
+| [Alles Weggegeven](https://open.spotify.com/track/25J6xA9QCLjqN2QdTlOGD1) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Alles Weggegeven](https://open.spotify.com/album/1Rt0CA8bfzHQbGYGUMplwp) | 4:05 | 2023-08-21 |  |
 | [ALotOnMyMind](https://open.spotify.com/track/0F80wAISZKUUnPSPi2N037) | [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [OPEN, BLOOT 'N PARANOÏDE](https://open.spotify.com/album/3A3X4wF8mPeP4rZylYawXz) | 2:12 | 2023-02-23 | 2023-06-09 |
 | [Als Je Me Loslaat](https://open.spotify.com/track/1Tml6FZEX7iOYZAn6Qc3Wl) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Als Je Me Loslaat](https://open.spotify.com/album/19zvB5ueqojjM90lILpZ9M) | 2:50 | 2023-02-23 |  |
 | [Amélie](https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:48 | 2023-02-23 | 2023-06-09 |
@@ -82,7 +83,7 @@
 | [The Great Hope Design](https://open.spotify.com/track/6D2whKQXHFzQtqPa5BXwPP) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Great Hope Design](https://open.spotify.com/album/02KjMI6Z4XAJALVX9XjcEM) | 5:20 | 2023-02-23 |  |
 | [The Observer](https://open.spotify.com/track/6f6qL5EOxhStjbxy4mSbfQ) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [The Observer](https://open.spotify.com/album/0F4ukdM899G7C49k0SBWL2) | 4:43 | 2023-06-08 |  |
 | [Time for Love](https://open.spotify.com/track/4wCYpfVP2qRSYB4OO5q8FC) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5) | [Time for Love](https://open.spotify.com/album/5la69AsSpd40RNEmgojJ3p) | 3:41 | 2023-05-09 |  |
-| [Unknown Emotions](https://open.spotify.com/track/0txBNrcVUh5KwUDntM4Jb3) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [Eat My Brain](https://open.spotify.com/album/6nnhnOsILg9HXlSKUK5RSG) | 2:12 | 2023-02-23 |  |
+| [Unknown Emotions](https://open.spotify.com/track/0txBNrcVUh5KwUDntM4Jb3) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [Eat My Brain](https://open.spotify.com/album/6nnhnOsILg9HXlSKUK5RSG) | 2:12 | 2023-02-23 | 2023-08-22 |
 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 | 2023-02-23 | 2023-06-09 |
 | [Vanavond](https://open.spotify.com/track/5bNXaDNh0p6qQk1CWs9tVO) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [Vanavond](https://open.spotify.com/album/5PpFQHdoDf04BYHH29Rtwy) | 2:34 | 2023-02-23 |  |
 | [VERFBOMMENVERF](https://open.spotify.com/track/5a8XU0IawHs3qtkET6LiK0) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [VERFBOMMENVERF](https://open.spotify.com/album/7aKZV7ORfgsplHnJfchgTf) | 2:30 | 2023-05-25 |  |

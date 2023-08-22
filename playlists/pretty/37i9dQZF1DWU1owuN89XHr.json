@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 265720,
+  "num_followers": 265771,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGQwNWQyZTQxMDBlZmEyYjIzY2YwMTNhNjgwMmJjNGFmN2MxZDI5",
+  "snapshot_id": "MCwwMzdmNDk5ZWMxYmVlNDc1YWY2YWIzODMyOGRmNmE4ZTQyMzNhNzI2",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Ca\u00edn",
         "url": "https://open.spotify.com/album/2jgeDWVTL7oog1cn4QmWNM"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 230533,
       "name": "Brazos de Sol",
       "url": "https://open.spotify.com/track/60swUBt5uEqO1ix3kCQa7e"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -271,18 +255,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Silvio",
-        "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
       "artists": [
         {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 336400,
-      "name": "Qui\u00e9n Fuera",
-      "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -365,6 +349,22 @@
       "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
     },
     {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Silvio",
+        "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Qui\u00e9n Fuera",
+      "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
+    },
+    {
       "added_at": "2022-01-11 03:05:13",
       "album": {
         "name": "30 a\u00f1os",
@@ -387,22 +387,6 @@
       "duration_ms": 280920,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -439,6 +423,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Nos Sobran Los Motivos",
+        "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 362906,
+      "name": "Y Sin Embargo - En Directo",
+      "url": "https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Alevosia",
         "url": "https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe"
       },
@@ -455,18 +455,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Nos Sobran Los Motivos",
-        "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 362906,
-      "name": "Y Sin Embargo - En Directo",
-      "url": "https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR"
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Cuerpo A Cuerpo",
-        "url": "https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 301026,
-      "name": "Sin Tu Latido",
-      "url": "https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Oscar Ch\u00e1vez / La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 172466,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/5vVwrqxCYDRGBkWpPuLqFU"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Cuerpo A Cuerpo",
+        "url": "https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 301026,
+      "name": "Sin Tu Latido",
+      "url": "https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "De Alguna Manera",
-      "url": "https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Entre Cuerdas",
         "url": "https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK"
       },
@@ -839,18 +823,34 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Trova Azul",
-        "url": "https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K"
+        "name": "Milagritos",
+        "url": "https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M"
       },
       "artists": [
         {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+          "name": "3 de Copas",
+          "url": "https://open.spotify.com/artist/4Zwwo4j8jNzdv89HPPfRCy"
         }
       ],
-      "duration_ms": 231156,
-      "name": "Trova Azul",
-      "url": "https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH"
+      "duration_ms": 216760,
+      "name": "Tu Fantasma",
+      "url": "https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "De Alguna Manera",
+      "url": "https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -875,18 +875,34 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Milagritos",
-        "url": "https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M"
+        "name": "Trova Azul",
+        "url": "https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K"
       },
       "artists": [
         {
-          "name": "3 de Copas",
-          "url": "https://open.spotify.com/artist/4Zwwo4j8jNzdv89HPPfRCy"
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
         }
       ],
-      "duration_ms": 216760,
-      "name": "Tu Fantasma",
-      "url": "https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79"
+      "duration_ms": 231156,
+      "name": "Trova Azul",
+      "url": "https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Que Nadie Se Entere",
+        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
+      },
+      "artists": [
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -927,22 +943,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Que Nadie Se Entere",
-        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
-      },
-      "artists": [
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -955,22 +955,6 @@
       "duration_ms": 358826,
       "name": "La LLamada",
       "url": "https://open.spotify.com/track/1fAGyap6nJcPEyMeVXbekV"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Te Seguir\u00e9",
-        "url": "https://open.spotify.com/album/5mfc4BGeZNxcYuzNrgU6sX"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 219480,
-      "name": "Porque la Quer\u00eda",
-      "url": "https://open.spotify.com/track/1p7tp4Ez8uNi1RSZMyEKOU"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1043,6 +1027,22 @@
       "duration_ms": 194680,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Te Seguir\u00e9",
+        "url": "https://open.spotify.com/album/5mfc4BGeZNxcYuzNrgU6sX"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "Porque la Quer\u00eda",
+      "url": "https://open.spotify.com/track/1p7tp4Ez8uNi1RSZMyEKOU"
     },
     {
       "added_at": "2022-03-01 04:08:22",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Hoy Como Ayer",
+        "url": "https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 272042,
+      "name": "Hoy Como Ayer",
+      "url": "https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Escucha a Gerardo Pablo",
         "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
       },
@@ -1131,6 +1151,22 @@
       "duration_ms": 165160,
       "name": "Buscando un \u00c1ngel",
       "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/2OQpoFrcbrhVCWzjNFJF4l"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santiago",
+          "url": "https://open.spotify.com/artist/7yc8RHPDlQji4ztS6pgrk0"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Obsceno",
+      "url": "https://open.spotify.com/track/5fqLZkJiVyAPWJs7oc4YC1"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1163,42 +1199,6 @@
       "duration_ms": 174026,
       "name": "Al Doblar la Esquina",
       "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Hoy Como Ayer",
-        "url": "https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 272042,
-      "name": "Hoy Como Ayer",
-      "url": "https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/2OQpoFrcbrhVCWzjNFJF4l"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santiago",
-          "url": "https://open.spotify.com/artist/7yc8RHPDlQji4ztS6pgrk0"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Obsceno",
-      "url": "https://open.spotify.com/track/5fqLZkJiVyAPWJs7oc4YC1"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1357,6 +1357,26 @@
       "url": "https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO"
     },
     {
+      "added_at": "2022-08-19 02:13:59",
+      "album": {
+        "name": "20 A\u00f1os de Viaje, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5XJMXkdld5UNaly7xfZMtL"
+      },
+      "artists": [
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        },
+        {
+          "name": "Bernardo Quesada",
+          "url": "https://open.spotify.com/artist/7tQHfY7mUkkaHtPaJaey1T"
+        }
+      ],
+      "duration_ms": 284500,
+      "name": "Trapecistas - En Vivo",
+      "url": "https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou"
+    },
+    {
       "added_at": "2021-07-29 16:46:05",
       "album": {
         "name": "1978/1988",
@@ -1427,26 +1447,6 @@
       "duration_ms": 206618,
       "name": "Est\u00e1s Aqu\u00ed (feat. Tania Libertad & Armando Manzanero)",
       "url": "https://open.spotify.com/track/7yFZQU08FsmAQl5iDOkr9i"
-    },
-    {
-      "added_at": "2022-08-19 02:13:59",
-      "album": {
-        "name": "20 A\u00f1os de Viaje, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5XJMXkdld5UNaly7xfZMtL"
-      },
-      "artists": [
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        },
-        {
-          "name": "Bernardo Quesada",
-          "url": "https://open.spotify.com/artist/7tQHfY7mUkkaHtPaJaey1T"
-        }
-      ],
-      "duration_ms": 284500,
-      "name": "Trapecistas - En Vivo",
-      "url": "https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou"
     },
     {
       "added_at": "2021-07-29 16:46:05",

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Gato e’ Monte.
 
-452 songs - 1 day 3 hr 24 min
+453 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Dame Más \(En Acústico\)](https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo) | 3:39 | 2023-05-05 |  |
 | [Danza](https://open.spotify.com/track/3Bc3GtEleSnPNc3ZJBDBxG) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a) | [Danza](https://open.spotify.com/album/0vZZOv2c14DmaNRhSHk606) | 1:16 | 2023-07-28 | 2023-08-18 |
 | [Danza Olvidada](https://open.spotify.com/track/5xX0qlWXOQqOGH6VEcSBSA) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Danza Olvidada](https://open.spotify.com/album/2aFioZ5TRqGee2CvNn5SgD) | 3:31 | 2023-05-12 | 2023-06-03 |
-| [De balde](https://open.spotify.com/track/0ByOfMa6l6XcnlQAkAsACF) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [De balde](https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN) | 4:43 | 2022-11-11 |  |
+| [De balde](https://open.spotify.com/track/0ByOfMa6l6XcnlQAkAsACF) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [De balde](https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN) | 4:43 | 2022-11-11 | 2023-08-22 |
 | [De carne y hueso](https://open.spotify.com/track/4hf9GhpfyuLsksKOBkpdD2) | [Volver al Mar](https://open.spotify.com/artist/29VStMD9gyW6PxNqpZAd2M) | [De carne y hueso](https://open.spotify.com/album/2ZKeYMXqNOxgJhnevS4Kqu) | 3:15 | 2022-04-08 | 2022-04-23 |
 | [De No Haberte Conocido](https://open.spotify.com/track/3AQkfvH36YJnp3hdBfhj7C) | [Cheo](https://open.spotify.com/artist/1P6xk2vcFnmOZRKqujdpCj), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Dónde](https://open.spotify.com/album/5LSssy7XGPGIiWlK6y5UtY) | 3:16 | 2021-12-24 | 2022-04-23 |
 | [De todas las flores](https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De todas las flores](https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP) | 5:22 | 2022-10-10 | 2023-01-28 |
@@ -182,6 +182,7 @@
 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 | 2022-12-23 | 2023-03-11 |
 | [Green Grass](https://open.spotify.com/track/6neqcz52m0e5YvRZuKacys) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Caliu](https://open.spotify.com/album/5zli6Q5OHFwp7ACOI9bc9z) | 4:05 | 2022-04-01 | 2022-04-20 |
 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 | 2021-12-24 | 2022-02-07 |
+| [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 | 2023-08-18 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2021-12-24 |  |
 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 | 2023-01-06 | 2023-02-18 |
 | [Hay un Camino](https://open.spotify.com/track/6t0sjM2OIAdGs50EmFGu9X) | [Nando Agüeros](https://open.spotify.com/artist/6ABav84uUmY0ykSMNJ1bQ5), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Hay un Camino](https://open.spotify.com/album/4W0tG8gS7GrpI34322mw1t) | 3:36 | 2021-12-24 | 2022-03-02 |

@@ -2647,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "MY TIME",
+        "url": "https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188610,
+      "name": "MY TIME",
+      "url": "https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ"
+    },
+    {
+      "album": {
         "name": "Keep Drinking",
         "url": "https://open.spotify.com/album/5weZL40Nw4VmHCAAJtBzKv"
       },
@@ -3845,6 +3863,24 @@
     },
     {
       "album": {
+        "name": "TOUCHDOWN (\u0e43\u0e01\u0e25\u0e49\u0e14\u0e32\u0e27)",
+        "url": "https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "TOUCHDOWN (\u0e43\u0e01\u0e25\u0e49\u0e14\u0e32\u0e27)",
+      "url": "https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC"
+    },
+    {
+      "album": {
         "name": "The Borderline between Hope and Despair",
         "url": "https://open.spotify.com/album/1AvwXkcx9xngszexcHqFN7"
       },
@@ -4294,6 +4330,24 @@
       "duration_ms": 210510,
       "name": "Zoom in",
       "url": "https://open.spotify.com/track/2KqDiLmDIG3Q7DoxS07tCr"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e22\u0e25\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Cuteless)",
+        "url": "https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225085,
+      "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e22\u0e25\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Cuteless)",
+      "url": "https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0"
     },
     {
       "album": {

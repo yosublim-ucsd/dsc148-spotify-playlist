@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 21186,
+  "num_followers": 21200,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzgwYzQ0ZDQxYzc4OWJjOTQxMjZmZTI4OWQzZjBjM2M5MzRhNjhj",
+  "snapshot_id": "MCw0YzMzOWYwZmRkZDE0YWE3YjIzODQ2NDQxZmZlODBmZTdkYjE5N2Mz",
   "tracks": [
     {
       "added_at": "2023-05-05 23:37:46",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
         "name": "sol",
         "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 99000,
       "name": "Cumbiero",
       "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -351,6 +351,38 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
         "name": "Ocaso Sin Fin",
         "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
@@ -367,22 +399,6 @@
       "duration_ms": 113333,
       "name": "Vibrando Alto En Tulum",
       "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
-      },
-      "artists": [
-        {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
-        }
-      ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -407,38 +423,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Cumbia Don Juan",
-        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 134451,
-      "name": "Cumbia Don Juan",
-      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Nos Usamos",
         "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
+        "name": "Cumbia Don Juan",
+        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 134451,
+      "name": "Cumbia Don Juan",
+      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
       },
@@ -467,6 +467,42 @@
       "duration_ms": 117779,
       "name": "Mi Tierra",
       "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Areca",
+        "url": "https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+        }
+      ],
+      "duration_ms": 119741,
+      "name": "Areca",
+      "url": "https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -507,22 +543,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Lo-fi Ma\u00f1ana en CDMX",
         "url": "https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 169491,
       "name": "Lo-fi Ma\u00f1ana en CDMX",
       "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Areca",
-        "url": "https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
-        }
-      ],
-      "duration_ms": 119741,
-      "name": "Areca",
-      "url": "https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Dreaming of summer",
-        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
-      },
-      "artists": [
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 95040,
-      "name": "Dreaming of summer",
-      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Abr\u00e1zame mucho estos d\u00edas",
         "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Lo-Fi Bolero Perron",
-        "url": "https://open.spotify.com/album/6rNYYMWZJd2f7II4Fo2juw"
+        "name": "Dreaming of summer",
+        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Lo-Fi Bolero Perron",
-      "url": "https://open.spotify.com/track/3n9wcyw39oHjudHYQYmsqR"
+      "duration_ms": 95040,
+      "name": "Dreaming of summer",
+      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -643,6 +627,22 @@
       "duration_ms": 146845,
       "name": "Lost Memories",
       "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "simbiosis",
+        "url": "https://open.spotify.com/album/1ojXjQt8i318N8LL4lskZK"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 216282,
+      "name": "simbiosis",
+      "url": "https://open.spotify.com/track/4jhLp2tTaDgPTpUL0EyNjp"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "simbiosis",
-        "url": "https://open.spotify.com/album/1ojXjQt8i318N8LL4lskZK"
+        "name": "Lo-Fi en la Micro",
+        "url": "https://open.spotify.com/album/6IObXVY8Z6oG92MfWQZDb7"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 216282,
-      "name": "simbiosis",
-      "url": "https://open.spotify.com/track/4jhLp2tTaDgPTpUL0EyNjp"
+      "duration_ms": 153230,
+      "name": "Lo-Fi en la Micro",
+      "url": "https://open.spotify.com/track/6YeGCk4Iafikmg9gn4YNW7"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
+        "name": "Playa del amor",
+        "url": "https://open.spotify.com/album/4AZ4bVmrlluC4ajS7DUf2N"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 117580,
+      "name": "Playa del amor",
+      "url": "https://open.spotify.com/track/5fwxiLkBHjivfTUhiHb6gm"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 142939,
       "name": "Ukulele en Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/42JzhKGXF2N2mEYkaMsyTu"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Playa del amor",
-        "url": "https://open.spotify.com/album/4AZ4bVmrlluC4ajS7DUf2N"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 117580,
-      "name": "Playa del amor",
-      "url": "https://open.spotify.com/track/5fwxiLkBHjivfTUhiHb6gm"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Just A Cool Day",
-        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Just A Cool Day",
-      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Erick",
         "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
       },
@@ -851,6 +835,42 @@
       "duration_ms": 172528,
       "name": "Erick",
       "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "El Chavito Triste",
+      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Just A Cool Day",
+        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Just A Cool Day",
+      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -891,26 +911,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "El Chavito Triste",
-      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Dark Thoughts",
         "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 74347,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "como los ni\u00f1os",
-        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 150956,
-      "name": "como los ni\u00f1os",
-      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -959,42 +943,18 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Lluvia de Oro",
-        "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
+        "name": "como los ni\u00f1os",
+        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Yunani HU",
-          "url": "https://open.spotify.com/artist/7GPDzYt6bNbg4b0X6YsgsB"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 140400,
-      "name": "Lluvia de Oro",
-      "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
-      },
-      "artists": [
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
+      "duration_ms": 150956,
+      "name": "como los ni\u00f1os",
+      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1011,6 +971,22 @@
       "duration_ms": 140000,
       "name": "Buena Onda",
       "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1047,22 +1023,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "iced coffee",
-        "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
-      },
-      "artists": [
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 116824,
-      "name": "iced coffee",
-      "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "alone alone",
         "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
       },
@@ -1075,6 +1035,46 @@
       "duration_ms": 90933,
       "name": "alone alone",
       "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Lluvia de Oro",
+        "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Yunani HU",
+          "url": "https://open.spotify.com/artist/7GPDzYt6bNbg4b0X6YsgsB"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "Lluvia de Oro",
+      "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "iced coffee",
+        "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
+      },
+      "artists": [
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 116824,
+      "name": "iced coffee",
+      "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
-      },
-      "artists": [
-        {
-          "name": "Adbeel",
-          "url": "https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 179000,
       "name": "22 Hrs.",
       "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
+      },
+      "artists": [
+        {
+          "name": "Adbeel",
+          "url": "https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
+        "name": "Canciones Para Ver Las Nubes Pasar",
+        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Canci\u00f3n en Forma de Elefante",
+      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
         "name": "Amor Amor",
         "url": "https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "nefelibata",
-        "url": "https://open.spotify.com/album/6ibp9CY7NIxLPWbgSXZGiR"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4"
       },
       "artists": [
         {
-          "name": "Maydee",
-          "url": "https://open.spotify.com/artist/2csDVdJ8rp2gN2nw4sNyt6"
+          "name": "Outdream",
+          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
         }
       ],
-      "duration_ms": 133686,
-      "name": "nefelibata",
-      "url": "https://open.spotify.com/track/2kQkOf9qQ7s3Kp1FvIJrUH"
+      "duration_ms": 144283,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1275,34 +1291,18 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Canciones Para Ver Las Nubes Pasar",
-        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+        "name": "nefelibata",
+        "url": "https://open.spotify.com/album/6ibp9CY7NIxLPWbgSXZGiR"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+          "name": "Maydee",
+          "url": "https://open.spotify.com/artist/2csDVdJ8rp2gN2nw4sNyt6"
         }
       ],
-      "duration_ms": 164117,
-      "name": "Canci\u00f3n en Forma de Elefante",
-      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4"
-      },
-      "artists": [
-        {
-          "name": "Outdream",
-          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
-        }
-      ],
-      "duration_ms": 144283,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
+      "duration_ms": 133686,
+      "name": "nefelibata",
+      "url": "https://open.spotify.com/track/2kQkOf9qQ7s3Kp1FvIJrUH"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Lo-Fi en la Micro",
-        "url": "https://open.spotify.com/album/6IObXVY8Z6oG92MfWQZDb7"
+        "name": "Lo-Fi Bolero Perron",
+        "url": "https://open.spotify.com/album/6rNYYMWZJd2f7II4Fo2juw"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Lo-Fi en la Micro",
-      "url": "https://open.spotify.com/track/6YeGCk4Iafikmg9gn4YNW7"
+      "duration_ms": 180000,
+      "name": "Lo-Fi Bolero Perron",
+      "url": "https://open.spotify.com/track/3n9wcyw39oHjudHYQYmsqR"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1555,30 +1555,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Oaxaca Querida",
-        "url": "https://open.spotify.com/album/6nfxNdvQvFFKxINmsaD7Ea"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Oaxaca Querida",
-      "url": "https://open.spotify.com/track/0ilXr3akfenujLJuRfKFBt"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Timeless Era",
         "url": "https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP"
       },
@@ -1599,6 +1575,30 @@
       "duration_ms": 101250,
       "name": "Timeless Era",
       "url": "https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Oaxaca Querida",
+        "url": "https://open.spotify.com/album/6nfxNdvQvFFKxINmsaD7Ea"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Oaxaca Querida",
+      "url": "https://open.spotify.com/track/0ilXr3akfenujLJuRfKFBt"
     },
     {
       "added_at": "2023-05-05 23:37:46",

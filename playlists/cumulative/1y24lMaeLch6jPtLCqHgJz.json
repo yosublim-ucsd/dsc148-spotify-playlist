@@ -1017,6 +1017,32 @@
     },
     {
       "album": {
+        "name": "Curura",
+        "url": "https://open.spotify.com/album/5ownYiFYYBZXWGQJ4txRKf"
+      },
+      "artists": [
+        {
+          "name": "Wolfpack",
+          "url": "https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox"
+        },
+        {
+          "name": "Jaxx & Vega",
+          "url": "https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w"
+        },
+        {
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142004,
+      "name": "Curura",
+      "url": "https://open.spotify.com/track/2qrEyfQgY9KsKx7haqzo5S"
+    },
+    {
+      "album": {
         "name": "Dance Monkey",
         "url": "https://open.spotify.com/album/56cP0Lsv4FEo86w095msUN"
       },
@@ -4220,6 +4246,24 @@
       "duration_ms": 180937,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4S8rnl2Uinvl59QpcRY9oj"
+    },
+    {
+      "album": {
+        "name": "Turn It Around Baby",
+        "url": "https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218031,
+      "name": "Turn It Around Baby",
+      "url": "https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq"
     },
     {
       "album": {

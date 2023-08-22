@@ -2,7 +2,7 @@
 
 ### [Arab Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DXd43GfSFAeHA)
 
-> A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: ZIAD ZAZA
+> A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Vargas
 
 306 songs - 15 hr 54 min
 

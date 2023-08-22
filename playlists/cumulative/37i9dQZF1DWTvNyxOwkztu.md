@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-271 songs - 15 hr 6 min
+272 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [It Takes so Long](https://open.spotify.com/track/5S6UVAdQpJ0SZ5HfU4LQ1B) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [It Takes so Long](https://open.spotify.com/album/3VuE81EtTJTiNf8kUwgqpN) | 3:37 | 2023-05-26 | 2023-06-22 |
 | [Kalmar \- Lassjo's Dive](https://open.spotify.com/track/7sjPnJvroufu2baQuwoZ7Z) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Kalmar](https://open.spotify.com/album/2KxqTqUFYM335WGrCy9V4T) | 4:00 | 2022-03-25 | 2022-07-16 |
 | [Keep on Keepin' On](https://open.spotify.com/track/6T6Uf0q0Jpe5t4LnFQU3tM) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 2:20 | 2022-03-25 | 2022-04-21 |
+| [Keep Your Cool](https://open.spotify.com/track/2XRPJw4krhDLWjen7Z9wr0) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Keep Your Cool](https://open.spotify.com/album/0UuYZvNcoHQ6oBOkQKTpxW) | 3:19 | 2023-06-30 |  |
 | [Kobicha](https://open.spotify.com/track/1G8KzCELG4AXvmpf1WRMY6) | [Soul Flower](https://open.spotify.com/artist/3NI2ar7GCozS2JaqTyU0Ra) | [Kobicha](https://open.spotify.com/album/0suJmrWbXjCIT6bgR4AYhR) | 3:01 | 2022-02-26 | 2022-10-01 |
 | [Kyoto](https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 5:31 | 2021-12-09 | 2022-09-13 |
 | [Kyoto](https://open.spotify.com/track/6PjXctzAvL8UjkSozwctep) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Kyoto](https://open.spotify.com/album/2z2Z5IohSxt1cNL3hSs5E3) | 2:21 | 2021-12-09 | 2022-06-24 |
@@ -277,7 +278,7 @@
 | [Wingspan](https://open.spotify.com/track/3MIMhAWM5nEAzMtGn81ZYm) | [7and5](https://open.spotify.com/artist/0PxqaZXFW167XSUiha9eEi) | [Dragonfly](https://open.spotify.com/album/2hAiAbZpvHQpi012pPizS2) | 4:34 | 2022-11-25 | 2022-12-18 |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-12-09 | 2022-08-06 |
 | [Wonderful People \- Original Mix](https://open.spotify.com/track/40sgR4OCBYNMpE3bQmlqJL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Piano Lessons](https://open.spotify.com/album/0F4jOKzO7GXng1LR31BV0s) | 7:47 | 2021-12-09 |  |
-| [Writings](https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I) | 4:47 | 2022-05-20 |  |
+| [Writings](https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I) | 4:47 | 2022-05-20 | 2023-08-22 |
 | [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 | 2021-12-09 | 2023-03-10 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

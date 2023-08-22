@@ -4,7 +4,7 @@
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-191 songs - 10 hr 14 min
+192 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Fuck It up Challenge](https://open.spotify.com/track/0v2POEELhkbrIWVVrLKXft) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/5WA4Jt72UF7MclAaCZBFXu) | 1:35 | 2021-12-10 | 2022-07-10 |
 | [Fuck It up Challenge](https://open.spotify.com/track/1JWskKHxYTXSUEKPsv6hje) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/4Vmds5n2MHBb6HXEs4aY9Z) | 1:35 | 2022-07-22 | 2022-09-17 |
 | [Ga$ton Rasta](https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1) | [CalvoMusic](https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo), [DJ Glo 410](https://open.spotify.com/artist/6czHYf2hTNoxQYXlQTijWM) | [Nights Into Mornings EP](https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea) | 3:22 | 2021-12-10 |  |
-| [Gbadolite \- DJ P2N Remix](https://open.spotify.com/track/6Si27A4FgyHshNoPktd02V) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [DJ P2N](https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN) | [Gbadolite B\-Sides](https://open.spotify.com/album/3M5kKxofLNMyTLvUkJnmP7) | 4:18 | 2021-12-10 |  |
+| [Gbadolite \- DJ P2N Remix](https://open.spotify.com/track/6Si27A4FgyHshNoPktd02V) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [DJ P2N](https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN) | [Gbadolite B\-Sides](https://open.spotify.com/album/3M5kKxofLNMyTLvUkJnmP7) | 4:18 | 2021-12-10 | 2023-08-22 |
 | [Get Down Lil Bit \- Street Bangers Factory 16](https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Get Down Lil Bit \(Street Bangers Factory 16\)](https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn) | 4:50 | 2021-12-10 |  |
 | [Get Freaky](https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c) | [TateKo](https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K), [Da Yo Boyz](https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp) | [Get Freaky](https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa) | 2:58 | 2021-12-10 |  |
 | [Give It 2 Em \- Remix](https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G), [DJ TBoogie](https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz) | [Give It 2 Em \(Remix\)](https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK) | 2:00 | 2021-12-10 |  |
@@ -163,6 +163,7 @@
 | [Svengali](https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Svengali](https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5) | 2:59 | 2022-09-02 | 2023-02-25 |
 | [Swagg Talk](https://open.spotify.com/track/0J9RDo9EBTaFcqPlYw49Mj) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/5yfFuazY1M6OyMj14yly14) | 2:58 | 2022-07-08 | 2022-10-13 |
 | [Swagg Talk](https://open.spotify.com/track/3uGoSNkxwxEgoxhaYkF6F9) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/3Y7iKUxDQ2xcCYMFu4HsR2) | 2:58 | 2022-09-30 | 2023-08-21 |
+| [Swagg Talk](https://open.spotify.com/track/78ENPjhPvvJXuuyjz4eJqT) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [I Couldn't Decide](https://open.spotify.com/album/4u6Uuddlg5CTfnopDoEUaX) | 2:58 | 2023-08-04 |  |
 | [Sweaty Clothes \(feat\. Cerrissa Koza\)](https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT), [Cerrissa Koza](https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs) | [Sweaty Clothes \(feat\. Cerrissa Koza\)](https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY) | 2:37 | 2021-12-10 |  |
 | [Switch](https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju), [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Switch](https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC) | 2:46 | 2022-01-28 |  |
 | [Tabasco](https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn) | [BASE](https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf) | [Tabasco](https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs) | 2:09 | 2021-12-10 |  |

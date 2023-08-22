@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Pilitchi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,696 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,698 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Guerra](https://open.spotify.com/track/5H4NAUHT2nRXCOzOt38VLP) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8), [Purple](https://open.spotify.com/artist/1e7rmltZQYnGGAjTXuRcNa) | [Guerra](https://open.spotify.com/album/5LXwE9Gj5IFWDS1F5mat2k) | 3:17 |
 | 100 | [Batman](https://open.spotify.com/track/0ayIPRFUCmv1Z2P9COFDzy) | [Phedilson](https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he), [Beatoven](https://open.spotify.com/artist/5KPaJqjZ6Ta1dDO47eSQKa) | [Batman](https://open.spotify.com/album/4826t8Wg7l6wUH02LzUHNY) | 3:48 |
 
-Snapshot ID: `MCw0MTlhNDQ2ZmRkOGI5NWU3Zjg2MGI3ZTFjZWNlZTlhMTQ4Yzc1YjQx`
+Snapshot ID: `MCw0NTQ3MWYwOGE0NTFiZDBmNWY4NzZmODk5YmJlZjM4ZTNjNzdhYzA4`

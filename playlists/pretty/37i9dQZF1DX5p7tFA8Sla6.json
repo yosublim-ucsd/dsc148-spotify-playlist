@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 50917,
+  "num_followers": 50933,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTlmOGFjZTdlZGNjYzk1ZmRhMTc1ZWYwNWI0MjEyODkzZjg3NTIy",
+  "snapshot_id": "MCwwOGRlY2Y1OTYzMTVjZTc2MjA3Mzk0YTFhNzdhNTRlNjAwYzI2ZTk3",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -155,6 +155,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Motherlode",
         "url": "https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f"
       },
@@ -179,22 +195,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "In the Stone",
-      "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Come Get It! (Expanded Edition)",
         "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
       },
@@ -211,18 +211,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+      "duration_ms": 288480,
+      "name": "In the Stone",
+      "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -291,22 +291,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Tower Of Power",
-        "url": "https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 304733,
-      "name": "What Is Hip?",
-      "url": "https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Best of Delegation",
         "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 269640,
       "name": "Put a Little Love On Me",
       "url": "https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Tower Of Power",
+        "url": "https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 304733,
+      "name": "What Is Hip?",
+      "url": "https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -499,22 +499,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Bustin' Loose",
-        "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
-      },
-      "artists": [
-        {
-          "name": "Chuck Brown and the Soul Searchers",
-          "url": "https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu"
-        }
-      ],
-      "duration_ms": 462466,
-      "name": "Bustin' Loose",
-      "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Get On The Good Foot",
         "url": "https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+        "name": "Bustin' Loose",
+        "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
       },
       "artists": [
         {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+          "name": "Chuck Brown and the Soul Searchers",
+          "url": "https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu"
         }
       ],
-      "duration_ms": 461160,
-      "name": "P-Funk (Wants To Get Funked Up)",
-      "url": "https://open.spotify.com/track/0GIfaHgivfBCV67eYF996A"
+      "duration_ms": 462466,
+      "name": "Bustin' Loose",
+      "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -559,6 +543,22 @@
       "duration_ms": 251066,
       "name": "Ffun",
       "url": "https://open.spotify.com/track/2H0nOH0pgs3DBoPoR852cC"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 461160,
+      "name": "P-Funk (Wants To Get Funked Up)",
+      "url": "https://open.spotify.com/track/0GIfaHgivfBCV67eYF996A"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -595,22 +595,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "If It Ain't Funky Back It Up",
-        "url": "https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5"
-      },
-      "artists": [
-        {
-          "name": "Soopasoul",
-          "url": "https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "If It Ain't Funky Back It Up, Pt. 1",
-      "url": "https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Live!",
         "url": "https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 337680,
       "name": "Too Hot Ta Trot",
       "url": "https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "If It Ain't Funky Back It Up",
+        "url": "https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5"
+      },
+      "artists": [
+        {
+          "name": "Soopasoul",
+          "url": "https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "If It Ain't Funky Back It Up, Pt. 1",
+      "url": "https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -727,22 +727,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Check Me Out If You Don't Know Me By Now",
-        "url": "https://open.spotify.com/album/4xOLYBVbQ4auwndunGsaDa"
-      },
-      "artists": [
-        {
-          "name": "Lyn Collins",
-          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "Rock Me Again & Again & Again & Again & Again & Again",
-      "url": "https://open.spotify.com/track/7cwuk7OJRQQEbuPMB1u67e"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 251293,
       "name": "Do It Like You Do",
       "url": "https://open.spotify.com/track/7cnWNeQIQutKJmL3MZSfr6"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Check Me Out If You Don't Know Me By Now",
+        "url": "https://open.spotify.com/album/4xOLYBVbQ4auwndunGsaDa"
+      },
+      "artists": [
+        {
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "Rock Me Again & Again & Again & Again & Again & Again",
+      "url": "https://open.spotify.com/track/7cwuk7OJRQQEbuPMB1u67e"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -799,22 +799,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Tuxedo II",
-        "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
-      },
-      "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        }
-      ],
-      "duration_ms": 166590,
-      "name": "Fux with the Tux",
-      "url": "https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "What We Got Together",
         "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Real Life .:.High Fidelity",
-        "url": "https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh"
+        "name": "Tuxedo II",
+        "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
       },
       "artists": [
         {
-          "name": "Phat Phunktion",
-          "url": "https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT"
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
         }
       ],
-      "duration_ms": 210160,
-      "name": "Miss Madison",
-      "url": "https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE"
+      "duration_ms": 166590,
+      "name": "Fux with the Tux",
+      "url": "https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -863,6 +847,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Real Life .:.High Fidelity",
+        "url": "https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh"
+      },
+      "artists": [
+        {
+          "name": "Phat Phunktion",
+          "url": "https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Miss Madison",
+      "url": "https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
         "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 362733,
       "name": "Yes We Can Can",
       "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Let's Work",
+      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -915,22 +931,6 @@
       "duration_ms": 231963,
       "name": "Funk Ain't Ova",
       "url": "https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Controversy",
-        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Let's Work",
-      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Sign \"O\" the Times",
-        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 282106,
-      "name": "Housequake",
-      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Greatest Of Pleasure",
         "url": "https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 387893,
       "name": "Joyous",
       "url": "https://open.spotify.com/track/4yVKYKv0qoS66bU4KQUsLe"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 282106,
+      "name": "Housequake",
+      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1225,6 +1225,26 @@
       "url": "https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s"
     },
     {
+      "added_at": "2019-09-20 18:17:51",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/1h5VAB9cswXF7JEwv4Rwp7"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        }
+      ],
+      "duration_ms": 177080,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/1apfl27W9ell44IcK6Wb1t"
+    },
+    {
       "added_at": "2019-08-22 14:26:16",
       "album": {
         "name": "Dirty Word",
@@ -1293,26 +1313,6 @@
       "url": "https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL"
     },
     {
-      "added_at": "2019-09-20 18:17:51",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/1h5VAB9cswXF7JEwv4Rwp7"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
-        }
-      ],
-      "duration_ms": 177080,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/1apfl27W9ell44IcK6Wb1t"
-    },
-    {
       "added_at": "2019-08-22 14:26:16",
       "album": {
         "name": "Confident (feat. The MB's)",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Going to a Go Go",
+        "url": "https://open.spotify.com/album/3ssGWeOGiSLWVX5xIuVSc9"
+      },
+      "artists": [
+        {
+          "name": "Mr President",
+          "url": "https://open.spotify.com/artist/0vxQClb5BOpAPfYZl1l0fR"
+        },
+        {
+          "name": "Sabba MG",
+          "url": "https://open.spotify.com/artist/4AUMNpNUkYFFEVtqO4htFl"
+        }
+      ],
+      "duration_ms": 402851,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/7tjRXebutOf50Ks2cRzv9d"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Dirty Word",
         "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 273880,
       "name": "Water",
       "url": "https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Going to a Go Go",
-        "url": "https://open.spotify.com/album/3ssGWeOGiSLWVX5xIuVSc9"
-      },
-      "artists": [
-        {
-          "name": "Mr President",
-          "url": "https://open.spotify.com/artist/0vxQClb5BOpAPfYZl1l0fR"
-        },
-        {
-          "name": "Sabba MG",
-          "url": "https://open.spotify.com/artist/4AUMNpNUkYFFEVtqO4htFl"
-        }
-      ],
-      "duration_ms": 402851,
-      "name": "Night Time",
-      "url": "https://open.spotify.com/track/7tjRXebutOf50Ks2cRzv9d"
     },
     {
       "added_at": "2019-08-22 14:26:16",

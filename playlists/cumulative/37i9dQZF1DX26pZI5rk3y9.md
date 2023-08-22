@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-172 songs - 10 hr 0 min
+173 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Fat Meat N Greens](https://open.spotify.com/track/6yrgUIAB8XpKEvLL2iIdex) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Without You](https://open.spotify.com/album/1MEwm7p2srd8tw34ZUzsEK) | 2:29 | 2022-07-08 | 2022-09-20 |
 | [Flood of 2019](https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq) | [Aaron Reynolds & Tombstone Mind](https://open.spotify.com/artist/6jusbN97Wy0bKDBLQ42V46) | [Flood of 2019](https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv) | 3:59 | 2023-06-07 | 2023-08-06 |
 | [FLorida Man](https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [FLorida Man](https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn) | 3:39 | 2023-06-07 |  |
+| [Freedom](https://open.spotify.com/track/09BmmcDmFnJGOfQIquCbLx) | [Madison Galloway](https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR) | [Freedom](https://open.spotify.com/album/5XpJxe16XCSDeIJe1huefg) | 3:12 | 2023-08-18 |  |
 | [Get The Moon Up](https://open.spotify.com/track/2sbhlXbwJhZXQjwX2F99EZ) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/7nHCFdhYDs61JyD7HfNudm) | 2:15 | 2022-05-25 | 2022-07-29 |
 | [Get the Moon Up](https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:15 | 2022-07-08 | 2023-04-29 |
 | [Get the Moon Up](https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:15 | 2022-12-02 | 2023-06-08 |
@@ -156,7 +157,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv) | [The Lucky Strokes](https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Shelby Kemp](https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5) | [Sweet Dreams](https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE) | 4:15 | 2023-08-04 |  |
 | [Sweet Tooth](https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Sweet Tooth](https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq) | 2:11 | 2023-06-07 |  |
 | [Take My Rider](https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl) | [Douglas Avery](https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz) | [Take My Rider](https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y) | 5:12 | 2023-06-07 |  |
-| [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 | 2023-06-07 |  |
+| [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 | 2023-06-07 | 2023-08-22 |
 | [The "Ella B" \- Remastered](https://open.spotify.com/track/0JSZG6AcdclLI8yeEEAe8n) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 4:33 | 2022-05-25 | 2023-06-08 |
 | [The Fish](https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Guitar Women, Vol.4](https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj) | 2:41 | 2022-05-25 | 2023-06-08 |
 | [The Great Beyond](https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq) | [Dudley Taft](https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ) | [Guitar Kingdom](https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y) | 3:20 | 2023-06-07 |  |

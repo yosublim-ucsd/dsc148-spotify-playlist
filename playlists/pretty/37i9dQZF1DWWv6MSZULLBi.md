@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,910 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,948 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Free](https://open.spotify.com/track/6I3Ns61Hy5xBwlakoVodA8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Free](https://open.spotify.com/album/2DK8qUZem6LDFCcr7vrJLk) | 3:13 |
 | 2 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 |
 | 3 | [Twenty Twenty](https://open.spotify.com/track/3PwNuvZHqvkflzOQkDyBuA) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Twenty Twenty](https://open.spotify.com/album/5XrD1Ct0t5ZLOdduhNAyWW) | 5:03 |
-| 4 | [Knock The Wind](https://open.spotify.com/track/16zmpunEamESQNJWqUUGih) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Knock The Wind](https://open.spotify.com/album/2P5Hbwj8Pl8ZJI5X5lbsAG) | 2:45 |
+| 4 | [Knock The Wind](https://open.spotify.com/track/72elIQIbmE6rLBvXXsknK5) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 2:45 |
 | 5 | [Snakelife](https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Snakelife](https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU) | 4:37 |
 | 6 | [Qimmijuat \(Wild Horses\)](https://open.spotify.com/track/3Rt3viQJXYZ72pLpqmL1C2) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimmijuat \(Wild Horses\)](https://open.spotify.com/album/464WdsCECkTzqIEv3ITRrD) | 5:29 |
 | 7 | [Your Beautiful Self](https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Your Beautiful Self](https://open.spotify.com/album/2lCbzs1hrhbnh1Ra7HafE3) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [I Don't Live Here Anymore](https://open.spotify.com/track/7ECJeHWuydb003xEiqUnn1) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [I Don't Live Here Anymore](https://open.spotify.com/album/5YZg6tXn4z1kPX30tJ8scD) | 3:06 |
 | 100 | [Head for the Hills](https://open.spotify.com/track/2NfZgnqLABxmb3mRwYVc2y) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Something Easy](https://open.spotify.com/album/09pC9vJ3xDCpLmkuLLUiP8) | 4:39 |
 
-Snapshot ID: `MCw1MmM0OTE0ZGRlZTQyODA2OTExMzRiOGM2MTIzYzYwMzdhN2YyN2Qx`
+Snapshot ID: `MCwxMGMyMTIyNDQ4NjQ2ZDdkOWZmZjNkMDc2MTdjMjJjYzRhNWZmMTdk`

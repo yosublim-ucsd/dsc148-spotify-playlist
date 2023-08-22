@@ -4,7 +4,7 @@
 
 > 
 
-649 songs - 1 day 8 hr 37 min
+650 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [I Like](https://open.spotify.com/track/6zaoVw156UmdL8D3xOwggX) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [I Like](https://open.spotify.com/album/1NVTjDBAJGzgkCgnj9Mkuo) | 1:51 | 2022-12-09 |  |
 | [I'm Geekin](https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [I'm Geekin](https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo) | 1:41 | 2023-06-24 |  |
 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 3:56 | 2023-08-18 |  |
+| [I'm Upset](https://open.spotify.com/track/3qN5qMTKyEEmiTZD38BNTT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:34 | 2023-08-21 |  |
 | [I.Y.B.](https://open.spotify.com/track/1HH1iWf4Y0ObzWBjg2dSlr) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 1:33 | 2023-02-06 |  |
 | [Ice Spice](https://open.spotify.com/track/4cAPBai2AcHU3dFp7tGt3X) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Ice Spice](https://open.spotify.com/album/2unmBPzkmQNJQcTjRXmfzN) | 3:48 | 2022-11-04 |  |
 | [If You Still Wit Me \(feat\. Lil Baby\)](https://open.spotify.com/track/1oAso3M0037gUsHILjLybo) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [If You Still Wit Me \(feat\. Lil Baby\)](https://open.spotify.com/album/4jsF3hQE3ZX4zX1AS3hjwA) | 3:16 | 2022-12-02 |  |

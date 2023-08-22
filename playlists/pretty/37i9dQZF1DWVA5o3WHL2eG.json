@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: AYLIVA",
-  "num_followers": 28460,
+  "num_followers": 28466,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWMzM2RkYTIwNWYyNzgzNjQzNGE5NzcyZTMxZjlhM2NhOGNmNGYz",
+  "snapshot_id": "MCwzNWM1Yzc5ZDM1NTA2N2FjY2FlZTI4NjEyYWNlOTIzMTA2YmY3M2Qx",
   "tracks": [
     {
       "added_at": "2023-08-08 06:06:22",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
-        "name": "Sp\u00e4ti.wav",
-        "url": "https://open.spotify.com/album/3FENmaFwl4Mly7a2tKdh5J"
-      },
-      "artists": [
-        {
-          "name": "EAZI",
-          "url": "https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ"
-        }
-      ],
-      "duration_ms": 127612,
-      "name": "Sp\u00e4ti.wav",
-      "url": "https://open.spotify.com/track/0mcE2lux5WXnkbAnd3Env6"
-    },
-    {
-      "added_at": "2023-08-08 06:06:22",
-      "album": {
         "name": "Immer mehr",
         "url": "https://open.spotify.com/album/2EoXgzamMfjdsovHFqv0tt"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 140327,
       "name": "Immer mehr",
       "url": "https://open.spotify.com/track/2xauduEOjPHqO1SLYJUpGM"
+    },
+    {
+      "added_at": "2023-08-08 06:06:22",
+      "album": {
+        "name": "Sp\u00e4ti.wav",
+        "url": "https://open.spotify.com/album/3FENmaFwl4Mly7a2tKdh5J"
+      },
+      "artists": [
+        {
+          "name": "EAZI",
+          "url": "https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ"
+        }
+      ],
+      "duration_ms": 127612,
+      "name": "Sp\u00e4ti.wav",
+      "url": "https://open.spotify.com/track/0mcE2lux5WXnkbAnd3Env6"
     },
     {
       "added_at": "2023-08-08 06:06:22",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
-        "name": "Bitch",
-        "url": "https://open.spotify.com/album/6KxOcr7awsBTsQDOSvblzV"
-      },
-      "artists": [
-        {
-          "name": "Felicia Lu",
-          "url": "https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV"
-        }
-      ],
-      "duration_ms": 164211,
-      "name": "Bitch",
-      "url": "https://open.spotify.com/track/7vXeRpDn6QxlJoyoHOmJcu"
-    },
-    {
-      "added_at": "2023-08-08 06:06:22",
-      "album": {
         "name": "What if I jump from a Bridge?",
         "url": "https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 124861,
       "name": "What if I jump from a Bridge?",
       "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
+    },
+    {
+      "added_at": "2023-08-08 06:06:22",
+      "album": {
+        "name": "Bitch",
+        "url": "https://open.spotify.com/album/6KxOcr7awsBTsQDOSvblzV"
+      },
+      "artists": [
+        {
+          "name": "Felicia Lu",
+          "url": "https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV"
+        }
+      ],
+      "duration_ms": 164211,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/7vXeRpDn6QxlJoyoHOmJcu"
     },
     {
       "added_at": "2023-08-08 06:06:22",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/1pKvju0BnwcxXNaPstmMGi"
-      },
-      "artists": [
-        {
-          "name": "TAM",
-          "url": "https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz"
-        }
-      ],
-      "duration_ms": 213537,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/0EX7O1fUvcIJeWsbE5UVfN"
-    },
-    {
-      "added_at": "2023-08-08 06:06:22",
-      "album": {
         "name": "Verliebt",
         "url": "https://open.spotify.com/album/4FZi3s1p5rWhryOw6HKyVo"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 284353,
       "name": "Verliebt",
       "url": "https://open.spotify.com/track/7fmXUVYmTQaS1bQRGNLpmW"
+    },
+    {
+      "added_at": "2023-08-08 06:06:22",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/1pKvju0BnwcxXNaPstmMGi"
+      },
+      "artists": [
+        {
+          "name": "TAM",
+          "url": "https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz"
+        }
+      ],
+      "duration_ms": 213537,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/0EX7O1fUvcIJeWsbE5UVfN"
     }
   ],
   "unique_name": "EQUAL GSA",

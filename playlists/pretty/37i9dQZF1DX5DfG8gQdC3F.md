@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Jessie Reyez & Miguel, Charlie Puth, Reneé Rapp and New West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,591 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,586 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 33 | [Tempo](https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Tempo](https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n) | 1:47 |
 | 34 | [WARFARE](https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 2:36 |
 | 35 | [Used To Be](https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:52 |
-| 36 | [Knock The Wind](https://open.spotify.com/track/16zmpunEamESQNJWqUUGih) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Knock The Wind](https://open.spotify.com/album/2P5Hbwj8Pl8ZJI5X5lbsAG) | 2:45 |
+| 36 | [Knock The Wind](https://open.spotify.com/track/72elIQIbmE6rLBvXXsknK5) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 2:45 |
 | 37 | [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 |
 | 38 | [The Abyss](https://open.spotify.com/track/20PDyFm8UqZwrHvjHVinVp) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [What is life?](https://open.spotify.com/album/7ykz0afInygEfdlOVuDy70) | 3:12 |
 | 39 | [Encore](https://open.spotify.com/track/6VKp9ZRRULPkWTt87jYVMG) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Encore](https://open.spotify.com/album/4KCpGAzRm43d1KR0uHopMy) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Dirty Nights](https://open.spotify.com/track/0N2AfkjyJJj5mwoTPalU9h) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Dirty Nights](https://open.spotify.com/album/10SEyQdy8aBLJ2ZowCR4HS) | 2:51 |
 | 100 | [XTRDNR \(feat\. Boogát\)](https://open.spotify.com/track/1DdVrLHVEMKQdyQC1bGgOs) | [DJ Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [The Deadleez](https://open.spotify.com/album/4DsL01rmcJStmt2QewNrnl) | 2:41 |
 
-Snapshot ID: `MCxmMjdhOWZiMWNlNGMxODFkYWU2NzQ3MzY0MTAxNDAyY2JjNWEzMWFj`
+Snapshot ID: `MCxjN2NjODFmZDI5Nzc4NjE3MDQwZjMxNTYxNWM2NmZiNjhkODg5ZDM1`

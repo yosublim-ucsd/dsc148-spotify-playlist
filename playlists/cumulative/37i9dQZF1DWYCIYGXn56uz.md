@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: BLANCO
 
-200 songs - 9 hr 18 min
+201 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Politically Correct](https://open.spotify.com/track/5tu9DTzT4p0kEqYo0kT8gw) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF), [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc) | [Politically Correct](https://open.spotify.com/album/0mDVO5vkZxoTgVG6HCu2ZZ) | 2:23 | 2023-06-29 | 2023-07-07 |
 | [Polmone](https://open.spotify.com/track/3B3e3hmedTQThdjlKEKybi) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Polmone](https://open.spotify.com/album/6hQkWLUkR2fWqWUmdAcjIz) | 2:38 | 2023-04-13 | 2023-04-28 |
 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 | 2023-03-23 |  |
+| [Pop Corn e patatine RMX](https://open.spotify.com/track/1ovirVCRbRPiDttcIxqWus) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [Pop Corn e patatine RMX](https://open.spotify.com/album/2zFbkDYonDRzA6zf0M7zDx) | 2:55 | 2023-08-21 |  |
 | [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-04-20 | 2023-05-19 |
 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-06 |  |
 | [Ricordarmi di scordarti](https://open.spotify.com/track/7HfIA6XWVZWsLC7SSBdavy) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0) | [Ricordarmi di scordarti](https://open.spotify.com/album/7sPORpkE6mfvYJm6XBdiJ5) | 2:24 | 2023-03-23 | 2023-04-14 |

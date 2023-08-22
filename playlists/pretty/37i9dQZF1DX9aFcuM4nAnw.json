@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 3117,
+  "num_followers": 3125,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDhjODkzMDA2YzA5OWNiZGM4ZTkzYTVkZTEzZmQzM2VlZjlkNTNl",
+  "snapshot_id": "MCw2ZGY3MjQ4ODA2MWU1NWUzMDc4MjRhZTU1N2ExOTc2ZGU0ZDY3ZWQ1",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "The First I love You",
-      "url": "https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Geogaddi",
         "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 321453,
       "name": "Music Is Math",
       "url": "https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "The First I love You",
+      "url": "https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -251,6 +251,38 @@
       "duration_ms": 463773,
       "name": "Fields of Coral",
       "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 531426,
+      "name": "#7",
+      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 287403,
+      "name": "Reach For The Dead",
+      "url": "https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -303,22 +335,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "Eulogy",
-      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Untrue",
         "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 126091,
       "name": "In McDonalds",
       "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 531426,
-      "name": "#7",
-      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 287403,
-      "name": "Reach For The Dead",
-      "url": "https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ"
+      "duration_ms": 219893,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -395,6 +395,38 @@
       "duration_ms": 256825,
       "name": "Disengaged",
       "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 279666,
+      "name": "#4",
+      "url": "https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 176254,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -487,38 +519,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 279666,
-      "name": "#4",
-      "url": "https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 176254,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Music for an Empty Metropolis",
         "url": "https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 543560,
       "name": "Now Night Her Course Began",
       "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 535266,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -587,22 +603,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 307680,
-      "name": "The Upside Down",
-      "url": "https://open.spotify.com/track/5rwltqXrIniDtZIx4J6u50"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "I Am the Night",
         "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 381424,
       "name": "The Price of Failure",
       "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 535266,
-      "name": "#5",
-      "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -675,6 +659,38 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 307680,
+      "name": "The Upside Down",
+      "url": "https://open.spotify.com/track/5rwltqXrIniDtZIx4J6u50"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 438093,
+      "name": "#11",
+      "url": "https://open.spotify.com/track/1J9HzZ1mPuFafLSTRU2a6F"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "The Detective (II)",
         "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
       },
@@ -687,6 +703,22 @@
       "duration_ms": 265200,
       "name": "Exile on \u00c6r\u00f8",
       "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
+      },
+      "artists": [
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        }
+      ],
+      "duration_ms": 363843,
+      "name": "A Curved Blade",
+      "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -723,38 +755,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Lost Themes",
-        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
-      },
-      "artists": [
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        }
-      ],
-      "duration_ms": 363843,
-      "name": "A Curved Blade",
-      "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Lost Themes",
+        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Asleep And Well Hidden",
         "url": "https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 430986,
       "name": "The Ruins And The Serene",
       "url": "https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 438093,
-      "name": "#11",
-      "url": "https://open.spotify.com/track/1J9HzZ1mPuFafLSTRU2a6F"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Lost Themes II",
-        "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Utopian Facade",
-      "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Sequences",
         "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Lost Themes II",
+        "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Utopian Facade",
+      "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE"
     },
     {
-      "added_at": "2022-08-24 01:38:29",
-      "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR"
-      },
-      "artists": [
-        {
-          "name": "Eusebeia",
-          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
-        }
-      ],
-      "duration_ms": 101380,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
-    },
-    {
       "added_at": "2022-07-06 17:58:03",
       "album": {
         "name": "Translucent Communion",
@@ -967,6 +951,22 @@
       "duration_ms": 316840,
       "name": "Anthropic Uncreation",
       "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
+    },
+    {
+      "added_at": "2022-08-24 01:38:29",
+      "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR"
+      },
+      "artists": [
+        {
+          "name": "Eusebeia",
+          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
+        }
+      ],
+      "duration_ms": 101380,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
     },
     {
       "added_at": "2022-07-06 17:58:03",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,193 songs - 2 day 7 hr 14 min
+1,194 songs - 2 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,7 +679,7 @@
 | [Бэйбитрон](https://open.spotify.com/track/7M0s9oTEkUzBSnkUnG0Idr) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:57 | 2022-04-30 | 2022-05-02 |
 | [Бэлмэйн](https://open.spotify.com/track/1IiTqFqIT8BNUsTcJIwqaH) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:41 | 2021-04-29 | 2021-04-30 |
 | [Бібліотека](https://open.spotify.com/track/6ekNzvEmnCPbIdTFjRtw6L) | [Колос](https://open.spotify.com/artist/362iRKPQbIK8S5Eu5rHqtU) | [Kamasutra](https://open.spotify.com/album/2eZfffj22Wsk7zFFkaP2Ld) | 3:05 | 2021-10-09 | 2021-10-30 |
-| [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 | 2022-09-27 |  |
+| [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 | 2022-09-27 | 2023-08-22 |
 | [Біля тополі](https://open.spotify.com/track/1NMcQpg1J5RaUxPTLifSnq) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/2MgSHC8yz1vt0ItAdH0tuJ) | 3:29 | 2023-03-15 | 2023-05-31 |
 | [Біля тополі](https://open.spotify.com/track/3MqaB8TndvgRZ1QSQXH7J7) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/3ladULEuZfnDeQ43IL3kjy) | 3:29 | 2022-07-23 | 2023-01-29 |
 | [В диапазоне](https://open.spotify.com/track/1cmIuauHOxvxzTCFXFnNRL) | [Pornofilmy](https://open.spotify.com/artist/47jBQjRmURjRn3XfLIaHvV) | [В диапазоне между отчаянием и надеждой](https://open.spotify.com/album/6qOOpX7g5uEw3NhOgmy3iq) | 5:31 | 2022-03-09 | 2022-03-27 |
@@ -1121,6 +1121,7 @@
 | [Увечье](https://open.spotify.com/track/49RVLaeoDZPOQtAr929OUK) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Увечье](https://open.spotify.com/album/1jdcbR2FrqBkUeVn2gxEcd) | 2:33 | 2022-06-25 | 2022-06-27 |
 | [Улет](https://open.spotify.com/track/6pEIEGMb3Bbpew09gGR7Gx) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:30 | 2021-12-04 | 2021-12-10 |
 | [Улицы без фонарей](https://open.spotify.com/track/63zZclNUcyodnySewFn5Pi) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 3:22 | 2021-12-18 | 2021-12-23 |
+| [Уночі](https://open.spotify.com/track/34W2vfDZF6lOa4U55RsvDH) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Уночі](https://open.spotify.com/album/24bc8MBCroFdDuLDyVJfVS) | 3:59 | 2023-08-21 |  |
 | [Файна \(feat\. Skofka\)](https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЙО\-ЙО \(feat\. Skofka\)](https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc) | 2:36 | 2022-05-02 | 2023-07-19 |
 | [Федерико Феллини](https://open.spotify.com/track/7Eyfmn0zcgcjGUrWlFdgqa) | [Galibri & Mavik](https://open.spotify.com/artist/3GOI8AbB8KMYk20rWy38X5) | [Федерико Феллини](https://open.spotify.com/album/1a4uBgKOUZK6dommd01kja) | 2:16 | 2021-07-12 | 2021-09-21 |
 | [Фиеста](https://open.spotify.com/track/0qyeRF33qX9pNm16m4Yykb) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Yanix](https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c), [SEEMEE](https://open.spotify.com/artist/2ngiK5FQchV4i7eOyXOXKt) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 1:51 | 2022-08-13 | 2022-08-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 503911,
+  "num_followers": 504139,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTdiYjgxNTFkNjQ2NzcxNjVhMDJkMmNjMGFhZGM2OTQyMjJkNzJl",
+  "snapshot_id": "MCw1ODM3OGQ4ZTIyZTRkZWE4MmM1ZWZlZmEyOGFhMTllZGZkNDQ2ZTU5",
   "tracks": [
     {
       "added_at": "2023-05-26 09:00:00",
@@ -239,18 +239,26 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Aware",
-        "url": "https://open.spotify.com/album/03C5aokmrg7mZq0odQryVu"
+        "name": "Here Is Your Song",
+        "url": "https://open.spotify.com/album/4054vsnkO3h76gYcRxtJ0U"
       },
       "artists": [
         {
-          "name": "Symphonix",
-          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+        },
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Aware",
-      "url": "https://open.spotify.com/track/2kp6AKfu0JauDqwqTBSSVP"
+      "duration_ms": 340500,
+      "name": "Here Is Your Song",
+      "url": "https://open.spotify.com/track/65Md1g0jQ6bOey7rUGmMOX"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -275,26 +283,18 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Here Is Your Song",
-        "url": "https://open.spotify.com/album/4054vsnkO3h76gYcRxtJ0U"
+        "name": "Aware",
+        "url": "https://open.spotify.com/album/03C5aokmrg7mZq0odQryVu"
       },
       "artists": [
         {
-          "name": "Neelix",
-          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
-        },
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "The Gardener & The Tree",
-          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
         }
       ],
-      "duration_ms": 340500,
-      "name": "Here Is Your Song",
-      "url": "https://open.spotify.com/track/65Md1g0jQ6bOey7rUGmMOX"
+      "duration_ms": 234000,
+      "name": "Aware",
+      "url": "https://open.spotify.com/track/2kp6AKfu0JauDqwqTBSSVP"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
+        "name": "There Was A Time",
+        "url": "https://open.spotify.com/album/1SCh5zitZe6JRGeATpcGXB"
+      },
+      "artists": [
+        {
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+        },
+        {
+          "name": "Caroline Harrison",
+          "url": "https://open.spotify.com/artist/43Cmg6YqnuPEHxe7TQLOk7"
+        }
+      ],
+      "duration_ms": 307826,
+      "name": "There Was A Time",
+      "url": "https://open.spotify.com/track/6f9X4NeJ9TofyaKKqYcWl3"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
         "name": "All Gone",
         "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
       },
@@ -391,6 +411,26 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/0FdDfrDGmVaKivoyy6gUY9"
+      },
+      "artists": [
+        {
+          "name": "Phenomenal",
+          "url": "https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU"
+        },
+        {
+          "name": "Paul Hadi",
+          "url": "https://open.spotify.com/artist/6NuxH9Sx4ywdMTkqaSRDkR"
+        }
+      ],
+      "duration_ms": 268172,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0DKWDteZi7MzDnJYc4i48b"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz"
       },
@@ -411,22 +451,22 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/0FdDfrDGmVaKivoyy6gUY9"
+        "name": "Natural Connection",
+        "url": "https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V"
       },
       "artists": [
         {
-          "name": "Phenomenal",
-          "url": "https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU"
+          "name": "Phaxe",
+          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
         },
         {
-          "name": "Paul Hadi",
-          "url": "https://open.spotify.com/artist/6NuxH9Sx4ywdMTkqaSRDkR"
+          "name": "Morten Granau",
+          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
         }
       ],
-      "duration_ms": 268172,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0DKWDteZi7MzDnJYc4i48b"
+      "duration_ms": 419130,
+      "name": "Natural Connection",
+      "url": "https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -451,8 +491,8 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "There Was A Time",
-        "url": "https://open.spotify.com/album/1SCh5zitZe6JRGeATpcGXB"
+        "name": "You (Kleysky & Deep Kontakt Remix)",
+        "url": "https://open.spotify.com/album/0zdVU4urBzekcDL18LynMT"
       },
       "artists": [
         {
@@ -460,33 +500,17 @@
           "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
         },
         {
-          "name": "Caroline Harrison",
-          "url": "https://open.spotify.com/artist/43Cmg6YqnuPEHxe7TQLOk7"
-        }
-      ],
-      "duration_ms": 307826,
-      "name": "There Was A Time",
-      "url": "https://open.spotify.com/track/6f9X4NeJ9TofyaKKqYcWl3"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
-        "name": "Natural Connection",
-        "url": "https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V"
-      },
-      "artists": [
-        {
-          "name": "Phaxe",
-          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
+          "name": "Kleysky",
+          "url": "https://open.spotify.com/artist/3AIbItivbkxJK4UKSuM7GC"
         },
         {
-          "name": "Morten Granau",
-          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
+          "name": "Deep Kontakt",
+          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
         }
       ],
-      "duration_ms": 419130,
-      "name": "Natural Connection",
-      "url": "https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI"
+      "duration_ms": 361739,
+      "name": "You (Kleysky & Deep Kontakt Remix)",
+      "url": "https://open.spotify.com/track/2cldsTRjQboX0flJkYdxtg"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -583,46 +607,22 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/2dSndYO0oWrvM2A5PsTJNb"
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
       },
       "artists": [
         {
-          "name": "Phaxe",
-          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
         },
         {
-          "name": "Querox",
-          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
         }
       ],
-      "duration_ms": 331094,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5kCdc14ItHSF6N6rI7wGSX"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
-        "name": "You (Kleysky & Deep Kontakt Remix)",
-        "url": "https://open.spotify.com/album/0zdVU4urBzekcDL18LynMT"
-      },
-      "artists": [
-        {
-          "name": "Neelix",
-          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
-        },
-        {
-          "name": "Kleysky",
-          "url": "https://open.spotify.com/artist/3AIbItivbkxJK4UKSuM7GC"
-        },
-        {
-          "name": "Deep Kontakt",
-          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
-        }
-      ],
-      "duration_ms": 361739,
-      "name": "You (Kleysky & Deep Kontakt Remix)",
-      "url": "https://open.spotify.com/track/2cldsTRjQboX0flJkYdxtg"
+      "duration_ms": 159642,
+      "name": "You Make Me Feel - Radio Version",
+      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -647,22 +647,22 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/2dSndYO0oWrvM2A5PsTJNb"
       },
       "artists": [
         {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+          "name": "Phaxe",
+          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
         },
         {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+          "name": "Querox",
+          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
         }
       ],
-      "duration_ms": 159642,
-      "name": "You Make Me Feel - Radio Version",
-      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
+      "duration_ms": 331094,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5kCdc14ItHSF6N6rI7wGSX"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Freetown",
-        "url": "https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU"
-      },
-      "artists": [
-        {
-          "name": "Phaxe",
-          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
-        },
-        {
-          "name": "Querox",
-          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
-        }
-      ],
-      "duration_ms": 389781,
-      "name": "Freetown",
-      "url": "https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Go and Get It",
         "url": "https://open.spotify.com/album/3jxpgjPvKIfVj6yDFS7q6J"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 251586,
       "name": "Go and Get It",
       "url": "https://open.spotify.com/track/68mHAuRNqFWBKVTxF1qtth"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Freetown",
+        "url": "https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU"
+      },
+      "artists": [
+        {
+          "name": "Phaxe",
+          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
+        },
+        {
+          "name": "Querox",
+          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
+        }
+      ],
+      "duration_ms": 389781,
+      "name": "Freetown",
+      "url": "https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Ancient Aum",
-        "url": "https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5"
-      },
-      "artists": [
-        {
-          "name": "Electric Universe",
-          "url": "https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD"
-        },
-        {
-          "name": "Ace Ventura",
-          "url": "https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Ancient Aum",
-      "url": "https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Music Is My Remedy",
         "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
       },
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
+        "name": "Ancient Aum",
+        "url": "https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5"
+      },
+      "artists": [
+        {
+          "name": "Electric Universe",
+          "url": "https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD"
+        },
+        {
+          "name": "Ace Ventura",
+          "url": "https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Ancient Aum",
+      "url": "https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE"
       },
@@ -1235,30 +1235,6 @@
       "duration_ms": 343098,
       "name": "Crossroads (Remix)",
       "url": "https://open.spotify.com/track/5pBEiBE1cCShb5fDt8973h"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
-        "name": "Key To Happiness",
-        "url": "https://open.spotify.com/album/2JOtRwO9GnCSK0lYnuleOw"
-      },
-      "artists": [
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        },
-        {
-          "name": "All In One",
-          "url": "https://open.spotify.com/artist/7MXDSgITltdRMyBikZiaEx"
-        },
-        {
-          "name": "Dantra",
-          "url": "https://open.spotify.com/artist/7jReU323puI26T1mx4ryaG"
-        }
-      ],
-      "duration_ms": 355862,
-      "name": "Key To Happiness",
-      "url": "https://open.spotify.com/track/5gprlslyCZD2zaFRwbu22t"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1319,6 +1295,30 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
+        "name": "Key To Happiness",
+        "url": "https://open.spotify.com/album/2JOtRwO9GnCSK0lYnuleOw"
+      },
+      "artists": [
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        {
+          "name": "All In One",
+          "url": "https://open.spotify.com/artist/7MXDSgITltdRMyBikZiaEx"
+        },
+        {
+          "name": "Dantra",
+          "url": "https://open.spotify.com/artist/7jReU323puI26T1mx4ryaG"
+        }
+      ],
+      "duration_ms": 355862,
+      "name": "Key To Happiness",
+      "url": "https://open.spotify.com/track/5gprlslyCZD2zaFRwbu22t"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
       },
@@ -1355,62 +1355,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Carmen",
-        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
-      },
-      "artists": [
-        {
-          "name": "Skazi",
-          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
-        },
-        {
-          "name": "Invisible Reality",
-          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Carmen",
-      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
-        "name": "Other Days",
-        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
-      },
-      "artists": [
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        }
-      ],
-      "duration_ms": 245357,
-      "name": "Other Days",
-      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
-        "name": "Shroomeez",
-        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 390011,
-      "name": "You Wanna Stay",
-      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Mystical Experience",
         "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
       },
@@ -1427,6 +1371,26 @@
       "duration_ms": 550985,
       "name": "Mystical Experience",
       "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Mind Is God - Single",
+        "url": "https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep"
+      },
+      "artists": [
+        {
+          "name": "Space Tribe",
+          "url": "https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9"
+        },
+        {
+          "name": "Mad Maxx",
+          "url": "https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv"
+        }
+      ],
+      "duration_ms": 540000,
+      "name": "Mind Is God - Original Mix",
+      "url": "https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1451,22 +1415,58 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Mind Is God - Single",
-        "url": "https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep"
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
       },
       "artists": [
         {
-          "name": "Space Tribe",
-          "url": "https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9"
+          "name": "Skazi",
+          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
         },
         {
-          "name": "Mad Maxx",
-          "url": "https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv"
+          "name": "Invisible Reality",
+          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
         }
       ],
-      "duration_ms": 540000,
-      "name": "Mind Is God - Original Mix",
-      "url": "https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n"
+      "duration_ms": 243428,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Shroomeez",
+        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 390011,
+      "name": "You Wanna Stay",
+      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Other Days",
+        "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        }
+      ],
+      "duration_ms": 245357,
+      "name": "Other Days",
+      "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1571,18 +1571,22 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Altaria",
-        "url": "https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc"
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/5RsJYaaEgSqv7KbK81HDoe"
       },
       "artists": [
         {
-          "name": "Dimatik",
-          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+          "name": "Day Din",
+          "url": "https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9"
+        },
+        {
+          "name": "Gaudium",
+          "url": "https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg"
         }
       ],
-      "duration_ms": 167746,
-      "name": "Altaria",
-      "url": "https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1"
+      "duration_ms": 404317,
+      "name": "Parallels",
+      "url": "https://open.spotify.com/track/1yJ6dZFRecONfZHGnIrYru"
     }
   ],
   "unique_name": "Psytrance Supernova",

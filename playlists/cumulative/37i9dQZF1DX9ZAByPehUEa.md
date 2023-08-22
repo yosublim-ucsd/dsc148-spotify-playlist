@@ -4,7 +4,7 @@
 
 > A happy place.
 
-268 songs - 17 hr 50 min
+269 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Coming Up Roses](https://open.spotify.com/track/7EBehs3qQjeG9hZerhpNtz) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo), [BODEGA](https://open.spotify.com/artist/0WuGdzlwSCdaJyFHOTwaVN) | [Coming Up Roses](https://open.spotify.com/album/4kNmVBJ5VFP0ZXifQn1vfq) | 6:25 | 2022-01-14 | 2022-07-29 |
 | [Confrontations](https://open.spotify.com/track/0p1ijCxJxAmEUm9OfTM4mX) | [East Coast Love Affair](https://open.spotify.com/artist/0FKqQAbZijrpGaRw6PqDDI) | [Confrontations](https://open.spotify.com/album/2Q9h5oFtFuMJhWydJSbfW2) | 5:19 | 2022-01-14 | 2022-07-20 |
 | [D.I.S.C.O\. \- Edit](https://open.spotify.com/track/6tjYbiZ2wLgp33HMVxkJ9o) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Anima EP](https://open.spotify.com/album/3z33qPqbX0yY8b3PcVgzxu) | 4:05 | 2022-01-14 | 2022-06-19 |
-| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-03 |  |
+| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-03 | 2023-08-22 |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-06-09 |  |
 | [Delirio Italiano](https://open.spotify.com/track/5kir7rtYilOrOBCVIMMKRf) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Delirio Italiano](https://open.spotify.com/album/3t7vWxTyGnnkGTF5cI1Mw7) | 3:52 | 2022-04-06 | 2022-04-15 |
 | [Demba \- Demi Riquísimo Remix](https://open.spotify.com/track/5YWYvr0ecvcz9kYpYa7xID) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [Trio Da Kali](https://open.spotify.com/artist/1DGgYTjkEw1sxzCBcXqZU5) | [Demba \(Demi Riquísimo Remix\)](https://open.spotify.com/album/2dShxi3GCpUejK51c8dIDE) | 7:02 | 2022-01-14 | 2022-07-13 |
@@ -96,6 +96,7 @@
 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/track/1ftK0tLj4ZYKYxSzXk5Lpb) | [DJ Spiller](https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/774f2ASob19UJBVIrxNzg7) | 3:47 | 2023-02-06 | 2023-06-10 |
 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/track/5ydeCNaWDmFbu4zl0roPAH) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/20Q3pGpYiyicF32x5L8ppH) | 3:47 | 2022-01-14 | 2022-07-29 |
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2023-06-09 | 2023-08-21 |
+| [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-08-03 |  |
 | [Hard To Find \- Girls of the Internet Remix \- Short Edit](https://open.spotify.com/track/64GKXIMjQoBbbY6ZdxK0Gw) | [Tender Games](https://open.spotify.com/artist/0ZkJ54ZnjZt0ZuoQpXbR8U), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Hard To Find \(Girls of the Internet Remix\)](https://open.spotify.com/album/0fL5W0T0KqPiSZVyVcAghr) | 4:03 | 2022-01-14 | 2022-07-21 |
 | [Harmona](https://open.spotify.com/track/6LfwpTKbKLNFhdhV7lEj4e) | [Ichisan](https://open.spotify.com/artist/4ozivSEPMOBki3Z2JDGlIk) | [Harmona](https://open.spotify.com/album/0l9EF5o63OFmGQzFv2JnrD) | 5:33 | 2022-01-14 | 2022-07-25 |
 | [Heaven \(feat\. Andreya Triana\)](https://open.spotify.com/track/48IaMsfKVsZ35Wd6ic8zkl) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [The Vision](https://open.spotify.com/album/4LwHKIJOPTvnJ4lKXbKuwl) | 4:58 | 2022-01-14 | 2022-07-28 |

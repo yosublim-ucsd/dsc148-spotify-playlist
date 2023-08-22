@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439 likes - 148 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 441 likes - 149 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 38 | [Ponte Pa' Mí](https://open.spotify.com/track/4pro0Fful9k84YoIdfY6Ha) | [Benavides](https://open.spotify.com/artist/7dZHvdnkTQTXQIFQAQTd05), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Ponte Pa' Mí](https://open.spotify.com/album/7xQVG75jFT8Ux9SEqTCf4z) | 3:50 |
 | 39 | [Dueña De Mis Ojos \(Remix\)](https://open.spotify.com/track/58leE3SqJv2Ol8OYiKiSfS) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Me Gusta](https://open.spotify.com/album/4ANRnYE30UumUjxlvIHrzS) | 3:54 |
 | 40 | [Ataúd](https://open.spotify.com/track/6gKoVtvmjjPhoGic0ghCBY) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:55 |
-| 41 | [Así Eres Tú](https://open.spotify.com/track/12FxhcmUSxyyly0TRfivZr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:32 |
-| 42 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
+| 41 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
+| 42 | [Así Eres Tú](https://open.spotify.com/track/12FxhcmUSxyyly0TRfivZr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:32 |
 | 43 | [Conmigo](https://open.spotify.com/track/3iDYBd33V7Gkm0aaIaJMKm) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:20 |
 | 44 | [Bésame](https://open.spotify.com/track/1Hx3JQFvHI4xVviTQRTkCG) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Unicas](https://open.spotify.com/album/3nzHABbA7QQDfUHehHGn0s) | 3:44 |
 | 45 | [Me Acostumbré](https://open.spotify.com/track/5CwUFUPT1tUU8cGCSkOD1j) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:24 |
@@ -142,19 +142,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 132 | [Siempre Más \(Pode Acreditar\)](https://open.spotify.com/track/3QbriztLLCkrdYYszMg6Zg) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:39 |
 | 133 | [SOS \(SOS\)](https://open.spotify.com/track/7d7XiRp6pCmF5ROCYYbzyw) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:29 |
 | 134 | [Nube Pasajera \[Nuvem Passageira \(Tão Leve\)\]](https://open.spotify.com/track/0hCqaYcCtkCuncNv868W2j) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:49 |
-| 135 | [Vulnerable](https://open.spotify.com/track/0OEH8OEUisGGQYP40y02cz) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 4:02 |
-| 136 | [Efecto Secundario](https://open.spotify.com/track/1lr19xYTvsSH5Vf819bMAG) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 3:33 |
-| 137 | [Confusion](https://open.spotify.com/track/36pswvlcWQRiX3cLaxgQUp) | [Alejandro Jaen](https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu) | [Latidos](https://open.spotify.com/album/2eEuNELgeEZDmzynb9OhBN) | 4:17 |
-| 138 | [Tomame, Besame, Amame](https://open.spotify.com/track/0MuCmkO2mjCLraGKB5j3tQ) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:28 |
-| 139 | [No Se Vale](https://open.spotify.com/track/2DosHRGldnfvuXFoQYrSXV) | [Nell Valenti](https://open.spotify.com/artist/1VKyQ95e14RhR9pkuko3CA) | [Simple](https://open.spotify.com/album/6XYsyIvn46HTqX3JI92HJI) | 3:18 |
-| 140 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
-| 141 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
-| 142 | [Aunque Nunca Te Deje de Amar](https://open.spotify.com/track/4RguNxvswwwSyInENLnqsx) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:36 |
-| 143 | [Fiesta](https://open.spotify.com/track/1FX7bD1aTcY81PzAP9OyTf) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
-| 144 | [Dimelo Mi Amor](https://open.spotify.com/track/1WUmROl7NnLXEK6l4XM2eE) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:35 |
-| 145 | [Quien Lo Iba a Decir](https://open.spotify.com/track/2gjO4E64337KQHLhEh2uvv) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:39 |
-| 146 | [Sin Rumbo](https://open.spotify.com/track/6cNFdyjODCc2ooX7XyMAxt) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:30 |
+| 135 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
+| 136 | [Vulnerable](https://open.spotify.com/track/0OEH8OEUisGGQYP40y02cz) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 4:02 |
+| 137 | [Efecto Secundario](https://open.spotify.com/track/1lr19xYTvsSH5Vf819bMAG) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 3:33 |
+| 138 | [Confusion](https://open.spotify.com/track/36pswvlcWQRiX3cLaxgQUp) | [Alejandro Jaen](https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu) | [Latidos](https://open.spotify.com/album/2eEuNELgeEZDmzynb9OhBN) | 4:17 |
+| 139 | [Tomame, Besame, Amame](https://open.spotify.com/track/0MuCmkO2mjCLraGKB5j3tQ) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:28 |
+| 140 | [No Se Vale](https://open.spotify.com/track/2DosHRGldnfvuXFoQYrSXV) | [Nell Valenti](https://open.spotify.com/artist/1VKyQ95e14RhR9pkuko3CA) | [Simple](https://open.spotify.com/album/6XYsyIvn46HTqX3JI92HJI) | 3:18 |
+| 141 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
+| 142 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
+| 143 | [Aunque Nunca Te Deje de Amar](https://open.spotify.com/track/4RguNxvswwwSyInENLnqsx) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:36 |
+| 144 | [Fiesta](https://open.spotify.com/track/1FX7bD1aTcY81PzAP9OyTf) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
+| 145 | [Dimelo Mi Amor](https://open.spotify.com/track/1WUmROl7NnLXEK6l4XM2eE) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:35 |
+| 146 | [Quien Lo Iba a Decir](https://open.spotify.com/track/2gjO4E64337KQHLhEh2uvv) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:39 |
 | 147 | [A Donde Vas?](https://open.spotify.com/track/2hynyvo4Yrg7p28zFehp5t) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
 | 148 | [Se Me Fue](https://open.spotify.com/track/5CVi8yEadTLUL5qmHRjpaS) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:48 |
+| 149 | [Sin Rumbo](https://open.spotify.com/track/6cNFdyjODCc2ooX7XyMAxt) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:30 |
 
-Snapshot ID: `MjgyMDgyOTAsMDAwMDAwMDA3MmU4ZjQxMTg3ODFmYzk1ODRkODFlZjE3NjE3MzVjZg==`
+Snapshot ID: `MjgyMTExNzEsMDAwMDAwMDA3OTYzYjZlZDkzNjA2YWEwZjdhOWY1YjQxZDFlNWJhOA==`

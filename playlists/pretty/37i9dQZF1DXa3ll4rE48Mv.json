@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 160813,
+  "num_followers": 160939,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjU0ZjgxNzI1MTkzMTgwNmIxZDUxMzZkNzFkYjUyMGU0ZmZlMGI2",
+  "snapshot_id": "MCxkZDI1YjZhNjY5MGNkOWRjMWU5MDRlYmE4NTExOGMwYWQ5MzA1M2I3",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Fences",
-        "url": "https://open.spotify.com/album/64b3SlMzVbSWqcPTvBxWLW"
+        "name": "Bitchboy",
+        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
       },
       "artists": [
         {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
         }
       ],
-      "duration_ms": 238040,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/5BzxNPsMQhrRnwNRKyMNXB"
+      "duration_ms": 107162,
+      "name": "Bitchboy",
+      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Bitchboy",
-        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
+        "name": "Fences",
+        "url": "https://open.spotify.com/album/64b3SlMzVbSWqcPTvBxWLW"
       },
       "artists": [
         {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         }
       ],
-      "duration_ms": 107162,
-      "name": "Bitchboy",
-      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
+      "duration_ms": 238040,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/5BzxNPsMQhrRnwNRKyMNXB"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Make Yr Life",
+        "url": "https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ"
+      },
+      "artists": [
+        {
+          "name": "The Butchies",
+          "url": "https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "She's so Lovely",
+      "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Get Damaged",
         "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Get Awkward",
-        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
-      },
-      "artists": [
-        {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
-        }
-      ],
-      "duration_ms": 131226,
-      "name": "Heart Throb - Album Version (Edited)",
-      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Love Me Forever",
         "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
       },
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Get Awkward",
+        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 131226,
+      "name": "Heart Throb - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Sistahs",
         "url": "https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr"
       },
@@ -475,6 +491,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 196942,
+      "name": "the kids aren't alright",
+      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD"
       },
@@ -519,22 +551,6 @@
       "duration_ms": 91249,
       "name": "G.L.O.S.S. (We're from the Future)",
       "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 196942,
-      "name": "the kids aren't alright",
-      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "gasoline",
-        "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
-      },
-      "artists": [
-        {
-          "name": "Baby Guts",
-          "url": "https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR"
-        }
-      ],
-      "duration_ms": 114053,
-      "name": "Staplegun",
-      "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Grrrl Angst",
         "url": "https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 230350,
       "name": "Nvr Pass",
       "url": "https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "gasoline",
+        "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
+      },
+      "artists": [
+        {
+          "name": "Baby Guts",
+          "url": "https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR"
+        }
+      ],
+      "duration_ms": 114053,
+      "name": "Staplegun",
+      "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -795,22 +811,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Night in the Woods",
-        "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
-      },
-      "artists": [
-        {
-          "name": "Gender Chores",
-          "url": "https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Night in the Woods",
-      "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Dream Wife",
         "url": "https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 175760,
       "name": "Let's Make Out",
       "url": "https://open.spotify.com/track/3mTP21FXfGTeZsvyfhiVvO"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Night in the Woods",
+        "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
+      },
+      "artists": [
+        {
+          "name": "Gender Chores",
+          "url": "https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Night in the Woods",
+      "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -887,22 +903,6 @@
       "duration_ms": 197052,
       "name": "Tinder Girl",
       "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Make Yr Life",
-        "url": "https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ"
-      },
-      "artists": [
-        {
-          "name": "The Butchies",
-          "url": "https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "She's so Lovely",
-      "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Facades",
-        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
-      },
-      "artists": [
-        {
-          "name": "Limp Wrist",
-          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
-        }
-      ],
-      "duration_ms": 96051,
-      "name": "Thick Skin",
-      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Every Now and Then",
         "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
       },
@@ -1195,22 +1179,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Try to Be Hopeful",
-        "url": "https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc"
-      },
-      "artists": [
-        {
-          "name": "The Spook School",
-          "url": "https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Binary",
-      "url": "https://open.spotify.com/track/310OmUKAvBV8hHZQxXZsIu"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Home Recordings 2020 - 2021",
         "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
       },
@@ -1223,6 +1191,38 @@
       "duration_ms": 86842,
       "name": "Eden on Acid",
       "url": "https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Facades",
+        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
+      },
+      "artists": [
+        {
+          "name": "Limp Wrist",
+          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
+        }
+      ],
+      "duration_ms": 96051,
+      "name": "Thick Skin",
+      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Try to Be Hopeful",
+        "url": "https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc"
+      },
+      "artists": [
+        {
+          "name": "The Spook School",
+          "url": "https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Binary",
+      "url": "https://open.spotify.com/track/310OmUKAvBV8hHZQxXZsIu"
     },
     {
       "added_at": "2023-05-25 14:38:53",

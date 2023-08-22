@@ -1,13 +1,205 @@
 {
   "description": "<a href=\"spotify:artist:3NKVm2Jedcf6ibJr6pMUVx\">Jayda G</a>'s favorite tracks. Updated regularly. Curated by Jayda G. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 60704,
+  "num_followers": 60734,
   "original_name": "Jayda G's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWVlYzkzNzk2OTEwMjU2ZjE0ZDIzMjNkOWJmNjM5ZjMwNDExZjNm",
+  "snapshot_id": "MCw0ZDY2NzNiMGFmOWU0ZTcyNmEzY2IxMTUzMDJkNWVjOGM5NjRmMmZk",
   "tracks": [
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "Mood Hip Hop",
+        "url": "https://open.spotify.com/album/6Vl3983otD4dXStQMHVlPo"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 375600,
+      "name": "I Found My Smile Again",
+      "url": "https://open.spotify.com/track/5ctoE1eC1WgEacAPa6CoSC"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "Silence In The Secret Garden",
+        "url": "https://open.spotify.com/album/37z6C0yEkeOzbIYR17kRqg"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "People",
+      "url": "https://open.spotify.com/track/6XxJvG70zuktjFNyDxzLJ5"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "Renaissance the Classics",
+        "url": "https://open.spotify.com/album/5VfGdkkLQ3W46hDleZeu0v"
+      },
+      "artists": [
+        {
+          "name": "Clivill\u00e9s & Cole",
+          "url": "https://open.spotify.com/artist/1Pr4kwH4jQuyc6pZ83VsC0"
+        }
+      ],
+      "duration_ms": 724551,
+      "name": "A Deeper Love - A Deeper Love Mix",
+      "url": "https://open.spotify.com/track/2JfEU7FCnzZNO4hSykiNyA"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "Twice As Sweet",
+        "url": "https://open.spotify.com/album/1mcETo27dXibXub2zWh8LS"
+      },
+      "artists": [
+        {
+          "name": "A Taste Of Honey",
+          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Rescue Me - Remastered",
+      "url": "https://open.spotify.com/track/3Pz5n4OKelwY3xpmsLhMNe"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "Keep On Pushing",
+        "url": "https://open.spotify.com/album/0L1jTkX24GS4gHP4Silxr8"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "I've Been Trying",
+      "url": "https://open.spotify.com/track/7bjuTLzZ5fG4TRU8ZHWBOz"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "House Classics V (Presented by Harley & Muscle)",
+        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
+      },
+      "artists": [
+        {
+          "name": "LNR",
+          "url": "https://open.spotify.com/artist/0nKqFNALBpTYYDNzrC2LpI"
+        }
+      ],
+      "duration_ms": 339024,
+      "name": "Work It to the Bone",
+      "url": "https://open.spotify.com/track/7mH6hpO4UguvZPbrZhrYwR"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "Places And Spaces",
+        "url": "https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Places And Spaces",
+      "url": "https://open.spotify.com/track/1pYPgA8XdHFQS15HPB41MH"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "I Want You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/3sBIVm6KbaEbJHmPHfjc4w"
+      },
+      "artists": [
+        {
+          "name": "France Joli",
+          "url": "https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "Gonna Get Over You",
+      "url": "https://open.spotify.com/track/3Kbh7QUQvNEBVNB7xzVZJM"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "Who Dares To Believe In Me",
+        "url": "https://open.spotify.com/album/7l46E4hSynmCmaSnVmXHdT"
+      },
+      "artists": [
+        {
+          "name": "The Believers",
+          "url": "https://open.spotify.com/artist/32ZExi6NKMCjakKJ5GmDRP"
+        }
+      ],
+      "duration_ms": 491746,
+      "name": "Who Dares To Believe In Me?",
+      "url": "https://open.spotify.com/track/2orxZZBLXF40hyBDSqqEGb"
+    },
+    {
+      "added_at": "2023-08-21 10:00:00",
+      "album": {
+        "name": "I Surrender (Disco Soul Radio Mix)",
+        "url": "https://open.spotify.com/album/0OVzksUvoC6HwYGoBIxI7f"
+      },
+      "artists": [
+        {
+          "name": "Funk Deluxe",
+          "url": "https://open.spotify.com/artist/0vJpKzm0vaMfA2V9cnjt6G"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "I Surrender (Disco Soul Radio Mix)",
+      "url": "https://open.spotify.com/track/2NHue5cQJNV5xOSWvno8lh"
+    },
     {
       "added_at": "2023-04-11 14:06:38",
       "album": {
@@ -1171,134 +1363,6 @@
       "duration_ms": 252653,
       "name": "Last Night a D.J. Saved My Life",
       "url": "https://open.spotify.com/track/7dcs4YfIp7PDDw76rWja2t"
-    },
-    {
-      "added_at": "2023-04-11 14:06:38",
-      "album": {
-        "name": "Late Night Tales Presents After Dark: Nightshift",
-        "url": "https://open.spotify.com/album/5Ay42v6cmcNOQytd0c8qBb"
-      },
-      "artists": [
-        {
-          "name": "Mugwump",
-          "url": "https://open.spotify.com/artist/7JoP7BbbK8PXHxLO4Hd1dW"
-        },
-        {
-          "name": "Bill Brewster",
-          "url": "https://open.spotify.com/artist/01Hj5EQGynnrJncV7vhAyA"
-        }
-      ],
-      "duration_ms": 553386,
-      "name": "Boutade - Miseridub",
-      "url": "https://open.spotify.com/track/6Ju5IHiRn4InF2lu165HMo"
-    },
-    {
-      "added_at": "2023-04-11 14:06:38",
-      "album": {
-        "name": "You're My",
-        "url": "https://open.spotify.com/album/6AmBMZgibAEtlVawaio0G1"
-      },
-      "artists": [
-        {
-          "name": "Sticks & Stonez",
-          "url": "https://open.spotify.com/artist/4Jf1z5Lvop0Y5GmYjsqh1l"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 289923,
-      "name": "You're My",
-      "url": "https://open.spotify.com/track/5ulWUXo2mV3xy2PzzuVTuB"
-    },
-    {
-      "added_at": "2023-04-11 14:06:38",
-      "album": {
-        "name": "Golden Ladies Volume 1",
-        "url": "https://open.spotify.com/album/0QfKIzLUVszp5o7LH2jYZ6"
-      },
-      "artists": [
-        {
-          "name": "Lisa Fischer",
-          "url": "https://open.spotify.com/artist/75NLTo547GvC8W5gmRDLLn"
-        },
-        {
-          "name": "Elements Of Life",
-          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
-        },
-        {
-          "name": "Cindy Mizelle",
-          "url": "https://open.spotify.com/artist/3gyPrhQ5NNNl84banW4UZX"
-        }
-      ],
-      "duration_ms": 577488,
-      "name": "Into My Life (You Brought The Sunshine) - Main",
-      "url": "https://open.spotify.com/track/6vB5YllRE4l5jhWkhrRD18"
-    },
-    {
-      "added_at": "2023-04-11 14:06:38",
-      "album": {
-        "name": "Big Baby DRAM",
-        "url": "https://open.spotify.com/album/7CHEC1kVstFUDPTxB3Hz2V"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 353011,
-      "name": "Outta Sight / Dark Lavender Interlude",
-      "url": "https://open.spotify.com/track/3WsSVBM9oPmHlXjxKIKV59"
-    },
-    {
-      "added_at": "2023-04-11 14:06:38",
-      "album": {
-        "name": "Wrap Myself Up In Your Love",
-        "url": "https://open.spotify.com/album/2E8CiruRBvyHsIA88SPfht"
-      },
-      "artists": [
-        {
-          "name": "Jim Spencer",
-          "url": "https://open.spotify.com/artist/4eC6NhKPxEjd9a9vssqHz4"
-        }
-      ],
-      "duration_ms": 246160,
-      "name": "Wrap Myself Up in Your Love",
-      "url": "https://open.spotify.com/track/0KTXXNWZOVyibdEikDN88T"
-    },
-    {
-      "added_at": "2023-04-11 14:06:38",
-      "album": {
-        "name": "Bombers 2",
-        "url": "https://open.spotify.com/album/4uSDBHHQ4OiRTExvzQXXks"
-      },
-      "artists": [
-        {
-          "name": "Bombers",
-          "url": "https://open.spotify.com/artist/0B8DukBzbrLO5yDtRp8fBP"
-        }
-      ],
-      "duration_ms": 568600,
-      "name": "Everybody Get Dancin'",
-      "url": "https://open.spotify.com/track/3ZQcIJ9p2FW1f60tQarbOG"
-    },
-    {
-      "added_at": "2023-04-11 14:06:38",
-      "album": {
-        "name": "No Enemy",
-        "url": "https://open.spotify.com/album/5U5AZuUR3s4iHAKSaErCKH"
-      },
-      "artists": [
-        {
-          "name": "Animai",
-          "url": "https://open.spotify.com/artist/3rUghwDRUFMbgo2AOwvh2f"
-        }
-      ],
-      "duration_ms": 238100,
-      "name": "No Enemy",
-      "url": "https://open.spotify.com/track/7qgUf0BDgA9QilFOX1JbBA"
     }
   ],
   "unique_name": "Jayda G's track IDs",

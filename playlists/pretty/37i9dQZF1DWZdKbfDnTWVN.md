@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=LJke8bmwSjeu4whf3N\_9HA">Khaligraph Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,089 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,116 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [Pretty Overload](https://open.spotify.com/track/6a2WQeQHhW1xUiIjskV672) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Pretty Overload](https://open.spotify.com/album/2b03wQZzmqqtIcguqZfgqR) | 2:37 |
 | 60 | [Can't Explain](https://open.spotify.com/track/54JJgbC9WjqEEQukBlCJzh) | [Daney B](https://open.spotify.com/artist/6epD1176qeIbTNiB4Tx3dG) | [Can't Explain](https://open.spotify.com/album/3q3wWQdqqEycnfOowIkiej) | 2:48 |
 
-Snapshot ID: `MCw3ZTM0Y2E1Y2FhMDY2NjExNWQ0ZjMzY2VlYWVhNTNlNmI5NTk5ODU0`
+Snapshot ID: `MCw2NmYwZmE4NjEzZmQ2ZGUwMDkxOTFkZjZjODg2YzllNDExZTkwMjQz`

@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 69221,
+  "num_followers": 69262,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWZlNWQzNWQ4MjU0OWE2Y2Y0ZDY0YTczMzAxYTY3YjhiMjY0NjE1",
+  "snapshot_id": "MCw5ZmY2MWU3ZWM0YzJhZWUyZWRlYjY2NDc0ZGFhOTBjMDkxNDIxYjlj",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "30 Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "duration_ms": 146013,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Album de Oro",
         "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
       },
@@ -283,38 +299,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "25 Exitos Vol. 1 (USA)",
-        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "30 Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 146013,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 162920,
       "name": "Como Agua en las Manos",
       "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "25 Exitos Vol. 1 (USA)",
+        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "30 Mezcladitas de Oro para la Farra",
-        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
-      },
-      "artists": [
-        {
-          "name": "Los Lideres",
-          "url": "https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF"
-        }
-      ],
-      "duration_ms": 71893,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 229880,
       "name": "Encadenada A Mi - Cumbia",
       "url": "https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "30 Mezcladitas de Oro para la Farra",
+        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
+      },
+      "artists": [
+        {
+          "name": "Los Lideres",
+          "url": "https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF"
+        }
+      ],
+      "duration_ms": 71893,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Entre Nubes",
-        "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Mi Peque\u00f1o Amor",
-      "url": "https://open.spotify.com/track/44vo3BDIwGHl0oxr4m8bM1"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 187200,
       "name": "Matamoros Querido",
       "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Entre Nubes",
+        "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Mi Peque\u00f1o Amor",
+      "url": "https://open.spotify.com/track/44vo3BDIwGHl0oxr4m8bM1"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Exitos Para Amanecer Bailando",
-        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
-      },
-      "artists": [
-        {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
-        }
-      ],
-      "duration_ms": 124604,
-      "name": "El Pipiripau",
-      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Se Nos Paso La Mano En Sabor",
         "url": "https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "Exitos Para Amanecer Bailando",
+        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
+      },
+      "artists": [
+        {
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+        }
+      ],
+      "duration_ms": 124604,
+      "name": "El Pipiripau",
+      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
         "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 235240,
       "name": "Cari\u00f1ito Sin MI",
       "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Cumbias Con Amor",
-        "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
-      },
-      "artists": [
-        {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -663,6 +647,22 @@
       "duration_ms": 185115,
       "name": "Amor A\u00f1ejo",
       "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Cumbias Con Amor",
+        "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
+      },
+      "artists": [
+        {
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Mi Fantasia",
-        "url": "https://open.spotify.com/album/1adsPQiPWD6KU41u114eii"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Viva El Amor",
-      "url": "https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Amor Vendido, Vol. 4",
         "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 199807,
       "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
       "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Mi Fantasia",
+        "url": "https://open.spotify.com/album/1adsPQiPWD6KU41u114eii"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Viva El Amor",
+      "url": "https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "Ritmo, Sol y Arena",
+        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Acapulco Tropical",
+      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Eva Mar\u00eda",
         "url": "https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 171546,
       "name": "La Boa",
       "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Ritmo, Sol y Arena",
-        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Acapulco Tropical",
-      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Exitos Quemantes Vol. IV",
-        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
-      },
-      "artists": [
-        {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Quen Pompo",
         "url": "https://open.spotify.com/album/6ZXHFy31PiXJFufZzxfXFn"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 179762,
       "name": "El Viajecito",
       "url": "https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Exitos Quemantes Vol. IV",
+        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
-        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
-      },
-      "artists": [
-        {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Dejenla Que Baile",
-      "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -1019,38 +1003,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Cumbias Cumbias Cumbias",
-        "url": "https://open.spotify.com/album/6pJYj1JmkoLlDFNkF5WpN4"
+        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
+        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
       },
       "artists": [
         {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Sorbito De Champana",
-      "url": "https://open.spotify.com/track/1Oqe4XCDKIRS2eK4g5BQIj"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Disco De Oro - Cumbia",
-        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        },
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 180012,
-      "name": "Cumbia Barulera",
-      "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
+      "duration_ms": 177360,
+      "name": "Dejenla Que Baile",
+      "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1071,18 +1035,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Disco De Oro Sonidero",
-        "url": "https://open.spotify.com/album/7KLAFeMq5gDBHhl1mM8ur1"
+        "name": "Disco De Oro - Cumbia",
+        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
       "artists": [
         {
-          "name": "Danny Y Su Grupo",
-          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        },
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
         }
       ],
-      "duration_ms": 221610,
-      "name": "Cumbia De Los Patos",
-      "url": "https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso"
+      "duration_ms": 180012,
+      "name": "Cumbia Barulera",
+      "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1115,6 +1083,38 @@
       "duration_ms": 202292,
       "name": "La Colaless",
       "url": "https://open.spotify.com/track/4Ck9o9UueluPLXnLlasm4k"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Disco De Oro Sonidero",
+        "url": "https://open.spotify.com/album/7KLAFeMq5gDBHhl1mM8ur1"
+      },
+      "artists": [
+        {
+          "name": "Danny Y Su Grupo",
+          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
+        }
+      ],
+      "duration_ms": 221610,
+      "name": "Cumbia De Los Patos",
+      "url": "https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Cumbias Cumbias Cumbias",
+        "url": "https://open.spotify.com/album/6pJYj1JmkoLlDFNkF5WpN4"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Sorbito De Champana",
+      "url": "https://open.spotify.com/track/1Oqe4XCDKIRS2eK4g5BQIj"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Mis 14 Exitos De Oro",
-        "url": "https://open.spotify.com/album/0AzKda2rKGMlbWvwSBt1ln"
-      },
-      "artists": [
-        {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "La Hierba Se Mov\u00eda",
-      "url": "https://open.spotify.com/track/3gFAXop87ZB2sZZI6B59Vy"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Macumba",
         "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 164884,
       "name": "Macumba",
       "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ramirez y Sus Sonorritmicos",
+          "url": "https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Leticia",
+      "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "Mis 14 Exitos De Oro",
+        "url": "https://open.spotify.com/album/0AzKda2rKGMlbWvwSBt1ln"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "La Hierba Se Mov\u00eda",
+      "url": "https://open.spotify.com/track/3gFAXop87ZB2sZZI6B59Vy"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Ron Y Coca Cola",
         "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
       },
@@ -1267,38 +1283,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 163921,
-      "name": "Tibur\u00f3n A La Vista",
-      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ramirez y Sus Sonorritmicos",
-          "url": "https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Leticia",
-      "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "El Ritmo De Chico Che Y La Crisis",
         "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 150674,
       "name": "Donde Te Agarro el Temblor",
       "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 163921,
+      "name": "Tibur\u00f3n A La Vista",
+      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 172813,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Ni Juana la Cubana",
         "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 171746,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 172813,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Bueno Pa' Bailar",
-        "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 144323,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Antolog\u00eda...Los Sonor's",
         "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 172920,
       "name": "La feria de Cali",
       "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Bueno Pa' Bailar",
+        "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 144323,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Quiereme",
-        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Volvere",
-      "url": "https://open.spotify.com/track/53RPrPo2LlWeSo657i0W09"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "15 EXITOS",
         "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Coleccion De Oro Puro",
-        "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
+        "name": "Quiereme",
+        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
       },
       "artists": [
         {
-          "name": "La Luz Roja De San Marcos",
-          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 307880,
-      "name": "La Cumbia Sampuesana",
-      "url": "https://open.spotify.com/track/3R0b08CZgjbYhtF9PjMUbq"
+      "duration_ms": 209493,
+      "name": "Volvere",
+      "url": "https://open.spotify.com/track/53RPrPo2LlWeSo657i0W09"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "Coleccion De Oro Puro",
+        "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
+      },
+      "artists": [
+        {
+          "name": "La Luz Roja De San Marcos",
+          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "La Cumbia Sampuesana",
+      "url": "https://open.spotify.com/track/3R0b08CZgjbYhtF9PjMUbq"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Los Nenes con Los Nenes",
         "url": "https://open.spotify.com/album/3N8uklKicclGP85lgxYmDw"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 161985,
       "name": "Los Nenes Con los Nenes",
       "url": "https://open.spotify.com/track/6naFSjDQESFuw9Hv7v2ZOd"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "20 Exitos Historia Musical",
-        "url": "https://open.spotify.com/album/0DylSKswghS7tyMd8ES5SB"
-      },
-      "artists": [
-        {
-          "name": "Renacimiento 74",
-          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "La Guera Gringa",
-      "url": "https://open.spotify.com/track/6lLekYXNTMHtuu9HQBf9DA"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1615,6 +1599,22 @@
       "duration_ms": 98092,
       "name": "Quiero Amanecer",
       "url": "https://open.spotify.com/track/1yhoppn03RhuWge08NDqKR"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Cancioneros",
+        "url": "https://open.spotify.com/album/7HANWrwLu6jfqJJsPWKimY"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Retrato Hablado",
+      "url": "https://open.spotify.com/track/2sizo5xV3vWF9oDaZbwJ9s"
     }
   ],
   "unique_name": "Acapulco en la Azotea",

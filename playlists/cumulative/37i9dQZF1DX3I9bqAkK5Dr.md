@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-140 songs - 8 hr 30 min
+141 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/4vFm3dGHcpeuBAcn0mCNyi) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/2XDzMJ73yjD3ffYyWCGcbP) | 3:13 | 2022-07-18 |  |
 | [Oh Cheli](https://open.spotify.com/track/7xQuTzWxHFncW6mBEvXegI) | [Praneeth Muzic](https://open.spotify.com/artist/4fJQkBLnzJM725l64C07Bh), [Kavya Chandana](https://open.spotify.com/artist/742OuEIIrGCAVqVD4SX2YE), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Oh Cheli](https://open.spotify.com/album/2of8a03mnIa3LQo9hptHoM) | 3:36 | 2023-05-16 | 2023-05-26 |
 | [Oh Chitti](https://open.spotify.com/track/4CHbfbxAvRSowI8Xy0zraI) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Oh Chitti](https://open.spotify.com/album/115UcJEPH2enKkLLLpgSny) | 3:13 | 2022-07-27 | 2023-05-23 |
-| [Ontari](https://open.spotify.com/track/6LpMArM5X2QCE12ZOPUsJZ) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Ontari](https://open.spotify.com/album/7sz6bNnzgEIdHwPX9uI94Y) | 3:08 | 2023-07-27 |  |
+| [Ontari](https://open.spotify.com/track/6LpMArM5X2QCE12ZOPUsJZ) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Ontari](https://open.spotify.com/album/7sz6bNnzgEIdHwPX9uI94Y) | 3:08 | 2023-07-27 | 2023-08-22 |
 | [Oohale Oosule](https://open.spotify.com/track/4lyl9K1D7syj1d0LL8nNGA) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Oohale Oosule](https://open.spotify.com/album/5p50H6A7erX9LKav26JdaF) | 2:51 | 2023-02-14 |  |
 | [Oopiriga](https://open.spotify.com/track/52E72LjUNeAmAmSUapKTZ0) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Oopiriga](https://open.spotify.com/album/4egLenJbozGwmXp5MomLqR) | 4:28 | 2023-06-04 |  |
 | [Oorelipota Mama](https://open.spotify.com/track/3lQCnKafxZtct8QfsG6jog) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Oorellipota Mama](https://open.spotify.com/album/5WEUFAOSi07U29RKWNsKG9) | 2:46 | 2022-07-18 |  |
@@ -113,6 +113,7 @@
 | [Podhe Vallipothunde](https://open.spotify.com/track/1ARdPomFAk2WwsauwNFw7t) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Podhe Vallipothunde](https://open.spotify.com/album/5IS01NVb2O8VRO1roXOleu) | 3:21 | 2023-07-08 | 2023-08-19 |
 | [Pogachure](https://open.spotify.com/track/0pBh8kUlaRDWFxl8E88ozl) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [Pogachure](https://open.spotify.com/album/1C5OW4HkbAZWLvYhFpctzd) | 4:04 | 2023-08-18 |  |
 | [Poovanti Andham](https://open.spotify.com/track/012VlQmlFXaSFhiAtzVZCW) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Poovanti Andham](https://open.spotify.com/album/5V1m9SYh8IiBJIO2qdAzI1) | 3:32 | 2023-03-13 |  |
+| [Prasthanam](https://open.spotify.com/track/20aEMdNcA7b4m8Xr2gLadc) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:56 | 2023-08-21 |  |
 | [Prema Prema](https://open.spotify.com/track/5OvIL2IyH3L8AHCRAdQCIm) | [Jagadish Kommuri](https://open.spotify.com/artist/5uj0ZzEL7EUZ3wEgfubrzq) | [Prema Prema](https://open.spotify.com/album/0M3qDZEGKDLKwQANc1KblL) | 4:32 | 2023-02-03 | 2023-06-21 |
 | [Premaga](https://open.spotify.com/track/1baUONzJFIOvHjj9wYPXTm) | [Varun Raghavan](https://open.spotify.com/artist/4NkVbFtRfMRioCkzZ6gg2C), [Neha Venugopal](https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz) | [Premaga](https://open.spotify.com/album/03K7rbDgmaJmCflM6BzkrS) | 2:58 | 2023-05-02 |  |
 | [Priya](https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Priya](https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu) | 3:15 | 2023-06-26 | 2023-07-25 |

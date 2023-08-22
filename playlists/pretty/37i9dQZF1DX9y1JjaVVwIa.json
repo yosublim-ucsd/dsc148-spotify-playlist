@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmI0Mzc0MDEzYjA4YzdkMDY0YTQ3MDQzODk0NTk0NzdkNTY3MzBj",
+  "snapshot_id": "MCxlYmY0N2NlNDBjZTM3MTVhYWYyMjU3OGQyZWY0ZTg2ZjJhN2JlNjBk",
   "tracks": [
     {
       "added_at": "2022-08-13 03:00:56",
@@ -143,22 +143,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Caribe Express",
-        "url": "https://open.spotify.com/album/4ab1kveCYeqKhuhYwX17P8"
+        "name": "En Cantos",
+        "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
       },
       "artists": [
         {
-          "name": "Diego Raposo",
-          "url": "https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         },
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7wGtDLvDRGllVRX01cj9Ml"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 181280,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa"
+      "duration_ms": 212957,
+      "name": "En Cantos",
+      "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -199,38 +199,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "En Cantos",
-        "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
+        "name": "Caribe Express",
+        "url": "https://open.spotify.com/album/4ab1kveCYeqKhuhYwX17P8"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Diego Raposo",
+          "url": "https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7wGtDLvDRGllVRX01cj9Ml"
         }
       ],
-      "duration_ms": 212957,
-      "name": "En Cantos",
-      "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "Cool Down (Ice Cream Donut)",
-        "url": "https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te"
-      },
-      "artists": [
-        {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
-        }
-      ],
-      "duration_ms": 222990,
-      "name": "Cool Down (Ice Cream Donut)",
-      "url": "https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp"
+      "duration_ms": 181280,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -247,6 +231,22 @@
       "duration_ms": 184391,
       "name": "Nunca Paran",
       "url": "https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Cool Down (Ice Cream Donut)",
+        "url": "https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te"
+      },
+      "artists": [
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        }
+      ],
+      "duration_ms": 222990,
+      "name": "Cool Down (Ice Cream Donut)",
+      "url": "https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "El Pozo",
         "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Miss Universos",
-        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Desastre Comunal",
-      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp"
       },
@@ -351,38 +351,6 @@
       "duration_ms": 152639,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "Mundos",
-        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Agua Que Quema",
-      "url": "https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "At 333 House",
-        "url": "https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "Babylon Will Fall",
-      "url": "https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -407,34 +375,34 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+        "name": "At 333 House",
+        "url": "https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         }
       ],
-      "duration_ms": 171807,
-      "name": "NTE",
-      "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
+      "duration_ms": 186800,
+      "name": "Babylon Will Fall",
+      "url": "https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI"
     },
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+        "name": "Mundos",
+        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 187430,
-      "name": "\u00d1e \u00d1e \u00d1\u00e9",
-      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
+      "duration_ms": 199200,
+      "name": "Agua Que Quema",
+      "url": "https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -455,22 +423,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Dos amores",
-        "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
       "artists": [
         {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        },
-        {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 202951,
-      "name": "Dos amores",
-      "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -495,18 +459,38 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 248371,
-      "name": "M\u00e9tele",
-      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
+      "duration_ms": 187430,
+      "name": "\u00d1e \u00d1e \u00d1\u00e9",
+      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Dos amores",
+        "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        },
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        }
+      ],
+      "duration_ms": 202951,
+      "name": "Dos amores",
+      "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -543,34 +527,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Te Crees T\u00fa",
-        "url": "https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd"
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
       },
       "artists": [
         {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 212443,
-      "name": "Te Crees T\u00fa",
-      "url": "https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "El arca de Mima",
-        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 262318,
-      "name": "El arca de Mima",
-      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
+      "duration_ms": 248371,
+      "name": "M\u00e9tele",
+      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -591,6 +559,22 @@
       "duration_ms": 345400,
       "name": "Pasame a buca",
       "url": "https://open.spotify.com/track/60EESpZTd9pRPhXfRIo2h6"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Te Crees T\u00fa",
+        "url": "https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd"
+      },
+      "artists": [
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        }
+      ],
+      "duration_ms": 212443,
+      "name": "Te Crees T\u00fa",
+      "url": "https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -643,6 +627,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "El arca de Mima",
+        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 262318,
+      "name": "El arca de Mima",
+      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "Turista",
         "url": "https://open.spotify.com/album/5lps6A6YGtWDYgZ1X1SgbK"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 294192,
       "name": "Naturaleza Humana (feat. Raquel Berr\u00edos)",
       "url": "https://open.spotify.com/track/37WN9UzPLFYFpoP1AxXlmu"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 365146,
-      "name": "La Princesa",
-      "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -699,6 +683,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "No le de t\u00f3",
+        "url": "https://open.spotify.com/album/4F1aR4ERzltYUOOnoU7T0r"
+      },
+      "artists": [
+        {
+          "name": "NIKOLA",
+          "url": "https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk"
+        }
+      ],
+      "duration_ms": 264867,
+      "name": "No le de t\u00f3",
+      "url": "https://open.spotify.com/track/46gUBj8C01B7vWo7cpU9OQ"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "Mandinga Times",
         "url": "https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "No le de t\u00f3",
-        "url": "https://open.spotify.com/album/4F1aR4ERzltYUOOnoU7T0r"
+        "name": "No Se Puede Apagar",
+        "url": "https://open.spotify.com/album/43TL4TcOE1GvuBchmIp70C"
       },
       "artists": [
         {
-          "name": "NIKOLA",
-          "url": "https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk"
+          "name": "La Marimba",
+          "url": "https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx"
         }
       ],
-      "duration_ms": 264867,
-      "name": "No le de t\u00f3",
-      "url": "https://open.spotify.com/track/46gUBj8C01B7vWo7cpU9OQ"
+      "duration_ms": 226500,
+      "name": "No Se Puede Apagar",
+      "url": "https://open.spotify.com/track/6efFBz9FKFwz4Ma1bL4igt"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "No Se Puede Apagar",
-        "url": "https://open.spotify.com/album/43TL4TcOE1GvuBchmIp70C"
-      },
-      "artists": [
-        {
-          "name": "La Marimba",
-          "url": "https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "No Se Puede Apagar",
-      "url": "https://open.spotify.com/track/6efFBz9FKFwz4Ma1bL4igt"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "No la Controles",
         "url": "https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 205114,
       "name": "No la Controles",
       "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 365146,
+      "name": "La Princesa",
+      "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
     },
     {
       "added_at": "2022-08-13 03:00:56",

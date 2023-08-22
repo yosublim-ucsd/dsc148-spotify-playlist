@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: PaulWetz
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,970 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,070 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Da für dich](https://open.spotify.com/track/5YP1scuRzU6LOgj7u1rnvt) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Da für dich](https://open.spotify.com/album/26JCG4Lq0kTAlmVOu6OBqt) | 3:16 |
-| 2 | [Paris Paris](https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Paris Paris](https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD) | 2:56 |
+| 1 | [Paris Paris](https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Paris Paris](https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD) | 2:56 |
+| 2 | [Da für dich](https://open.spotify.com/track/5YP1scuRzU6LOgj7u1rnvt) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Da für dich](https://open.spotify.com/album/26JCG4Lq0kTAlmVOu6OBqt) | 3:16 |
 | 3 | [Stadtlabyrinth](https://open.spotify.com/track/0omb0by6wm45ijnQCXgCxn) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [Stadtlabyrinth](https://open.spotify.com/album/1mKhLj2jcTu29yJdCA2zBv) | 2:48 |
 | 4 | [rosa rugosa](https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08) | 2:16 |
 | 5 | [Gaga Baby](https://open.spotify.com/track/5pAZ7fEX5vA9IACYGDHFA8) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Gaga Baby](https://open.spotify.com/album/5TO2MJSSuOZXqIQxevLhZA) | 2:29 |
-| 6 | [Königin der Nacht](https://open.spotify.com/track/27cs61wZgDAgKUVznXlTnm) | [Sam James](https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy) | [Königin der Nacht](https://open.spotify.com/album/1IlrO1vexqP55HwH78rsM8) | 2:27 |
-| 7 | [Moment](https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Moment](https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW) | 2:43 |
-| 8 | [1996](https://open.spotify.com/track/6qkWqGP2McFW7HCo43QqQc) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt) | [1996](https://open.spotify.com/album/5H7rYopIRRjHTfzJDTSuQq) | 2:43 |
-| 9 | [Sekundenschlaf](https://open.spotify.com/track/3nGHhdwp64mgOW4bOIjzZ2) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/7vSpIPqyUwujwf3PxJmWtR) | 2:33 |
-| 10 | [Nie mehr weg](https://open.spotify.com/track/5qR2DOSkZufXivgcLTgbzR) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Nie mehr weg](https://open.spotify.com/album/7k9BKJcvvcf6WWOFVdyC4f) | 2:42 |
-| 11 | [boys don’t cry](https://open.spotify.com/track/4D7gB2zqGluW3P4hU8WIEu) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [boys don’t cry](https://open.spotify.com/album/4UDlvkucIuKcxmYhExbCwL) | 2:55 |
-| 12 | [Egoist](https://open.spotify.com/track/1I9Pfp7ME8LRDuarPaBz3H) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Egoist](https://open.spotify.com/album/6cLgeh84azkbBltd6ZOw7S) | 3:18 |
-| 13 | [Schrei Es Raus](https://open.spotify.com/track/0RV3WPpJxwxce4X5cN11V2) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Schrei Es Raus](https://open.spotify.com/album/5SLzzCL9Cse7Mo2crW0gk3) | 2:33 |
-| 14 | [sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht](https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP) | 2:15 |
-| 15 | [Hallo](https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Hallo](https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u) | 2:00 |
-| 16 | [schwarzes wasser](https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [schwarzes wasser](https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe) | 2:37 |
+| 6 | [Moment](https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Moment](https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW) | 2:43 |
+| 7 | [Königin der Nacht](https://open.spotify.com/track/27cs61wZgDAgKUVznXlTnm) | [Sam James](https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy) | [Königin der Nacht](https://open.spotify.com/album/1IlrO1vexqP55HwH78rsM8) | 2:27 |
+| 8 | [Sekundenschlaf](https://open.spotify.com/track/3nGHhdwp64mgOW4bOIjzZ2) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/7vSpIPqyUwujwf3PxJmWtR) | 2:33 |
+| 9 | [Nie mehr weg](https://open.spotify.com/track/5qR2DOSkZufXivgcLTgbzR) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Nie mehr weg](https://open.spotify.com/album/7k9BKJcvvcf6WWOFVdyC4f) | 2:42 |
+| 10 | [schwarzes wasser](https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [schwarzes wasser](https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe) | 2:37 |
+| 11 | [1996](https://open.spotify.com/track/6qkWqGP2McFW7HCo43QqQc) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt) | [1996](https://open.spotify.com/album/5H7rYopIRRjHTfzJDTSuQq) | 2:43 |
+| 12 | [boys don’t cry](https://open.spotify.com/track/4D7gB2zqGluW3P4hU8WIEu) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [boys don’t cry](https://open.spotify.com/album/4UDlvkucIuKcxmYhExbCwL) | 2:55 |
+| 13 | [Egoist](https://open.spotify.com/track/1I9Pfp7ME8LRDuarPaBz3H) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Egoist](https://open.spotify.com/album/6cLgeh84azkbBltd6ZOw7S) | 3:18 |
+| 14 | [Schrei Es Raus](https://open.spotify.com/track/0RV3WPpJxwxce4X5cN11V2) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Schrei Es Raus](https://open.spotify.com/album/5SLzzCL9Cse7Mo2crW0gk3) | 2:33 |
+| 15 | [sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht](https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP) | 2:15 |
+| 16 | [Hallo](https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Hallo](https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u) | 2:00 |
 | 17 | [Tanz In Deiner Wohnung](https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tanz In Deiner Wohnung](https://open.spotify.com/album/4yzLVO788gfMjTO43aX3ws) | 3:04 |
 | 18 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 |
 | 19 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Tempelhof](https://open.spotify.com/track/2uVRcTm8tjQntOYcyr60J1) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Tempelhof](https://open.spotify.com/album/2rvobaAp5tVDQEi63ukyEE) | 2:53 |
 | 75 | [Warum so kalt](https://open.spotify.com/track/0ax4fascbiYqqAk1RJUk2p) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Eine kleine EP about kälte and the heat](https://open.spotify.com/album/0ZtSHFfLpT8HmkiHi2kwup) | 3:10 |
 
-Snapshot ID: `MCwwZTk5ZDg4N2Q4YjI3NjhmNWUwNjllOTA5Y2E3Y2EwZWJmYTQ2YjUy`
+Snapshot ID: `MCxiODlkYmIyNmYyYjIxZmQwZDZkMGIyMmFmYmFjZTgxNTM4ZWQ5YmY1`

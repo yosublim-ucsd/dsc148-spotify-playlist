@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Azure Forest",
+        "url": "https://open.spotify.com/album/49rSBvAzxJoHaZsyYZwzvT"
+      },
+      "artists": [
+        {
+          "name": "Reitius Rex",
+          "url": "https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Azure Forest",
+      "url": "https://open.spotify.com/track/1rvwqBmjavA93zziLEb2pP"
+    },
+    {
+      "album": {
         "name": "In The Forest",
         "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 218874,
       "name": "Bel Flusso",
       "url": "https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD"
@@ -272,6 +290,24 @@
       "duration_ms": 203116,
       "name": "Calling",
       "url": "https://open.spotify.com/track/7KooASXXdp3fKGWGbp7CBE"
+    },
+    {
+      "album": {
+        "name": "Calm ripples",
+        "url": "https://open.spotify.com/album/6vT4XJuA1Nho9EM1NltcrO"
+      },
+      "artists": [
+        {
+          "name": "Korey Banks",
+          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122875,
+      "name": "Calm ripples",
+      "url": "https://open.spotify.com/track/11J8sTGpRU5KCKGhJhEN2c"
     },
     {
       "album": {
@@ -923,6 +959,24 @@
     },
     {
       "album": {
+        "name": "I Wished for You",
+        "url": "https://open.spotify.com/album/6OpkS4EwZMyuck7dHCk2i5"
+      },
+      "artists": [
+        {
+          "name": "Ultimate Sleep",
+          "url": "https://open.spotify.com/artist/7cyxs5oGazdrN6uuMZgf2N"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "I Wished for You",
+      "url": "https://open.spotify.com/track/4IGYzg1WFyWd4HKekdvMhr"
+    },
+    {
+      "album": {
         "name": "Incubations",
         "url": "https://open.spotify.com/album/3PLtwNgWWjOPHlExuhvbvh"
       },
@@ -977,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Jangal",
+        "url": "https://open.spotify.com/album/6DbllMEJuZiMW3IyflkbFx"
+      },
+      "artists": [
+        {
+          "name": "Ka Wadhwa",
+          "url": "https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Jangal",
+      "url": "https://open.spotify.com/track/2WpxMJwXbM0iQnSozptqy4"
+    },
+    {
+      "album": {
         "name": "Jours Heureux",
         "url": "https://open.spotify.com/album/1xOB5BZcjqUybxX8fnt2HZ"
       },
@@ -1010,6 +1082,24 @@
       "duration_ms": 178206,
       "name": "La Pierre Dans La For\u00eat",
       "url": "https://open.spotify.com/track/2X0aqBtMYaa1r4aetK6lZ7"
+    },
+    {
+      "album": {
+        "name": "Les Libellules",
+        "url": "https://open.spotify.com/album/62R6Thazo98l06eSKJNyb5"
+      },
+      "artists": [
+        {
+          "name": "Pontus De Bjorn",
+          "url": "https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "Les Libellules",
+      "url": "https://open.spotify.com/track/36DjMBaYlhhPHFH2FzaUet"
     },
     {
       "album": {
@@ -1118,6 +1208,24 @@
       "duration_ms": 122694,
       "name": "Masterwort",
       "url": "https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA"
+    },
+    {
+      "album": {
+        "name": "Meadow of harmony",
+        "url": "https://open.spotify.com/album/32ohvjJgkArfnjwL5HroVL"
+      },
+      "artists": [
+        {
+          "name": "Fables From Mars",
+          "url": "https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178874,
+      "name": "Meadow of harmony",
+      "url": "https://open.spotify.com/track/6dPDvAMMANuz8UgPOhxylG"
     },
     {
       "album": {
@@ -1636,7 +1744,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 244858,
       "name": "Practicing Zen",
       "url": "https://open.spotify.com/track/29rvpxK8xiy7ojQvtnrGPd"
@@ -1694,6 +1802,24 @@
       "duration_ms": 122293,
       "name": "Quiet Stars",
       "url": "https://open.spotify.com/track/7h3QYG1cPw7onxrDxnaYEI"
+    },
+    {
+      "album": {
+        "name": "Remedies",
+        "url": "https://open.spotify.com/album/0RUb59n7DB8CbRluAPtbUo"
+      },
+      "artists": [
+        {
+          "name": "Nolene Britton",
+          "url": "https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160988,
+      "name": "Remedies",
+      "url": "https://open.spotify.com/track/3l33BD42cOR4aOFI9PTPQs"
     },
     {
       "album": {
@@ -2238,6 +2364,24 @@
       "duration_ms": 158250,
       "name": "Unit\u00e9",
       "url": "https://open.spotify.com/track/1XNuWRKQ8EoadsOq0nGtuI"
+    },
+    {
+      "album": {
+        "name": "Upstream",
+        "url": "https://open.spotify.com/album/2PLOlM8ygtam36gb7MOYMI"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "Upstream",
+      "url": "https://open.spotify.com/track/2AczRHkxLS55yTDtyy5Hrr"
     },
     {
       "album": {

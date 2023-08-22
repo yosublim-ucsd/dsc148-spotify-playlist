@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102258,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
+    },
+    {
+      "album": {
         "name": "Pool Kids",
         "url": "https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb"
       },
@@ -985,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "If You're Lonely",
+        "url": "https://open.spotify.com/album/4SkQufb5RDhqYDAglH45fz"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244875,
+      "name": "If You're Lonely",
+      "url": "https://open.spotify.com/track/6920SXezNpgmwSifVJkOXM"
+    },
+    {
+      "album": {
         "name": "Exercise Your Demons",
         "url": "https://open.spotify.com/album/04jIk2Sa4YDalTLQ9IGIyF"
       },
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 187083,
       "name": "Kathryn",
       "url": "https://open.spotify.com/track/5mtR7DgaGittrloNzPIVw2"
@@ -1104,7 +1140,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 207000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/7M68k5EAqfS2iPkGJjLoYl"
@@ -1248,7 +1284,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 187659,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/2PtUBYpj5WHsmlzLxTQslG"
@@ -1468,6 +1504,24 @@
       "duration_ms": 225962,
       "name": "Opossum! My Possum!",
       "url": "https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly"
+    },
+    {
+      "album": {
+        "name": "Southeast of Somewhere",
+        "url": "https://open.spotify.com/album/37BQtdBN3a84zmgvepx64v"
+      },
+      "artists": [
+        {
+          "name": "Kerosene Heights",
+          "url": "https://open.spotify.com/artist/0D4NkuZAkjfdm5clMtYYrz"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190730,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/7wXQGcvxWxRNudVjWYAs9t"
     },
     {
       "album": {

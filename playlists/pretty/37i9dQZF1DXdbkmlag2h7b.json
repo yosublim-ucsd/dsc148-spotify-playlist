@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 634749,
+  "num_followers": 634755,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDBjZmFkZWQwMjA4YWFlZTE0MmFhZTlkZmJkNmZhMmVmNWZlOTRh",
+  "snapshot_id": "MCw5MmVhY2FkM2M1MGZjMjE3NDEzYTI0ZjFhMDA1NTFmZTk3MWJmZmM2",
   "tracks": [
     {
       "added_at": "2023-08-18 14:32:56",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Intrinsic Silence",
-        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
-      },
-      "artists": [
-        {
-          "name": "Hatha Priya",
-          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
-        }
-      ],
-      "duration_ms": 164017,
-      "name": "Intrinsic Silence",
-      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
+        "name": "Intrinsic Silence",
+        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
+      },
+      "artists": [
+        {
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+        }
+      ],
+      "duration_ms": 164017,
+      "name": "Intrinsic Silence",
+      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
         "name": "Even Silence",
         "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "The Unforgetting Heart",
-        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
-      },
-      "artists": [
-        {
-          "name": "Michael Hopp\u00e9",
-          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Sweven",
         "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 193500,
       "name": "Sweven",
       "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
+      },
+      "artists": [
+        {
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
-      },
-      "artists": [
-        {
-          "name": "They Dream By Day",
-          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
-        }
-      ],
-      "duration_ms": 134210,
-      "name": "We Are Forever",
-      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 162857,
       "name": "Nebulae",
       "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
+      },
+      "artists": [
+        {
+          "name": "They Dream By Day",
+          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
+        }
+      ],
+      "duration_ms": 134210,
+      "name": "We Are Forever",
+      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "The Seasons",
-        "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
-      },
-      "artists": [
-        {
-          "name": "Hans Wolfgang Ziegler",
-          "url": "https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m"
-        }
-      ],
-      "duration_ms": 137796,
-      "name": "Sunny & Cloudy",
-      "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
-    },
-    {
-      "added_at": "2023-08-18 14:32:56",
-      "album": {
         "name": "Inch Of You",
         "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 147299,
       "name": "Backwaters",
       "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
+    },
+    {
+      "added_at": "2023-08-18 14:32:56",
+      "album": {
+        "name": "The Seasons",
+        "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
+      },
+      "artists": [
+        {
+          "name": "Hans Wolfgang Ziegler",
+          "url": "https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m"
+        }
+      ],
+      "duration_ms": 137796,
+      "name": "Sunny & Cloudy",
+      "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
     },
     {
       "added_at": "2023-08-18 14:32:56",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-08-18 14:32:56",
       "album": {
-        "name": "Purity 432hz",
-        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
+        "name": "Aion",
+        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
       },
       "artists": [
         {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+          "name": "Kolorascze",
+          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Purity 432hz",
-      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
+      "duration_ms": 124212,
+      "name": "Aion",
+      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
     }
   ],
   "unique_name": "DayDreamer",

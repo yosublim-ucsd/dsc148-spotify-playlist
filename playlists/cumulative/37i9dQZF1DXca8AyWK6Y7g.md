@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Sabrina Carpenter
 
-1,766 songs - 3 day 17 hr 31 min
+1,767 songs - 3 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Black Coffee](https://open.spotify.com/track/67aZdAS6doqinEJfperUnH) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee](https://open.spotify.com/album/2HJ6fPTZHFuiSxWDGPTKo3) | 2:24 | 2021-04-22 | 2021-11-20 |
 | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/track/1kOzY6GwBam1lTWxD7OloO) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo), [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0KONPUiVqapPUbrdYSsGvV) | 2:24 | 2021-08-17 | 2021-11-17 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-05-15 | 2022-06-07 |
-| [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 |  |
+| [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 | 2023-08-22 |
 | [Blame](https://open.spotify.com/track/3wEQw2wqcsWe5l798FwSMB) | [Cassette Tapes](https://open.spotify.com/artist/720HJ3Ql6chO1V56okaUSV) | [Blame](https://open.spotify.com/album/5eDnp1dBimNzEDNCrPzEqo) | 2:46 | 2019-09-06 | 2020-04-18 |
 | [Blame The Brakes](https://open.spotify.com/track/4ZoPMviImcYNDNz6NEuDHm) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blame The Brakes](https://open.spotify.com/album/0jGU8t3SZvyiNgu02pInoo) | 3:26 | 2022-09-30 | 2022-10-16 |
 | [Blank Me](https://open.spotify.com/track/4GykOaWBJPS647ewLtyrCh) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blank Me](https://open.spotify.com/album/7na6EPTI7sIHutOQfJNXev) | 3:58 | 2021-12-03 | 2022-01-29 |
@@ -456,6 +456,7 @@
 | [Easy](https://open.spotify.com/track/7lWbWrW0wV4MB3zo06FkyX) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Easy](https://open.spotify.com/album/6JczK0jnk2LWuHSzwmHcRi) | 3:04 | 2019-05-26\* | 2019-06-15 |
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2021-07-27 | 2022-08-27 |
 | [Ego](https://open.spotify.com/track/3kIxJRNIMm4DloyrvHcEi0) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Ego](https://open.spotify.com/album/0KTGSU65HhjnHxsQqxN1eE) | 2:42 | 2019-05-26\* | 2019-08-13 |
+| [Eightball Girl](https://open.spotify.com/track/1TBTrssuZFzXXpK3OJk5m3) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Eightball Girl](https://open.spotify.com/album/6IJarp7jqTQ8u7tus5bYBu) | 3:11 | 2023-08-18 |  |
 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 | 2023-04-07 | 2023-04-23 |
 | [either way](https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [either way](https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr) | 3:00 | 2021-11-05 | 2022-07-16 |
 | [Elephants](https://open.spotify.com/track/0cQBcNfHjRQ6lP1yQFGsjL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Elephants](https://open.spotify.com/album/0lsGEjeoUpw5bhjbloBqaa) | 2:31 | 2019-05-26\* | 2019-08-13 |

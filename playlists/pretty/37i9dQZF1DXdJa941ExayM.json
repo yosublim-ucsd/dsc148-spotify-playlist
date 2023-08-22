@@ -1,12 +1,12 @@
 {
   "description": "maybe it's punk, maybe it's not. Cover: FEVER 333",
-  "num_followers": 210484,
+  "num_followers": 210557,
   "original_name": "unleashed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODhjM2RjNGU2MzZhOTI5ZjZjMzBjNmM1NWQ1NjM5ZGJhZmRkYTM5",
+  "snapshot_id": "MCw3ZmY4Njc0YzViNDJhNDYxNjdkN2Y3NmZhNTBhMGM4ODUxMTZmNmJm",
   "tracks": [
     {
       "added_at": "2023-06-02 15:50:28",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Doritos & Fritos",
-      "url": "https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "MENTHOL*",
         "url": "https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf"
       },
@@ -147,22 +131,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Hate.",
-        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Hate.",
-      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "$wing",
         "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
       },
@@ -175,6 +143,38 @@
       "duration_ms": 172353,
       "name": "$wing",
       "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Doritos & Fritos",
+      "url": "https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Hate.",
+        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Hate.",
+      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Snake Eyes",
-        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 102751,
-      "name": "Hey Big Man",
-      "url": "https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Notes On A Conditional Form",
         "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 296746,
       "name": "bmbmbm",
       "url": "https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Snake Eyes",
+        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 102751,
+      "name": "Hey Big Man",
+      "url": "https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "MEN",
-        "url": "https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1"
-      },
-      "artists": [
-        {
-          "name": "Lynks",
-          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Silly Boy",
-      "url": "https://open.spotify.com/track/6dVCwIlxXWjyOumob05IPQ"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Comfort To Me",
         "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 227600,
       "name": "Security",
       "url": "https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "MEN",
+        "url": "https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Silly Boy",
+      "url": "https://open.spotify.com/track/6dVCwIlxXWjyOumob05IPQ"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "Town's Dead",
+        "url": "https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT"
+      },
+      "artists": [
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Town's Dead",
+      "url": "https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "BACKSTAB",
         "url": "https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 138240,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Town's Dead",
-        "url": "https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT"
-      },
-      "artists": [
-        {
-          "name": "Kojaque",
-          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Town's Dead",
-      "url": "https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c"
     },
     {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "MOTHERFUCKER",
-        "url": "https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt"
-      },
-      "artists": [
-        {
-          "name": "Billy Sane",
-          "url": "https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4"
-        }
-      ],
-      "duration_ms": 62270,
-      "name": "MOTHERFUCKER",
-      "url": "https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl"
-    },
-    {
       "added_at": "2023-07-11 12:10:03",
       "album": {
         "name": "babyface",
@@ -1147,6 +1131,22 @@
       "duration_ms": 74437,
       "name": "I Saw Jesus Hanging on a Basketball Hoop",
       "url": "https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "MOTHERFUCKER",
+        "url": "https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt"
+      },
+      "artists": [
+        {
+          "name": "Billy Sane",
+          "url": "https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4"
+        }
+      ],
+      "duration_ms": 62270,
+      "name": "MOTHERFUCKER",
+      "url": "https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "softCORE",
+        "url": "https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "stupid bitch",
+      "url": "https://open.spotify.com/track/77wru6MqUYACgY74Lgp3Ti"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "Lonely Army",
         "url": "https://open.spotify.com/album/0DWeHnaTkA53xK43mJKfu8"
       },
@@ -1343,26 +1359,6 @@
       "duration_ms": 175661,
       "name": "Lonely Army",
       "url": "https://open.spotify.com/track/7fIETzt6S1vL8UJ6xeTqVl"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "LOGGERHEAD",
-        "url": "https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV"
-      },
-      "artists": [
-        {
-          "name": "Wu-Lu",
-          "url": "https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd"
-        },
-        {
-          "name": "Asha Lorenz",
-          "url": "https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX"
-        }
-      ],
-      "duration_ms": 220290,
-      "name": "Night Pill",
-      "url": "https://open.spotify.com/track/6M9YPsfizSSymcQCFUTlHz"
     }
   ],
   "unique_name": "unleashed",

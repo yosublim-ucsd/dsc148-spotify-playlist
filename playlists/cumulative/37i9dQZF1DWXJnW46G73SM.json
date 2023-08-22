@@ -1768,8 +1768,8 @@
       },
       "artists": [
         {
-          "name": "Natasha",
-          "url": "https://open.spotify.com/artist/4r4BXCZEaC6Eew0l7NjPpr"
+          "name": "Natacha",
+          "url": "https://open.spotify.com/artist/4Jqy6fyxfKMCJk9FrxNp05"
         }
       ],
       "date_added": "2023-08-15",
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 218322,
       "name": "El Okd",
       "url": "https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0"
@@ -6212,6 +6212,24 @@
       "duration_ms": 160705,
       "name": "Or2os",
       "url": "https://open.spotify.com/track/0K0LnwN0W3jKgBSOfdS9O7"
+    },
+    {
+      "album": {
+        "name": "Or2os Gamed",
+        "url": "https://open.spotify.com/album/1nIJUN3xNcXKcqqoKVirgi"
+      },
+      "artists": [
+        {
+          "name": "Ahmed El Ruby",
+          "url": "https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "Or2os Gamed",
+      "url": "https://open.spotify.com/track/5mJI45zDeZ4Ik16iam6JJw"
     },
     {
       "album": {

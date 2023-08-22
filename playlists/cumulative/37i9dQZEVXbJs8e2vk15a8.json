@@ -3246,7 +3246,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
@@ -11595,6 +11595,24 @@
     },
     {
       "album": {
+        "name": "Llego En El Polari",
+        "url": "https://open.spotify.com/album/0xuKJJpdbTLUf9RKBwXgT4"
+      },
+      "artists": [
+        {
+          "name": "FiltraChilensis",
+          "url": "https://open.spotify.com/artist/0D3svvBQXV1QKmSUzu1SWW"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150465,
+      "name": "Llego En El Polari",
+      "url": "https://open.spotify.com/track/32sJwWpqVUUXOl323Anfrr"
+    },
+    {
+      "album": {
         "name": "FiltraKing",
         "url": "https://open.spotify.com/album/4TBdVyjNs5g9x4eTb5VU2k"
       },
@@ -15146,7 +15164,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 247680,
       "name": "No Estuviste En Lo Malo",
       "url": "https://open.spotify.com/track/3hQARI8XG01UawaCalyfjK"
@@ -25052,7 +25070,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 130785,
       "name": "XOXO (Kisses Hugs)",
       "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"

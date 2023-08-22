@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Supershy (Tom Misch).",
-  "num_followers": 449016,
+  "num_followers": 449117,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjNhZGVmNjMwMWUxMWZjZjA0NmFhNTdiYjY2NzhiMTcxMWJlZGJj",
+  "snapshot_id": "MCw4ZTAyNmE1YWFiYzVmZTU5NDkzOTVlYTU0ODA5ZTUwZGVhNWM1YTEy",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -567,18 +567,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/7lvWOiTh8oMtOldgbB4EWi"
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
         }
       ],
-      "duration_ms": 253219,
-      "name": "Rising",
-      "url": "https://open.spotify.com/track/7xN80kFvkkSMtDu57pZ29w"
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -627,22 +631,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/7lvWOiTh8oMtOldgbB4EWi"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+      "duration_ms": 253219,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/7xN80kFvkkSMtDu57pZ29w"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/75HPK1U9upzIFxstRrlRPL"
+      },
+      "artists": [
+        {
+          "name": "LIMONADE",
+          "url": "https://open.spotify.com/artist/0MJJvDrHdl7GGYostfweWJ"
+        },
+        {
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
+        }
+      ],
+      "duration_ms": 150825,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/2HZNAqaeO3llxJReGhFhyX"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Forever (Solomun Remix)",
         "url": "https://open.spotify.com/album/09rft4QsmOVsaUzJjGrZOb"
       },
@@ -683,6 +703,26 @@
       "duration_ms": 228750,
       "name": "Forever (Solomun Remix)",
       "url": "https://open.spotify.com/track/6Y99Pdmhbg5GhAAxwjcbhR"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Let's Get It",
+        "url": "https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp"
+      },
+      "artists": [
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        },
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        }
+      ],
+      "duration_ms": 112131,
+      "name": "Let's Get It",
+      "url": "https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -723,46 +763,6 @@
       "duration_ms": 270539,
       "name": "Greenwich - Daniel Avery Interpolation",
       "url": "https://open.spotify.com/track/3H7wG9CzVXdiYcarxBnYb1"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Let's Get It",
-        "url": "https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp"
-      },
-      "artists": [
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        },
-        {
-          "name": "Rxseboy",
-          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
-        }
-      ],
-      "duration_ms": 112131,
-      "name": "Let's Get It",
-      "url": "https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/75HPK1U9upzIFxstRrlRPL"
-      },
-      "artists": [
-        {
-          "name": "LIMONADE",
-          "url": "https://open.spotify.com/artist/0MJJvDrHdl7GGYostfweWJ"
-        },
-        {
-          "name": "Kiiara",
-          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
-        }
-      ],
-      "duration_ms": 150825,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/2HZNAqaeO3llxJReGhFhyX"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3sP2QGyEsqcT5MjlrVR8Sq"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Get Away",
         "url": "https://open.spotify.com/album/5WZQqJD7f6UEkpEIZYLYfD"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 152811,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/47Uvtw7WKsQuB1Cie2w9io"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3sP2QGyEsqcT5MjlrVR8Sq"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Lady (Hear Me Tonight)",
+        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
         "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
       },
@@ -923,26 +943,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Lady (Hear Me Tonight)",
-        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Shapeshifter EP",
         "url": "https://open.spotify.com/album/2375MnvrnfiIO9qKjY9SVd"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 383448,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0Xm3qMKuGML22vsOVycQYw"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        }
+      ],
+      "duration_ms": 195241,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -979,18 +995,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
+        "name": "Goons",
+        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
       },
       "artists": [
         {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
         }
       ],
-      "duration_ms": 195241,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
+      "duration_ms": 201904,
+      "name": "Goons",
+      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1035,42 +1055,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Goons",
-        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
+        "name": "Turn It Around Baby",
+        "url": "https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
         }
       ],
-      "duration_ms": 201904,
-      "name": "Goons",
-      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "D\u00e9rive",
-        "url": "https://open.spotify.com/album/0O9AxmqZJOG0hJmkqS3Hkz"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        },
-        {
-          "name": "Margane",
-          "url": "https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb"
-        }
-      ],
-      "duration_ms": 195714,
-      "name": "D\u00e9rive",
-      "url": "https://open.spotify.com/track/51ckyfLbdUN13dRXSBCwMS"
+      "duration_ms": 218031,
+      "name": "Turn It Around Baby",
+      "url": "https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1099,38 +1095,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "it's sky time",
-        "url": "https://open.spotify.com/album/6Gy14G9S4E5cUDEtlNaekQ"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 317290,
-      "name": "it's sky time",
-      "url": "https://open.spotify.com/track/7cUfpSPItssaVcFTjXwLwi"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Turn It Around Baby",
-        "url": "https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Turn It Around Baby",
-      "url": "https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Magnets in the Dark (feat. Lizzy Land)",
         "url": "https://open.spotify.com/album/1qqEmrEsBQCWDJlBOoWXSl"
       },
@@ -1151,22 +1115,58 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Do It Like Dat (feat. Faustix)",
-        "url": "https://open.spotify.com/album/6ekGtYJ3MoJKfQpgNSA4iz"
+        "name": "D\u00e9rive",
+        "url": "https://open.spotify.com/album/0O9AxmqZJOG0hJmkqS3Hkz"
       },
       "artists": [
         {
-          "name": "CRASKIN",
-          "url": "https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz"
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
         },
         {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+          "name": "Margane",
+          "url": "https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb"
         }
       ],
-      "duration_ms": 139047,
-      "name": "Do It Like Dat (feat. Faustix)",
-      "url": "https://open.spotify.com/track/4AwPIuooqkBjX6utG5SkDe"
+      "duration_ms": 195714,
+      "name": "D\u00e9rive",
+      "url": "https://open.spotify.com/track/51ckyfLbdUN13dRXSBCwMS"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "it's sky time",
+        "url": "https://open.spotify.com/album/6Gy14G9S4E5cUDEtlNaekQ"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 317290,
+      "name": "it's sky time",
+      "url": "https://open.spotify.com/track/7cUfpSPItssaVcFTjXwLwi"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/57UcRw8voA5xTPL7ctpBIG"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Eden Shalev",
+          "url": "https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/6c3qEL7Vqln2z2UKvnPjjm"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Heartbeat (Dance The Night Away)",
-        "url": "https://open.spotify.com/album/02CO58Fe0jl6IHqYb807Nb"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        }
-      ],
-      "duration_ms": 212092,
-      "name": "Heartbeat (Dance The Night Away)",
-      "url": "https://open.spotify.com/track/4r9RxOUirxXfipfRlGNp8A"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Mosquito Love",
         "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
       },
@@ -1227,42 +1211,58 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/57UcRw8voA5xTPL7ctpBIG"
+        "name": "Do It Like Dat (feat. Faustix)",
+        "url": "https://open.spotify.com/album/6ekGtYJ3MoJKfQpgNSA4iz"
       },
       "artists": [
         {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+          "name": "CRASKIN",
+          "url": "https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz"
         },
         {
-          "name": "Eden Shalev",
-          "url": "https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe"
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
         }
       ],
-      "duration_ms": 212459,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/6c3qEL7Vqln2z2UKvnPjjm"
+      "duration_ms": 139047,
+      "name": "Do It Like Dat (feat. Faustix)",
+      "url": "https://open.spotify.com/track/4AwPIuooqkBjX6utG5SkDe"
     },
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Thru U",
-        "url": "https://open.spotify.com/album/0XU45Y4lUnPnLoLtacVDJ6"
+        "name": "Heartbeat (Dance The Night Away)",
+        "url": "https://open.spotify.com/album/02CO58Fe0jl6IHqYb807Nb"
       },
       "artists": [
         {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        },
-        {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
         }
       ],
-      "duration_ms": 177024,
-      "name": "Thru U",
-      "url": "https://open.spotify.com/track/1J585A8C3aTHBvWD1WxYwu"
+      "duration_ms": 212092,
+      "name": "Heartbeat (Dance The Night Away)",
+      "url": "https://open.spotify.com/track/4r9RxOUirxXfipfRlGNp8A"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/1gV4wiptxaq86Mbudt123T"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 195482,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/2aSmH6ZnXFLZjbou0QyQeG"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1287,22 +1287,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/1gV4wiptxaq86Mbudt123T"
+        "name": "Thru U",
+        "url": "https://open.spotify.com/album/0XU45Y4lUnPnLoLtacVDJ6"
       },
       "artists": [
         {
-          "name": "PLS&TY",
-          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
         },
         {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
         }
       ],
-      "duration_ms": 195482,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/2aSmH6ZnXFLZjbou0QyQeG"
+      "duration_ms": 177024,
+      "name": "Thru U",
+      "url": "https://open.spotify.com/track/1J585A8C3aTHBvWD1WxYwu"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1371,26 +1371,6 @@
       "duration_ms": 409598,
       "name": "FRAULEIN B",
       "url": "https://open.spotify.com/track/6cgKtmVhQpD041ECgvcnCn"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/79uwQZD3Ho2ANZskzWNprO"
-      },
-      "artists": [
-        {
-          "name": "Mat.Joe",
-          "url": "https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ"
-        },
-        {
-          "name": "Thando1988",
-          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
-        }
-      ],
-      "duration_ms": 195636,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/3A11z7N2tlnyLXYlu055pn"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1487,6 +1467,26 @@
       "duration_ms": 187917,
       "name": "REWiND - Wolfgang Gartner Remix",
       "url": "https://open.spotify.com/track/5Tv0DFlkP9qMihzyznC5WW"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/79uwQZD3Ho2ANZskzWNprO"
+      },
+      "artists": [
+        {
+          "name": "Mat.Joe",
+          "url": "https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ"
+        },
+        {
+          "name": "Thando1988",
+          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
+        }
+      ],
+      "duration_ms": 195636,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/3A11z7N2tlnyLXYlu055pn"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1687,6 +1687,30 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Through The Dark",
+        "url": "https://open.spotify.com/album/5ZSZ9wYbyoPssimsjH3YfX"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        },
+        {
+          "name": "NaakMusiQ",
+          "url": "https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe"
+        },
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        }
+      ],
+      "duration_ms": 248171,
+      "name": "Through The Dark",
+      "url": "https://open.spotify.com/track/37zI7SXeHFm7CCNwmbgaJM"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/32enUd1khxIoHI43OyxzNk"
       },
@@ -1719,26 +1743,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Through The Dark",
-        "url": "https://open.spotify.com/album/5ZSZ9wYbyoPssimsjH3YfX"
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/0Il8H7BLwcyieWC1icwMtq"
       },
       "artists": [
         {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+          "name": "Milk & Sugar",
+          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
         },
         {
-          "name": "NaakMusiQ",
-          "url": "https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe"
-        },
-        {
-          "name": "Frigid Armadillo",
-          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+          "name": "Sven Kerkhoff",
+          "url": "https://open.spotify.com/artist/13tU1Q5CsueKLJo219ierd"
         }
       ],
-      "duration_ms": 248171,
-      "name": "Through The Dark",
-      "url": "https://open.spotify.com/track/37zI7SXeHFm7CCNwmbgaJM"
+      "duration_ms": 169750,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/4PnXzbyVZAQMVpljyOGVoF"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1755,6 +1775,26 @@
       "duration_ms": 181038,
       "name": "Ride 4 U",
       "url": "https://open.spotify.com/track/2zRPvS8h5HP9Txj6JsUkSI"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4VI1mMUc9p9S259lOMC2WW"
+      },
+      "artists": [
+        {
+          "name": "The High",
+          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+        },
+        {
+          "name": "Ruuben",
+          "url": "https://open.spotify.com/artist/02j9XUBclCMsvYxjOoV1I0"
+        }
+      ],
+      "duration_ms": 141904,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2nEZoTyLtm83Nvk8cNlQir"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1779,42 +1819,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/0Il8H7BLwcyieWC1icwMtq"
+        "name": "Breathwork EP",
+        "url": "https://open.spotify.com/album/5dLq5mG72RcXFqxftYImE4"
       },
       "artists": [
         {
-          "name": "Milk & Sugar",
-          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
-        },
-        {
-          "name": "Sven Kerkhoff",
-          "url": "https://open.spotify.com/artist/13tU1Q5CsueKLJo219ierd"
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
         }
       ],
-      "duration_ms": 169750,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/4PnXzbyVZAQMVpljyOGVoF"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/4VI1mMUc9p9S259lOMC2WW"
-      },
-      "artists": [
-        {
-          "name": "The High",
-          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
-        },
-        {
-          "name": "Ruuben",
-          "url": "https://open.spotify.com/artist/02j9XUBclCMsvYxjOoV1I0"
-        }
-      ],
-      "duration_ms": 141904,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/2nEZoTyLtm83Nvk8cNlQir"
+      "duration_ms": 360613,
+      "name": "Breathwork",
+      "url": "https://open.spotify.com/track/2axwyCjGZBUKjCAuodY2qd"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Breathwork EP",
-        "url": "https://open.spotify.com/album/5dLq5mG72RcXFqxftYImE4"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
-        }
-      ],
-      "duration_ms": 360613,
-      "name": "Breathwork",
-      "url": "https://open.spotify.com/track/2axwyCjGZBUKjCAuodY2qd"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "In The Night (feat. Bandmanrill)",
         "url": "https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM"
       },
@@ -1895,6 +1895,42 @@
       "duration_ms": 212400,
       "name": "In The Night (feat. Bandmanrill)",
       "url": "https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Subliminal",
+        "url": "https://open.spotify.com/album/78S20bvtAt6N8vPO3Mnl50"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Sammy",
+          "url": "https://open.spotify.com/artist/2K2ulcqPr7kB2ZwzLmx3vp"
+        }
+      ],
+      "duration_ms": 202956,
+      "name": "Subliminal",
+      "url": "https://open.spotify.com/track/3WoxM5hRv3lkLDoowGCJKu"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Eye Contact",
+        "url": "https://open.spotify.com/album/2jujhyMf8jsIzhgEuVBzE0"
+      },
+      "artists": [
+        {
+          "name": "Upper90",
+          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Eye Contact",
+      "url": "https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1935,26 +1971,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Subliminal",
-        "url": "https://open.spotify.com/album/78S20bvtAt6N8vPO3Mnl50"
-      },
-      "artists": [
-        {
-          "name": "MJ Nebreda",
-          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
-        },
-        {
-          "name": "Sammy",
-          "url": "https://open.spotify.com/artist/2K2ulcqPr7kB2ZwzLmx3vp"
-        }
-      ],
-      "duration_ms": 202956,
-      "name": "Subliminal",
-      "url": "https://open.spotify.com/track/3WoxM5hRv3lkLDoowGCJKu"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/2g86HfsmnnhWB98xgwqzxb"
       },
@@ -1971,38 +1987,6 @@
       "duration_ms": 438000,
       "name": "Promises",
       "url": "https://open.spotify.com/track/3c6m0hO0HHpdHxf2mPOcU1"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Eye Contact",
-        "url": "https://open.spotify.com/album/2jujhyMf8jsIzhgEuVBzE0"
-      },
-      "artists": [
-        {
-          "name": "Upper90",
-          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Eye Contact",
-      "url": "https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "HydroPlane",
-        "url": "https://open.spotify.com/album/50gNjUaJI0gIJ6uiX95aRQ"
-      },
-      "artists": [
-        {
-          "name": "AOBeats",
-          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
-        }
-      ],
-      "duration_ms": 208153,
-      "name": "HydroPlane",
-      "url": "https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2039,6 +2023,22 @@
       "duration_ms": 391740,
       "name": "Agikuyu",
       "url": "https://open.spotify.com/track/3WyHX9IjbSpq31wmjYA1fs"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "HydroPlane",
+        "url": "https://open.spotify.com/album/50gNjUaJI0gIJ6uiX95aRQ"
+      },
+      "artists": [
+        {
+          "name": "AOBeats",
+          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
+        }
+      ],
+      "duration_ms": 208153,
+      "name": "HydroPlane",
+      "url": "https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx"
     },
     {
       "added_at": "2023-08-18 04:01:00",

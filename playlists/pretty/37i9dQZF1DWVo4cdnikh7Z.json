@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Jailer",
-  "num_followers": 569901,
+  "num_followers": 570712,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDZmNjc2NTY1YTAyOTFkN2RmMWI3NWYxNmI0NzI4Y2ZhMWVkNDky",
+  "snapshot_id": "MCw4YjRjYTczMTZiMDljYjgxY2YxMWNmYzMyNDc5ZjZjYmRkYjA4MzRm",
   "tracks": [
     {
       "added_at": "2023-07-17 12:34:23",
@@ -245,6 +245,30 @@
       "url": "https://open.spotify.com/track/4xH4HmpW4NnzlJHdwzITDE"
     },
     {
+      "added_at": "2023-08-21 09:17:56",
+      "album": {
+        "name": "Single Malt Gumbal (From \"Wolf\")",
+        "url": "https://open.spotify.com/album/5Epx3DFbjewRydtJSPPc5T"
+      },
+      "artists": [
+        {
+          "name": "Vijay Sethupathi",
+          "url": "https://open.spotify.com/artist/31lzE0FfEcg2oIMD8FlICU"
+        },
+        {
+          "name": "L. V. Revanth",
+          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
+        },
+        {
+          "name": "Vishnu Priya",
+          "url": "https://open.spotify.com/artist/0l9C8qZwqmgjtVB6VRBa6C"
+        }
+      ],
+      "duration_ms": 257183,
+      "name": "Single Malt Gumbal (From \"Wolf\")",
+      "url": "https://open.spotify.com/track/7kyufFVFqEMmU8xUgQULtS"
+    },
+    {
       "added_at": "2023-08-11 11:32:55",
       "album": {
         "name": "Swagathaanjali (From \"Chandramukhi 2\")",
@@ -305,20 +329,24 @@
       "url": "https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK"
     },
     {
-      "added_at": "2023-08-09 09:03:45",
+      "added_at": "2023-08-21 09:17:56",
       "album": {
-        "name": "Ponniyin Selvan - Original Score (Part-A)",
-        "url": "https://open.spotify.com/album/7y3bI6blXr4I8l4kKGcBfE"
+        "name": "En Uyire [From \"King of Kotha (Tamil)\"]",
+        "url": "https://open.spotify.com/album/3drmQ0ePzXlftMbEwqmhKN"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
         }
       ],
-      "duration_ms": 269688,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/1nHTOlxSEyyrLH6wzzMJTd"
+      "duration_ms": 242583,
+      "name": "En Uyire (From \"King of Kotha (Tamil)\")",
+      "url": "https://open.spotify.com/track/1Q35yGMJT9riPPZegmpkFi"
     },
     {
       "added_at": "2023-07-14 06:36:31",
@@ -439,8 +467,8 @@
     {
       "added_at": "2023-08-18 14:12:37",
       "album": {
-        "name": "Gandarabai (From \"Skanda\") (Tamil)",
-        "url": "https://open.spotify.com/album/5fC3JAPo3MX86M4HW0eA1Z"
+        "name": "Gandarabai (From \"Skanda\")",
+        "url": "https://open.spotify.com/album/2bCgApnMK8TBJpSbhCdgfQ"
       },
       "artists": [
         {
@@ -448,17 +476,21 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
         },
         {
-          "name": "Roshini JKV",
-          "url": "https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX"
+          "name": "Soujanya Bhagavatula",
+          "url": "https://open.spotify.com/artist/31UYKXflHGE5QEAc2U6mBt"
+        },
+        {
+          "name": "Ananth Sriram",
+          "url": "https://open.spotify.com/artist/1ptg1bA9WLbmSqByeIwnuz"
         }
       ],
       "duration_ms": 231755,
-      "name": "Gandarabai (From \"Skanda\") (Tamil)",
-      "url": "https://open.spotify.com/track/1TtNUw6g96A7jbOnp7i1lZ"
+      "name": "Gandarabai (From \"Skanda\")",
+      "url": "https://open.spotify.com/track/0SQIFK6K3ZBZQnn3ocFQAe"
     },
     {
       "added_at": "2023-08-17 11:02:52",
@@ -565,78 +597,6 @@
       "url": "https://open.spotify.com/track/5oHAqoUxLt96jZuEHbjU4m"
     },
     {
-      "added_at": "2023-08-11 09:38:18",
-      "album": {
-        "name": "Pet Lovers Anthem (Paal Mazhayin Thooralil) (From \"Shot Boot Three\")",
-        "url": "https://open.spotify.com/album/1nIW7f3WwkvnPBx9ETdNO5"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Rajhesh Vaidhya",
-          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        }
-      ],
-      "duration_ms": 315714,
-      "name": "Pet Lovers Anthem (Paal Mazhayin Thooralil) (From \"Shot Boot Three\")",
-      "url": "https://open.spotify.com/track/51jCRIEMHqdhy6NYCDQw1R"
-    },
-    {
-      "added_at": "2023-08-17 10:59:05",
-      "album": {
-        "name": "Aviya Eviya (From \"Kumbaari\")",
-        "url": "https://open.spotify.com/album/4SnCVFLqK02tNlUfdfOgpR"
-      },
-      "artists": [
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "Jeyprakas",
-          "url": "https://open.spotify.com/artist/7zpLlgsFNGBI24OO8ABRwq"
-        },
-        {
-          "name": "M.R. Vinothan",
-          "url": "https://open.spotify.com/artist/3zTsIXs3eNUzBlDEumo0kt"
-        }
-      ],
-      "duration_ms": 258321,
-      "name": "Aviya Eviya (From \"Kumbaari\")",
-      "url": "https://open.spotify.com/track/79NNEWznxn00LOECXZmHx4"
-    },
-    {
-      "added_at": "2023-08-10 12:19:04",
-      "album": {
-        "name": "Adiyae (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2nS0NA74i5nkBPleJxyOh6"
-      },
-      "artists": [
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Padmaja Sreenivasan",
-          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
-        }
-      ],
-      "duration_ms": 211510,
-      "name": "Ullukulla Theekaadu",
-      "url": "https://open.spotify.com/track/3EmeTewbTQ9IRlSpBBHInm"
-    },
-    {
       "added_at": "2023-08-04 15:43:18",
       "album": {
         "name": "Maaveeran (Original Motion Picture Soundtrack)",
@@ -659,26 +619,6 @@
       "duration_ms": 147236,
       "name": "Kekkutha (Boat Fight Song)",
       "url": "https://open.spotify.com/track/2iUQCrWugPAS4jsMX6GsN2"
-    },
-    {
-      "added_at": "2023-08-09 09:03:45",
-      "album": {
-        "name": "Ponniyin Selvan - Original Score (Part-A)",
-        "url": "https://open.spotify.com/album/7y3bI6blXr4I8l4kKGcBfE"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        }
-      ],
-      "duration_ms": 172262,
-      "name": "Soodanathu Rattham",
-      "url": "https://open.spotify.com/track/6BiYFeDMYe3xpXdEiNhsDy"
     },
     {
       "added_at": "2023-07-16 07:05:50",
@@ -747,26 +687,6 @@
       "duration_ms": 99563,
       "name": "Saaya Sanjale",
       "url": "https://open.spotify.com/track/5ZureE46xVrSPvEi1mxWsz"
-    },
-    {
-      "added_at": "2023-08-10 12:19:04",
-      "album": {
-        "name": "Adiyae (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2nS0NA74i5nkBPleJxyOh6"
-      },
-      "artists": [
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        }
-      ],
-      "duration_ms": 269096,
-      "name": "Mutta Cutie",
-      "url": "https://open.spotify.com/track/7fmAdHvPU2Lkt7TN68zsoU"
     },
     {
       "added_at": "2023-07-28 14:22:03",

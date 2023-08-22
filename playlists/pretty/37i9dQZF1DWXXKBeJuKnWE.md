@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: Caskets
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,581 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,586 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 79 | [fasterthanyourthoughts](https://open.spotify.com/track/3snoKKCrXliBRAPmKlJQiK) | [North Atlas](https://open.spotify.com/artist/3Ro0E3uacXuCx3iJoa8jua) | [fasterthanyourthoughts](https://open.spotify.com/album/1IASmWiXkPu2lfxNFqCiVv) | 3:10 |
 | 80 | [Boys In Blue](https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Boys In Blue / H.A.N.G](https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ) | 2:28 |
 
-Snapshot ID: `MCxlZjJmNTk4OTg0Njg2OTllYTBiYmU0ZWMzYjVjYThhYzMyOWNiMzMx`
+Snapshot ID: `MCwwYzE4MDhkMTk0MWI2NjhjN2ZlNDk4ODAwOTlhYzVlN2FiN2ZmMDk5`

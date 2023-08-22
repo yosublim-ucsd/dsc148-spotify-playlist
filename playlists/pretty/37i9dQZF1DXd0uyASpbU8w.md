@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ?si=G\_7IjskJTfiz7Y5I2rNwJw">Young Stunna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,413 likes - 54 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,472 likes - 54 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 53 | [Chisimo](https://open.spotify.com/track/0h38GIm2z3HXdsjzAmordP) | [Mokoomba](https://open.spotify.com/artist/4JWMsMMZQJX6ZqNMdBiN9I), [Morena Leraba](https://open.spotify.com/artist/2aUErDeR4aoZDvy9ZYMhzO) | [Chisimo](https://open.spotify.com/album/0SAgUibXpViZ8H0A91sv1f) | 4:33 |
 | 54 | [Fear](https://open.spotify.com/track/5lntfXi9Feo5T1xR6mTnvR) | [Lastee](https://open.spotify.com/artist/02fHk4FBRa87bllGfMAf15) | [Fear](https://open.spotify.com/album/4wLHbwdD3Kc5nt73qOFixR) | 2:24 |
 
-Snapshot ID: `MCw0NDNjYTEzYjlmYjBiNmVhYTU2MTE1Mzc0YjY1ZGJjMTA5NTM3NmM3`
+Snapshot ID: `MCxjYzc5OTgzMTI5YzZjNDhiOWVlNzIwZGJiMjhmYmJkNTkzMTJjMjI4`

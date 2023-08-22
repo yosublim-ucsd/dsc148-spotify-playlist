@@ -13078,7 +13078,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 136499,
       "name": "\u0411\u0456\u043b\u044f \u0441\u0435\u0440\u0446\u044f",
       "url": "https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6"
@@ -21764,6 +21764,24 @@
       "duration_ms": 202812,
       "name": "\u0423\u043b\u0438\u0446\u044b \u0431\u0435\u0437 \u0444\u043e\u043d\u0430\u0440\u0435\u0439",
       "url": "https://open.spotify.com/track/63zZclNUcyodnySewFn5Pi"
+    },
+    {
+      "album": {
+        "name": "\u0423\u043d\u043e\u0447\u0456",
+        "url": "https://open.spotify.com/album/24bc8MBCroFdDuLDyVJfVS"
+      },
+      "artists": [
+        {
+          "name": "YAKTAK",
+          "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239200,
+      "name": "\u0423\u043d\u043e\u0447\u0456",
+      "url": "https://open.spotify.com/track/34W2vfDZF6lOa4U55RsvDH"
     },
     {
       "album": {

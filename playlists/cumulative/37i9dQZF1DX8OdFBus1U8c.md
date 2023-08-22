@@ -4,13 +4,14 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Sreenath Bhasi
 
-94 songs - 5 hr 7 min
+95 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aadu Pambe](https://open.spotify.com/track/73Tdy7kXsv2euJ0WvUr7gU) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:22 | 2022-07-13 | 2023-07-24 |
 | [Aana](https://open.spotify.com/track/4LK98zUvGsw2LtUA8LJzeq) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Aana](https://open.spotify.com/album/3y4I3MczKrYz9YEncRBBEZ) | 3:32 | 2023-07-23 |  |
 | [AARDA?](https://open.spotify.com/track/5Nx5RNHYpFCV4LgyHcRqeq) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Thudwiser](https://open.spotify.com/artist/6z8IZH6zc5YxGOGZT1ZswT) | [AARDA?](https://open.spotify.com/album/4C6SKJt6TL8mNKL5sc661k) | 3:46 | 2022-06-23 |  |
+| [ABCD](https://open.spotify.com/track/0N1JEwXlDAcwwN7kLGgeOc) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [ABCD](https://open.spotify.com/album/24EIh5nGjpZhau23E1rNBo) | 2:55 | 2023-08-21 |  |
 | [Adithattu Cypher](https://open.spotify.com/track/69OAdLAS2tDAuCY0EiFRFA) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [Kavo](https://open.spotify.com/artist/03YNVy4UYUPI0nw7J3W0Q1), [Ibnu Kopz](https://open.spotify.com/artist/39lndWMB0tQuIN68ayAl0T), [Thamburaan](https://open.spotify.com/artist/1KRhxlUbVmOCVzM7d7zdj7) | [Adithattu Cypher](https://open.spotify.com/album/7dd9TGPUhvcAMNIO8sjo9s) | 4:45 | 2022-06-23 | 2023-07-24 |
 | [All Divine](https://open.spotify.com/track/7mzu2WH5iRdKyBZVLZhHS2) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf), [Steve Knight](https://open.spotify.com/artist/6G5M4NdoEdfFdkZtcE0Ntg) | [All Divine](https://open.spotify.com/album/49ficLfuUA7y7Uczvf7IzQ) | 4:04 | 2022-10-25 |  |
 | [Antham Vittoru Pennu](https://open.spotify.com/track/2sngiZAoGkAyXocp4ycegn) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Sarcasanam](https://open.spotify.com/artist/46W1DMC8InVBXW5L0Dqa3c) | [Oh Meri Laila](https://open.spotify.com/album/2lA7PI7Z1VioAJnlARl6mF) | 2:35 | 2022-12-23 | 2023-04-01 |
@@ -95,7 +96,7 @@
 | [Vaa](https://open.spotify.com/track/5Nm1pQ3mp1cWpGTrRIxaig) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Vaa](https://open.spotify.com/album/5Kp82kgZu1ByPkR4nuhml1) | 2:47 | 2023-07-23 |  |
 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [$obin](https://open.spotify.com/artist/3GrYRWOQlcY1qs48diMppb) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 | 2023-07-23 |  |
 | [Vayyaveli](https://open.spotify.com/track/7foOcAmVozH37pMMCdv4I0) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Vayyaveli](https://open.spotify.com/album/4s7DeJy6LGA7RcwwodVaXQ) | 2:57 | 2022-06-23 |  |
-| [Venjarippu](https://open.spotify.com/track/7F02EEb6hTjG4y7Md3hJvx) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [RAP BHOOSHANAM COCHIN BROTHERS PVT\. LTD.](https://open.spotify.com/album/7ilFtn0ij6e5V8cVVb6VZo) | 2:52 | 2023-07-23 |  |
+| [Venjarippu](https://open.spotify.com/track/7F02EEb6hTjG4y7Md3hJvx) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [RAP BHOOSHANAM COCHIN BROTHERS PVT\. LTD.](https://open.spotify.com/album/7ilFtn0ij6e5V8cVVb6VZo) | 2:52 | 2023-07-23 | 2023-08-22 |
 | [Vere Level](https://open.spotify.com/track/3qKFI8feoGekhCFfTR8OPs) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Vere Level](https://open.spotify.com/album/1JrVlSYxmfdrTcPou5Urnc) | 3:34 | 2022-06-23 |  |
 | [Voice of Voiceless](https://open.spotify.com/track/0fuSvkUjYtk5iqbyNIptZN) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/2YRk162JljfmD25M71gql8) | 3:06 | 2022-10-25 |  |
 | [Voice of Voiceless](https://open.spotify.com/track/2zMoJSaDqs4CqmYY2xsYce) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/75UW4S2HXK13WcZGF0jpJc) | 3:06 | 2022-10-25 | 2023-05-14 |

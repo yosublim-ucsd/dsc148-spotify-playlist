@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 137922,
       "name": "FA BELLO",
       "url": "https://open.spotify.com/track/4miU3wAqdM1RXixC8CgFeB"
@@ -8422,7 +8422,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 179067,
       "name": "Metropolitana",
       "url": "https://open.spotify.com/track/2LefQOKsenY4CsqByGwNDC"
@@ -9474,6 +9474,24 @@
       "duration_ms": 168611,
       "name": "Non ritorneranno mai",
       "url": "https://open.spotify.com/track/4ywLncnEl5lFiYQVUSw3EM"
+    },
+    {
+      "album": {
+        "name": "NON TI SEI MAI DIVERTITA COS\u00cc",
+        "url": "https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o"
+      },
+      "artists": [
+        {
+          "name": "Vins",
+          "url": "https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129908,
+      "name": "NON TI SEI MAI DIVERTITA COS\u00cc",
+      "url": "https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF"
     },
     {
       "album": {
@@ -14018,6 +14036,28 @@
       "duration_ms": 159318,
       "name": "VICE CITY",
       "url": "https://open.spotify.com/track/5kbFiVFw6CKL4pqvHUX4PX"
+    },
+    {
+      "album": {
+        "name": "Umile",
+        "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168292,
+      "name": "Victoria (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA"
     },
     {
       "album": {

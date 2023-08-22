@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Avanti Patel, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,966 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,981 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Din Dhal Jaayenge](https://open.spotify.com/track/3UggeBH24GT4FQFYNt7b0U) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Din Dhal Jaayenge](https://open.spotify.com/album/6aYYb0j9N9QQObLhVZCPrx) | 3:26 |
 | 100 | [Khud Se Mohabbat](https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khud Se Mohabbat](https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O) | 3:23 |
 
-Snapshot ID: `MCxkYTQ4MTVmMDlkYTEwODgwZDgyOWQzOTg5NDJmNjUxMTYzODExM2Y2`
+Snapshot ID: `MCw2ZWE4NGMwZTkxMTJiNjgxZDhlOGYzOTEyNzMyMTA2ZmQwNmJkYjcw`

@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "BUCKLE BUNNY",
+        "url": "https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "Buckle Bunny",
+      "url": "https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA"
+    },
+    {
+      "album": {
         "name": "Kuntry Livin'",
         "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
       },
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 172848,
       "name": "Redneck for Life",
       "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 208189,
       "name": "Slow Cookin'",
       "url": "https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX"
@@ -2968,6 +2986,24 @@
       "duration_ms": 194750,
       "name": "Throwed",
       "url": "https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae"
+    },
+    {
+      "album": {
+        "name": "Trailer Park Barbie.",
+        "url": "https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170087,
+      "name": "Trailer Park Barbie",
+      "url": "https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl"
     },
     {
       "album": {

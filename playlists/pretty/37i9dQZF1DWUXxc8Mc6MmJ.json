@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 679941,
+  "num_followers": 680441,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWFlYWMxZmM0MzhkNzAyZGQ0MWJlMzAyNmY0ZDkyZGVmOWNlMWQ2",
+  "snapshot_id": "MCw4ZTBkNTc0OTU1NGI4Mzg2OTMwZGM3YTIzN2ZlYzY2YmViOTkyNzUz",
   "tracks": [
     {
       "added_at": "2023-08-16 08:28:23",
@@ -99,6 +99,22 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
+        "url": "https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 214258,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
         "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
         "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
-        "url": "https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 214258,
-      "name": "Sweet Night",
-      "url": "https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
         "name": "Hotel del Luna (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y"
       },
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
+        "name": "Twenty-Five Twenty-One OST Part 4",
+        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 204229,
+      "name": "Your Existence",
+      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
         "name": "Descendants Of The Sun Pt.4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ"
       },
@@ -243,6 +259,22 @@
       "duration_ms": 240590,
       "name": "You Are My Everything",
       "url": "https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/0JlYPewyE0Cs5rkUCsWqgy"
     },
     {
       "added_at": "2023-08-16 08:28:23",
@@ -267,38 +299,6 @@
       "duration_ms": 196549,
       "name": "For You",
       "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
-        "name": "Twenty-Five Twenty-One OST Part 4",
-        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 204229,
-      "name": "Your Existence",
-      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 2",
-        "url": "https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 260600,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/0JlYPewyE0Cs5rkUCsWqgy"
     },
     {
       "added_at": "2023-08-16 08:28:23",
@@ -383,38 +383,6 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
         "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
         "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
       },
@@ -431,6 +399,22 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
         "name": "Twenty-Five Twenty-One OST Part 1",
         "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 225817,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 216734,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
     },
     {
       "added_at": "2023-08-16 08:28:23",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
+        "name": "Twenty-Five Twenty-One OST Part 6",
+        "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 251517,
+      "name": "Stardust love song",
+      "url": "https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
         "name": "While You Were Sleeping, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5TDJPOVQSFFMyeQNzToolM"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 252253,
       "name": "Love Sight",
       "url": "https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
-        "name": "Twenty-Five Twenty-One OST Part 6",
-        "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 251517,
-      "name": "Stardust love song",
-      "url": "https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7"
     },
     {
       "added_at": "2023-08-16 08:28:23",

@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Bruja Encabronada",
+        "url": "https://open.spotify.com/album/0A47RiigR3Kic8hhr3zbvj"
+      },
+      "artists": [
+        {
+          "name": "Brujeria",
+          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167506,
+      "name": "Bruja Encabronada",
+      "url": "https://open.spotify.com/track/3owfKm1HAs3FiyZ5o7DkNM"
+    },
+    {
+      "album": {
         "name": "Brutalist Imperator",
         "url": "https://open.spotify.com/album/4VRVOdVcmDGunInXBqNSz1"
       },
@@ -4973,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Ontological Mysterium",
+        "url": "https://open.spotify.com/album/3ss5c9CfkPvTQeQutNcJEm"
+      },
+      "artists": [
+        {
+          "name": "Horrendous",
+          "url": "https://open.spotify.com/artist/1Na6P4MqOassrZtvT9Z12s"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209726,
+      "name": "Neon Leviathan",
+      "url": "https://open.spotify.com/track/76dWCqKHCJLSpN4xWlEGco"
+    },
+    {
+      "album": {
         "name": "Disharmonium - Undreamable Abysses",
         "url": "https://open.spotify.com/album/2E0VM3yGCaKSgd2CENiNbr"
       },
@@ -6290,7 +6326,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 278400,
       "name": "Serpent Sermon",
       "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
@@ -8124,7 +8160,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 353645,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72"

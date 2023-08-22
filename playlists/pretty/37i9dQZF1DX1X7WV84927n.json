@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: The HU",
-  "num_followers": 331348,
+  "num_followers": 331491,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzQzMmMzMDg1MWE0MjE5OWQ5M2VhMzAwMjg4OWEzM2FjMjQ4MjU1",
+  "snapshot_id": "MCw1ZTgxZTlkYzYzNzc1YWM2MzZkNGM3NzEyYWQzY2YzNjMwYjUxMDVi",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Hate Me Too",
+        "url": "https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 210067,
+      "name": "Hate Me Too",
+      "url": "https://open.spotify.com/track/0P9Yw78LZrptziYwD6O0Ed"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 165238,
       "name": "Blow (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/3YqJ7QhsNbmluU3qzbd3ns"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Hate Me Too",
-        "url": "https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 210067,
-      "name": "Hate Me Too",
-      "url": "https://open.spotify.com/track/0P9Yw78LZrptziYwD6O0Ed"
     },
     {
       "added_at": "2023-08-18 04:00:00",

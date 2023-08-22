@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09enSktFOuB.md) - [plain](/playlists/plain/37i9dQZF1DX09enSktFOuB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX09enSktFOuB)
 
-### [Tamil BAE 💕](https://open.spotify.com/playlist/37i9dQZF1DX09enSktFOuB)
+### [Tamil BAE](https://open.spotify.com/playlist/37i9dQZF1DX09enSktFOuB)
 
 > Best Love songs, Before Anything Else<br/>Cover : Don
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,918 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,023 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09enSktFOuB.md) - [plain]
 | 49 | [Kannum Kannum](https://open.spotify.com/track/6Esfhrv1tnPshVMF0v3jus) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Andrea](https://open.spotify.com/artist/30yi6GjoDDj0pVO9RB0MaG), [Vasundhara Das](https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H) | [Anniyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4owziIuhZtBwnJ5b6RDk7Y) | 5:25 |
 | 50 | [Oh Oh \- The First Love of Tamizh](https://open.spotify.com/track/3B4Wf3Fo11BXSuVPi1dtDO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Thangamagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3) | 4:36 |
 
-Snapshot ID: `MCxlNjIzZTM0ZDJjMjMzN2IzOWQyNTk4NWMzNjlhMWQ0NDkxMWQwYjA2`
+Snapshot ID: `MCw0ZWY3NGMyYWU4ZDI1N2VmYjk4ZjAxNzE3ZWEyNTcyMDZmZjQ0ZjUy`

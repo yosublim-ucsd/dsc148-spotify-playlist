@@ -1,12 +1,12 @@
 {
   "description": "De Culiac\u00e1n, Sinaloa, para el mundo... La Receta en RADAR M\u00e9xico. ",
-  "num_followers": 72778,
+  "num_followers": 72813,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2JiNTQ4NWIyNDBkN2JhOWQzYTFhMWVmYWE4ODM1ZDcyNzBkMTZi",
+  "snapshot_id": "MCxkMGNkNmQ4ZDNiOTQwYTU1NDEwYTllZWNmNDA5YjcxNTgyNjgyN2Zl",
   "tracks": [
     {
       "added_at": "2023-08-08 19:30:29",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-08-08 19:30:29",
       "album": {
+        "name": "Humildemente",
+        "url": "https://open.spotify.com/album/1ITmhCffdnsl8mux4gdTsC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "Guicho",
+      "url": "https://open.spotify.com/track/3U5NqAQqRNIIaVqf5zPIYR"
+    },
+    {
+      "added_at": "2023-08-08 19:30:29",
+      "album": {
         "name": "La Belikada",
         "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 153106,
       "name": "La Belikada",
       "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
-    },
-    {
-      "added_at": "2023-08-08 19:30:29",
-      "album": {
-        "name": "Humildemente",
-        "url": "https://open.spotify.com/album/1ITmhCffdnsl8mux4gdTsC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "Guicho",
-      "url": "https://open.spotify.com/track/3U5NqAQqRNIIaVqf5zPIYR"
     },
     {
       "added_at": "2023-08-08 19:30:29",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-08 19:30:29",
       "album": {
-        "name": "La Loteria",
-        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 176350,
-      "name": "Por La Baja Navegamos",
-      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
-    },
-    {
-      "added_at": "2023-08-08 19:30:29",
-      "album": {
         "name": "KDR",
         "url": "https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm"
       },
@@ -643,22 +627,18 @@
     {
       "added_at": "2023-08-08 19:30:29",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 217135,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+      "duration_ms": 176350,
+      "name": "Por La Baja Navegamos",
+      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
     },
     {
       "added_at": "2023-08-08 19:30:29",
@@ -679,6 +659,26 @@
       "duration_ms": 232820,
       "name": "Aqui Ando En El Caloron - En Vivo",
       "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
+    },
+    {
+      "added_at": "2023-08-08 19:30:29",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 217135,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
     },
     {
       "added_at": "2023-08-08 19:30:29",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-08-08 19:30:29",
       "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
-    },
-    {
-      "added_at": "2023-08-08 19:30:29",
-      "album": {
         "name": "Que Loco Es",
         "url": "https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr"
       },
@@ -763,6 +747,42 @@
       "duration_ms": 202666,
       "name": "Que Loco Es",
       "url": "https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk"
+    },
+    {
+      "added_at": "2023-08-08 19:30:29",
+      "album": {
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
+    },
+    {
+      "added_at": "2023-08-08 19:30:29",
+      "album": {
+        "name": "T\u00fa Me Llevas a Un Espacio",
+        "url": "https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193578,
+      "name": "T\u00fa Me Llevas a Un Espacio",
+      "url": "https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi"
     },
     {
       "added_at": "2023-08-08 19:30:29",
@@ -807,26 +827,6 @@
     {
       "added_at": "2023-08-08 19:30:29",
       "album": {
-        "name": "T\u00fa Me Llevas a Un Espacio",
-        "url": "https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193578,
-      "name": "T\u00fa Me Llevas a Un Espacio",
-      "url": "https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi"
-    },
-    {
-      "added_at": "2023-08-08 19:30:29",
-      "album": {
         "name": "Pensamientos Grandes",
         "url": "https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-08-08 19:30:29",
       "album": {
-        "name": "Aqu\u00ed No Hay Suerte",
-        "url": "https://open.spotify.com/album/3djvuc0wMeAmhCrvVSrw3g"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Aqu\u00ed No Hay Suerte",
-      "url": "https://open.spotify.com/track/42K8b2MTsQS7IWLXTvpz6R"
-    },
-    {
-      "added_at": "2023-08-08 19:30:29",
-      "album": {
         "name": "Me Voy Pa'l Infierno",
         "url": "https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 187926,
       "name": "Me Voy Pa'l Infierno",
       "url": "https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc"
+    },
+    {
+      "added_at": "2023-08-08 19:30:29",
+      "album": {
+        "name": "Aqu\u00ed No Hay Suerte",
+        "url": "https://open.spotify.com/album/3djvuc0wMeAmhCrvVSrw3g"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Aqu\u00ed No Hay Suerte",
+      "url": "https://open.spotify.com/track/42K8b2MTsQS7IWLXTvpz6R"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

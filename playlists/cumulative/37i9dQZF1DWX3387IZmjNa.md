@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Rylo Rodriguez
 
-358 songs - 18 hr 24 min
+359 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,8 @@
 | [Track Star \(Remix 2.0\)\(feat\. Chris Brown, A Boogie wit da Hoodie & Yung Bleu\)](https://open.spotify.com/track/53sTK6KBrvsuqKT9qNpS5d) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Track Star \(Remix 2.0\)\(feat\. Chris Brown, A Boogie wit da Hoodie & Yung Bleu\)](https://open.spotify.com/album/7apgoRWUQYh2dfIaI8yYWi) | 3:41 | 2021-10-07\* | 2021-11-19 |
 | [Trapping & Finessing \(LOVE Song\)](https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Trapping & Finessing](https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41) | 2:28 | 2023-03-03 | 2023-04-29 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 | 2022-08-27 |
-| [U & I \- Unplugged](https://open.spotify.com/track/0mGFn11FzuIiMJbdqOEaKW) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [U & I](https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of) | 1:05 | 2023-08-18 |  |
+| [U & I](https://open.spotify.com/track/0hLE6bBJqvBtTsUsjkxAFO) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [Jehkai](https://open.spotify.com/artist/0EqsIz6jZtqiwz76zMMDH6) | [U & I](https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of) | 2:56 | 2023-08-21 |  |
+| [U & I \- Unplugged](https://open.spotify.com/track/0mGFn11FzuIiMJbdqOEaKW) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [U & I](https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of) | 1:05 | 2023-08-18 | 2023-08-22 |
 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 | 2023-02-17 | 2023-04-01 |
 | [UK](https://open.spotify.com/track/3p2DjXHj8Z4yGnVrx3eHrU) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [UK](https://open.spotify.com/album/6KLFKObVq23rmM23HNzTe0) | 2:33 | 2023-04-07 | 2023-04-15 |
 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 | 2022-02-11 | 2022-05-20 |

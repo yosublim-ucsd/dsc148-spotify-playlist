@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,547 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,549 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 35 | [편지할게요](https://open.spotify.com/track/43YpsYj6YW2kDPF06CsGZR) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [사랑해 \(Part.2\)](https://open.spotify.com/album/1Qjjlnra3hF2xAKGmuJ2zQ) | 4:46 |
 | 36 | [Doll's Dream](https://open.spotify.com/track/2M3hBZOOShvYbRG4Fi9kGi) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [Dramatic & Cinematic](https://open.spotify.com/album/6CN0xylhSXvdAudTU3ihQo) | 4:40 |
 | 37 | [P.S.I LOVE YOU](https://open.spotify.com/track/1T1QoOL9HT3DA68kIh17xL) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece / 1집](https://open.spotify.com/album/0XMpFHpJUmTJ2boT5MseZT) | 3:54 |
-| 38 | [내사랑 내곁에](https://open.spotify.com/track/7oG6pyDbYEY3U9dmdnJw3g) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [나는 가수다 \- 호주 특별 공연](https://open.spotify.com/album/6Y1cCI04Wnqp0LmiWQYVXB) | 4:38 |
+| 38 | [내사랑 내곁에 \(김현식\)](https://open.spotify.com/track/0CmzoZPuhlCZGPpNDToL3R) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [<나는 가수다> \`호주 특별 공연\`](https://open.spotify.com/album/4rhIkswyzmgVP2lXxB3G85) | 4:38 |
 | 39 | [비와 당신 \(원곡가수 박중훈\)](https://open.spotify.com/track/5DiaM30OoCsUHnfeOENWFJ) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7) | [<나는 가수다 2> 8월 B조 경연](https://open.spotify.com/album/0EmrYxeWzK8IM7hFe6xtqh) | 4:29 |
 | 40 | [중독된 사랑 \(원곡가수 조장혁\)](https://open.spotify.com/track/0ZgojjvQAKI351oYnhHKrZ) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [<나는 가수다 2> 10월 A조 경연 / 1집](https://open.spotify.com/album/41hA8ZNuquEp4VK97p6bvp) | 4:30 |
 | 41 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [Ali](https://open.spotify.com/artist/5QeXARPcuiXETSB2iPhaup) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCw3ZDUxN2FlNjA4OWIzYzY1ZTMxYzVhNGM5NmM5MDQ2NzA1MTg5MGQw`
+Snapshot ID: `MCw3MWNjNTVhOGYzZjEyZDVjZmIyOWQxZjRhMTllMTU0OWY0NDg5MTQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > Life in plastic, it's fantastic \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,525 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,450 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 |
 | 100 | [Manolo](https://open.spotify.com/track/3b9rx3ZUivS4DVSgLLkMZB) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Manolo](https://open.spotify.com/album/0krTlrLUv0cXIjPXwxqoel) | 2:36 |
 
-Snapshot ID: `MCw3MWZmYTRjM2U4NzYxOTI2ZGMyOTI0NzI4OWI2YWEwYTUzOGI4MWE1`
+Snapshot ID: `MCw2NzVmYzkxMTVkMTUyOGYyMzI3YzNiYzg5OTdhMzdiYjk2NjI2ZDll`

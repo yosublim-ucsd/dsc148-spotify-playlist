@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: J\u00e9ssica Augusto",
-  "num_followers": 142393,
+  "num_followers": 142453,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGE1NDQ4YTVmOGEyMjg1YzMzZThlNDI0Y2E3YmEyODhlYjRjZTc0",
+  "snapshot_id": "MCw0MjMxYzRhOWYxMGY3NzA1NDM1NDdhNzAyYjRiOWM0ZjViYjMzMmI5",
   "tracks": [
     {
       "added_at": "2023-08-04 17:52:53",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
-        "name": "Ess\u00eancia",
-        "url": "https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 202768,
-      "name": "Um Pouco do Que Deus Fez",
-      "url": "https://open.spotify.com/track/1F2NsHxUk1qDckkHfPtEzp"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
         "name": "Avante",
         "url": "https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG"
       },
@@ -231,6 +215,38 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
+        "name": "Ess\u00eancia",
+        "url": "https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 202768,
+      "name": "Um Pouco do Que Deus Fez",
+      "url": "https://open.spotify.com/track/1F2NsHxUk1qDckkHfPtEzp"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
+      },
+      "artists": [
+        {
+          "name": "Juninho Black",
+          "url": "https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/5DKGCBPgRe0YGvdFFDrHTg"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
         "name": "Laborat\u00f3rio Do Groove",
         "url": "https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
-        "name": "Cuida de Mim",
-        "url": "https://open.spotify.com/album/4HoqgnIu2CtdA9BaRLyIyY"
-      },
-      "artists": [
-        {
-          "name": "Julio Cesar",
-          "url": "https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr"
-        }
-      ],
-      "duration_ms": 301426,
-      "name": "O Amor de Deus",
-      "url": "https://open.spotify.com/track/5J8MT6suqzNoHktOWIor4A"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
         "name": "Pentecostes (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/6LZR9MaqoqEGrzOS5ao24m"
       },
@@ -315,34 +315,18 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
-        "name": "Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
+        "name": "Cuida de Mim",
+        "url": "https://open.spotify.com/album/4HoqgnIu2CtdA9BaRLyIyY"
       },
       "artists": [
         {
-          "name": "Juninho Black",
-          "url": "https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR"
+          "name": "Julio Cesar",
+          "url": "https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr"
         }
       ],
-      "duration_ms": 222813,
-      "name": "Vem",
-      "url": "https://open.spotify.com/track/5DKGCBPgRe0YGvdFFDrHTg"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
-        "name": "360 Graus",
-        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 234503,
-      "name": "Agindo Deus",
-      "url": "https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims"
+      "duration_ms": 301426,
+      "name": "O Amor de Deus",
+      "url": "https://open.spotify.com/track/5J8MT6suqzNoHktOWIor4A"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -395,6 +379,22 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
+        "name": "360 Graus",
+        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 234503,
+      "name": "Agindo Deus",
+      "url": "https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
         "name": "O Que Eu Preciso \u00c9 de Jesus (Live Session)",
         "url": "https://open.spotify.com/album/10In8vB7Xzk4xHmfdDt5Dq"
       },
@@ -407,38 +407,6 @@
       "duration_ms": 199293,
       "name": "O Que Eu Preciso \u00c9 de Jesus (Live Session)",
       "url": "https://open.spotify.com/track/4gfNeWiST9t0KjyiR5Ix2r"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
-        "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 249917,
-      "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
-        "name": "Luz - Parte 1",
-        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 221193,
-      "name": "Zanzando",
-      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -475,6 +443,22 @@
       "duration_ms": 240520,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "Luz - Parte 1",
+        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 221193,
+      "name": "Zanzando",
+      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -535,18 +519,18 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+        "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw"
       },
       "artists": [
         {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 212240,
-      "name": "Eu Sou De Jesus",
-      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
+      "duration_ms": 249917,
+      "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -567,6 +551,22 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+      },
+      "artists": [
+        {
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Eu Sou De Jesus",
+      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
         "name": "Vamos Celebrar",
         "url": "https://open.spotify.com/album/4ueLg77lcJouxNJkzpJM82"
       },
@@ -579,74 +579,6 @@
       "duration_ms": 232573,
       "name": "Vamos Celebrar",
       "url": "https://open.spotify.com/track/0ozg7GYG3shAiJuSzOQYBf"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
-        "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
-        "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Simplicio",
-          "url": "https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5"
-        }
-      ],
-      "duration_ms": 169318,
-      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
-      "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
-        "name": "Templo Soul",
-        "url": "https://open.spotify.com/album/5DJdyG3nrBGjkEfKSXACBd"
-      },
-      "artists": [
-        {
-          "name": "Templo Soul",
-          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Caixa D'\u00e1gua",
-      "url": "https://open.spotify.com/track/5MwN3HUdUymny3aUJPxpkm"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
-        "name": "Nada Se Compara",
-        "url": "https://open.spotify.com/album/3UeS120DmaRg42viHosGU6"
-      },
-      "artists": [
-        {
-          "name": "Coral Unasp",
-          "url": "https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2"
-        },
-        {
-          "name": "Garnet Lima",
-          "url": "https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S"
-        }
-      ],
-      "duration_ms": 181956,
-      "name": "Nada Se Compara",
-      "url": "https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
-        "name": "Avante",
-        "url": "https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "T\u00f4 Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/6bPzIPnHfGksLjrXRSJGbo"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -671,6 +603,74 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
+        "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
+        "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
+      },
+      "artists": [
+        {
+          "name": "Pablo Simplicio",
+          "url": "https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5"
+        }
+      ],
+      "duration_ms": 169318,
+      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
+      "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "Nada Se Compara",
+        "url": "https://open.spotify.com/album/3UeS120DmaRg42viHosGU6"
+      },
+      "artists": [
+        {
+          "name": "Coral Unasp",
+          "url": "https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2"
+        },
+        {
+          "name": "Garnet Lima",
+          "url": "https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S"
+        }
+      ],
+      "duration_ms": 181956,
+      "name": "Nada Se Compara",
+      "url": "https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "Templo Soul",
+        "url": "https://open.spotify.com/album/5DJdyG3nrBGjkEfKSXACBd"
+      },
+      "artists": [
+        {
+          "name": "Templo Soul",
+          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Caixa D'\u00e1gua",
+      "url": "https://open.spotify.com/track/5MwN3HUdUymny3aUJPxpkm"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "Avante",
+        "url": "https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "T\u00f4 Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/6bPzIPnHfGksLjrXRSJGbo"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
         "name": "Haja Luz",
         "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 246906,
       "name": "Ben\u00e7\u00e3o em Ben\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3YEqc7Y3wQfOEcuGk1UKQb"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "A Season Of Remixes",
+        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Brighter Day - Kirk's Mix",
+      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -703,22 +719,6 @@
       "duration_ms": 283280,
       "name": "O C\u00e9u \u00c9 o Limite",
       "url": "https://open.spotify.com/track/7d3BPwhS1MLufNHPWhM7rD"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
-        "name": "A Season Of Remixes",
-        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Brighter Day - Kirk's Mix",
-      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
-        "name": "Ema\u00fas",
-        "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
-      },
-      "artists": [
-        {
-          "name": "Templo Soul",
-          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
-        }
-      ],
-      "duration_ms": 435428,
-      "name": "Ema\u00fas",
-      "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
         "name": "Tua Gra\u00e7a Me Basta",
         "url": "https://open.spotify.com/album/6YHWwYgIvDdXEs8x23x9a2"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 225946,
       "name": "Oh Gl\u00f3ria, Aleluia",
       "url": "https://open.spotify.com/track/7awaT6tbK6XztSx1UsAixR"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "Ema\u00fas",
+        "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
+      },
+      "artists": [
+        {
+          "name": "Templo Soul",
+          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
+        }
+      ],
+      "duration_ms": 435428,
+      "name": "Ema\u00fas",
+      "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
-        "name": "Mil Dez Mil 2020: Quarentena Session",
-        "url": "https://open.spotify.com/album/2evYjFEekNHsN360hlkLfu"
-      },
-      "artists": [
-        {
-          "name": "Templo Soul",
-          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
-        }
-      ],
-      "duration_ms": 277185,
-      "name": "Mil Dez Mil 2020: Quarentena Session",
-      "url": "https://open.spotify.com/track/20Tiks2PvS7ifIsBne7gCb"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
         "name": "Fortaleza Minha",
         "url": "https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 286360,
       "name": "Profeta",
       "url": "https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "Mil Dez Mil 2020: Quarentena Session",
+        "url": "https://open.spotify.com/album/2evYjFEekNHsN360hlkLfu"
+      },
+      "artists": [
+        {
+          "name": "Templo Soul",
+          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
+        }
+      ],
+      "duration_ms": 277185,
+      "name": "Mil Dez Mil 2020: Quarentena Session",
+      "url": "https://open.spotify.com/track/20Tiks2PvS7ifIsBne7gCb"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
+        "name": "Haja Luz",
+        "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Livre Sou",
+      "url": "https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
-        "name": "Haja Luz",
-        "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Livre Sou",
-      "url": "https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
         "name": "Sobre Deixar",
         "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 220386,
       "name": "O Que H\u00e1 Por Dentro",
       "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "Rei das Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/46eO3dzrbGtGhr2HPWRCvf"
+      },
+      "artists": [
+        {
+          "name": "Luiz Arcanjo",
+          "url": "https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "Rei das Na\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/73YXZQaoyLTSUtq4IpGn6s"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -1067,38 +1083,6 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
-        "name": "Rei das Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/46eO3dzrbGtGhr2HPWRCvf"
-      },
-      "artists": [
-        {
-          "name": "Luiz Arcanjo",
-          "url": "https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Rei das Na\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/73YXZQaoyLTSUtq4IpGn6s"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
-        "name": "Celebre a Vida",
-        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
-      },
-      "artists": [
-        {
-          "name": "Bira Santos",
-          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
-        }
-      ],
-      "duration_ms": 244239,
-      "name": "Celebre a Vida",
-      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
         "name": "Tu \u00c9s Bom",
         "url": "https://open.spotify.com/album/2weuTPGZTac19nolO4fZHf"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 248460,
       "name": "Tu \u00c9s Bom",
       "url": "https://open.spotify.com/track/2C2tYTdAUNcLXLqWQh48qj"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "Celebre a Vida",
+        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
+      },
+      "artists": [
+        {
+          "name": "Bira Santos",
+          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
+        }
+      ],
+      "duration_ms": 244239,
+      "name": "Celebre a Vida",
+      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
     },
     {
       "added_at": "2023-08-04 17:52:53",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-04 17:52:53",
       "album": {
-        "name": "Eli Soares 10 Anos",
-        "url": "https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Eu Sou",
-      "url": "https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47"
-    },
-    {
-      "added_at": "2023-08-04 17:52:53",
-      "album": {
         "name": "Dele, Com Ele",
         "url": "https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 173750,
       "name": "Dele, Com Ele",
       "url": "https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX"
+    },
+    {
+      "added_at": "2023-08-04 17:52:53",
+      "album": {
+        "name": "Eli Soares 10 Anos",
+        "url": "https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Eu Sou",
+      "url": "https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47"
     },
     {
       "added_at": "2023-08-04 17:52:53",

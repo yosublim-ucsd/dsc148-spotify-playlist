@@ -225,6 +225,42 @@
     },
     {
       "album": {
+        "name": "Atlantic Diva",
+        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243921,
+      "name": "Atlantic Diva",
+      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+    },
+    {
+      "album": {
         "name": "Bassin Bleu",
         "url": "https://open.spotify.com/album/7tO4ykRDZ6vtuo5c3bmeyB"
       },
@@ -522,6 +558,24 @@
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "album": {
+        "name": "Rincones Seguros",
+        "url": "https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5"
+      },
+      "artists": [
+        {
+          "name": "RRUCCULLA",
+          "url": "https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Ciclo del agua",
+      "url": "https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU"
     },
     {
       "album": {
@@ -1090,7 +1144,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 61909,
       "name": "Intro - Space Privet for Cosmonauts",
       "url": "https://open.spotify.com/track/2Mm9hlYzCgXyBcoDL4s4uO"
@@ -1108,7 +1162,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 212848,
       "name": "is this nature escape",
       "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
@@ -1148,6 +1202,24 @@
       "duration_ms": 207226,
       "name": "Kantubek",
       "url": "https://open.spotify.com/track/33JnKsodqouVc4032CmMpY"
+    },
+    {
+      "album": {
+        "name": "Eurybia",
+        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186082,
+      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
+      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
     },
     {
       "album": {
@@ -1232,6 +1304,24 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
+    },
+    {
+      "album": {
+        "name": "Les Chemins De L'inconnu",
+        "url": "https://open.spotify.com/album/28KgvYdtsvymP5ZrmisOWp"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Les Chemins De L'Inconnu",
+      "url": "https://open.spotify.com/track/7wos99ooWSkBQgttbzugp9"
     },
     {
       "album": {
@@ -2250,7 +2340,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 1168386,
       "name": "Sun - Midnight Version",
       "url": "https://open.spotify.com/track/1qzAQw3RpFpdB7p71KQRrr"
@@ -2290,6 +2380,24 @@
       "duration_ms": 194166,
       "name": "Sweet Nocturne",
       "url": "https://open.spotify.com/track/1VMcO4mSgMRTHkUvIQeP12"
+    },
+    {
+      "album": {
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425600,
+      "name": "The Boat",
+      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
     },
     {
       "album": {
@@ -2358,7 +2466,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 243232,
       "name": "The Eighteen Beautiful Memories",
       "url": "https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP"
@@ -2456,7 +2564,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 302303,
       "name": "The Space of Love",
       "url": "https://open.spotify.com/track/6ObHLa9Rmr2aAGiZeKgWLR"
@@ -2496,6 +2604,24 @@
       "duration_ms": 208912,
       "name": "The Trembling of Glass",
       "url": "https://open.spotify.com/track/68Dw3MZNu16CrSYROJAvge"
+    },
+    {
+      "album": {
+        "name": "A Queer Anthology of Drums",
+        "url": "https://open.spotify.com/album/2uTo1vk3l4YfFgZeMHikM9"
+      },
+      "artists": [
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187052,
+      "name": "The Unity of the Mind",
+      "url": "https://open.spotify.com/track/6BAnqLgO8hm7tXianNLI5x"
     },
     {
       "album": {
@@ -2666,7 +2792,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 544533,
       "name": "Vapor Trails",
       "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
@@ -2862,7 +2988,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 406706,
       "name": "Zhao Hua",
       "url": "https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE"

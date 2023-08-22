@@ -71,6 +71,28 @@
     },
     {
       "album": {
+        "name": "Happy Rave EP",
+        "url": "https://open.spotify.com/album/5VWqkA3b2MaeWnOXH2Ejht"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201599,
+      "name": "Ain't Nobody (Loves Me Better) - Felix Jaehn Happy Rave Mix",
+      "url": "https://open.spotify.com/track/3y1vxxxJXie3N34xT1UtGe"
+    },
+    {
+      "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
       },
@@ -160,6 +182,24 @@
       "duration_ms": 171562,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/02hEGjpkW2JyvtB8eel4gP"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/2d4Fb4h9PM2RzwXcLSCtgG"
+      },
+      "artists": [
+        {
+          "name": "Emdey",
+          "url": "https://open.spotify.com/artist/74p1xp9ykLc2z0r5Nl3W7J"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153168,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5aJx4sQMQcq0nFXvxU4Cvo"
     },
     {
       "album": {
@@ -994,7 +1034,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 136960,
       "name": "Creatures Of Tomorrow",
       "url": "https://open.spotify.com/track/712zMbj5Q5kekcq3FVGvXj"
@@ -1356,7 +1396,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 235215,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg"
@@ -1904,6 +1944,36 @@
       "duration_ms": 158095,
       "name": "Highs And Lows",
       "url": "https://open.spotify.com/track/5ahreMEX9oBKkDlv6pWWlE"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/167XaosqDoQf0mSuHfU3Ry"
+      },
+      "artists": [
+        {
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        },
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        },
+        {
+          "name": "Bastiqe",
+          "url": "https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb"
+        },
+        {
+          "name": "David Emde",
+          "url": "https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142965,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6hXap10P4cHMYY7ZSwHNNw"
     },
     {
       "album": {
@@ -3364,7 +3434,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 179306,
       "name": "Older ft Jimmie Allen & Dixie D'Amelio",
       "url": "https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU"
@@ -5023,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/5RRu21XZHl3QXJ9fWhJ6Gy"
+      },
+      "artists": [
+        {
+          "name": "Tyron Hapi",
+          "url": "https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154060,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/749tHNvDmy3pxjTwlU5Ard"
+    },
+    {
+      "album": {
         "name": "We Want It",
         "url": "https://open.spotify.com/album/3Le4NjUjsjLKvggDXo0xBo"
       },
@@ -5086,7 +5174,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 181625,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/7EhDs3oFf203YIObBDrEYX"

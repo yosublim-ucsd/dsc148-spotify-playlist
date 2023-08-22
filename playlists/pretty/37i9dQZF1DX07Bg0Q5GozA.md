@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Supershy
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,429 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,481 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [\(I Don't Need A\) New Girl](https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [\(I Don't Need A\) New Girl](https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo) | 4:33 |
 | 75 | [Turn Back Time](https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Turn Back Time](https://open.spotify.com/album/0i6K3XnM3mjLlCKa2kPNIp) | 3:51 |
 
-Snapshot ID: `MCw4NmYyOWEzZTJiOGZkMGRiMDEwN2VkZGRiNGIwMjQ4YWViNmQyYjA5`
+Snapshot ID: `MCxlZWYyOGU2NzAzMzE2ZTkwNjUyMGE2YjdjN2U0OWNkYTllNDJkNGUw`

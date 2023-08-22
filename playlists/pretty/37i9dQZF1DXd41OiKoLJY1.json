@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Dani Zam Artwork: Isu Kim\n",
-  "num_followers": 56729,
+  "num_followers": 56740,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDFjMDQ1NDVkYWQ2OWE1YTk5NDY3YTY1YzIwMWI2ZDU2M2UzYmUx",
+  "snapshot_id": "MCxjOGM5ZTZlNjM1ZDAzODI0Nzk3MWIwMDI2Yzk5ZDhiZDYxZGIzZjNj",
   "tracks": [
     {
       "added_at": "2023-08-17 16:00:00",
@@ -296,12 +296,12 @@
           "url": "https://open.spotify.com/artist/4ky3wibKyqWBJyoOMfL8Au"
         },
         {
-          "name": "Trynket",
-          "url": "https://open.spotify.com/artist/532KYewibPingKExTDrDbA"
-        },
-        {
           "name": "Ge Oh",
           "url": "https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q"
+        },
+        {
+          "name": "Trynket",
+          "url": "https://open.spotify.com/artist/532KYewibPingKExTDrDbA"
         }
       ],
       "duration_ms": 175384,

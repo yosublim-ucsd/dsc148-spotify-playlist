@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-220 songs - 15 hr 57 min
+221 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [남자답게](https://open.spotify.com/track/2mI3mRPrpeO1481HhIVuWh) | [Fly to the Sky](https://open.spotify.com/artist/4Va11kshAHkYONJgZqhi0C) | [Transition](https://open.spotify.com/album/3ZQ7Je1yfm02zoIKjmFTFp) | 3:50 | 2021-04-21 |  |
 | [내가 너의 곁에 잠시 살았다는 걸](https://open.spotify.com/track/5amgK2rjUTSyXS1q1IUNR8) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [토이2집\-YOUHEEYEOL](https://open.spotify.com/album/6jOgaajTtTZM6zyjIkNd4u) | 5:12 | 2021-04-21 |  |
 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 | 2021-04-21 |  |
-| [내사랑 내곁에](https://open.spotify.com/track/7oG6pyDbYEY3U9dmdnJw3g) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [나는 가수다 \- 호주 특별 공연](https://open.spotify.com/album/6Y1cCI04Wnqp0LmiWQYVXB) | 4:38 | 2021-04-21 |  |
+| [내사랑 내곁에](https://open.spotify.com/track/7oG6pyDbYEY3U9dmdnJw3g) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [나는 가수다 \- 호주 특별 공연](https://open.spotify.com/album/6Y1cCI04Wnqp0LmiWQYVXB) | 4:38 | 2021-04-21 | 2023-08-22 |
+| [내사랑 내곁에 \(김현식\)](https://open.spotify.com/track/0CmzoZPuhlCZGPpNDToL3R) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [<나는 가수다> \`호주 특별 공연\`](https://open.spotify.com/album/4rhIkswyzmgVP2lXxB3G85) | 4:38 | 2021-04-21 |  |
 | [눈 떠보니 이별이더라](https://open.spotify.com/track/22CY3wlF8O6Z9QkOWYhaz5) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [REMEMBER ME](https://open.spotify.com/album/2tL7dlbstmskUJL3jqW6y3) | 4:42 | 2021-04-21 |  |
 | [눈의 꽃](https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Neo Classicism](https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul) | 5:42 | 2021-04-21 |  |
 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 | 2021-04-21 |  |

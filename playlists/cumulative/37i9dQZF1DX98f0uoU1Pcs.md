@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-524 songs - 1 day 4 hr 18 min
+525 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Left Right Forward](https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Left Right Forward](https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE) | 2:55 | 2023-04-07 |  |
 | [Let It All Go](https://open.spotify.com/track/1bZh05eZmb6Nl0t5fPhEgN) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Wading \- EP](https://open.spotify.com/album/6SM2HhCR9ct5DPU3TEnV76) | 4:22 | 2022-01-07 | 2022-03-12 |
 | [Let Me Be Normal](https://open.spotify.com/track/4aPd0Ce1cRiE2Yg1fty3HD) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Let Me Be Normal](https://open.spotify.com/album/6RjuNtTTG4MkTaAxxzjZIJ) | 2:22 | 2022-10-07 | 2023-03-11 |
+| [Let's Do Drugs](https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Let's Do Drugs](https://open.spotify.com/album/6dFaxMX3QrHLdUO54jID00) | 2:19 | 2023-08-21 |  |
 | [Let's Go Home](https://open.spotify.com/track/35QZ6puf9YLNQIEpKUQ8Ay) | [The Pink Spiders](https://open.spotify.com/artist/0UREuWUT6wPZoL1Gglwmm0) | [Let's Go Home](https://open.spotify.com/album/3Qg4vX2IV4MOYD25au2PKX) | 3:27 | 2023-06-16 |  |
 | [Life in the Void](https://open.spotify.com/track/0b8fkzdUPsz0cVmQlTqs71) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [The Town That Cursed Your Name](https://open.spotify.com/album/4bjPoNmAvTSTURJ7PWP0B6) | 2:40 | 2023-04-14 | 2023-07-15 |
 | [Life in the Void](https://open.spotify.com/track/3PZWApSYXue8hahOGd6o2f) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [The Town That Cursed Your Name](https://open.spotify.com/album/2gp5BvkFNT3urcXjtZ22fs) | 2:40 | 2023-03-17 | 2023-04-30 |

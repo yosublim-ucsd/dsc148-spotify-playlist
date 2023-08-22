@@ -1,12 +1,12 @@
 {
   "description": "tunes for walking, driving, running, flying, etc",
-  "num_followers": 180740,
+  "num_followers": 180823,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDUwMjczMjg1ZjZhOWNlZWNmNDQ5NDI3OTRkMDBlOGNkOWM3ZmZm",
+  "snapshot_id": "MCxiNGZjMjY0N2I0NTM5Mjg0NzdkMjFhMzcyYmU5MDA2ZDA0YzZhYzk4",
   "tracks": [
     {
       "added_at": "2023-08-09 21:18:22",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "You and Your Friends (Deluxe)",
-        "url": "https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Psychics in LA",
-      "url": "https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Are We Going Too Slow?",
         "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 188380,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "You and Your Friends (Deluxe)",
+        "url": "https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Psychics in LA",
+      "url": "https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Habits",
         "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 250362,
       "name": "Teen Scene (ft. Buddy)",
       "url": "https://open.spotify.com/track/3cyw3MYxhpCSPMawfqdFNk"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Funny Lil Thing",
-        "url": "https://open.spotify.com/album/3bIvM9B0DSigibWe7dETQU"
-      },
-      "artists": [
-        {
-          "name": "The Golf Club",
-          "url": "https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT"
-        }
-      ],
-      "duration_ms": 137894,
-      "name": "Funny Lil Thing",
-      "url": "https://open.spotify.com/track/1miZjnQVLe4p6sHZiKn6P9"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Winona",
         "url": "https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 145186,
       "name": "Winona",
       "url": "https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Funny Lil Thing",
+        "url": "https://open.spotify.com/album/3bIvM9B0DSigibWe7dETQU"
+      },
+      "artists": [
+        {
+          "name": "The Golf Club",
+          "url": "https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT"
+        }
+      ],
+      "duration_ms": 137894,
+      "name": "Funny Lil Thing",
+      "url": "https://open.spotify.com/track/1miZjnQVLe4p6sHZiKn6P9"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Brave & Afraid",
-        "url": "https://open.spotify.com/album/3lvjqdNNA5MufpKO2mTsi6"
+        "name": "NEVER CRY AGAIN",
+        "url": "https://open.spotify.com/album/1uYX907pgQI6YblNc087rK"
       },
       "artists": [
         {
-          "name": "Marques Martin",
-          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
         }
       ],
-      "duration_ms": 220147,
-      "name": "Belles",
-      "url": "https://open.spotify.com/track/4RpoYe85npfGZ9JEzTdzx8"
+      "duration_ms": 164573,
+      "name": "NEVER CRY AGAIN",
+      "url": "https://open.spotify.com/track/4oHUV9PR1jCJNqZ35xuSZ1"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -991,18 +991,34 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "NEVER CRY AGAIN",
-        "url": "https://open.spotify.com/album/1uYX907pgQI6YblNc087rK"
+        "name": "Brave & Afraid",
+        "url": "https://open.spotify.com/album/3lvjqdNNA5MufpKO2mTsi6"
       },
       "artists": [
         {
-          "name": "John Michael Howell",
-          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+          "name": "Marques Martin",
+          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
         }
       ],
-      "duration_ms": 164573,
-      "name": "NEVER CRY AGAIN",
-      "url": "https://open.spotify.com/track/4oHUV9PR1jCJNqZ35xuSZ1"
+      "duration_ms": 220147,
+      "name": "Belles",
+      "url": "https://open.spotify.com/track/4RpoYe85npfGZ9JEzTdzx8"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "LOOK AT THIS MESS IVE MADE EP",
+        "url": "https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk"
+      },
+      "artists": [
+        {
+          "name": "LoveLeo",
+          "url": "https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6"
+        }
+      ],
+      "duration_ms": 156149,
+      "name": "HEAD OVER HEELS",
+      "url": "https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1023,22 +1039,6 @@
       "duration_ms": 212631,
       "name": "JUNE",
       "url": "https://open.spotify.com/track/7J6ksWrraIusOZztXNyFdw"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "LOOK AT THIS MESS IVE MADE EP",
-        "url": "https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk"
-      },
-      "artists": [
-        {
-          "name": "LoveLeo",
-          "url": "https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6"
-        }
-      ],
-      "duration_ms": 156149,
-      "name": "HEAD OVER HEELS",
-      "url": "https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Weather Report",
+        "url": "https://open.spotify.com/album/4EeNAmLMJpwE1IoZJjbQGn"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Fortune Cookie",
+      "url": "https://open.spotify.com/track/7I0MuhVysG7x8yYpLQPS4z"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "keep in touch",
         "url": "https://open.spotify.com/album/2vLQadIAwgChhNUu2WguFK"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 212584,
       "name": "Can U Meet Me There",
       "url": "https://open.spotify.com/track/5mOPWc6HBo77VOztxzFh5s"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Weather Report",
-        "url": "https://open.spotify.com/album/4EeNAmLMJpwE1IoZJjbQGn"
-      },
-      "artists": [
-        {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Fortune Cookie",
-      "url": "https://open.spotify.com/track/7I0MuhVysG7x8yYpLQPS4z"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "FORTHEWORLD",
-        "url": "https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr"
-      },
-      "artists": [
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 145620,
-      "name": "benny!",
-      "url": "https://open.spotify.com/track/6hDJWLmPebVbFrDC9hw1Ry"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "PIE",
         "url": "https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "FORTHEWORLD",
+        "url": "https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 145620,
+      "name": "benny!",
+      "url": "https://open.spotify.com/track/6hDJWLmPebVbFrDC9hw1Ry"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Mixtape",
-        "url": "https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg"
+        "name": "long way home",
+        "url": "https://open.spotify.com/album/1TZzFg1iyjjJbMJow7lgwG"
       },
       "artists": [
         {
-          "name": "Bobbing",
-          "url": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX"
+          "name": "Fantasy Camp",
+          "url": "https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j"
         }
       ],
-      "duration_ms": 91757,
-      "name": "Ah Uh Oh",
-      "url": "https://open.spotify.com/track/18Tak6ShCoGoxZhBgn2IoY"
+      "duration_ms": 186240,
+      "name": "bug bite",
+      "url": "https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "long way home",
-        "url": "https://open.spotify.com/album/1TZzFg1iyjjJbMJow7lgwG"
+        "name": "Mixtape",
+        "url": "https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg"
       },
       "artists": [
         {
-          "name": "Fantasy Camp",
-          "url": "https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j"
+          "name": "Bobbing",
+          "url": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX"
         }
       ],
-      "duration_ms": 186240,
-      "name": "bug bite",
-      "url": "https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb"
+      "duration_ms": 91757,
+      "name": "Ah Uh Oh",
+      "url": "https://open.spotify.com/track/18Tak6ShCoGoxZhBgn2IoY"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1683,18 +1683,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Feels Like Yesterday",
-        "url": "https://open.spotify.com/album/027AHWfrY6McSuGQc4knI2"
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/1HTYkylMaJEJzTeDCGfjt8"
       },
       "artists": [
         {
-          "name": "Hala",
-          "url": "https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t"
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        },
+        {
+          "name": "Tabi",
+          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
         }
       ],
-      "duration_ms": 176385,
-      "name": "Feels Like Yesterday",
-      "url": "https://open.spotify.com/track/2UnhQgwBpyZlOtcvhDlx1Y"
+      "duration_ms": 144076,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/3YJS5rTnXPsQgzZyIyC3Xw"
     }
   ],
   "unique_name": "omw",

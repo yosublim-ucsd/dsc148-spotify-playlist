@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! \u00bfA qui\u00e9n no te vas a perder? ",
-  "num_followers": 11738,
+  "num_followers": 11737,
   "original_name": "Carnaval de Bahidor\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjQ4OGRkM2EyYTc3MjVmMDg3Nzg2OWE0ZGNlMWQyOGM1NmUzNDlk",
+  "snapshot_id": "MCw1MmZhYmZhMmVkZDg3YTBjZDE0YzdlYjZmZDIzOTkyMzg0NmIxMzJl",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Nena - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 153251,
+      "name": "Nena - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "New Me, Same Us",
         "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 293626,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5yQp0RrQ7wdMZoiQ6fnAme"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Nena - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 153251,
-      "name": "Nena - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Silent Spring EP",
+        "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
+      },
+      "artists": [
+        {
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
+        }
+      ],
+      "duration_ms": 435041,
+      "name": "Should've Brought an Umbrella",
+      "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "AMARILLO MI CORAZ\u00d3N",
         "url": "https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 372386,
       "name": "Ti-de",
       "url": "https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Silent Spring EP",
-        "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
-      },
-      "artists": [
-        {
-          "name": "Stavroz",
-          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
-        }
-      ],
-      "duration_ms": 435041,
-      "name": "Should've Brought an Umbrella",
-      "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Asakusa Light",
-        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
-      },
-      "artists": [
-        {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        }
-      ],
-      "duration_ms": 271349,
-      "name": "Diving into Minds",
-      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Una Pena",
         "url": "https://open.spotify.com/album/4KHVqwTF2jO1gTYHATQVMM"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 485124,
       "name": "UNA PENA - ORGINAL",
       "url": "https://open.spotify.com/track/0KD97PT97Qi2a7Zuq2gJkL"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Asakusa Light",
+        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        }
+      ],
+      "duration_ms": 271349,
+      "name": "Diving into Minds",
+      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -655,38 +655,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q"
-      },
-      "artists": [
-        {
-          "name": "Mildlife",
-          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
-        }
-      ],
-      "duration_ms": 401626,
-      "name": "Memory Palace",
-      "url": "https://open.spotify.com/track/1FnxDnuiG7WJAFmtFTlejT"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Deepsoul",
-        "url": "https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM"
-      },
-      "artists": [
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Femme Tech",
         "url": "https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J"
       },
@@ -699,22 +667,6 @@
       "duration_ms": 382439,
       "name": "Femme",
       "url": "https://open.spotify.com/track/4mNI8DJ5LS91D1bTjaqNg7"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Ape Escape 3 - Originape Soundtracks / \u30b5\u30eb\u30b2\u30c3\u30c1\u30e53\u30fb\u30aa\u30ea\u30b8\u30b5\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe"
-      },
-      "artists": [
-        {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        }
-      ],
-      "duration_ms": 124266,
-      "name": "\u3068\u3093\u3066\u3099\u3082\u30de\u30a6\u30f3\u30c6\u30f32 / Mount Amazing 2",
-      "url": "https://open.spotify.com/track/4qkpPliACyu6q4kK6NvJls"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -739,6 +691,38 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Deepsoul",
+        "url": "https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "duration_ms": 401626,
+      "name": "Memory Palace",
+      "url": "https://open.spotify.com/track/1FnxDnuiG7WJAFmtFTlejT"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Window Shopping",
         "url": "https://open.spotify.com/album/70J7rIqqTeuNxIogrSii36"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 517758,
       "name": "The Song",
       "url": "https://open.spotify.com/track/6VM1kODr0GOt0y5VirvXW2"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Ape Escape 3 - Originape Soundtracks / \u30b5\u30eb\u30b2\u30c3\u30c1\u30e53\u30fb\u30aa\u30ea\u30b8\u30b5\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        }
+      ],
+      "duration_ms": 124266,
+      "name": "\u3068\u3093\u3066\u3099\u3082\u30de\u30a6\u30f3\u30c6\u30f32 / Mount Amazing 2",
+      "url": "https://open.spotify.com/track/4qkpPliACyu6q4kK6NvJls"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "The Fall LP",
-        "url": "https://open.spotify.com/album/6LjyBYb3dxHNye7nh3RJVX"
-      },
-      "artists": [
-        {
-          "name": "Moxie",
-          "url": "https://open.spotify.com/artist/4K2IUtmY2APWh6mdxzBOZF"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Go Getter",
-      "url": "https://open.spotify.com/track/2B2xe6uFtE85JxHf6bebSq"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "El Sonido Nuevo de",
         "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 200458,
       "name": "Towards The Mountain",
       "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "The Fall LP",
+        "url": "https://open.spotify.com/album/6LjyBYb3dxHNye7nh3RJVX"
+      },
+      "artists": [
+        {
+          "name": "Moxie",
+          "url": "https://open.spotify.com/artist/4K2IUtmY2APWh6mdxzBOZF"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Go Getter",
+      "url": "https://open.spotify.com/track/2B2xe6uFtE85JxHf6bebSq"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Estraik Back",
-        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
-      },
-      "artists": [
-        {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
-        }
-      ],
-      "duration_ms": 231226,
-      "name": "Perro Rabioso",
-      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Tu Color",
         "url": "https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 226960,
       "name": "Tu Color",
       "url": "https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "duration_ms": 231226,
+      "name": "Perro Rabioso",
+      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Outta Sync",
-        "url": "https://open.spotify.com/album/51d12vDqs21akI7JzXTdH7"
-      },
-      "artists": [
-        {
-          "name": "Don Letts",
-          "url": "https://open.spotify.com/artist/79UXgdUqtyrIIAzgGzGkAa"
-        }
-      ],
-      "duration_ms": 271026,
-      "name": "Outta Sync",
-      "url": "https://open.spotify.com/track/2wm9AJooKGLfR6QC8TTojp"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "The Only Way Out Is In",
         "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 346075,
       "name": "Igwee",
       "url": "https://open.spotify.com/track/1h9RSsiwju4Ioz5Q6rMXd0"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Outta Sync",
+        "url": "https://open.spotify.com/album/51d12vDqs21akI7JzXTdH7"
+      },
+      "artists": [
+        {
+          "name": "Don Letts",
+          "url": "https://open.spotify.com/artist/79UXgdUqtyrIIAzgGzGkAa"
+        }
+      ],
+      "duration_ms": 271026,
+      "name": "Outta Sync",
+      "url": "https://open.spotify.com/track/2wm9AJooKGLfR6QC8TTojp"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Estraik Back",
-        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
-      },
-      "artists": [
-        {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
-        }
-      ],
-      "duration_ms": 242578,
-      "name": "Otro Pais",
-      "url": "https://open.spotify.com/track/2h9icBCyl9pVsfcN0ZQG6H"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "My Sentient Shadow",
-        "url": "https://open.spotify.com/album/09Bd5Q7D4hBS5XuRHL1VhB"
-      },
-      "artists": [
-        {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/64PiD6gdmMy2lEgS5XgdjR"
-        }
-      ],
-      "duration_ms": 314306,
-      "name": "Foreign to You (feat. NiQ E)",
-      "url": "https://open.spotify.com/track/5USp6KjDcrgiXX57i27Tpd"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "The Only Way Out Is In",
         "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
       },
@@ -1135,6 +1103,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "duration_ms": 242578,
+      "name": "Otro Pais",
+      "url": "https://open.spotify.com/track/2h9icBCyl9pVsfcN0ZQG6H"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Ruise\u00f1or en su tinta",
         "url": "https://open.spotify.com/album/4H24kwEBnj5HXFqojqTl9q"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 215849,
       "name": "Te invito a santiago con Leinadh",
       "url": "https://open.spotify.com/track/5WTn6NbKBQRXiiAtkqFOCc"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "My Sentient Shadow",
+        "url": "https://open.spotify.com/album/09Bd5Q7D4hBS5XuRHL1VhB"
+      },
+      "artists": [
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/64PiD6gdmMy2lEgS5XgdjR"
+        }
+      ],
+      "duration_ms": 314306,
+      "name": "Foreign to You (feat. NiQ E)",
+      "url": "https://open.spotify.com/track/5USp6KjDcrgiXX57i27Tpd"
     },
     {
       "added_at": "2023-02-03 06:30:00",

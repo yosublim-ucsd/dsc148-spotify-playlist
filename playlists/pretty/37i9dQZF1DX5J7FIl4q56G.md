@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,308 likes - 84 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,515 likes - 84 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Trouble](https://open.spotify.com/track/4iDhxxZJNbR67naWKcxylA) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [We're All Desperate Together](https://open.spotify.com/album/25NuVtqgG3EECjVUUDKnDA) | 3:28 |
 | 56 | [Serpents & Daggers](https://open.spotify.com/track/4zVFRjRctIPRn5rPeqrVDw) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [Serpents & Daggers](https://open.spotify.com/album/0Kl19seYWRD7eSseBP5wS7) | 4:31 |
 | 57 | [Almost Always \- Instrumental](https://open.spotify.com/track/4psTTk86QnmY57uzXHya10) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Almost Always \(Instrumental\)](https://open.spotify.com/album/3tZFOLtpZz7NN2XaX8skeJ) | 6:50 |
-| 58 | [Ýdalir](https://open.spotify.com/track/4l83K4I8nrw199XotkMtqy) | [Skálmöld](https://open.spotify.com/artist/61OnUq2Pb2GDDGlrHb7I6U) | [Ýdalir](https://open.spotify.com/album/5lTYv86bxfIwbl0Xx9d8Y1) | 5:06 |
+| 58 | [Ýdalir](https://open.spotify.com/track/5Lf5i3G6YhoFxruADqzUfn) | [Skálmöld](https://open.spotify.com/artist/61OnUq2Pb2GDDGlrHb7I6U) | [Ýdalir](https://open.spotify.com/album/4ir1jZRai84GjhTjnGrG84) | 5:06 |
 | 59 | [The Anticosmic Overload \- Live](https://open.spotify.com/track/4FVh7e2020aN1sLgushpRK) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [The Anticosmic Overload \(Live\)](https://open.spotify.com/album/1pZgf4alsCkQxPFDIPWhaW) | 4:24 |
 | 60 | [Violent Delights](https://open.spotify.com/track/3RJBmoQXR1geomO5gZiB6Y) | [Galleons](https://open.spotify.com/artist/0JE6zkJHzUQRY7rmI919eo) | [Violent Delights](https://open.spotify.com/album/5NdYQ9c0GmmhMNJz4m97wk) | 3:53 |
 | 61 | [Island of Dead Men](https://open.spotify.com/track/1n857ftGC4pbJhFjBmf5im) | [Asinhell](https://open.spotify.com/artist/0LDCMz2as9KQgSlX3KJNYx) | [Island of Dead Men](https://open.spotify.com/album/5wpL7nK7eCM33EXe9auPt1) | 3:01 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 83 | [The Human Plague](https://open.spotify.com/track/5jPIKBIeRrsOMJfkArAv7w) | [Dead Talks](https://open.spotify.com/artist/6cGK6iUdBgzinU92vsbCLS) | [Veneration of the Dead](https://open.spotify.com/album/1Wj1qXc0DQlgxOlWetzDhq) | 4:12 |
 | 84 | [Veil of Sanity](https://open.spotify.com/track/3FgF50tuRV8Cp0OLwXMjfW) | [A Goat As Our Shepherd](https://open.spotify.com/artist/3uY2OWm0SxXkay5taEJG3V) | [Veil of Sanity](https://open.spotify.com/album/3iH0avGtUCzeVo7inilWeq) | 3:55 |
 
-Snapshot ID: `MCw2NTc5NTIzMjdmMWZiZTM4OWE1NGQ1YmM0MWE2NDkxM2Y2NWNiYWRh`
+Snapshot ID: `MCxiMjU2MTZiZDE0NGQyNjgzOWI1OTRmOWZiMDhiZDY5M2UyMzNiZmM0`

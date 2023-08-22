@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-316 songs - 14 hr 37 min
+317 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 | 2022-01-27 |  |
 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 | 2022-05-12 |  |
 | [Kongen av campen](https://open.spotify.com/track/5hwySzV76a0LyYExMoK5tq) | [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC), [Stjørna Heimbrentslag](https://open.spotify.com/artist/40WYRdzpABj4U2tEGEUpHP) | [Kongen av campen](https://open.spotify.com/album/2tNoKYU0O4q6hwXiJbhmOC) | 2:42 | 2022-05-19 | 2022-07-13 |
-| [Kongen av campingplassen](https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [En får være som en er](https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT) | 3:25 | 2022-10-13 |  |
+| [Kongen av campingplassen](https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [En får være som en er](https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT) | 3:25 | 2022-10-13 | 2023-08-22 |
 | [Kursiv](https://open.spotify.com/track/0YyED0H9S499O2c8U7ydtV) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR) | [Kursiv](https://open.spotify.com/album/1zWg0ttvnAe0KIoolgn7NX) | 2:12 | 2022-06-23 | 2022-10-14 |
 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/5GPa945q93slwVFDuNgtMs) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/4xAMXHwSNXIej5EYS2xUyO) | 3:06 | 2021-12-16 | 2022-07-28 |
 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 | 2022-10-13 | 2022-10-16 |
@@ -225,6 +225,7 @@
 | [Oppi ein dal](https://open.spotify.com/track/6WiAX5SXrCj5z6kk5YrxGb) | [Kruttrøyk](https://open.spotify.com/artist/1e1vDSbWqUyPfETrVY5mM8) | [Farande fant](https://open.spotify.com/album/2hmiqt8cfsJajxqRGJrnUh) | 3:01 | 2022-10-13 | 2022-10-16 |
 | [Oslo \- Takk, jeg er ferdig](https://open.spotify.com/track/1KRshP62zz9fFXfRzqHOD8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Oslo \(Takk, jeg er ferdig\)](https://open.spotify.com/album/0YiF4FO522DbWOwzfCW1Fc) | 2:24 | 2021-12-16 | 2022-10-16 |
 | [Partyjoik](https://open.spotify.com/track/74mJCN9Yr4aTxRM7AbS4FI) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Partyjoik](https://open.spotify.com/album/0y18OXhsVZFe0xVABQO1g1) | 2:34 | 2022-02-03 | 2022-08-05 |
+| [PIGA & DRÄNG](https://open.spotify.com/track/3TqNrIB75lAx8rJBzyLNhX) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [PIGA & DRÄNG](https://open.spotify.com/album/2hv4vzbU53T6bjOSv0vpm0) | 2:28 | 2023-08-17 |  |
 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 | 2021-12-16 |  |
 | [Polisen](https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Polisen](https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL) | 2:34 | 2021-12-16 |  |
 | [PRIMADONNA](https://open.spotify.com/track/47aGU91Mqqjt1ZJ9NgQXqY) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [PRIMADONNA](https://open.spotify.com/album/7iZHtwqroxPl38CB1LRxpv) | 2:15 | 2022-09-22 | 2022-10-14 |

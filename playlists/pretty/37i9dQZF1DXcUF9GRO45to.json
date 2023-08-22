@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 27606,
+  "num_followers": 27634,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGZmOWI3MzI1ZjA3OTQzM2YyZWJlMzJlMTkxMzAwNjQ3ZTQ3NjAx",
+  "snapshot_id": "MCxiZTU0NzQ0ZjNjMGEyMDM0OWM5Y2UwZDJmMjE1Mzc4NzYyN2E5YzIz",
   "tracks": [
     {
       "added_at": "2023-07-23 21:26:18",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "Factory (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bqAsAhjXyeM4KrsBQDwOA"
+      },
+      "artists": [
+        {
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+        }
+      ],
+      "duration_ms": 157758,
+      "name": "I'm Rollin'",
+      "url": "https://open.spotify.com/track/0QYhsHnG4PNrx104D2Gavz"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Aucun mec ne ressemble \u00e0 Brad Pitt dans la Dr\u00f4me",
         "url": "https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 233586,
       "name": "A Man Oustanding In His Field",
       "url": "https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Factory (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bqAsAhjXyeM4KrsBQDwOA"
-      },
-      "artists": [
-        {
-          "name": "No Money Kids",
-          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
-        }
-      ],
-      "duration_ms": 157758,
-      "name": "I'm Rollin'",
-      "url": "https://open.spotify.com/track/0QYhsHnG4PNrx104D2Gavz"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Long Life",
-        "url": "https://open.spotify.com/album/54xgrAyNTiSiVPXydgJPoF"
-      },
-      "artists": [
-        {
-          "name": "Structures",
-          "url": "https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Long Life",
-      "url": "https://open.spotify.com/track/2N2A6MMehPqIQ6w7keCUDc"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "N\u00e9ant",
         "url": "https://open.spotify.com/album/2DNqvxMLvHoBkRqJm3jKNu"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 249533,
       "name": "N\u00e9ant",
       "url": "https://open.spotify.com/track/49KvJyXnYReCKEUcvUsFbF"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Long Life",
+        "url": "https://open.spotify.com/album/54xgrAyNTiSiVPXydgJPoF"
+      },
+      "artists": [
+        {
+          "name": "Structures",
+          "url": "https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Long Life",
+      "url": "https://open.spotify.com/track/2N2A6MMehPqIQ6w7keCUDc"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
-      },
-      "artists": [
-        {
-          "name": "MSS FRNCE",
-          "url": "https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO"
-        }
-      ],
-      "duration_ms": 107456,
-      "name": "Pas la peine",
-      "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Take It or Leave It",
         "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 238947,
       "name": "Take It",
       "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
+      },
+      "artists": [
+        {
+          "name": "MSS FRNCE",
+          "url": "https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO"
+        }
+      ],
+      "duration_ms": 107456,
+      "name": "Pas la peine",
+      "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "LOOV",
-        "url": "https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8"
-      },
-      "artists": [
-        {
-          "name": "Mat Bastard",
-          "url": "https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Stay Close To Me",
-      "url": "https://open.spotify.com/track/58pV7RsaDG3rj2K3US9vJb"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Kamggarn",
         "url": "https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 236542,
       "name": "Lonesome Terror",
       "url": "https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "LOOV",
+        "url": "https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8"
+      },
+      "artists": [
+        {
+          "name": "Mat Bastard",
+          "url": "https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Stay Close To Me",
+      "url": "https://open.spotify.com/track/58pV7RsaDG3rj2K3US9vJb"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "...About Going Home",
-        "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
-      },
-      "artists": [
-        {
-          "name": "FRAGILE",
-          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Model",
-      "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Afterparty - All We Have Is Now",
         "url": "https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 181600,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "...About Going Home",
+        "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
+      },
+      "artists": [
+        {
+          "name": "FRAGILE",
+          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Bitter Memory",
-        "url": "https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE"
-      },
-      "artists": [
-        {
-          "name": "The One You Loved",
-          "url": "https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY"
-        }
-      ],
-      "duration_ms": 233023,
-      "name": "Toxin",
-      "url": "https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "This Too Shall Pass",
         "url": "https://open.spotify.com/album/2cQYNZcTP8bD02QwiFCS2i"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 289219,
       "name": "Aside",
       "url": "https://open.spotify.com/track/0vCypxhwkZTmBr8WIH97ha"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Bitter Memory",
+        "url": "https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE"
+      },
+      "artists": [
+        {
+          "name": "The One You Loved",
+          "url": "https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY"
+        }
+      ],
+      "duration_ms": 233023,
+      "name": "Toxin",
+      "url": "https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "Tachycardie (Extended Version)",
+        "url": "https://open.spotify.com/album/5E3RiKz8pmxeCRgbSH8NFT"
+      },
+      "artists": [
+        {
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Zone 51",
+      "url": "https://open.spotify.com/track/2lPQSkalkNnFAu1d50Wh9j"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 308474,
       "name": "R\u00e9veil heureux",
       "url": "https://open.spotify.com/track/5jIOQUM9SWwLE2QmWFh30R"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Tachycardie (Extended Version)",
-        "url": "https://open.spotify.com/album/5E3RiKz8pmxeCRgbSH8NFT"
-      },
-      "artists": [
-        {
-          "name": "Bandit Bandit",
-          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Zone 51",
-      "url": "https://open.spotify.com/track/2lPQSkalkNnFAu1d50Wh9j"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "The West Is the Best",
-        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
       },
       "artists": [
         {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
         }
       ],
-      "duration_ms": 221322,
-      "name": "Echo Street",
-      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
+      "duration_ms": 228080,
+      "name": "HORIZON",
+      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "HORIZON",
-        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
+        "name": "The West Is the Best",
+        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
       },
       "artists": [
         {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
         }
       ],
-      "duration_ms": 228080,
-      "name": "HORIZON",
-      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
+      "duration_ms": 221322,
+      "name": "Echo Street",
+      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "Houses Are Built The Same",
+        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
+      },
+      "artists": [
+        {
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+        }
+      ],
+      "duration_ms": 190508,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Ain't No Princess",
         "url": "https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Houses Are Built The Same",
-        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
-      },
-      "artists": [
-        {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
-        }
-      ],
-      "duration_ms": 190508,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Billy Believe",
         "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "AqME",
-        "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
-      },
-      "artists": [
-        {
-          "name": "AqME",
-          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Tant d'ann\u00e9es",
-      "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 192815,
       "name": "Humans",
       "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "AqME",
+        "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
+      },
+      "artists": [
+        {
+          "name": "AqME",
+          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Tant d'ann\u00e9es",
+      "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Meet In The City",
-        "url": "https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny"
-      },
-      "artists": [
-        {
-          "name": "Dirty Deep & Yarol",
-          "url": "https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl"
-        }
-      ],
-      "duration_ms": 323054,
-      "name": "Two Rocks In a Whiskey",
-      "url": "https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Daddy Issues",
         "url": "https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 289476,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Meet In The City",
+        "url": "https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny"
+      },
+      "artists": [
+        {
+          "name": "Dirty Deep & Yarol",
+          "url": "https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl"
+        }
+      ],
+      "duration_ms": 323054,
+      "name": "Two Rocks In a Whiskey",
+      "url": "https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Fall Away",
-        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
-      },
-      "artists": [
-        {
-          "name": "Hype Lights",
-          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "DEUXI\u00c8ME \u00c9TOILE",
         "url": "https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 164026,
       "name": "REQUIN MAKO",
       "url": "https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Fall Away",
+        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
+      },
+      "artists": [
+        {
+          "name": "Hype Lights",
+          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
+        }
+      ],
+      "duration_ms": 182008,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1603,34 +1603,34 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
+        "name": "Salvation Prayer",
+        "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
       },
       "artists": [
         {
-          "name": "Laura Cox",
-          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+          "name": "You Said Strange",
+          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
         }
       ],
-      "duration_ms": 236868,
-      "name": "One Big Mess",
-      "url": "https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg"
+      "duration_ms": 294594,
+      "name": "Cold Crusader",
+      "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
     },
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Club Dragon",
-        "url": "https://open.spotify.com/album/7xfnCJRBfEBZgwkxFHIsb4"
+        "name": "Songs/Motion Return",
+        "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
       },
       "artists": [
         {
-          "name": "Hightower",
-          "url": "https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo"
+          "name": "Stuffed Foxes",
+          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
         }
       ],
-      "duration_ms": 195364,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/4X3sNQbihB9lJaySnq5LR8"
+      "duration_ms": 227426,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
     }
   ],
   "unique_name": "French Noise",

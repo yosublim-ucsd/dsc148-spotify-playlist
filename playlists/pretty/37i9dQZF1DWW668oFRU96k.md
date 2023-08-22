@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Icona Pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,358 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,368 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 64 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 |
 | 65 | [dontstopme!](https://open.spotify.com/track/6CNXcjAeOvjTwJeNCEdfWs) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [dontstopme!](https://open.spotify.com/album/3GBBjfai3AbK7ma8hDU8ic) | 3:41 |
 
-Snapshot ID: `MCw2ODlmM2Q2NmY5MmY2ODZkMDVkNDVkODk5NTk2MTUyOGEzYjg3N2Q0`
+Snapshot ID: `MCwwMTA3OWRiZTFiM2VlMDUzY2IwOTA4M2QyN2JjZTM4MDQwMWIyODky`

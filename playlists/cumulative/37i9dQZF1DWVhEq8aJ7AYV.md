@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-237 songs - 11 hr 49 min
+238 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Inadaptado](https://open.spotify.com/track/4ldtWKLmk9zDwTK8fujYt7) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3) | [Inadaptado](https://open.spotify.com/album/11bwG8tiRDt9haCo3yOxM1) | 2:16 | 2021-09-03 | 2022-11-01 |
 | [Introducción](https://open.spotify.com/track/2aMG9YYvvHojwf7Dg7UAm6) | [Los Supersónicos](https://open.spotify.com/artist/4RFAwiTOsIV30Ef4A13gnE) | [Introducción](https://open.spotify.com/album/0NGc64udtT4FL26C0Cffxp) | 3:08 | 2021-09-03 | 2022-07-29 |
 | [Intruder](https://open.spotify.com/track/0WyAiymmsxOqoujctf8MrB) | [The Madeira](https://open.spotify.com/artist/0onb2OjHiGTxu5kylK1CXp) | [Ruins](https://open.spotify.com/album/3GYgCKeM5X33IflH762MAO) | 3:55 | 2021-09-03 | 2022-07-11 |
-| [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 | 2021-09-03 |  |
+| [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 | 2021-09-03 | 2023-08-22 |
 | [It's Monster Surfing Time](https://open.spotify.com/track/60xQKEF7PVW14ITUCVC8ip) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI) | 2:11 | 2021-09-03 | 2022-07-27 |
 | [It's Monster Surfing Time](https://open.spotify.com/track/70FzFTP41ewLArLpyO8YKZ) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6) | 2:11 | 2021-09-03 | 2023-04-25 |
 | [I’ll Be Loving You](https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [Invisible Girl](https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT) | 3:10 | 2021-09-03 |  |
@@ -190,6 +190,7 @@
 | [Saca la Chela](https://open.spotify.com/track/3aZXqmXuF0lSmhV3AliJMc) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:09 | 2021-09-03 |  |
 | [Salvaje](https://open.spotify.com/track/0gRXpYOT6VpuTaDumUZZ5A) | [Los Ruido](https://open.spotify.com/artist/7eU0Z1fjg6N6Fb2DJT8Z1F) | [Los Ruido](https://open.spotify.com/album/4t39FbwK6iaJ7JDHcpTg84) | 4:24 | 2021-09-03 | 2022-07-29 |
 | [Santo y Lunave](https://open.spotify.com/track/2vgEo9N4GLVpFBHkTHFA2I) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos Escuchese Bien Fuerte](https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna) | 3:50 | 2021-09-03 | 2022-07-29 |
+| [Santo Y Lunave](https://open.spotify.com/track/7LGPSSlvK98fMseE2I7Z83) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 3:50 | 2023-07-28 |  |
 | [Secret Agent Man](https://open.spotify.com/track/3s0eUZZ1ViLMUMlHvVwEiu) | [Los Coronas](https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN) | [Surfin'tenochtillan](https://open.spotify.com/album/4uiytkWk5tke2mjnIN9rpy) | 3:06 | 2021-09-03 | 2022-07-29 |
 | [Shell Island](https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:23 | 2021-09-03 |  |
 | [Shiralee](https://open.spotify.com/track/7dun0h25rFIwPJEKp3kheP) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV) | [Second To None](https://open.spotify.com/album/7GjYH3xnMyVkdPomUQfzu9) | 3:03 | 2021-09-03 | 2023-05-12 |

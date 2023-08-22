@@ -1,15 +1,15 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 32082,
+  "num_followers": 32089,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMDc0NTIsMDAwMDAwMDBhODE3NzVkNTgyMDgzZTk1MDMzMTcxMWU1ODY5ZGQyNQ==",
+  "snapshot_id": "MjgyMTAyOTMsMDAwMDAwMDAyOWVkYjIxYzBiNGEwMjI4NGU1Y2YzNmQxMTZhMGNlNQ==",
   "tracks": [
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Passion: Let The Future Begin",
         "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Passion: Here For You (Live)",
         "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Glorioso D\u00eda",
         "url": "https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0ksqrKoeNvywkfeqltzVQ3"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Even So Come (Radio Version/Live)",
         "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
@@ -149,27 +149,7 @@
       "url": "https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
-      "album": {
-        "name": "Passion Collection",
-        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 239628,
-      "name": "One Thing Remains - Radio Version",
-      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
-    },
-    {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Live From LIFT: Creative Conference",
         "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
@@ -189,7 +169,27 @@
       "url": "https://open.spotify.com/track/6MK94qHfqRZBK1EDmlHEu9"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
+      "album": {
+        "name": "Passion Collection",
+        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 239628,
+      "name": "One Thing Remains - Radio Version",
+      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
+    },
+    {
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "There\u2019s Nothing That Our God Can\u2019t Do (Live)",
         "url": "https://open.spotify.com/album/1jvZlWc0ey7irzdsJkZlEg"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/7jQpjGSWuxXT84p00VF9EH"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Whole Heart (Live)",
         "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/3AHWbUsTaYecnT4aTEU0ut"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
@@ -301,27 +301,7 @@
       "url": "https://open.spotify.com/track/2Z0A7W013G7P0byg4GNtse"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
-      "album": {
-        "name": "King Of Glory (Live)",
-        "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "King Of Glory - Live",
-      "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
-    },
-    {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
@@ -349,7 +329,27 @@
       "url": "https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
+      "album": {
+        "name": "King Of Glory (Live)",
+        "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "King Of Glory - Live",
+      "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
+    },
+    {
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Passion: Here For You (Live)",
         "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/35xxlDrbgHAbOMYLoTrImH"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Whole Heart (Live)",
         "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/2oXkMfwSrpdhQ0mn34NzRT"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/3RDqUUxb4z2LcoCYtktBHL"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Passion: Let The Future Begin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Passion: Even So Come (Live)",
         "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "At Easter",
         "url": "https://open.spotify.com/album/5RqbrQhdemPBZRt0Nv14Fx"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/2GwhmLK4T0l15MRxy56PCu"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/47qcfvLEpd0aq6doUZ5goj"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Live From Camp",
         "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Whole Heart (Live)",
         "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/0Yb8wF1HLvel0RYqHHeAUi"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Passion: Even So Come (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/5z24Hr3TKxeyeLRKFRHuzB"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/70xFZ3jcTwlgBlAD8TjHjF"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Live From Camp",
         "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/5ShHzqdFyGi7e8Kxp9WXHU"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Whole Heart (Live)",
         "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/0vlrjt3fBV68KuXKLHN6lX"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/0oaafO2efqhUqcLZWH6VSw"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
@@ -709,27 +709,7 @@
       "url": "https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
-      "album": {
-        "name": "Live From LIFT: Creative Conference",
-        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Jeff Johnson",
-          "url": "https://open.spotify.com/artist/3CLYuRxvlNfsdZvWIsnoDQ"
-        }
-      ],
-      "duration_ms": 252089,
-      "name": "Better Is One Day - Live From LIFT: Creative Conference",
-      "url": "https://open.spotify.com/track/6f9SjE4sxBxVxlgMVjcsn3"
-    },
-    {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Passion: Take It All (Live/Deluxe Edition)",
         "url": "https://open.spotify.com/album/09FvILATRxaL3eFG9eYnCA"
@@ -749,7 +729,7 @@
       "url": "https://open.spotify.com/track/1s4YQ8NGWahmewapzQz83s"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
@@ -769,7 +749,27 @@
       "url": "https://open.spotify.com/track/1t3AJY56yarBeRWzNnUZXk"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
+      "album": {
+        "name": "Live From LIFT: Creative Conference",
+        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Jeff Johnson",
+          "url": "https://open.spotify.com/artist/3CLYuRxvlNfsdZvWIsnoDQ"
+        }
+      ],
+      "duration_ms": 252089,
+      "name": "Better Is One Day - Live From LIFT: Creative Conference",
+      "url": "https://open.spotify.com/track/6f9SjE4sxBxVxlgMVjcsn3"
+    },
+    {
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Glorioso D\u00eda",
         "url": "https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Live From Camp",
         "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/6lNlYACPYGaJtr1pCi6LSh"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Passion: White Flag",
         "url": "https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e"
@@ -849,10 +849,10 @@
       "url": "https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
-        "name": "Passion: The Essential Collection (Live)",
-        "url": "https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31"
+        "name": "Chris Tomlin Collection",
+        "url": "https://open.spotify.com/album/1VRAoAI3SKZCPBk74dTZlT"
       },
       "artists": [
         {
@@ -864,12 +864,12 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 291600,
-      "name": "How Great Is Our God - Live",
-      "url": "https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx"
+      "duration_ms": 278452,
+      "name": "God Of Wonders - Live",
+      "url": "https://open.spotify.com/track/2DfkjvYqfT83ypbjIkBRBp"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
@@ -889,7 +889,27 @@
       "url": "https://open.spotify.com/track/4U4pdy7qkgbXdmIQqONia7"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
+      "album": {
+        "name": "Passion: The Essential Collection (Live)",
+        "url": "https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "How Great Is Our God - Live",
+      "url": "https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx"
+    },
+    {
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/6CAEUmlr6iQeJRqgJXkouf"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
@@ -929,27 +949,7 @@
       "url": "https://open.spotify.com/track/3XAC2YU2w2hhJbWiswnfDd"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
-      "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
-        }
-      ],
-      "duration_ms": 420826,
-      "name": "Worthy Of Your Name - Live",
-      "url": "https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU"
-    },
-    {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/4p7eD3cKwzDAp9XxM8pTqZ"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "A Thousand Hallelujahs",
         "url": "https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C"
@@ -989,7 +989,27 @@
       "url": "https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
+      "album": {
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "duration_ms": 420826,
+      "name": "Worthy Of Your Name - Live",
+      "url": "https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU"
+    },
+    {
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Live From LIFT: Creative Conference",
         "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
@@ -1009,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL"
     },
     {
-      "added_at": "2023-08-19 12:12:39",
+      "added_at": "2023-08-21 11:33:18",
       "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
@@ -1027,26 +1047,6 @@
       "duration_ms": 396666,
       "name": "I Stand Amazed (How Marvelous)",
       "url": "https://open.spotify.com/track/5I49PGcxUCZFoMpZ6s9lj5"
-    },
-    {
-      "added_at": "2023-08-19 12:12:39",
-      "album": {
-        "name": "Passion: The Essential Collection (Live)",
-        "url": "https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 441680,
-      "name": "Amazing Grace (My Chains Are Gone) - Live",
-      "url": "https://open.spotify.com/track/3exoPpEA6dsPy7EL9ogyvZ"
     }
   ],
   "unique_name": "This Is Passion",

@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Victor Ruz & Caspian Marvin",
-  "num_followers": 1723,
+  "num_followers": 1727,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDA1MTNiZTUxZDlhNzE5OTVkNzVmOTFlNDNhZjY0OWZmNzlmMzUw",
+  "snapshot_id": "MCwzNzU3ODUxYTk5MTY3ZDQyZTI2MDhkYmJiMTk0ZGU5NGI5MjY4MGI3",
   "tracks": [
     {
       "added_at": "2023-08-18 11:35:13",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "One Bite",
-        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "One Bite",
-      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
         "name": "Sembera",
         "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 208988,
       "name": "Sembera",
       "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
+        "name": "One Bite",
+        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "One Bite",
+      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -363,18 +363,22 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Bitimba",
-        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
+        "name": "Salary",
+        "url": "https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry"
       },
       "artists": [
         {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        },
+        {
+          "name": "Selecta Jeff",
+          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
         }
       ],
-      "duration_ms": 147590,
-      "name": "Bitimba",
-      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
+      "duration_ms": 169200,
+      "name": "Salary",
+      "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -415,22 +419,18 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Ekyama",
-        "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
+        "name": "Bitimba",
+        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
       },
       "artists": [
         {
-          "name": "Jozzi Firebouy",
-          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
-        },
-        {
-          "name": "Will84",
-          "url": "https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09"
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
         }
       ],
-      "duration_ms": 217021,
-      "name": "Ekyama",
-      "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
+      "duration_ms": 147590,
+      "name": "Bitimba",
+      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -451,22 +451,22 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Salary",
-        "url": "https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry"
+        "name": "Ekyama",
+        "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
       },
       "artists": [
         {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+          "name": "Jozzi Firebouy",
+          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
         },
         {
-          "name": "Selecta Jeff",
-          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
+          "name": "Will84",
+          "url": "https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09"
         }
       ],
-      "duration_ms": 169200,
-      "name": "Salary",
-      "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
+      "duration_ms": 217021,
+      "name": "Ekyama",
+      "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -583,42 +583,6 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 172016,
-      "name": "Bega Bega",
-      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
         "name": "Enjoyment",
         "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
       },
@@ -635,22 +599,6 @@
       "duration_ms": 193776,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
-        "name": "Kika Buka",
-        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 156961,
-      "name": "Kika Buka",
-      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -675,18 +623,54 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "Kitooke Kyagonja",
-        "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
       },
       "artists": [
         {
-          "name": "B2c",
-          "url": "https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4"
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
         }
       ],
-      "duration_ms": 190129,
-      "name": "Kitooke Kyagonja",
-      "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
+      "duration_ms": 172016,
+      "name": "Bega Bega",
+      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
+        "name": "Kika Buka",
+        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 156961,
+      "name": "Kika Buka",
+      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -707,6 +691,22 @@
       "duration_ms": 197052,
       "name": "Singa",
       "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
+        "name": "Kitooke Kyagonja",
+        "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
+      },
+      "artists": [
+        {
+          "name": "B2c",
+          "url": "https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Kitooke Kyagonja",
+      "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
     },
     {
       "added_at": "2023-08-18 11:35:13",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-18 11:35:13",
       "album": {
-        "name": "BESTIE",
-        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "BESTIE",
-      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2023-08-18 11:35:13",
-      "album": {
         "name": "WATERSHED",
         "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 137333,
       "name": "Mama I Made It",
       "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
+    },
+    {
+      "added_at": "2023-08-18 11:35:13",
+      "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     }
   ],
   "unique_name": "Made In Uganda",

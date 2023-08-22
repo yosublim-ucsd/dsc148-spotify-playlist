@@ -2,7 +2,7 @@
 
 ### [bummer summer](https://open.spotify.com/playlist/37i9dQZF1DWWIvMGe3ig7a)
 
-> A sad playlist for when the buildup to summer ends up being a bummer, ft Yahritza y Su Esencia
+> A sad playlist for when the buildup to summer ends up being a bummer, ft d4vd
 
 108 songs - 6 hr 28 min
 

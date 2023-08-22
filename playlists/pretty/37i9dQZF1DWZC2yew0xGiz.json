@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzg4ZDBkMDIwZGRkZDExYzY2MWJjYjllNDAwMGYwODAxMjI2Yjll",
+  "snapshot_id": "MCw2MDI3NmJjY2UzYzVhZmI1NTI1YTU0Nzc0YTA3ZmNkYjljZTQ1OWFl",
   "tracks": [
     {
       "added_at": "2021-02-02 15:31:39",
@@ -111,22 +111,6 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 285106,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
         "name": "Waiting To Exhale",
         "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 285106,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
         "name": "School Daze (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 314360,
       "name": "Da' Butt - From The \"School Daze\" Soundtrack",
       "url": "https://open.spotify.com/track/1erQfISWXcYiSsTEYSaNUe"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
-        "name": "Waiting To Exhale",
-        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -372,6 +356,22 @@
       },
       "artists": [
         {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "Waiting To Exhale",
+        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
+      },
+      "artists": [
+        {
           "name": "Mary J. Blige",
           "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
@@ -415,26 +415,6 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "HAV PLENTY Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
         "name": "The Five Heartbeats (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7yyzbiqpfv5lKM5m4u4Wta"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 266306,
       "name": "Kid Vs. Play (The Battle) - From \"House Party\" Soundtrack",
       "url": "https://open.spotify.com/track/10PcEaonfyrhDfzrOrBTyq"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "HAV PLENTY Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "The Five Heartbeats (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7yyzbiqpfv5lKM5m4u4Wta"
-      },
-      "artists": [
-        {
-          "name": "The 5 Heartbeats",
-          "url": "https://open.spotify.com/artist/08XJ8En6r470i5QJV4vzrG"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "We Haven't Finished Yet",
-      "url": "https://open.spotify.com/track/1fDGra27Jnj1nF5xeUXRVS"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
         "name": "Do The Right Thing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 281026,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/2IbrFmKzCc7ojJ7USAOmu5"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "The Five Heartbeats (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7yyzbiqpfv5lKM5m4u4Wta"
+      },
+      "artists": [
+        {
+          "name": "The 5 Heartbeats",
+          "url": "https://open.spotify.com/artist/08XJ8En6r470i5QJV4vzrG"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "We Haven't Finished Yet",
+      "url": "https://open.spotify.com/track/1fDGra27Jnj1nF5xeUXRVS"
     },
     {
       "added_at": "2021-02-02 15:31:39",

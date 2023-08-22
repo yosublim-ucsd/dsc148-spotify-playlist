@@ -4,7 +4,7 @@
 
 > A calm and cosy classical soundtrack to all activities.
 
-120 songs - 6 hr 28 min
+121 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Prélude](https://open.spotify.com/track/3ZWAtpmC9UdjIZtiZ2dwp0) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [André Laplante](https://open.spotify.com/artist/3wBPUdIKGpmOpm6EvuLKMj) | [Ravel: Miroirs, Jeux D'Eau, Pavane Pour Une Infante Défunte](https://open.spotify.com/album/7ioTFSNJIuTN8YTKqA7eDF) | 1:23 | 2023-08-16 |  |
 | [Préludes / Book 2, L\. 123: 5\. Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 | 2023-08-16 |  |
 | [Quintet in A Major for Clarinet and Strings, K\. 581: II\. Larghetto](https://open.spotify.com/track/2OdM7OEeVMcklHMiS47eba) | [Endres Quartet](https://open.spotify.com/artist/4eOCXZ4GoQfyp0z8rq5zJV), [Jost Michaels](https://open.spotify.com/artist/6QcwskkTsVwFWacE1f2ckd) | [Mozart, Schubert, Ravel and Janácek: Chamber Music Selections](https://open.spotify.com/album/7pKLjuPcdXbWPWYPhne2ad) | 7:01 | 2023-08-16 |  |
-| [Ravel: Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/3MRQn2RYo2VLYMoStnLRxu) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Ravel: Complete Works for Solo Piano](https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM) | 5:46 | 2023-08-16 |  |
+| [Ravel: Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/3MRQn2RYo2VLYMoStnLRxu) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Ravel: Complete Works for Solo Piano](https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM) | 5:46 | 2023-08-16 | 2023-08-22 |
+| [Rhapsody on a Theme of Paganini, Op\. 43: Variation No\. 18 Andante cantabile](https://open.spotify.com/track/5xcYuTciYwyCDPkOgYBAYz) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Rachmaninov Variations](https://open.spotify.com/album/63PKBCJO4rZRgejds1VMCf) | 2:54 | 2023-08-18 |  |
 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/3YJrnXT1UNpRgnc7lcgXSF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy: Complete Works for Solo Piano, Vol.1](https://open.spotify.com/album/0cfusqtz8FdhjN03BUAS0l) | 4:17 | 2023-08-16 |  |
 | [Sadko: Hindu Song \(arr\. N\. Mercz\): Hindu Song from the Opera 'Sadko'](https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC) | [Nora Mercz](https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb), [Nikolai Rimsky\-Korsakov](https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs), [Janos Balint](https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6) | [Flute and Harp](https://open.spotify.com/album/33MNfDsswl60MN5B526hI2) | 3:32 | 2023-08-16 |  |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2023-08-16 |  |

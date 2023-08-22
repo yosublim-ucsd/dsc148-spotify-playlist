@@ -4,7 +4,7 @@
 
 > 
 
-223 songs - 13 hr 18 min
+224 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Luminoscity](https://open.spotify.com/track/7DleNI8zar5Ff3434lORXG) | [Skit](https://open.spotify.com/artist/6ejpWdV51Wxr3azIpJXwoQ), [Kareful](https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK) | [Luminoscity](https://open.spotify.com/album/5kE8XRsGLfYb2i2ehoGVtN) | 3:34 | 2018-11-28 |  |
 | [Luna](https://open.spotify.com/track/5bZRKkPYoXGoE4iVwamv21) | [Sorsari](https://open.spotify.com/artist/2t01L1I0juJWbThU5jP06Y) | [wave 003](https://open.spotify.com/album/4DO3xx1RRiRaTHSTfIpBzt) | 3:20 | 2018-11-27 |  |
 | [Lunar Orbit](https://open.spotify.com/track/4JDXpjzsSmJCcnPpJbe6z0) | [Five Suns](https://open.spotify.com/artist/58bIS29PlIe7RhCSoHJnnq) | [Lunar Orbit](https://open.spotify.com/album/3YfE4KU7el3068i2J8rlyM) | 3:25 | 2019-11-07 |  |
+| [Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7) | [Memory Reboot](https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx) | 3:29 | 2023-08-21 |  |
 | [Mental Loop](https://open.spotify.com/track/7EovzLbZJ3mHcJ3239ytln) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 3:47 | 2021-07-04 |  |
 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 | 2022-12-19 |  |
 | [Millennium](https://open.spotify.com/track/05MM2yRLitXXawfcjG2Fgc) | [SLEEP SPIRIT](https://open.spotify.com/artist/3lDVrf2eFWSBZm4EQrFsN3) | [Millennium](https://open.spotify.com/album/2ei19Xmi2aoOsGmoqltmbE) | 2:56 | 2023-08-14 |  |

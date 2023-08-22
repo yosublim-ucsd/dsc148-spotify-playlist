@@ -1,12 +1,12 @@
 {
   "description": "Keeping it 140 - Welcome to Grime Shutdown. Cover: P Money",
-  "num_followers": 746953,
+  "num_followers": 746968,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzFiZGQ1OTQ5ZjkyYTY3YWEyOTUzMDE1MGJlZmIzMGJmMGRjNzQw",
+  "snapshot_id": "MCxlMDc0NjNmMTY5OWNiYzIwOTg0YTBmMTM1ZjA2ZGRlMDY2ZTc5NmYy",
   "tracks": [
     {
       "added_at": "2023-07-25 10:34:22",
@@ -299,18 +299,54 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Young Money",
-        "url": "https://open.spotify.com/album/0bku7gNEEIxqpMeJWPJVs9"
+        "name": "Mobb Mentality",
+        "url": "https://open.spotify.com/album/7oPwu31zSQKEkJx25dMLNN"
       },
       "artists": [
         {
-          "name": "LZee",
-          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        },
+        {
+          "name": "Jus Jammin",
+          "url": "https://open.spotify.com/artist/44QcOr1krKgXeXbJGx5h3c"
+        },
+        {
+          "name": "Off Endz",
+          "url": "https://open.spotify.com/artist/3RT7TqiP2ItbSrnVomTgAL"
+        },
+        {
+          "name": "Smila",
+          "url": "https://open.spotify.com/artist/7ceegIQiAYyIsHczx0BBkO"
+        },
+        {
+          "name": "Lay-Z",
+          "url": "https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh"
+        },
+        {
+          "name": "Blittz",
+          "url": "https://open.spotify.com/artist/5wh8Pzrj67NfBOA5t8GBE5"
+        },
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
+        },
+        {
+          "name": "Shorty",
+          "url": "https://open.spotify.com/artist/4vAQghcnpz5V7zsPKy9Jpy"
         }
       ],
-      "duration_ms": 188088,
-      "name": "Young Money",
-      "url": "https://open.spotify.com/track/30NkpbETKakYZd1coFgkwy"
+      "duration_ms": 270000,
+      "name": "Mobb Mentality",
+      "url": "https://open.spotify.com/track/5GSU7lZscTRnRBx1KvvESu"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -419,54 +455,18 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Mobb Mentality",
-        "url": "https://open.spotify.com/album/7oPwu31zSQKEkJx25dMLNN"
+        "name": "Young Money",
+        "url": "https://open.spotify.com/album/0bku7gNEEIxqpMeJWPJVs9"
       },
       "artists": [
         {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        },
-        {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
-        },
-        {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
-        },
-        {
-          "name": "Jus Jammin",
-          "url": "https://open.spotify.com/artist/44QcOr1krKgXeXbJGx5h3c"
-        },
-        {
-          "name": "Off Endz",
-          "url": "https://open.spotify.com/artist/3RT7TqiP2ItbSrnVomTgAL"
-        },
-        {
-          "name": "Smila",
-          "url": "https://open.spotify.com/artist/7ceegIQiAYyIsHczx0BBkO"
-        },
-        {
-          "name": "Lay-Z",
-          "url": "https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh"
-        },
-        {
-          "name": "Blittz",
-          "url": "https://open.spotify.com/artist/5wh8Pzrj67NfBOA5t8GBE5"
-        },
-        {
-          "name": "Jammer",
-          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
-        },
-        {
-          "name": "Shorty",
-          "url": "https://open.spotify.com/artist/4vAQghcnpz5V7zsPKy9Jpy"
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Mobb Mentality",
-      "url": "https://open.spotify.com/track/5GSU7lZscTRnRBx1KvvESu"
+      "duration_ms": 188088,
+      "name": "Young Money",
+      "url": "https://open.spotify.com/track/30NkpbETKakYZd1coFgkwy"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/1JmxywVSSWS6RCBd7avdRO"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 187445,
-      "name": "Eyes on Me",
-      "url": "https://open.spotify.com/track/17yRlMLWjrw82aWpJItT9A"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Iniesta Flow",
         "url": "https://open.spotify.com/album/5YBrDenVyOg6vDLjWed7Wz"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 139200,
       "name": "Iniesta Flow",
       "url": "https://open.spotify.com/track/1fZlxYXWrsus7bSPjX5Wng"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/1JmxywVSSWS6RCBd7avdRO"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 187445,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/17yRlMLWjrw82aWpJItT9A"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -755,22 +755,26 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "IC3 (feat. Skepta)",
-        "url": "https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB"
+        "name": "This Year",
+        "url": "https://open.spotify.com/album/0wKRGkM4qZakqP4aIStBWW"
       },
       "artists": [
         {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
         },
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/7d1uejzLK3gh4usemwN9kS"
         }
       ],
-      "duration_ms": 231106,
-      "name": "IC3 (feat. Skepta) - Single Version",
-      "url": "https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L"
+      "duration_ms": 178638,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/5XGGP9WDvBAXlyf7r3g3Tu"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -791,6 +795,26 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
+        "name": "IC3 (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "IC3 (feat. Skepta) - Single Version",
+      "url": "https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
         "name": "No Safety",
         "url": "https://open.spotify.com/album/4ahUWycw2YJcadTRFDlb4i"
       },
@@ -803,6 +827,22 @@
       "duration_ms": 180428,
       "name": "No Safety",
       "url": "https://open.spotify.com/track/5MFSmJiHubzqQDoxvtAZMV"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Talking Alot",
+        "url": "https://open.spotify.com/album/50z4BgMMEV24YqZiKauwPX"
+      },
+      "artists": [
+        {
+          "name": "Mystic",
+          "url": "https://open.spotify.com/artist/7CCxuhWfAVnHyZDDCeNIa4"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Talking Alot",
+      "url": "https://open.spotify.com/track/45U3b2vV513BuLWuFEXXiW"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -827,46 +867,6 @@
       "duration_ms": 176760,
       "name": "Quest For Coin II",
       "url": "https://open.spotify.com/track/6SfoGYDuS67WmwU9HCEpL0"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "Talking Alot",
-        "url": "https://open.spotify.com/album/50z4BgMMEV24YqZiKauwPX"
-      },
-      "artists": [
-        {
-          "name": "Mystic",
-          "url": "https://open.spotify.com/artist/7CCxuhWfAVnHyZDDCeNIa4"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Talking Alot",
-      "url": "https://open.spotify.com/track/45U3b2vV513BuLWuFEXXiW"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "This Year",
-        "url": "https://open.spotify.com/album/0wKRGkM4qZakqP4aIStBWW"
-      },
-      "artists": [
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Silencer",
-          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
-        },
-        {
-          "name": "Tobi",
-          "url": "https://open.spotify.com/artist/7d1uejzLK3gh4usemwN9kS"
-        }
-      ],
-      "duration_ms": 178638,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/5XGGP9WDvBAXlyf7r3g3Tu"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
+        "name": "One Man Soldier",
+        "url": "https://open.spotify.com/album/2phnwJOpSPnv5vqoX2YGhe"
+      },
+      "artists": [
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        }
+      ],
+      "duration_ms": 175054,
+      "name": "One Man Soldier",
+      "url": "https://open.spotify.com/track/1Z6KnIZboD7NjyZaQGbJIb"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
         "name": "Ease",
         "url": "https://open.spotify.com/album/7wMcQGSkWZjimjT081avHa"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 152819,
       "name": "Ease",
       "url": "https://open.spotify.com/track/6PMWIWbHAS6kpfViRuixTs"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "One Man Soldier",
-        "url": "https://open.spotify.com/album/2phnwJOpSPnv5vqoX2YGhe"
-      },
-      "artists": [
-        {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
-        }
-      ],
-      "duration_ms": 175054,
-      "name": "One Man Soldier",
-      "url": "https://open.spotify.com/track/1Z6KnIZboD7NjyZaQGbJIb"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Charizard Freestyle",
-        "url": "https://open.spotify.com/album/4y7ktIWBKRhmHAceQqnUtT"
-      },
-      "artists": [
-        {
-          "name": "Footsie",
-          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
-        },
-        {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Charizard Freestyle",
-      "url": "https://open.spotify.com/track/1GJ0TET9MTZgcxrmgiV2NV"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Enough is Enough (feat. Lethal Bizzle & Jme)",
         "url": "https://open.spotify.com/album/3sqVQMc3C1f2mP97SSkxjW"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 228186,
       "name": "Enough is Enough (feat. Lethal Bizzle & Jme)",
       "url": "https://open.spotify.com/track/3XgTa8asRKSxNOjUJKXwCj"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Charizard Freestyle",
+        "url": "https://open.spotify.com/album/4y7ktIWBKRhmHAceQqnUtT"
+      },
+      "artists": [
+        {
+          "name": "Footsie",
+          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Charizard Freestyle",
+      "url": "https://open.spotify.com/track/1GJ0TET9MTZgcxrmgiV2NV"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
+        "name": "Variation",
+        "url": "https://open.spotify.com/album/2BFnUGjtaVmEXDuWGotfkM"
+      },
+      "artists": [
+        {
+          "name": "Big Zuu",
+          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Variation",
+      "url": "https://open.spotify.com/track/7mO3Z8L3iWzXD4CcWla4nS"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
         "name": "Norf Face",
         "url": "https://open.spotify.com/album/7o6bhqYxz0nWyjwCYsmARy"
       },
@@ -1547,26 +1567,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Variation",
-        "url": "https://open.spotify.com/album/2BFnUGjtaVmEXDuWGotfkM"
-      },
-      "artists": [
-        {
-          "name": "Big Zuu",
-          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Variation",
-      "url": "https://open.spotify.com/track/7mO3Z8L3iWzXD4CcWla4nS"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Memories Over Money",
         "url": "https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq"
       },
@@ -1615,66 +1615,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Serious 2020",
-        "url": "https://open.spotify.com/album/01LlyrmddUcbRLMGEBtI1g"
-      },
-      "artists": [
-        {
-          "name": "Against All Odds",
-          "url": "https://open.spotify.com/artist/7wKJMVDPPLr2BhEvyeRloB"
-        },
-        {
-          "name": "Maxwell D",
-          "url": "https://open.spotify.com/artist/5LPAxQ1kOdRFs96mqODcX9"
-        },
-        {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        },
-        {
-          "name": "So Large",
-          "url": "https://open.spotify.com/artist/5wUWJullIwzFc4VZl9WSEK"
-        },
-        {
-          "name": "Bruza",
-          "url": "https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx"
-        },
-        {
-          "name": "Tempa T",
-          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
-        }
-      ],
-      "duration_ms": 197616,
-      "name": "Serious 2020",
-      "url": "https://open.spotify.com/track/2U9g1MRlCzXLUL0LhRkYyl"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "Gridlock",
-        "url": "https://open.spotify.com/album/2IQnBlvVYriEHdktWKPoHU"
-      },
-      "artists": [
-        {
-          "name": "Eyez",
-          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
-        },
-        {
-          "name": "Zdot",
-          "url": "https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Gridlock",
-      "url": "https://open.spotify.com/track/3P2hQR4co5NaqnbHuX2eJo"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Man in Meridian",
         "url": "https://open.spotify.com/album/5FnZx8CDt31zZy5vVhzK4m"
       },
@@ -1703,6 +1643,50 @@
       "duration_ms": 285255,
       "name": "Man in Meridian",
       "url": "https://open.spotify.com/track/2kr904XjBkf3RivRwXZxc0"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Gridlock",
+        "url": "https://open.spotify.com/album/2IQnBlvVYriEHdktWKPoHU"
+      },
+      "artists": [
+        {
+          "name": "Eyez",
+          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
+        },
+        {
+          "name": "Zdot",
+          "url": "https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "Gridlock",
+      "url": "https://open.spotify.com/track/3P2hQR4co5NaqnbHuX2eJo"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/6dptrfT4Gvhc4hBenL0D0J"
+      },
+      "artists": [
+        {
+          "name": "Big Zuu",
+          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/1Jg9pMvUl9ltxJboGol7jI"
     }
   ],
   "unique_name": "Grime Shutdown",

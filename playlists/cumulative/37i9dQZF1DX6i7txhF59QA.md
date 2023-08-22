@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Na Hoon\-a\(나훈아\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-804 songs - 1 day 21 hr 58 min
+805 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Girl from Soyang River](https://open.spotify.com/track/6euTU6KhtvJPCPFtKEZwx4) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 2:49 | 2022-04-21 | 2022-04-23 |
 | [Girl next door](https://open.spotify.com/track/3HdLXpJla7NJE6mPATwjdu) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [Cho young soo All star \- Jang yoon joeng](https://open.spotify.com/album/18KzXcZdFUA6NjfFLp38Bt) | 2:53 | 2022-04-07 |  |
 | [Girls girls girls](https://open.spotify.com/track/4u6ezTi03y6DScGKZovYBo) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART8](https://open.spotify.com/album/69qkW8reqrUoLlLmvKX7oY) | 2:55 | 2022-06-18 | 2022-06-28 |
-| [Glass of Tears](https://open.spotify.com/track/6BvJOVN2kSrC4EUdw9SqPg) | [HONGJA](https://open.spotify.com/artist/49wMsDuLZqbAAthrdX9cLL) | [Glass](https://open.spotify.com/album/7kIf0zFONauuxaqwElNkhk) | 3:38 | 2022-04-07 |  |
+| [Glass of Tears](https://open.spotify.com/track/6BvJOVN2kSrC4EUdw9SqPg) | [HONGJA](https://open.spotify.com/artist/49wMsDuLZqbAAthrdX9cLL) | [Glass](https://open.spotify.com/album/7kIf0zFONauuxaqwElNkhk) | 3:38 | 2022-04-07 | 2023-08-22 |
 | [Glue stick](https://open.spotify.com/track/5Uj7VESpHsOCs5BPNARWbt) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:49 | 2022-05-03 | 2022-07-27 |
 | [Go to tomorrow](https://open.spotify.com/track/24tHNTYko3kd6FBcGtLdup) | [Ryu Ji Kwang](https://open.spotify.com/artist/7GjsbJgT9M7DpYIKEV9E1W) | [Taepung's Bride \(Original Soundtrack\), Pt.20](https://open.spotify.com/album/7AzzizLooEwnORg1VctocL) | 3:43 | 2023-01-27 | 2023-02-04 |
 | [Gombaeryung](https://open.spotify.com/track/4FgouUB2bPqy3gSz0He1yg) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART26](https://open.spotify.com/album/5O3IqGbIkx9JZAbfAXVPnW) | 3:35 | 2022-05-03 | 2022-07-29 |
@@ -736,6 +736,7 @@
 | [당당하게](https://open.spotify.com/track/4onP3z2jbIicpPXZtX2Nai) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Gold Mask \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/1OoGU6Khex4etKePyIzPed) | 4:15 | 2022-06-18 | 2022-12-22 |
 | [동네오빠](https://open.spotify.com/track/7xOyiSbEMt4qVkz8wJ0JDB) | [권영기](https://open.spotify.com/artist/1ryx6pkm6dRLFvV3Mn7y6t) | [동네오빠](https://open.spotify.com/album/7GvZ4i2IwYLvDYBvAtn0Hm) | 3:01 | 2022-04-22 | 2022-07-21 |
 | [동성로 로망스](https://open.spotify.com/track/2Wv11LlzTYtYwMOs2XwDag) | [김현민](https://open.spotify.com/artist/4FU5Nt2KpN7Ytqukd4kEnM) | [동성로 로망스](https://open.spotify.com/album/6em0TxNLwo0VT8SrK0u3R3) | 3:38 | 2022-04-22 | 2022-07-28 |
+| [돼지토끼](https://open.spotify.com/track/5EeXIVuU688iRZFkRh98wP) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [돼지토끼](https://open.spotify.com/album/6z33vHdsvbRzVXGeFHQ13X) | 2:51 | 2023-07-24 |  |
 | [라 트라비아타 \- 축배의 노래](https://open.spotify.com/track/1JZrZ4MMGbPsnhZuV6ylf7) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [이상원](https://open.spotify.com/artist/1v9EQbZP9Y6LE636W2x5zQ) | [아무도 모르게 김호중의 파트너 Pt\. 4](https://open.spotify.com/album/1tgsVFqUFXFCcfoTogeGky) | 3:07 | 2022-04-07 | 2022-07-22 |
 | [로꾸거!!!](https://open.spotify.com/track/77Z6XdUHDsbvsLd61vVbQU) | [SUPER JUNIOR\-T](https://open.spotify.com/artist/5Z595Kh9tlzZuyneUHI111) | [로꾸거!!!](https://open.spotify.com/album/4jKdrKP3d7a6fR9nJBQMAv) | 2:59 | 2022-05-03 |  |
 | [마셔라](https://open.spotify.com/track/7M7dVVgNr0VaLq6B2aqw5E) | [Mr.Boombox](https://open.spotify.com/artist/47feRgmsZDfJs3AOY68xPp) | [마셔라](https://open.spotify.com/album/5HcjCPrfrpBgkGYJUTwRYr) | 3:48 | 2022-04-07 | 2022-07-29 |

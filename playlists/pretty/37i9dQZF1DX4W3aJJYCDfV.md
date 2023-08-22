@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Giggs \(pictured\), Hozier, Addison Rae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,705 likes - 145 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,713 likes - 145 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 144 | [Love Music, Pt\. 4](https://open.spotify.com/track/3gZRdMviBAKB1mkE3hccGZ) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Love Music, Pt\. 4](https://open.spotify.com/album/7Drkfdx4sFQAJoaFyh9t2x) | 3:25 |
 | 145 | [Planet of the Bass \(feat\. DJ Crazy Times & Ms\. Biljana Electronica\)](https://open.spotify.com/track/7xOjJ5v3SGlYl5Rb2c31dI) | [Kyle Gordon](https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip), [DJ Crazy Times](https://open.spotify.com/artist/7HmF22PLne8U2Hv1ZMNVPf), [Ms\. Biljana Electronica](https://open.spotify.com/artist/1h3ezgw89bB4tDRHKnqPje) | [Planet of the Bass \(feat\. DJ Crazy Times & Ms\. Biljana Electronica\)](https://open.spotify.com/album/3fNM5L0cmVEGzmkYZIkB6X) | 3:20 |
 
-Snapshot ID: `MCw2YjJlYTQyM2QxYTQxNThjYTc0MWIzYzA0MWQwYmFiNjEzMmExOTQ0`
+Snapshot ID: `MCwyMGYzOTc4NzJhZjViMzJjM2I0MDc0ZGQ5YjE1OGIwN2IwNDk4Mjdl`

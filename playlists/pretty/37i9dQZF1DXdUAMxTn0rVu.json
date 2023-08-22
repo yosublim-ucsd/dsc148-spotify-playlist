@@ -1,28 +1,28 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Dilated Peoples",
-  "num_followers": 418448,
+  "num_followers": 418743,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDVmMjczNjYyZDAxZjE2MDkyYjU3MTA3NjRiODU3YjdhN2Y1MTkz",
+  "snapshot_id": "MCxmYjZlOGI3ZGQ4MTU2NDhjMzlkNjhjNDQ2ODM4ZTg2NTk3ZTNiOTk1",
   "tracks": [
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "Hi-Teknology",
-        "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
+        "name": "The Listening",
+        "url": "https://open.spotify.com/album/3TCtnxxB0OSY5sRtYzpYGG"
       },
       "artists": [
         {
-          "name": "Hi-Tek",
-          "url": "https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg"
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
         }
       ],
-      "duration_ms": 274826,
-      "name": "The Sun God",
-      "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
+      "duration_ms": 272066,
+      "name": "The Way You Do It",
+      "url": "https://open.spotify.com/track/6jZ1SNPuYqCqJsZhJlSGe1"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -191,38 +191,6 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "Expansion Team",
-        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Worst Comes To Worst - Edited",
-      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "The Platform",
-        "url": "https://open.spotify.com/album/4FLIb7KILAeKlllF1SeRTy"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "The Platform",
-      "url": "https://open.spotify.com/track/1BbYPTXP9VwBWm44MqLyHK"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
         "name": "Operation: Doomsday (Complete)",
         "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
       },
@@ -239,6 +207,22 @@
       "duration_ms": 258613,
       "name": "Rhymes Like Dimes",
       "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "The Platform",
+        "url": "https://open.spotify.com/album/4FLIb7KILAeKlllF1SeRTy"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "The Platform",
+      "url": "https://open.spotify.com/track/1BbYPTXP9VwBWm44MqLyHK"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -371,6 +355,22 @@
       "duration_ms": 221626,
       "name": "Above The Clouds",
       "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "Expansion Team",
+        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Worst Comes To Worst - Edited",
+      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
         "name": "The Torture Papers",
         "url": "https://open.spotify.com/album/7kBK7f7V0vuag74KojKlrs"
       },
@@ -659,6 +675,22 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
+        "name": "Hi-Teknology",
+        "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
+      },
+      "artists": [
+        {
+          "name": "Hi-Tek",
+          "url": "https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg"
+        }
+      ],
+      "duration_ms": 274826,
+      "name": "The Sun God",
+      "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
         "name": "A Long Hot Summer",
         "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
       },
@@ -671,38 +703,6 @@
       "duration_ms": 226866,
       "name": "Good Ol Love",
       "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -723,6 +723,22 @@
       "duration_ms": 245493,
       "name": "Much More (feat. Yummy)",
       "url": "https://open.spotify.com/track/5zEP0MRnDe5qwL361xBz0B"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -779,22 +795,6 @@
       "duration_ms": 322960,
       "name": "Never Fallin'",
       "url": "https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
         "name": "Lyricist Lounge Vol. 1",
         "url": "https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr"
       },
@@ -931,26 +947,6 @@
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "Soundpieces: Da Antidote",
-        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
-      },
-      "artists": [
-        {
-          "name": "Lootpack",
-          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
-        },
-        {
-          "name": "Quasimoto",
-          "url": "https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G"
-        }
-      ],
-      "duration_ms": 283600,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g"
     }
   ],
   "unique_name": "I Love My Underground Classics",

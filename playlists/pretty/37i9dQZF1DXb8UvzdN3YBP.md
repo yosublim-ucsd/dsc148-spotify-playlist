@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8UvzdN3YBP.md) - [plain]
 
 > Music from and inspired by "Glass Onion: A Knives Out Mystery," coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,768 likes - 35 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,781 likes - 35 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8UvzdN3YBP.md) - [plain]
 | 34 | [The Dumbest Car Chase of All Time](https://open.spotify.com/track/2EdP0jDri5scsvBfdYkOnq) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 2:56 |
 | 35 | [Knives Out!, Pt\. II \(The Will\)](https://open.spotify.com/track/5j7V7I0CBkCpsmwVSV3rBa) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 3:03 |
 
-Snapshot ID: `MCw4ZTYyYjJhNjI1M2ViZGI0NTg4MmUxM2U2NmQ2M2MxZGI2NGM1NTUz`
+Snapshot ID: `MCw5OTE0Njg3ZmJjYWNmNzdiNzRkYjFkMzNmYzBkZDAwYjMyZjRkYTIx`

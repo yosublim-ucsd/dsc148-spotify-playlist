@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: Architrackz, Kempi & Kalibwoy
 
-665 songs - 1 day 5 hr 55 min
+666 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Chingar \(Remix\)](https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chingar \(Remix\)](https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5) | 3:07 | 2023-02-02 | 2023-02-10 |
 | [Choco Waistline](https://open.spotify.com/track/5SKBH2ivPsHEs71WW8oTCD) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ), [YUNG ALXNDR](https://open.spotify.com/artist/39R4M57yCLhI1Ve3k0Xopt) | [Choco Waistline](https://open.spotify.com/album/4bphysFtykgFLnjaAfF67O) | 2:33 | 2022-07-14 | 2022-08-26 |
 | [Chupa Tonto](https://open.spotify.com/track/1xfiNgEAnLhwMJQdT829iL) | [Kya](https://open.spotify.com/artist/4C9S9vrrPc9RWGeA5X9jAr), [Finest Sno](https://open.spotify.com/artist/2jZdMwF6R1JW2QPNLwMcSz), [Chris Strick](https://open.spotify.com/artist/7poupxpx7K01XVTYoQruRZ) | [Chupa Tonto](https://open.spotify.com/album/2IU0d9EhLFTdpGm8KDHt73) | 2:14 | 2022-09-01 | 2022-09-15 |
+| [Claimen](https://open.spotify.com/track/0vbkHzlC3eSJ2oVaPAR5Kd) | [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Claimen](https://open.spotify.com/album/4A2fPRrxl3ZCxvLPq9VDsD) | 3:45 | 2023-08-21 |  |
 | [Claimen](https://open.spotify.com/track/5lSUGBMLikAwI9F4RSZ7Ja) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [Claimen / Drank in Systeem](https://open.spotify.com/album/0cCAEhm4eZCi2H2Df4VNtS) | 2:29 | 2023-05-25 | 2023-08-18 |
 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 | 2022-09-15 | 2022-10-21 |
 | [Closer](https://open.spotify.com/track/0lEEsa1wMDOjfEOlvvx0g0) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Closer](https://open.spotify.com/album/3i2SDc94DAN8ETtpZpDYCs) | 3:07 | 2023-02-09 | 2023-03-03 |
@@ -349,7 +350,7 @@
 | [Lot A Lot A](https://open.spotify.com/track/0KLU7YiCi6aZYkYgL1ZuSf) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN) | [Lot A Lot A](https://open.spotify.com/album/604I4i2wI2iQDuGM2qAJMg) | 2:22 | 2023-02-16 | 2023-04-28 |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-03-23 | 2023-05-26 |
 | [Love \- Nigeria Version](https://open.spotify.com/track/54YbT22Ajdjy56jBXlg1zC) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Love \(Nigeria Version\)](https://open.spotify.com/album/43hfZzgBi49HXotvKr9Dx0) | 3:11 | 2023-05-25 | 2023-07-21 |
-| [Love Colours \(feat\. Jmani\)](https://open.spotify.com/track/05ttHgqp9JcJIuR3l3yxUj) | [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Love Colours \(feat\. Jmani\)](https://open.spotify.com/album/7pguSiCrCSWgZdAN4NeeHV) | 2:56 | 2023-05-25 |  |
+| [Love Colours \(feat\. Jmani\)](https://open.spotify.com/track/05ttHgqp9JcJIuR3l3yxUj) | [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Love Colours \(feat\. Jmani\)](https://open.spotify.com/album/7pguSiCrCSWgZdAN4NeeHV) | 2:56 | 2023-05-25 | 2023-08-22 |
 | [Love Is Free](https://open.spotify.com/track/4qetc6GDgmlWtGXCclFiD7) | [Smitmeister](https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Love Is Free](https://open.spotify.com/album/7wYYs2EijpabDYlSnC0YwL) | 2:22 | 2023-07-06 |  |
 | [Love Me](https://open.spotify.com/track/1k9sNbjyxxB0uzB4Z3eXDl) | [Alex Euro](https://open.spotify.com/artist/1btts0oj1pH2inP7TKYiLL), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Love Me](https://open.spotify.com/album/2iUCn646cvtZ0EHW1CFzFT) | 2:21 | 2022-07-14 | 2022-10-21 |
 | [Love Me](https://open.spotify.com/track/26hyxyMtZ99UdcF0BCFCgf) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo), [Sico Vox](https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP), [LPACA](https://open.spotify.com/artist/0VrVe3wy9bP3D51Lo3AxrN) | [Love Me](https://open.spotify.com/album/5ZhEV8tgdNoJhEWVMU8PWJ) | 2:28 | 2022-07-28 | 2022-10-21 |

@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: KAHUKX
 
-532 songs - 1 day 0 hr 56 min
+533 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [U Want More Sir?](https://open.spotify.com/track/3wUvWuxos3hdBZJWXmnY4e) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [U Want More Sir?](https://open.spotify.com/album/2ZxzQLaJZLSLKipIOZ2Mr8) | 2:09 | 2022-12-04 | 2023-03-10 |
 | [Underdog](https://open.spotify.com/track/0HHNGLZAJej2RQalyvBZ8M) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Underdog](https://open.spotify.com/album/3fOVdOefDN43WjiLi2m7ZF) | 3:39 | 2022-08-04 | 2022-11-18 |
 | [Unmatched](https://open.spotify.com/track/1MLJBoWckJyK7aOgkl0Kkz) | [Tahdig](https://open.spotify.com/artist/2MWcpj5HSIItRz1trzzSEv) | [Unmatched](https://open.spotify.com/album/2TKszAI9qZmgYbXRiMWOsB) | 2:04 | 2022-11-03 | 2022-12-02 |
+| [UNO \(feat\. Gold Fang\)](https://open.spotify.com/track/5DL1eSQgbJcI9LqO6PnKTY) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab) | [UNO \(feat\. Gold Fang\)](https://open.spotify.com/album/0vhXZjZFbVxkX0a2LlqKqd) | 2:46 | 2023-08-21 |  |
 | [Up The Score](https://open.spotify.com/track/3ny6FNv232uXYHEEKyZjxp) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Up The Score](https://open.spotify.com/album/5yz40HuTFLi3n5eg2FiQKi) | 2:04 | 2022-06-16 | 2022-11-25 |
 | [VANDETTA](https://open.spotify.com/track/1qhvll21IN5QWvE9lzLMb3) | [Tmk](https://open.spotify.com/artist/2oFK3R5iz6M9zfKz0YQppP) | [VANDETTA](https://open.spotify.com/album/1saatmjyBqJUu2WA29HI3H) | 2:56 | 2023-05-04 |  |
 | [Very Good Very Nice](https://open.spotify.com/track/59VgQMi1QU0HjIX29BsCa9) | [lil golo](https://open.spotify.com/artist/6afabx0UIdhKSFeUbVKfhJ), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [Stee Ferrer](https://open.spotify.com/artist/7o3RhMH0YSp1pP8t3dY2X8), [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc), [Vinsins](https://open.spotify.com/artist/2KKeJajlN1qX34ckCUNnmw) | [Very Good Very Nice](https://open.spotify.com/album/6a4f1rJOPr53EI3RC69Uw3) | 2:24 | 2022-05-12 | 2022-09-30 |

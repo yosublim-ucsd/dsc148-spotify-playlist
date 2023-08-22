@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 117606,
       "name": "9:45",
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
@@ -2997,6 +2997,24 @@
     },
     {
       "album": {
+        "name": "Dil Mangda (\"Maujaan Hi Maujaan\")",
+        "url": "https://open.spotify.com/album/4Doop6NZtTBsbZlQ0kaRgq"
+      },
+      "artists": [
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Dil Mangda",
+      "url": "https://open.spotify.com/track/6tH1CdDgvrxKJRKaJ7jNLd"
+    },
+    {
+      "album": {
         "name": "Dil Mangda",
         "url": "https://open.spotify.com/album/4KIx0mGltf6aegXPbye0wf"
       },
@@ -4218,7 +4236,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 206088,
       "name": "Gall Mukk Gyi",
       "url": "https://open.spotify.com/track/3DWcDfFX2Hb8oNTD4i67yv"
@@ -4368,7 +4386,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 247150,
       "name": "Galwakdi - From \"Galwakdi\"",
       "url": "https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE"
@@ -4480,7 +4498,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 180731,
       "name": "Grace",
       "url": "https://open.spotify.com/track/5iZR5MN9qvGgnyOblSdlH1"
@@ -5478,7 +5496,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 233333,
       "name": "Jaane Meriye",
       "url": "https://open.spotify.com/track/6m52WOS01Vm4r7sk6bBkZ5"
@@ -12064,7 +12082,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 306382,
       "name": "Salooq (From \"MOH\")",
       "url": "https://open.spotify.com/track/6fgIBVQ0GJ1kijpGL9N5Vs"
@@ -12690,7 +12708,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-22",
       "duration_ms": 181395,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/33rfzVxhNEBh0tnt2KXbXI"
@@ -13934,6 +13952,32 @@
       "duration_ms": 244302,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/47G3rE1gZFI4BjEcvIsrWf"
+    },
+    {
+      "album": {
+        "name": "SWITCHIN' LANES",
+        "url": "https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl"
+      },
+      "artists": [
+        {
+          "name": "Tegi Pannu",
+          "url": "https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl"
+        },
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136948,
+      "name": "TERE BINA",
+      "url": "https://open.spotify.com/track/1lpICxQ99AvgSa3ubsqblS"
     },
     {
       "album": {
@@ -15310,6 +15354,24 @@
       "duration_ms": 147272,
       "name": "Why Nachdi Na",
       "url": "https://open.spotify.com/track/3vAuT0b6jFNuS6yylkJWbG"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154554,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
     },
     {
       "album": {
