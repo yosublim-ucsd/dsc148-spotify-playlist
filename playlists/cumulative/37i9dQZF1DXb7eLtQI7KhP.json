@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Floating Harmonies",
+        "url": "https://open.spotify.com/album/2fdadfyH4RVsrcG70BEDOH"
+      },
+      "artists": [
+        {
+          "name": "La Perezosa",
+          "url": "https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154840,
+      "name": "Floating Harmonies",
+      "url": "https://open.spotify.com/track/7jUOKGZHHN19OiPhv8Gvci"
+    },
+    {
+      "album": {
         "name": "For Elsa",
         "url": "https://open.spotify.com/album/5aXpF8X2rDaH1YGKn3jfZT"
       },
@@ -812,6 +830,24 @@
       "duration_ms": 122229,
       "name": "For Elsa",
       "url": "https://open.spotify.com/track/1F5SC8Yey1YhVg6A9kuuBd"
+    },
+    {
+      "album": {
+        "name": "Fulgent",
+        "url": "https://open.spotify.com/album/5mS7nwgmbtHg0xUidpcDfZ"
+      },
+      "artists": [
+        {
+          "name": "Elyse Faas",
+          "url": "https://open.spotify.com/artist/0AUcdgT1rQui03m1wWxKkC"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Fulgent",
+      "url": "https://open.spotify.com/track/6OGj1MTwo6tmbsmMxBqSX3"
     },
     {
       "album": {
@@ -1262,6 +1298,24 @@
       "duration_ms": 173750,
       "name": "Miho no Matsubara",
       "url": "https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK"
+    },
+    {
+      "album": {
+        "name": "Miilky Way",
+        "url": "https://open.spotify.com/album/6AchdzUUgRofxchroOvKt1"
+      },
+      "artists": [
+        {
+          "name": "Vantrum Quai",
+          "url": "https://open.spotify.com/artist/11Cyks3KuPJNfn5U7CIaha"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Miilky Way",
+      "url": "https://open.spotify.com/track/1o3XOdXFXFfNvOYaR4QK2e"
     },
     {
       "album": {

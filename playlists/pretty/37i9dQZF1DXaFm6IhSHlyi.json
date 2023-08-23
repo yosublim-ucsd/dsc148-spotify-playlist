@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 141695,
+  "num_followers": 141722,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQzMTAzOTA3N2IwMzY0Zjc2NGIzODc2N2MyOTcwMjgyN2UwY2E5",
+  "snapshot_id": "MCxlOGMwZDBhNDBjZjRkYzMxMDNiOTgxODZmYzhiZmIxNTBiOTRmMmY4",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Tilak",
-        "url": "https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bandook",
-          "url": "https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs"
-        }
-      ],
-      "duration_ms": 359290,
-      "name": "Tilak",
-      "url": "https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "criminal",
         "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 157186,
       "name": "criminal",
       "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Tilak",
+        "url": "https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bandook",
+          "url": "https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs"
+        }
+      ],
+      "duration_ms": 359290,
+      "name": "Tilak",
+      "url": "https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2159,18 +2159,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+        "name": "Ang Kwento Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
       },
       "artists": [
         {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+          "name": "Steph",
+          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
         }
       ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
+      "duration_ms": 272288,
+      "name": "Ang Kwento Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2191,18 +2191,34 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ang Kwento Ng Pag-Ibig",
-        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+        "name": "Sushi Season (The First)",
+        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
       },
       "artists": [
         {
-          "name": "Steph",
-          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+          "name": "Garry Mapanzure",
+          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
         }
       ],
-      "duration_ms": 272288,
-      "name": "Ang Kwento Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+      "duration_ms": 243504,
+      "name": "Pindirai",
+      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+      },
+      "artists": [
+        {
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2219,22 +2235,6 @@
       "duration_ms": 218501,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Sushi Season (The First)",
-        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
-      },
-      "artists": [
-        {
-          "name": "Garry Mapanzure",
-          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
-        }
-      ],
-      "duration_ms": 243504,
-      "name": "Pindirai",
-      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Tum Jaisi Ho",
+        "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "duration_ms": 145301,
+      "name": "Tum Jaisi Ho",
+      "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Sikasih",
         "url": "https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq"
       },
@@ -2367,22 +2383,6 @@
       "duration_ms": 186915,
       "name": "Sikasih",
       "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Obscured star",
-        "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Tum Jaisi Ho",
-        "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
+        "name": "Obscured star",
+        "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
       },
       "artists": [
         {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
         }
       ],
-      "duration_ms": 145301,
-      "name": "Tum Jaisi Ho",
-      "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
+      "duration_ms": 268426,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 187535,
       "name": "The Everyday Bit",
       "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "How We Love",
+        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "How We Love",
+      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "How We Love",
-        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "How We Love",
-      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 228541,
       "name": "You Are",
       "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 287500,
+      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
     }
   ],
   "unique_name": "Ballads International",

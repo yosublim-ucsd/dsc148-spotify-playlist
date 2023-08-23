@@ -1,12 +1,12 @@
 {
   "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Mc Livinho",
-  "num_followers": 386811,
+  "num_followers": 387224,
   "original_name": "PURO SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDZmYzdkMDY4NTJiMDgyZGJiOWY0N2JhMGE0MDZjMjFkYzNhZWZm",
+  "snapshot_id": "MCw2MmY0NzA3Y2UzZTFkNGM4M2IyOGJjNjk2OTFjMDUxNjdhODU5MDM0",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Covardia",
-        "url": "https://open.spotify.com/album/5Bqlwew4I7DSJ2nK0jR53u"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 150863,
-      "name": "Covardia",
-      "url": "https://open.spotify.com/track/5y7yYXNSsT89A27DQxbmUL"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "10 Anos (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 144298,
       "name": "Quando Apaga A Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Covardia",
+        "url": "https://open.spotify.com/album/5Bqlwew4I7DSJ2nK0jR53u"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 150863,
+      "name": "Covardia",
+      "url": "https://open.spotify.com/track/5y7yYXNSsT89A27DQxbmUL"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Campo De Morango",
+        "url": "https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Carinha de Beb\u00ea",
         "url": "https://open.spotify.com/album/3rUoVCrA04JXWIrpOQqZhl"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 148548,
       "name": "SOLTEIROU - Ao Vivo",
       "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Campo De Morango",
-        "url": "https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 76248,
-      "name": "Campo De Morango",
-      "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Gostosinha \u00e9 Ela",
+        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Gostosinha \u00e9 Ela",
+      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Parecia Tempestade",
         "url": "https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR"
       },
@@ -1015,42 +1031,6 @@
       "duration_ms": 149639,
       "name": "Parecia Tempestade",
       "url": "https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Gostosinha \u00e9 Ela",
-        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Gostosinha \u00e9 Ela",
-      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Balan\u00e7o da Rede",
-        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 166435,
-      "name": "Balan\u00e7o da Rede",
-      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1079,6 +1059,42 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Marrento",
+        "url": "https://open.spotify.com/album/1XJEF1mvKoaXzrm57YiQ7D"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 129146,
+      "name": "Marrento",
+      "url": "https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Balan\u00e7o da Rede",
+        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 166435,
+      "name": "Balan\u00e7o da Rede",
+      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "\u00d4 L\u00e1 na Ro\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 160000,
       "name": "\u00d4 L\u00e1 na Ro\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Facilita A\u00ed",
-        "url": "https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 143830,
-      "name": "Facilita A\u00ed",
-      "url": "https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Facilita A\u00ed",
+        "url": "https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 143830,
+      "name": "Facilita A\u00ed",
+      "url": "https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Piseiro Tocando Alto",
         "url": "https://open.spotify.com/album/0ys6ZnPJnccUAvK4p5L34X"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Marrento",
-        "url": "https://open.spotify.com/album/1XJEF1mvKoaXzrm57YiQ7D"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 129146,
-      "name": "Marrento",
-      "url": "https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Ao Vivo em Fortaleza",
         "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
       },
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Perdoou Nada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
-      },
-      "artists": [
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 163120,
-      "name": "Perdoou Nada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Anota A\u00ed (Ao Vivo)",
         "url": "https://open.spotify.com/album/5md8rYv1JhgQEsBMS5WREE"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 200723,
       "name": "Anota A\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/5a2CIQaMW3Keqtx4BdXbEY"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Perdoou Nada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "Perdoou Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"
     },
     {
       "added_at": "2023-08-18 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 63415,
+  "num_followers": 63508,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTdmMmQzZDAwYTAyOTA2M2Q3NTk5MzdjZmFmMDc2ODJjYmRhNTYz",
+  "snapshot_id": "MCwyNjI2MmJmNTM0M2RjZGEwNzY5YjUwMzhjZDAyODQ2YmM3NWRjYThi",
   "tracks": [
     {
       "added_at": "2023-08-18 13:41:53",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "Shining in the Half Light",
-        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 220974,
-      "name": "Who's That",
-      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
-    },
-    {
-      "added_at": "2023-08-18 13:41:53",
-      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 226131,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
+    },
+    {
+      "added_at": "2023-08-18 13:41:53",
+      "album": {
+        "name": "Shining in the Half Light",
+        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 220974,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 344973,
-      "name": "Country Boy",
-      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
-    },
-    {
-      "added_at": "2023-08-18 13:41:53",
-      "album": {
         "name": "Live At Blues Alley",
         "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 349066,
       "name": "Stormy Monday",
       "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
+    },
+    {
+      "added_at": "2023-08-18 13:41:53",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 344973,
+      "name": "Country Boy",
+      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart, Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
-    },
-    {
-      "added_at": "2023-08-18 13:41:53",
-      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 227666,
       "name": "I Know - 2008 Remaster",
       "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
+    },
+    {
+      "added_at": "2023-08-18 13:41:53",
+      "album": {
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "Havin' Such A Good Time",
-        "url": "https://open.spotify.com/album/5Is9ufQX0ZBKBaPoj7B72I"
-      },
-      "artists": [
-        {
-          "name": "The Vintage Explosion",
-          "url": "https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD"
-        }
-      ],
-      "duration_ms": 202121,
-      "name": "Lay In Your Arms",
-      "url": "https://open.spotify.com/track/363LHVO6qJBZBmW6QWXcot"
-    },
-    {
-      "added_at": "2023-08-18 13:41:53",
-      "album": {
         "name": "How Many Times?",
         "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 285701,
       "name": "How Many Times?",
       "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
+    },
+    {
+      "added_at": "2023-08-18 13:41:53",
+      "album": {
+        "name": "Havin' Such A Good Time",
+        "url": "https://open.spotify.com/album/5Is9ufQX0ZBKBaPoj7B72I"
+      },
+      "artists": [
+        {
+          "name": "The Vintage Explosion",
+          "url": "https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD"
+        }
+      ],
+      "duration_ms": 202121,
+      "name": "Lay In Your Arms",
+      "url": "https://open.spotify.com/track/363LHVO6qJBZBmW6QWXcot"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5o7WGKdXCOaprXmv8NSBGH"
-      },
-      "artists": [
-        {
-          "name": "Chris Pierce",
-          "url": "https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3qndewIkujOKlN7rmS0Ov6"
-    },
-    {
-      "added_at": "2023-08-18 13:41:53",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp"
       },
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5o7WGKdXCOaprXmv8NSBGH"
+      },
+      "artists": [
+        {
+          "name": "Chris Pierce",
+          "url": "https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3qndewIkujOKlN7rmS0Ov6"
+    },
+    {
+      "added_at": "2023-08-18 13:41:53",
+      "album": {
         "name": "Lucille",
         "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
       },
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "Bringing It Back Home",
-        "url": "https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI"
-      },
-      "artists": [
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        }
-      ],
-      "duration_ms": 337413,
-      "name": "Fool's Paradise",
-      "url": "https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU"
-    },
-    {
-      "added_at": "2023-08-18 13:41:53",
-      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 180680,
       "name": "And That's Saying a Lot",
       "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
+    },
+    {
+      "added_at": "2023-08-18 13:41:53",
+      "album": {
+        "name": "Bringing It Back Home",
+        "url": "https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "duration_ms": 337413,
+      "name": "Fool's Paradise",
+      "url": "https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "Scream, Holler & Howl",
-        "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
-      },
-      "artists": [
-        {
-          "name": "Blue Moon Marquee",
-          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
-        }
-      ],
-      "duration_ms": 247946,
-      "name": "Medicine Man",
-      "url": "https://open.spotify.com/track/3j6EDxYRTUTAYdC7MUHuic"
-    },
-    {
-      "added_at": "2023-08-18 13:41:53",
-      "album": {
         "name": "Me to You",
         "url": "https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 234000,
       "name": "A Better Man",
       "url": "https://open.spotify.com/track/7v7dx0S3dO2AKQDCJLwqLS"
+    },
+    {
+      "added_at": "2023-08-18 13:41:53",
+      "album": {
+        "name": "Scream, Holler & Howl",
+        "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
+      },
+      "artists": [
+        {
+          "name": "Blue Moon Marquee",
+          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
+        }
+      ],
+      "duration_ms": 247946,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/3j6EDxYRTUTAYdC7MUHuic"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
+        "name": "The Waiting",
+        "url": "https://open.spotify.com/album/4FCWhHOuymzhC1q4I9ADTW"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "duration_ms": 288466,
+      "name": "The Waiting",
+      "url": "https://open.spotify.com/track/1kQTeVdIjcB9HNwm9Wzdj4"
+    },
+    {
+      "added_at": "2023-08-18 13:41:53",
+      "album": {
         "name": "Got Me a Party",
         "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
       },
@@ -2119,18 +2135,18 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "The Waiting",
-        "url": "https://open.spotify.com/album/4FCWhHOuymzhC1q4I9ADTW"
+        "name": "One Foot In The Groove",
+        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
       },
       "artists": [
         {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
         }
       ],
-      "duration_ms": 288466,
-      "name": "The Waiting",
-      "url": "https://open.spotify.com/track/1kQTeVdIjcB9HNwm9Wzdj4"
+      "duration_ms": 205974,
+      "name": "Ice Cream and Cigarettes",
+      "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -2151,18 +2167,18 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "One Foot In The Groove",
-        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
+        "name": "Not the One",
+        "url": "https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS"
       },
       "artists": [
         {
-          "name": "Boneshakers",
-          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
         }
       ],
-      "duration_ms": 205974,
-      "name": "Ice Cream and Cigarettes",
-      "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
+      "duration_ms": 218666,
+      "name": "Not the One",
+      "url": "https://open.spotify.com/track/3ILOjQIsXO1gfvHzkBsc89"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -2179,22 +2195,6 @@
       "duration_ms": 319126,
       "name": "I Got a Love",
       "url": "https://open.spotify.com/track/7B3Sw98sgND7SKFU586chA"
-    },
-    {
-      "added_at": "2023-08-18 13:41:53",
-      "album": {
-        "name": "Not the One",
-        "url": "https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS"
-      },
-      "artists": [
-        {
-          "name": "Vintage Trouble",
-          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Not the One",
-      "url": "https://open.spotify.com/track/3ILOjQIsXO1gfvHzkBsc89"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "In Too Deep",
-        "url": "https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 266094,
-      "name": "No Limit to My Love",
-      "url": "https://open.spotify.com/track/7ioBQAz0j9QcvO6oNrsW0D"
-    },
-    {
-      "added_at": "2023-08-18 13:41:53",
-      "album": {
         "name": "I'll Do It for You",
         "url": "https://open.spotify.com/album/3DXggTbZAVLrzqddCu7l6b"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 219597,
       "name": "I'll Do It for You",
       "url": "https://open.spotify.com/track/7nrhg2euCaBJ7bw3rcki0Y"
+    },
+    {
+      "added_at": "2023-08-18 13:41:53",
+      "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 266094,
+      "name": "No Limit to My Love",
+      "url": "https://open.spotify.com/track/7ioBQAz0j9QcvO6oNrsW0D"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "Come on Sunshine",
-        "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
-      },
-      "artists": [
-        {
-          "name": "Kendell Marvel",
-          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Come on Sunshine",
-      "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
-    },
-    {
-      "added_at": "2023-08-18 13:41:53",
-      "album": {
         "name": "Connor Selby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 149746,
       "name": "Lost Count - Live",
       "url": "https://open.spotify.com/track/2WVdl7Dja5y0vv8mrn6Fwa"
+    },
+    {
+      "added_at": "2023-08-18 13:41:53",
+      "album": {
+        "name": "Come on Sunshine",
+        "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
+      },
+      "artists": [
+        {
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Come on Sunshine",
+      "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
     },
     {
       "added_at": "2023-08-18 13:41:53",
@@ -2535,22 +2535,18 @@
     {
       "added_at": "2023-08-18 13:41:53",
       "album": {
-        "name": "Bloodshot Eyes",
-        "url": "https://open.spotify.com/album/5yaOqd0avsCCGlxS3hHIUY"
+        "name": "Fire in Me",
+        "url": "https://open.spotify.com/album/19pkhI8TXoAEVGLrN2Q6XU"
       },
       "artists": [
         {
-          "name": "Emanuel Casablanca",
-          "url": "https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p"
-        },
-        {
-          "name": "Albert Castiglia",
-          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+          "name": "Sara Syms",
+          "url": "https://open.spotify.com/artist/59zNVUIdLrT7Wl0Zyc8CZj"
         }
       ],
-      "duration_ms": 221653,
-      "name": "Bloodshot Eyes",
-      "url": "https://open.spotify.com/track/44UXzqbquZyHlOA4MrNwB5"
+      "duration_ms": 249240,
+      "name": "Fire in Me",
+      "url": "https://open.spotify.com/track/7utUz3M9pa5Q6h6JGU6r7k"
     }
   ],
   "unique_name": "Home at Last",

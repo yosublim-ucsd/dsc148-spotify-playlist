@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-664 songs - 1 day 12 hr 20 min
+665 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,13 +535,14 @@
 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 | 2022-01-28 |  |
 | [Spring and Waterfalls](https://open.spotify.com/track/4w0Be96oAQ7BFNappDA5JG) | [Sarah Hemi](https://open.spotify.com/artist/4BQlN5DBVwm72Q6foAEzly), [Barely Trev](https://open.spotify.com/artist/01mUEpopaowW47Ra1nz55w) | [Spring and Waterfalls](https://open.spotify.com/album/6ecFyo1OPMZKoUgzA8Z6MX) | 3:01 | 2022-01-28 | 2022-06-30 |
 | [Springtime](https://open.spotify.com/track/0aptQ4wSF199jEdKpc6zbY) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Springtime](https://open.spotify.com/album/6T0uX51GLiQW6bFBXSz05I) | 3:52 | 2022-01-28 | 2022-07-28 |
+| [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-08-18 |  |
 | [Steal The Show](https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Steal The Show](https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji) | 3:00 | 2023-02-23 | 2023-07-29 |
 | [still here](https://open.spotify.com/track/0REjEl3XivOfIus0LhYjNY) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [still here](https://open.spotify.com/album/49xXkAoN2QcR1XnXaG4g3V) | 3:17 | 2023-05-11 | 2023-06-09 |
 | [still trying](https://open.spotify.com/track/01ysBEvsyXrIbaemFbZ4vK) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [still trying](https://open.spotify.com/album/1MsR5Q72YMzxDjZi7B56Lj) | 3:04 | 2022-02-11 | 2022-07-29 |
 | [Stranger](https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Stranger](https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ) | 5:46 | 2023-02-23 | 2023-04-21 |
 | [Strangers Again \(feat\. Pamungkas\)](https://open.spotify.com/track/1QYff3eiMnTtCyCmLIUrmp) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Strangers Again](https://open.spotify.com/album/3q6c8XzlrtbsE3FFdatQtO) | 3:53 | 2022-03-29 | 2022-04-21 |
 | [stuck in san antonio](https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [stuck in san antonio](https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo) | 2:33 | 2023-05-11 | 2023-05-19 |
-| [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-08 |  |
+| [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-08 | 2023-08-23 |
 | [stupid](https://open.spotify.com/track/5QPMBTEk7kbzEFnVmUbeGU) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [stupid](https://open.spotify.com/album/1nspvJx79he8aYYbtM3C4O) | 3:29 | 2023-01-26 | 2023-02-03 |
 | [Summer Nights](https://open.spotify.com/track/7ACCDls4FhDgW26K1Q5YzK) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Summer Nights](https://open.spotify.com/album/79YhHsdp7Bi1InbvCGoQNE) | 1:37 | 2023-06-30 | 2023-07-08 |
 | [Summertime](https://open.spotify.com/track/6oFFjz1MwyU3qtaXnyqQ8X) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Summertime](https://open.spotify.com/album/72mAZGmywwA8WkAjyceo6T) | 2:38 | 2022-01-28 | 2022-07-29 |

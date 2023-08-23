@@ -4,7 +4,7 @@
 
 > Beautifully sad and moody piano music.
 
-328 songs - 14 hr 29 min
+330 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [All Numbers End](https://open.spotify.com/track/1QGlEQJkixOXsbijKqNTDB) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 1:35 | 2022-07-28 | 2023-05-10 |
 | [All Numbers End](https://open.spotify.com/track/7pLoI3XJLM67CGKAnOf5M5) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Numbers End](https://open.spotify.com/album/2J8z6obkyZkBrBHUjiXERN) | 1:35 | 2021-12-14 | 2022-07-29 |
 | [Amber](https://open.spotify.com/track/31eqVCJgVXYnJa1GkQdJuC) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Amber](https://open.spotify.com/album/6xc2Dyjtqq4jdwFVTqdHpl) | 3:47 | 2021-12-14 |  |
-| [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 | 2023-08-07 |  |
+| [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 | 2023-08-14 |  |
+| [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 | 2023-08-07 | 2023-08-23 |
 | [Anfractuous View](https://open.spotify.com/track/6TX02ODkwVEymt9Yzw4lUf) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Anfractuous View](https://open.spotify.com/album/71vCCA6hOqaPYZw1Q7F4yq) | 3:09 | 2022-06-06 |  |
 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 | 2023-06-20 |  |
 | [Another Time](https://open.spotify.com/track/4D3yNko56x9TtQgVBKkxRl) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Another Time](https://open.spotify.com/album/2jeYw4SEjdiEUnCanJ2gIr) | 2:32 | 2022-03-30 |  |
@@ -305,7 +306,8 @@
 | [Vaults](https://open.spotify.com/track/53EoWPKv7FO9uTu6a7UPR2) | [Reginald Easter](https://open.spotify.com/artist/6iUeBAwdvdJ6jB3iVNPYAL) | [Vaults](https://open.spotify.com/album/1u7QPnbzTFfJngypn0BBVB) | 3:05 | 2021-12-14 | 2022-06-07 |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-12-14 |  |
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-02-16 |  |
-| [Vesper](https://open.spotify.com/track/7zYqURwLi01h7Mmel4fefz) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Vesper](https://open.spotify.com/album/7edDr2rApL4jzZ7gusqSjX) | 2:12 | 2023-08-07 |  |
+| [Vesper](https://open.spotify.com/track/5aHJ4dAzn8fBudSSFqoATm) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Afternoon Ending](https://open.spotify.com/album/4FUs9Lg2ZQFrnBHxxcnRAq) | 2:12 | 2023-08-14 |  |
+| [Vesper](https://open.spotify.com/track/7zYqURwLi01h7Mmel4fefz) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Vesper](https://open.spotify.com/album/7edDr2rApL4jzZ7gusqSjX) | 2:12 | 2023-08-07 | 2023-08-23 |
 | [Vespers](https://open.spotify.com/track/6NTDYbHPwOKpGXQw2WWfLo) | [Thomas Welker](https://open.spotify.com/artist/0usxXdyQdV9ucIQRKQjfVG) | [Vespers](https://open.spotify.com/album/1dea5PJqBlByt9C7GYapKH) | 2:42 | 2021-12-14 | 2023-08-08 |
 | [Viento En Calma](https://open.spotify.com/track/6uBL5gwVhfPMHic7YcD6TX) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Viento En Calma](https://open.spotify.com/album/6S1AdQWqcStwMkxklMTQ7V) | 2:16 | 2023-06-20 |  |
 | [Vocalise](https://open.spotify.com/track/4yhdD7Igtyu7J3eCPj4APk) | [John Lenehan](https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9) | [Vocalise](https://open.spotify.com/album/51jIcUb0nEuyIHmV7TQtUG) | 2:35 | 2023-08-14 |  |

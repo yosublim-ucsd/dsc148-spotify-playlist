@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-231 songs - 15 hr 9 min
+232 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [It's Not That](https://open.spotify.com/track/1JTCrMLkmLRVubHx3S3Jhc) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [It's Not That](https://open.spotify.com/album/5kWYIaGJosudsZQbaw9XPp) | 4:58 | 2022-05-11 | 2022-06-06 |
 | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/track/6evTmpmB0QwV7jOfw8VMdD) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/album/3ta3XOJmAbXFDzMFEYn6QR) | 4:56 | 2022-05-11 | 2022-06-06 |
 | [Just for a moment](https://open.spotify.com/track/0V7elfOc7DP0R0sOswnPsD) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/026uWhfvMFjZyNEF6p0GBs) | 4:32 | 2022-05-11 | 2022-06-08 |
-| [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 | 2022-07-08 |  |
+| [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 | 2022-07-08 | 2023-08-23 |
 | [Just Friends 욕심](https://open.spotify.com/track/7qJ7KO2ClL5EHZyITBZBl1) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends 욕심](https://open.spotify.com/album/7LavsevvLKMEUrFOl42SXl) | 4:00 | 2022-05-11 | 2022-07-28 |
 | [Last Goodbye](https://open.spotify.com/track/0GGTcdfOMfP26Vc7z5GJsS) | [Choi jin soul](https://open.spotify.com/artist/52m9oodSHzgqZPhKucw0al) | [The first glance \(Original Television Soundtrack\) \(O'PENing\)](https://open.spotify.com/album/55BHWWpnvOki4ErfJ9EA8v) | 4:00 | 2022-08-09 | 2022-09-06 |
 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 | 2022-05-11 |  |
@@ -172,6 +172,7 @@
 | [Regret of sigh](https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:21 | 2022-05-11 | 2022-07-29 |
 | [Remember](https://open.spotify.com/track/1a4GOXHBQLIg23ilouiAsl) | [Bandage](https://open.spotify.com/artist/1fuAboBjT2k4lPcpkIaqTt) | [Remember](https://open.spotify.com/album/3RZ1A5fRgXfT9j1rDgDOuZ) | 4:25 | 2022-07-04 | 2022-07-29 |
 | [Reminisce](https://open.spotify.com/track/2loDo2DYHvIuUyj8NMhT9p) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Reminisce](https://open.spotify.com/album/4kK0qXAhAgg64PZ7b3q4u5) | 4:11 | 2022-05-11 | 2022-06-01 |
+| [Run from you](https://open.spotify.com/track/3ZLpVia2sizm0ccjLDo3wH) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Run from you](https://open.spotify.com/album/5pAHpZo7WsjNthkDgna0m3) | 3:57 | 2023-08-18 |  |
 | [Run from you](https://open.spotify.com/track/71p6LjYrskpmZa7hvWKHtn) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Run from you](https://open.spotify.com/album/0s3ZnlwcovdIAm1OuWnPn2) | 3:57 | 2022-05-11 | 2022-07-23 |
 | [Sad book](https://open.spotify.com/track/2MX3uJQgNfx0vMrLf6rDid) | [Gemstone](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V), [Kim Seonghwan](https://open.spotify.com/artist/3crC2R1ytlaqCn5Ji2soN6) | [Sad book](https://open.spotify.com/album/22GskCD7rnZ8i9tf38pp8p) | 3:47 | 2022-06-20 | 2022-06-25 |
 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 | 2022-07-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 139908,
+  "num_followers": 139974,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjY0NWYwNzQ1N2ZkMWRhOWE5ZDRjZmNiOTFiN2Y0MDJmNTFiZTcw",
+  "snapshot_id": "MCxjZjI3NTA2NDE5MWE0MjM0NjQxZmM3ZmQwZTE1MDA4OWRiMDg2NzJm",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Nador",
-        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+        "name": "Mailbox",
+        "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
       },
       "artists": [
         {
-          "name": "Namika",
-          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
         }
       ],
-      "duration_ms": 190186,
-      "name": "Lieblingsmensch",
-      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
+      "duration_ms": 174500,
+      "name": "mailbox",
+      "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -347,22 +351,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Mailbox",
-        "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
+        "name": "Nador",
+        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
         }
       ],
-      "duration_ms": 174500,
-      "name": "mailbox",
-      "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
+      "duration_ms": 190186,
+      "name": "Lieblingsmensch",
+      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Er geh\u00f6rt zu mir",
-        "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
-      },
-      "artists": [
-        {
-          "name": "Marianne Rosenberg",
-          "url": "https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Er geh\u00f6rt zu mir",
-      "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "MISS YOU",
         "url": "https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 129587,
       "name": "MISS YOU",
       "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Er geh\u00f6rt zu mir",
+        "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
+      },
+      "artists": [
+        {
+          "name": "Marianne Rosenberg",
+          "url": "https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Er geh\u00f6rt zu mir",
+      "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
     },
     {
       "added_at": "2023-03-06 08:21:00",

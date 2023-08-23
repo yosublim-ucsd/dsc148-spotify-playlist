@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 138868,
+  "num_followers": 138877,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzU4ZjY4Mjk2M2M5ODZlZGNlMTU1ZWU5MzMxODI2MGFkMTU5M2My",
+  "snapshot_id": "MCxkNDJjMDc1MDQyYmE1ZTJkZmEwMTJkNjFkMWY0MDM5ZTU2ODg3YjQz",
   "tracks": [
     {
       "added_at": "2023-07-28 19:09:17",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
+      },
+      "artists": [
+        {
+          "name": "RICCI",
+          "url": "https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
         "name": "Morenito",
         "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 190819,
       "name": "Morenito",
       "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
-      },
-      "artists": [
-        {
-          "name": "RICCI",
-          "url": "https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G"
     },
     {
       "added_at": "2023-07-28 19:09:17",
@@ -1823,30 +1823,6 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "Roses [(Imanbek Remix) [Latino Gang]]",
-        "url": "https://open.spotify.com/album/6ccX7hrWPnlaBv1hYLok2u"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 208449,
-      "name": "Roses - (Imanbek Remix) [Latino Gang]",
-      "url": "https://open.spotify.com/track/2JCOFv3vvv6HIfw7QOqpIz"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
         "name": "e-mail",
         "url": "https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn"
       },
@@ -1867,6 +1843,30 @@
       "duration_ms": 151587,
       "name": "e-mail",
       "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "Roses [(Imanbek Remix) [Latino Gang]]",
+        "url": "https://open.spotify.com/album/6ccX7hrWPnlaBv1hYLok2u"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 208449,
+      "name": "Roses - (Imanbek Remix) [Latino Gang]",
+      "url": "https://open.spotify.com/track/2JCOFv3vvv6HIfw7QOqpIz"
     }
   ],
   "unique_name": "Ejercicio Total",

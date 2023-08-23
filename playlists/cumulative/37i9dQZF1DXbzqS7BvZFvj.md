@@ -2,9 +2,9 @@
 
 ### [Frontline \-ヒップホップ最前線\-](https://open.spotify.com/playlist/37i9dQZF1DXbzqS7BvZFvj)
 
-> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Doechii
+> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: KID FRESINO
 
-278 songs - 14 hr 25 min
+279 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2023-05-25 | 2023-07-01 |
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-20 | 2023-05-19 |
 | [Hard To Handle](https://open.spotify.com/track/5Wv4g4QWO3ArPnbyP5Z6Mx) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Handle](https://open.spotify.com/album/1tJcinzpjwIOAwfO1hmFe0) | 3:35 | 2023-08-17 |  |
-| [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 | 2023-07-28 |  |
+| [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 | 2023-07-28 | 2023-08-23 |
 | [HEROES \(feat\. DJ Premier\)](https://open.spotify.com/track/75RQYCt0aVJrk1QXgwOS32) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [HEROES \(feat\. DJ Premier\)](https://open.spotify.com/album/35b56rQm3FwWF6wGy03dbI) | 2:55 | 2023-03-16 | 2023-05-26 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2023-03-16 | 2023-04-09 |
 | [Highlife](https://open.spotify.com/track/5Tg9jKR0KWPD6zDXfej4fx) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Highlife](https://open.spotify.com/album/3ougtWVAzlkKT3hc1xajmy) | 2:38 | 2023-03-16 | 2023-04-21 |
@@ -213,6 +213,7 @@
 | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY) | 3:06 | 2023-05-11 | 2023-07-29 |
 | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui) | 3:09 | 2023-07-21 |  |
 | [Robberies](https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Robberies](https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0) | 2:08 | 2023-06-23 | 2023-07-21 |
+| [rose](https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [rose](https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL) | 2:16 | 2023-08-22 |  |
 | [Sad & Alone](https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sad & Alone](https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q) | 2:45 | 2023-06-02 | 2023-07-21 |
 | [Same Problems?](https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Same Problems?](https://open.spotify.com/album/3MwuzX0j37H9SYVH78Oavt) | 4:22 | 2023-03-16 | 2023-03-31 |
 | [Same Side \(feat\. Rob49\)](https://open.spotify.com/track/2JNaqjOm7jHePMdr6WIadg) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:33 | 2023-05-25 | 2023-07-01 |

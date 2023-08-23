@@ -1,12 +1,12 @@
 {
   "description": "Plug your brain into a modular synthesizer analog loop.",
-  "num_followers": 87328,
+  "num_followers": 87391,
   "original_name": "MoogTube",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWIyYTM4YmU0YjYxMzQ3NGYzOGMyYzk3YmU1MzI1ZjFiMTYzZjUx",
+  "snapshot_id": "MCxmZGIxOTc5NjEwNjcwY2JiNmYwMTc3OGRmYmE3ZTg4YmQzYjQ5ZjU3",
   "tracks": [
     {
       "added_at": "2021-08-17 02:11:46",
@@ -295,22 +295,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moon Safari Remixes, Rarities and Radio Sessions",
-        "url": "https://open.spotify.com/album/2HypdH9T0bK9YEq7ama4Iq"
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
       },
       "artists": [
         {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        },
-        {
-          "name": "The Moog Cookbook",
-          "url": "https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG"
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
         }
       ],
-      "duration_ms": 340720,
-      "name": "Kelly Watch the Stars - Moog Cookbook Remix",
-      "url": "https://open.spotify.com/track/4BlgD9buyKeFM1mTOEPYCU"
+      "duration_ms": 171546,
+      "name": "Wichita Lineman",
+      "url": "https://open.spotify.com/track/3YO2qFdxBctCfkzb5dkqCH"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -331,18 +327,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+        "name": "Moon Safari Remixes, Rarities and Radio Sessions",
+        "url": "https://open.spotify.com/album/2HypdH9T0bK9YEq7ama4Iq"
       },
       "artists": [
         {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "The Moog Cookbook",
+          "url": "https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG"
         }
       ],
-      "duration_ms": 171546,
-      "name": "Wichita Lineman",
-      "url": "https://open.spotify.com/track/3YO2qFdxBctCfkzb5dkqCH"
+      "duration_ms": 340720,
+      "name": "Kelly Watch the Stars - Moog Cookbook Remix",
+      "url": "https://open.spotify.com/track/4BlgD9buyKeFM1mTOEPYCU"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/4ilhAiU52ZiHlfmQbmfhWq"
     },
     {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+      },
+      "artists": [
+        {
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+        }
+      ],
+      "duration_ms": 128440,
+      "name": "Foggy Mountain Breakdown",
+      "url": "https://open.spotify.com/track/6ae0YFStZkViq59eM9Ii9J"
+    },
+    {
       "added_at": "2022-01-11 03:06:12",
       "album": {
         "name": "The Afrosound Of Colombia Volume 1",
@@ -447,22 +463,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog Indigo",
-        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Gossipo Perpetuo",
-      "url": "https://open.spotify.com/track/0RabJGGnKLiiW6EeMAyh3p"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Music from Patch Cord Productions",
         "url": "https://open.spotify.com/album/2rDr9iY1cIdIN9Bfu46iYr"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 184788,
       "name": "This Is My Beloved",
       "url": "https://open.spotify.com/track/6dFIRFZQFsCPFc8DpCRwOx"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog Indigo",
+        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Gossipo Perpetuo",
+      "url": "https://open.spotify.com/track/0RabJGGnKLiiW6EeMAyh3p"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -495,22 +511,6 @@
       "duration_ms": 188306,
       "name": "The Unexplained",
       "url": "https://open.spotify.com/track/015Sda0FAkjTY5p9ftx7qo"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
-      },
-      "artists": [
-        {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
-        }
-      ],
-      "duration_ms": 128440,
-      "name": "Foggy Mountain Breakdown",
-      "url": "https://open.spotify.com/track/6ae0YFStZkViq59eM9Ii9J"
     },
     {
       "added_at": "2022-11-19 05:34:39",
@@ -615,26 +615,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo y El Palmas)",
-        "url": "https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz"
+        "name": "The In Sound From Way Out",
+        "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
       },
       "artists": [
         {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        },
-        {
-          "name": "El Palmas",
-          "url": "https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y"
-        },
-        {
-          "name": "Grupo Almendra",
-          "url": "https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK"
+          "name": "Perrey and Kingsley",
+          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
         }
       ],
-      "duration_ms": 268607,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0"
+      "duration_ms": 140000,
+      "name": "Swan's Splashdown",
+      "url": "https://open.spotify.com/track/5mi54tJTBrVTj6wNGgQH3y"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -671,22 +663,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The In Sound From Way Out",
-        "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
-      },
-      "artists": [
-        {
-          "name": "Perrey and Kingsley",
-          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Swan's Splashdown",
-      "url": "https://open.spotify.com/track/5mi54tJTBrVTj6wNGgQH3y"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Cosmic Sounds",
         "url": "https://open.spotify.com/album/5ANJMlWISgb5qb0U0zcxCw"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 221893,
       "name": "Taurus - The Voluptuary",
       "url": "https://open.spotify.com/track/2hAzjYDhtzeMpFg0zUNQrW"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo y El Palmas)",
+        "url": "https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        },
+        {
+          "name": "El Palmas",
+          "url": "https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y"
+        },
+        {
+          "name": "Grupo Almendra",
+          "url": "https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK"
+        }
+      ],
+      "duration_ms": 268607,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1073,20 +1073,20 @@
       "url": "https://open.spotify.com/track/2ELgcsJO8lNU8MdagrlaoM"
     },
     {
-      "added_at": "2021-08-17 02:11:46",
+      "added_at": "2022-02-21 19:59:18",
       "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+        "name": "Switched On Ra",
+        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
       },
       "artists": [
         {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
         }
       ],
-      "duration_ms": 150026,
-      "name": "Yakety Moog",
-      "url": "https://open.spotify.com/track/0EYe4qWRTMB0m1ybGMHz2x"
+      "duration_ms": 389780,
+      "name": "Lanquidity",
+      "url": "https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1105,20 +1105,20 @@
       "url": "https://open.spotify.com/track/40gZr472mFyg9YCk8nrzwm"
     },
     {
-      "added_at": "2022-02-21 19:59:18",
+      "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Switched On Ra",
-        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
       },
       "artists": [
         {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
         }
       ],
-      "duration_ms": 389780,
-      "name": "Lanquidity",
-      "url": "https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73"
+      "duration_ms": 150026,
+      "name": "Yakety Moog",
+      "url": "https://open.spotify.com/track/0EYe4qWRTMB0m1ybGMHz2x"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Electronic Music",
         "url": "https://open.spotify.com/album/74KIAMbeiTQcR9P49Mw0NU"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 166533,
       "name": "Song of the Second Moon",
       "url": "https://open.spotify.com/track/569fTEN94rQETqvMgOuQwU"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 228289,
+      "name": "Fol-de-rol",
+      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Empetus (Deluxe)",
-        "url": "https://open.spotify.com/album/2l2N8dbG1jwSjp5Lxhnfc3"
-      },
-      "artists": [
-        {
-          "name": "Steve Roach",
-          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
-        }
-      ],
-      "duration_ms": 383066,
-      "name": "Merge",
-      "url": "https://open.spotify.com/track/5GG2hEesjJ32K8KG5nAJYr"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Romantische Technologie",
         "url": "https://open.spotify.com/album/4vuMcGpR8AlANyU7V2VIk2"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 168786,
       "name": "Android City",
       "url": "https://open.spotify.com/track/44AbbzjNP2JOSiJXky9I4A"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Empetus (Deluxe)",
+        "url": "https://open.spotify.com/album/2l2N8dbG1jwSjp5Lxhnfc3"
+      },
+      "artists": [
+        {
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
+        }
+      ],
+      "duration_ms": 383066,
+      "name": "Merge",
+      "url": "https://open.spotify.com/track/5GG2hEesjJ32K8KG5nAJYr"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Surroundings",
+        "url": "https://open.spotify.com/album/3RSldV7Zhw95KwPPvfPk8X"
+      },
+      "artists": [
+        {
+          "name": "Claude Larson",
+          "url": "https://open.spotify.com/artist/2edEbdAUDYB8FxbTxnmQR7"
+        }
+      ],
+      "duration_ms": 225977,
+      "name": "Highway E 1",
+      "url": "https://open.spotify.com/track/0ZvJ3UJA1eD0S9OBZaqnem"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Moog (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Surroundings",
-        "url": "https://open.spotify.com/album/3RSldV7Zhw95KwPPvfPk8X"
-      },
-      "artists": [
-        {
-          "name": "Claude Larson",
-          "url": "https://open.spotify.com/artist/2edEbdAUDYB8FxbTxnmQR7"
-        }
-      ],
-      "duration_ms": 225977,
-      "name": "Highway E 1",
-      "url": "https://open.spotify.com/track/0ZvJ3UJA1eD0S9OBZaqnem"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Happy Moog",
         "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 124197,
       "name": "March Of The Martians",
       "url": "https://open.spotify.com/track/4rF8nv1j7zum3p0R5ExkkT"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Electrically Possessed [Switched On Volume 4]",
+        "url": "https://open.spotify.com/album/6ybD1TXz83pL3sCtPa6syw"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 241105,
+      "name": "Variation One",
+      "url": "https://open.spotify.com/track/3Ag1GIsO6UAFUCOES1Aocw"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Electrically Possessed [Switched On Volume 4]",
-        "url": "https://open.spotify.com/album/6ybD1TXz83pL3sCtPa6syw"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 241105,
-      "name": "Variation One",
-      "url": "https://open.spotify.com/track/3Ag1GIsO6UAFUCOES1Aocw"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Country Moog / Nashville Gold",
         "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
       },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Kpm 1000 Series: Industry Volume 1",
-        "url": "https://open.spotify.com/album/3mdyB0sCvKMoBPEgGVjHoC"
-      },
-      "artists": [
-        {
-          "name": "Stephen Gray",
-          "url": "https://open.spotify.com/artist/6JaoVxWFnK1tu1s6rqox90"
-        }
-      ],
-      "duration_ms": 70680,
-      "name": "The Sausage Machine",
-      "url": "https://open.spotify.com/track/11kli4YSqMTdr54UcsuoWJ"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Mind Games",
         "url": "https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 171266,
       "name": "Mainframe Blues",
       "url": "https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Kpm 1000 Series: Industry Volume 1",
+        "url": "https://open.spotify.com/album/3mdyB0sCvKMoBPEgGVjHoC"
+      },
+      "artists": [
+        {
+          "name": "Stephen Gray",
+          "url": "https://open.spotify.com/artist/6JaoVxWFnK1tu1s6rqox90"
+        }
+      ],
+      "duration_ms": 70680,
+      "name": "The Sausage Machine",
+      "url": "https://open.spotify.com/track/11kli4YSqMTdr54UcsuoWJ"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1708,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco"
         }
       ],
-      "duration_ms": 238047,
-      "name": "Tropic Topic - Remastered",
-      "url": "https://open.spotify.com/track/0A85JZuQVyOnQONv00spjo"
+      "duration_ms": 174383,
+      "name": "Jacaranda - Remastered",
+      "url": "https://open.spotify.com/track/0Bpy8hsCBvG6nwF3pL8Ri7"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1820,9 +1820,9 @@
           "url": "https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco"
         }
       ],
-      "duration_ms": 174383,
-      "name": "Jacaranda - Remastered",
-      "url": "https://open.spotify.com/track/0Bpy8hsCBvG6nwF3pL8Ri7"
+      "duration_ms": 238047,
+      "name": "Tropic Topic - Remastered",
+      "url": "https://open.spotify.com/track/0A85JZuQVyOnQONv00spjo"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -2164,9 +2164,9 @@
           "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
         }
       ],
-      "duration_ms": 61703,
-      "name": "Music for Advertising #1",
-      "url": "https://open.spotify.com/track/7dexp8CBwf4epTO74a8PBG"
+      "duration_ms": 198972,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/6lrHMmIhtitqKTANFx7WaF"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -2180,9 +2180,9 @@
           "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
         }
       ],
-      "duration_ms": 198972,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/6lrHMmIhtitqKTANFx7WaF"
+      "duration_ms": 61703,
+      "name": "Music for Advertising #1",
+      "url": "https://open.spotify.com/track/7dexp8CBwf4epTO74a8PBG"
     },
     {
       "added_at": "2021-08-17 02:11:46",

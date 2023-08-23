@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 509353,
+  "num_followers": 509333,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl",
+  "snapshot_id": "MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "A Dave Brubeck Christmas",
-        "url": "https://open.spotify.com/album/13Xwxp8icIpeRQhwdN7crn"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "To Us Is Given",
-      "url": "https://open.spotify.com/track/4425vuUQ6AXiaEtDfyFH4x"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "A Legendary Christmas",
         "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 200516,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "A Dave Brubeck Christmas",
+        "url": "https://open.spotify.com/album/13Xwxp8icIpeRQhwdN7crn"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "To Us Is Given",
+      "url": "https://open.spotify.com/track/4425vuUQ6AXiaEtDfyFH4x"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Christmas With The Puppini Sisters",
+        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
+      },
+      "artists": [
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "This is Christmas",
         "url": "https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 133893,
       "name": "We Wish You The Merriest",
       "url": "https://open.spotify.com/track/64BOvPBfvWbBPIGKTFWIpG"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Christmas With The Puppini Sisters",
-        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
-      },
-      "artists": [
-        {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
     },
     {
       "added_at": "2021-11-12 15:48:58",

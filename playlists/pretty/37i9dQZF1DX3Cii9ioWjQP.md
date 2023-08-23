@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,398 likes - 103 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,406 likes - 103 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 41 | [White Christmas](https://open.spotify.com/track/34jFiBvQltG35fneRLMMQM) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [2022 Christmas VIBE \- Kangziwon](https://open.spotify.com/album/0VAvIdy18d508PtgsUA5bG) | 4:17 |
 | 42 | [Dear Polar Bears](https://open.spotify.com/track/0fcLigZyZnPz8GOjcibxsl) | [Raon Park](https://open.spotify.com/artist/1rv3Mh0eI0ghrbNOaGGpzd) | [Dear Polar Bears](https://open.spotify.com/album/4rRnrjKpcYpcjwMKmbEozU) | 4:51 |
 | 43 | [Every Little Step](https://open.spotify.com/track/61wwBgK2Ff5yao4QKhuPUX) | [Seon Dabin](https://open.spotify.com/artist/0JSuzK5w5DEDuxzs7ghqXL) | [Every Little Step](https://open.spotify.com/album/6gQfvxjDsW0NiV0a2a7DVl) | 6:38 |
-| 44 | [Annual plant](https://open.spotify.com/track/3Odx622SRpsHSylBSbfsaw) | [MANIK](https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc) | [Annual plant](https://open.spotify.com/album/0fa0ZARLeWnBSdaYQK1BaK) | 4:21 |
-| 45 | [Breeze](https://open.spotify.com/track/6CX8ZtHiupf9EulZXjXKA9) | [김상준](https://open.spotify.com/artist/1ZLe92Imu2rBDyZijS7TlZ) | [Breeze](https://open.spotify.com/album/3n9vwJ5YfbgEb6cnd6pDJS) | 3:08 |
+| 44 | [Annual plant](https://open.spotify.com/track/3TcPYJi9lSwwt350olQ3zB) | [MANIK](https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc) | [Annual plant](https://open.spotify.com/album/5tiTWtLR5CEqNzpeEUqVm7) | 4:21 |
+| 45 | [Breeze](https://open.spotify.com/track/5XhtsFFa0x6T68RU228Eql) | [sangjun kim](https://open.spotify.com/artist/5ActYrw5XC68RWkNGXrysv) | [Breeze](https://open.spotify.com/album/4cGVSpkczCuwfsbLNjbx7v) | 3:08 |
 | 46 | [Yes, It's You](https://open.spotify.com/track/0weLc1Dv24xWH4LvRB6W3p) | [Jeong Hayoung](https://open.spotify.com/artist/2Ce9TyC16AGqOzUYdXSVXC) | [Yes, It's You](https://open.spotify.com/album/23fQNAfEWOTjCrXMtQIQME) | 3:19 |
 | 47 | [rooftop story](https://open.spotify.com/track/7qDqkkAo9zPwAbTL0jvuLu) | [Song Hyukkyu](https://open.spotify.com/artist/2egNLLDYMhKXxFAgPOaxeq) | [Innocence of dawn](https://open.spotify.com/album/7oVjfpiung6nViuomF1YdL) | 3:40 |
 | 48 | [Churros](https://open.spotify.com/track/2qXbzLmJqrxYjur5BJGq1c) | [ROCHAE](https://open.spotify.com/artist/7ePNpv0R56WS6h1Ngt2UvJ) | [Churro](https://open.spotify.com/album/1tqSVy3r8s8Vu1XsAfn9Cz) | 2:02 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 70 | [풀빛푸른](https://open.spotify.com/track/6SNqL7uzSSESJ3IMKLFCdN) | [Q\-Han](https://open.spotify.com/artist/0Ahq4s8aRjMtjuui5iwxFp) | [풀빛푸른](https://open.spotify.com/album/3dPkZo53nbzFqMory6otX1) | 2:30 |
 | 71 | [Petrichor \(Nature\)](https://open.spotify.com/track/29vC3hES7e492HvTN2Jw4Y) | [Ham Moon](https://open.spotify.com/artist/0dtGNROSjYX3vMQO0eAKCV) | [Petrichor \(Nature\)](https://open.spotify.com/album/4CGwxkmRPClHlBhiinoLOy) | 4:15 |
 | 72 | [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 |
-| 73 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 |
+| 73 | [Isolate \(feat\. AHRAM GO\)](https://open.spotify.com/track/4HBFLUmi3CdnDugb1fevCo) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/4ofBi1vvKlz40osDgUA9OB) | 3:12 |
 | 74 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 |
 | 75 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 76 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 102 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 103 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCw4MDQ5NGI1ZDg1NzZkNTdjNzA2OTFmMDYxMDdmNDQ4OWY0ZjM4MTg2`
+Snapshot ID: `MCxhYTc4MDAxOWUyZWE2ZWJlZmE0OTM0OTgyYmVkY2I3NGE2ZTk2Mjcx`

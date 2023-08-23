@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-185 songs - 10 hr 41 min
+186 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Legend](https://open.spotify.com/track/0OToXGn66H9YBHxOJgZsR5) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Myths & Legends](https://open.spotify.com/album/5lBuDWwZvNyqYg5qe6igt4) | 3:09 | 2021-11-19 | 2022-07-29 |
 | [Legend](https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:09 | 2022-07-11 |  |
 | [Legend](https://open.spotify.com/track/3i4a6wJjy0LNFR2rXAIxpg) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:09 | 2022-07-11 | 2022-11-14 |
-| [Leghorn Women](https://open.spotify.com/track/7b9LvOKBgaHUwrhClWTMyp) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Blue Mesa](https://open.spotify.com/album/0Rfs6oNNu0hGS03akiExB3) | 3:56 | 2021-11-19 |  |
+| [Leghorn Women](https://open.spotify.com/track/2M9kMYNy0KIl21i003AxMO) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Blue Mesa](https://open.spotify.com/album/6VlvvNLO5SJPQciuEGZ0FF) | 3:56 | 2023-03-10 |  |
+| [Leghorn Women](https://open.spotify.com/track/7b9LvOKBgaHUwrhClWTMyp) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Blue Mesa](https://open.spotify.com/album/0Rfs6oNNu0hGS03akiExB3) | 3:56 | 2021-11-19 | 2023-08-23 |
 | [Long Live](https://open.spotify.com/track/5EEa9SITrIRlpj5yFn72iO) | [Devan DuBois](https://open.spotify.com/artist/7mFPzPaMTA7CHdNAWuAUIx) | [Le Fou](https://open.spotify.com/album/63EFCjfsEZqsXfK0PBKqu7) | 3:14 | 2021-11-19 |  |
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2023-03-10 |  |
 | [Low Lays the Devil](https://open.spotify.com/track/62VmGFPyLoXrlUiyO14iha) | [The Veils](https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5) | [Total Depravity](https://open.spotify.com/album/1WSjHvkOe1XUdZUkk4X3CO) | 3:16 | 2022-07-11 |  |

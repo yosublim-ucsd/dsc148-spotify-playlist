@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 185767,
       "name": "Cada Amor",
       "url": "https://open.spotify.com/track/7iuIozN19rt8QyzX20kb93"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "del\u00edrio coletivo",
       "url": "https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f"
@@ -2340,6 +2340,24 @@
       "duration_ms": 189965,
       "name": "Ent\u00e3o Volta",
       "url": "https://open.spotify.com/track/398kKBfVzVZk3WKgslVegy"
+    },
+    {
+      "album": {
+        "name": "Eremita",
+        "url": "https://open.spotify.com/album/3s8mB7MS1VPIckEL5nLNFm"
+      },
+      "artists": [
+        {
+          "name": "Renato Enoch",
+          "url": "https://open.spotify.com/artist/6TV4EsauTqkvsZATrn2YBc"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "Eremita",
+      "url": "https://open.spotify.com/track/1WhgrP90PSrslSYcRK4ma5"
     },
     {
       "album": {
@@ -3299,6 +3317,28 @@
     },
     {
       "album": {
+        "name": "Idiota Raiz (Deixa Ir)",
+        "url": "https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154137,
+      "name": "Idiota Raiz (Deixa Ir)",
+      "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd"
+    },
+    {
+      "album": {
         "name": "imagina amar assim",
         "url": "https://open.spotify.com/album/6YMf5PbWziwj5LVrU1dLUr"
       },
@@ -3824,6 +3864,24 @@
       "duration_ms": 143933,
       "name": "Maria Maria - Spotify Singles",
       "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+    },
+    {
+      "album": {
+        "name": "Me Arrependo",
+        "url": "https://open.spotify.com/album/3C40vpn8VGTZiMQ6IYICkZ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200393,
+      "name": "Me Arrependo",
+      "url": "https://open.spotify.com/track/2AY8ZWochVcpJ4smrjXeGQ"
     },
     {
       "album": {
@@ -5719,6 +5777,24 @@
     },
     {
       "album": {
+        "name": "que se fosse",
+        "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139666,
+      "name": "que se fosse",
+      "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
+    },
+    {
+      "album": {
         "name": "Quero Te Ver Pra Sempre",
         "url": "https://open.spotify.com/album/7z989gKVwhWO7UKTU5G0Bk"
       },
@@ -6288,6 +6364,24 @@
       "duration_ms": 180937,
       "name": "Ser feliz \u00e9 se encontrar",
       "url": "https://open.spotify.com/track/1sjRl2U0YHcOyq79N5CWQg"
+    },
+    {
+      "album": {
+        "name": "seu ch\u00e1",
+        "url": "https://open.spotify.com/album/1JaHjB6V9kTODWTk0t4p55"
+      },
+      "artists": [
+        {
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "seu ch\u00e1",
+      "url": "https://open.spotify.com/track/0YpTUiaIrG1Sv5ICeFJGqj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Bilal Saeed & Sunanda Sharma
 
-774 songs - 1 day 18 hr 0 min
+775 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Dil Diyan Gallan](https://open.spotify.com/track/76wpnLYf4uwrpJA4W9VwqT) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI), [Gauri Virdi](https://open.spotify.com/artist/6vhqXm02dV8QJVCfdHVE7Q) | [Dil Diyan Gallan](https://open.spotify.com/album/4fEQsSIpxj0yMT6msWS7Be) | 3:19 | 2022-02-04 | 2022-02-12 |
 | [Dil Diyan Gallan](https://open.spotify.com/track/60yO1jLf6MyQbFQwuCjX0l) | [Karox](https://open.spotify.com/artist/3Iknd9BKrBQOKm0UxZ3Scq) | [Dil Diyan Gallan](https://open.spotify.com/album/6eBmn5zszG9L3ibwn75rl9) | 3:25 | 2022-04-22 | 2022-05-11 |
 | [Dil Gaunda Firda](https://open.spotify.com/track/2H6jkOUuU50vQ6mTqxP3yG) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Dil Gaunda Firda](https://open.spotify.com/album/3ILEvzNb0DIcqGqbbqr09A) | 4:18 | 2022-04-12 | 2022-05-11 |
+| [Dil Lagiyan](https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:09 | 2023-08-22 |  |
 | [Dil Malanga](https://open.spotify.com/track/0xks4JzxUIpRySJ3mvGCrf) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Dil Malanga](https://open.spotify.com/album/3yKNDat6NRpsq02sjlYQ5B) | 2:24 | 2023-05-26 | 2023-06-27 |
 | [Dil Mangda](https://open.spotify.com/track/6tH1CdDgvrxKJRKaJ7jNLd) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Dil Mangda \("Maujaan Hi Maujaan"\)](https://open.spotify.com/album/4Doop6NZtTBsbZlQ0kaRgq) | 2:00 | 2023-08-21 |  |
 | [Dil Mangda](https://open.spotify.com/track/1eZflB7ASfy8Gm2EibYCfU) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG), [Mani Cheema](https://open.spotify.com/artist/4y5Pn2IPrpbKXBFHFwEo0I) | [Dil Mangda](https://open.spotify.com/album/4KIx0mGltf6aegXPbye0wf) | 3:55 | 2023-01-12 | 2023-02-04 |
@@ -306,7 +307,7 @@
 | [Jogiya](https://open.spotify.com/track/715KJ6GgLQgOl1fQG0DsKF) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Desi Routz](https://open.spotify.com/artist/1PPuO6mkbUFNCEh6uU0i71) | [Jogiya](https://open.spotify.com/album/79LkKVfRwrMiAdxMDnQMLr) | 3:17 | 2022-04-20 | 2022-04-29 |
 | [Judge](https://open.spotify.com/track/6Ffl1BBRfr8I2ASR6iiRTe) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Judge](https://open.spotify.com/album/6T3L3QXrlWDJiL1JJhOHsH) | 3:01 | 2022-02-03 | 2023-02-04 |
 | [Junoon](https://open.spotify.com/track/4roFMBSQp7W4fYVxKMmhA5) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/1sGWRNrgW1D1MTuBhz2mfs) | 3:11 | 2022-01-31 | 2022-05-20 |
-| [Just You](https://open.spotify.com/track/5lIqq03AyvTzFTx099bQL4) | [Simar Doraha](https://open.spotify.com/artist/0jKhGMur9IeyfJiVuS9JjL) | [Just You](https://open.spotify.com/album/5b8GuuiN6ZxpN0xa7HEXuL) | 2:48 | 2022-10-11 |  |
+| [Just You](https://open.spotify.com/track/5lIqq03AyvTzFTx099bQL4) | [Simar Doraha](https://open.spotify.com/artist/0jKhGMur9IeyfJiVuS9JjL) | [Just You](https://open.spotify.com/album/5b8GuuiN6ZxpN0xa7HEXuL) | 2:48 | 2022-10-11 | 2023-08-23 |
 | [Jutti](https://open.spotify.com/track/2ZEcDUIKloLj87nuZDsBU1) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Gurbaaz Singh](https://open.spotify.com/artist/3KFPpHw6iYiRNrN6ESsA9f), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Jutti \(From "Khaao Piyo Aish Karo"\)](https://open.spotify.com/album/7rGuPyz12FRogFQ6eBsOzc) | 2:57 | 2022-07-23 | 2022-08-18 |
 | [Jutti](https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jutti](https://open.spotify.com/album/5kSBVzFYKKRpa1OX6yTErb) | 2:24 | 2023-01-03 | 2023-01-24 |
 | [Kaala Tikka](https://open.spotify.com/track/4IEH4STQJzQXEoX76f7qfb) | [Avkash Mann](https://open.spotify.com/artist/7Gvwmp8f0VsfhEVArspJGU) | [Kaala Tikka](https://open.spotify.com/album/24ql9YFNMekb8C7uJOOtod) | 2:45 | 2022-08-12 | 2022-08-18 |

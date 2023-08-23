@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-667 songs - 1 day 4 hr 3 min
+669 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Before the War](https://open.spotify.com/track/0paObwS131dDajVtwORiYq) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:59 | 2022-05-27 | 2022-09-24 |
 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-09 | 2023-01-21 |
 | [Bella Mysteria](https://open.spotify.com/track/11l9eh10V5tcMZGclZ7oF8) | [Ambrosi Lozano](https://open.spotify.com/artist/2exTaHqknUhcHbgpDFzBGe) | [Bella Mysteria](https://open.spotify.com/album/7qlgJyBRsex2GzGWyYlOwi) | 2:23 | 2022-05-27 | 2022-09-24 |
+| [Beneath](https://open.spotify.com/track/3Yk4gfSFT4i8k4vOWYX8rn) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Beneath](https://open.spotify.com/album/0mY3JvS5YLbfHgrtYXNwtl) | 2:19 | 2023-08-21 |  |
 | [Between the Lines](https://open.spotify.com/track/7E59hHJ68v9vj6fZeFfqAK) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Between the Lines](https://open.spotify.com/album/20q0nU6A93tGx7ebWyHpUm) | 1:49 | 2023-03-13 | 2023-07-25 |
 | [Beyond The Glimmering Light](https://open.spotify.com/track/0Nz9A8EyeTvRo4WWFOLXeJ) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Beyond The Glimmering Light](https://open.spotify.com/album/40yxXM3SxRR0qUqzjwQBhN) | 2:39 | 2023-01-31 |  |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-05-27 | 2023-03-28 |
@@ -209,6 +210,7 @@
 | [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 | 2022-05-27 |  |
 | [Garden Of Dreams](https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Garden Of Dreams](https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B) | 2:49 | 2023-06-26 |  |
 | [Garden of mine](https://open.spotify.com/track/0x0brgn1K22WQoqiexeLX9) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Garden of mine](https://open.spotify.com/album/0KddFugeznttIbjcdM2wZZ) | 2:41 | 2022-05-27 | 2022-09-24 |
+| [Gare De Lyon](https://open.spotify.com/track/00hnPMMlA2V0bCKlI8yChO) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Gare De Lyon](https://open.spotify.com/album/7BDOuo6yevp1PSgntKUxs0) | 2:35 | 2023-08-21 |  |
 | [Geniality](https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Geniality](https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn) | 2:50 | 2022-05-27 | 2023-01-21 |
 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2022-05-27 | 2023-01-21 |
 | [Gloria](https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Gloria](https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1) | 2:55 | 2022-07-20 | 2023-01-21 |
@@ -410,7 +412,7 @@
 | [nyvallen](https://open.spotify.com/track/5Fc41UbpeLPaltHBkrL5kz) | [Ove Roos](https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0) | [nyvallen](https://open.spotify.com/album/2dnicxYzWPd2TJg1qz6qxp) | 2:08 | 2023-07-03 |  |
 | [of view](https://open.spotify.com/track/4CK2atgvodyG3xJPXXt58U) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Thoughts of View](https://open.spotify.com/album/6hP9TRgcIHRY8NXYVEFQka) | 3:46 | 2022-07-20 | 2023-07-25 |
 | [Oh Endless Day](https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Oh Endless Day](https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb) | 4:47 | 2022-05-27 | 2022-09-24 |
-| [Old Flame](https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO) | 2:08 | 2022-09-23 |  |
+| [Old Flame](https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO) | 2:08 | 2022-09-23 | 2023-08-23 |
 | [Old Flame](https://open.spotify.com/track/64th3RAbJNNkh96S3lcMRZ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/7sN26SlOzcl1ey6NuPPQfg) | 2:08 | 2022-05-27 | 2022-09-24 |
 | [Old Summer Romance](https://open.spotify.com/track/0PsVxQjMyJSNYo9R3zZnNR) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Old Summer Romance](https://open.spotify.com/album/1mG03oOljZ3ynqzhuWVKah) | 2:36 | 2022-05-27 | 2022-09-24 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2022-05-27 | 2022-07-21 |
@@ -540,7 +542,7 @@
 | [Sprites Of The Moor](https://open.spotify.com/track/6uSAPAnkFuSaL4f74KtBmD) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [Sprites Of The Moor](https://open.spotify.com/album/6zmbjPAkyO1RM7Iy82vjNE) | 3:00 | 2022-05-27 | 2022-09-24 |
 | [Spruces and pines](https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Spruces and pines](https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG) | 2:22 | 2023-07-03 |  |
 | [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 | 2022-05-27 | 2023-05-04 |
-| [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 | 2022-05-27 |  |
+| [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 | 2022-05-27 | 2023-08-23 |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-05-27 | 2023-06-20 |
 | [Stay](https://open.spotify.com/track/3gorfBRE1Ojs4PO9ruF7zU) | [OEN](https://open.spotify.com/artist/4RPFMzyyG8F2ygQzFLLFGD) | [Lonely Nights](https://open.spotify.com/album/5p8qHNadHlMX8Gn2uoNJlH) | 2:34 | 2022-05-27 | 2023-01-09 |
 | [Stay](https://open.spotify.com/track/39HXQGuVvKb1xk37coVqgb) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Stay](https://open.spotify.com/album/59jBPp7XmMmJqTLVmB1oxK) | 2:37 | 2022-05-27 | 2023-07-28 |

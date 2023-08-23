@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 320735,
+  "num_followers": 320813,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjBmMjk0ZDgwNDUzMDUxNDRhZDE0ZjcxOWM0MGQ1ZjZmNDU5NDBm",
+  "snapshot_id": "MCw2M2I3YTNjYWI3OWE4YjM1YjYxNDFlMzI0ODhlNjk2MWNhZDUzNjY5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Across A Wire (Live In New York)",
-        "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
-      "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 229466,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Across A Wire (Live In New York)",
+        "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 317333,
+      "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
+      "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Love Sux (Deluxe)",
-        "url": "https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK"
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/2ecM3Ast6U07GBP7fnqHJm"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
         }
       ],
-      "duration_ms": 189003,
-      "name": "Bite Me - Acoustic",
-      "url": "https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ"
+      "duration_ms": 171724,
+      "name": "sail away (acoustic)",
+      "url": "https://open.spotify.com/track/3NFQODWQ3Fa3ar4moCAiff"
     }
   ],
   "unique_name": "Stripped Down",

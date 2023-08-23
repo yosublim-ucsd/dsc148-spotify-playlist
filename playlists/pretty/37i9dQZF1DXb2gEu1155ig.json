@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 69262,
+  "num_followers": 69302,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmY2MWU3ZWM0YzJhZWUyZWRlYjY2NDc0ZGFhOTBjMDkxNDIxYjlj",
+  "snapshot_id": "MCxhMWZlNWQzNWQ4MjU0OWE2Y2Y0ZDY0YTczMzAxYTY3YjhiMjY0NjE1",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Disco De Oro Sonidero",
-        "url": "https://open.spotify.com/album/7KLAFeMq5gDBHhl1mM8ur1"
+        "name": "Tongoneaito",
+        "url": "https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM"
       },
       "artists": [
         {
-          "name": "Danny Y Su Grupo",
-          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
         }
       ],
-      "duration_ms": 221610,
-      "name": "Cumbia De Los Patos",
-      "url": "https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso"
+      "duration_ms": 194413,
+      "name": "Tongoneaito",
+      "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Tongoneaito",
-        "url": "https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM"
-      },
-      "artists": [
-        {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "Tongoneaito",
-      "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "Disco De Oro Sonidero",
+        "url": "https://open.spotify.com/album/7KLAFeMq5gDBHhl1mM8ur1"
+      },
+      "artists": [
+        {
+          "name": "Danny Y Su Grupo",
+          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
+        }
+      ],
+      "duration_ms": 221610,
+      "name": "Cumbia De Los Patos",
+      "url": "https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Serie 32",
         "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 201813,
       "name": "La Coloreteada",
       "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Ron Y Coca Cola",
+        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
+      },
+      "artists": [
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Ron Y Coca Cola",
+      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1199,8 +1215,8 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Macumba",
-        "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
+        "name": "Ni Juana la Cubana",
+        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
       "artists": [
         {
@@ -1208,93 +1224,9 @@
           "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
         }
       ],
-      "duration_ms": 164884,
-      "name": "Macumba",
-      "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ramirez y Sus Sonorritmicos",
-          "url": "https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Leticia",
-      "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "M\u00fasica Tropical de Colombia, Vol. 3",
-        "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Margarita",
-          "url": "https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Capullo y Sorullo",
-      "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Mis 14 Exitos De Oro",
-        "url": "https://open.spotify.com/album/0AzKda2rKGMlbWvwSBt1ln"
-      },
-      "artists": [
-        {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "La Hierba Se Mov\u00eda",
-      "url": "https://open.spotify.com/track/3gFAXop87ZB2sZZI6B59Vy"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Ron Y Coca Cola",
-        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
-      },
-      "artists": [
-        {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Ron Y Coca Cola",
-      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "El Ritmo De Chico Che Y La Crisis",
-        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Donde Te Agarro el Temblor",
-      "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
+      "duration_ms": 171746,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1315,6 +1247,38 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "Mis 14 Exitos De Oro",
+        "url": "https://open.spotify.com/album/0AzKda2rKGMlbWvwSBt1ln"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "La Hierba Se Mov\u00eda",
+      "url": "https://open.spotify.com/track/3gFAXop87ZB2sZZI6B59Vy"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ramirez y Sus Sonorritmicos",
+          "url": "https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Leticia",
+      "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
         "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
       },
@@ -1327,6 +1291,26 @@
       "duration_ms": 190426,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "M\u00fasica Tropical de Colombia, Vol. 3",
+        "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Capullo y Sorullo",
+      "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1363,22 +1347,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Ni Juana la Cubana",
-        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
-      },
-      "artists": [
-        {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
       },
@@ -1395,6 +1363,38 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "El Ritmo De Chico Che Y La Crisis",
+        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Donde Te Agarro el Temblor",
+      "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Macumba",
+        "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
+      },
+      "artists": [
+        {
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+        }
+      ],
+      "duration_ms": 164884,
+      "name": "Macumba",
+      "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "15 Anos De Exitos",
         "url": "https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 228571,
       "name": "La Brujita",
       "url": "https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Bueno Pa' Bailar",
+        "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 144323,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Bueno Pa' Bailar",
-        "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 144323,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "12 Super Exitos",
         "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Quiereme",
-        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Volvere",
-      "url": "https://open.spotify.com/track/53RPrPo2LlWeSo657i0W09"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Sabor A Cumbia",
         "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 174933,
       "name": "La Velludita",
       "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Quiereme",
+        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Volvere",
+      "url": "https://open.spotify.com/track/53RPrPo2LlWeSo657i0W09"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Los Nenes con Los Nenes",
-        "url": "https://open.spotify.com/album/3N8uklKicclGP85lgxYmDw"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 161985,
-      "name": "Los Nenes Con los Nenes",
-      "url": "https://open.spotify.com/track/6naFSjDQESFuw9Hv7v2ZOd"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Viva el Amor",
         "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+        "name": "Los Nenes con Los Nenes",
+        "url": "https://open.spotify.com/album/3N8uklKicclGP85lgxYmDw"
       },
       "artists": [
         {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
         }
       ],
-      "duration_ms": 98092,
-      "name": "Quiero Amanecer",
-      "url": "https://open.spotify.com/track/1yhoppn03RhuWge08NDqKR"
+      "duration_ms": 161985,
+      "name": "Los Nenes Con los Nenes",
+      "url": "https://open.spotify.com/track/6naFSjDQESFuw9Hv7v2ZOd"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1615,6 +1599,22 @@
       "duration_ms": 173466,
       "name": "Retrato Hablado",
       "url": "https://open.spotify.com/track/2sizo5xV3vWF9oDaZbwJ9s"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 98092,
+      "name": "Quiero Amanecer",
+      "url": "https://open.spotify.com/track/1yhoppn03RhuWge08NDqKR"
     }
   ],
   "unique_name": "Acapulco en la Azotea",

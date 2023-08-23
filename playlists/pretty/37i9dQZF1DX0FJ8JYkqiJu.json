@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 379521,
+  "num_followers": 379580,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2UzNjhmODI1ZDI3ZjJmZjg4NGQ4MGFmMTA1NDIxN2UxMTg3ZGVh",
+  "snapshot_id": "MCxjNGI1NzJlNDM3YmEzZWVmNmVmY2ViODMyOTM3MGFiM2Q4OWNlOWNm",
   "tracks": [
     {
       "added_at": "2023-08-17 15:19:27",
@@ -139,22 +139,18 @@
     {
       "added_at": "2023-08-17 15:19:27",
       "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 184000,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2023-08-17 15:19:27",
@@ -175,18 +171,22 @@
     {
       "added_at": "2023-08-17 15:19:27",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
         }
       ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+      "duration_ms": 184000,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
     },
     {
       "added_at": "2023-08-17 15:19:27",
@@ -763,30 +763,6 @@
     {
       "added_at": "2023-08-17 15:19:27",
       "album": {
-        "name": "Touching My Body / Down Shovel",
-        "url": "https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Jammer",
-          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
-        },
-        {
-          "name": "Etta Bond",
-          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
-        }
-      ],
-      "duration_ms": 430727,
-      "name": "Touching My Body",
-      "url": "https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh"
-    },
-    {
-      "added_at": "2023-08-17 15:19:27",
-      "album": {
         "name": "Red Lights (EMBRZ Remix)",
         "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
       },
@@ -811,6 +787,30 @@
     {
       "added_at": "2023-08-17 15:19:27",
       "album": {
+        "name": "Touching My Body / Down Shovel",
+        "url": "https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
+        },
+        {
+          "name": "Etta Bond",
+          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
+        }
+      ],
+      "duration_ms": 430727,
+      "name": "Touching My Body",
+      "url": "https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh"
+    },
+    {
+      "added_at": "2023-08-17 15:19:27",
+      "album": {
         "name": "Hey Papi",
         "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
       },
@@ -823,26 +823,6 @@
       "duration_ms": 158859,
       "name": "Hey Papi - Edit",
       "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
-    },
-    {
-      "added_at": "2023-08-17 15:19:27",
-      "album": {
-        "name": "Not Worthy (feat. Nonso Amadi)",
-        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 192208,
-      "name": "Not Worthy (feat. Nonso Amadi)",
-      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
     },
     {
       "added_at": "2023-08-17 15:19:27",
@@ -879,6 +859,26 @@
       "duration_ms": 224500,
       "name": "Wake Up Call",
       "url": "https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N"
+    },
+    {
+      "added_at": "2023-08-17 15:19:27",
+      "album": {
+        "name": "Not Worthy (feat. Nonso Amadi)",
+        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 192208,
+      "name": "Not Worthy (feat. Nonso Amadi)",
+      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
     },
     {
       "added_at": "2023-08-17 15:19:27",
@@ -1127,42 +1127,6 @@
     {
       "added_at": "2023-08-17 15:19:27",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
-      },
-      "artists": [
-        {
-          "name": "Good Life",
-          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 167009,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
-    },
-    {
-      "added_at": "2023-08-17 15:19:27",
-      "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
-    },
-    {
-      "added_at": "2023-08-17 15:19:27",
-      "album": {
         "name": "To Be Yours",
         "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
       },
@@ -1183,6 +1147,42 @@
     {
       "added_at": "2023-08-17 15:19:27",
       "album": {
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
+    },
+    {
+      "added_at": "2023-08-17 15:19:27",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
+      },
+      "artists": [
+        {
+          "name": "Good Life",
+          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 167009,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
+    },
+    {
+      "added_at": "2023-08-17 15:19:27",
+      "album": {
         "name": "Baby Face",
         "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
-    },
-    {
-      "added_at": "2023-08-17 15:19:27",
-      "album": {
-        "name": "Len\u00e7\u00f3is (Love Me)",
-        "url": "https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 225183,
-      "name": "Len\u00e7\u00f3is (Love Me)",
-      "url": "https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7"
     },
     {
       "added_at": "2023-08-17 15:19:27",
@@ -1231,6 +1215,22 @@
       "duration_ms": 140963,
       "name": "Shapes",
       "url": "https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi"
+    },
+    {
+      "added_at": "2023-08-17 15:19:27",
+      "album": {
+        "name": "Len\u00e7\u00f3is (Love Me)",
+        "url": "https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 225183,
+      "name": "Len\u00e7\u00f3is (Love Me)",
+      "url": "https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7"
     },
     {
       "added_at": "2023-08-17 15:19:27",

@@ -658,7 +658,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
@@ -2312,6 +2312,24 @@
       "duration_ms": 224726,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
+    },
+    {
+      "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227601,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/27cNK2poLalhyeWJbxQq5q"
     },
     {
       "album": {

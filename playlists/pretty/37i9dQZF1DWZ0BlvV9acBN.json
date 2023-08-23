@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Fernandinho",
-  "num_followers": 124850,
+  "num_followers": 125016,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWUxMjQ0OWRiZmY3NDk3Mzk2MmJmMjU2ODBhNmY2OTQ4NTQ3ZTAx",
+  "snapshot_id": "MCwzODc0YWEwYTQ2OWFkYTI2NmQxZDQ0N2Y4MjFlNDViNjAzOWIzNzUz",
   "tracks": [
     {
       "added_at": "2023-08-18 05:45:07",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-08-18 05:45:07",
       "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
-      },
-      "artists": [
-        {
-          "name": "ID2",
-          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
-    },
-    {
-      "added_at": "2023-08-18 05:45:07",
-      "album": {
         "name": "Vida/Eternidade",
         "url": "https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 258700,
       "name": "Jo\u00e3o 1 - VEC",
       "url": "https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG"
+    },
+    {
+      "added_at": "2023-08-18 05:45:07",
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+      },
+      "artists": [
+        {
+          "name": "ID2",
+          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
     },
     {
       "added_at": "2023-08-18 05:45:07",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-18 05:45:07",
       "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
-      },
-      "artists": [
-        {
-          "name": "Ana Diniz",
-          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
-        }
-      ],
-      "duration_ms": 240805,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
-    },
-    {
-      "added_at": "2023-08-18 05:45:07",
-      "album": {
         "name": "Cora\u00e7\u00e3o de Pedra",
         "url": "https://open.spotify.com/album/11lguPTBBroA3Vk3WCbXbo"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 225489,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/74RE99ZIixd6P7tzg0yY06"
+    },
+    {
+      "added_at": "2023-08-18 05:45:07",
+      "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
+      },
+      "artists": [
+        {
+          "name": "Ana Diniz",
+          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
+        }
+      ],
+      "duration_ms": 240805,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
     },
     {
       "added_at": "2023-08-18 05:45:07",

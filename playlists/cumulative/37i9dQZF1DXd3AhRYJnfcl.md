@@ -2,7 +2,7 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف:<a href="https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk?si=1zeHUrwPSTui0vbKualgog"> حمزه نمره </a>
+> أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=j2xm04y5Sl6Jd4SJrJVk7A"> نوال </a>
 
 218 songs - 12 hr 43 min
 

@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-66 songs - 4 hr 16 min
+68 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 | 2023-07-14 |  |
 | [Badariya](https://open.spotify.com/track/5IwDxCbs651v8M1cjlWaWO) | [Reewa Rathod](https://open.spotify.com/artist/0mzRkdWgrhQkFXs2ptJAch), [Swaransh Mishra](https://open.spotify.com/artist/6k8KVEJqdcGiVni3c6WmhY) | [Badariya](https://open.spotify.com/album/1QZeDxNotV0dAOe7KjUSZm) | 4:07 | 2023-05-09 |  |
 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 | 2023-05-09 |  |
+| [Barkha Bahaar](https://open.spotify.com/track/3RasEms9BsZBgdY25u5MVo) | [Krishnakali Saha](https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g) | [Barkha Bahaar](https://open.spotify.com/album/3LA406x4e2QmWlasFedCAp) | 4:04 | 2023-08-22 |  |
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2023-05-09 |  |
 | [Beh Bhi Le](https://open.spotify.com/track/4WBbMC0lSXQ8uu1I3iG8NP) | [Priyansh Paliwal](https://open.spotify.com/artist/3wzlbHYttOCz2NLyovlfXX) | [Sunday](https://open.spotify.com/album/1FUMdT2QZWjOuM4r1Gp5FN) | 4:14 | 2023-05-09 |  |
 | [Boonda Baandi](https://open.spotify.com/track/1CwU0cJqshRIJ14YFAFytm) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Boonda Baandi](https://open.spotify.com/album/7Kxpe3psy5jJQZwBL0JA3S) | 4:22 | 2023-05-09 |  |
@@ -45,6 +46,7 @@
 | [Khush to Hai Na](https://open.spotify.com/track/2bGCXKKxk0FyTwYeJooaJH) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Khush to Hai Na](https://open.spotify.com/album/6mgPdNVamEDDLXbbe0dtiT) | 3:11 | 2023-05-09 |  |
 | [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2023-05-09 |  |
 | [Kuch Baatein Yunhi Hain Na](https://open.spotify.com/track/6DItMa5mVQGFrgnDXj3oZ7) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3) | [Fresh for Valentine's](https://open.spotify.com/album/09AZuSsVzolrnesy92NIYd) | 4:02 | 2023-05-09 |  |
+| [Leap Up](https://open.spotify.com/track/4qNdRL86zKTarDWseXmdgn) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Leap Up](https://open.spotify.com/album/69W167FFlfsHUKoMMOqRbm) | 3:42 | 2023-08-22 |  |
 | [Leja Leja](https://open.spotify.com/track/5kWMV8yuPP6zSdz4MZhjVh) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Ustad And The Divas](https://open.spotify.com/album/01s2aUyGKULtAK1Q6BEdV7) | 4:29 | 2023-05-09 |  |
 | [Madhubala](https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:03 | 2023-05-09 |  |
 | [Mahi Tu Reh Ja](https://open.spotify.com/track/09Bp939Xx2RWtxxgdEHFdy) | [Manav](https://open.spotify.com/artist/51JL41wIGc0LJonGMZcsyM) | [Mahi Tu Reh Ja](https://open.spotify.com/album/6E46FZoxS6nSxg0KqxAvMc) | 3:43 | 2023-05-09 |  |

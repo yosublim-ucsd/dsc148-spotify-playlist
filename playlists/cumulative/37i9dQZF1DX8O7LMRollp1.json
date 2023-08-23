@@ -276,10 +276,28 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 264568,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2pyH87conA4SW4VmRhRUAy"
+    },
+    {
+      "album": {
+        "name": "Secret Mother, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3153yH5NEVXryZjr8tfSdf"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264568,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/70l6ayPCoOKfICNM2F3HJz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 
 > Los mejores del Trap de todos los tiempos! 🐐 Cover: Noriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 34 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 34 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 | 33 | [Mula](https://open.spotify.com/track/69rcDQoTgcU1qI396vTcxC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Mula](https://open.spotify.com/album/6F2BMX9keqKrROQbpqVNnQ) | 5:08 |
 | 34 | [Soldado Y Profeta \(feat\. Ozuna, Almighty, Kendo & Ñengo Flow\)](https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Soldado Y Profeta \(Remix\) \[feat\. Ozuna, Almighty, Kendo & Ñengo Flow\]](https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz) | 8:32 |
 
-Snapshot ID: `MCxiZTc2NTgyNDZkZjQ3YzQ2Y2ZjZTQxZTY3ZjQyY2YwZmJlNWY5NmRk`
+Snapshot ID: `MCxiNDU4MjNkMzY5YTlkMWJlZTU3OGI0YTc4YjE2ZDk4YjU4NDRmNjYx`

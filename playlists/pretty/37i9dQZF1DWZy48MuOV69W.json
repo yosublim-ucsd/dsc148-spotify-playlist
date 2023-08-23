@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 58582,
+  "num_followers": 58578,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmJkZTRhMjlkMzU0MTFiNTA0OGQ3MzA0YzgwMmI0NDA5NGExYWVl",
+  "snapshot_id": "MCwzZDY3Y2FkNmYxZDQxNzc2MjdmMmZhNjE5YTI5ZWM3ZmIyZTUwOGU4",
   "tracks": [
     {
       "added_at": "2023-08-17 06:58:46",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-08-17 06:58:46",
       "album": {
-        "name": "Christmas With The Andrews Sisters",
-        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
       "artists": [
         {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 180160,
-      "name": "I'd Like To Hitch A Ride With Santa Claus",
-      "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
+      "duration_ms": 121573,
+      "name": "Love Is a Christmas Rose",
+      "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
     },
     {
       "added_at": "2023-08-17 06:58:46",
@@ -383,34 +383,18 @@
     {
       "added_at": "2023-08-17 06:58:46",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+        "name": "Christmas With The Andrews Sisters",
+        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 121573,
-      "name": "Love Is a Christmas Rose",
-      "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
-    },
-    {
-      "added_at": "2023-08-17 06:58:46",
-      "album": {
-        "name": "Billy Eckstine Sings",
-        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
-      },
-      "artists": [
-        {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
+      "duration_ms": 180160,
+      "name": "I'd Like To Hitch A Ride With Santa Claus",
+      "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
     },
     {
       "added_at": "2023-08-17 06:58:46",
@@ -431,6 +415,22 @@
     {
       "added_at": "2023-08-17 06:58:46",
       "album": {
+        "name": "Billy Eckstine Sings",
+        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
+    },
+    {
+      "added_at": "2023-08-17 06:58:46",
+      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-08-17 06:58:46",
       "album": {
-        "name": "Reflections III Christmas",
-        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
-      },
-      "artists": [
-        {
-          "name": "Sissel",
-          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
-        }
-      ],
-      "duration_ms": 213889,
-      "name": "Make Me a Present of You",
-      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
-    },
-    {
-      "added_at": "2023-08-17 06:58:46",
-      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 241374,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
+    },
+    {
+      "added_at": "2023-08-17 06:58:46",
+      "album": {
+        "name": "Reflections III Christmas",
+        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
+      },
+      "artists": [
+        {
+          "name": "Sissel",
+          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
+        }
+      ],
+      "duration_ms": 213889,
+      "name": "Make Me a Present of You",
+      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
     },
     {
       "added_at": "2023-08-17 06:58:46",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-08-17 06:58:46",
       "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "Winter Wonderland - 1959 Version",
+      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
+    },
+    {
+      "added_at": "2023-08-17 06:58:46",
+      "album": {
         "name": "Songs of December (Anniversary Edition)",
         "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 300586,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
-    },
-    {
-      "added_at": "2023-08-17 06:58:46",
-      "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "Winter Wonderland - 1959 Version",
-      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
     },
     {
       "added_at": "2023-08-17 06:58:46",
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
         }
       ],
-      "duration_ms": 220000,
-      "name": "If We Make It Through December - 2022 Remastered",
-      "url": "https://open.spotify.com/track/2hZ9HmWOmA20tDlHC2vrMz"
+      "duration_ms": 101426,
+      "name": "What About Me - 2022 Remastered",
+      "url": "https://open.spotify.com/track/5VzZdotPQ5TXZgaZXDyWNv"
     },
     {
       "added_at": "2023-08-17 06:58:46",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-08-17 06:58:46",
       "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb"
+    },
+    {
+      "added_at": "2023-08-17 06:58:46",
+      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 155641,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
-    },
-    {
-      "added_at": "2023-08-17 06:58:46",
-      "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb"
     },
     {
       "added_at": "2023-08-17 06:58:46",
@@ -816,25 +816,9 @@
           "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
         }
       ],
-      "duration_ms": 101426,
-      "name": "What About Me - 2022 Remastered",
-      "url": "https://open.spotify.com/track/5VzZdotPQ5TXZgaZXDyWNv"
-    },
-    {
-      "added_at": "2023-08-17 06:58:46",
-      "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
-      },
-      "artists": [
-        {
-          "name": "Javon Jackson",
-          "url": "https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
+      "duration_ms": 220000,
+      "name": "If We Make It Through December - 2022 Remastered",
+      "url": "https://open.spotify.com/track/2hZ9HmWOmA20tDlHC2vrMz"
     },
     {
       "added_at": "2023-08-17 06:58:46",
@@ -851,6 +835,22 @@
       "duration_ms": 237320,
       "name": "All Through The Night",
       "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
+    },
+    {
+      "added_at": "2023-08-17 06:58:46",
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
+      },
+      "artists": [
+        {
+          "name": "Javon Jackson",
+          "url": "https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
     },
     {
       "added_at": "2023-08-17 06:58:46",

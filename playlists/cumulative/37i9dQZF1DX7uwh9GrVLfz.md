@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Northern19
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Limited Express \(has gone?\)
 
-608 songs - 1 day 8 hr 44 min
+611 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Believe](https://open.spotify.com/track/4C13xDSsYbqoFyYJUu0ZQh) | [ALIVES](https://open.spotify.com/artist/18JTlzpST0PKdG2IpJZ8QK) | [Code of Alives](https://open.spotify.com/album/1MpsMC6rUebOZXt0ZNdzve) | 2:35 | 2022-05-19 | 2022-07-14 |
 | [Believer](https://open.spotify.com/track/4TJeTiTmNhzBBZeI4bSVTV) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2NK3TmaOmduXVBSm0LZ28N) | 2:49 | 2022-05-12 | 2022-07-27 |
 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 | 2022-07-21 |  |
+| [BET ON ME](https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [Tell Your Story](https://open.spotify.com/album/6rlqdeK0VEjg5RbVWGrdR1) | 2:08 | 2023-08-22 |  |
 | [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 | 2022-05-12 | 2023-08-16 |
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-05-16 | 2023-08-16 |
 | [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 | 2022-05-12 | 2022-08-13 |
@@ -92,7 +93,7 @@
 | [Deadhead](https://open.spotify.com/track/2Nr5rkzcAbtEHtc4l9odhc) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [NEW MYTHTAKES](https://open.spotify.com/album/6s4vcH9Bf5VtA09WN3PlWq) | 2:26 | 2022-05-12 | 2022-07-26 |
 | [Dear my songs](https://open.spotify.com/track/5NMwkyRm1azQWdeBrfuNnM) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Songs \-what I sing when a war resounds this\-](https://open.spotify.com/album/3AShfnFUfzEQEGgofiLecD) | 5:18 | 2022-05-12 | 2022-07-25 |
 | [Deception](https://open.spotify.com/track/4bFq5BWHDFPS90EPHAWYoq) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Otherside](https://open.spotify.com/album/0lNBLtCeStZBRSQhARH6ur) | 3:02 | 2022-06-07 | 2022-08-19 |
-| [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 | 2023-05-23 |  |
+| [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 | 2023-05-23 | 2023-08-23 |
 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 | 2022-05-19 |  |
 | [DESTINATION UNKNOWN](https://open.spotify.com/track/1SBs9FBcvzM9KclTZn5U8U) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 2:49 | 2023-06-09 | 2023-06-28 |
 | [dingdong jungle](https://open.spotify.com/track/0uCKvN0hL2lfbEIodpPT1F) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [dingdong jungle](https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh) | 2:53 | 2022-08-02 | 2022-08-10 |
@@ -147,7 +148,7 @@
 | [Go自愛](https://open.spotify.com/track/0aHUgBSLIN8xVMY08qbHEk) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 1:48 | 2023-03-21 | 2023-05-05 |
 | [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 | 2023-02-11 |
 | [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 | 2022-10-05 |
-| [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 |  |
+| [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 | 2023-08-23 |
 | [HATTRICK](https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HATTRICK](https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly) | 1:49 | 2023-04-05 | 2023-05-18 |
 | [HEARTBEAT](https://open.spotify.com/track/4XRP6yJ7CPzCVM3jcZbMwz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HEARTBEAT](https://open.spotify.com/album/2Szuh3zqRSHAQZywLXU7jc) | 3:04 | 2022-05-12 | 2022-07-29 |
 | [HEARTBEAT](https://open.spotify.com/track/3YEZG0GDjDvoNDK0l8WsS3) | [THIS IS JAPAN](https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD) | [HEARTBEAT](https://open.spotify.com/album/0TOzxSGlpg83oOGZZhhv87) | 4:04 | 2022-05-12 | 2022-07-24 |
@@ -324,7 +325,7 @@
 | [SCAR](https://open.spotify.com/track/5OpXHN9hwW1V1YBiChGt7q) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [SCAR](https://open.spotify.com/album/5DvfInAZNzhoyxAOXV4OVT) | 2:45 | 2022-09-14 | 2022-11-02 |
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-03 |  |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
-| [Second March](https://open.spotify.com/track/5sKL7KmuGkv080aa1GLSYe) | [Danablu](https://open.spotify.com/artist/7rOm14pDj1CaXtrbFfIjRt) | [Second March](https://open.spotify.com/album/1B5tRFGQUrcXDihzlsW8Q0) | 2:45 | 2023-08-01 |  |
+| [Second March](https://open.spotify.com/track/5sKL7KmuGkv080aa1GLSYe) | [Danablu](https://open.spotify.com/artist/7rOm14pDj1CaXtrbFfIjRt) | [Second March](https://open.spotify.com/album/1B5tRFGQUrcXDihzlsW8Q0) | 2:45 | 2023-08-01 | 2023-08-23 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
 | [see you walking](https://open.spotify.com/track/2S77Zkxf7eckj4gaq3zn1O) | [ALiVE](https://open.spotify.com/artist/5pSPKQkHGRGaTyY3vMG8Hz) | [Olive branch](https://open.spotify.com/album/0piB3BJMmZ82AFte4dy7XL) | 0:35 | 2023-07-11 | 2023-08-16 |
 | [seisyunhamada](https://open.spotify.com/track/4x8dUbBZSfR6mGyoZAe4F8) | [EiHilE](https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED) | [seisyunhamada](https://open.spotify.com/album/5H6j3a87BUuNgjZQUD9sX5) | 2:35 | 2023-05-30 | 2023-06-09 |
@@ -357,6 +358,7 @@
 | [Spilling Water](https://open.spotify.com/track/6TCCx0Ueu4YDGtXiIbxIl2) | [OWEAK](https://open.spotify.com/artist/6upXl7zerJtB7IDMcPrl21) | [Where I Belong](https://open.spotify.com/album/5glTfPmsuhDSzmnSrwdyyS) | 3:33 | 2022-05-12 | 2022-07-27 |
 | [Spineless Black](https://open.spotify.com/track/5inOkwVKe3HaVEb3cL2vFX) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [Spineless Black](https://open.spotify.com/album/4Lk3VyougEhhTTSknMOoqi) | 4:18 | 2022-05-12 | 2022-07-24 |
 | [Star Falls On Our Hands Tonight](https://open.spotify.com/track/4oR4CLlb28cJfhnLy8cOVi) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [RINGS](https://open.spotify.com/album/6Pq5LR08qt9lf1YyP6pZtX) | 3:28 | 2022-05-19 | 2022-07-29 |
+| [STAR HIGH](https://open.spotify.com/track/6FX5Lz5hv454VbJCUZBqsy) | [WESTERN STAGE](https://open.spotify.com/artist/6TDe4nZC9oHCeANm5iAeFW) | [STAR HIGH](https://open.spotify.com/album/6TXnScqi7HwxgPPnoGbxLr) | 3:21 | 2023-08-22 |  |
 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 |  |
 | [STAY GLOW](https://open.spotify.com/track/3JdLuVZzVu8NAb6n2Ml49h) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [TAKUMA](https://open.spotify.com/artist/4nOzNf1MhztxPec9rMTQ1i) | [S.A.L](https://open.spotify.com/album/7sWgmxbx6fOYBxiQbyMG2L) | 5:10 | 2022-05-19 | 2022-07-27 |
 | [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 | 2022-08-02 | 2023-07-19 |
@@ -613,6 +615,7 @@
 | [金色グラフティー](https://open.spotify.com/track/4sHj1jEbYuKGy6zM2LKXOI) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [You are ROTTENGRAFFTY](https://open.spotify.com/album/09O9X6o3DJfUCgB2PEP4ZB) | 4:17 | 2022-07-21 | 2022-08-19 |
 | [金色グラフティー](https://open.spotify.com/track/3Qs3O0rc4R0hl7WkTuMJ6U) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [Walk](https://open.spotify.com/album/2ZPTCQBG8YLgf83T8W3Bfh) | 4:18 | 2022-05-12 | 2022-07-27 |
 | [銀河鉄道の夜](https://open.spotify.com/track/3gjTlJclAZCTa2IP2tn6wW) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 5:41 | 2022-05-12 |  |
+| [限界突破 \- 2023ver](https://open.spotify.com/track/5zL1aH9pHJa1BWB4qZqbRK) | [虎の子ラミー](https://open.spotify.com/artist/4uxbGvHpQJ9uKKDoOjlEjk) | [DRIP OF RAMMY](https://open.spotify.com/album/4bgwaDZGObqdJbRkZnqFjw) | 3:30 | 2023-08-22 |  |
 | [離れていても](https://open.spotify.com/track/0sdriTFzyjr41idOSiCaPu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [離れていても](https://open.spotify.com/album/6gRGlknpmx8N0Kq5N2Iqvm) | 3:45 | 2022-05-12 | 2022-07-05 |
 | [雨上がり東京は](https://open.spotify.com/track/6kdTopvZh57DMGrLnJguwT) | [チロと衛星](https://open.spotify.com/artist/2eVec80RY2CazpycCwLuxT) | [ロマンス全共闘](https://open.spotify.com/album/4nDTon1WD4b8AAs9S2zt28) | 2:29 | 2022-05-19 | 2022-07-12 |
 | [青春](https://open.spotify.com/track/7fxnqHwjsuocgLat0GmJPw) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [若者よ、耳を貸せ](https://open.spotify.com/album/2w8HkSorIkDDWCdVTsSHw3) | 4:26 | 2022-05-17 | 2022-07-29 |

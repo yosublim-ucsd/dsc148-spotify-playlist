@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69895,
+  "num_followers": 69893,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmViNGNlMDUzODcwZDhhZmU0NzI3ZDk3MmU3OWRkMTdmNzI0Mzhj",
+  "snapshot_id": "MCw1Mjg1Yjc5ZWI1Njc0ZGE5NDM1ODMzZGY3YzY3OTExNTUzNGM5ZjVi",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Te La Dedico",
-        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/0stTNi5KJMdoruNe8JG6by"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 184000,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/0aOcyrtTn2Fpit2GIeaGwO"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Te La Dedico",
+        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Otra",
         "url": "https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 197280,
       "name": "Freelance",
       "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "ST\u00dcSSY",
-        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
-      },
-      "artists": [
-        {
-          "name": "Jovaan",
-          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
-        }
-      ],
-      "duration_ms": 144714,
-      "name": "ST\u00dcSSY",
-      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Mi Vicio",
         "url": "https://open.spotify.com/album/1amIwstC3mDDvcgCiew7zB"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 221428,
       "name": "Mi Vicio",
       "url": "https://open.spotify.com/track/67VUbFHrTusJgK0JOofLXU"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "ST\u00dcSSY",
+        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
+      },
+      "artists": [
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        }
+      ],
+      "duration_ms": 144714,
+      "name": "ST\u00dcSSY",
+      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 134048,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "19 Crema",
         "url": "https://open.spotify.com/album/69lwdO2wfRE7UICTvC2nC6"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 246408,
       "name": "19 Crema",
       "url": "https://open.spotify.com/track/3Toeb72Jvw4o5duxvPwYJP"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 134048,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Nube",
-        "url": "https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l"
-      },
-      "artists": [
-        {
-          "name": "Paradize",
-          "url": "https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4"
-        },
-        {
-          "name": "JC Karo",
-          "url": "https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl"
-        }
-      ],
-      "duration_ms": 223399,
-      "name": "Nube",
-      "url": "https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Twerk",
         "url": "https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 190946,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Nube",
+        "url": "https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l"
+      },
+      "artists": [
+        {
+          "name": "Paradize",
+          "url": "https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4"
+        },
+        {
+          "name": "JC Karo",
+          "url": "https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl"
+        }
+      ],
+      "duration_ms": 223399,
+      "name": "Nube",
+      "url": "https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
-      },
-      "artists": [
-        {
-          "name": "TIVGO Cruz",
-          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "TAYYA",
         "url": "https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 160000,
       "name": "TAYYA",
       "url": "https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
+      },
+      "artists": [
+        {
+          "name": "TIVGO Cruz",
+          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
     },
     {
       "added_at": "2023-06-09 02:27:24",

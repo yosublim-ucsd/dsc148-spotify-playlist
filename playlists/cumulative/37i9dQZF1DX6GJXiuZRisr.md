@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-405 songs - 1 day 5 hr 26 min
+406 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Grains](https://open.spotify.com/track/65kSgWVGY4JIWNLWnfEwbe) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Rogue](https://open.spotify.com/album/7mDi1BM9wnm55QUTedTelk) | 4:44 | 2021-05-07 | 2022-07-29 |
 | [Greece 2000](https://open.spotify.com/track/1GJX5BJFcdrFgIui67TdPF) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/0iYmm2VSDyLlCPTjRe815R) | 3:27 | 2022-08-12 | 2022-08-17 |
 | [Greece 2000](https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV) | 3:27 | 2022-08-12 |  |
-| [Happy / Sad](https://open.spotify.com/track/74cUPlW0C4eq0r0jQ66YN7) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Happy / Sad](https://open.spotify.com/album/5yXbCPshIWciotI4V5y8sL) | 3:23 | 2023-07-21 |  |
+| [Happy / Sad](https://open.spotify.com/track/74cUPlW0C4eq0r0jQ66YN7) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Happy / Sad](https://open.spotify.com/album/5yXbCPshIWciotI4V5y8sL) | 3:23 | 2023-07-21 | 2023-08-23 |
 | [Haunt Me](https://open.spotify.com/track/17zdyEVw9oe9FBDevjOl5c) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me](https://open.spotify.com/album/4EMZGTv76C32KyS0dZRwad) | 4:59 | 2021-05-07 | 2022-10-13 |
 | [Haunt Me](https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me](https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3) | 4:59 | 2022-07-01 | 2023-07-17 |
 | [Haunt Me V.2](https://open.spotify.com/track/2USVsdlxRntLqOROwO422o) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me V.2](https://open.spotify.com/album/5zzz3bqkSSoU9nOnpigjTM) | 4:58 | 2021-09-03 | 2022-08-13 |
@@ -284,6 +284,7 @@
 | [Roar \- Adana Twins Remix](https://open.spotify.com/track/5cWtZM21FH4YL0aWq3Syfv) | [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Roar \(Adana Twins Remix\)](https://open.spotify.com/album/3FY1RYMswstlQcPkPIF9hX) | 8:13 | 2021-05-07 | 2023-05-27 |
 | [Rome](https://open.spotify.com/track/49wIH8xOuabRq4ljFjfH9e) | [Juan Pablo Torrez](https://open.spotify.com/artist/0guszBsvdqSh0MqXkdujXM) | [Rome](https://open.spotify.com/album/0aS70JZhuo8WYnO7sZTSGE) | 7:12 | 2021-05-07 | 2022-04-21 |
 | [Run Away](https://open.spotify.com/track/10etnNyws0WMn5J654CSwE) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Aryan Saleh](https://open.spotify.com/artist/3V3Ye4nzNruEuomiLi2CV2) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:48 | 2021-05-07 | 2022-04-28 |
+| [Runaway](https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Affirmations](https://open.spotify.com/album/7fLkWAvOwyWLPQDytTukiJ) | 2:45 | 2023-08-18 |  |
 | [Running \(feat\. Meg Myers\)](https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx) | 6:25 | 2022-07-01 | 2022-08-09 |
 | [Running \(feat\. Meg Myers\) \- Extended Mix](https://open.spotify.com/track/2T5lAs95i1Gx6FjYYJZ1zr) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/16Kon7rTm0D4jOwEu2me2c) | 6:25 | 2021-12-10 | 2022-07-29 |
 | [Rush \- Miss Monique Remix](https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb) | [Sied Van Riel](https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rush \(Miss Monique Remix\)](https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6) | 4:51 | 2022-04-08 | 2023-07-08 |

@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Adrian L Santos en portada.
 
-389 songs - 20 hr 8 min
+390 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,8 @@
 | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ) | 3:20 | 2022-11-11 | 2023-04-15 |
 | [Sigo Pa' Delante](https://open.spotify.com/track/23X9OuSIh4FqrShffGvmLt) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [Sigo Pa' Delante](https://open.spotify.com/album/1sxra7YvVszvG6KOLBt7HL) | 2:28 | 2022-12-09 | 2022-12-24 |
 | [Sigo Vigente](https://open.spotify.com/track/7nXCqGUKaHvlp7sfU710pl) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Sigo Vigente](https://open.spotify.com/album/5e4UoYWJctlZpUsMgmC9hi) | 3:37 | 2023-02-24 | 2023-05-06 |
-| [Sin Escalas](https://open.spotify.com/track/4YAgZYw2v8wyh5LVNV8Ta1) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/0FtcvjbtqVDC64pOq1UJMe) | 2:20 | 2023-08-18 |  |
+| [Sin Escalas](https://open.spotify.com/track/4YAgZYw2v8wyh5LVNV8Ta1) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/0FtcvjbtqVDC64pOq1UJMe) | 2:20 | 2023-08-18 | 2023-08-23 |
+| [Sin Escalas](https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/1daB1drE8UKC2vbKDGadJX) | 2:20 | 2023-08-18 |  |
 | [Sin Lado Izquierdo \- En Vivo](https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Con Tololoche y Charchetas \(En Vivo\)](https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI) | 3:06 | 2022-12-23 | 2023-08-19 |
 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE) | 3:18 | 2023-06-09 |  |
 | [Sin Tus Besos](https://open.spotify.com/track/5cwNVUuCDliHKLXfD12i7z) | [Baby Kintero](https://open.spotify.com/artist/1DTvd5Qjpee91lOAtK1e73) | [Cuando Los Niños Crecen](https://open.spotify.com/album/7xceZZYnHyuob02BsmnA3s) | 3:17 | 2022-09-23 | 2022-12-03 |

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Jailer
 
-836 songs - 2 day 3 hr 27 min
+837 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Mittai Mittai \(From "Anel Meley Pani Thuli"\)](https://open.spotify.com/track/0yV1ttdm79H1jvaFLGFOB3) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Karthika Vaidyanathan](https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS) | [Mittai Mittai \(From "Anel Meley Pani Thuli"\)](https://open.spotify.com/album/0mJqaxb4ZJkbJZrgwj000x) | 4:48 | 2022-06-24 | 2022-07-08 |
 | [MMBB Starwar \(From "Golmaal"\)](https://open.spotify.com/track/0eSu0L3Wbr2b6lFruLVjfT) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Ranjith](https://open.spotify.com/artist/1HUKrJMXdMmhS6UqmO8mcv), [Priyanka Deshpande](https://open.spotify.com/artist/16dSjMQsnHAktxk8Qb8qWY), [Sivaangi Krishnakumar](https://open.spotify.com/artist/4jwWkrcKib8pdu8FFs9cZR) | [MMBB Starwar \(From "Golmaal"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1JPFvr5HMw4qOn0MtMv1XH) | 3:56 | 2023-01-18 | 2023-02-14 |
 | [Moaning Theme \- Background Score](https://open.spotify.com/track/3Qm35fbJSuclok2fQB2rzZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:24 | 2022-07-08 | 2022-08-05 |
+| [Moruniye \(From "Chandramukhi 2"\)](https://open.spotify.com/track/03UhIaH494YG0RCiKnMj2O) | [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn) | [Moruniye \(From "Chandramukhi 2"\)](https://open.spotify.com/album/6wBa9kXZ3zUrqyaSsQA3zz) | 4:27 | 2023-08-22 |  |
 | [Mosalo Mosalu](https://open.spotify.com/track/3g2hHiLoH4Z94JxjH8G0vG) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Mukesh Mohamed](https://open.spotify.com/artist/5AVWP78N063ZsGfOfCb6L5) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 4:44 | 2022-07-28 | 2022-08-11 |
 | [Mosalo Mosalu \- From "The Legend"](https://open.spotify.com/track/3ag1ImLPQDHjng5UogKWKd) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Mukesh Mohamed](https://open.spotify.com/artist/5AVWP78N063ZsGfOfCb6L5) | [Mosalo Mosalu \(From "The Legend"\)](https://open.spotify.com/album/2yKqahOc07iCMLcQmpY4LZ) | 4:44 | 2022-04-09 | 2022-07-29 |
 | [Motivational Song](https://open.spotify.com/track/7COT5HQgu2CznwikSEE5ob) | [Ramya NSK](https://open.spotify.com/artist/1kymDvCl9hR0bZ9DPy65ie) | [Yashoda \(Tamil\)](https://open.spotify.com/album/5T5N1kl64u9jU81oULqtwV) | 4:35 | 2023-02-03 | 2023-02-11 |

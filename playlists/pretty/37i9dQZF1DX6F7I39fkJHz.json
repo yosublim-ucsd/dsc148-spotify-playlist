@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring TAICHU.",
-  "num_followers": 30025,
+  "num_followers": 30048,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2I1ODU3Yzk1NTQ4ZWRjZmI0NDVmNGE3ZTYzMDM5ZmRmYjljZjA1",
+  "snapshot_id": "MCwwMDRmMmJjNjczNTg5MzBiNjliOWNjZDZiMDdkZTY5NmNiZmRmMjE4",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Bicha",
+        "url": "https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 149696,
+      "name": "Bicha",
+      "url": "https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Ella (Remix De Ellas)",
         "url": "https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 190813,
       "name": "Ella - Remix De Ellas",
       "url": "https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Bicha",
-        "url": "https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 149696,
-      "name": "Bicha",
-      "url": "https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b"
     },
     {
       "added_at": "2023-08-04 03:00:00",

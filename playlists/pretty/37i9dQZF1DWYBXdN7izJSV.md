@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,732 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,779 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 66 | [Indianapolis](https://open.spotify.com/track/4dCFpIPmSWi2fDQvcdp9dK) | [The Bottle Rockets](https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW) | [24 Hours A Day](https://open.spotify.com/album/6oEpo2mn9gFX5B8MQUy1qy) | 3:32 |
 | 67 | [Quiet Corners & Empty Spaces](https://open.spotify.com/track/7crEMhx5kDsaV7hHmL0gkE) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Paging Mr\. Proust](https://open.spotify.com/album/68Gfrh064D2bJfIAw2jdkn) | 3:06 |
 | 68 | [Welfare Music](https://open.spotify.com/track/5urzRMfyfuYbvpjZDqm8tY) | [The Bottle Rockets](https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW) | [The Bottle Rockets & The Brooklyn Side](https://open.spotify.com/album/11wjQ6TTqZQjUTumb8THVm) | 3:18 |
-| 69 | [She Took A Lot Of Pills \(And Died\)](https://open.spotify.com/track/1lz3mp3MJmF910If1so02W) | [Robbie Fulks](https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe) | [Country Love Songs](https://open.spotify.com/album/7pPvsIGZU0LwQBhU6LVKII) | 2:43 |
-| 70 | [How Many Women](https://open.spotify.com/track/7xSOPBhpzqy9ZAWClYDnht) | [Lydia Loveless](https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn) | [Indestructible Machine](https://open.spotify.com/album/3mAVrIW8N85Em9eijWYdOl) | 3:44 |
+| 69 | [She Took A Lot Of Pills \(And Died\)](https://open.spotify.com/track/3USn7GRMpBKrjaaxZmZ38v) | [Robbie Fulks](https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe) | [Country Love Songs](https://open.spotify.com/album/2SOOMrBaatKswhoKpYNiiM) | 2:43 |
+| 70 | [How Many Women](https://open.spotify.com/track/5xBo0hTMiVNdYTuELFGtz0) | [Lydia Loveless](https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn) | [Indestructible Machine](https://open.spotify.com/album/1aZHbSOd5bpXpRjgUzdY8W) | 3:44 |
 | 71 | [Two Hearts Down](https://open.spotify.com/track/18i8x1wiccOX6XiHrauIDn) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [100 Miles of Wreckage](https://open.spotify.com/album/6dSZmYZTOVUgrsHUMUIChX) | 3:37 |
 | 72 | [Guns of Umpqua](https://open.spotify.com/track/45SUewgCOLuDxdGnfhXHHV) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [American Band](https://open.spotify.com/album/0TbtGujCU6nlT2e2qnJVcs) | 3:51 |
 | 73 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 |
 | 74 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 |
 | 75 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
 
-Snapshot ID: `MCxhNmEwY2FmY2MzNjQxNmI0ZDY0MzE1NjVhYWE1YzFmMWM1ZmFhYzU2`
+Snapshot ID: `MCwzMDc2MGVkMjdjZWRlNDRkOThjMjFhYWJlY2VmNjIyMzk3ZGVjNGEy`

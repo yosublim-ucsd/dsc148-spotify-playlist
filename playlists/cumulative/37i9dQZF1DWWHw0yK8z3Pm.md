@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Chris Stapleton
 
-353 songs - 21 hr 37 min
+354 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [North of the Border](https://open.spotify.com/track/1on5aZH6WRLgP0UZsvy680) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [North of the Border](https://open.spotify.com/album/7q3LN4jWho4NMiBXa4EPoi) | 4:24 | 2022-07-22 | 2022-10-15 |
 | [Not Unlike A Rock](https://open.spotify.com/track/2yoFY6f2XAA9IWYbbtJxsL) | [Whitney K](https://open.spotify.com/artist/4PUAKbav9ZaFcc6hL0abX6) | [Not Unlike A Rock](https://open.spotify.com/album/09EwURVtWWshH7WEMFeUUa) | 4:53 | 2022-10-28 | 2023-04-22 |
 | [Not Unlike A Rock](https://open.spotify.com/track/3aWIfiGuUjvgqtnS6899s6) | [Whitney K](https://open.spotify.com/artist/4PUAKbav9ZaFcc6hL0abX6) | [Not Unlike A Rock](https://open.spotify.com/album/7DxWJ7orr7mrjcOEelvNGD) | 4:53 | 2022-05-13 | 2022-11-09 |
+| [Notawe \(Father\)](https://open.spotify.com/track/2wQ3tFNWGiNUMf3O0CRS9W) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [Notawe \(Father\)](https://open.spotify.com/album/4nIkOsbvUJiuWzoKQ6Ex0f) | 3:56 | 2023-08-18 |  |
 | [Now](https://open.spotify.com/track/1eLu0QKysJo90dmaI5KV17) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM) | 3:26 | 2022-05-13 | 2022-07-30 |
 | [Numbers](https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:28 | 2023-04-21 |  |
 | [O Glory Lost Those Blues Again](https://open.spotify.com/track/0eyyfDrV3arjYL1kfP1fGd) | [Blackie & The Rodeo Kings](https://open.spotify.com/artist/5Xkfy1HC5JSFKU1Z4lr3Ru) | [O Glory Lost Those Blues Again](https://open.spotify.com/album/3wE1yyIcRn5eITElpD3IS0) | 3:23 | 2022-05-13 | 2022-11-12 |
@@ -342,7 +343,7 @@
 | [What I Had in Mind](https://open.spotify.com/track/5saojvKcj1644C6Fi7BY3j) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [What I Had in Mind](https://open.spotify.com/album/1qi7P89eVlmAzdDd4Wv1Kp) | 3:13 | 2022-09-30 | 2022-11-19 |
 | [What Is a Broken Heart For](https://open.spotify.com/track/0aCm3Et01TEjfKeG2bABUK) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:00 | 2023-03-24 | 2023-05-13 |
 | [Whatever Got Lost](https://open.spotify.com/track/4JMCCet7BRLwThMx6ifEUX) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [For Jimmy](https://open.spotify.com/album/1odIO8SXRLhIFPphlEGJjY) | 3:31 | 2023-07-21 |  |
-| [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 | 2023-02-03 |  |
+| [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 | 2023-02-03 | 2023-08-23 |
 | [When You're Gone](https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [When You're Gone](https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX) | 2:45 | 2022-12-09 | 2023-08-21 |
 | [Where My Wild Things Are](https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Where My Wild Things Are](https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N) | 3:57 | 2023-06-23 |  |
 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 | 2023-05-05 |  |

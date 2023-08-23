@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, Taylor Deupree guest selects some Ambient to create your very own.
 
-334 songs - 1 day 3 hr 13 min
+335 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [mit ohne 3](https://open.spotify.com/track/3J9tiIwhuK09NEa5ho4hCi) | [Steinbrüchel](https://open.spotify.com/artist/38WayI4BiEMtjd3ixLWu09), [ralph steinbrüchel](https://open.spotify.com/artist/4oOYyyEV4CtKceu1CtC23b) | [Mit Ohne](https://open.spotify.com/album/6Rqbt3Vm0kiazv4rzh9oYO) | 1:30 | 2023-08-18 |  |
 | [Moon Road](https://open.spotify.com/track/6HIXHWmCdv0ZBLE0vmeh7P) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 5:19 | 2022-03-17 | 2023-01-07 |
 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 | 2022-03-17 | 2022-09-13 |
+| [Moonless](https://open.spotify.com/track/7xB9Bxj3EzBpnfl3V4LYxw) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Eev](https://open.spotify.com/album/0212qezkGyYblGMCm0J9RO) | 5:03 | 2023-08-22 |  |
 | [Morning](https://open.spotify.com/track/0ry0QY44R8IrB7cQapROCS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Sun//Rain](https://open.spotify.com/album/79FXd9aIqWS5jy4kOT2owa) | 4:27 | 2022-05-18 | 2023-07-22 |
 | [Movement VI](https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Movement VI](https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe) | 3:28 | 2023-08-04 | 2023-08-18 |
 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 | 2022-03-17 | 2023-01-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: P!nk
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,961 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,904 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 30 | [Some Things You’ll Never Know](https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Euphoric](https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf) | 2:49 |
 | 31 | [MAMA EH](https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [MAMA EH](https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO) | 2:31 |
 | 32 | [Little Magic](https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Little Magic](https://open.spotify.com/album/3IzP355xSCEj7E9cbD74dO) | 2:58 |
-| 33 | [Autodeadma \- Solo Version](https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [Autodeadma \(Solo Version\)](https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH) | 3:12 |
-| 34 | [Kim Bilir](https://open.spotify.com/track/4nORqOfjk45WIT5NpKmv9o) | [Eda Baba](https://open.spotify.com/artist/0sG2HOcaA6eqnGTeLMJpRm) | [Kim Bilir](https://open.spotify.com/album/5AG2E8yMQcdFxJ0pqPLJCM) | 2:19 |
+| 33 | [Kim Bilir](https://open.spotify.com/track/4nORqOfjk45WIT5NpKmv9o) | [Eda Baba](https://open.spotify.com/artist/0sG2HOcaA6eqnGTeLMJpRm) | [Kim Bilir](https://open.spotify.com/album/5AG2E8yMQcdFxJ0pqPLJCM) | 2:19 |
+| 34 | [Autodeadma \- Solo Version](https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [Autodeadma \(Solo Version\)](https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH) | 3:12 |
 | 35 | [idc](https://open.spotify.com/track/407aJoHyCCUs8trkkrHy4i) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [idc](https://open.spotify.com/album/7ArQiiYfgEeFr0QQJHRWQQ) | 3:23 |
-| 36 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 |
-| 37 | [All Over Again](https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [All Over Again](https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A) | 2:35 |
+| 36 | [All Over Again](https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [All Over Again](https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A) | 2:35 |
+| 37 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 |
 | 38 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 |
 | 39 | [Ping Pong](https://open.spotify.com/track/7HCvmJkrOlqcsf92wPW6XE) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ping Pong](https://open.spotify.com/album/54nMFixoNCgEKQANOd6CjS) | 2:34 |
 | 40 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 56 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 |
 | 57 | [Stranger](https://open.spotify.com/track/6bOqF7Qzk5GeIFVb4HjNsg) | [Fatia](https://open.spotify.com/artist/6cW6LQN8Jd1QtQLGy1TIOh), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Stranger](https://open.spotify.com/album/0Ls0tJstRIzJFgE6MvbPWO) | 3:08 |
 | 58 | [There's Nothing Else](https://open.spotify.com/track/15NKx0UmvfJEkuiyiHckTu) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [There's Nothing Else](https://open.spotify.com/album/3nVq24HfZtk38x8TgHHIVq) | 3:42 |
-| 59 | [za wcześnie](https://open.spotify.com/track/7y5c3BLzKZNDxMuz57fBO0) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [za wcześnie](https://open.spotify.com/album/6k9mMccxYIYw9KNc6aF7Ty) | 2:09 |
+| 59 | [S kým si](https://open.spotify.com/track/00GESHDQTGkir7TfmWy01b) | [Ronie](https://open.spotify.com/artist/1u8P9isPGHQEgA3q3EN9x0) | [S kým si](https://open.spotify.com/album/4O3BcLRXAMX6DhqqUM33Wx) | 3:01 |
 | 60 | [Vas de Salida](https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Vas de Salida](https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN) | 3:02 |
-| 61 | [S kým si](https://open.spotify.com/track/00GESHDQTGkir7TfmWy01b) | [Ronie](https://open.spotify.com/artist/1u8P9isPGHQEgA3q3EN9x0) | [S kým si](https://open.spotify.com/album/4O3BcLRXAMX6DhqqUM33Wx) | 3:01 |
+| 61 | [za wcześnie](https://open.spotify.com/track/7y5c3BLzKZNDxMuz57fBO0) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [za wcześnie](https://open.spotify.com/album/6k9mMccxYIYw9KNc6aF7Ty) | 2:09 |
 | 62 | [Funkari](https://open.spotify.com/track/6iB96FNcb4t3d72Fhc58u2) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Funkari](https://open.spotify.com/album/7e7NCY6IHKBuyureY3Jges) | 2:53 |
 | 63 | [come around](https://open.spotify.com/track/5aS72tjLvmMreeR0khCjcE) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [come around](https://open.spotify.com/album/3JYJhlexDFk0pM5pESRgKc) | 3:02 |
 | 64 | [ДРУГ \- XenjeS Remix](https://open.spotify.com/track/0JX0BeZeWpZfYmMbAhCdC8) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8), [XenjeS](https://open.spotify.com/artist/4XQPMqCwqrnzip5BfzwdEd) | [ДРУГ \(XenjeS Remix\)](https://open.spotify.com/album/3AN1cICMOqUfIwDjCkGhPJ) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 74 | [Pap](https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd), [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB), [Dani Deaux](https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H) | [A Goddess, WBU?](https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ) | 2:23 |
 | 75 | [Portés par les ondes](https://open.spotify.com/track/7oL4Qda0vsg27yd8B09DGK) | [CLELIA](https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt), [Palaster](https://open.spotify.com/artist/7uWI34JyJuk0bePBI8NZxC) | [Portés par les ondes](https://open.spotify.com/album/2jEuEdcKtyi3sd4PBqFLJQ) | 3:12 |
 
-Snapshot ID: `MCwwNGRkNDAzNjkxZWUwYjA2ZTMxMTNmMzM3M2JjYjRhMmM3NmIzYjFm`
+Snapshot ID: `MCw0ZmNlN2Q4YTc0YWEwZTQwYjczMDVlMDZmZTBhZGJmZTYzZDVhOTRi`

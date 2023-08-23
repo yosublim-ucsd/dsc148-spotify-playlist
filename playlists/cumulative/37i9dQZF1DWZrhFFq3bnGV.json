@@ -2226,10 +2226,32 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 236286,
       "name": "Pengungkapan Hatimu Feat. Andien",
       "url": "https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d"
+    },
+    {
+      "album": {
+        "name": "Pengungkapan Hatimu",
+        "url": "https://open.spotify.com/album/6SYCwGMPFlhIgFQuiVoGpe"
+      },
+      "artists": [
+        {
+          "name": "Candra Darusman",
+          "url": "https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt"
+        },
+        {
+          "name": "Andien",
+          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236286,
+      "name": "Pengungkapan Hatimu Feat. Andien",
+      "url": "https://open.spotify.com/track/7jITLJhURuLtOkLxmjDs67"
     },
     {
       "album": {

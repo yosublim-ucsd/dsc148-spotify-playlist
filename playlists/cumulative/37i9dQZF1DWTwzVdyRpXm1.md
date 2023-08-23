@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Karan Aujla
 
-182 songs - 10 hr 20 min
+183 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 | 2021-12-06 |  |
 | [Ghungroo \(From "War"\)](https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Ghungroo \(From "War"\)](https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ) | 5:02 | 2021-12-06 | 2022-12-01 |
 | [Ghungroo \(From "War"\)](https://open.spotify.com/track/1Ef0TmgS1QrVO6tKHrMMmH) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [YRF Top 10 \- Nightout Sounds](https://open.spotify.com/album/6oE20B7dnXUthc6pOorJJC) | 5:02 | 2022-11-30 |  |
+| [Gone Girl](https://open.spotify.com/track/7lJebwVBaywjSis2ahqtnn) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Gone Girl](https://open.spotify.com/album/3Jul3ZMlbJJ5McOngWTbTU) | 2:47 | 2023-08-22 |  |
 | [Guli Mata](https://open.spotify.com/track/3B9CL5t32mM2SDdps2IhYM) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Guli Mata](https://open.spotify.com/album/1EK8G52QTTI7LgDKnrCmB6) | 3:55 | 2023-07-31 | 2023-08-15 |
 | [Habibi](https://open.spotify.com/track/7e6mcPDj3sEZ5TQkZjn6Fy) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Habibi](https://open.spotify.com/album/0moKWKFC54L7cybq4HDtT7) | 3:07 | 2022-09-08 | 2023-01-13 |
 | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dulquer Salmaan](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk) | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS) | 3:14 | 2023-08-10 |  |

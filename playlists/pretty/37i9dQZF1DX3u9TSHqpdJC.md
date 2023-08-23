@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,251 likes - 114 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,325 likes - 114 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 113 | [different but exactly like you](https://open.spotify.com/track/7IbkNoUqOuOSUeSqqxm56f) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [idk if this is it](https://open.spotify.com/album/6pCfsQZiAiWXx9zMctgxyj) | 3:47 |
 | 114 | [Melancholia High Season](https://open.spotify.com/track/5MM3IVs8N9edrTOTs7Ug60) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Melancholia High Season](https://open.spotify.com/album/13aLxThHnCfi8aEyFsNuh2) | 3:03 |
 
-Snapshot ID: `MCwxYmJmY2I3YjYwYTgwNjI4YjY1N2I4ZGNmMjY4MTljOTdhODlhNTBl`
+Snapshot ID: `MCw0MGZkNWM0ZmE5ZDlmYzM0NzQ3MDEwYmJhNThhYmRjMjM4ZDYxNTU5`

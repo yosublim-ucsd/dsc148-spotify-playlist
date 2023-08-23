@@ -4,7 +4,7 @@
 
 > what would we do without ethereal cain
 
-521 songs - 1 day 8 hr 33 min
+522 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,8 @@
 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 | 2021-06-03 | 2022-06-28 |
 | [Pájaros en Verano](https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaros en Verano](https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS) | 3:16 | 2022-08-12 | 2022-09-10 |
 | [QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 1:27 | 2023-07-03 |  |
-| [Quien Tengo Que Ser](https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8) | 4:27 | 2023-04-14 |  |
+| [Quien Tengo Que Ser](https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn) | 4:27 | 2023-04-28 |  |
+| [Quien Tengo Que Ser](https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8) | 4:27 | 2023-04-14 | 2023-08-23 |
 | [Quiver](https://open.spotify.com/track/3SH5v9qTRBqRlLYvIOBJTu) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Three Songs](https://open.spotify.com/album/3eZAhywJmUNwvJuiIvD0Nd) | 3:23 | 2021-06-03 | 2022-04-22 |
 | [Raising Hell](https://open.spotify.com/track/5q9F2CNzrrNQMM7l62S2c6) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 4:10 | 2021-06-03 | 2022-06-02 |
 | [rangerover \- Bonus Track](https://open.spotify.com/track/2IM2fs9rVuDbqtuXpycvam) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Ricky Music](https://open.spotify.com/album/4jJInzmsXFB6WfoWNqKMH5) | 2:15 | 2021-06-03 | 2022-07-29 |

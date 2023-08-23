@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,261 songs - 2 day 19 hr 36 min
+1,262 songs - 2 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,7 +806,7 @@
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-07-26 | 2021-09-08 |
 | [Nefeli](https://open.spotify.com/track/3npi2mfKQJ2BnHuShtCoJs) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Psixi](https://open.spotify.com/album/3HtrMyrM7HfCicKZPUmSeU) | 3:39 | 2022-02-23 | 2022-02-26 |
 | [Nemesis](https://open.spotify.com/track/3HDw1AWrMadqPTTomkDDlD) | [Jitano](https://open.spotify.com/artist/3xmY7evutapMbhcZva0xkn) | [Nemesis](https://open.spotify.com/album/7Ab8TqX7Hbmakve2wHTZ46) | 3:35 | 2022-03-18 | 2022-03-21 |
-| [NEOI STO NOSOKOMEIO](https://open.spotify.com/track/09vYLUMM3T0Ewf1oqQHsr0) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj) | [Epikindinoi Polites](https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn) | 3:44 | 2023-03-17 |  |
+| [NEOI STO NOSOKOMEIO](https://open.spotify.com/track/09vYLUMM3T0Ewf1oqQHsr0) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj) | [Epikindinoi Polites](https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn) | 3:44 | 2023-03-17 | 2023-08-23 |
 | [NEVER SWITCH SIDE / IMITATION](https://open.spotify.com/track/7nnwjqTNg6fgczyWk3Mt2f) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [MADE UNDER PRESSURE](https://open.spotify.com/album/7LDIcqnXyqQtd3l6XUILwz) | 5:10 | 2022-02-23 | 2022-02-28 |
 | [Neymar](https://open.spotify.com/track/2GOnF9OwX7CSCHzinCr3VY) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [Supernova](https://open.spotify.com/album/0YjJuXJlkF0Al7355W6BXU) | 3:31 | 2021-03-27\* | 2021-06-07 |
 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 | 2022-12-03 | 2022-12-20 |
@@ -867,6 +867,7 @@
 | [Padou](https://open.spotify.com/track/4MDYkMJVCRRDGzQXUkkG5U) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [Padou](https://open.spotify.com/album/0PQUJxFFC8ihijNUuHCY0M) | 3:37 | 2022-02-10 | 2022-04-24 |
 | [PADOU](https://open.spotify.com/track/27GSRTfL7fEnLAEr3fB5YX) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Issy Beats](https://open.spotify.com/artist/6symUxu7p0bp1z4kkyFGk6) | [Saskepticism Vol\. 2](https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP) | 3:37 | 2022-04-23 | 2023-04-05 |
 | [Paei Kairos](https://open.spotify.com/track/3urBGmts1ktXT9a8CK5gL4) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale \(Deluxe Edition\)](https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8) | 3:15 | 2021-06-20 | 2021-06-22 |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-22 |  |
 | [PALI](https://open.spotify.com/track/1DhgTpUZUPB2wI6MaESQO8) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [PALI](https://open.spotify.com/album/1BeEkHLgF6zAtIka1HXtX6) | 3:05 | 2021-06-25 | 2021-07-23 |
 | [Pali Girisa](https://open.spotify.com/track/4BId9LnmRAaun8GsS8shTE) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Pali Girisa](https://open.spotify.com/album/0wkF3RceltUplBX9Iwk9kM) | 3:26 | 2022-03-05 | 2022-03-11 |
 | [Palmous](https://open.spotify.com/track/0PUzUn6NlCsVeomsUg9SKx) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 3:10 | 2022-05-27 | 2023-03-19 |

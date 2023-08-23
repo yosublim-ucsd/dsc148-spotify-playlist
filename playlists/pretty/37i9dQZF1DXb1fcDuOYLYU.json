@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the powerful voices of Latin music. Cover: Anitta",
-  "num_followers": 42434,
+  "num_followers": 42514,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjdlNTA4OGMxN2U4ZmE0MDcyMGRjNTU0YzQ0M2NkNGE4YmM5MTZk",
+  "snapshot_id": "MCwzNDRlNWM5ZmZlYjk5NTc1NjM5OTMwOGU5Njc3OWY4YWQwMGY3OWRj",
   "tracks": [
     {
       "added_at": "2023-08-18 20:50:50",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
         "name": "Mu\u00f1ecas",
         "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2023-08-18 20:50:50",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Yo No Soy Esa Mujer",
-      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Yo No Soy Esa Mujer",
+      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
     },
     {
       "added_at": "2023-08-18 20:50:50",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
-        "name": "Ananda",
-        "url": "https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Ni Una Sola Palabra",
-      "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
         "name": "Fing\u00edas",
         "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 225373,
       "name": "Fing\u00edas",
       "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
+        "name": "Ananda",
+        "url": "https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Ni Una Sola Palabra",
+      "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
     },
     {
       "added_at": "2023-08-18 20:50:50",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
-        "name": "N5",
-        "url": "https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 154867,
-      "name": "N5",
-      "url": "https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 189000,
       "name": "La Mujer",
       "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
+        "name": "N5",
+        "url": "https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 154867,
+      "name": "N5",
+      "url": "https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT"
     },
     {
       "added_at": "2023-08-18 20:50:50",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
-        "name": "Crayola",
-        "url": "https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3"
-      },
-      "artists": [
-        {
-          "name": "SHEISA",
-          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
-        }
-      ],
-      "duration_ms": 150461,
-      "name": "Crayola",
-      "url": "https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
         "name": "Milagros",
         "url": "https://open.spotify.com/album/5PjmSrnO02jzX7EzNp1ssp"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 213799,
       "name": "Milagros",
       "url": "https://open.spotify.com/track/0gOw0j8R2X8PUY7FFL0ujC"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
+        "name": "Crayola",
+        "url": "https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3"
+      },
+      "artists": [
+        {
+          "name": "SHEISA",
+          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
+        }
+      ],
+      "duration_ms": 150461,
+      "name": "Crayola",
+      "url": "https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI"
     },
     {
       "added_at": "2023-08-18 20:50:50",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
+        "name": "Eternamente Bella",
+        "url": "https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Eternamente Bella",
+      "url": "https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
         "name": "Lujo Ib\u00e9rico (Edici\u00f3n 15 Aniversario)",
         "url": "https://open.spotify.com/album/0jSaLt79iNOr9ydaF1cMLR"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
-        "name": "Eternamente Bella",
-        "url": "https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9"
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 206946,
-      "name": "Eternamente Bella",
-      "url": "https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk"
+      "duration_ms": 158146,
+      "name": "Porque Soy Abeja Reina",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2023-08-18 20:50:50",
@@ -1487,38 +1503,6 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
-        "name": "Disciplina",
-        "url": "https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 157625,
-      "name": "Disciplina",
-      "url": "https://open.spotify.com/track/1zBnnZCmZJWGVkFGz37UFf"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Porque Soy Abeja Reina",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 144691,
       "name": "Pi\u00f1a",
       "url": "https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
+        "name": "Disciplina",
+        "url": "https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 157625,
+      "name": "Disciplina",
+      "url": "https://open.spotify.com/track/1zBnnZCmZJWGVkFGz37UFf"
     },
     {
       "added_at": "2023-08-18 20:50:50",

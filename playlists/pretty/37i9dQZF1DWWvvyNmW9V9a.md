@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > teen beats is 2 die 4 !!!! cover: Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115,625 likes - 105 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,116,010 likes - 105 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 104 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 |
 | 105 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 |
 
-Snapshot ID: `MCw0Yzk4YjljMGRlYWVmNGY0ZjVmNjIwOTFhOTFhMmMwNjdhMjdjZWU4`
+Snapshot ID: `MCwxOGEyYjkyOTJkOTRkOWIxNTJlNTkwZTY0YTZjMWFiYTEyMTgwYjU1`

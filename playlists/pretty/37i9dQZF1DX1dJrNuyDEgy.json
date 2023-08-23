@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 208751,
+  "num_followers": 208809,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWExYjhkYWM5YWU2OGYxYjU5ZmNmOTVjNGE5MzkxMGRlMTljN2Iz",
+  "snapshot_id": "MCxjMGM0OTZmMzM2NWU2Nzc0YjNjYTEwYWQ1YzM5NGRjZGYwMjI4MmMz",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Polkas Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1O5AuiYeEUi1TWQnthPMET"
-      },
-      "artists": [
-        {
-          "name": "Los Gavilanes Del Norte",
-          "url": "https://open.spotify.com/artist/5kqPT6E1RZlzwDYwYOWFfE"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "La Evangelina",
-      "url": "https://open.spotify.com/track/3WsjRAP92a3CXO3WVXpCHZ"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
         "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 216133,
       "name": "Colas",
       "url": "https://open.spotify.com/track/00ZarAVrDz8P9UxuLbdFTu"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "Polkas Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1O5AuiYeEUi1TWQnthPMET"
+      },
+      "artists": [
+        {
+          "name": "Los Gavilanes Del Norte",
+          "url": "https://open.spotify.com/artist/5kqPT6E1RZlzwDYwYOWFfE"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La Evangelina",
+      "url": "https://open.spotify.com/track/3WsjRAP92a3CXO3WVXpCHZ"
     },
     {
       "added_at": "2022-11-19 17:26:23",

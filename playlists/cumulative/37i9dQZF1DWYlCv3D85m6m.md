@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-196 songs - 10 hr 47 min
+197 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Jelly Jelly](https://open.spotify.com/track/2GJxT761mGTQocouI2oLTe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 3:30 | 2022-03-24 | 2022-07-29 |
 | [Jelly Jelly](https://open.spotify.com/track/7a2QLFestFOeQ03xBBX6E0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 3:30 | 2022-07-19 |  |
 | [Just be yourself](https://open.spotify.com/track/6JQejkZXevMZeRBq8BpBFp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Just be yourself](https://open.spotify.com/album/580je4ls7G3Ul39rZzqXOC) | 3:20 | 2022-03-24 |  |
+| [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-08-22 |  |
 | [Knock Knock](https://open.spotify.com/track/3HWOknOVmd44e1jg4g0Sga) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 2](https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W) | 3:15 | 2022-07-19 |  |
 | [Knock Knock](https://open.spotify.com/track/3DKtiWVAcWFOxIPyBlXxJt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster : Lane 2](https://open.spotify.com/album/5JtYNion0x5enJFBhDgBJq) | 3:15 | 2022-03-24 | 2022-07-29 |
 | [Kura Kura](https://open.spotify.com/track/0SiX8tNiIZskZrPiAh6XxX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Kura Kura](https://open.spotify.com/album/5FMslDParbcWQ7o5FQqCWf) | 3:47 | 2022-03-24 |  |

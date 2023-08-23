@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Slings, Guè
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,407 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,575 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Lakers](https://open.spotify.com/track/2TrImm2A5atWdBUasb0wvt) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Lakers](https://open.spotify.com/album/4IuIiqKlLvLRBgiIZFN3OS) | 2:32 |
 | 50 | [TE QUIERO \(feat\. LJK\)](https://open.spotify.com/track/3iMyhsqTI6i7C55ihN5ejG) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [TE QUIERO \(feat\. LJK\)](https://open.spotify.com/album/6jIMxY0YYVng0T2m6PrGZK) | 2:54 |
 
-Snapshot ID: `MCxiZjc2MmVjMzM1ZTc2ZWFhMDg2M2JjMjJkMjQzOWU2MGZkMTA1YWY3`
+Snapshot ID: `MCwyZmU0ODQxOTI0ZDY4ZGUyMWE1Y2RmZTk1ODY2NzMzMWJlOTM5YTY3`

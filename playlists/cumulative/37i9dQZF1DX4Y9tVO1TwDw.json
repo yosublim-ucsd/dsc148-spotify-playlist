@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/0byu0qc2O02LSaoyjOyMjE"
+      },
+      "artists": [
+        {
+          "name": "Bella Dose",
+          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166972,
+      "name": "143",
+      "url": "https://open.spotify.com/track/6qq9xkVrdPZBBPa7ffm4mZ"
+    },
+    {
+      "album": {
         "name": "3 Boys",
         "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
@@ -222,7 +240,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 156000,
       "name": "Alguien",
       "url": "https://open.spotify.com/track/1LlpsZ4SPhFHOuxUbQDJ7C"
@@ -1646,6 +1664,24 @@
       "duration_ms": 198320,
       "name": "Flexa",
       "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147561,
+      "name": "For Ya",
+      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
     },
     {
       "album": {
@@ -3356,7 +3392,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 160880,
       "name": "Ricota",
       "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
@@ -3428,7 +3464,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 152733,
       "name": "Ruleteando",
       "url": "https://open.spotify.com/track/1dSwYL79WUQH6wG2dzGbCE"
@@ -3936,7 +3972,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 204000,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/07Q87LERyXdyuVN38bdbjg"

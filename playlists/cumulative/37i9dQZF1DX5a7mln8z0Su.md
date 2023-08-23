@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-226 songs - 12 hr 47 min
+227 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Angae](https://open.spotify.com/track/50kyft8lFid4ol27SQwIJQ) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:36 | 2022-05-11 | 2022-07-14 |
 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 | 2022-07-08 | 2023-08-13 |
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2022-05-11 | 2022-07-28 |
+| [babyblue](https://open.spotify.com/track/5ioe7m0R08brQejeajiGJN) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/23iaZgx8uWzU3Ue5Ont2dX) | 3:48 | 2023-07-31 |  |
 | [Bad words](https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Housekeepers](https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1) | [Bad words with KozyPop](https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa) | 3:17 | 2023-02-24 | 2023-04-20 |
 | [Bah! I know you! 흥! 다 보인다](https://open.spotify.com/track/3nIpeIrHGcNKkZMo52wVQA) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 3:12 | 2022-05-11 | 2022-06-03 |
 | [BBI\-YO](https://open.spotify.com/track/0BiompCTb9kPFJBHvnbIBH) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [BBI\-YO](https://open.spotify.com/album/2D44Gpm4wCcwR1YLDSDxtR) | 3:37 | 2022-06-13 | 2022-07-28 |
@@ -192,7 +193,7 @@
 | [The wrong picture \(feat\. TONLIZ\)](https://open.spotify.com/track/01zLsmh6WS5kji3dpq8H8S) | [99PRBLM](https://open.spotify.com/artist/48k4RRZzAu8aBh2oGtcCPn), [TONLIZ](https://open.spotify.com/artist/6SlooEKoamDl63pLAHmTU8) | [The wrong picture \(feat\. TONLIZ\)](https://open.spotify.com/album/3ExFIr5FipA8ekCXrjkv8Q) | 3:34 | 2022-06-20 | 2022-07-16 |
 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 | 2022-08-08 | 2022-09-05 |
 | [Then](https://open.spotify.com/track/4SCDDkFIkiN9wOZgOPdEFK) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:11 | 2022-06-20 | 2022-07-22 |
-| [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 | 2022-07-08 |  |
+| [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 | 2022-07-08 | 2023-08-23 |
 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2022-07-04 |  |
 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 | 2022-05-11 |  |
 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 | 2022-05-11 |  |

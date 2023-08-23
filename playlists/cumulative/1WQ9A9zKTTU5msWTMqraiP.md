@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-237 songs - 16 hr 29 min
+239 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ashen Memories](https://open.spotify.com/track/2yEVodg5kWUSav8lrKQ40m) | [Mire Lore](https://open.spotify.com/artist/0fwNNr5TBw5OVC83CQBySk) | [Underworld](https://open.spotify.com/album/0Fc9JBMxqpmTGFWecWftn6) | 3:13 | 2022-06-19 |  |
 | [Astral](https://open.spotify.com/track/0nFyTy5y2NDqJVEo1VFJOW) | [Lost Conduit](https://open.spotify.com/artist/15x5kz8NZ4uLVBFZekohyH) | [Astral](https://open.spotify.com/album/5JLj3cNmbc3umJClMVOttQ) | 4:11 | 2020-09-19 |  |
 | [Autophagia](https://open.spotify.com/track/5uB202EdBAq3iX9zv1QfLo) | [Xenobiotic](https://open.spotify.com/artist/2u1BlwLG9qYtUH6KU6xiNJ) | [Autophagia](https://open.spotify.com/album/5UcNqAy5k9pO1w0At6AN27) | 3:47 | 2022-08-14 |  |
+| [Avarice](https://open.spotify.com/track/5UHmdE56RGE1yiLNZ8OJkH) | [WATCHLIST](https://open.spotify.com/artist/6xjPWlyX9WcVCVjVl4IC9b) | [Avarice](https://open.spotify.com/album/6puhZhHAFEpwd9BFPv31yY) | 3:35 | 2023-08-22 |  |
 | [B.H.C.F.H.C.](https://open.spotify.com/track/7wLejPhqqbTHjOuf98I5YH) | [SURGEON](https://open.spotify.com/artist/2dFTnRb7enPY78wtu7wvSQ) | [B.H.C.F.H.C.](https://open.spotify.com/album/63Pp7bEkfFdNitCHHxohGV) | 3:51 | 2023-03-04 |  |
 | [BAD BLOOD II](https://open.spotify.com/track/6aXRrRHk2pb3DxnZ4PXTAS) | [Reminitions](https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB), [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [BAD BLOOD II](https://open.spotify.com/album/7rzwS69sMa2e9MmMJ0TV12) | 4:05 | 2022-09-17 |  |
 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Barren and Breathless Macrocosm](https://open.spotify.com/album/5yOlm4DL4IfxA1EJotKHZz) | 4:56 | 2020-05-12 |  |
@@ -186,6 +187,7 @@
 | [Scumprophet](https://open.spotify.com/track/4RmEemZjQl0BVZbWDcPoYu) | [Hollow Prophet](https://open.spotify.com/artist/6ogDfDc9YxecJUrpm9etXZ), [SCUMFUCK](https://open.spotify.com/artist/3rZszyIElLNiSPWPemCEWQ) | [Scumprophet](https://open.spotify.com/album/6EAWBs3FxAEsy1cawufZFS) | 4:44 | 2020-08-23 |  |
 | [Sdrawkcab](https://open.spotify.com/track/5AoKtoyDmtBugGRQ8Lxlkw) | [Today's Last Tragedy](https://open.spotify.com/artist/6nO7TKb4cvVmV6QhcENKuO) | [Sdrawkcab](https://open.spotify.com/album/0izhyyTtX6AT9qA04ukHJ4) | 3:22 | 2020-04-28 |  |
 | [Second Death](https://open.spotify.com/track/7bk1SQnfBBua4afuJCfqEb) | [Black Tongue](https://open.spotify.com/artist/5vTCEZ15eybRnoqUAra4Ys) | [Nadir](https://open.spotify.com/album/35hNgW0p1Uzwrqd6zzunfP) | 4:07 | 2020-12-22 |  |
+| [Serpent of Eden](https://open.spotify.com/track/43LpIP9zB2CQ5pCLTyfsYE) | [Reptilian Civilian](https://open.spotify.com/artist/1hNjyYqrL9ktyo8LZFZX9Q) | [Oblitus Scientia](https://open.spotify.com/album/7D8jTrxCZrz5uD65Slnb85) | 3:33 | 2023-08-22 |  |
 | [Sewage](https://open.spotify.com/track/5umClFZSG28aJrJ0kSB2OC) | [Hollow Prophet](https://open.spotify.com/artist/6ogDfDc9YxecJUrpm9etXZ), [SCUMFUCK](https://open.spotify.com/artist/3rZszyIElLNiSPWPemCEWQ) | [Scumprophet](https://open.spotify.com/album/4tr8ksXlbe5DpWY46fo4Ld) | 3:04 | 2021-05-13 |  |
 | [Shvpeshift](https://open.spotify.com/track/3JDIKULbELYjE2asNZ0lyl) | [Snake Father](https://open.spotify.com/artist/6FZ2uzntEihvFpuxVv7i8r) | [Pathways of Corruption](https://open.spotify.com/album/5FqME6TvHugQNsrTYQvE03) | 5:00 | 2022-07-15 |  |
 | [Slaves Beyond Death](https://open.spotify.com/track/7I5xOFGRzniq9GBj7P58on) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Slaves Beyond Death](https://open.spotify.com/album/33ypEfX41sQk1LUkRpFQEl) | 3:44 | 2018-07-22 |  |

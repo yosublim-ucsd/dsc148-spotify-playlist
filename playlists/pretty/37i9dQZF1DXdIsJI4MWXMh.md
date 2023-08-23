@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,697 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,728 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 24 | [Me Voy a Lanzar](https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g) | [Me Voy a Lanzar](https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt) | 2:57 |
 | 25 | [Lloviendo Estrellas](https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 4:28 |
 | 26 | [Me Vas a Extrañar](https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW) | [Banda Salvaje](https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg) | [Descaderando Viejos por Todo Chile](https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q) | 4:47 |
-| 27 | [El Amante Apasionado](https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS) | [Los Reales del Valle](https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO) | [Éxitos Inolvidables](https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq) | 3:33 |
+| 27 | [El R 15](https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG) | [Los Reales del Valle](https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO) | [Aliado del Tiempo](https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ) | 3:06 |
 | 28 | [La Carta N°3 \- 1986 Digital Remaster](https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Carta N° 3](https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3) | 3:01 |
 | 29 | [Abrazado de un Poste](https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [De Fiesta Con los Braos](https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX) | 4:27 |
 | 30 | [Tu Me Estrujaste](https://open.spotify.com/track/3x5RC95BsHI7AgDtFIMiYf) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:32 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 32 | [Aquí Abajo](https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [El Tridente](https://open.spotify.com/artist/7gRgMzBO1jQxlEcSDS1Sat) | [Aquí Abajo](https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz) | 3:51 |
 | 33 | [Mentirosa](https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY) | [En 3d y a Todo Color](https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80) | 3:43 |
 | 34 | [La Mesa 20](https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Por una Yegua No Se para la Trilla](https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm) | 3:13 |
-| 35 | [El R 15](https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG) | [Los Reales del Valle](https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO) | [Aliado del Tiempo](https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ) | 3:06 |
+| 35 | [El Amante Apasionado](https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS) | [Los Reales del Valle](https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO) | [Éxitos Inolvidables](https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq) | 3:33 |
 | 36 | [Si Te Falta Alguien](https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l) | [Líderes de Chile](https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb) | 3:20 |
 | 37 | [Deja de Llorar](https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2) | [Los Bohemios de Chile](https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS) | 4:12 |
 | 38 | [La Guaracha del Fay Fay](https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt) | [Rene Inostroza](https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O) | [Lo Mejor 25 Éxitos](https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4) | 2:34 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 61 | [El Lirio](https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Ayer, Hoy y Siempre](https://open.spotify.com/album/3AAgbg7fNbvJSVpmN3jTEJ) | 2:48 |
 | 62 | [Sombrero Vaquero](https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 2:49 |
 | 63 | [No Te Creas Tan Importante](https://open.spotify.com/track/1xew4s5581HZOaES46OSTN) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre en Tu Corazón](https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R) | 5:11 |
-| 64 | [Te Lavaste la Cara y el Mono No](https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 2:49 |
-| 65 | [La Diuca](https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Diuca](https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7) | 3:20 |
+| 64 | [La Diuca](https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Diuca](https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7) | 3:20 |
+| 65 | [Te Lavaste la Cara y el Mono No](https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 2:49 |
 | 66 | [Tú](https://open.spotify.com/track/18Y1trnwM37pqHtMtZYFMq) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Inseparables](https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm) | [Tú](https://open.spotify.com/album/6mQtinz30aDoHEkPNalyBS) | 4:23 |
 | 67 | [Sola Con Mi Soledad / Y Voy a Ser Feliz](https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 4:27 |
 | 68 | [Para Ti Solita / Matame A Besos \(En Vivo\)](https://open.spotify.com/track/6VHJsTRTZ5LUT7G6ZX9gku) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Para Ti Solita / Matame A Besos \(En Vivo\)](https://open.spotify.com/album/2CTeAoEp6OOoWpWInsmHGu) | 7:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 99 | [Abrazado a Mi Botella](https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X) | [Los Ruiseñores de la Frontera](https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4) | [Fiesta Ranchera](https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W) | 3:06 |
 | 100 | [La Fotografía](https://open.spotify.com/track/5goxogFSwtXWkbNnpz6iqW) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK) | [Vuelve la Mezcla Perfecta](https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou) | 2:23 |
 
-Snapshot ID: `MCw5MGVjYzAzYjdhOWE2NzlkNzUxY2VlMjNiYjJmYzc5MjEwOWU4NzJk`
+Snapshot ID: `MCwxZWJhYWJhODJkYWJkZjM0ZWMzNTQ4ZTliNzk3ZmZkODdhZmI4OWNm`

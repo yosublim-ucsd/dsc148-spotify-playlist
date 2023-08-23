@@ -1,13 +1,33 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 15169,
+  "num_followers": 15173,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NjAxMSw1YTc5MThhN2U1Zjk1MWM2YWRjYTlmNGE3YzcwNTVlMjBlZTc1Yzli",
+  "snapshot_id": "NjAxMyxmODZkMjNlZTRmM2UxMGJmZGRlZjVjYzA2NTk0NTEwZmU0MWY5OGMz",
   "tracks": [
+    {
+      "added_at": "2023-08-22 17:21:38",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 196006,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
+    },
     {
       "added_at": "2023-08-03 12:17:36",
       "album": {

@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Gloria Groove
 
-506 songs - 1 day 2 hr 16 min
+507 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Campo De Morango](https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Campo De Morango](https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT) | 1:16 | 2023-08-18 |  |
 | [Capitán](https://open.spotify.com/track/3Zesg4c4eKhWJbKyh2mZos) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Capitán](https://open.spotify.com/album/3HzG2GrYVNOFovlnK112G2) | 3:44 | 2023-05-26 | 2023-07-08 |
 | [CARNAVAL](https://open.spotify.com/track/3uQMkBJrOPY07j0SjMuuFg) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CARNAVAL](https://open.spotify.com/album/7tpmiuOnL3w02bEUILTcDo) | 3:01 | 2023-03-03 | 2023-03-11 |
+| [Casi Casi](https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:13 | 2023-08-22 |  |
 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 | 2023-05-05 | 2023-07-15 |
 | [Caçando Tesouro](https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Caçando Tesouro](https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA) | 3:44 | 2020-10-20 | 2022-07-26 |
 | [cedo pra dizer](https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [cedo pra dizer](https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR) | 3:06 | 2023-02-14 | 2023-02-25 |
@@ -97,7 +98,7 @@
 | [Cigana](https://open.spotify.com/track/2GBwxkBpmhs9UoDxsBeP4a) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr) | [Cigana](https://open.spotify.com/album/5zujMhc1kwFLiZYBRlwz6m) | 4:25 | 2020-10-20 | 2023-02-15 |
 | [CINZEIRO](https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [CINZEIRO](https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ) | 2:26 | 2023-08-14 |  |
 | [Clareou](https://open.spotify.com/track/0cttxC2PCCrfSmgbA1GIwB) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Dias Antes do Baile](https://open.spotify.com/album/6LzD72fSjP8rqZe54YcipI) | 3:07 | 2023-02-24 | 2023-04-01 |
-| [Cobras na sua Mesa](https://open.spotify.com/track/5BsVi9L7F1LKQuB5QQacAg) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 2:45 | 2023-07-28 |  |
+| [Cobras na sua Mesa](https://open.spotify.com/track/5BsVi9L7F1LKQuB5QQacAg) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 2:45 | 2023-07-28 | 2023-08-23 |
 | [Coisa Boa](https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 2:19 | 2023-07-21 |  |
 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 | 2023-07-28 |  |
 | [Colapso](https://open.spotify.com/track/3ozcOAOg14Fk20hDaPuWFA) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Colapso](https://open.spotify.com/album/2ZsSM6GsADfVX0WO0grn8k) | 1:58 | 2020-10-20 | 2022-07-29 |

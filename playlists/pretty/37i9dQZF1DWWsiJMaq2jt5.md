@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:1AGR5KsqctsAYgxxINt5xi">nita</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,872 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,879 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Nie puszczaj](https://open.spotify.com/track/792pZc3EWsfBWLAc8NyxXb) | [Natalia Samuel](https://open.spotify.com/artist/7sttpnxwghVxIaD3OsOSQr), [FAXMYEX](https://open.spotify.com/artist/7LcB7oB1yF3sFakSefkr8X) | [Nie puszczaj](https://open.spotify.com/album/7Dc1vWk0oZFO4SmtuEG9V3) | 2:58 |
 | 50 | [Lody](https://open.spotify.com/track/2n0pV18aU4QK4qDR5VmHpR) | [Kamila Janiak](https://open.spotify.com/artist/4nz6ggZEtoUhgxs0YC5g0I) | [Lato](https://open.spotify.com/album/4KhMdRGuntQvZ7uMCSaM5O) | 3:45 |
 
-Snapshot ID: `MCw5ZGVmY2E1M2I0NDNiZmUxYTI5NWNiZDY3YmYxNzYzMDNmY2U1NTk2`
+Snapshot ID: `MCw3NmNiNmVkZjRhZjU4YzYxOTU0N2Q0NTdlMGUzNDc4ZmI1Y2QyMDMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Saaj Bhatt & Nikhita Gandhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,294 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,350 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Teri Ho Na Saki](https://open.spotify.com/track/4wr3QwOxLqh4uBlHKhtTlx) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Shayad Woh Sune](https://open.spotify.com/album/46DB2EWNmSBSZc5YlCdmCm) | 3:51 |
 | 50 | [Ek Tu Hi Hai](https://open.spotify.com/track/4DzAGSyn4r1h45GxKYnhkm) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P) | [Ek Tu Hi Hai](https://open.spotify.com/album/1hFWpx5VbnGbyJAWSJQa6f) | 3:19 |
 
-Snapshot ID: `MCxlNzI0ZGNmY2Y4NGFiNTAxNzhiMzc2YzMwOGM4OTBhYmIwN2M0Mjg5`
+Snapshot ID: `MCwyNGI4OTBjYTlmZGU5OGM4MDQ3MWZkNDJhMDNjY2M0MTRhOGVkM2Qy`

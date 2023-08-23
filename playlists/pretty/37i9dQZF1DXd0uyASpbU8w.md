@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ?si=G\_7IjskJTfiz7Y5I2rNwJw">Young Stunna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,472 likes - 54 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,529 likes - 54 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 39 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 |
 | 40 | [Uneasy \(feat\. Lil Wayne\)](https://open.spotify.com/track/6dotY5Ubbm5cLKBm6KQkZI) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 5:21 |
 | 41 | [This is love](https://open.spotify.com/track/0Qug6ksh6uQskpqicRLquA) | [Mdoovar](https://open.spotify.com/artist/1G4Rnei7H9xEN8jG4CwsgX), [Basiame](https://open.spotify.com/artist/5pdGQ2lyOoldKl9EulKa04) | [This is love](https://open.spotify.com/album/2wEKjCruUmtanoQswmOe7V) | 7:08 |
-| 42 | [Vukani](https://open.spotify.com/track/4b55SECrzVXt6A2wzigecd) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Vukani](https://open.spotify.com/album/3gUlalTbH5jKCpBM8EvvJS) | 4:56 |
+| 42 | [Vukani Bo Dakie](https://open.spotify.com/track/4b55SECrzVXt6A2wzigecd) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Vukani Bo Dakie](https://open.spotify.com/album/3gUlalTbH5jKCpBM8EvvJS) | 4:56 |
 | 43 | [Emuva](https://open.spotify.com/track/0Gmiu85BDcrBK3QDhnzGYD) | [Lady Amar](https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk), [Starr Healer](https://open.spotify.com/artist/64SCkKgvQjmX6p6tpYcefT), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [T\-Man SA](https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1) | [Emuva](https://open.spotify.com/album/2D9ZPPDcid5Vjr0pz3OrPd) | 6:54 |
 | 44 | [Bhuwa's Party](https://open.spotify.com/track/4pOKeo4Omk7ZjueaOr7IIM) | [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Bhuwa G](https://open.spotify.com/artist/6d1P6DJxCWIjnR6GI9qhdI), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [Solan Lo](https://open.spotify.com/artist/1wSf79jCXrpZNR7ke1JHmq), [DJ Pepe](https://open.spotify.com/artist/4I54IHr2hrvOAQjUF0smrI), [Kwah](https://open.spotify.com/artist/1uJMiYEOwN2sqk8Nyd11SQ) | [Bhuwa's Party](https://open.spotify.com/album/2TjEOCa9yiWD1Ud3w14NgN) | 5:38 |
 | 45 | [Retro Love](https://open.spotify.com/track/4UvYiq1HSksWgAjTvl7eiA) | [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Retro Love](https://open.spotify.com/album/07etk4i2uQzIyk6YI9Zsei) | 2:53 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 53 | [Chisimo](https://open.spotify.com/track/0h38GIm2z3HXdsjzAmordP) | [Mokoomba](https://open.spotify.com/artist/4JWMsMMZQJX6ZqNMdBiN9I), [Morena Leraba](https://open.spotify.com/artist/2aUErDeR4aoZDvy9ZYMhzO) | [Chisimo](https://open.spotify.com/album/0SAgUibXpViZ8H0A91sv1f) | 4:33 |
 | 54 | [Fear](https://open.spotify.com/track/5lntfXi9Feo5T1xR6mTnvR) | [Lastee](https://open.spotify.com/artist/02fHk4FBRa87bllGfMAf15) | [Fear](https://open.spotify.com/album/4wLHbwdD3Kc5nt73qOFixR) | 2:24 |
 
-Snapshot ID: `MCxjYzc5OTgzMTI5YzZjNDhiOWVlNzIwZGJiMjhmYmJkNTkzMTJjMjI4`
+Snapshot ID: `MCw0NDNjYTEzYjlmYjBiNmVhYTU2MTE1Mzc0YjY1ZGJjMTA5NTM3NmM3`

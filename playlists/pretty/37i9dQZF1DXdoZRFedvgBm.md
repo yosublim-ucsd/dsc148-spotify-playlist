@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 
 > This Is PSY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,338 likes - 106 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,360 likes - 106 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 | 105 | [Gangnam Style \(강남스타일\) \- Diplo Remix \(Instrumental\)](https://open.spotify.com/track/627xBFaO4u6mgNkYakPYfG) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:27 |
 | 106 | [Gangnam Style \(강남스타일\) \- Instrumental](https://open.spotify.com/track/7cuBwxBkmy3njuq50Df9x8) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:40 |
 
-Snapshot ID: `MCwxNzliZTYzNTdhN2MzMTZiNGI5MWFhM2I5NWQxYjU1NjUyODQ5YTQw`
+Snapshot ID: `MCxlYjc1YTRkMTU2NDEyMDlmYzdjNjc3ZTc1ZjI0MmQzZjA4ZDYzNmE2`

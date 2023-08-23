@@ -1,12 +1,12 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 188826,
+  "num_followers": 188848,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjQ0YTU1ZDIwOGJmNWM0MTJjNmNkM2E5Y2JlN2YxODllM2FkZTI5",
+  "snapshot_id": "MCxkNmJiODYwYjEzZThkYjY4ZGNjMTg1ZjllMTBjYWMwMDE2NWViY2Ex",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "No Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/4ahnVMpkBpvPTFfw5O6P9p"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 254111,
       "name": "Clean The House",
       "url": "https://open.spotify.com/track/1lFau9QnLnI8Db1K2uxeQ8"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "No Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi"
     },
     {
       "added_at": "2023-07-28 03:01:00",

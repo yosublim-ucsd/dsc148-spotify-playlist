@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 457727,
+  "num_followers": 457858,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzM1NDg1MzhkNmFjZWY1ZGI2ZWM0MDIxNzJmMTZiYzdhMzcwNmZl",
+  "snapshot_id": "MCxiZmZiMGY5MjBmMTY0Yjg3YWM5YTc1YmNjZmVmODMxYjk4ZDUxNTM0",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -239,22 +239,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -275,18 +271,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J"
+      },
+      "artists": [
+        {
+          "name": "Rosenfeld",
+          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/656neoAxvwrA9812K99kTO"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "IT'S NOT A PHASE",
         "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 192013,
       "name": "Dreamstate",
       "url": "https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J"
-      },
-      "artists": [
-        {
-          "name": "Rosenfeld",
-          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/656neoAxvwrA9812K99kTO"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Shape & Form",
-        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "Devil",
-      "url": "https://open.spotify.com/track/1xKqbhFvRsZsSJa68zwN8a"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 214333,
       "name": "NO ESCAPE",
       "url": "https://open.spotify.com/track/5Xg5bGbWHToIMSsqWxOsej"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Shape & Form",
+        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/1xKqbhFvRsZsSJa68zwN8a"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "IDFLU",
         "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 172235,
       "name": "IDFLU",
       "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Our House (The Mess We Made)",
+        "url": "https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 220528,
+      "name": "Our House (The Mess We Made)",
+      "url": "https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "COMPLICATED (feat. aldn & 8485)",
         "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 180923,
       "name": "COMPLICATED (feat. aldn & 8485)",
       "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Our House (The Mess We Made)",
-        "url": "https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 220528,
-      "name": "Our House (The Mess We Made)",
-      "url": "https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Death Of A Fantasy",
-        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
-      },
-      "artists": [
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 133186,
-      "name": "THERAPY!",
-      "url": "https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "god damn!",
         "url": "https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 116307,
       "name": "god damn!",
       "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Death Of A Fantasy",
+        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "duration_ms": 133186,
+      "name": "THERAPY!",
+      "url": "https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "ANGRY ANGRY",
-        "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        },
-        {
-          "name": "Jaguar Jonze",
-          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
-        }
-      ],
-      "duration_ms": 136866,
-      "name": "ANGRY ANGRY",
-      "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "MERIDIAN",
         "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
       },
@@ -1807,18 +1787,38 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR"
+        "name": "ANGRY ANGRY",
+        "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
       },
       "artists": [
         {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "Jaguar Jonze",
+          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
         }
       ],
-      "duration_ms": 141226,
-      "name": "Lunatic",
-      "url": "https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2"
+      "duration_ms": 136866,
+      "name": "ANGRY ANGRY",
+      "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     }
   ],
   "unique_name": "Alternative Beats",

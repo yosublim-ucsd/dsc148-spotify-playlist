@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,455 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,521 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 58 | [Moonlight](https://open.spotify.com/track/0fXcMDftUSzCAnLXapMScF) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Fried Bananas](https://open.spotify.com/album/2xb949TecaOYkSUBKfgSIb) | 3:52 |
 | 59 | [For You](https://open.spotify.com/track/5TdSEnY3HibWrV2BJ8yeOZ) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [nebula.](https://open.spotify.com/album/26Msz7k0xYs5539mNqDWjD) | 4:07 |
 | 60 | [The Mess](https://open.spotify.com/track/4PZLI3AGhdUE0CX7KUnjNi) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [The Mess](https://open.spotify.com/album/1cjJ60QJJAQCDkj3u06kxU) | 3:35 |
-| 61 | [BREATH](https://open.spotify.com/track/0goFsDJnWHwEoVXESYH3cB) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [ALGORHYTHM](https://open.spotify.com/album/15AhB3pd27Jn2XxMCKDgI8) | 3:30 |
+| 61 | [BREATH](https://open.spotify.com/track/7nP1S5bBL1WVSegAul8hHD) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [ALGORHYTHM](https://open.spotify.com/album/14K5hifezIvbkbKuQCkY1s) | 3:30 |
 | 62 | [Freedom \(Johnny's Song\)](https://open.spotify.com/track/6t5GWZG3EtEwjGdHSnZPJq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Freedom \(Johnny's Song\)](https://open.spotify.com/album/3tokyVoifEsiREY3QVVsIw) | 4:12 |
 | 63 | [Brand New Nowhere](https://open.spotify.com/track/0pznRgpmNQXRZYCG6uYhNP) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [In Real Life](https://open.spotify.com/album/5ryM91OiM0t4owAR1MHIoK) | 3:17 |
 | 64 | [Give Love A Try](https://open.spotify.com/track/1anovmHXv8sSwoRi28M4ab) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Break The Silence](https://open.spotify.com/album/69j2M8vVbP5fPi645eQWvz) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Hard Days Love](https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Hard Days Love](https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X) | 3:43 |
 | 100 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 |
 
-Snapshot ID: `MCwyNjA4YzNiODZhODBkMGJkZGJkZGQyNDY4M2NjNmM3NzMyMWZjOWQx`
+Snapshot ID: `MCwzZDUyZjMyZjM4YjZiMzNkNTYzMDY1ODBjNTc3MDMxMDMzYzJkZDBk`

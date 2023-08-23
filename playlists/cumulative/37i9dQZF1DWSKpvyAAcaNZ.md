@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-287 songs - 18 hr 4 min
+288 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [I Know](https://open.spotify.com/track/0HeNDXMTdBDS9eWQkhENJ2) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [I Know](https://open.spotify.com/album/0JvDP9cB6D2fqbTZGSPHUp) | 3:38 | 2021-12-17 | 2022-04-29 |
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/6w23sxZepVSmRiTLDsP5ou) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [Carry Me Home](https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ) | 3:42 | 2022-07-22 |  |
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK) | 3:42 | 2022-04-29 | 2022-07-29 |
-| [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt) | 4:17 | 2021-12-17 |  |
+| [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt) | 4:17 | 2021-12-17 | 2023-08-23 |
+| [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3vV8nrwMDQQl5KIEQeEq9O) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/3Aa82CRCPN2MqLm0mMb41T) | 4:17 | 2023-07-28 |  |
 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 | 2023-06-16 |  |
 | [I've Got To Get To You](https://open.spotify.com/track/2PpNNVB9URTlrT2UXeQGRF) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh), [Joe Menza](https://open.spotify.com/artist/1gPgK6skp54CgYq8YcLr82), [Mike Menza](https://open.spotify.com/artist/1XQaucePJJOR3zirPvgFRw) | [I've Got To Get To You](https://open.spotify.com/album/25o7Q8884cy010DPlzRtMw) | 5:07 | 2021-12-17 |  |
 | [If I Was The Devil](https://open.spotify.com/track/0iG8xWaMt2FdcNOkOZiz7H) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 2:34 | 2021-12-17 |  |

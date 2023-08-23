@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 240626,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
@@ -492,6 +492,24 @@
       "duration_ms": 241052,
       "name": "Down By The River",
       "url": "https://open.spotify.com/track/7HNpXPaTcX5CoNBjTAEWBr"
+    },
+    {
+      "album": {
+        "name": "Emergency EP",
+        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169617,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
     },
     {
       "album": {

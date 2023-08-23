@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 115931,
+  "num_followers": 116065,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM3OTc3NzQwM2M5YmRjNTI0MzA5ODYxNzUwOGI0YjUyZjc2Nzkx",
+  "snapshot_id": "MCwwMWNiMzViYzU5Yjc1ZGRlNDFkZjgwMDM0NmI5ZTA3NWE1MDg0NWZl",
   "tracks": [
     {
       "added_at": "2023-07-18 19:55:42",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 274213,
+      "name": "Nakamarra",
+      "url": "https://open.spotify.com/track/1I0O4q0Pq5x6n9d24Es5uN"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 274213,
-      "name": "Nakamarra",
-      "url": "https://open.spotify.com/track/1I0O4q0Pq5x6n9d24Es5uN"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "Remix",
         "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 195604,
       "name": "Dearest Alfred (MyJoy)",
       "url": "https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Studio One Presents Jennifer Lara",
-        "url": "https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lara",
-          "url": "https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4"
-        }
-      ],
-      "duration_ms": 318493,
-      "name": "I Am in Love",
-      "url": "https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "The Miraculous Hump Returns From The Moon",
         "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 314653,
       "name": "Fazon",
       "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Studio One Presents Jennifer Lara",
+        "url": "https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lara",
+          "url": "https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4"
+        }
+      ],
+      "duration_ms": 318493,
+      "name": "I Am in Love",
+      "url": "https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK"
     },
     {
       "added_at": "2023-07-18 19:55:42",

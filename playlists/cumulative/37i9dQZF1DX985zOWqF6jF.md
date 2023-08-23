@@ -4,7 +4,7 @@
 
 > Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo'
 
-114 songs - 6 hr 50 min
+115 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Esclava](https://open.spotify.com/track/372Tfph34nWf135qUQ64eR) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [Esclava](https://open.spotify.com/album/6lDHazERHvskaTbec2hnTv) | 4:41 | 2023-07-28 | 2023-08-18 |
 | [Esclava](https://open.spotify.com/track/3zhk1SwBQ2VseHfywkIBPX) | [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y), [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi) | [A Young Past](https://open.spotify.com/album/0KVXsAjVpVFY8ZvafXpd2X) | 4:41 | 2023-06-23 | 2023-07-14 |
 | [Esclava](https://open.spotify.com/track/6aEB2VcMRyT33R6l2wFHJf) | [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi), [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y) | [Real For Life](https://open.spotify.com/album/5Y3WjlGpIvICp5QvSi1udA) | 4:41 | 2023-07-21 | 2023-08-09 |
+| [Esclava \(Remix\)](https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8) | [bryant mayers](https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK) | [Esclava \(Remix\)](https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr) | 4:44 | 2023-07-28 |  |
 | [Extasy](https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Para Mi Ex](https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u) | 3:07 | 2023-06-23 |  |
 | [Fuego Forestal](https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Fuego Forestal](https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q) | 3:18 | 2023-06-23 |  |
 | [Hace Mucho Tiempo](https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Maldad](https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe) | 2:51 | 2023-06-23 |  |
@@ -106,7 +107,7 @@
 | [soso](https://open.spotify.com/track/4xy8o1WzpHwEEg0IOiU7rJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 3:22 | 2023-06-23 |  |
 | [Síntomas](https://open.spotify.com/track/4VdiCHT8lIxfErBgROWxF5) | [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Síntomas](https://open.spotify.com/album/5qmKYsWyOQDKTH2ry0zpI1) | 3:00 | 2023-06-23 | 2023-07-08 |
 | [T'as peur](https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:35 | 2023-06-23 |  |
-| [Tan Rico](https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Clandestino & Yailemm](https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi) | [Tan Rico](https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0) | 4:06 | 2023-06-23 |  |
+| [Tan Rico](https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Clandestino & Yailemm](https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi) | [Tan Rico](https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0) | 4:06 | 2023-06-23 | 2023-08-23 |
 | [TEIDE](https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [CÓDIGOS](https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe) | 3:02 | 2023-07-14 |  |
 | [Toda Remix \- Remix](https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Toda Remix](https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618) | 6:07 | 2023-06-23 |  |
 | [Tus Sabanas](https://open.spotify.com/track/2ZkB3qD5O6DS7dTnoqxlYp) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Los Extraterrestres \- Otra Dimension](https://open.spotify.com/album/6cM4MzyjtE9hJqOEFOjlTL) | 3:14 | 2023-06-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Syria.",
-  "num_followers": 44980,
+  "num_followers": 45005,
   "original_name": "Syria Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTgzNDhlOGMwYjU4NWI1ZmZkNTZhMzc4NTJhZWE1MWQ1NzM0Mzli",
+  "snapshot_id": "MCwyMmExY2IwNjUyZWM5ZWNjNTIyZjVmNjMxZGRmZWRkYmM0ZmQzMDdk",
   "tracks": [
     {
       "added_at": "2023-04-01 01:27:59",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-04-01 01:27:59",
       "album": {
-        "name": "Shi Tridin",
-        "url": "https://open.spotify.com/album/6gNgy5YfIF4xqxAigQY8KS"
+        "name": "Malak Halle",
+        "url": "https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz"
       },
       "artists": [
         {
-          "name": "Omar Souleyman",
-          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
         }
       ],
-      "duration_ms": 408000,
-      "name": "Shi Tridin",
-      "url": "https://open.spotify.com/track/1ZNPX01Q2RMjwoAZymgVpx"
+      "duration_ms": 262601,
+      "name": "Malak Halle",
+      "url": "https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q"
     }
   ],
   "unique_name": "Syria Sounds",

@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 2342,
+  "num_followers": 2356,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDEyN2I1MDc3YzdiOTlmYTNmN2Y1ODEwYjgzODgzYTFiMTkzNTgx",
+  "snapshot_id": "MCwxODNhZWYxNjY2MTczNjMwNzEyNjI5MzA2NjE5YjZjZWFjMDk2ZDVj",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-08-18 00:01:00",
       "album": {
+        "name": "Hapa Nilipo",
+        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
+      },
+      "artists": [
+        {
+          "name": "UPENDO NKONE",
+          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
+        }
+      ],
+      "duration_ms": 261355,
+      "name": "Upendo Wa Yesu",
+      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
+    },
+    {
+      "added_at": "2023-08-18 00:01:00",
+      "album": {
         "name": "Tumeshinda",
         "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 365417,
       "name": "Tumeshinda",
       "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
-    },
-    {
-      "added_at": "2023-08-18 00:01:00",
-      "album": {
-        "name": "Hapa Nilipo",
-        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
-      },
-      "artists": [
-        {
-          "name": "UPENDO NKONE",
-          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
-        }
-      ],
-      "duration_ms": 261355,
-      "name": "Upendo Wa Yesu",
-      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
     },
     {
       "added_at": "2023-08-18 00:01:00",

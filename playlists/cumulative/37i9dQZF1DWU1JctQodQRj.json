@@ -115,7 +115,7 @@
     },
     {
       "album": {
-        "name": "Bach - Flute Sonatas",
+        "name": "Bach: Sonates pour fl\u00fbte",
         "url": "https://open.spotify.com/album/3wY8vGlPMdk302PpKNsAi5"
       },
       "artists": [
@@ -137,7 +137,7 @@
     },
     {
       "album": {
-        "name": "Bach - Flute Sonatas",
+        "name": "Bach: Sonates pour fl\u00fbte",
         "url": "https://open.spotify.com/album/3wY8vGlPMdk302PpKNsAi5"
       },
       "artists": [
@@ -146,8 +146,12 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Marc Hantai/Pierre Hanta\u00ef",
-          "url": "https://open.spotify.com/artist/2VnId9RXH6HAcspXETP2jx"
+          "name": "Marc Hanta\u00ef",
+          "url": "https://open.spotify.com/artist/0tvA8Z5x8OxkwhVbx56EDm"
+        },
+        {
+          "name": "Pierre Hanta\u00ef",
+          "url": "https://open.spotify.com/artist/7AxEMNrf3o9LxbSDoZzTtO"
         }
       ],
       "date_added": "2021-11-10",

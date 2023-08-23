@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada",
-  "num_followers": 1731340,
+  "num_followers": 1732113,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjkzZTQ1NGZlOTNmMDFlZTExZDQ4OTM3N2VkYTlkOTFmMDZhOTM1",
+  "snapshot_id": "MCw4ODNmZmZlYWU0Zjk0Y2RhYzI1NDRlM2U0M2JhMDA3N2U4MTU3NzMw",
   "tracks": [
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Volvere A Amar",
-      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "Cuando Quieras Quiero",
         "url": "https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 183500,
       "name": "Hola, \u00bfQue Tal?",
       "url": "https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Volvere A Amar",
+      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "La M\u00e1s Deseada",
+      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 197133,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "La M\u00e1s Deseada",
-      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Homenaje A Ramon Ayala",
-        "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
+        "name": "Senzu-Rah",
+        "url": "https://open.spotify.com/album/5j4Jj0DflPXIWwrJa3W5hS"
       },
       "artists": [
         {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Un Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
+      "duration_ms": 163533,
+      "name": "Soltero Disponible",
+      "url": "https://open.spotify.com/track/4jgKVF6yT6dZJrHQtw5GZe"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Senzu-Rah",
-        "url": "https://open.spotify.com/album/5j4Jj0DflPXIWwrJa3W5hS"
+        "name": "Homenaje A Ramon Ayala",
+        "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
         }
       ],
-      "duration_ms": 163533,
-      "name": "Soltero Disponible",
-      "url": "https://open.spotify.com/track/4jgKVF6yT6dZJrHQtw5GZe"
+      "duration_ms": 215400,
+      "name": "Un Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "La Balanza",
-        "url": "https://open.spotify.com/album/27zodohsIeaDJaZ7lpSHab"
-      },
-      "artists": [
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Me Interesas",
-      "url": "https://open.spotify.com/track/5LsTMta9l87n8Z4zpBV2xL"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 226360,
       "name": "Reencuentro",
       "url": "https://open.spotify.com/track/3jq17jcifw4s9ORbLxr4iJ"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "La Balanza",
+        "url": "https://open.spotify.com/album/27zodohsIeaDJaZ7lpSHab"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Me Interesas",
+      "url": "https://open.spotify.com/track/5LsTMta9l87n8Z4zpBV2xL"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Un loco solitario",
-      "url": "https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "El Katch (Version USA)",
         "url": "https://open.spotify.com/album/7rbt7zaJgkOlVe0KZbH5tw"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 168386,
       "name": "\u00bfQui\u00e9n Te Dio Permiso?",
       "url": "https://open.spotify.com/track/7Godb4gbezgh5X7KYfajQW"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Un loco solitario",
+      "url": "https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Ignoraste Mis L\u00e1grimas",
-      "url": "https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "No Es Culpa Tuya",
         "url": "https://open.spotify.com/album/4oyXLvtE4i7IdWZ48mtFvE"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 240546,
       "name": "\u00bfY Qu\u00e9 Ha Sido De Ti?",
       "url": "https://open.spotify.com/track/59tKEqqo6UD8LlMZ9W1rvt"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Ignoraste Mis L\u00e1grimas",
+      "url": "https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
+        "name": "Hombre De Rancho",
+        "url": "https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Se Me Sigue Notando",
+      "url": "https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/3yf7ChHaHsfVTnq7b9c0Xt"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 201533,
       "name": "Adi\u00f3s Mi Amor",
       "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
-        "name": "CicatrIIIces",
-        "url": "https://open.spotify.com/album/1VYDeQWyxknywWWMTLzpUW"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 166174,
-      "name": "CicatrIIIces",
-      "url": "https://open.spotify.com/track/4S5TXZJiBYatTkl17gwHq5"
     }
   ],
   "unique_name": "Cl\u00e1sicas de Banda",

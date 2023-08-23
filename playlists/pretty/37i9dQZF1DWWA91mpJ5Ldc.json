@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 116886,
+  "num_followers": 116907,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTRhYWUzYjBkMDY0ZjUyMzVhOWRiOGRmY2RhYzkzOTI0OTRlNjli",
+  "snapshot_id": "MCw0ZDYxMWZhNTk0YjQ3MWYxNzc0ZjM2MmJiMzRmNjhkNmNjYmY4MWYx",
   "tracks": [
     {
       "added_at": "2023-07-07 06:04:16",
@@ -295,6 +295,26 @@
     {
       "added_at": "2023-07-07 06:04:16",
       "album": {
+        "name": "Servi\u00e7o",
+        "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
+      },
+      "artists": [
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "C\u00e9u da Boca",
+      "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
+    },
+    {
+      "added_at": "2023-07-07 06:04:16",
+      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 256613,
       "name": "Pra Melhorar",
       "url": "https://open.spotify.com/track/7oPB5rRWan5SeijxL94Qmz"
-    },
-    {
-      "added_at": "2023-07-07 06:04:16",
-      "album": {
-        "name": "Servi\u00e7o",
-        "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
-      },
-      "artists": [
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "C\u00e9u da Boca",
-      "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
     },
     {
       "added_at": "2023-07-07 06:04:16",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-07-07 06:04:16",
       "album": {
+        "name": "Nonsense, Vol. 1",
+        "url": "https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 217110,
+      "name": "Onde Estar\u00e1",
+      "url": "https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg"
+    },
+    {
+      "added_at": "2023-07-07 06:04:16",
+      "album": {
         "name": "Besteira",
         "url": "https://open.spotify.com/album/15TrSIrWfvxqi2VGcnauKC"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 213893,
       "name": "Besteira",
       "url": "https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd"
-    },
-    {
-      "added_at": "2023-07-07 06:04:16",
-      "album": {
-        "name": "Nonsense, Vol. 1",
-        "url": "https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 217110,
-      "name": "Onde Estar\u00e1",
-      "url": "https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg"
     },
     {
       "added_at": "2023-07-07 06:04:16",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-07-07 06:04:16",
       "album": {
-        "name": "Alumi\u00f4",
-        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
-      },
-      "artists": [
-        {
-          "name": "Luiza Lian",
-          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
-        },
-        {
-          "name": "Bixiga 70",
-          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
-        }
-      ],
-      "duration_ms": 204116,
-      "name": "Alumi\u00f4",
-      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
-    },
-    {
-      "added_at": "2023-07-07 06:04:16",
-      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
+    },
+    {
+      "added_at": "2023-07-07 06:04:16",
+      "album": {
+        "name": "Alumi\u00f4",
+        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
+      },
+      "artists": [
+        {
+          "name": "Luiza Lian",
+          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
+        },
+        {
+          "name": "Bixiga 70",
+          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
+        }
+      ],
+      "duration_ms": 204116,
+      "name": "Alumi\u00f4",
+      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
     },
     {
       "added_at": "2023-07-07 06:04:16",

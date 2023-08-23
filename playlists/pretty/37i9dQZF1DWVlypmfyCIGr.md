@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: レトロリロン
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,904 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,906 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Lucky](https://open.spotify.com/track/4MLVdvJ5rUtCAfdPc0HlbK) | [TsuruSwing](https://open.spotify.com/artist/3De2RXEkhi0fnGg9M4P51O), [Katie Ford](https://open.spotify.com/artist/5FRFpmI7fFazXHgQqVellL) | [Lucky](https://open.spotify.com/album/5oCyaDbX9JpIWuQ9oqm9q5) | 2:10 |
 | 80 | [Blue Perfume](https://open.spotify.com/track/3ltfwm0dq9mvT43nioXzPF) | [Swimming Sheep](https://open.spotify.com/artist/4lXsVyFTJxtA8LxnKzmDxz) | [Science](https://open.spotify.com/album/63eoF56xgmuwkclVJBh4ZG) | 1:57 |
 
-Snapshot ID: `MCxkMmY3MWIxYzBmZTk0MDRiOGJhNjQ2Mzk4MjczYmRiOTc1ZTBlMDVi`
+Snapshot ID: `MCw1ZTRmYmYzYzBkYzU0YmJhMzA1NjE4MGJjOTQ0MjI1MmVmMGI0ZDQy`

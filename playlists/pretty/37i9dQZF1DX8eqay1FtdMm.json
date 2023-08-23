@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bNAUL(\ub098\uc5bc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 324183,
+  "num_followers": 324191,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjdlN2UyODIzOGY5N2I3NTA3YzU2N2Q4M2U1MGJiNTkxZmJjNTBi",
+  "snapshot_id": "MCxjZDY1MmZlZWI1NmM4MzM5ODQ4ZDUwZjY1NzI1ODljNDgwYzlmNmU4",
   "tracks": [
     {
       "added_at": "2023-08-16 01:14:33",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "Me After You",
-        "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 280358,
-      "name": "Me After You",
-      "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
+        "name": "Me After You",
+        "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 280358,
+      "name": "Me After You",
+      "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
-      },
-      "artists": [
-        {
-          "name": "PARK MIN HYE",
-          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "After this night",
-      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
         "name": "Be ordinary",
         "url": "https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 258950,
       "name": "A Daily Song",
       "url": "https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "in the bed",
-        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 265058,
-      "name": "in the bed",
-      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
         "name": "Way - SM STATION",
         "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
+        "name": "in the bed",
+        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 265058,
+      "name": "in the bed",
+      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "Drunken confession at night",
-        "url": "https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Hyun",
-          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
-        }
-      ],
-      "duration_ms": 246491,
-      "name": "Drunken confession at night (Prod. 2soo)",
-      "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
         "name": "Can Love Be Fair",
         "url": "https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
+        "name": "Drunken confession at night",
+        "url": "https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+        }
+      ],
+      "duration_ms": 246491,
+      "name": "Drunken confession at night (Prod. 2soo)",
+      "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
     },
     {
       "added_at": "2023-08-16 01:14:33",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-08-16 01:14:33",
       "album": {
-        "name": "YOUNHA Studio Live Album 'MINDSET'",
-        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 331600,
-      "name": "Kaze",
-      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
-    },
-    {
-      "added_at": "2023-08-16 01:14:33",
-      "album": {
         "name": "The Fairy Tale",
         "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 227054,
       "name": "Tale",
       "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+    },
+    {
+      "added_at": "2023-08-16 01:14:33",
+      "album": {
+        "name": "YOUNHA Studio Live Album 'MINDSET'",
+        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 331600,
+      "name": "Kaze",
+      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
     },
     {
       "added_at": "2023-08-16 01:14:33",

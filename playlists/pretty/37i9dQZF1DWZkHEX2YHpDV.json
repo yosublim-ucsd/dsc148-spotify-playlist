@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Koyo",
-  "num_followers": 454069,
+  "num_followers": 454149,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjI1Yjk5ODQ2Y2IwNzkzMmE0NjY0OWY1MTU0MDU1ZmMxNGRjOTA4",
+  "snapshot_id": "MCxjNmZkYWUxYmU4ZWQyMDVjYjM3OWIxMjE5YTYxYzE5N2U3YTFkYmNi",
   "tracks": [
     {
       "added_at": "2023-07-28 14:20:51",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 223238,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
+    },
+    {
+      "added_at": "2023-07-28 14:20:51",
+      "album": {
         "name": "5,6,7,8 (feat. girlfriends)",
         "url": "https://open.spotify.com/album/0SPIpADk9hv62agR2J5iy5"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 136508,
       "name": "5,6,7,8 (feat. girlfriends)",
       "url": "https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy"
-    },
-    {
-      "added_at": "2023-07-28 14:20:51",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc"
-      },
-      "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        }
-      ],
-      "duration_ms": 223238,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
     },
     {
       "added_at": "2023-07-28 14:20:51",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
-        "name": "Sullenboy",
-        "url": "https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6"
+        "name": "Cigarettes",
+        "url": "https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H"
       },
       "artists": [
         {
-          "name": "Fiddlehead",
-          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+          "name": "Rozei",
+          "url": "https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 199561,
-      "name": "Sullenboy",
-      "url": "https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz"
+      "duration_ms": 156673,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA"
     }
   ],
   "unique_name": "The Scene",

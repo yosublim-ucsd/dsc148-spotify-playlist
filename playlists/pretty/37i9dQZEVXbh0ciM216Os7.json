@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMDU1MjAsMDAwMDAwMDAyNmRjODk4N2RlOWI5Y2JmZWQ5Y2Q5MWZjNDNmYWEzYw==",
+  "snapshot_id": "MjgyMDU1MjAsMDAwMDAwMDA2YTY4ODQ2ODRmY2ViNjZjNWIyM2NkZGZhN2Y3MDllMg==",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -43,26 +43,6 @@
       "duration_ms": 208600,
       "name": "METALI!! - feat. Tom Morello",
       "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -127,6 +107,26 @@
       "duration_ms": 205497,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -275,22 +275,6 @@
       "duration_ms": 269613,
       "name": "Say You Love Me - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
       "url": "https://open.spotify.com/track/2qtq98xBZgRhlxhoXvtK8w"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Dumptruck",
-        "url": "https://open.spotify.com/album/6nfuH5rTDoPyBFxZF7iDDK"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 172213,
-      "name": "Dumptruck",
-      "url": "https://open.spotify.com/track/0IHcYxdpO53JRMim5ftAsX"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -463,6 +447,22 @@
       "duration_ms": 158171,
       "name": "8 to infinity",
       "url": "https://open.spotify.com/track/4RqdIBIVMQk5konaaFJABh"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Live at RBC Echo Beach",
+        "url": "https://open.spotify.com/album/5r70krK838xAiHP8t0algB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 198665,
+      "name": "White Gloves - Live at RBC Echo Beach",
+      "url": "https://open.spotify.com/track/1A0KLIF0uXnUJp5WE1OelO"
     },
     {
       "added_at": "2023-08-18 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 39814,
+  "num_followers": 39845,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWM2M2FkOTExM2QwNjE0ZGE0OTdhZmMxOWU4ZDViNjZjODE2Y2Ix",
+  "snapshot_id": "MCw4NmRmZjNhMjA3NTUwYWM4NTk5ZjNlOWI5NTUzNDFiNTE4YjQyZmJk",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -563,18 +563,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/62SS1B6pqPXxVHWvq9f7iI"
+        "name": "Profondo Rosa",
+        "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
       },
       "artists": [
         {
-          "name": "Milly>",
-          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
+          "name": "Simone Panetti",
+          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
+        },
+        {
+          "name": "Drast",
+          "url": "https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r"
+      "duration_ms": 171641,
+      "name": "Dentro di Te",
+      "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -595,22 +599,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Profondo Rosa",
-        "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/62SS1B6pqPXxVHWvq9f7iI"
       },
       "artists": [
         {
-          "name": "Simone Panetti",
-          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
-        },
-        {
-          "name": "Drast",
-          "url": "https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm"
+          "name": "Milly>",
+          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
         }
       ],
-      "duration_ms": 171641,
-      "name": "Dentro di Te",
-      "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
+      "duration_ms": 130000,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "sola (con me)",
-        "url": "https://open.spotify.com/album/4qcnkhmpl1h21kbgG3u9OM"
-      },
-      "artists": [
-        {
-          "name": "Neverbh",
-          "url": "https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "sola (con me)",
-      "url": "https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Ci penser\u00f2 domani",
         "url": "https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 137964,
       "name": "Ci penser\u00f2 domani",
       "url": "https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "sola (con me)",
+        "url": "https://open.spotify.com/album/4qcnkhmpl1h21kbgG3u9OM"
+      },
+      "artists": [
+        {
+          "name": "Neverbh",
+          "url": "https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "sola (con me)",
+      "url": "https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "ME & YOU",
-        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
+        "name": "Febbre a febbraio",
+        "url": "https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd"
       },
       "artists": [
         {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+          "name": "Gianni Bismark",
+          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
         },
         {
-          "name": "Friman",
-          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
+          "name": "Lil Kvneki",
+          "url": "https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn"
         }
       ],
-      "duration_ms": 137008,
-      "name": "ME & YOU",
-      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
+      "duration_ms": 186916,
+      "name": "Febbre a Febbraio (feat. Lil Kvneki)",
+      "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Febbre a febbraio",
-        "url": "https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd"
+        "name": "ME & YOU",
+        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
       },
       "artists": [
         {
-          "name": "Gianni Bismark",
-          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
         },
         {
-          "name": "Lil Kvneki",
-          "url": "https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn"
+          "name": "Friman",
+          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
         }
       ],
-      "duration_ms": 186916,
-      "name": "Febbre a Febbraio (feat. Lil Kvneki)",
-      "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
+      "duration_ms": 137008,
+      "name": "ME & YOU",
+      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Sotto lo zero",
-        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "Sotto lo zero",
-      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "X4",
         "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 154390,
       "name": "X4",
       "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Sotto lo zero",
+        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "Sotto lo zero",
+      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Maggio",
-        "url": "https://open.spotify.com/album/6mMixmDoCL0y0yzA0Ntfcc"
-      },
-      "artists": [
-        {
-          "name": "DAG",
-          "url": "https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0"
-        }
-      ],
-      "duration_ms": 146608,
-      "name": "Maggio",
-      "url": "https://open.spotify.com/track/61cXJ5ee3dheOPNav53gR2"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "MUSICA ALTA E STRESS",
         "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 165714,
       "name": "SEMBREREMO DISTANTI",
       "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Maggio",
+        "url": "https://open.spotify.com/album/6mMixmDoCL0y0yzA0Ntfcc"
+      },
+      "artists": [
+        {
+          "name": "DAG",
+          "url": "https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0"
+        }
+      ],
+      "duration_ms": 146608,
+      "name": "Maggio",
+      "url": "https://open.spotify.com/track/61cXJ5ee3dheOPNav53gR2"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7"
+        "name": "Cosa Siamo Noi Ora",
+        "url": "https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ"
       },
       "artists": [
         {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        },
-        {
-          "name": "Gaglia",
-          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
         }
       ],
-      "duration_ms": 174814,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT"
+      "duration_ms": 149600,
+      "name": "OPPOSTI",
+      "url": "https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv"
     }
   ],
   "unique_name": "ragazzo triste",

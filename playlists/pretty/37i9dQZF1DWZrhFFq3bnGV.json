@@ -1,12 +1,12 @@
 {
   "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Praya Tjondro",
-  "num_followers": 102727,
+  "num_followers": 102752,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzVlODg3ZjEyMzg3ODU1OTBlMjMzMTI0NWQwZTNkYzJmOWE3YTZi",
+  "snapshot_id": "MCwxYzEzMTZhOTgzYWFiM2JmYzMzOWY1ZmRmZjk4MzNlZDk0OGMzNmYw",
   "tracks": [
     {
       "added_at": "2023-08-17 17:14:09",
@@ -1776,17 +1776,21 @@
       "added_at": "2023-08-17 17:14:09",
       "album": {
         "name": "Pengungkapan Hatimu",
-        "url": "https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf"
+        "url": "https://open.spotify.com/album/6SYCwGMPFlhIgFQuiVoGpe"
       },
       "artists": [
         {
           "name": "Candra Darusman",
           "url": "https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt"
+        },
+        {
+          "name": "Andien",
+          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
         }
       ],
       "duration_ms": 236286,
       "name": "Pengungkapan Hatimu Feat. Andien",
-      "url": "https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d"
+      "url": "https://open.spotify.com/track/7jITLJhURuLtOkLxmjDs67"
     }
   ],
   "unique_name": "Jazz Anak Negeri",

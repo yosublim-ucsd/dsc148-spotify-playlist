@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: MC Maneirinho",
-  "num_followers": 119706,
+  "num_followers": 119887,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzE1MDgxOTYxODM1YmMzNDQ0ODU4MTY1NThiY2I1M2YyNGY0NGMw",
+  "snapshot_id": "MCw2N2JkNDI5ZmNjMmUwNDYzZTk3NWVhMzk5ZmIzYjAyNDEzOWJjYzg3",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -875,42 +875,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Vivendo Um Sonho",
-        "url": "https://open.spotify.com/album/0BRSfD1KvU8e7lLQrCRf6i"
-      },
-      "artists": [
-        {
-          "name": "Distrito 23",
-          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
-        },
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Jhowzin",
-          "url": "https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7"
-        },
-        {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 279069,
-      "name": "Vivendo Um Sonho",
-      "url": "https://open.spotify.com/track/50T73EQeHbNcqmfuINOU8A"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Para\u00edso Tropical",
         "url": "https://open.spotify.com/album/6dQ1cpSICVmtZlvulFbkjy"
       },
@@ -947,6 +911,42 @@
       "duration_ms": 420000,
       "name": "Para\u00edso Tropical",
       "url": "https://open.spotify.com/track/0eKQyaQbK3NvD7ksy7l25q"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Vivendo Um Sonho",
+        "url": "https://open.spotify.com/album/0BRSfD1KvU8e7lLQrCRf6i"
+      },
+      "artists": [
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Jhowzin",
+          "url": "https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 279069,
+      "name": "Vivendo Um Sonho",
+      "url": "https://open.spotify.com/track/50T73EQeHbNcqmfuINOU8A"
     },
     {
       "added_at": "2023-08-18 03:01:00",

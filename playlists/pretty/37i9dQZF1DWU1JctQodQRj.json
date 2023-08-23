@@ -1,12 +1,12 @@
 {
   "description": "Let the daily stresses of the world melt away with this peaceful playlist, filled with the warm, comforting melodies of JS Bach.",
-  "num_followers": 91138,
+  "num_followers": 91158,
   "original_name": "Relaxing Bach",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGRiYmQ2OWZlOTNkNjNhZDE0MGVjZjExMTkyMjllNDAzMWY1NDk3",
+  "snapshot_id": "MCxhM2ZlN2NhODYyZTdmNTE3OGRlODc5NmI1MjRlMDg3NTc1NmRkNWY2",
   "tracks": [
     {
       "added_at": "2023-04-28 08:50:34",
@@ -503,7 +503,7 @@
     {
       "added_at": "2023-04-28 08:50:34",
       "album": {
-        "name": "Bach - Flute Sonatas",
+        "name": "Bach: Sonates pour fl\u00fbte",
         "url": "https://open.spotify.com/album/3wY8vGlPMdk302PpKNsAi5"
       },
       "artists": [
@@ -1603,7 +1603,7 @@
     {
       "added_at": "2023-04-28 08:50:34",
       "album": {
-        "name": "Bach - Flute Sonatas",
+        "name": "Bach: Sonates pour fl\u00fbte",
         "url": "https://open.spotify.com/album/3wY8vGlPMdk302PpKNsAi5"
       },
       "artists": [
@@ -1612,8 +1612,12 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Marc Hantai/Pierre Hanta\u00ef",
-          "url": "https://open.spotify.com/artist/2VnId9RXH6HAcspXETP2jx"
+          "name": "Marc Hanta\u00ef",
+          "url": "https://open.spotify.com/artist/0tvA8Z5x8OxkwhVbx56EDm"
+        },
+        {
+          "name": "Pierre Hanta\u00ef",
+          "url": "https://open.spotify.com/artist/7AxEMNrf3o9LxbSDoZzTtO"
         }
       ],
       "duration_ms": 278133,

@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-206 songs - 19 hr 28 min
+207 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Deus Proverá](https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Proverá](https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN) | 5:58 | 2022-09-09 |  |
 | [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 | 2023-02-17 |  |
 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 | 2022-09-09 |  |
-| [Diz](https://open.spotify.com/track/4tTEwUZhYgrwKnfsQpZjBz) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Diz](https://open.spotify.com/album/7FZ4NJrgxRtw1oHXGZjlGf) | 4:29 | 2023-07-14 |  |
+| [Diz](https://open.spotify.com/track/4tTEwUZhYgrwKnfsQpZjBz) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Diz](https://open.spotify.com/album/7FZ4NJrgxRtw1oHXGZjlGf) | 4:29 | 2023-07-14 | 2023-08-23 |
 | [E Se](https://open.spotify.com/track/0kNqAibbxuqj6HGiYEUnTV) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [E Se](https://open.spotify.com/album/3c4c9eWtYgfXzFo2WlUx1q) | 4:57 | 2023-02-03 | 2023-03-21 |
 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW) | 7:39 | 2023-06-23 |  |
 | [Ele Cumprirá](https://open.spotify.com/track/1nQ0oeFFwRsW2h6PgZWmlo) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Ele Cumprirá](https://open.spotify.com/album/1zFNMpUmIvseacn9OFcJLk) | 7:36 | 2023-04-28 |  |
@@ -93,6 +93,7 @@
 | [I Can Only Imagine](https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh) | 4:08 | 2022-09-09 | 2023-04-29 |
 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 | 2023-02-17 |  |
 | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/5FaPm68gcR4gI7RyqE4O6g) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:02 | 2022-12-09 | 2023-02-04 |
+| [Jesus Sempre Tem Mais \- Ao Vivo](https://open.spotify.com/track/5eEZJ0EzlxamBnmUJMO0aD) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Jesus Sempre Tem Mais \(Ao Vivo\)](https://open.spotify.com/album/4IQFlCvRYoT5z85w6Yrk2E) | 5:59 | 2023-08-18 |  |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl) | 9:58 | 2022-09-09 | 2023-01-14 |
 | [Jó](https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:11 | 2022-09-09 |  |
 | [King of My Heart \- Live](https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 4:59 | 2022-09-09 | 2023-07-15 |

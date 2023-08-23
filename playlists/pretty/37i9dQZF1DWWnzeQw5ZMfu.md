@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,670 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,714 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Fastlove \- Live](https://open.spotify.com/track/2cM4093hKmkWTF0Rc5OdJa) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 5:12 |
 | 100 | [Say You'll Be There \- Live From Abdi İpekçi Arena, Istanbul, Turkey/1997](https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Viva Forever](https://open.spotify.com/album/1opVmZV2FM8CTGpbTaepqJ) | 4:26 |
 
-Snapshot ID: `MCwzMzM1OTIxNzE4NWIxZWJhMTFkYmNmZjg0MmE1ZDNmYWUwOWIxNmRh`
+Snapshot ID: `MCwxNjZjYWJkYjNlYTE5NDljMjI3OTAyZmI5ZDc1Y2M0ZDIwZTU5NTcy`

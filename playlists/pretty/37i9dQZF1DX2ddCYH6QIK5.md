@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Margo, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,414 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,431 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Boot](https://open.spotify.com/track/22bhOk26OElZQWezgpGFMd) | [DMO](https://open.spotify.com/artist/48PSIyJmWt1ygG8mBEKaEB) | [Boot](https://open.spotify.com/album/4zbANgSfRhU51RrlBgp3vK) | 2:32 |
 | 80 | [Alarm](https://open.spotify.com/track/6ElYaD37uA62W2U64M8qpP) | [ALICE DEE](https://open.spotify.com/artist/1vdSQulRJe9bTGLE9hgqXD) | [Alarm](https://open.spotify.com/album/0bmyMwT5OUbE12plIqS0U5) | 2:34 |
 
-Snapshot ID: `MCw2NWJmY2YzZjk3NjJlYzJmODgzY2Q0YjVlODQ0NWQ4N2EyNWRlZDBi`
+Snapshot ID: `MCxiMTdiOGJjNzhmNDZjZTA3ZjBlNmI1NTMxMzA4NjhhOTM1OTNlZThk`

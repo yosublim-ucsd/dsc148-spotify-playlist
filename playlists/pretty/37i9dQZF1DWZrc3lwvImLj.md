@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad and moody piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,115 likes - 223 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,243 likes - 223 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 13 | [The Might](https://open.spotify.com/track/57yfoJ5x6tF6B3vhhHr35I) | [Freya Rääf](https://open.spotify.com/artist/25K3sG1vlM4RnpPiWHHIzn) | [The Might](https://open.spotify.com/album/3SA356mCov4slJR4zhvPXv) | 2:19 |
 | 14 | [A Sky On Fire](https://open.spotify.com/track/2VpTN9X4LJjVOkGmLFY6Fh) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [A Sky On Fire](https://open.spotify.com/album/2oCftHwKeRxgnEshiubb4K) | 1:54 |
 | 15 | [Vocalise](https://open.spotify.com/track/4yhdD7Igtyu7J3eCPj4APk) | [John Lenehan](https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9) | [Vocalise](https://open.spotify.com/album/51jIcUb0nEuyIHmV7TQtUG) | 2:35 |
-| 16 | [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 |
+| 16 | [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 |
 | 17 | [Unspoken words](https://open.spotify.com/track/3YVDpr9ATEeLaSj5z24qmK) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Unspoken words](https://open.spotify.com/album/0kb3AVXkNmsHCOXsHpK1pU) | 2:39 |
 | 18 | [Real As Rain](https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Real As Rain](https://open.spotify.com/album/3GzSfzBdU8FXRnrSLQxJGF) | 2:06 |
 | 19 | [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 21 | [Illuminate The Night](https://open.spotify.com/track/4xwD2O3xL0aMEI2jfw7mb8) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Illuminate The Night](https://open.spotify.com/album/2fbtqkEVf615YZStDOMGdw) | 2:07 |
 | 22 | [Trinité](https://open.spotify.com/track/4mj4DJxJCBZjbUdA5qMvxE) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [Trinité](https://open.spotify.com/album/5dfnZVMMnSHXI2Ihws6wgE) | 2:46 |
 | 23 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 |
-| 24 | [Vesper](https://open.spotify.com/track/7zYqURwLi01h7Mmel4fefz) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Vesper](https://open.spotify.com/album/7edDr2rApL4jzZ7gusqSjX) | 2:12 |
+| 24 | [Vesper](https://open.spotify.com/track/5aHJ4dAzn8fBudSSFqoATm) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Afternoon Ending](https://open.spotify.com/album/4FUs9Lg2ZQFrnBHxxcnRAq) | 2:12 |
 | 25 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 |
 | 26 | [Fragile Beauty](https://open.spotify.com/track/1hroEYeXHwndmO03pfIu9u) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Fragile Beauty](https://open.spotify.com/album/63UFtAXFba8wSrPEouv010) | 2:30 |
 | 27 | [Diomede](https://open.spotify.com/track/1PBHmvZAJesTPz7UPnci1k) | [Charly Martin](https://open.spotify.com/artist/0hO3nAl0tbOlhLN99WasSE) | [Diomede](https://open.spotify.com/album/5YyBMY3ZqNsPDQFxfNche8) | 1:54 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 222 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 |
 | 223 | [Téli](https://open.spotify.com/track/22epH1mP5fU4Bg5fGVbnuc) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Téli](https://open.spotify.com/album/6smhLShr1DjFPuxW7EtB4d) | 2:30 |
 
-Snapshot ID: `MCw3MDE2OWEzN2FhNjVjMDcxYzI4NGY5YzA0ZTUwY2Y2NjljYzQ4OWMw`
+Snapshot ID: `MCw2NzA3N2RhYjlmMGE0N2UwNWMwYWZjM2FlN2E1ODMyOWRmNmMwMzU0`

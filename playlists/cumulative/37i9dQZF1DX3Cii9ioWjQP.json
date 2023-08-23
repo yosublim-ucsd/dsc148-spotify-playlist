@@ -128,10 +128,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 261374,
       "name": "Annual plant",
       "url": "https://open.spotify.com/track/3Odx622SRpsHSylBSbfsaw"
+    },
+    {
+      "album": {
+        "name": "Annual plant",
+        "url": "https://open.spotify.com/album/5tiTWtLR5CEqNzpeEUqVm7"
+      },
+      "artists": [
+        {
+          "name": "MANIK",
+          "url": "https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261374,
+      "name": "Annual plant",
+      "url": "https://open.spotify.com/track/3TcPYJi9lSwwt350olQ3zB"
     },
     {
       "album": {
@@ -320,6 +338,24 @@
     {
       "album": {
         "name": "Breeze",
+        "url": "https://open.spotify.com/album/4cGVSpkczCuwfsbLNjbx7v"
+      },
+      "artists": [
+        {
+          "name": "sangjun kim",
+          "url": "https://open.spotify.com/artist/5ActYrw5XC68RWkNGXrysv"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/5XhtsFFa0x6T68RU228Eql"
+    },
+    {
+      "album": {
+        "name": "Breeze",
         "url": "https://open.spotify.com/album/3n9vwJ5YfbgEb6cnd6pDJS"
       },
       "artists": [
@@ -330,7 +366,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 188666,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/6CX8ZtHiupf9EulZXjXKA9"
@@ -1076,6 +1112,28 @@
     {
       "album": {
         "name": "Ironic",
+        "url": "https://open.spotify.com/album/4ofBi1vvKlz40osDgUA9OB"
+      },
+      "artists": [
+        {
+          "name": "Irony",
+          "url": "https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM"
+        },
+        {
+          "name": "\uace0\uc544\ub78c",
+          "url": "https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "Isolate (feat. AHRAM GO)",
+      "url": "https://open.spotify.com/track/4HBFLUmi3CdnDugb1fevCo"
+    },
+    {
+      "album": {
+        "name": "Ironic",
         "url": "https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG"
       },
       "artists": [
@@ -1090,7 +1148,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 192592,
       "name": "Isolate (feat. \uace0\uc544\ub78c)",
       "url": "https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q"

@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 453665,
+  "num_followers": 454121,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzUzNjM2ZjA2ZDdjMzQ5NjU0MDJjMTJmNjdjYzAxNjJiZTY5OWVk",
+  "snapshot_id": "MCw2NzY4NjdlZmNhNzZhMjIyNGM3NGZiNmNiMGIyZmY3NDBhZmVmN2Q4",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "25 Years, Vol. 3",
-        "url": "https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV"
-      },
-      "artists": [
-        {
-          "name": "Lustral",
-          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
-        },
-        {
-          "name": "Nalin & Kane",
-          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
-        }
-      ],
-      "duration_ms": 249022,
-      "name": "Everytime - Nalin & Kane Mix",
-      "url": "https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Need To Feel Loved",
         "url": "https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 196093,
       "name": "Need To Feel Loved - Radio Edit",
       "url": "https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "25 Years, Vol. 3",
+        "url": "https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV"
+      },
+      "artists": [
+        {
+          "name": "Lustral",
+          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
+        },
+        {
+          "name": "Nalin & Kane",
+          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
+        }
+      ],
+      "duration_ms": 249022,
+      "name": "Everytime - Nalin & Kane Mix",
+      "url": "https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -875,22 +875,18 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Armada Collected: Aly & Fila",
-        "url": "https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1"
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
       },
       "artists": [
         {
-          "name": "Aly & Fila",
-          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
-        },
-        {
-          "name": "Jwaydan",
-          "url": "https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp"
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
         }
       ],
-      "duration_ms": 226673,
-      "name": "We Control The Sunlight",
-      "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
+      "duration_ms": 268600,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
     }
   ],
   "unique_name": "Trance Classics",

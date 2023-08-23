@@ -1,12 +1,12 @@
 {
   "description": "El sonido experimental del Caribe \ud83c\udf34\ud83e\udd80\u269b\ufe0f",
-  "num_followers": 360,
+  "num_followers": 361,
   "original_name": "Caribe At\u00f3mico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmY0N2NlNDBjZTM3MTVhYWYyMjU3OGQyZWY0ZTg2ZjJhN2JlNjBk",
+  "snapshot_id": "MCw2YmI0Mzc0MDEzYjA4YzdkMDY0YTQ3MDQzODk0NTk0NzdkNTY3MzBj",
   "tracks": [
     {
       "added_at": "2022-08-13 03:00:56",
@@ -475,22 +475,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Dos amores",
-        "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
+        "name": "El arca de Mima",
+        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
       },
       "artists": [
         {
           "name": "Mima",
           "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        },
-        {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
         }
       ],
-      "duration_ms": 202951,
-      "name": "Dos amores",
-      "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
+      "duration_ms": 262318,
+      "name": "El arca de Mima",
+      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -627,18 +623,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "El arca de Mima",
-        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
+        "name": "Dos amores",
+        "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
       },
       "artists": [
         {
           "name": "Mima",
           "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        },
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
         }
       ],
-      "duration_ms": 262318,
-      "name": "El arca de Mima",
-      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
+      "duration_ms": 202951,
+      "name": "Dos amores",
+      "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
     },
     {
       "added_at": "2022-08-13 03:00:56",

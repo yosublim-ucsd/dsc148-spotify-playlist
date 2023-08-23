@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Hamzaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,238 likes - 73 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,464 likes - 73 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 72 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 | 73 | [EVERYTHING \- A COLORS SHOW](https://open.spotify.com/track/3YHWHbD0sa31BmwdjNNtwH) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [EVERYTHING \(A COLORS SHOW\)](https://open.spotify.com/album/7m2UXRby4qg7d5majV2Cdk) | 3:04 |
 
-Snapshot ID: `MCwzODZjM2Y2MTVmYjYyZTY5ODY1OWEwY2E1ZDJhOGRmZTUwNTQ0OTRh`
+Snapshot ID: `MCxkNzRhZTIzOGVmYjRlNGRhZTc1NDU5MjBjY2U0YjNlMjZkYWUxN2Fj`

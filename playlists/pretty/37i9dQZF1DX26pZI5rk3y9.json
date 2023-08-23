@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 6158,
+  "num_followers": 6167,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODg0NDM1NWFhNWI1NTBjOWY1MzcwMzIwNjI2ZTU5OTEwMDYwZDA1",
+  "snapshot_id": "MCwzYmRmZmM2MmJiNzhiOTEyNjIxZmRhMjM1OTFhNDliMTAwMzJlZDk0",
   "tracks": [
     {
       "added_at": "2023-08-18 13:43:50",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "What Can I Do?",
-        "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
-      },
-      "artists": [
-        {
-          "name": "The Black Belles",
-          "url": "https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "What Can I Do?",
-      "url": "https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
         "name": "She Moved On",
         "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 167275,
       "name": "She Moved On",
       "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
+        "name": "What Can I Do?",
+        "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
+      },
+      "artists": [
+        {
+          "name": "The Black Belles",
+          "url": "https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "What Can I Do?",
+      "url": "https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
+        "name": "IDKWYCTD (I Came To Play)",
+        "url": "https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        }
+      ],
+      "duration_ms": 180739,
+      "name": "IDKWYCTD (I Came To Play)",
+      "url": "https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
         "name": "Eric (Long Live The King)",
         "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "IDKWYCTD (I Came To Play)",
-        "url": "https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw"
-      },
-      "artists": [
-        {
-          "name": "Eli \"Paperboy\" Reed",
-          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
-        }
-      ],
-      "duration_ms": 180739,
-      "name": "IDKWYCTD (I Came To Play)",
-      "url": "https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
         "name": "Walk The Wire",
         "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
+        "name": "Rockabye Motel",
+        "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
+      },
+      "artists": [
+        {
+          "name": "Blue Water Highway",
+          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
+        }
+      ],
+      "duration_ms": 343800,
+      "name": "Rockabye Motel",
+      "url": "https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
         "name": "Old Road",
         "url": "https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb"
       },
@@ -683,18 +699,26 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "Rockabye Motel",
-        "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE"
       },
       "artists": [
         {
-          "name": "Blue Water Highway",
-          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
+          "name": "The Lucky Strokes",
+          "url": "https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Shelby Kemp",
+          "url": "https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5"
         }
       ],
-      "duration_ms": 343800,
-      "name": "Rockabye Motel",
-      "url": "https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU"
+      "duration_ms": 255209,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -731,30 +755,6 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE"
-      },
-      "artists": [
-        {
-          "name": "The Lucky Strokes",
-          "url": "https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        },
-        {
-          "name": "Shelby Kemp",
-          "url": "https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5"
-        }
-      ],
-      "duration_ms": 255209,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
         "name": "Gotta Bleed (Remix)",
         "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 248555,
       "name": "Can Opener",
       "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5XpJxe16XCSDeIJe1huefg"
+      },
+      "artists": [
+        {
+          "name": "Madison Galloway",
+          "url": "https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/09BmmcDmFnJGOfQIquCbLx"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -903,18 +919,18 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5XpJxe16XCSDeIJe1huefg"
+        "name": "So Free",
+        "url": "https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L"
       },
       "artists": [
         {
-          "name": "Madison Galloway",
-          "url": "https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR"
+          "name": "Dirty Streets",
+          "url": "https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST"
         }
       ],
-      "duration_ms": 192213,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/09BmmcDmFnJGOfQIquCbLx"
+      "duration_ms": 197800,
+      "name": "So Free",
+      "url": "https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -931,22 +947,6 @@
       "duration_ms": 312640,
       "name": "Take My Rider",
       "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
-        "name": "So Free",
-        "url": "https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L"
-      },
-      "artists": [
-        {
-          "name": "Dirty Streets",
-          "url": "https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "So Free",
-      "url": "https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR"
     },
     {
       "added_at": "2023-08-18 13:43:50",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-18 13:43:50",
       "album": {
-        "name": "Jam With Me",
-        "url": "https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ"
-      },
-      "artists": [
-        {
-          "name": "Lance Lopez",
-          "url": "https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Jam With Me",
-      "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
-    },
-    {
-      "added_at": "2023-08-18 13:43:50",
-      "album": {
         "name": "Porcelain God",
         "url": "https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 294327,
       "name": "Hazel Eyes",
       "url": "https://open.spotify.com/track/6wJcz18omAZIhiZvFFvBQs"
+    },
+    {
+      "added_at": "2023-08-18 13:43:50",
+      "album": {
+        "name": "Jam With Me",
+        "url": "https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ"
+      },
+      "artists": [
+        {
+          "name": "Lance Lopez",
+          "url": "https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm"
+        }
+      ],
+      "duration_ms": 201233,
+      "name": "Jam With Me",
+      "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
     },
     {
       "added_at": "2023-08-18 13:43:50",

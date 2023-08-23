@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 24904,
+  "num_followers": 24948,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWI4ZGM4ZWQyM2E5YTM2MWZiOGQzYWMzYTlkNTJjMTMwZDViNGE3",
+  "snapshot_id": "MCw1NDRmYTk3MGNmYzE0OTFhN2YyZmY4OWVjZmQ4NDQwNzZkYjJhMjk3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 133324,
+      "name": "Picture Me Rollin'",
+      "url": "https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 213453,
       "name": "don\u2019t i (feat. Gunna)",
       "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 133324,
-      "name": "Picture Me Rollin'",
-      "url": "https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -883,18 +883,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Stony Hill",
-        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
       "artists": [
         {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         }
       ],
-      "duration_ms": 277693,
-      "name": "Looks Are Deceiving",
-      "url": "https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs"
+      "duration_ms": 236546,
+      "name": "Young Nigga (feat. Puff Daddy)",
+      "url": "https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX"
     }
   ],
   "unique_name": "Kofi Siriboe's Taste",

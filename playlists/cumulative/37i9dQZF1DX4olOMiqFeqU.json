@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 285138,
       "name": "Sa Ngalan Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG"
@@ -1758,6 +1758,24 @@
       "duration_ms": 244600,
       "name": "Simpleng Tao",
       "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
+    },
+    {
+      "album": {
+        "name": "Sinta",
+        "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316683,
+      "name": "Sinta",
+      "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
     },
     {
       "album": {

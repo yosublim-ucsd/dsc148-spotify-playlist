@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi superstar’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,899 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,967 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 43 | [Future](https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Con.Fi.Den.Tial](https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD) | 2:53 |
 | 44 | [5 Taara](https://open.spotify.com/track/4OFiDV3YIUVwMUNsXRnqeV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 2:58 |
 | 45 | [Habit](https://open.spotify.com/track/0v1T9sMeFbaanQ3o2PBcYK) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:03 |
-| 46 | [Sahnewal](https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:41 |
-| 47 | [Raat Di Gedi](https://open.spotify.com/track/52rRjGjdTwlDIKXjTLKAv9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 3:18 |
+| 46 | [Raat Di Gedi](https://open.spotify.com/track/52rRjGjdTwlDIKXjTLKAv9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 3:18 |
+| 47 | [Sahnewal](https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:41 |
 | 48 | [Laembadgini](https://open.spotify.com/track/6Zp8T8QuT8XK1gPPs68zRz) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 3:06 |
 | 49 | [Kharku](https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:37 |
 | 50 | [Strawberry](https://open.spotify.com/track/4EQxlW6xqddgkzeno3I2Xe) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:51 |
 
-Snapshot ID: `MCw5YmY3YzMwMWEzZmY1NTI3MjJjMGNmYmY3OTBjZTNiYWIwZTBhNDNk`
+Snapshot ID: `MCxiYTRhN2JkODAxN2E5ODEwMjhiYjE4YzM2MTY2OWQ1N2YwMTRmOTk4`

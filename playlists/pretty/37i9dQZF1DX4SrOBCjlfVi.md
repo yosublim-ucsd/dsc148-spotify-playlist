@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, Lil Durk, and more\. Cover: Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,278 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,407 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [LET'S PLAY](https://open.spotify.com/track/7hfumEP2zHYQPjO2iHxbA7) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [LET'S PLAY](https://open.spotify.com/album/2BnFxxVScuhiJgIS7TsxCV) | 2:07 |
 | 50 | [Mvplayer](https://open.spotify.com/track/2QFIFt26FE9F96zrrHKkej) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Head Coach](https://open.spotify.com/album/6VNky4zU67Xm2GyhLRBjke) | 3:01 |
 
-Snapshot ID: `MCw2NGM1NWVmMTYwMjk2YjlkZDY4MmE2ODlhYjI3MjJhNTU5YzlmODNj`
+Snapshot ID: `MCw0MjAzYzRlMjNhODk3NWVkNDhmMTkxNzMyYTIzNjc0MGM1ZGYxMzQy`

@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 65628,
+  "num_followers": 65668,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjU4YTEwYzllOWZkODBlYjljOGFkMzhlYmJkM2E1MGYyODE5M2Vj",
+  "snapshot_id": "MCw0YmIwNDk4NDYxNzYzYTc5OWRlM2M2ZjBjMDQwMmI5ZDEyYjU2Mzhj",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -751,22 +751,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Heaven Scent",
-        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
       },
       "artists": [
         {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        },
-        {
-          "name": "Chloe Sevigny",
-          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
         }
       ],
-      "duration_ms": 283424,
-      "name": "Heaven Scent",
-      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+      "duration_ms": 195586,
+      "name": "Suricate",
+      "url": "https://open.spotify.com/track/2t21BOjWID8CUXCup4XXZ1"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -787,18 +783,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Euphories",
-        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
+        "name": "Heaven Scent",
+        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
       "artists": [
         {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        },
+        {
+          "name": "Chloe Sevigny",
+          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
         }
       ],
-      "duration_ms": 195586,
-      "name": "Suricate",
-      "url": "https://open.spotify.com/track/2t21BOjWID8CUXCup4XXZ1"
+      "duration_ms": 283424,
+      "name": "Heaven Scent",
+      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Pain In The Ass",
-        "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 400373,
-      "name": "Pain In The Ass - Original Mix",
-      "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "No Hay Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
       },
@@ -951,22 +935,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
+        "name": "Pain In The Ass",
+        "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Kio Amachree",
-          "url": "https://open.spotify.com/artist/73LminGpr0A0bVpO5MBwdj"
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
         }
       ],
-      "duration_ms": 495872,
-      "name": "Ivoire (feat. Kio Amachree)",
-      "url": "https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ"
+      "duration_ms": 400373,
+      "name": "Pain In The Ass - Original Mix",
+      "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -983,6 +963,26 @@
       "duration_ms": 267666,
       "name": "Little Fluffy Clouds",
       "url": "https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Kio Amachree",
+          "url": "https://open.spotify.com/artist/73LminGpr0A0bVpO5MBwdj"
+        }
+      ],
+      "duration_ms": 495872,
+      "name": "Ivoire (feat. Kio Amachree)",
+      "url": "https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        },
+        {
+          "name": "Bara Nova",
+          "url": "https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf"
+        }
+      ],
+      "duration_ms": 334586,
+      "name": "My Lullaby for You",
+      "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "ANIMA",
         "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 360987,
       "name": "they told us it was hard, but they were wrong.",
       "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        },
-        {
-          "name": "Bara Nova",
-          "url": "https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf"
-        }
-      ],
-      "duration_ms": 334586,
-      "name": "My Lullaby for You",
-      "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1479,6 +1479,30 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "U. (Junior Sanchez Remix)",
+        "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Junior Sanchez",
+          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "U. - Junior Sanchez Remix",
+      "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio"
       },
@@ -1503,30 +1527,6 @@
       "duration_ms": 124096,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "U. (Junior Sanchez Remix)",
-        "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        },
-        {
-          "name": "Junior Sanchez",
-          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "U. - Junior Sanchez Remix",
-      "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "We All Move Together (Kevin Saunderson x Latroit Remix)",
         "url": "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 200000,
       "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
       "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2023-07-07 04:00:00",

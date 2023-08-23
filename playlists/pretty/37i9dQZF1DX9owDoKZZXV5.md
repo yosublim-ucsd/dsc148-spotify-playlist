@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 
 > Welcome to the Hope World! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,898 likes - 33 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,335 likes - 33 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 | 32 | [MORE \(Instrumental\)](https://open.spotify.com/track/5rJgabqFRVuC3yN7f7L5IC) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box \(HOPE Edition\)](https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6) | 2:58 |
 | 33 | [Arson \(Instrumental\)](https://open.spotify.com/track/02FJa38VBPTnwinFBloq8P) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box \(HOPE Edition\)](https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6) | 2:39 |
 
-Snapshot ID: `MCwzMjhkM2Y0NzRjZWY5MGIwMzM3NDY2ZWVkMWQ5OWI0ZjYzYmM2Y2Mx`
+Snapshot ID: `MCwzNzRiYzZiZjIwM2E0YjQxZjk3MWE3OTAyZjZhMzA1YzhmMjIzZTYy`

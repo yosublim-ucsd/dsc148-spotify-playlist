@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 53592,
+  "num_followers": 53718,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjVhYjgwYzA2NzZkYjgwODY2OWNlMTJjNTAzMGVhYjcxYjc1MTJj",
+  "snapshot_id": "MCxjZGM3NTE0NGViOTVhNDFjNzZiMjMxOTNiZmYxMGE4M2IxOGRjZDZh",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -277,24 +277,20 @@
       "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
-      "added_at": "2023-04-27 17:13:18",
+      "added_at": "2023-06-20 14:29:14",
       "album": {
-        "name": "NEVER MET! (feat. Glitch Gum)",
-        "url": "https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN"
+        "name": "i dont want that many friends in the first place",
+        "url": "https://open.spotify.com/album/44nPHmYq8LeqrjgwqcWyuQ"
       },
       "artists": [
         {
-          "name": "CMTEN",
-          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
-        },
-        {
-          "name": "Glitch Gum",
-          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 147000,
-      "name": "NEVER MET! (feat. Glitch Gum)",
-      "url": "https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n"
+      "duration_ms": 109033,
+      "name": "i dont want that many friends in the first place",
+      "url": "https://open.spotify.com/track/10P4luHAHr1o5kqDa8NDIU"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -337,20 +333,24 @@
       "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
     },
     {
-      "added_at": "2023-06-20 14:29:14",
+      "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "i dont want that many friends in the first place",
-        "url": "https://open.spotify.com/album/44nPHmYq8LeqrjgwqcWyuQ"
+        "name": "NEVER MET! (feat. Glitch Gum)",
+        "url": "https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN"
       },
       "artists": [
         {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+          "name": "CMTEN",
+          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
+        },
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
         }
       ],
-      "duration_ms": 109033,
-      "name": "i dont want that many friends in the first place",
-      "url": "https://open.spotify.com/track/10P4luHAHr1o5kqDa8NDIU"
+      "duration_ms": 147000,
+      "name": "NEVER MET! (feat. Glitch Gum)",
+      "url": "https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Slayyyter",
-        "url": "https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 215729,
-      "name": "BFF",
-      "url": "https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "1:15",
         "url": "https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 130206,
       "name": "1:15",
       "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Slayyyter",
+        "url": "https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 215729,
+      "name": "BFF",
+      "url": "https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "Kyoto (Glitch Gum Remix)",
         "url": "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 159813,
       "name": "Kyoto (Glitch Gum Remix)",
       "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
-      },
-      "artists": [
-        {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
     },
     {
       "added_at": "2023-04-27 17:13:18",

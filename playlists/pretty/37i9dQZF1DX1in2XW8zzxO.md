@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,233 likes - 80 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,438 likes - 80 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 79 | [Location](https://open.spotify.com/track/7ogZ485BlYFPUymcrTC0Is) | [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l), [Freddy K](https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp) | [Location](https://open.spotify.com/album/73w9zUGjkV9TqlzROMOclV) | 5:44 |
 | 80 | [Bulldozer](https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Bulldozer](https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt) | 5:01 |
 
-Snapshot ID: `MCxhMzIxY2I0ODVlMjY3YTUxNTdlMjNiM2YzNTM0OGVmODlkMGU4Nzc0`
+Snapshot ID: `MCxkZDA0MWRjMzk1ZWIwZThmNzg5ODYwYmNkZGE0MzYwZTk0MGE5OGU5`

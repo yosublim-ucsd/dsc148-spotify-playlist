@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 72117,
+  "num_followers": 72233,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWJiN2FiMDVkNmNmZGUzMmI5NjMxYjJjNjQ3OTAzNzUyZWQwNzM5",
+  "snapshot_id": "MCw1NDQxNGEyMzQyOWQ0NzRjYWQxMjNlY2U4ODBmZjk5MjEyMTljZDNl",
   "tracks": [
     {
       "added_at": "2023-08-16 08:53:12",
@@ -247,18 +247,22 @@
     {
       "added_at": "2023-08-16 08:53:12",
       "album": {
-        "name": "Blues Walk",
-        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+        "name": "Ben Webster's Finest Hour",
+        "url": "https://open.spotify.com/album/6Hwb9XLwQVF3jbjs4P1HHe"
       },
       "artists": [
         {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 403200,
-      "name": "Blues Walk",
-      "url": "https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3"
+      "duration_ms": 237493,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4tSY2oSX8fdedowKjFYWJH"
     },
     {
       "added_at": "2023-08-16 08:53:12",
@@ -283,22 +287,18 @@
     {
       "added_at": "2023-08-16 08:53:12",
       "album": {
-        "name": "Ben Webster's Finest Hour",
-        "url": "https://open.spotify.com/album/6Hwb9XLwQVF3jbjs4P1HHe"
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
         }
       ],
-      "duration_ms": 237493,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/4tSY2oSX8fdedowKjFYWJH"
+      "duration_ms": 403200,
+      "name": "Blues Walk",
+      "url": "https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3"
     },
     {
       "added_at": "2023-08-16 08:53:12",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-16 08:53:12",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2023-08-16 08:53:12",
-      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 435440,
       "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
+    },
+    {
+      "added_at": "2023-08-16 08:53:12",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
     },
     {
       "added_at": "2023-08-16 08:53:12",
@@ -1543,6 +1543,30 @@
     {
       "added_at": "2023-08-16 08:53:12",
       "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/630ljtZzbwOEQbk4BTw3Lq"
+      },
+      "artists": [
+        {
+          "name": "L. Shankar",
+          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
+        },
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Palle Mikkelborg",
+          "url": "https://open.spotify.com/artist/1BanDVpS18UOTBMdv5VgEy"
+        }
+      ],
+      "duration_ms": 396106,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/2BxwSCpTP3nIQGHN1fsNsP"
+    },
+    {
+      "added_at": "2023-08-16 08:53:12",
+      "album": {
         "name": "The Complete Savoy & Dial Master Takes",
         "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
       },
@@ -1575,26 +1599,18 @@
     {
       "added_at": "2023-08-16 08:53:12",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/630ljtZzbwOEQbk4BTw3Lq"
+        "name": "Very Cool",
+        "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
       },
       "artists": [
         {
-          "name": "L. Shankar",
-          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
-        },
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Palle Mikkelborg",
-          "url": "https://open.spotify.com/artist/1BanDVpS18UOTBMdv5VgEy"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 396106,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/2BxwSCpTP3nIQGHN1fsNsP"
+      "duration_ms": 443613,
+      "name": "Crazy She Calls Me",
+      "url": "https://open.spotify.com/track/44Iy3NmrG5kLWfCeieKIiD"
     },
     {
       "added_at": "2023-08-16 08:53:12",
@@ -1611,22 +1627,6 @@
       "duration_ms": 340173,
       "name": "You've Come Home",
       "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
-    },
-    {
-      "added_at": "2023-08-16 08:53:12",
-      "album": {
-        "name": "Very Cool",
-        "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 443613,
-      "name": "Crazy She Calls Me",
-      "url": "https://open.spotify.com/track/44Iy3NmrG5kLWfCeieKIiD"
     },
     {
       "added_at": "2023-08-16 08:53:12",

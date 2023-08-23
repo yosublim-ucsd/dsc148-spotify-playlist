@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-98 songs - 9 hr 43 min
+99 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/25VkJONJpEE1jFn5jdJfUh) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 4:47 | 2022-07-26 | 2023-07-28 |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shehenshah\-E\-Ghazal Mehdi Hassan](https://open.spotify.com/album/6faBY021EEthCQiSUVyK4w) | 4:47 | 2022-11-09 | 2022-11-13 |
 | [Ishq mein aalaa](https://open.spotify.com/track/7uTc5irHc0RRnqj1Y7usEJ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/1UwwcjWPAyyiNnQG4FvsZC) | 4:04 | 2023-04-18 |  |
-| [Ishqe Noo Ched Na Bethi](https://open.spotify.com/track/0zFdmEPDnsVO8bmLzmFdBr) | [Ravi Bal](https://open.spotify.com/artist/6j4Mc2MEM58arm0WwHTu5N) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 6:43 | 2022-07-26 |  |
+| [Ishqe Noo Ched Na Bethi](https://open.spotify.com/track/0zFdmEPDnsVO8bmLzmFdBr) | [Ravi Bal](https://open.spotify.com/artist/6j4Mc2MEM58arm0WwHTu5N) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 6:43 | 2022-07-26 | 2023-08-23 |
 | [Ishqe Noo Ched Na Bethi](https://open.spotify.com/track/1348F6iZc4KCF7NtZv4TUx) | [Ravi Bal](https://open.spotify.com/artist/6j4Mc2MEM58arm0WwHTu5N), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [One Night Stand \(Bhangra Songs\)](https://open.spotify.com/album/1c62tmFjmhmVUT4N7tDHjE) | 6:42 | 2021-12-01 | 2022-07-29 |
 | [Ishqe Noo Ched Na Bethi \(feat\. Ravi Bal\)](https://open.spotify.com/track/6JLys64rusA6N1yo2FlIFO) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne), [Ravi Bal](https://open.spotify.com/artist/4RorHT1vXP7Z6n3x1xzmv9) | [Long Drive Remixes](https://open.spotify.com/album/1VzGFgbgtwEz0ad8UE83QC) | 6:42 | 2022-11-09 | 2022-11-14 |
 | [Jal Bhar De](https://open.spotify.com/track/3trMcrv75BKmVVS45moplw) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 4:23 | 2021-12-01 |  |
@@ -91,6 +91,7 @@
 | [Rehna Chai Da](https://open.spotify.com/track/1fXEiq31msWJIXLd2227HD) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 4:49 | 2021-12-01 | 2023-04-06 |
 | [Sham Ye Dhalte Dhalte](https://open.spotify.com/track/4zXjNS4xY2UGEw6QKcrhuq) | [Swarit Nigam](https://open.spotify.com/artist/2AI1W8IwzHBX52QMOA5I93) | [Sham Ye Dhalte Dhalte](https://open.spotify.com/album/5esJl9CSFXUGkv4G6brye9) | 5:29 | 2023-02-17 | 2023-07-01 |
 | [Shayad Main Zindagi Ki Sahar](https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 6:51 | 2021-12-01 |  |
+| [Taiy Nahi Kiya Abhi](https://open.spotify.com/track/776QLSBeutwuBJukKGsb7I) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:49 | 2023-08-22 |  |
 | [Tasveer](https://open.spotify.com/track/1qfpfieVEi4SJVpe5gpTez) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tasveer](https://open.spotify.com/album/5ZS8DHF277xtrwG0zmt0xf) | 3:39 | 2023-03-03 |  |
 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 | 2021-12-01 |  |
 | [Teri Yaad Yaad Yaad](https://open.spotify.com/track/0fop0xkp8P9b7JTJSDdBB4) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Bewafaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7lSYGvPT8tiSkQtF9SKYAY) | 8:09 | 2022-07-26 |  |

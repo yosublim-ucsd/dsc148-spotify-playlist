@@ -4095,6 +4095,24 @@
     },
     {
       "album": {
+        "name": "Notawe (Father)",
+        "url": "https://open.spotify.com/album/4nIkOsbvUJiuWzoKQ6Ex0f"
+      },
+      "artists": [
+        {
+          "name": "Adrian Sutherland",
+          "url": "https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Notawe (Father)",
+      "url": "https://open.spotify.com/track/2wQ3tFNWGiNUMf3O0CRS9W"
+    },
+    {
+      "album": {
         "name": "Know Your Mind",
         "url": "https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM"
       },
@@ -6148,7 +6166,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 185920,
       "name": "When You Miss Someone",
       "url": "https://open.spotify.com/track/7qJKahUHkASPu54vMil98J"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F?si=WuRmhrj6SE2biS12uKfXOQ"> تامر عاشور</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,652 likes - 62 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,736 likes - 62 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 11 | [Men Kan Yesda2](https://open.spotify.com/track/0fbkNOvYVWwdxfi2Yixpb3) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Men Kan Yesda2](https://open.spotify.com/album/6yW8Ll16re8wsQA4N2hS0g) | 3:28 |
 | 12 | [Alf Rooh \(Manoukian/Angelo Remix\)](https://open.spotify.com/track/5s85Ha9iUpfjh4wB0yi7Ae) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Guy Manoukian](https://open.spotify.com/artist/7cSr0LrHabJyfJRCEfoB00), [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g) | [Alf Rooh \(Manoukian/Angelo Remix\)](https://open.spotify.com/album/31pWCpj4AthQfLCkPvHezl) | 2:59 |
 | 13 | [Farek al kol](https://open.spotify.com/track/5bgDj52qYTHFhxjL3iHDdD) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Farek al kol](https://open.spotify.com/album/0s9K6CLSaoCzMPrJp9vyZK) | 2:55 |
-| 14 | [يا غزال](https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [Twyxx](https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG) | [يا غزال](https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a) | 4:01 |
+| 14 | [Ya Ghazal](https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [Twyxx](https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG) | [Ya Ghazal](https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a) | 4:01 |
 | 15 | [مش كفاية فراق](https://open.spotify.com/track/75Ca7I3xIHLqG1S0izGV02) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [مش كفاية فراق](https://open.spotify.com/album/6pUq5K38plrNVoJ7shbzb5) | 4:34 |
 | 16 | [3ayza Ba7r](https://open.spotify.com/track/52WUBAeaELu5d39P1FlQdi) | [Shams](https://open.spotify.com/artist/5gH54npc6AzgNhSbArd6oe) | [3ayza Ba7r](https://open.spotify.com/album/4Cg0j4ZSVfmF5Wf1lUzM7L) | 3:49 |
 | 17 | [رنة خلخال](https://open.spotify.com/track/4EqNT4pCDGVv2rC5Fd6NBO) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [رنة خلخال](https://open.spotify.com/album/0cze08hL6Iw0XbHwqVzwzR) | 3:31 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 61 | [Men Fouq](https://open.spotify.com/track/1ELjjmUDD8xTMIsUJ0cNWe) | [Ahmad Zmaili](https://open.spotify.com/artist/4ocVQVhOCz7s01n7K6xmrq) | [Men Fouq](https://open.spotify.com/album/3yTG7hFTp5jT8WuOqEgkus) | 3:44 |
 | 62 | [Felfel W Shatta](https://open.spotify.com/track/5ochjQf3Sm80KNIARwaqTi) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [Felfel W Shatta](https://open.spotify.com/album/3Jis71LRlNV1wR8BTkFyrL) | 3:01 |
 
-Snapshot ID: `MCw5NDM1MDhmYTdlYzYwNWMyMGE2ZDYwOTY5YWZiZGI3ZTZjMjI4MjRk`
+Snapshot ID: `MCwwYTRmYWI1NjVkY2VhNWVkNmFkMzMyOTFhYTMwNTUyODcxMjU0NTA3`

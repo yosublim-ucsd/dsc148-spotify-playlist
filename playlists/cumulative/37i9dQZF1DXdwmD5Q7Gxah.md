@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> have u heard \- mac demarco uses spotify\. cover: mac x eydress \#macdress
+> Hannah Jadagu's Aperture on repeat
 
-2,368 songs - 5 day 7 hr 10 min
+2,369 songs - 5 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,6 +1194,7 @@
 | [Let's Go to Trader Joe's](https://open.spotify.com/track/53owNluVt8f7tkgZ07YYuR) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Cinya Khan](https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz) | [Let's Go to Trader Joe's](https://open.spotify.com/album/5FbPldlRQIk9EMvrBD8CWr) | 2:36 | 2023-06-01 | 2023-07-12 |
 | [Let's Stay Inside](https://open.spotify.com/track/1UActoM8Vnkm9gWpyQ3B1q) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Let's Stay Inside](https://open.spotify.com/album/5rjIWveExGjmzfRXx2Ysw4) | 2:20 | 2020-04-24 | 2020-05-22 |
 | [Letter To An Old Poet](https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:07 | 2023-03-31 | 2023-04-15 |
+| [Letter To Myself](https://open.spotify.com/track/2spGThcYUc2QWuv3lThLx0) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 4:11 | 2023-08-22 |  |
 | [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-10-08 | 2022-12-08 |
 | [Level Head](https://open.spotify.com/track/5lBsVrEkjH2a76DG6ZFeLp) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Level Head](https://open.spotify.com/album/2ejrBQwJFtyCepDGw0KfKA) | 3:58 | 2020-11-18 | 2021-01-12 |
 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2021-06-11 | 2021-06-18 |
@@ -1242,7 +1243,7 @@
 | [Looking Out for You](https://open.spotify.com/track/1lpLrlyweOShEKXT1bpcDd) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/2dXtUoM9j3QbqvhlRy5LA2) | 2:59 | 2020-08-21 | 2020-11-11 |
 | [Loose](https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Loose](https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl) | 2:41 | 2022-02-23 | 2022-03-11 |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2023-01-06 | 2023-03-16 |
-| [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-17 |  |
+| [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-17 | 2023-08-23 |
 | [Lose](https://open.spotify.com/track/2w5QAzFA6bwErf3Xo05mQK) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Lose](https://open.spotify.com/album/3ZTQVeyP8qtTnjlp0XLWL9) | 3:16 | 2023-05-17 | 2023-05-25 |
 | [Loser](https://open.spotify.com/track/2xDqbLFSfHDlfpeUmJ4RwQ) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Loser](https://open.spotify.com/album/2gsPik2x7iO7kNb8vxHnRk) | 2:06 | 2022-03-18 | 2022-05-12 |
 | [Losing You](https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC) | 4:20 | 2021-03-06 | 2021-03-14 |

@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 194725,
       "name": "El Qalb Hab",
       "url": "https://open.spotify.com/track/1OUQcMVeT1YkcsMLIOj1Au"
@@ -7050,7 +7050,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 176411,
       "name": "Tushkar",
       "url": "https://open.spotify.com/track/6tUQtTSX7noC1VFOlaYfsl"
@@ -7486,6 +7486,28 @@
       "duration_ms": 124295,
       "name": "Ya Gamalak - Acoustic Version",
       "url": "https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel"
+    },
+    {
+      "album": {
+        "name": "Ya Ghazal",
+        "url": "https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a"
+      },
+      "artists": [
+        {
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+        },
+        {
+          "name": "Twyxx",
+          "url": "https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "Ya Ghazal",
+      "url": "https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44"
     },
     {
       "album": {
@@ -9718,28 +9740,6 @@
       "duration_ms": 112000,
       "name": "\u064a\u0627 \u0637\u064a\u0631 \u0627\u0644\u0633\u0646\u0648\u0646\u0648",
       "url": "https://open.spotify.com/track/7uJYDaD71XHFUCcm3CDOZV"
-    },
-    {
-      "album": {
-        "name": "\u064a\u0627 \u063a\u0632\u0627\u0644",
-        "url": "https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a"
-      },
-      "artists": [
-        {
-          "name": "Dina El Wedidi",
-          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
-        },
-        {
-          "name": "Twyxx",
-          "url": "https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG"
-        }
-      ],
-      "date_added": "2023-08-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241906,
-      "name": "\u064a\u0627 \u063a\u0632\u0627\u0644",
-      "url": "https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44"
     },
     {
       "album": {

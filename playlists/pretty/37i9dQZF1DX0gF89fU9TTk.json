@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 121744,
+  "num_followers": 121785,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGNiNjE3YjZlOGVlZmIwYTFhOGE4Yzc2ZmE3MWM2NzQ2MzUyMzZh",
+  "snapshot_id": "MCxhYzY4MjJlNmVjOTg1YjM2YTlmMzk2MjBjYWUzNDM0ZGIwNzY0Y2My",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+        "name": "Fire in My Bones",
+        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
       },
       "artists": [
         {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
         }
       ],
-      "duration_ms": 199573,
-      "name": "Pray It Up",
-      "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
+      "duration_ms": 272000,
+      "name": "Fire in My Bones",
+      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Fire in My Bones",
-        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Fire in My Bones",
-      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+      "duration_ms": 199573,
+      "name": "Pray It Up",
+      "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Won't Let Me Go",
-        "url": "https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 197675,
-      "name": "Won't Let Me Go",
-      "url": "https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Won't Let Me Go",
+        "url": "https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 197675,
+      "name": "Won't Let Me Go",
+      "url": "https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Love Running Wild",
         "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 201371,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "It's Coming",
+        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "duration_ms": 154305,
+      "name": "It's Coming",
+      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "I've Got A Fire",
         "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 218946,
       "name": "I\u2019ve Got A Fire",
       "url": "https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "It's Coming",
-        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
-      },
-      "artists": [
-        {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
-        }
-      ],
-      "duration_ms": 154305,
-      "name": "It's Coming",
-      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Canyon Worship 2021",
         "url": "https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 208204,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 204555,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "You Tell Me",
         "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 180600,
       "name": "You Tell Me",
       "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 204555,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX"
     },
     {
       "added_at": "2023-02-18 04:35:24",

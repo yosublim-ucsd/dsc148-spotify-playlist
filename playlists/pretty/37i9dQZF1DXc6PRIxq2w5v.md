@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Silas Magalhães
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,030 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,280 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 27 | [É Você](https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [É Você](https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX) | 3:51 |
 | 28 | [Juízo Final](https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Juízo Final](https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf) | 2:29 |
 | 29 | [Deixa Falarem](https://open.spotify.com/track/2CfJm3k7P31wkuORnFBYak) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Deixa Falarem](https://open.spotify.com/album/1h0TZwfa0mNfApgkZbHo4J) | 2:34 |
-| 30 | [Jesus Saves Bro](https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63) | [MARCO AZAUSKI](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k), [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Jesus Saves Bro](https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4) | 2:49 |
+| 30 | [Olho pro Céu](https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S) | [WC12](https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe), [Gemão](https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ) | [Olho pro Céu](https://open.spotify.com/album/34rhziCCOtspVNUED09xYb) | 3:48 |
 | 31 | [Vale da Sombra](https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Vale da Sombra](https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF) | 3:12 |
 | 32 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
-| 33 | [Olho pro Céu](https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S) | [WC12](https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe), [Gemão](https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ) | [Olho pro Céu](https://open.spotify.com/album/34rhziCCOtspVNUED09xYb) | 3:48 |
+| 33 | [Jesus Saves Bro](https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63) | [MARCO AZAUSKI](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k), [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Jesus Saves Bro](https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4) | 2:49 |
 | 34 | [Coração Quebrado](https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt) | [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SCampos](https://open.spotify.com/artist/35Ec0e31nIQQ67eQqK0dhZ) | [Coração Quebrado](https://open.spotify.com/album/349KT4LJKGKSgtajbT031W) | 2:02 |
 | 35 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH) | [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7), [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS) | 3:40 |
 | 36 | [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/track/5uazbSDG1BgLf8EMJypfNq) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Paracetamol \(Divisa de Fogo\)](https://open.spotify.com/album/4Bpp2LO4aQInjYsDnn6vfQ) | 2:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 79 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 |
 | 80 | [Uma Missão](https://open.spotify.com/track/2bxYiuNc2hYWkuzK5HrVcZ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Uma Missão](https://open.spotify.com/album/3v56SzOs0MHmJ8Vl273i41) | 2:48 |
 
-Snapshot ID: `MCwyYzY1ZTQ0YjllYzQwNzgxYjAyOWYzNmUxMGRmODllMTk2Yjk1OGUy`
+Snapshot ID: `MCxkMzg3ZDc4M2ZmNDhlZjZkMGZlZTMxOWIwOTE3NjZmZTU0YmU4YTZj`

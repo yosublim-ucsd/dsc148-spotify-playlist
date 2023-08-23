@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Sabrina Carpenter
 
-1,767 songs - 3 day 17 hr 34 min
+1,768 songs - 3 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [14](https://open.spotify.com/track/1AlbmEnnFgR9b4yCw9zkzf) | [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [14](https://open.spotify.com/album/6Y8manNCbK8DfkDFZrEQMh) | 3:28 | 2022-07-01 | 2022-07-08 |
 | [16](https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [16](https://open.spotify.com/album/2u5D7W8rZ1azEWJ02BX27P) | 2:45 | 2023-08-18 |  |
 | [1st](https://open.spotify.com/track/7ocjI38QtLM2Jk3ewzGh04) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [1st](https://open.spotify.com/album/3ar66R02DuMSuvw56H0Ivd) | 3:03 | 2023-02-03 | 2023-02-19 |
-| [1st Gen](https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [1st Gen](https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg) | 2:20 | 2023-08-11 |  |
+| [1st Gen](https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [1st Gen](https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg) | 2:20 | 2023-08-11 | 2023-08-23 |
 | [2 The Weekend](https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [2 The Weekend](https://open.spotify.com/album/3IjdYALpGG1oDMU0PRmFTw) | 2:35 | 2021-11-19 | 2022-03-12 |
 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 | 2022-09-23 | 2022-11-12 |
 | [20 Questions](https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL) | 2:59 | 2022-09-23 | 2022-10-14 |
@@ -425,6 +425,7 @@
 | [DON'T WANNA FEEL A SINGLE THING](https://open.spotify.com/track/4YclYSWapHdn8vgX7oiFez) | [SAVI MINDS](https://open.spotify.com/artist/2PPIKWhRLKnWL4HTip0Osd) | [DON'T WANNA FEEL A SINGLE THING](https://open.spotify.com/album/55MdLhIW8009bP54fhkQcU) | 3:40 | 2021-03-26 | 2021-11-20 |
 | [Don't You Worry](https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Don't You Worry](https://open.spotify.com/album/7gIkct34Wk2H6rGuk9w7yV) | 2:42 | 2022-07-29 | 2022-10-29 |
 | [Dont Do Drugs](https://open.spotify.com/track/1b14SMzflhKOtCtArKmBe7) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [Dont Do Drugs](https://open.spotify.com/album/09OKLPcbLNlEK1DhvZwJr4) | 1:44 | 2021-02-24 | 2021-03-22 |
+| [don’t shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [don't shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq) | 2:20 | 2023-08-18 |  |
 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-01-23 | 2021-11-10 |
 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-22 |  |
 | [Doses](https://open.spotify.com/track/7BuzrXNz1be3Ko6r77fGJK) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [Doses](https://open.spotify.com/album/0g8Vpwny9zWPCbZehp2OJn) | 3:12 | 2021-11-05 | 2022-01-29 |

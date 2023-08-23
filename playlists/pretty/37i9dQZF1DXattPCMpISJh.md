@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,930 likes - 99 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,049 likes - 99 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 20 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
 | 21 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Take Your Time \(Do It Right\)](https://open.spotify.com/album/5flGddeRshLt7jHLHUfQ4Z) | 4:02 |
 | 22 | [Feel The Groove](https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE) | [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Feel The Groove](https://open.spotify.com/album/7bOqJYBRGtDpx0NV5yuizR) | 4:43 |
-| 23 | [Muscle Memory](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 |
+| 23 | [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 |
 | 24 | [Sure Know Something \- Ladies on Mars Remix](https://open.spotify.com/track/1Hh1Pl8kSPgft3LVTh2zZ9) | [Javier Penna](https://open.spotify.com/artist/1cUBpGGDgNQZ3XZn4wIzpV), [DiscoRocks](https://open.spotify.com/artist/7nlUWRkv3L73cmbSwRVfmA), [Ladies On Mars](https://open.spotify.com/artist/6tJrp4FYVXfFRZ3oIBD4SU) | [Sure Know Something \(Ladies on Mars Remix\)](https://open.spotify.com/album/5rn9Uu4qsjJFFWPgcyjzdJ) | 3:54 |
 | 25 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Move](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
 | 26 | [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 98 | [Ticket to the Moon](https://open.spotify.com/track/1fXfLc7IUxBFUXWz63R7qy) | [Carvel'](https://open.spotify.com/artist/0I4uy2IXjgZo96j10CpaMf) | [Ticket to the Moon](https://open.spotify.com/album/5PuxGOFsboXuUmD8X7jShz) | 2:42 |
 | 99 | [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 |
 
-Snapshot ID: `MCxhZTUxMWY4NjgzYTUzZGM3ZjQyMjlhMzIzNTU0ZWZhZGNmYzUzNDM4`
+Snapshot ID: `MCw0ZTZiNjY4NzM2ZmMzNTYyYTE4OWM3NTdiYzEyOTU0ZjcwYzNlNzYw`

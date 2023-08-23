@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-206 songs - 12 hr 23 min
+207 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Piropo](https://open.spotify.com/track/70i8ZsGgXVBelUmsHXddDJ) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/5dYAPQdnmtlneTu9U468sx) | 3:08 | 2022-06-03 | 2022-07-29 |
 | [Placer y Olvido](https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Placer y Olvido](https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm) | 3:53 | 2022-04-15 |  |
 | [Por Qué Te Vas?](https://open.spotify.com/track/16A2PqIXMWuiHnzW5GLG9n) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Por Qué Te Vas?](https://open.spotify.com/album/4a3P8A0wjzFeF8u2JBnOlR) | 4:11 | 2022-06-17 | 2022-07-12 |
-| [Porqué Les Mientes](https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Un Nuevo Desafío](https://open.spotify.com/album/7vlYe0SeAaPzRS3ehgtq18) | 3:40 | 2022-09-02 |  |
+| [Porqué Les Mientes](https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Un Nuevo Desafío](https://open.spotify.com/album/7vlYe0SeAaPzRS3ehgtq18) | 3:40 | 2022-09-02 | 2023-08-23 |
 | [Porqué Les Mientes](https://open.spotify.com/track/752j9FabixCNPWHU2nByil) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Un Nuevo Desafío](https://open.spotify.com/album/6FFl7UY3UxwLgXIm0rbHM4) | 3:40 | 2022-06-17 | 2022-06-27 |
 | [Privado de la Libertad](https://open.spotify.com/track/22Kg1EgpBn47gi6mO8eWe4) | [Yuli y Los Girasoles](https://open.spotify.com/artist/3WN801ZTlM5MxIpircGrsO) | [Tropibaile Santafesino, Vol\. 6](https://open.spotify.com/album/4CTo8Azvk9es5d3Hb6I5Ev) | 4:04 | 2022-06-17 | 2022-07-02 |
 | [Que Precio Tiene El Cielo](https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB) | [Cómo Le Gusta A Mi Gente](https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg) | 4:13 | 2022-04-15 |  |
@@ -173,6 +173,7 @@
 | [Si fuera facil](https://open.spotify.com/track/6hoFH9KbFCBdig0yu63qqF) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [A partir de hoy](https://open.spotify.com/album/51gM8lfnYGVnG2NSIhr8Hh) | 3:40 | 2022-04-15 | 2022-07-29 |
 | [Si fuera facil](https://open.spotify.com/track/7sQ8I72tbcO6fkEnM1Mu3D) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [A partir de hoy](https://open.spotify.com/album/3COzpskhC6ZoWYzNiW5oBI) | 3:40 | 2022-07-15 |  |
 | [Si Me Ves Llorar por Ti](https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Después de Tí, Que](https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX) | 3:55 | 2022-04-15 |  |
+| [Si Te Agarran Las Ganas](https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Si Te Agarran Las Ganas](https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz) | 3:59 | 2023-08-22 |  |
 | [Si Tu No Estas](https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl) | [Sergio Torres y Los Dueños Del Swing](https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT) | [A Pura Sangre](https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz) | 4:54 | 2022-06-03 | 2022-07-27 |
 | [Sobreviviendo](https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Los Más Grandes Éxitos](https://open.spotify.com/album/4Eh3Fgofkkc7xpMyKFZYQA) | 3:05 | 2022-04-15 | 2023-03-12 |
 | [Sobreviviendo](https://open.spotify.com/track/2ca7BrKnsQd0iSSkEI9CFY) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Los Mas Grandes Exitos](https://open.spotify.com/album/2A4irFl71OjqxE0x6FNO0T) | 3:05 | 2023-03-03 |  |

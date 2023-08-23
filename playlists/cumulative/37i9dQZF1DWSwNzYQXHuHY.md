@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-183 songs - 10 hr 19 min
+184 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-05-11 |  |
 | [Dear you](https://open.spotify.com/track/6wXol6WSwpggIhNvAnQ0bo) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [Herz Catalog \- Dear you](https://open.spotify.com/album/4WWdD5bdBlHrFeSeXaTovt) | 3:15 | 2022-05-11 | 2022-07-29 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-22 |  |
-| [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 | 2022-08-12 |  |
+| [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 | 2022-08-12 | 2023-08-23 |
 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 | 2022-05-11 |  |
 | [Don’t](https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The Hyena on the Keyboard, Pt\. 4](https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77) | 3:51 | 2022-07-08 |  |
 | [Don’t](https://open.spotify.com/track/6KyafpXji3NKMmlmSokT9Y) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The Hyena on the Keyboard Pt\. 4](https://open.spotify.com/album/2fMMk4DD96UcAmSczUQ0kq) | 3:51 | 2022-05-11 | 2022-07-29 |
@@ -129,6 +129,7 @@
 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 | 2022-05-11 | 2022-08-15 |
 | [see you](https://open.spotify.com/track/5qwogqCsf0RDUVzywwlfzI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:15 | 2022-05-11 | 2022-07-26 |
 | [See You Again](https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:44 | 2022-05-11 | 2023-08-06 |
+| [See You Again](https://open.spotify.com/track/27cNK2poLalhyeWJbxQq5q) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:47 | 2023-07-17 |  |
 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 | 2022-05-11 |  |
 | [Should not love you \(Part.2\)](https://open.spotify.com/track/49EViTtQ88ssFquryh5e9C) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Should not love you \(Part.2\)](https://open.spotify.com/album/7kvX7N3RNIJlBbuUvP92n2) | 2:42 | 2022-06-18 | 2022-07-29 |
 | [Shutter \(feat\. Kinn\)](https://open.spotify.com/track/1hisjif3DM0ITkDTdrRrao) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo) | [Shutter](https://open.spotify.com/album/1WdDr0SPN5osJNzKJB6RKl) | 3:03 | 2022-06-09 | 2022-07-22 |

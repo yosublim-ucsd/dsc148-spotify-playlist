@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Sadie Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,225 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,277 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [You Don't Want Me Like That](https://open.spotify.com/track/76Wj2KvSG3gyLiXgFUWucp) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [It's Not Me, It's U](https://open.spotify.com/album/51JfCCJWRzvLYB4KAzLM1g) | 2:38 |
 | 99 | [The Hype](https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/7wl14HB2GYgR6ptsVuLq8z) | 3:34 |
 
-Snapshot ID: `MCwzOWQ0YjczNzEyNzRkZmQ2M2UzMDhjZmExMDY0YWI3NTE0NDg4ZjVi`
+Snapshot ID: `MCxlNzQxNjdkYWYzZGU3NDE0MGYzZTY2ZmE3ZGE2ZTNjYzAyOGY5Njk3`

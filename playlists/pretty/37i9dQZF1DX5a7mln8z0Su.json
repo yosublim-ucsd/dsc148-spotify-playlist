@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5981,
+  "num_followers": 5987,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmY3OWVhYWM5NWUyNjFiZWZmZGNkZWY4OWQzZThhOTIwN2I3OTRj",
+  "snapshot_id": "MCw5ZmMyMTI4MzI1NTkxZmY2OGU0NmRkZGQwYjVlZjM4NGU3MzMxOTAw",
   "tracks": [
     {
       "added_at": "2023-07-31 16:06:49",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-07-31 16:06:49",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 262394,
-      "name": "Sad ending (Feat. george)",
-      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
-    },
-    {
-      "added_at": "2023-07-31 16:06:49",
-      "album": {
         "name": "Je N\u2032aime Que Toi",
         "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
       },
@@ -571,22 +551,22 @@
     {
       "added_at": "2023-07-31 16:06:49",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         },
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 225320,
-      "name": "Take Me (with 11Kitties)",
-      "url": "https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ"
+      "duration_ms": 262394,
+      "name": "Sad ending (Feat. george)",
+      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
       "added_at": "2023-07-31 16:06:49",
@@ -611,6 +591,26 @@
       "duration_ms": 254826,
       "name": "To us (feat. wave to earth & WAVY)",
       "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
+    },
+    {
+      "added_at": "2023-07-31 16:06:49",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Take Me (with 11Kitties)",
+      "url": "https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ"
     },
     {
       "added_at": "2023-07-31 16:06:49",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-07-31 16:06:49",
       "album": {
-        "name": "I thought it was love.",
-        "url": "https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW"
-      },
-      "artists": [
-        {
-          "name": "Sagong",
-          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "I thought it was love.",
-      "url": "https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU"
-    },
-    {
-      "added_at": "2023-07-31 16:06:49",
-      "album": {
         "name": "3 STEPS FORWARD, 2 STEPS BACK",
         "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 293754,
       "name": "Thread(1.11)",
       "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
+    },
+    {
+      "added_at": "2023-07-31 16:06:49",
+      "album": {
+        "name": "I thought it was love.",
+        "url": "https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW"
+      },
+      "artists": [
+        {
+          "name": "Sagong",
+          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "I thought it was love.",
+      "url": "https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU"
     },
     {
       "added_at": "2023-07-31 16:06:49",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-07-31 16:06:49",
       "album": {
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Smile, Wait For The Flash",
+      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
+    },
+    {
+      "added_at": "2023-07-31 16:06:49",
+      "album": {
         "name": "Like a Diamond",
         "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 196586,
       "name": "Like a Diamond (With. Stella Jang)",
       "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
-    },
-    {
-      "added_at": "2023-07-31 16:06:49",
-      "album": {
-        "name": "Like A Film : 4 Songs",
-        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Smile, Wait For The Flash",
-      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
     },
     {
       "added_at": "2023-07-31 16:06:49",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-07-31 16:06:49",
       "album": {
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/23iaZgx8uWzU3Ue5Ont2dX"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/5ioe7m0R08brQejeajiGJN"
+    },
+    {
+      "added_at": "2023-07-31 16:06:49",
+      "album": {
         "name": "Space science",
         "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 233170,
       "name": "Space science",
       "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
-    },
-    {
-      "added_at": "2023-07-31 16:06:49",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

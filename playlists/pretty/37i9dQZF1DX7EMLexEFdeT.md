@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 
 > Did you hear that?
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,286 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,408 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 33 | [If I Had a Heart](https://open.spotify.com/track/3eJyXwiYepWvEDKABhm7lL) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Fever Ray](https://open.spotify.com/album/019nA7vSKz0dD5yRKYRpbM) | 3:49 |
 | 34 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 |
 | 35 | [Violence \- Original Mix](https://open.spotify.com/track/3KeOFns3LGJuh1lapMm9eA) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 3:40 |
-| 36 | [That Other Girl](https://open.spotify.com/track/04Mr5jeXzPFnEQUPtPzRVP) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Suspended Kid](https://open.spotify.com/album/0TT7gSYro7GSKZwUlPefBf) | 3:02 |
+| 36 | [That Other Girl](https://open.spotify.com/track/7s5selV4TtrbqcL5LSZFBI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Suspended Kid](https://open.spotify.com/album/6fxq6rO03F1ElbvfVkJhzY) | 3:02 |
 | 37 | [Spellwork](https://open.spotify.com/track/5ww5lzQmXVaEmVJXCtFR4J) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Feel It Break](https://open.spotify.com/album/5Q4twEkKreQ54pnMSBKYrU) | 5:09 |
 | 38 | [Black Magic](https://open.spotify.com/track/2fMUHAZoqHjscGlC8NVzqX) | [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Jarvis \(2020 Complete Edition\)](https://open.spotify.com/album/6VNKKb04mPaPPLE8fmMRAP) | 4:23 |
 | 39 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 74 | [The Hunger](https://open.spotify.com/track/7l9yrvHssOAcOUcrV39lQX) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 4:59 |
 | 75 | [Easy \(Switch Screens\) \[feat\. Lorde\]](https://open.spotify.com/track/2mKply9i2G0MVrkNSY0m5x) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Alternate Worlds](https://open.spotify.com/album/7fRSmnWeRIFZCZ1Ng2m5m7) | 4:22 |
 
-Snapshot ID: `MCw4OGU2NWUwM2MwZmRmOGIwNzU4MzIzNTg5MzllZjM0OTg1OTYzYjdh`
+Snapshot ID: `MCxhNDk0MzNiNWRlMzlkN2YyYWI2MDEwZWU2ZDQ0NjFjMzFkYTJjZThk`

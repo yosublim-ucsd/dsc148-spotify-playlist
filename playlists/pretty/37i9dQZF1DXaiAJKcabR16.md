@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,999 likes - 64 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,115 likes - 64 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 27 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
 | 28 | [Little Red Rooster](https://open.spotify.com/track/06PsyBBc0YCQhGNlfPZ1SS) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Bad for Me \- EP](https://open.spotify.com/album/176IZWTuFw7Ei2n3OtUl4p) | 3:21 |
 | 29 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
-| 30 | [Missing At Sea](https://open.spotify.com/track/0xgm9ojDGh01nTsreKg0oL) | [Maggie Bjorklund](https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0) | [Shaken](https://open.spotify.com/album/4vxZh8neUimC0CcU5LtLQe) | 3:38 |
+| 30 | [Missing At Sea](https://open.spotify.com/track/5sl4vbpw5HWnUF2Qup8g83) | [Maggie Bjorklund](https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0) | [Shaken](https://open.spotify.com/album/2pCIBMk287dtzjGTqYPVDf) | 3:38 |
 | 31 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 |
 | 32 | [Slow Coming](https://open.spotify.com/track/6GFVx3gX6wY93AuWlQi2Zk) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu) | 4:31 |
 | 33 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 63 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
 | 64 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
 
-Snapshot ID: `MCxiZmUxODc5N2I1ZmJmNWFiYTQ5MWZiMGU4ODM4ODE2NDZiYzljOWJh`
+Snapshot ID: `MCxjNDEyNTQ3NzEzMTc0MWRhODI3ODQ2M2JiY2NkNTI5MjkzZmY5NDQw`

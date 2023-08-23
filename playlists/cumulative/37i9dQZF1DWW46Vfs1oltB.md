@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Sik\-K\)
 
-961 songs - 2 day 4 hr 55 min
+963 songs - 2 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Alone \(Feat\. LeeHi\)](https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [ALONE](https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP) | 2:59 | 2022-06-27 | 2022-12-20 |
 | [Alright \(feat\. pH\-1, HAON & Jay Park\)](https://open.spotify.com/track/4e1o6BLtgFcDbaXEF1W6mA) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [POP A LOT](https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf) | 3:10 | 2023-08-09 |  |
 | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/5nt7HzeKaxAp6Gh4fZoqMm) | 3:01 | 2021-12-21 | 2022-07-04 |
+| [answer m3](https://open.spotify.com/track/7mmsUcFkp1mwTDFHHl4nuF) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [ITULT](https://open.spotify.com/album/6JnnOgTI2O8X2UOMI83TLK) | 3:01 | 2023-08-22 |  |
 | [Antisocial \(Prod\. Mokyo\)](https://open.spotify.com/track/5FFWhDhJe9u9y4l8qkz4LR) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [bimil:ier vol.3 "Antisocial \(Prod\. Mokyo\)"](https://open.spotify.com/album/1nCv396FdEoEd2T5OSWPL6) | 3:35 | 2021-12-18 | 2022-07-08 |
 | [Ape Freestyle \- Spotify Singles](https://open.spotify.com/track/5yV2rps3tcEwxhuYZRJ38k) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [Spotify Singles](https://open.spotify.com/album/21hyerYXEXL0rLnagGfTZ0) | 5:30 | 2023-03-24 |  |
 | [Apocalypse Prod\. PEEJAY](https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Apocalypse](https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r) | 2:16 | 2023-07-17 |  |
@@ -138,6 +139,7 @@
 | [Call Me Up \(Feat\. Claire Hau\)](https://open.spotify.com/track/7kbNPLs7bvIkywVodFz3g5) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:22 | 2022-07-14 | 2022-10-15 |
 | [CAME](https://open.spotify.com/track/0ggujxroa3Llaye8P9jXP1) | [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f) | [CAME](https://open.spotify.com/album/6wbc7OeyMOtJhQhYgjjxNE) | 3:04 | 2022-01-24 | 2022-05-06 |
 | [Can't Stop](https://open.spotify.com/track/1lT1g1DGPZTRCexN8IQU3Y) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [Can't Stop](https://open.spotify.com/album/0cVojoCmTL5yCISn9QetGv) | 1:59 | 2022-12-09 | 2022-12-20 |
+| [care4u](https://open.spotify.com/track/5FSTzoypjKQHjwBc21tNii) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [ITULT](https://open.spotify.com/album/6JnnOgTI2O8X2UOMI83TLK) | 2:31 | 2023-08-22 |  |
 | [Carpe Diem \(feat\. SILKYBOIS\)](https://open.spotify.com/track/4B8F8POgJcQBlAxX4WePJF) | [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy), [SILKYBOIS](https://open.spotify.com/artist/19e5d7VkNQCFklPG8Iqdy5) | [YUNHWAY](https://open.spotify.com/album/0BcZ5qFXpawQWUXSElCEC8) | 4:09 | 2023-06-30 |  |
 | [Cassie \($\) \(prod\. PEEJAY\)](https://open.spotify.com/track/5WpbLx20bl49MQkgIZPDRr) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Cassie \($\)](https://open.spotify.com/album/15koRgGCVhinzEUlcMGGaG) | 3:00 | 2022-09-19 | 2022-10-27 |
 | [Catch \(Feat\. Hwa Sa\)](https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Strawberry](https://open.spotify.com/album/0aLrrsoWsk0NtEb2se2Ugd) | 3:44 | 2023-02-01 | 2023-07-18 |

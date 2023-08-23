@@ -6,7 +6,7 @@
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzQ0OCxhZTdmNDk5ZGFhNzFmNDY3NTEwYWY0MjUxOTI1ZDZjN2M3ZGY4ZGVk",
+  "snapshot_id": "MzQ1MSw4YjBlZGFiOWQ3NDM5MDg1NDA5NTljMWQ1NjgzOTgwZmFlNTIyNDc4",
   "tracks": [
     {
       "added_at": "2023-08-14 14:09:37",
@@ -23,6 +23,22 @@
       "duration_ms": 249261,
       "name": "Push Power ( a 1 )",
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+    },
+    {
+      "added_at": "2023-08-22 17:31:08",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2023-08-09 19:18:01",
@@ -147,30 +163,6 @@
       "duration_ms": 436484,
       "name": "You Knew",
       "url": "https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR"
-    },
-    {
-      "added_at": "2023-08-17 19:52:57",
-      "album": {
-        "name": "Make You Scream (Dixon & Trikk \u201cTri/xon\u201d Rework)",
-        "url": "https://open.spotify.com/album/2t9qkkA68nFt1Yt4qEUmG7"
-      },
-      "artists": [
-        {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
-        },
-        {
-          "name": "Dixon",
-          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
-        },
-        {
-          "name": "Trikk",
-          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
-        }
-      ],
-      "duration_ms": 352640,
-      "name": "Make You Scream - Dixon & Trikk \u201cTri/xon\u201d Rework",
-      "url": "https://open.spotify.com/track/2WJQSM4Uoo2FoD3S54b24z"
     },
     {
       "added_at": "2023-08-17 19:50:49",

@@ -1,12 +1,12 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 106899,
+  "num_followers": 106967,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmY3YzMwMWEzZmY1NTI3MjJjMGNmYmY3OTBjZTNiYWIwZTBhNDNk",
+  "snapshot_id": "MCxiYTRhN2JkODAxN2E5ODEwMjhiYjE4YzM2MTY2OWQ1N2YwMTRmOTk4",
   "tracks": [
     {
       "added_at": "2023-08-07 07:42:12",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-07 07:42:12",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 161061,
-      "name": "Sahnewal",
-      "url": "https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE"
-    },
-    {
-      "added_at": "2023-08-07 07:42:12",
-      "album": {
         "name": "Do Gabru - Diljit Dosanjh & Akhil",
         "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 198783,
       "name": "Raat Di Gedi",
       "url": "https://open.spotify.com/track/52rRjGjdTwlDIKXjTLKAv9"
+    },
+    {
+      "added_at": "2023-08-07 07:42:12",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 161061,
+      "name": "Sahnewal",
+      "url": "https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE"
     },
     {
       "added_at": "2023-08-07 07:42:12",

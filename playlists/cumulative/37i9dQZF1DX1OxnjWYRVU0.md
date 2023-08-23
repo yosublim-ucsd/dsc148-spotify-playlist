@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-426 songs - 18 hr 51 min
+427 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Hot N Cold](https://open.spotify.com/track/0OhjBQAvTFeMoWwNPcLf6w) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [MØRFI](https://open.spotify.com/artist/2HVE2wrkIHJF8af1iWqEV1), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Hot N Cold](https://open.spotify.com/album/1Saq4AweRx1F2iRrnnswqS) | 2:25 | 2022-01-13 |  |
 | [Hotel California](https://open.spotify.com/track/56FOP0LLQzpsNmtoCAA1z8) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [Hotel California](https://open.spotify.com/album/5JPCvzDf80cAPSvHkPBRdM) | 2:14 | 2022-01-13 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/2OhhNGnu3nMZ7oLzECqZ0P) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [How Deep Is Your Love](https://open.spotify.com/album/6xJZMrpehtWT0cvA3IbvYq) | 2:31 | 2022-06-30 |  |
-| [How You Samba](https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH) | 2:31 | 2023-05-23 |  |
+| [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 | 2023-06-29 |  |
+| [How You Samba](https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH) | 2:31 | 2023-05-23 | 2023-08-23 |
 | [Hymn](https://open.spotify.com/track/22xDdf0JS0VXF2M71dRBQ1) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Hymn](https://open.spotify.com/album/0MTks76jsqF6eno3qwiDs1) | 2:34 | 2022-01-13 |  |
 | [I Don't Care](https://open.spotify.com/track/1pvIVEBrRjkiQM4rwDMDe8) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Milan Gavris](https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ) | [I Don't Care](https://open.spotify.com/album/2lAylOKJNQd6xEWr30a0E4) | 2:48 | 2022-08-05 |  |
 | [I Need a Dollar](https://open.spotify.com/track/1K0EwhqcFCaqMxo4jvjOfj) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [I Need a Dollar](https://open.spotify.com/album/7LkjHIlfq36eKOfpVzg55S) | 2:32 | 2022-01-13 |  |

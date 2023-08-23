@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Yeek & Paris Texas make anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,130 likes - 63 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,112 likes - 63 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 15 | [RAGE ROVER](https://open.spotify.com/track/3wqrGgcedJaDKpnIlqpYGn) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull \(STAMINA\)](https://open.spotify.com/album/6kfpQAQYgHw6Xz5B5oiqTg) | 5:58 |
 | 16 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
 | 17 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
-| 18 | [Fever Dream](https://open.spotify.com/track/0txlDJFyFsaJUmIyepnlbw) | [Dutchess](https://open.spotify.com/artist/3bVJut6HXzKIShxCFKK394), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT), [Skofee](https://open.spotify.com/artist/3WTOG7w0dyNnKAyoqNxzzg), [Zoe Alex](https://open.spotify.com/artist/2zm4VKMeQmF4TI3RPaJt5q) | [Fever Dream](https://open.spotify.com/album/6iJ1IBlwrBFUgK5wK06a3a) | 2:09 |
+| 18 | [Fever Dream](https://open.spotify.com/track/0txlDJFyFsaJUmIyepnlbw) | [Dutchess](https://open.spotify.com/artist/3bVJut6HXzKIShxCFKK394) | [Fever Dream](https://open.spotify.com/album/6iJ1IBlwrBFUgK5wK06a3a) | 2:09 |
 | 19 | [getting older](https://open.spotify.com/track/4ojKgnQLWOCKfqqcYsLH1m) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [getting older](https://open.spotify.com/album/7kAwfOc0datHwSXfdvzH0s) | 2:26 |
 | 20 | [catf!sh](https://open.spotify.com/track/3x3ydOm1TkkcqUCYilv5Rj) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [catf!sh](https://open.spotify.com/album/0iNZJ0983ETyZpISvkILuz) | 2:55 |
 | 21 | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ) | 4:11 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 62 | [Sports](https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Sports](https://open.spotify.com/album/3O9r5PoJDRmhHHuH4NDsv6) | 3:01 |
 | 63 | [sunset blvd](https://open.spotify.com/track/4RN4a0h7o3Cxv2mJSHxKJ2) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [sunset blvd](https://open.spotify.com/album/5Jdnp7iYU4QlKkdMoKn0DR) | 2:12 |
 
-Snapshot ID: `MCw2NTFkNzdkN2NkYjg1YzkyNWNjOTkzYzEwYWEyOTMwY2FhNDBiOWFj`
+Snapshot ID: `MCxkODU0OTZhYWVjODhkNjg5MDJmYmRkYjlhZTM5ZDdlZDllMjM5NWE3`

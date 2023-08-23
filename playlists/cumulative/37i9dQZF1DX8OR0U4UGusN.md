@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-261 songs - 14 hr 21 min
+262 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Losing Touch](https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2) | 3:55 | 2021-12-14 | 2022-10-13 |
 | [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 | 2022-10-06 |  |
 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 | 2021-12-14 | 2022-04-21 |
-| [Magic City](https://open.spotify.com/track/3YJS5rTnXPsQgzZyIyC3Xw) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [Magic City](https://open.spotify.com/album/1HTYkylMaJEJzTeDCGfjt8) | 2:24 | 2023-08-09 |  |
+| [Magic City](https://open.spotify.com/track/3YJS5rTnXPsQgzZyIyC3Xw) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [Magic City](https://open.spotify.com/album/1HTYkylMaJEJzTeDCGfjt8) | 2:24 | 2023-08-09 | 2023-08-23 |
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-08-05 |  |
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-08-05 | 2023-01-27 |
 | [Malibu](https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Malibu](https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc) | 1:32 | 2021-11-12 |  |
@@ -174,6 +174,7 @@
 | [New Romance](https://open.spotify.com/track/5ZhBx7W9rigl2vuRdT27rq) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/4uGklcCyzOko2IOYtMzUNg) | 4:12 | 2021-12-14 | 2022-07-29 |
 | [Nightshift](https://open.spotify.com/track/7y6CCgj3BK8zgqK0mG6R2X) | [Stas](https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG) | [Full Moon](https://open.spotify.com/album/2RGlc4VhcmNh3iMMi4pcwJ) | 3:25 | 2021-08-05 | 2022-07-27 |
 | [no me falta nada](https://open.spotify.com/track/6yiH4fLImaQ6LTm4uQx3ok) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [las horas](https://open.spotify.com/album/5b6bKtGLb4uC2Q9ANT53Yu) | 3:35 | 2021-12-16 | 2022-04-21 |
+| [Oh! Frenchy](https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh) | [Mosie](https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql) | [Tangerine](https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p) | 3:54 | 2023-08-09 |  |
 | [omomo punk](https://open.spotify.com/track/5ybZNG4saSghgCiTP2GUKe) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [omomo punk](https://open.spotify.com/album/2Tdd4X4XkZLc9dS4Q8b07Y) | 3:13 | 2022-12-15 | 2023-01-27 |
 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 | 2021-12-14 |  |
 | [On My Way](https://open.spotify.com/track/78hgoPBLpMcv7Kth2TgqeA) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [FENGSEL](https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq), [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg) | [Dotted Red](https://open.spotify.com/album/5TrQ9hmwpTTC8EdzsovHom) | 2:23 | 2023-08-09 |  |

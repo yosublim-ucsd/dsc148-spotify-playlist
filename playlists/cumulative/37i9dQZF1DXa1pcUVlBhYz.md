@@ -2,7 +2,7 @@
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
-> Electronic + Dance making waves, every month.
+> Electronic + Dance making waves, every month\. Cover: HoneyLuv & Cakes da Killa
 
 293 songs - 17 hr 36 min
 

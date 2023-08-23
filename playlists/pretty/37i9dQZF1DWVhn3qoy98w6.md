@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Alba Messa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,494 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,500 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Chica cadáver](https://open.spotify.com/track/2YyBpGYK158dPmbzkv1oXe) | [Los Yolos](https://open.spotify.com/artist/6Q1inMUu76E70DvimdPQ2P) | [Chica cadáver](https://open.spotify.com/album/6VAsqzNTrQ45ssMEzG81Hz) | 4:46 |
 | 50 | [Hazlo por mí](https://open.spotify.com/track/0CtqnRm2lmexMtrZPuoH1n) | [natxo](https://open.spotify.com/artist/6P7AHRoOhZJBgVjOuPL64R) | [Hazlo por mí](https://open.spotify.com/album/7LujROyFpj1AMgm5ExCo7o) | 2:44 |
 
-Snapshot ID: `MCwwMGZhYTZhYWQzODg3MzI3ZjY1NzIyZThlOGVlN2I0MTE1ZmEyMTMx`
+Snapshot ID: `MCxiY2M2ZjVhZjA2ZGU2Mjk5ZjE5ZjYzYTg3M2U4OWNiODEwNzE4OGJj`

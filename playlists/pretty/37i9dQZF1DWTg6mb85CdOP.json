@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! \u00bfA qui\u00e9n no te vas a perder? ",
-  "num_followers": 11737,
+  "num_followers": 11739,
   "original_name": "Carnaval de Bahidor\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmZhYmZhMmVkZDg3YTBjZDE0YzdlYjZmZDIzOTkyMzg0NmIxMzJl",
+  "snapshot_id": "MCwyMjQ4OGRkM2EyYTc3MjVmMDg3Nzg2OWE0ZGNlMWQyOGM1NmUzNDlk",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm"
+      },
+      "artists": [
+        {
+          "name": "John Talabot",
+          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Last Land",
+      "url": "https://open.spotify.com/track/0KSwrR8ECWa14O5OAqG36N"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Una Pena",
         "url": "https://open.spotify.com/album/4KHVqwTF2jO1gTYHATQVMM"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 271349,
       "name": "Diving into Minds",
       "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm"
-      },
-      "artists": [
-        {
-          "name": "John Talabot",
-          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
-        }
-      ],
-      "duration_ms": 263266,
-      "name": "Last Land",
-      "url": "https://open.spotify.com/track/0KSwrR8ECWa14O5OAqG36N"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "The Fall LP",
         "url": "https://open.spotify.com/album/6LjyBYb3dxHNye7nh3RJVX"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 208000,
       "name": "Go Getter",
       "url": "https://open.spotify.com/track/2B2xe6uFtE85JxHf6bebSq"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "DJ-Kicks (DJ Koze) [DJ Mix]",
+        "url": "https://open.spotify.com/album/7JNYFo117kRhhbuz4ko8yw"
+      },
+      "artists": [
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/64PiD6gdmMy2lEgS5XgdjR"
+        },
+        {
+          "name": "L_cio",
+          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
+        }
+      ],
+      "duration_ms": 415373,
+      "name": "Surrender (Kosi Edit) - mixed",
+      "url": "https://open.spotify.com/track/6FgR5OMkiy3n8tGs6unXj3"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "The Only Way Out Is In",
         "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 271026,
       "name": "Outta Sync",
       "url": "https://open.spotify.com/track/2wm9AJooKGLfR6QC8TTojp"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "DJ-Kicks (DJ Koze) [DJ Mix]",
-        "url": "https://open.spotify.com/album/7JNYFo117kRhhbuz4ko8yw"
-      },
-      "artists": [
-        {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/64PiD6gdmMy2lEgS5XgdjR"
-        },
-        {
-          "name": "L_cio",
-          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
-        }
-      ],
-      "duration_ms": 415373,
-      "name": "Surrender (Kosi Edit) - mixed",
-      "url": "https://open.spotify.com/track/6FgR5OMkiy3n8tGs6unXj3"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Ruise\u00f1or en su tinta",
-        "url": "https://open.spotify.com/album/4H24kwEBnj5HXFqojqTl9q"
-      },
-      "artists": [
-        {
-          "name": "Ruise\u00f1or",
-          "url": "https://open.spotify.com/artist/58QcmTFKcNJrvRAZxuadGD"
-        }
-      ],
-      "duration_ms": 215849,
-      "name": "Te invito a santiago con Leinadh",
-      "url": "https://open.spotify.com/track/5WTn6NbKBQRXiiAtkqFOCc"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "My Sentient Shadow",
         "url": "https://open.spotify.com/album/09Bd5Q7D4hBS5XuRHL1VhB"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 314306,
       "name": "Foreign to You (feat. NiQ E)",
       "url": "https://open.spotify.com/track/5USp6KjDcrgiXX57i27Tpd"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Ruise\u00f1or en su tinta",
+        "url": "https://open.spotify.com/album/4H24kwEBnj5HXFqojqTl9q"
+      },
+      "artists": [
+        {
+          "name": "Ruise\u00f1or",
+          "url": "https://open.spotify.com/artist/58QcmTFKcNJrvRAZxuadGD"
+        }
+      ],
+      "duration_ms": 215849,
+      "name": "Te invito a santiago con Leinadh",
+      "url": "https://open.spotify.com/track/5WTn6NbKBQRXiiAtkqFOCc"
     },
     {
       "added_at": "2023-02-03 06:30:00",

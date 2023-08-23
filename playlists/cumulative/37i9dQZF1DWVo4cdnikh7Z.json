@@ -10015,6 +10015,32 @@
     },
     {
       "album": {
+        "name": "Moruniye (From \"Chandramukhi 2\")",
+        "url": "https://open.spotify.com/album/6wBa9kXZ3zUrqyaSsQA3zz"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Harika Narayan",
+          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267184,
+      "name": "Moruniye (From \"Chandramukhi 2\")",
+      "url": "https://open.spotify.com/track/03UhIaH494YG0RCiKnMj2O"
+    },
+    {
+      "album": {
         "name": "The Legend (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N"
       },

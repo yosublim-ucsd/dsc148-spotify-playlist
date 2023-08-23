@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Johnny Sky",
-  "num_followers": 1916622,
+  "num_followers": 1916772,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjNhMmU4Zjk3ZjYzNzBjNzU4ZDgzMmM5ZmJiOGFjODQ2NGM0ZmI0",
+  "snapshot_id": "MCw4NDJmMGYwNmE5OWMwYTQ2ZTc5MmFiNDc0YTYzYWI5MTVmNGEzOTE1",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Quiero Ser Tu Amor",
+        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Amigos (con Maria Becerra) [Bachata]",
         "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Quiero Ser Tu Amor",
-        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
         }
       ],
-      "duration_ms": 207200,
-      "name": "HASTA QUE LA MUERTE NOS SEPARE",
-      "url": "https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP"
+      "duration_ms": 220645,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
       "artists": [
         {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 220645,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0"
+      "duration_ms": 207200,
+      "name": "HASTA QUE LA MUERTE NOS SEPARE",
+      "url": "https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Consuelo",
-        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
+        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
       },
       "artists": [
         {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 164093,
-      "name": "Consuelo",
-      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
-        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
+        "name": "Consuelo",
+        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
         }
       ],
-      "duration_ms": 257186,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH"
+      "duration_ms": 164093,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Devu\u00e9lveme Mi Libertad",
         "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
       },
@@ -1691,26 +1707,6 @@
       "duration_ms": 216555,
       "name": "Quien de los Dos",
       "url": "https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Lost in the Music",
-        "url": "https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf"
-      },
-      "artists": [
-        {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF"
     },
     {
       "added_at": "2023-08-11 04:00:00",

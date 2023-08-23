@@ -2,7 +2,7 @@
 
 ### [creme](https://open.spotify.com/playlist/37i9dQZF1DX7f8PyAQL3rz)
 
-> Show e revoada com GR6 no dia 20 de agosto \(Domingo\) em SP, cola <a href="https://www.ingresse.com/spotify\-creme/">aqui</a>\. / a cara do crime 4 esquece
+> a cara do crime 4 esquece
 
 217 songs - 12 hr 35 min
 

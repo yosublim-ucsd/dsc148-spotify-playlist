@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Sofía Campos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,652 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,672 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 34 | [Nuestro Infierno](https://open.spotify.com/track/6NYdSKNwP2IfU0HGSjexVB) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Nuestro Infierno](https://open.spotify.com/album/4rL4AGcWOW9kmUuOGV68Q4) | 3:48 |
 | 35 | [Trasplante de Corazón](https://open.spotify.com/track/3VqKXI13KCXegeHhcSX0DS) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Trasplante de Corazón](https://open.spotify.com/album/0Se6CCfIxUEK55p3v4vTC7) | 3:25 |
 | 36 | [El Milagro](https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Milagro](https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh) | 3:38 |
-| 37 | [Historia de un Amor](https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT) | [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Historia de un Amor](https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c) | 2:45 |
+| 37 | [Historia de un Amor](https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT) | [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Denas & Miut](https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ) | [Historia de un Amor](https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c) | 2:45 |
 | 38 | [Hetero Pero](https://open.spotify.com/track/5hgfnnDrhPuS3SqtpFR1nd) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Hetero Pero](https://open.spotify.com/album/0309jUpTGxLbb2lfi57Mdg) | 3:19 |
 | 39 | [Fase De Patán](https://open.spotify.com/track/6zcJSq4x31DHjwIWUzGyjs) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Fase de Patán](https://open.spotify.com/album/1sD67oWrgWt8HTZFDObkbW) | 2:24 |
 | 40 | [Van a Construir al Lado](https://open.spotify.com/track/3CyfT3iM8v7pfNDCp3ZUtM) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Van a Construir al Lado](https://open.spotify.com/album/7M32YvU93c6ZsXLXY6wsvs) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Volando](https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [En Tus Aguas](https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP) | 3:48 |
 | 50 | [no es amor](https://open.spotify.com/track/0PcqL0VXNlFxZX6kOEgGWx) | [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [no es amor](https://open.spotify.com/album/6YBjATNKxPO71x7DjPRVjE) | 2:56 |
 
-Snapshot ID: `MCw1Y2U0Njg2YzgyNWM1M2M4NWMwZjQ4NDMwZTQ0NDVmMjM0MDc1ZDZl`
+Snapshot ID: `MCw3NTg1ZjVmY2MxNWU5YzdhNWM0YWJmY2ZiNjkxYzhjOTQxMmM0ZmQz`

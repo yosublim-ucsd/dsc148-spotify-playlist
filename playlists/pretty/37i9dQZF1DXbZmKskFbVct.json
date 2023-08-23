@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 31918,
+  "num_followers": 31929,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzU2OWQ0ZjAxZTdmM2UyMWU4ZDIwZTczZGZjOGI0NTRkZjMwYWM1",
+  "snapshot_id": "MCxlOTg3NDQ5MjkyYWJiZGM0N2M1YzdmYjJjNTA4YmI0MTUwYTIwNzNl",
   "tracks": [
     {
       "added_at": "2023-08-16 13:57:11",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-08-16 13:57:11",
       "album": {
+        "name": "Step-Sis Takes Care Of You",
+        "url": "https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "duration_ms": 420750,
+      "name": "Relax and Close Your Eyes",
+      "url": "https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL"
+    },
+    {
+      "added_at": "2023-08-16 13:57:11",
+      "album": {
         "name": "Intense Relaxation",
         "url": "https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 170035,
       "name": "Unintelligble Sleep Whisper Breathing Scratching",
       "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
-    },
-    {
-      "added_at": "2023-08-16 13:57:11",
-      "album": {
-        "name": "Step-Sis Takes Care Of You",
-        "url": "https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A"
-      },
-      "artists": [
-        {
-          "name": "ASMR Leedah",
-          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
-        }
-      ],
-      "duration_ms": 420750,
-      "name": "Relax and Close Your Eyes",
-      "url": "https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL"
     },
     {
       "added_at": "2023-08-16 13:57:11",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-08-16 13:57:11",
       "album": {
+        "name": "Whispering Things Your Brain Needs To Hear",
+        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "duration_ms": 909500,
+      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
+      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
+    },
+    {
+      "added_at": "2023-08-16 13:57:11",
+      "album": {
         "name": "Anticipatory Ear to Ear Whisepers",
         "url": "https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 322455,
       "name": "Anticipatory Ear to Ear Whispers Pt.1",
       "url": "https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT"
-    },
-    {
-      "added_at": "2023-08-16 13:57:11",
-      "album": {
-        "name": "Intensely Crunchy Celery Eating",
-        "url": "https://open.spotify.com/album/40JIcThcdSCG0hGyxKQDec"
-      },
-      "artists": [
-        {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
-        }
-      ],
-      "duration_ms": 884434,
-      "name": "Positive Affirmations",
-      "url": "https://open.spotify.com/track/4tO8q7KwM67C86FJHDAeoY"
     },
     {
       "added_at": "2023-08-16 13:57:11",
@@ -539,34 +539,18 @@
     {
       "added_at": "2023-08-16 13:57:11",
       "album": {
-        "name": "ASMR Guided Visualisation for Sleep",
-        "url": "https://open.spotify.com/album/5J0uoLda9QaqqEnUBX6vBK"
+        "name": "Shh it's Ok, Relax and Ramble (Personal Attention/Affirmation)",
+        "url": "https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX"
       },
       "artists": [
         {
-          "name": "ASMR Blossom",
-          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
         }
       ],
-      "duration_ms": 135500,
-      "name": "Guided Visualization for Sleep, Pt. 1",
-      "url": "https://open.spotify.com/track/2iGO8SBiky4hRHVVGB270f"
-    },
-    {
-      "added_at": "2023-08-16 13:57:11",
-      "album": {
-        "name": "Whispering Things Your Brain Needs To Hear",
-        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
-      },
-      "artists": [
-        {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
-        }
-      ],
-      "duration_ms": 909500,
-      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
-      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
+      "duration_ms": 642000,
+      "name": "Audio on Spotify, Surfshark",
+      "url": "https://open.spotify.com/track/0yxwH0oTxs7ClQvIwBTBni"
     },
     {
       "added_at": "2023-08-16 13:57:11",
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-08-16 13:57:11",
       "album": {
+        "name": "ASMR Guided Visualisation for Sleep",
+        "url": "https://open.spotify.com/album/5J0uoLda9QaqqEnUBX6vBK"
+      },
+      "artists": [
+        {
+          "name": "ASMR Blossom",
+          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
+        }
+      ],
+      "duration_ms": 135500,
+      "name": "Guided Visualization for Sleep, Pt. 1",
+      "url": "https://open.spotify.com/track/2iGO8SBiky4hRHVVGB270f"
+    },
+    {
+      "added_at": "2023-08-16 13:57:11",
+      "album": {
         "name": "May I Touch You?",
         "url": "https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 187382,
       "name": "Everything is Okay",
       "url": "https://open.spotify.com/track/0EuUoivsrB7lBHZDffnvxc"
-    },
-    {
-      "added_at": "2023-08-16 13:57:11",
-      "album": {
-        "name": "Shh it's Ok, Relax and Ramble (Personal Attention/Affirmation)",
-        "url": "https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX"
-      },
-      "artists": [
-        {
-          "name": "ASMR Leedah",
-          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
-        }
-      ],
-      "duration_ms": 642000,
-      "name": "Audio on Spotify, Surfshark",
-      "url": "https://open.spotify.com/track/0yxwH0oTxs7ClQvIwBTBni"
     },
     {
       "added_at": "2023-08-16 13:57:11",
@@ -635,18 +619,34 @@
     {
       "added_at": "2023-08-16 13:57:11",
       "album": {
-        "name": "Triggers I'm Wearing",
-        "url": "https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ"
+        "name": "Intensely Crunchy Celery Eating",
+        "url": "https://open.spotify.com/album/40JIcThcdSCG0hGyxKQDec"
       },
       "artists": [
         {
-          "name": "ASMR Glow",
-          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
         }
       ],
-      "duration_ms": 277763,
-      "name": "Triggers I'm Wearing Pt.1",
-      "url": "https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z"
+      "duration_ms": 884434,
+      "name": "Positive Affirmations",
+      "url": "https://open.spotify.com/track/4tO8q7KwM67C86FJHDAeoY"
+    },
+    {
+      "added_at": "2023-08-16 13:57:11",
+      "album": {
+        "name": "Russian Language Revision - Cyrillic Alphabet",
+        "url": "https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh"
+      },
+      "artists": [
+        {
+          "name": "iPad ASMR",
+          "url": "https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Alphabet Revision, Pt. 1",
+      "url": "https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc"
     },
     {
       "added_at": "2023-08-16 13:57:11",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-08-16 13:57:11",
       "album": {
-        "name": "Russian Language Revision - Cyrillic Alphabet",
-        "url": "https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh"
+        "name": "Triggers I'm Wearing",
+        "url": "https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ"
       },
       "artists": [
         {
-          "name": "iPad ASMR",
-          "url": "https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN"
+          "name": "ASMR Glow",
+          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Alphabet Revision, Pt. 1",
-      "url": "https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc"
+      "duration_ms": 277763,
+      "name": "Triggers I'm Wearing Pt.1",
+      "url": "https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z"
     },
     {
       "added_at": "2023-08-16 13:57:11",

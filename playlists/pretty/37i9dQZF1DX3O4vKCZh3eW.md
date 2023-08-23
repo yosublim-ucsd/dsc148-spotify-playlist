@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3O4vKCZh3eW.md) - [plain]
 
 > Celebrate South Asian Heritage Month with Ali Sethi's favorite South Asian tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290 likes - 35 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289 likes - 35 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3O4vKCZh3eW.md) - [plain]
 | 34 | [God Is](https://open.spotify.com/track/3pyjHXmLaFBNaFghH3LI9O) | [Ustad Saami](https://open.spotify.com/artist/0NV2aI5vyDzuqDdDRzITMk) | [God Is Not a Terrorist](https://open.spotify.com/album/5fzug7OI3gZea4RcOBRwS0) | 3:17 |
 | 35 | [Saat Samundar Paar \(From "Vishwatma"\)](https://open.spotify.com/track/1hYucfwuQXI6JyPrYIXhje) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Music For Isolation](https://open.spotify.com/album/4PwMt6hNYK7wzUkktfvVd6) | 6:37 |
 
-Snapshot ID: `MCxhZGMzNmU4YjFjMGMxZjg5NGNhMDUzNGY1MzY5ZGMxMTFiMzA3NjBj`
+Snapshot ID: `MCxhNTRjMzhlZDgwZGMwMzhkYTg2MGM2YWNhOTI3MThkYmRhZTczOTc3`

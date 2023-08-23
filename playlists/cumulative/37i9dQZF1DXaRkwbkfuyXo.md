@@ -2,9 +2,9 @@
 
 ### [Corridos Alterados](https://open.spotify.com/playlist/37i9dQZF1DXaRkwbkfuyXo)
 
-> Seguimos arremangados, pariente\. Voz de Mando en portada.
+> Seguimos arremangados, pariente\. El Komander en portada.
 
-120 songs - 5 hr 52 min
+122 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [En La Sierra Y En La Ciudad "La China"](https://open.spotify.com/track/2wzBBN4okgN6lZ6OSkBB1L) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Otro Golpe](https://open.spotify.com/album/6b1BlHWJSeZ7QgRygd2YqU) | 3:43 | 2022-03-07 |  |
 | [En Preparacion](https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:07 | 2022-03-07 |  |
 | [Escuela De Rancho](https://open.spotify.com/track/0JmnQ5TRO3wEfnyNhaVx0D) | [Los 2 Primos](https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua) | [Movimiento Alterado Vol\. 1](https://open.spotify.com/album/5yJdyrzgdboYN3nF2YSOnM) | 2:52 | 2022-11-08 |  |
+| [Escuela Del Virus Antrax](https://open.spotify.com/track/1K2XUMHUxQsf9vlFiAqHpj) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 2:41 | 2023-08-22 |  |
 | [Esta de Parranda el Jefe](https://open.spotify.com/track/3rJZRKrtwgtQqI9bft94Zj) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Grupo Escolta](https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl) | [Las Que Les Gustan A Los Viejones](https://open.spotify.com/album/5ON2UoS7EGthERLkiiVp7Z) | 3:26 | 2022-11-08 |  |
 | [Estilo Especial](https://open.spotify.com/track/5gu86M6D80wPPDnnrxCQ79) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 3:21 | 2022-03-07 |  |
 | [Estrategia De Escape](https://open.spotify.com/track/0f0uF9oxMFILrAMJj3abVz) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/3Xa1NdUaZmrRPR928iLjVo) | 2:25 | 2022-03-07 | 2022-06-21 |
@@ -103,7 +104,8 @@
 | [La Ultima Sombra](https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:57 | 2022-03-07 |  |
 | [La Vida Mafiosa](https://open.spotify.com/track/4YYFiNN2NAwv2Tp6MMVNyf) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Los Canelos 17 Exitos](https://open.spotify.com/album/10NmPHQzeBxZf3ev0mNefY) | 2:06 | 2022-03-07 | 2022-11-08 |
 | [Leyenda Caro Quintero](https://open.spotify.com/track/6wUIrNOTjodEu5JqxSZy7F) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios Y El Diablo](https://open.spotify.com/album/5yhcHgchenU7HC1E8fhzbM) | 3:37 | 2022-03-17 |  |
-| [Leyenda Viviente](https://open.spotify.com/track/3tgGSqtSgI0kZcZATjmED0) | [Los 2 Primos](https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua) | [El Movimiento Alterado Vol\. 7](https://open.spotify.com/album/7bGQrDRhvbs2InGsFbC4eO) | 3:42 | 2022-11-08 |  |
+| [Leyenda M1](https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:50 | 2023-08-22 |  |
+| [Leyenda Viviente](https://open.spotify.com/track/3tgGSqtSgI0kZcZATjmED0) | [Los 2 Primos](https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua) | [El Movimiento Alterado Vol\. 7](https://open.spotify.com/album/7bGQrDRhvbs2InGsFbC4eO) | 3:42 | 2022-11-08 | 2023-08-23 |
 | [Locos Desde Ayer](https://open.spotify.com/track/0SB6IWsJ2Kh9A9yGCqKShK) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [Locos Desde Ayer](https://open.spotify.com/album/08uTtEwEDNHpHqMqZOo4J8) | 2:43 | 2022-03-07 | 2022-07-29 |
 | [Locos Desde Ayer](https://open.spotify.com/track/5kOerWLruDrwe8zA9HPglH) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [Locos Desde Ayer](https://open.spotify.com/album/1CAbmBdilHOVUGGiDjpCxp) | 2:43 | 2022-03-07 |  |
 | [Los Dos Compadres](https://open.spotify.com/track/5BUbr72NS2xTmVRSQjOKp8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:06 | 2022-06-20 |  |
@@ -123,7 +125,7 @@
 | [Plebada Alterada](https://open.spotify.com/track/3D8KcfsUgGwbNq3c6mzCWY) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 1:40 | 2022-03-07 |  |
 | [Recordando A Michoacan](https://open.spotify.com/track/2VfISIEkDi9nORYxLpB9FF) | [Los Buitres](https://open.spotify.com/artist/6652LtwYxWQCzFBvvBkTF9) | [Movimiento Alterado Vol\. 4](https://open.spotify.com/album/1ZzrY7hbIiDQlV5i5uqJJt) | 2:32 | 2022-03-17 |  |
 | [Scarface Renacido](https://open.spotify.com/track/1tpYFtQ5BsCB8lRug5VPtK) | [Jorge Santacruz Y Su Grupo Quinto Elemento](https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:54 | 2022-03-07 |  |
-| [Soy De Rancho](https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Soy De Rancho](https://open.spotify.com/album/3bP7ypGbJMbjmJD9eSoGFo) | 3:29 | 2022-03-07 |  |
+| [Soy De Rancho](https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Soy De Rancho](https://open.spotify.com/album/3bP7ypGbJMbjmJD9eSoGFo) | 3:29 | 2022-03-07 | 2023-08-23 |
 | [Soy Familia, Soy Michoacano \(En Vivo\)](https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:11 | 2022-03-17 |  |
 | [Termina La Temporada](https://open.spotify.com/track/79F6Rw4EP623GyG2FIndnD) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [En Vivo](https://open.spotify.com/album/3OQyUgoSKy4anHKQqkswVy) | 2:54 | 2022-11-08 | 2023-02-24 |
 | [Un Corrido Pa' Joaquin](https://open.spotify.com/track/6ZMbFg2l9Nu6xfDwfiXUtb) | [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX) | [Los Corridos De Mis Amigos](https://open.spotify.com/album/6frN8k9lkbXBpZLWA1g83K) | 3:12 | 2022-03-17 | 2022-11-08 |

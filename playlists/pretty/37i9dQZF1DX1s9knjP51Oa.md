@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,469 likes - 253 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,520 likes - 253 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,4 +262,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 252 | [Cador](https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Cador](https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb) | 2:29 |
 | 253 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 |
 
-Snapshot ID: `MCxjNTBhOTQxNDA1ZmQ3YWY0OGQ2M2Q1NTQ2MWI5Y2RjMjExYWY0MzZl`
+Snapshot ID: `MCwzODEyOTE2MDUyNGE3NTlkMjM1MjFlYTZlMDUyYWI0ZjA5MDJhOTc1`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Conexi\u00f3n Divina",
-  "num_followers": 502525,
+  "num_followers": 502600,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTNhMGUyN2I2ZmYxNGMwZTljYmM4YmI2MWM3ZWU4YzYyM2Y0ODYw",
+  "snapshot_id": "MCw1ZGRkMmIyNWEzNWNmZTU2NjA4MWI2NWRlOTNhMTMxYWQ5OTZmNWE0",
   "tracks": [
     {
       "added_at": "2023-08-21 17:42:45",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
-      },
-      "artists": [
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 213711,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
-    },
-    {
-      "added_at": "2023-08-21 17:42:45",
-      "album": {
         "name": "Cu\u00e9ntenle Mentiras",
         "url": "https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 198000,
       "name": "Cu\u00e9ntenle Mentiras",
       "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
+    },
+    {
+      "added_at": "2023-08-21 17:42:45",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
+      },
+      "artists": [
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 213711,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Dije",
-        "url": "https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3"
-      },
-      "artists": [
-        {
-          "name": "Natalia Corona",
-          "url": "https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa"
-        }
-      ],
-      "duration_ms": 168528,
-      "name": "Dije",
-      "url": "https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P"
-    },
-    {
-      "added_at": "2023-08-21 17:42:45",
-      "album": {
         "name": "Uno de los Buenos",
         "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Jodida En Este Bar (En Vivo)",
-        "url": "https://open.spotify.com/album/3DG4q22yxndkW3NH3UsHYw"
+        "name": "Dije",
+        "url": "https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Natalia Corona",
+          "url": "https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa"
         }
       ],
-      "duration_ms": 172483,
-      "name": "Jodida En Este Bar - En Vivo",
-      "url": "https://open.spotify.com/track/6OzW9fvluUQq4Cal5Wiqn3"
+      "duration_ms": 168528,
+      "name": "Dije",
+      "url": "https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -687,6 +671,22 @@
       "duration_ms": 180000,
       "name": "Lento",
       "url": "https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8"
+    },
+    {
+      "added_at": "2023-08-21 17:42:45",
+      "album": {
+        "name": "Jodida En Este Bar (En Vivo)",
+        "url": "https://open.spotify.com/album/3DG4q22yxndkW3NH3UsHYw"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 172483,
+      "name": "Jodida En Este Bar - En Vivo",
+      "url": "https://open.spotify.com/track/6OzW9fvluUQq4Cal5Wiqn3"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Te fallaste a ti",
-        "url": "https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        },
-        {
-          "name": "Banda las Angelinas",
-          "url": "https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Te fallaste a ti",
-      "url": "https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6"
-    },
-    {
-      "added_at": "2023-08-21 17:42:45",
-      "album": {
         "name": "Ismael (En Vivo)",
         "url": "https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 152160,
       "name": "Pa' Dentro - Versi\u00f3n Banda",
       "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
+    },
+    {
+      "added_at": "2023-08-21 17:42:45",
+      "album": {
+        "name": "Te fallaste a ti",
+        "url": "https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Banda las Angelinas",
+          "url": "https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Te fallaste a ti",
+      "url": "https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
+        "name": "Besarte As\u00ed",
+        "url": "https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 234864,
+      "name": "Besarte As\u00ed",
+      "url": "https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ"
+    },
+    {
+      "added_at": "2023-08-21 17:42:45",
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 166890,
       "name": "JGL (En Vivo)",
       "url": "https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4"
-    },
-    {
-      "added_at": "2023-08-21 17:42:45",
-      "album": {
-        "name": "Besarte As\u00ed",
-        "url": "https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 234864,
-      "name": "Besarte As\u00ed",
-      "url": "https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ"
     },
     {
       "added_at": "2023-08-21 17:42:45",

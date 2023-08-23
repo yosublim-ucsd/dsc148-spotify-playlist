@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-481 songs - 1 day 2 hr 45 min
+482 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bad Vacation](https://open.spotify.com/track/4NGS5c5YlVvX1s7I49ADiO) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Bad Vacation](https://open.spotify.com/album/6gYHovUSsCoQYN02Gk0CDB) | 2:48 | 2022-03-11 | 2022-06-06 |
 | [Barely Alive](https://open.spotify.com/track/5iXWtj4lGn4P8gfabLmHLZ) | [ufo ufo](https://open.spotify.com/artist/1TsvuGn3XJ4F04fRavTonu) | [Barely Alive](https://open.spotify.com/album/31h58l0gh5zqbez7KrRzEj) | 3:35 | 2021-03-10 | 2022-07-29 |
 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 | 2023-02-17 |  |
+| [beautiful waste](https://open.spotify.com/track/6JfISacOvddHFsPkE8bE3Z) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [beautiful waste](https://open.spotify.com/album/7ntBWu8hyC7hIPqMwi5mJQ) | 2:29 | 2023-08-21 |  |
 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 | 2021-05-07 | 2023-03-25 |
 | [Better In College \(feat\. Ashe\)](https://open.spotify.com/track/7hsWlOs1hC4uLdf7bZ44RM) | [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Better In College \(feat\. Ashe\)](https://open.spotify.com/album/2eZ2ATn7u3JNXAxBAPZfwu) | 3:28 | 2021-03-10 | 2022-07-29 |
 | [Black Confetti](https://open.spotify.com/track/0WaTwKJGHKJQ6Tv9e2rSGk) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Black Confetti](https://open.spotify.com/album/4OzfmOuozt9Rlosxrtktzi) | 2:53 | 2022-05-27 | 2022-07-30 |
@@ -218,7 +219,7 @@
 | [Is It Real](https://open.spotify.com/track/6S1x6w8CThgLiozbAOZ4zo) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Is It Real](https://open.spotify.com/album/6QqmdQrlD26WKB00Jvvp5b) | 3:05 | 2022-03-11 | 2022-04-20 |
 | [Is It Real](https://open.spotify.com/track/6c0stxBesEYDLixpJvTbNT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:05 | 2022-07-29 | 2022-08-01 |
 | [Jaded](https://open.spotify.com/track/0IKJEqLLo2dBIkx73tObbC) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Jaded](https://open.spotify.com/album/2S1w1CeYjPVhWd4PcvinEp) | 2:49 | 2022-10-07 | 2023-01-25 |
-| [Jaded](https://open.spotify.com/track/1UlzV1f5t8mFKMG2JwGBKZ) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Jaded](https://open.spotify.com/album/42lN1I6cvcBIo9h4VxyTHE) | 2:49 | 2023-06-30 |  |
+| [Jaded](https://open.spotify.com/track/1UlzV1f5t8mFKMG2JwGBKZ) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Jaded](https://open.spotify.com/album/42lN1I6cvcBIo9h4VxyTHE) | 2:49 | 2023-06-30 | 2023-08-23 |
 | [Jump Out The Window](https://open.spotify.com/track/7Iz0L7uevtSSUMtmOOMSUk) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Jump Out The Window](https://open.spotify.com/album/4xHcu0JaCYcKsF0OQtyNPl) | 4:09 | 2022-03-04 | 2022-05-05 |
 | [Jump with Me](https://open.spotify.com/track/2bhasjavv1tokxnpvTcqoC) | [STAL](https://open.spotify.com/artist/0tmG4q8xPVP7NJV481rXi3) | [Fresh Blood EP](https://open.spotify.com/album/6OA14Qqowqalvd9PFoE31P) | 3:17 | 2022-01-21 | 2022-06-19 |
 | [Just A Little While](https://open.spotify.com/track/3CL0eXel8usNNSCQ6OT7KJ) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/1sewF9zfVLURBL1CEKJmMC) | 2:42 | 2022-01-04 | 2022-07-29 |
@@ -307,7 +308,7 @@
 | [Out of My Hands](https://open.spotify.com/track/2cMOFBM3yX5ntYPkayvKPc) | [Fox Royale](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [Out of My Hands](https://open.spotify.com/album/245d5Tm6FfK9n2tFmpFQv7) | 2:26 | 2021-03-10 | 2022-07-29 |
 | [Out Of My Head](https://open.spotify.com/track/1FMhjKZO2L2fNB08Ik1iBs) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Out Of My Head](https://open.spotify.com/album/7wnPpvk2a9PaqyW8IM8ScA) | 3:47 | 2022-03-11 | 2022-04-19 |
 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 | 2023-02-17 | 2023-08-12 |
-| [OUT OF MY MIND](https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [SELF TITLED](https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2) | 2:40 | 2023-08-07 | 2023-08-22 |
+| [OUT OF MY MIND](https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [SELF TITLED](https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2) | 2:40 | 2023-08-07 |  |
 | [Outta My Head](https://open.spotify.com/track/1E4i0Acldoa1uclFevNIso) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [Outta My Head](https://open.spotify.com/album/32xPXPMA480Br7d4HvpAnS) | 3:18 | 2021-03-10 | 2022-07-29 |
 | [Over my head](https://open.spotify.com/track/6r5tlCMur8Vngv3n0DzOFl) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Over my head](https://open.spotify.com/album/5fpYoh1ma26Fsr2XJB21Cp) | 3:15 | 2021-03-10 | 2022-04-18 |
 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 | 2023-06-30 |  |
@@ -328,7 +329,7 @@
 | [Play Along](https://open.spotify.com/track/0vcaM5lVTdNaLagTWiuJqe) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 3:11 | 2022-08-12 | 2023-02-18 |
 | [Play Along](https://open.spotify.com/track/2Kqz2NwNRBqg0nJMQU5xjJ) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Play Along](https://open.spotify.com/album/4D9Fx7V3jOlawbQW9Svcf9) | 3:11 | 2022-03-09 | 2022-07-29 |
 | [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 | 2022-07-29 | 2022-10-13 |
-| [Post Humorous](https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X) | 4:39 | 2022-10-07 |  |
+| [Post Humorous](https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X) | 4:39 | 2022-10-07 | 2023-08-23 |
 | [Preach](https://open.spotify.com/track/2mAlil0VCzglcu4t1dALfN) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Preach](https://open.spotify.com/album/26EBjKTpGv7b9UczhXxFUe) | 3:04 | 2021-03-10 | 2022-05-28 |
 | [Preacher Man](https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Preacher Man](https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha) | 3:39 | 2021-03-10 | 2023-02-18 |
 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 | 2022-08-12 | 2023-03-29 |

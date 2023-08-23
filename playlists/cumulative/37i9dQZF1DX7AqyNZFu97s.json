@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: VENUS GRRRLS",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: m4x",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 153045,
       "name": "All For Nothing",
       "url": "https://open.spotify.com/track/1xJlTxaNva7jcU5He6sauv"
@@ -2542,6 +2542,42 @@
       "duration_ms": 197119,
       "name": "Blow Out the Candles",
       "url": "https://open.spotify.com/track/19BVulWHDbbCW0l3W6cVSb"
+    },
+    {
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/28IrAca2KJDtaQKWDiaDBs"
+      },
+      "artists": [
+        {
+          "name": "Richard Carter",
+          "url": "https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243161,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/0Fc3nuFgBOefr6uaqIXNuA"
+    },
+    {
+      "album": {
+        "name": "Blue Dream",
+        "url": "https://open.spotify.com/album/0BcK2xwOT1lZ77ZJYGYWfs"
+      },
+      "artists": [
+        {
+          "name": "Naiyah",
+          "url": "https://open.spotify.com/artist/75EPu5pK1tSyy0d0FATDvB"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202087,
+      "name": "Blue Dream",
+      "url": "https://open.spotify.com/track/0Rt8bqgU9dDH79lieOUQw8"
     },
     {
       "album": {
@@ -5437,6 +5473,28 @@
     },
     {
       "album": {
+        "name": "Don't You Worry",
+        "url": "https://open.spotify.com/album/3TaNn4isUZNDWsGTjGpdui"
+      },
+      "artists": [
+        {
+          "name": "SUNCREAM",
+          "url": "https://open.spotify.com/artist/6VLL2o3lKPUy9gWgJPjuSu"
+        },
+        {
+          "name": "Oli Rivers",
+          "url": "https://open.spotify.com/artist/6AUeJbqToVwhA5kcpdOion"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Don't You Worry",
+      "url": "https://open.spotify.com/track/5LhYtacBc5On1HjvEW3aMj"
+    },
+    {
+      "album": {
         "name": "don't feel like dying",
         "url": "https://open.spotify.com/album/3wbMdWURUj3NziEJWcWEme"
       },
@@ -6404,7 +6462,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 158343,
       "name": "Father",
       "url": "https://open.spotify.com/track/7LD6qG5PLFi9TRWRfM6nmA"
@@ -7104,7 +7162,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 150461,
       "name": "FROM YOUR EYES",
       "url": "https://open.spotify.com/track/4oLTnJoOgNRDHDhqDQVSC9"
@@ -7162,7 +7220,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 187619,
       "name": "Gangnem",
       "url": "https://open.spotify.com/track/55wVTJittOB7edk2p5tob2"
@@ -8156,6 +8214,24 @@
       "duration_ms": 133509,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/3pK8YjdB2827WRRvEAEUgC"
+    },
+    {
+      "album": {
+        "name": "Green Lights",
+        "url": "https://open.spotify.com/album/2GWdSZlHh1iOsdqLafYfGP"
+      },
+      "artists": [
+        {
+          "name": "Aiyana K",
+          "url": "https://open.spotify.com/artist/3qUef2hIoHJ6Sgkw8dqcpg"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249906,
+      "name": "Green Lights",
+      "url": "https://open.spotify.com/track/2LbgP3DuLx5MZbhvmNbSku"
     },
     {
       "album": {
@@ -9241,6 +9317,24 @@
     },
     {
       "album": {
+        "name": "i ache for you",
+        "url": "https://open.spotify.com/album/10MuxO4wIG5DP3eSKnZouj"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Weisz",
+          "url": "https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "i ache for you",
+      "url": "https://open.spotify.com/track/2jcvpDwNuafPzzR0CbYb2O"
+    },
+    {
+      "album": {
         "name": "i can see you're online",
         "url": "https://open.spotify.com/album/1xh1mtVTSZk9GmJyTGqBZA"
       },
@@ -10266,7 +10360,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 152333,
       "name": "Infinite (For Real)",
       "url": "https://open.spotify.com/track/6wZTehrzOwHJWoHQWJhl1n"
@@ -10949,6 +11043,24 @@
     },
     {
       "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/3NizG4xNngmV3NjgBRftn1"
+      },
+      "artists": [
+        {
+          "name": "Jesse Ayo",
+          "url": "https://open.spotify.com/artist/71KS30mVHlgBkH0ULP0dFU"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180223,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/2H0RjGX4Qh3qNktXRnkNUR"
+    },
+    {
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/3Hjw4hTQa3wN4dyiZMEms0"
       },
@@ -11335,6 +11447,24 @@
     },
     {
       "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/0va2pbRLQuzezIGDg5jds6"
+      },
+      "artists": [
+        {
+          "name": "Danny Ray",
+          "url": "https://open.spotify.com/artist/3ixiQH8EJgFg0r2Ws3Xakb"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/0Eh9uSy4qIs0x6r7da1mTY"
+    },
+    {
+      "album": {
         "name": "Life On The TV",
         "url": "https://open.spotify.com/album/0aDnSUXRenbfWwhqraP0EW"
       },
@@ -11408,7 +11538,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 179500,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2rbtO9LzSUsQxdGM3LF3uR"
@@ -11820,7 +11950,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 219275,
       "name": "LOSIN U",
       "url": "https://open.spotify.com/track/3Yev5ppYhApRb0qiaN3N1J"
@@ -12454,7 +12584,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 125500,
       "name": "MARSEILLE",
       "url": "https://open.spotify.com/track/4Wk8xxK3wNYw6rYY6LrXgJ"
@@ -13949,6 +14079,24 @@
     },
     {
       "album": {
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/2CeJF2V2G9XXy6IuNaJqXb"
+      },
+      "artists": [
+        {
+          "name": "Brad Heidi",
+          "url": "https://open.spotify.com/artist/6qJCfkvQLFLf9HnvKIpXvy"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/61clAULXJM7Lh9uWBM6XmT"
+    },
+    {
+      "album": {
         "name": "nobody loves me",
         "url": "https://open.spotify.com/album/7JljDQSHufuK9PQ7pEsow9"
       },
@@ -15279,6 +15427,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/0N3qfRwbBFsO6PNxtTxI9C"
+      },
+      "artists": [
+        {
+          "name": "Laura Alden",
+          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200852,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/7bqannWBcNOt5zFVutDRia"
+    },
+    {
+      "album": {
         "name": "Pink City",
         "url": "https://open.spotify.com/album/50iR3krQCUlrLY8eXg0Qa2"
       },
@@ -15680,6 +15846,24 @@
       "duration_ms": 161066,
       "name": "pure misery",
       "url": "https://open.spotify.com/track/1WwL6QCTxjaBs15RpM1jqt"
+    },
+    {
+      "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/3uyFzS4XUyhgdiFwWnKKQl"
+      },
+      "artists": [
+        {
+          "name": "Saint Rock",
+          "url": "https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/0t5AD929dxtbSM5ZWzIuCe"
     },
     {
       "album": {
@@ -16656,6 +16840,24 @@
       "duration_ms": 194056,
       "name": "Same Thing Every Day",
       "url": "https://open.spotify.com/track/4TonuDFhZeY5rrmkMFiiT5"
+    },
+    {
+      "album": {
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/2P8C75kv0y8CzGcRPFNjtc"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168203,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/1pKKk3iHUA1ZeNbXyjF86a"
     },
     {
       "album": {
@@ -18034,7 +18236,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 271000,
       "name": "St. Catherine",
       "url": "https://open.spotify.com/track/4AXfO4NnjjYlAsN2v4rJMl"
@@ -18172,7 +18374,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 238379,
       "name": "Steel",
       "url": "https://open.spotify.com/track/0Zhw9s4q6VaOGaNgh7eKnf"
@@ -18284,7 +18486,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 186551,
       "name": "Stop Thinking About It",
       "url": "https://open.spotify.com/track/6Pmg5MkcA6xc4tuUKGLgB6"
@@ -19394,7 +19596,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 207837,
       "name": "THE GLASS",
       "url": "https://open.spotify.com/track/6O18Ab7sx5VifZk9CHE4pi"
@@ -19430,7 +19632,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 148809,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/1x4nrClmOL8lRjyLOxS4Nz"
@@ -19550,6 +19752,24 @@
       "duration_ms": 237000,
       "name": "The Wetlands",
       "url": "https://open.spotify.com/track/6CrTOj2Oa2Vgh6YnKZddIZ"
+    },
+    {
+      "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/1G2VSzZ7twDoFla91O7Kjp"
+      },
+      "artists": [
+        {
+          "name": "George Alexander",
+          "url": "https://open.spotify.com/artist/7syjvx9sbOTQt0NQo2rKw9"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209678,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/7kAdo3bmnY9kJthRKTBCFU"
     },
     {
       "album": {
@@ -20245,6 +20465,24 @@
     },
     {
       "album": {
+        "name": "Two\u2019s a Crowd",
+        "url": "https://open.spotify.com/album/1IzgRGFFb3pluws2rDEBuy"
+      },
+      "artists": [
+        {
+          "name": "Cartwright",
+          "url": "https://open.spotify.com/artist/3ZgEf1qY1T2Ik1MhUvCanM"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188773,
+      "name": "Two\u2019s a Crowd",
+      "url": "https://open.spotify.com/track/4MPnyc7iCEOq7l2KFnIe9n"
+    },
+    {
+      "album": {
         "name": "T\u00f4n Gron",
         "url": "https://open.spotify.com/album/42LRn2u1buay8xWrfE2uuE"
       },
@@ -20422,7 +20660,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 171341,
       "name": "Under the Sun",
       "url": "https://open.spotify.com/track/1VwBuNCYP2CoEteOoZ1190"
@@ -20462,6 +20700,24 @@
       "duration_ms": 245897,
       "name": "Universe",
       "url": "https://open.spotify.com/track/0cxBEfW0ezfq0Jz29tzdcf"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0lk2Wbi3588v59ouxXy53d"
+      },
+      "artists": [
+        {
+          "name": "Elly J Devon",
+          "url": "https://open.spotify.com/artist/0zBoujkNOw13TkM4icGjps"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227438,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6YYlPNuA3PJgQbLkhzQyzQ"
     },
     {
       "album": {

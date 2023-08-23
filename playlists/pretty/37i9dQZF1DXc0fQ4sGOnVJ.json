@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150036,
+  "num_followers": 150049,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjlkODI4ZmIyMDI3ODFjMzAwYzI4Yzg3YTgzMGJlNjIwMDAxMDM3",
+  "snapshot_id": "MCxkZGU0MWIxYzkzMGQ0YzliZjVkNjY1MDU5NjczMjU1NjVjZTBiYzI5",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Fast Cars",
-        "url": "https://open.spotify.com/album/4vFzA8CoLZWgDaj3FWmyxY"
-      },
-      "artists": [
-        {
-          "name": "Diego Fresh",
-          "url": "https://open.spotify.com/artist/7BH61c7MYacKsCgzOA9y5O"
-        }
-      ],
-      "duration_ms": 166675,
-      "name": "Fast Cars",
-      "url": "https://open.spotify.com/track/7xKFutSJuPZ1Vt4kGk444H"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Mud Digger 5",
         "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 209053,
       "name": "Standard American",
       "url": "https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Fast Cars",
+        "url": "https://open.spotify.com/album/4vFzA8CoLZWgDaj3FWmyxY"
+      },
+      "artists": [
+        {
+          "name": "Diego Fresh",
+          "url": "https://open.spotify.com/artist/7BH61c7MYacKsCgzOA9y5O"
+        }
+      ],
+      "duration_ms": 166675,
+      "name": "Fast Cars",
+      "url": "https://open.spotify.com/track/7xKFutSJuPZ1Vt4kGk444H"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1299,42 +1299,6 @@
       "duration_ms": 101052,
       "name": "Trucks Gone Wild",
       "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Redneck Rich",
-        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
-      },
-      "artists": [
-        {
-          "name": "Cody Parks and The Dirty South",
-          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
-        }
-      ],
-      "duration_ms": 282462,
-      "name": "Redneck Rich",
-      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Mud Digger 4",
-        "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        },
-        {
-          "name": "JJ Lawhorn",
-          "url": "https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Field Party",
-      "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1367,6 +1331,42 @@
       "duration_ms": 273501,
       "name": "Shawty In The Truck",
       "url": "https://open.spotify.com/track/0XWiP7iQC1uOOW0gVCKDwY"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Mud Digger 4",
+        "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "JJ Lawhorn",
+          "url": "https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Field Party",
+      "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Redneck Rich",
+        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
+      },
+      "artists": [
+        {
+          "name": "Cody Parks and The Dirty South",
+          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
+        }
+      ],
+      "duration_ms": 282462,
+      "name": "Redneck Rich",
+      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
     },
     {
       "added_at": "2023-08-21 15:41:01",

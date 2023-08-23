@@ -2,7 +2,7 @@
 
 ### [70s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWY373eEGlSj4)
 
-> The most unforgettable love songs from the 70s.
+> Las canciones de amor inolvidables de los 70.
 
 164 songs - 10 hr 44 min
 

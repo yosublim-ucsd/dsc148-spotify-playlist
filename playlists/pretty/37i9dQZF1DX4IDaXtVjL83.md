@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: TXT, Jonas Brothers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,185 likes - 79 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,276 likes - 79 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 78 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/2P7EG5won3VGHTzqimR9N5) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/1AGVgb3cJdeyAjm1WAQxIk) | 2:45 |
 | 79 | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/track/4JwtEBtS1pAc9oTFzm5bFY) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/album/5jrxT95JeyqMD7RzEU0qh1) | 2:38 |
 
-Snapshot ID: `MCwyNWJiYjI1NGI5MTQ3NTU3ODA2ZGRkYWJhNmFiYjNmNjg3NzliNzY0`
+Snapshot ID: `MCxiMjE1NTA1ZGNjZGRjZTYzNGI1MjIxZmQ0NDIzNTRjMDBjNDdmNGQ2`

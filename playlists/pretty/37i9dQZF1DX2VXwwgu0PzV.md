@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi?si=qqKf0s2ZTt6SMsKExTTghg">LC Beatz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,926 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,029 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 69 | [Go](https://open.spotify.com/track/34V4ubLVKPz1D4WYofFAvY) | [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Go](https://open.spotify.com/album/1Vkwq1DmsTdpHKlL73bSwQ) | 2:48 |
 | 70 | [READY FOR JESUS](https://open.spotify.com/track/1Y16kJN8bjBYA1xyHYKltB) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/7tQF9Dq3bfWYs3DPplMpTv) | 5:45 |
 
-Snapshot ID: `MCw2ZGNlZDE3NDkxMjRmYWVmZWE3YTQ1MzFjZDg2OThhNTdmMWExYzI2`
+Snapshot ID: `MCxiZDBjNWM3YThhMzEzYzlhMDU1ZjRhZDM3OTQwZDIxN2U5Y2ZjMzE4`

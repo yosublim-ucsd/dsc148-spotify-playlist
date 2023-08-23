@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 68711,
+  "num_followers": 68806,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDM1NjhmZmQwZWM0MGY1N2FiMjUzM2Q3ZjBkZTUyMzMzMDJkNjVk",
+  "snapshot_id": "MCwwMGJkZjk5YzhhNjhhNTI2ZjUzNGJhY2ZmMmI5NGQwM2I1MDE4YWI2",
   "tracks": [
     {
       "added_at": "2023-08-16 10:11:20",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-08-16 10:11:20",
       "album": {
-        "name": "Latin Hits I Missed",
-        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
       },
       "artists": [
         {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
         }
       ],
-      "duration_ms": 133813,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2023-08-16 10:11:20",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-08-16 10:11:20",
       "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
+        "name": "Latin Hits I Missed",
+        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
       },
       "artists": [
         {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
         }
       ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
+      "duration_ms": 133813,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
     },
     {
       "added_at": "2023-08-16 10:11:20",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-08-16 10:11:20",
       "album": {
+        "name": "The America Album",
+        "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 264693,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
+    },
+    {
+      "added_at": "2023-08-16 10:11:20",
+      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 191066,
       "name": "Stranger On The Shore",
       "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
-    },
-    {
-      "added_at": "2023-08-16 10:11:20",
-      "album": {
-        "name": "The America Album",
-        "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 264693,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
     },
     {
       "added_at": "2023-08-16 10:11:20",
@@ -811,8 +811,8 @@
     {
       "added_at": "2023-08-16 10:11:20",
       "album": {
-        "name": "Hatari!",
-        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
+        "name": "Charade",
+        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 203493,
-      "name": "Night Side",
-      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
+      "duration_ms": 179066,
+      "name": "Megeve",
+      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
     },
     {
       "added_at": "2023-08-16 10:11:20",
@@ -931,8 +931,8 @@
     {
       "added_at": "2023-08-16 10:11:20",
       "album": {
-        "name": "Champagne, Candlelight And Kisses",
-        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
+        "name": "Opiate d'Amour",
+        "url": "https://open.spotify.com/album/5RURrxHzWj67htnWpYY1jT"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 222786,
-      "name": "Theme From \"Bus Stop\"",
-      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
+      "duration_ms": 142066,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/2Rcv5YxzQkPokABVJeuQoy"
     },
     {
       "added_at": "2023-08-16 10:11:20",
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2023-08-16 10:11:20",
       "album": {
-        "name": "Charade",
-        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
+        "name": "Hatari!",
+        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
       },
       "artists": [
         {
@@ -1196,15 +1196,15 @@
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Megeve",
-      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+      "duration_ms": 203493,
+      "name": "Night Side",
+      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
     },
     {
       "added_at": "2023-08-16 10:11:20",
       "album": {
-        "name": "Opiate d'Amour",
-        "url": "https://open.spotify.com/album/5RURrxHzWj67htnWpYY1jT"
+        "name": "Champagne, Candlelight And Kisses",
+        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 142066,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/2Rcv5YxzQkPokABVJeuQoy"
+      "duration_ms": 222786,
+      "name": "Theme From \"Bus Stop\"",
+      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
     },
     {
       "added_at": "2023-08-16 10:11:20",

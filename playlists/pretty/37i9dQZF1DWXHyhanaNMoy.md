@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes! Cover: Architrackz, Kempi & Kalibwoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,799 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,818 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 11 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 |
 | 12 | [I Wish](https://open.spotify.com/track/2I2zBUXaXCPYa8ZiWGJma5) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [I Wish](https://open.spotify.com/album/5r4rgdTcnPNcv31fEqUZm5) | 2:13 |
 | 13 | [Money](https://open.spotify.com/track/3C4cmCXcvNqOsagL5LFOuj) | [Rich2Gether](https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Boat](https://open.spotify.com/artist/545XHoCXOXRYsNrKjh4uHd), [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Blow](https://open.spotify.com/artist/08tVNJseE5WyRIxjZA7KCW) | [Money](https://open.spotify.com/album/0iqcRYxQ3dVjFd0G4dyBBQ) | 3:15 |
-| 14 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
+| 14 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
 | 15 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 |
 | 16 | [Move Ya Body \- Remix](https://open.spotify.com/track/6WJtPnYy2HHhVx6Pb9pU7v) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi) | [Move Ya Body \(Remix\)](https://open.spotify.com/album/1UPwNqmPMBRZEdcxzJC3Nd) | 1:37 |
 | 17 | [Ma Sweetie](https://open.spotify.com/track/21yj46QAJ0LjbmixDo6Ibd) | [Bouzzy](https://open.spotify.com/artist/3rOWue4cNcIcaurmz1iqU9) | [Ma Sweetie](https://open.spotify.com/album/2LSb2pNWAqYM3BhwnHc5W5) | 2:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 69 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 |
 | 70 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 |
 
-Snapshot ID: `MCxmNzAxNDRkMDBkYWU0YWNiNzAyNjY4ZDY0NTM0NmM0MWQxMGRkZDU2`
+Snapshot ID: `MCwzNTc0MWMyODQ0NmU2YWYxZmMxOThmODQ1YWRiM2Y5ZjgxYWI1YjY4`

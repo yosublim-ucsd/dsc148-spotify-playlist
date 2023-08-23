@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,000 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,043 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 | 100 | [Weekend Groove](https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [The Inauguration of Jtjazz \(Jesse Thompson the Man Behind the Keys\)](https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a) | 4:53 |
 
-Snapshot ID: `MCxiMWUwNGQ2NTJmNzg3ZGYxOWI5MmRiZWYwOGM0MmFiY2I2YWI1ODRi`
+Snapshot ID: `MCwzNDRlZDQ5YjFhY2U4OTc2MGM4ODk0OWFiNTA3ODQ2NmRhYTg1MTM5`

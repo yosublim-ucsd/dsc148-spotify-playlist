@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Slow J.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,058 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,091 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 12 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 |
 | 13 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
 | 14 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
-| 15 | [Teu Eternamente](https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF) | 2:55 |
-| 16 | [Para Casa](https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Para Casa](https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7) | 4:08 |
+| 15 | [Para Casa](https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Para Casa](https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7) | 4:08 |
+| 16 | [Teu Eternamente](https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF) | 2:55 |
 | 17 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
 | 18 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
 | 19 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [Bebé](https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Bebé](https://open.spotify.com/album/5O0n73lPSFwtGrQCqCAIe4) | 2:43 |
 | 70 | [Feelings](https://open.spotify.com/track/5vwt5fdPoIbNYkWPOBInfp) | [Tonny K](https://open.spotify.com/artist/337etR6tCrVdPEREaN9Qqc), [Lil Saint](https://open.spotify.com/artist/7odbCfUO9CRAZH4NE4GdU4) | [Feelings](https://open.spotify.com/album/7hJtnNxChO1mGUtdWUuG6F) | 3:04 |
 
-Snapshot ID: `MCxkYmYxZjFjNjVlZmFiNzhjZjc1MTM5YmJkYTE2ZDVlMDM1ODVlMTEw`
+Snapshot ID: `MCwxOWQzMDA2YjEyYzU0OTJhYjkzOGVmYTgzNzNjOTMzMjg5NmFmNWU3`

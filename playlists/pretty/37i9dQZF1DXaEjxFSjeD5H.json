@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 15337,
+  "num_followers": 15354,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGNhMDY1ZGM5NWUyM2YwZGRmN2QyNjRiNTMzNDk1NmI0YzkxZjkw",
+  "snapshot_id": "MCxmMDgzZGI0NWZiNjNkZjIzZjUzZDY4OTIwNGUxN2I4ODhlYjM4MDdj",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -251,22 +251,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
       },
       "artists": [
         {
           "name": "Danzonera Veracruz",
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 212093,
-      "name": "Quiz\u00e1, Quiz\u00e1",
-      "url": "https://open.spotify.com/track/2qW3ziZmifNqVS8N9ieiwA"
+      "duration_ms": 257613,
+      "name": "Mocambo",
+      "url": "https://open.spotify.com/track/0on8z1fhBmY13qS34qSSnM"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -383,18 +379,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
       "artists": [
         {
           "name": "Danzonera Veracruz",
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 257613,
-      "name": "Mocambo",
-      "url": "https://open.spotify.com/track/0on8z1fhBmY13qS34qSSnM"
+      "duration_ms": 212093,
+      "name": "Quiz\u00e1, Quiz\u00e1",
+      "url": "https://open.spotify.com/track/2qW3ziZmifNqVS8N9ieiwA"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 160705,
-      "name": "El Fotografo de las Estrellas",
-      "url": "https://open.spotify.com/track/03aE4kh3RkKnUd3XI6Q1uC"
+      "duration_ms": 258530,
+      "name": "Bodas de Oro",
+      "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 258530,
-      "name": "Bodas de Oro",
-      "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
+      "duration_ms": 160705,
+      "name": "El Fotografo de las Estrellas",
+      "url": "https://open.spotify.com/track/03aE4kh3RkKnUd3XI6Q1uC"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 229040,
-      "name": "Sal\u00f3n Casa Blanca",
-      "url": "https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A"
+      "duration_ms": 256173,
+      "name": "Josefina",
+      "url": "https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 256173,
-      "name": "Josefina",
-      "url": "https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc"
+      "duration_ms": 229040,
+      "name": "Sal\u00f3n Casa Blanca",
+      "url": "https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A"
     },
     {
       "added_at": "2022-08-02 23:28:22",

@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 524444,
+  "num_followers": 524704,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDJlZGE3MmMxYWE4NmU5YzVjMzgyMzI1M2QwMjlhNGY0NDI1ZjM4",
+  "snapshot_id": "MCw2YzQ1NGFjMzMwYzRlMTU1MmFjNjQ5MmFjOGJiZWI0NDkxN2ZlNmE0",
   "tracks": [
     {
       "added_at": "2023-02-18 03:38:32",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "What A Beautiful Name",
         "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 238200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "10,000 Reasons (Live)",
+        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 342493,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1363,26 +1363,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "The Worship Medley: Reckless Love / O Come To The Altar / Great Are You Lord (feat. Davies)",
-        "url": "https://open.spotify.com/album/1gTdRkkxK2AnZ00MUE8YWt"
+        "name": "Love Revolution",
+        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Essential Worship",
-          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
-        },
-        {
-          "name": "Davies",
-          "url": "https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy"
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 406555,
-      "name": "The Worship Medley: Reckless Love / O Come To The Altar / Great Are You Lord (feat. Davies)",
-      "url": "https://open.spotify.com/track/0JuHPj28kzFiUerc5bz2Z6"
+      "duration_ms": 361413,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1403,18 +1395,26 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "Love Revolution",
-        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
+        "name": "The Worship Medley: Reckless Love / O Come To The Altar / Great Are You Lord (feat. Davies)",
+        "url": "https://open.spotify.com/album/1gTdRkkxK2AnZ00MUE8YWt"
       },
       "artists": [
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Davies",
+          "url": "https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy"
         }
       ],
-      "duration_ms": 361413,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
+      "duration_ms": 406555,
+      "name": "The Worship Medley: Reckless Love / O Come To The Altar / Great Are You Lord (feat. Davies)",
+      "url": "https://open.spotify.com/track/0JuHPj28kzFiUerc5bz2Z6"
     },
     {
       "added_at": "2023-02-18 03:38:32",

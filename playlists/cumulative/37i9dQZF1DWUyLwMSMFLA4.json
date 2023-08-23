@@ -599,6 +599,28 @@
     },
     {
       "album": {
+        "name": "Entre El Cielo Vos y Yo",
+        "url": "https://open.spotify.com/album/2wJW9ufFItLCD29F81QHfd"
+      },
+      "artists": [
+        {
+          "name": "Pablito HC",
+          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272758,
+      "name": "Entre El Cielo Vos y Yo",
+      "url": "https://open.spotify.com/track/5WNhnwtXvov5vAtThQT5qW"
+    },
+    {
+      "album": {
         "name": "Amor pirata",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -2096,7 +2118,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 210706,
       "name": "Te Arrepentir\u00e1s",
       "url": "https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU"

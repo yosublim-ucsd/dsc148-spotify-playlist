@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 13276,
+  "num_followers": 13292,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjhmNTY0ODk5OWI0MzgyYzk3N2UwMjdkNWNjYjE3NjIzM2RmMzEz",
+  "snapshot_id": "MCxjYTU4Mzc2ZTZlY2YzNmQwOTVhMmNhZjY0ZjExZDIyNzBlZmZiNThh",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Dual Mono",
-        "url": "https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk"
+        "name": "Popular Favorites",
+        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
       },
       "artists": [
         {
-          "name": "The Greenhornes",
-          "url": "https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv"
+          "name": "Oblivians",
+          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
         }
       ],
-      "duration_ms": 247306,
-      "name": "Too Much Sorrow",
-      "url": "https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI"
+      "duration_ms": 119026,
+      "name": "Christina",
+      "url": "https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Popular Favorites",
-        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
+        "name": "Dual Mono",
+        "url": "https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk"
       },
       "artists": [
         {
-          "name": "Oblivians",
-          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
+          "name": "The Greenhornes",
+          "url": "https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv"
         }
       ],
-      "duration_ms": 119026,
-      "name": "Christina",
-      "url": "https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD"
+      "duration_ms": 247306,
+      "name": "Too Much Sorrow",
+      "url": "https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI"
     },
     {
       "added_at": "2022-03-28 20:14:58",

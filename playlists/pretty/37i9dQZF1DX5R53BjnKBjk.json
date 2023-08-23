@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Dani-Vie / Arte: Isu Kim",
-  "num_followers": 17370,
+  "num_followers": 17394,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDJlNmJlODRkYzIyNzY1ZWQzNjRlNmMyMTFmNWVhN2EyOGRkOWQx",
+  "snapshot_id": "MCwzMTU3ZWFkNGEzZDBkNjI0MDczMDA4MzdmZmJmYmMwMGEyOGJlZGZh",
   "tracks": [
     {
       "added_at": "2023-07-25 14:27:29",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "\u00d3leo de Coco",
-        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
-      },
-      "artists": [
-        {
-          "name": "Guil\u00e9",
-          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "\u00d3leo de Coco",
-      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
         "name": "Foi Mal",
         "url": "https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 206484,
       "name": "A Vida \u00e9 Uma Granada",
       "url": "https://open.spotify.com/track/6MCrJunzD53N8RzvbuzkXm"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
+        "name": "\u00d3leo de Coco",
+        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
+      },
+      "artists": [
+        {
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "\u00d3leo de Coco",
+      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Quando Eu Falei Pra Ela",
-        "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
-      },
-      "artists": [
-        {
-          "name": "Dani Bessa",
-          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Quando Eu Falei Pra Ela",
-      "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
         "name": "Mete o P\u00e9",
         "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 142699,
       "name": "Mete o P\u00e9",
       "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
+        "name": "Quando Eu Falei Pra Ela",
+        "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
+      },
+      "artists": [
+        {
+          "name": "Dani Bessa",
+          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Quando Eu Falei Pra Ela",
+      "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
+        "name": "Voc\u00ea Sabe",
+        "url": "https://open.spotify.com/album/73EzZvEoh8UVPo1Bn2xaG6"
+      },
+      "artists": [
+        {
+          "name": "TEG\u00ca",
+          "url": "https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Voc\u00ea Sabe",
+      "url": "https://open.spotify.com/track/5KhLRmnp5eEJkfaU783YEc"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
         "name": "Voraz",
         "url": "https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Voc\u00ea Sabe",
-        "url": "https://open.spotify.com/album/73EzZvEoh8UVPo1Bn2xaG6"
+        "name": "Beija e Arranha",
+        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
       },
       "artists": [
         {
-          "name": "TEG\u00ca",
-          "url": "https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F"
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
         }
       ],
-      "duration_ms": 155750,
-      "name": "Voc\u00ea Sabe",
-      "url": "https://open.spotify.com/track/5KhLRmnp5eEJkfaU783YEc"
+      "duration_ms": 172874,
+      "name": "Beija e Arranha",
+      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -559,22 +575,6 @@
       "duration_ms": 180440,
       "name": "Pe\u00e7o Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/2gHdwywG9tXQrb06feK7NP"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
-        "name": "Beija e Arranha",
-        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "Beija e Arranha",
-      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Como \u00c9 Que Faz",
-        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
-      },
-      "artists": [
-        {
-          "name": "Dogge",
-          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
-        }
-      ],
-      "duration_ms": 160747,
-      "name": "Como \u00c9 Que Faz",
-      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
         "name": "Amor de Sonhos",
         "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Febre",
-        "url": "https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi"
+        "name": "Como \u00c9 Que Faz",
+        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
       },
       "artists": [
         {
-          "name": "Turmallina",
-          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
+          "name": "Dogge",
+          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
         }
       ],
-      "duration_ms": 174724,
-      "name": "Febre",
-      "url": "https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG"
+      "duration_ms": 160747,
+      "name": "Como \u00c9 Que Faz",
+      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -671,6 +655,22 @@
       "duration_ms": 163809,
       "name": "Casal Desgra\u00e7a",
       "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
+        "name": "Febre",
+        "url": "https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi"
+      },
+      "artists": [
+        {
+          "name": "Turmallina",
+          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
+        }
+      ],
+      "duration_ms": 174724,
+      "name": "Febre",
+      "url": "https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Mad\u00e1 (Remix)",
-        "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
-      },
-      "artists": [
-        {
-          "name": "Davi Cartaxo",
-          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "Mad\u00e1 - Remix",
-      "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
         "name": "Meu Mantra pra Te Esquecer",
         "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 233019,
       "name": "Meu Mantra pra Te Esquecer",
       "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
+        "name": "Mad\u00e1 (Remix)",
+        "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
+      },
+      "artists": [
+        {
+          "name": "Davi Cartaxo",
+          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
+        }
+      ],
+      "duration_ms": 205862,
+      "name": "Mad\u00e1 - Remix",
+      "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Deixa Pra L\u00e1",
-        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
-      },
-      "artists": [
-        {
-          "name": "Verdan",
-          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Deixa Pra L\u00e1",
-      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
         "name": "Ideia Errada",
         "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 239360,
       "name": "Ideia Errada",
       "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
+        "name": "Deixa Pra L\u00e1",
+        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
+      },
+      "artists": [
+        {
+          "name": "Verdan",
+          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Deixa Pra L\u00e1",
+      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Al\u00edvio",
-        "url": "https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb"
-      },
-      "artists": [
-        {
-          "name": "Cronistas",
-          "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
-        }
-      ],
-      "duration_ms": 191097,
-      "name": "Al\u00edvio",
-      "url": "https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 176398,
       "name": "Me Liga",
       "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
+        "name": "Al\u00edvio",
+        "url": "https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb"
+      },
+      "artists": [
+        {
+          "name": "Cronistas",
+          "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
+        }
+      ],
+      "duration_ms": 191097,
+      "name": "Al\u00edvio",
+      "url": "https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Quartinho",
-        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
-      },
-      "artists": [
-        {
-          "name": "Casali",
-          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Quartinho",
-      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
         "name": "Ma\u00e7\u00e3 do Amor",
         "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 275882,
       "name": "Se Eu Te Ver de Novo",
       "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
+        "name": "Quartinho",
+        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
+      },
+      "artists": [
+        {
+          "name": "Casali",
+          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Quartinho",
+      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
     },
     {
       "added_at": "2023-07-25 14:27:29",

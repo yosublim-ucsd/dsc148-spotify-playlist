@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 721016,
+  "num_followers": 721096,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWJhZmJjYWE2MzE1NzBlMzg3MmQ4NDVkMjM1NmViMmFmYmM3NDdh",
+  "snapshot_id": "MCwxZDdmZjlkZjg4Nzg3YTBkZjU5YmIzMjJjMjA0MzM1ZGRjZDJhYzA0",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Western Wedding",
+        "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 231471,
+      "name": "Long Haul - Piano / Vocal",
+      "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "A Place",
         "url": "https://open.spotify.com/album/2hPqFV54abYxY8dcaF4Xmu"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 248440,
       "name": "The Love That We Need",
       "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Western Wedding",
-        "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 231471,
-      "name": "Long Haul - Piano / Vocal",
-      "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Wild Honey (Acoustic)",
         "url": "https://open.spotify.com/album/5tINqKaSnJLJfQZhMWmkO9"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 247250,
       "name": "Wild Honey (Acoustic)",
       "url": "https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/7sL48SpehQMoKg4whNhjMI"
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
       },
       "artists": [
         {
-          "name": "Eric Van Houten",
-          "url": "https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK"
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
         }
       ],
-      "duration_ms": 171982,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/4aNhnfiXE1BMVXcbCVY037"
+      "duration_ms": 211293,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1103,6 +1087,22 @@
       "duration_ms": 223776,
       "name": "what do i",
       "url": "https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/7sL48SpehQMoKg4whNhjMI"
+      },
+      "artists": [
+        {
+          "name": "Eric Van Houten",
+          "url": "https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK"
+        }
+      ],
+      "duration_ms": 171982,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/4aNhnfiXE1BMVXcbCVY037"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Home To Me",
-        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 186316,
-      "name": "Home To Me",
-      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Honestly (Deluxe)",
         "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 212932,
       "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
       "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
     },
     {
       "added_at": "2023-08-18 04:01:00",

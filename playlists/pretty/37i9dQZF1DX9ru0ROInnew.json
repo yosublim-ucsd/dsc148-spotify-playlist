@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 95331,
+  "num_followers": 95396,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmYzZmI0ZjMzNjE2NjFiNDZiYjY2NzBmNzhkMzMwNTIzMzE3NWM1",
+  "snapshot_id": "MCw2MDU2OTVkYjhmMGE2MTVhYzBkYTA5N2JhY2EzMTZhYWQ1NjFkMzQ0",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 199700,
+      "name": "Side Bitch",
+      "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 246360,
       "name": "Original",
       "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "L3tra",
-        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 199700,
-      "name": "Side Bitch",
-      "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1347,6 +1347,54 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Me Llamas",
+        "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Mark B.",
+          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 327999,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/1ySViVTiU5OmwkJdqXGiug"
       },
@@ -1375,22 +1423,6 @@
       "duration_ms": 284626,
       "name": "Dime",
       "url": "https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1435,38 +1467,6 @@
       "duration_ms": 262500,
       "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/3NbwRR74N1FykCWETcEk3j"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Me Llamas",
-        "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Mark B.",
-          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 327999,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1595,30 +1595,18 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Mi Cubana Remix",
-        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
+        "name": "Esclava (Remix)",
+        "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+          "name": "bryant mayers",
+          "url": "https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK"
         }
       ],
-      "duration_ms": 342558,
-      "name": "Mi Cubana - Remix",
-      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
+      "duration_ms": 284281,
+      "name": "Esclava (Remix)",
+      "url": "https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1691,6 +1679,34 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Mi Cubana Remix",
+        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 342558,
+      "name": "Mi Cubana - Remix",
+      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "TrapXficante",
         "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
       },
@@ -1755,38 +1771,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Sigo Fresh (Remix)",
-        "url": "https://open.spotify.com/album/2wqXRIXMzKipo603C9C2ft"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 274920,
-      "name": "Sigo Fresh - Remix",
-      "url": "https://open.spotify.com/track/0OMftKSWh56NBTbatl2ZIv"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Blanco o Negro (Remix)",
         "url": "https://open.spotify.com/album/1XYbgWmEbABolhk1D4Eygr"
       },
@@ -1839,6 +1823,38 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Sigo Fresh (Remix)",
+        "url": "https://open.spotify.com/album/2wqXRIXMzKipo603C9C2ft"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 274920,
+      "name": "Sigo Fresh - Remix",
+      "url": "https://open.spotify.com/track/0OMftKSWh56NBTbatl2ZIv"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1875,46 +1891,6 @@
       "duration_ms": 224906,
       "name": "Costear - Remix",
       "url": "https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Esclava (Remix)",
-        "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
-      },
-      "artists": [
-        {
-          "name": "bryant mayers",
-          "url": "https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK"
-        }
-      ],
-      "duration_ms": 284281,
-      "name": "Esclava (Remix)",
-      "url": "https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Como Soy",
-        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 312232,
-      "name": "Como Soy",
-      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1967,22 +1943,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Los 90 Piketes",
-        "url": "https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "No Le Baj\u00e9",
-      "url": "https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Swaggy",
         "url": "https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY"
       },
@@ -1999,6 +1959,46 @@
       "duration_ms": 258293,
       "name": "Swaggy",
       "url": "https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Los 90 Piketes",
+        "url": "https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "No Le Baj\u00e9",
+      "url": "https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "All Star",
-        "url": "https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 210700,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "La Calle",
         "url": "https://open.spotify.com/album/1GaaDeoQbKR1VHPxiEiPWZ"
       },
@@ -2123,6 +2103,26 @@
       "duration_ms": 241493,
       "name": "La Calle",
       "url": "https://open.spotify.com/track/3ee5kkhVt22MCCOOkgvdx3"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "All Star",
+        "url": "https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 210700,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v"
     },
     {
       "added_at": "2023-05-25 17:50:01",

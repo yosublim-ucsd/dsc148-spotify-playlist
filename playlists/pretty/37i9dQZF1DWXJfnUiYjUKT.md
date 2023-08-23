@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,209 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,455 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 |
 | 99 | [Runaway](https://open.spotify.com/track/5zQjsdDEqcpXaluAax1jKn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Runaway](https://open.spotify.com/album/5kdzySpTqsyQNS00JQPFff) | 2:47 |
 
-Snapshot ID: `MCw0YTMwNzdlZTg2OWEzMGM0NTRiNGJiNzNiMDJkOWIzOTQ4M2ZhNjBl`
+Snapshot ID: `MCw5ZDQwODJkZTcwNWJlMGE4YjFhOWZmMjQ2ZDc4NzZjZDY3ZWU1MGZh`

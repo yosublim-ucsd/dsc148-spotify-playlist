@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,004 likes - 85 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,098 likes - 85 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 84 | [Vega](https://open.spotify.com/track/7cEbICGWeFyBTmijsRtbjr) | [Ilija Djokovic](https://open.spotify.com/artist/58fmi15nN6S2nqZLRRtdtc) | [Vega / Neon](https://open.spotify.com/album/4D1WC7jQ5m0per5yzOHzSO) | 3:21 |
 | 85 | [Manifesto](https://open.spotify.com/track/3EquvUexPKfu02fbsZAbli) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Manifesto](https://open.spotify.com/album/3irdHO4M4coANVu3Le5ceN) | 3:42 |
 
-Snapshot ID: `MCxhOTA2ZGZjZDRlZmY1MjYwOWE5MWE1NWQwYzdiNWYwYzE3ZTllZWZj`
+Snapshot ID: `MCxiZDU2MTBlMjFmNjljYTFiMTdhZTYzZGI1YmVkODk2NTU3NjJjNzI0`

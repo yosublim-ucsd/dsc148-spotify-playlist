@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > DIESEL celebrates his GORILLA WARFARE album release by taking over Hype with his favorite aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,570,751 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,571,244 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 37 | [One Three Nine](https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [One Three Nine](https://open.spotify.com/album/3mTc50dqYY9Nd1GJP6Isyr) | 2:48 |
 | 38 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
 | 39 | [FEELING GUD](https://open.spotify.com/track/0suLmBuEbatdochI4tHduq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [FEELING GUD](https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC) | 3:10 |
-| 40 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 |
-| 41 | [Arena](https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO) | 3:26 |
+| 40 | [Arena](https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO) | 3:26 |
+| 41 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 |
 | 42 | [Dies Irae feat\. Black Prez](https://open.spotify.com/track/5nafRIDshs3RwVO0sxxgac) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz) | [Requiem](https://open.spotify.com/album/1cNI5bMJk11DV8PglRAd3R) | 5:09 |
 | 43 | [dashstar\* \- Yellow Claw Trap Edit](https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [dashstar\* \(Yellow Claw Trap Edit\)](https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62) | 2:32 |
 | 44 | [Griztronics II \(Another Level\)](https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Griztronics II \(Another Level\)](https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [PEACE LOVE & WUBZ](https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Cojaxx](https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2) | 4:00 |
 | 75 | [Wake Up](https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Wake Up](https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw) | 5:16 |
 
-Snapshot ID: `MCw2NTdmYzJmNmJjMDkwM2IwYzRkNTZiZDAwZjdkNDQzYzBkMjg2ODA0`
+Snapshot ID: `MCw1OTcxZWNmZTg0NmFjMjMwYWUxNWFiYzI5NmZlOGUwMzJlOGJhODU4`

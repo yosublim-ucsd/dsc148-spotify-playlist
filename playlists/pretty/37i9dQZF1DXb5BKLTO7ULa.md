@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,808 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,803 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 24 | [Automatic](https://open.spotify.com/track/5R8lOiAXEKj6IS1wJROpr7) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:07 |
 | 25 | [Crazy](https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Crazy](https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28) | 3:15 |
 | 26 | [Lose Control](https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Lose Control](https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB) | 2:50 |
-| 27 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
+| 27 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
 | 28 | [Ann Demeulemeester](https://open.spotify.com/track/1vEg57fBo1Y5ZYi7SnYR02) | [NOAH](https://open.spotify.com/artist/79sYawfJOgDrPi0FtRsYRy) | [Ann Demeulemeester](https://open.spotify.com/album/3LNegdJIRsnQbD3Mr0Rxgc) | 3:03 |
 | 29 | [At Your Worst](https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [At Your Worst](https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU) | 2:47 |
 | 30 | [COMMAS](https://open.spotify.com/track/6ug9dsMLmOcWc3ATa5byHh) | [Brokezart](https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou) | [BROKEYFLOW!](https://open.spotify.com/album/05K7CBReePO0XktJJBzzD6) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Sweet Talking Honeys \(feat\. Max Tuohy\)](https://open.spotify.com/track/1aa6C8kTiQCjHulkxmMTbM) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF), [Max Tuohy](https://open.spotify.com/artist/6ll2ZlFzEpHh6WKZhXatK8) | [Sweet Talking Honeys \(feat\. Max Tuohy\)](https://open.spotify.com/album/1hso95vrFE15sn24uzWBum) | 3:32 |
 | 100 | [UPSIDE DOWN](https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [UPSIDE DOWN](https://open.spotify.com/album/435sa84NSMTcIzBeSN178q) | 3:10 |
 
-Snapshot ID: `MCwzYmEyOTk2MWI1NzNlMmI5ODAwMzRiYTFlMDVmZjRjNzgwOTg5YmZm`
+Snapshot ID: `MCw0OWI4MWM1MDRhNTY3NTgzOTZjM2FiMWNjNTQ4YzkyNzA3OGRmNTQ3`

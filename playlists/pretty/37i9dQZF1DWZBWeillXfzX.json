@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 19593,
+  "num_followers": 19602,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2JiMjQ0OTljZGE5OWY1MDUwNTMyZGUyYjRhYTBjMGNiZDQ0YmJl",
+  "snapshot_id": "MCxkNDNmNjJlOTJmNGY0YzUxNmNhYTA1ZjMwZWEzNzhkYjI5OGQ1NGZj",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
-    },
-    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Surfing",
@@ -487,6 +471,22 @@
       "duration_ms": 165687,
       "name": "Surfing",
       "url": "https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Chills & Thrills",
         "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 241706,
       "name": "Groove With Me",
       "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
     },
     {
       "added_at": "2022-02-23 14:50:27",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Mile End",
-        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Bottleneck Stomp",
@@ -703,6 +687,22 @@
       "duration_ms": 201859,
       "name": "Bottleneck Stomp",
       "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Mile End",
+        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 270370,
+      "name": "Clawhammer",
+      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
     },
     {
       "added_at": "2021-04-27 23:04:41",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2"
-      },
-      "artists": [
-        {
-          "name": "Jared James Nichols",
-          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
-        }
-      ],
-      "duration_ms": 174892,
-      "name": "Keep Your Light on Mama",
-      "url": "https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Royal Tea",
         "url": "https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 268733,
       "name": "Royal Tea",
       "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2"
+      },
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "duration_ms": 174892,
+      "name": "Keep Your Light on Mama",
+      "url": "https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn"
     },
     {
       "added_at": "2020-10-21 17:37:12",

@@ -4,11 +4,12 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-231 songs - 14 hr 50 min
+232 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['S Wonderful](https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:28 | 2022-05-13 |  |
+| [A Bossa for Love](https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Smile For Me](https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK) | 3:30 | 2023-08-15 |  |
 | [A Little Brighter Every Day](https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Little Brighter Every Day](https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp) | 3:17 | 2022-11-11 |  |
 | [A Tonga Da Mironga Do Kabuletê](https://open.spotify.com/track/1xgiVKlkBQsBeDfImpQXYM) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [20 Grandes Sucessos De Vinicius De Moreas](https://open.spotify.com/album/0XRyGJJdrVKMDmp70hKQpo) | 0:54 | 2022-05-13 | 2022-07-29 |
 | [A Tonga Da Mironga Do Kabuletê](https://open.spotify.com/track/5BIsNWsHDfCeU8dYexiCsQ) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [10 Anos De Toquinho Vinicius](https://open.spotify.com/album/6AP1sDqKGb05wqpDtwJt39) | 1:00 | 2022-06-28 |  |
@@ -21,7 +22,7 @@
 | [Aquela Bossa Axé](https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S) | [Affonsinho](https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ) | [Belê](https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx) | 4:29 | 2022-05-13 |  |
 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 | 2022-05-13 |  |
 | [Baubles, Bangles and Beads](https://open.spotify.com/track/7oEGoBAzmD8fvAnJKOW8Cq) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 5:00 | 2022-05-13 | 2022-07-29 |
-| [Baubles, Bangles and Beads](https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:02 | 2022-06-28 |  |
+| [Baubles, Bangles and Beads](https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:02 | 2022-06-28 | 2023-08-23 |
 | [Besame Mucho](https://open.spotify.com/track/2RvRcb0PpVyDr6lnMBbwC5) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 6:40 | 2022-05-13 | 2023-02-03 |
 | [Black Orpheus](https://open.spotify.com/track/2gURzEbMFhxw1ujKV3v1HY) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Black Orpheus](https://open.spotify.com/album/1uIZcgp7yorDXZFTY7Eh53) | 4:14 | 2022-05-13 | 2022-07-29 |
 | [Blue Bossa](https://open.spotify.com/track/30C4zBKFkScobGBxIPCuS1) | [Ana Caram](https://open.spotify.com/artist/6wo2wDOKUSRpTSB7c21DyV) | [Blue Bossa](https://open.spotify.com/album/6XF9UCkQSJoS581x2pdG81) | 4:27 | 2022-08-10 | 2023-07-09 |

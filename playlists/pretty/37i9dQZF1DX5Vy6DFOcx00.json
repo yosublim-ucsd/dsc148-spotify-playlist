@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3542922,
+  "num_followers": 3544060,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTE1YjI1MmQ4MzBiZWQyZmMzZjcwODViMDdmYTlkY2UyYjg2NTFh",
+  "snapshot_id": "MCwxODk2ZDA5ODM3NDljODYzYTBkMGIzYzZlNDE4MDdiYTJkMWU4ZGU2",
   "tracks": [
     {
       "added_at": "2023-08-01 15:57:07",
@@ -173,26 +173,6 @@
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
     },
     {
-      "added_at": "2023-08-11 15:07:04",
-      "album": {
-        "name": "3x3",
-        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 126600,
-      "name": "I LOVE YOU HOE (w/ 9lives)",
-      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
-    },
-    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Prada",
@@ -215,6 +195,26 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2023-07-27 13:55:06",
+      "album": {
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -283,6 +283,22 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2023-08-22 16:37:37",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -543,6 +559,26 @@
       "duration_ms": 211253,
       "name": "Nun id change",
       "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
+    },
+    {
+      "added_at": "2023-08-11 15:07:04",
+      "album": {
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -959,26 +995,6 @@
       "duration_ms": 170267,
       "name": "Bent",
       "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
-    },
-    {
-      "added_at": "2023-07-27 13:55:06",
-      "album": {
-        "name": "GMFU (w/ 6arelyhuman)",
-        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "GMFU (w/ 6arelyhuman)",
-      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     },
     {
       "added_at": "2023-08-16 18:05:26",
@@ -1793,30 +1809,6 @@
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
     },
     {
-      "added_at": "2023-08-15 14:50:24",
-      "album": {
-        "name": "The Krusty Pack",
-        "url": "https://open.spotify.com/album/1jBNhLA91c4XVAEhUtsELd"
-      },
-      "artists": [
-        {
-          "name": "Kash Krabs",
-          "url": "https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP"
-        },
-        {
-          "name": "Oddwin",
-          "url": "https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa"
-        },
-        {
-          "name": "Sauceward",
-          "url": "https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv"
-        }
-      ],
-      "duration_ms": 112464,
-      "name": "KRUSTY KREW ANTHEM (BACK ON THE GRILL)",
-      "url": "https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv"
-    },
-    {
       "added_at": "2023-06-09 16:12:25",
       "album": {
         "name": "Hollywood's Bleeding",
@@ -2027,30 +2019,6 @@
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
-    },
-    {
-      "added_at": "2023-06-09 16:12:25",
-      "album": {
-        "name": "Bounce When She Walk",
-        "url": "https://open.spotify.com/album/7pndBSo9qVGxKLwtZknsWr"
-      },
-      "artists": [
-        {
-          "name": "Ohboyprince",
-          "url": "https://open.spotify.com/artist/7Ck9ZyYvzMnaBQ76ZrSJFI"
-        },
-        {
-          "name": "Mykfresh",
-          "url": "https://open.spotify.com/artist/0QDU0rLqKIoMNQhBT2gtUI"
-        },
-        {
-          "name": "GwallaGangSpec",
-          "url": "https://open.spotify.com/artist/2t84S2g3Q80dhKAHi9ekOA"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "Bounce When She Walk",
-      "url": "https://open.spotify.com/track/3d1uVR0tV2z4QxKH3gcxrK"
     },
     {
       "added_at": "2023-06-09 16:12:25",

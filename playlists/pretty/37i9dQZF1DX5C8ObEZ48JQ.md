@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,411 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,417 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 51 | [Falling in Love](https://open.spotify.com/track/0Tnzjifkv9W8xm0wXy7gOh) | [Choccy Chox](https://open.spotify.com/artist/1Il8vHCOT51z2KfQXPJNJv) | [Falling in Love](https://open.spotify.com/album/1awIuzfs8WL23tLUeBnEf1) | 3:09 |
 | 52 | [half day](https://open.spotify.com/track/1M3TkNfhGSGnox2Xbh5GQk) | [ETB](https://open.spotify.com/artist/7ycml9pvXVpp2GYLr4l672) | [Road To PsychaHomies I](https://open.spotify.com/album/2iZgbDtVOW7MgWPwzfj31f) | 2:25 |
 
-Snapshot ID: `MCwyMDM5MmYzMGEwYzQ5NGI4NjYxNzU5NzJhMDk3MmEwMTgwZTU5NWVk`
+Snapshot ID: `MCwwMzYzZTBjZTBiM2FlNmI2YTk1ZjU4ZTlkOThmYzBjNWJjNzlkMzAw`

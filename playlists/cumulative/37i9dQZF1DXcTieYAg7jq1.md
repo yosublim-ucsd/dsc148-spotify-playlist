@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Jon Batiste
 
-337 songs - 19 hr 29 min
+338 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [Breaking Each Other's Hearts](https://open.spotify.com/track/6FzMIRJ6zBDWjtTW4yx4Zy) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Breaking Each Other's Hearts](https://open.spotify.com/album/3Qs9pz9ZOAr6vQKQquVfJS) | 4:43 | 2021-12-24 | 2022-04-21 |
 | [Breaking Myself](https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK) | [Grace Kinstler](https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u) | [Breaking Myself](https://open.spotify.com/album/1etjAoMPvUup3w3M95kfNb) | 2:54 | 2022-05-17 | 2023-02-15 |
 | [Breaking Myself](https://open.spotify.com/track/7jDlsRzKo3tsMsTEjL1Ns2) | [Grace Kinstler](https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u) | [Breaking Myself](https://open.spotify.com/album/2cpfzE4YqxiesLIQaFqMzt) | 2:54 | 2022-05-20 |  |
-| [BREATH](https://open.spotify.com/track/0goFsDJnWHwEoVXESYH3cB) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [ALGORHYTHM](https://open.spotify.com/album/15AhB3pd27Jn2XxMCKDgI8) | 3:30 | 2022-05-13 |  |
+| [BREATH](https://open.spotify.com/track/0goFsDJnWHwEoVXESYH3cB) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [ALGORHYTHM](https://open.spotify.com/album/15AhB3pd27Jn2XxMCKDgI8) | 3:30 | 2022-05-13 | 2023-08-23 |
 | [BREATH](https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [BREATH](https://open.spotify.com/album/4pMqeL0MbG9Zjvr555FpNl) | 3:30 | 2022-05-13 | 2022-08-22 |
+| [BREATH](https://open.spotify.com/track/7nP1S5bBL1WVSegAul8hHD) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [ALGORHYTHM](https://open.spotify.com/album/14K5hifezIvbkbKuQCkY1s) | 3:30 | 2022-05-17 |  |
 | [Bring It On Home to Me](https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 4:35 | 2022-03-25 | 2023-02-16 |
 | [Broke](https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Broke](https://open.spotify.com/album/7EFpevvrKa2TjXTFSaVR1z) | 3:27 | 2021-12-03 | 2022-10-01 |
 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-06-17 | 2023-07-01 |

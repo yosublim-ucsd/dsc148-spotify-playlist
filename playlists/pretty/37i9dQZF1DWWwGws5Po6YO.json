@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 30333,
+  "num_followers": 30347,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTM2MGZiZGUzOGQzZDJjZGY2Njc2ZTcwYTUxOTdhMTg5M2U2NTRl",
+  "snapshot_id": "MCw2ZTUyNmQ3Y2RmZjA2ZTcyYmUzNTdiOWY0OTFmNjA4YTQ0OTZhM2Ex",
   "tracks": [
     {
       "added_at": "2023-08-21 16:25:57",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+        "name": "The Sacrificial Code",
+        "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
         }
       ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+      "duration_ms": 653904,
+      "name": "Spectacle Of Ritual",
+      "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "The Sacrificial Code",
-        "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
       "artists": [
         {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 653904,
-      "name": "Spectacle Of Ritual",
-      "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 208912,
-      "name": "The Trembling of Glass",
-      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
         }
       ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
+      "duration_ms": 208912,
+      "name": "The Trembling of Glass",
+      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Night Journeys II",
-        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 436776,
-      "name": "Night Journeys II",
-      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "A Mythology of Circles",
         "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 251887,
       "name": "The North Wind",
       "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 468000,
       "name": "Long Dizzying Air Through A Balcony Door",
       "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "The Flower And The Vessel",
-        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        }
-      ],
-      "duration_ms": 478488,
-      "name": "Moderato Cantabile",
-      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "The Flower And The Vessel",
+        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 478488,
+      "name": "Moderato Cantabile",
+      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
         "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
         "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "a journey...",
         "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Fountainhead",
-        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
-      },
-      "artists": [
-        {
-          "name": "Courtney Swain",
-          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
-        }
-      ],
-      "duration_ms": 405570,
-      "name": "fountainhead",
-      "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "@0",
         "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 280000,
       "name": "dana\u00efdes",
       "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Fountainhead",
+        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
+      },
+      "artists": [
+        {
+          "name": "Courtney Swain",
+          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
+        }
+      ],
+      "duration_ms": 405570,
+      "name": "fountainhead",
+      "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Eyes Set Against The Sun",
-        "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
-      },
-      "artists": [
-        {
-          "name": "Mira Calix",
-          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
-        }
-      ],
-      "duration_ms": 78373,
-      "name": "A Cereus Night",
-      "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Keep the Ocean Inside",
-        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+        "name": "Eyes Set Against The Sun",
+        "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
       },
       "artists": [
         {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
         }
       ],
-      "duration_ms": 291026,
-      "name": "Divining (naming of the Lost)",
-      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
+      "duration_ms": 78373,
+      "name": "A Cereus Night",
+      "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1431,6 +1415,22 @@
       "duration_ms": 227748,
       "name": "Effektology",
       "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Keep the Ocean Inside",
+        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+      },
+      "artists": [
+        {
+          "name": "The Seven Fields Of Aphelion",
+          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+        }
+      ],
+      "duration_ms": 291026,
+      "name": "Divining (naming of the Lost)",
+      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Maquishti",
-        "url": "https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc"
-      },
-      "artists": [
-        {
-          "name": "Patricia Brennan",
-          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
-        }
-      ],
-      "duration_ms": 343594,
-      "name": "Sonnet",
-      "url": "https://open.spotify.com/track/19829GO0Ckd7czgPIoSoVb"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "Chain Reaction at Dusk",
         "url": "https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 448119,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Maquishti",
+        "url": "https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc"
+      },
+      "artists": [
+        {
+          "name": "Patricia Brennan",
+          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
+        }
+      ],
+      "duration_ms": 343594,
+      "name": "Sonnet",
+      "url": "https://open.spotify.com/track/19829GO0Ckd7czgPIoSoVb"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
+        "name": "Laurus",
+        "url": "https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 245296,
+      "name": "Laurus I",
+      "url": "https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
         "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
         "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 835000,
       "name": "Firmamento",
       "url": "https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
-        "name": "The Harmonic Series Volume 2",
-        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 868000,
-      "name": "Pipe Inversions",
-      "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
     }
   ],
   "unique_name": "EQUAL Ambient",

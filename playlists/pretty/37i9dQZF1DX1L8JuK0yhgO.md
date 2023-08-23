@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,507 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,514 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Shiver \- Logic1000 Remix](https://open.spotify.com/track/5dD7s5xnVh3Zk8fwt63lpA) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Shiver \(Logic1000 Remix\)](https://open.spotify.com/album/7hzkgn6hlrjoL6NssosKdd) | 3:34 |
 | 60 | [Freak Me Now \(with Róisín Murphy\) \- Horse Meat Disco Remix](https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna) | [Freak Me Now \(with Róisín Murphy\) \[Horse Meat Disco Remix\]](https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r) | 2:53 |
 
-Snapshot ID: `MCw4OTI1NjAwNTkxYTQ4NDNmNTI0YjcyYzVmNTgzMTBlYWQzYmRhNGMx`
+Snapshot ID: `MCw4MTY3ODU0MTM0OTZiNmUxNjFkNzEyZjZhOTg1OWIzY2I2YTkyOTVj`

@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-280 songs - 19 hr 45 min
+281 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Furui Chizu \(Old Map\)](https://open.spotify.com/track/0cNzX9fSafdJQQuxNeUOFM) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI), [Kazuma Fujimoto](https://open.spotify.com/artist/20qDjhYBrYKWNCKmGgJIFH) | [Yoru no Niwa \(Night Garden\)](https://open.spotify.com/album/596yPS71AnU4gBjgzK4eKR) | 3:42 | 2022-11-10 | 2022-12-14 |
 | [Gekijyou](https://open.spotify.com/track/6JgoiW5cZae1GUEktXaJLq) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 5:58 | 2023-08-15 |  |
 | [Gloria](https://open.spotify.com/track/1LfLRWF1I3ydJpNgwGP88u) | [Wuinguin](https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO) | [Gloria](https://open.spotify.com/album/4c7yPOvymJDhwEpwiQ1yOq) | 3:07 | 2023-03-14 | 2023-03-29 |
-| [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 | 2022-10-20 |  |
+| [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 | 2022-10-20 | 2023-08-23 |
 | [grace](https://open.spotify.com/track/4tIvs7L5ND34rMCCfMuKUQ) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs) | [grace](https://open.spotify.com/album/5xy29po3H6R9PgsIfznkl3) | 3:03 | 2022-12-06 | 2022-12-14 |
 | [Hadaka no Yume](https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:45 | 2022-11-29 | 2023-03-15 |
 | [hands\(Ryu Solo\)](https://open.spotify.com/track/6oesXGLBBZKGGK8AXp9TAM) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [hands\(Ryu Solo\)](https://open.spotify.com/album/4kR9HrwMDDFtvaCbycRXEe) | 4:32 | 2023-02-07 | 2023-03-29 |
@@ -94,7 +94,7 @@
 | [Metropolis](https://open.spotify.com/track/4am1waZVRIO48gAweG91DJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [ATOM](https://open.spotify.com/album/0DYVvqZiXhTNYPPPRkTxBX) | 4:54 | 2023-01-31 | 2023-03-15 |
 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 | 2022-10-20 |  |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-10-20 | 2022-10-25 |
-| [Moon Flower](https://open.spotify.com/track/1zNdql4RAENgsKUM6W0muM) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [plantar](https://open.spotify.com/artist/6zTZAei3hiLeqle3De8Sgy) | [Moon Flower](https://open.spotify.com/album/1wkeXhf7uEOzqCBeRcn50R) | 1:58 | 2023-08-08 |  |
+| [Moon Flower](https://open.spotify.com/track/1zNdql4RAENgsKUM6W0muM) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [plantar](https://open.spotify.com/artist/6zTZAei3hiLeqle3De8Sgy) | [Moon Flower](https://open.spotify.com/album/1wkeXhf7uEOzqCBeRcn50R) | 1:58 | 2023-08-08 | 2023-08-23 |
 | [Moon Light Lover](https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:54 | 2022-10-20 | 2023-01-20 |
 | [More Bitter, Mocha Better](https://open.spotify.com/track/0lm5AVNYD2D7wpoy9M6Xqh) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5hn610tVThK7GHm2XJKCiD) | 3:50 | 2023-08-01 | 2023-08-03 |
 | [More Bitter, Mocha Better](https://open.spotify.com/track/7Eas2Kp8CmRqHEphZWIMBG) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5vxSSnVFtIL5ZVsWQp4zoO) | 3:50 | 2023-08-01 | 2023-08-09 |
@@ -112,7 +112,8 @@
 | [Nobose](https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:02 | 2023-03-30 | 2023-04-19 |
 | [only time will tell..\. \- naked](https://open.spotify.com/track/360eGzbp66k5gAn1AKan1d) | [sphere](https://open.spotify.com/artist/4uBU5O7I0CyLona5bxwQ9N) | [sphaera anatomica \(ius\)](https://open.spotify.com/album/3FTYtUdPJSaKy5LrDWUlyI) | 5:46 | 2023-02-07 | 2023-02-22 |
 | [only time will tell..\. \- naked](https://open.spotify.com/track/4uioPoQmPjHc7vcZjb04x5) | [sphere](https://open.spotify.com/artist/4uBU5O7I0CyLona5bxwQ9N) | [sphaera anatomica \(ius\)](https://open.spotify.com/album/1T1UNuk2F1aEN8CmGa8nq9) | 5:46 | 2023-02-07 | 2023-02-09 |
-| [Oyasuminasai](https://open.spotify.com/track/5ZNvOTXfclQg193urphVaB) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Aki Soba ni Iruyo](https://open.spotify.com/album/0xsggoIvgXQUNxWwwQQLTV) | 5:59 | 2023-05-23 | 2023-05-31 |
+| [Oyasuminasai](https://open.spotify.com/track/5ZNvOTXfclQg193urphVaB) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Aki Soba ni Iruyo](https://open.spotify.com/album/0xsggoIvgXQUNxWwwQQLTV) | 5:59 | 2023-05-23 |  |
+| [Parthenon Ginzadoori](https://open.spotify.com/track/1NIcSBsiCg0cfrDAc9O7LV) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Kitrist II](https://open.spotify.com/album/2JUW82k0C8jdT6MPuxX4D5) | 6:47 | 2023-08-22 |  |
 | [Phase \- Extended Version](https://open.spotify.com/track/08rXHo15Jw4zsKjj9p2pbM) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [Phase \(Extended Version\)](https://open.spotify.com/album/5Ymjmii57wYbrbYXX4kuBL) | 4:43 | 2023-01-26 | 2023-02-01 |
 | [Porcelain](https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 4:29 | 2022-10-20 |  |
 | [Porch](https://open.spotify.com/track/0zqutuQYcvqVQYwkGumEwx) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Porch](https://open.spotify.com/album/4Z9BhFVIeiWISSPhwRIh7Q) | 4:43 | 2023-08-01 | 2023-08-09 |

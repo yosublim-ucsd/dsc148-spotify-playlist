@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > TRUCKER MOTHERF\*CKER!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,504 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,543 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [SOL, VIND OCH SNAPS](https://open.spotify.com/track/6blrBpvFOwOCfYKDqH5bXn) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Mr DUNK](https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt) | [SOL, VIND OCH SNAPS](https://open.spotify.com/album/0Sc3mpJhTycU8Ei59cP29z) | 2:50 |
 | 100 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
 
-Snapshot ID: `MCw3YmU4N2MyM2M2YjBlYjcyYjVkZjk5NTE4NWEwZDRiZWQyYmRkMDhl`
+Snapshot ID: `MCxiYjk0ODRmZThkMDQ1NDUzODM4MGI2ZjNlODAzZmEzMDVkNDgyODdm`

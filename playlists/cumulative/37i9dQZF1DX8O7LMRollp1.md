@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the drama Revenant\. \(드라마 악귀의 사운드 트랙들을 즐겨보세요!\) You can also listen to thriller music that makes you cool on a summer night\. \(여름밤을 시원하게 만드는 스릴러 음악도 즐겨보실 수 있습니다.\)
 
-26 songs - 1 hr 30 min
+27 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Masquerade](https://open.spotify.com/track/6hFPa6GpnhfWQ41eYzMmUl) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5keaPpWXYATKuyUJMDiAES) | 3:59 | 2023-07-28 |  |
 | [My Memory](https://open.spotify.com/track/12b7eFXKrN0YpCZUrowr2L) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Ms\. Ma, Nemesis Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1VNrFFuQolqocGmkywk4ER) | 3:13 | 2023-07-05 | 2023-08-09 |
 | [My Memory](https://open.spotify.com/track/1ScvO2wzYVWFU5JcK6KRIQ) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Ms\. Ma, Nemesis Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5XmTqXUCFzb9ttkHvg2lrC) | 3:13 | 2023-07-28 |  |
-| [Nothing](https://open.spotify.com/track/2pyH87conA4SW4VmRhRUAy) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Secret Mother, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/15jrAAFaQff12nsNZN0kSH) | 4:24 | 2023-07-05 |  |
+| [Nothing](https://open.spotify.com/track/2pyH87conA4SW4VmRhRUAy) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Secret Mother, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/15jrAAFaQff12nsNZN0kSH) | 4:24 | 2023-07-05 | 2023-08-23 |
+| [Nothing](https://open.spotify.com/track/70l6ayPCoOKfICNM2F3HJz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Secret Mother, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3153yH5NEVXryZjr8tfSdf) | 4:24 | 2023-07-28 |  |
 | [Perfect Love](https://open.spotify.com/track/1op752KyLvopYxqcsCZtxs) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Secret Mother, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Gybhk6IErhOvhRHghcHsK) | 2:25 | 2023-07-05 |  |
 | [Prelude Of Counterattack](https://open.spotify.com/track/2XnfteCJlVDZqoTq9LpPaC) | [Jung Se Rin](https://open.spotify.com/artist/4nZVGTg50D9VAXllvDofSI) | [Penthouse 2&3 Score Album \(Original Television Soundtrack\)](https://open.spotify.com/album/7vBJOMapLNX9n1NTzifzf3) | 3:06 | 2023-07-05 |  |
 | [The breath](https://open.spotify.com/track/0ueGZc0MRyHtYtIDIHUXKT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Revenant \(Original Soundtrack\) Pt.4](https://open.spotify.com/album/1YBoX5Ch2K3W0qbBNqSs5R) | 3:33 | 2023-07-28 |  |

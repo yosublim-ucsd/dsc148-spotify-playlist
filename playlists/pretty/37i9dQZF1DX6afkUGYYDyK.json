@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 17425,
+  "num_followers": 17426,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWIzNjQxOGM0OGZkOGE4ZTA3ZjJlNDlkNTRhYWMzMDIxZjcwYmI1",
+  "snapshot_id": "MCwyZjNlNzgwZTgyZTQwMjFkNGYyNDkxNDlhYjBmOTUxN2U0ZThkNzk5",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Classic Gold: Best of Andrae: Andrae Crouch and the Disciples",
+        "url": "https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 217786,
+      "name": "My Tribute",
+      "url": "https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 197280,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Classic Gold: Best of Andrae: Andrae Crouch and the Disciples",
-        "url": "https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 217786,
-      "name": "My Tribute",
-      "url": "https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86"
     },
     {
       "added_at": "2022-11-23 15:01:23",

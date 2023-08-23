@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 275683,
+  "num_followers": 275969,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjA0NjVmMzM4NTBlOGI4MmVmYmE0Yjc2ODM0MzA1MTEwY2Q2YjZl",
+  "snapshot_id": "MCxlNzI5YmY0ZTUzZmE2YmQzNmVhZWI3ODllNTRmNzJiYWY2ZWJjMThl",
   "tracks": [
     {
       "added_at": "2023-08-21 12:58:17",
@@ -167,22 +167,26 @@
     {
       "added_at": "2023-08-21 12:58:17",
       "album": {
-        "name": "Give a Little",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
+        "name": "Desert Rose",
+        "url": "https://open.spotify.com/album/6GqDLlWydXny5lk8E7OpOP"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
         },
         {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+          "name": "Nikko Sunset",
+          "url": "https://open.spotify.com/artist/1JIYn2nzWdIwsys5ZjzUM6"
+        },
+        {
+          "name": "Maria Zhitnikova",
+          "url": "https://open.spotify.com/artist/5LOLOnagiu58TcRs3YEguF"
         }
       ],
-      "duration_ms": 234838,
-      "name": "Give a Little",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
+      "duration_ms": 157165,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/3g1bjrdnhYss63z1V6NRYX"
     },
     {
       "added_at": "2023-08-21 12:58:17",
@@ -219,26 +223,22 @@
     {
       "added_at": "2023-08-21 12:58:17",
       "album": {
-        "name": "Desert Rose",
-        "url": "https://open.spotify.com/album/6GqDLlWydXny5lk8E7OpOP"
+        "name": "Give a Little",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
       },
       "artists": [
         {
-          "name": "Dim Angelo",
-          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         },
         {
-          "name": "Nikko Sunset",
-          "url": "https://open.spotify.com/artist/1JIYn2nzWdIwsys5ZjzUM6"
-        },
-        {
-          "name": "Maria Zhitnikova",
-          "url": "https://open.spotify.com/artist/5LOLOnagiu58TcRs3YEguF"
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
         }
       ],
-      "duration_ms": 157165,
-      "name": "Desert Rose",
-      "url": "https://open.spotify.com/track/3g1bjrdnhYss63z1V6NRYX"
+      "duration_ms": 234838,
+      "name": "Give a Little",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2023-08-21 12:58:17",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-08-21 12:58:17",
       "album": {
-        "name": "Journey (Mahmut Orhan Remix)",
-        "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
-      },
-      "artists": [
-        {
-          "name": "Mark Eliyahu",
-          "url": "https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 262647,
-      "name": "Journey - Mahmut Orhan Remix",
-      "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
-    },
-    {
-      "added_at": "2023-08-21 12:58:17",
-      "album": {
         "name": "Nu Vreau",
         "url": "https://open.spotify.com/album/0ee7ZElrlFTTPATQV9OUJZ"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 193149,
       "name": "Nu Vreau",
       "url": "https://open.spotify.com/track/2R5TjEso8PJ9TcSoGjVfwH"
+    },
+    {
+      "added_at": "2023-08-21 12:58:17",
+      "album": {
+        "name": "Journey (Mahmut Orhan Remix)",
+        "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
+      },
+      "artists": [
+        {
+          "name": "Mark Eliyahu",
+          "url": "https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 262647,
+      "name": "Journey - Mahmut Orhan Remix",
+      "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
     },
     {
       "added_at": "2023-08-21 12:58:17",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-08-21 12:58:17",
       "album": {
+        "name": "Ahwak (Deeper Remix)",
+        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 300582,
+      "name": "Ahwak (Deeper Remix)",
+      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
+    },
+    {
+      "added_at": "2023-08-21 12:58:17",
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2023-08-21 12:58:17",
-      "album": {
-        "name": "Ahwak (Deeper Remix)",
-        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 300582,
-      "name": "Ahwak (Deeper Remix)",
-      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
     },
     {
       "added_at": "2023-08-21 12:58:17",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-08-21 12:58:17",
       "album": {
-        "name": "Love of You (The Violin Song)",
-        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
-      },
-      "artists": [
-        {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
-        },
-        {
-          "name": "Brianna",
-          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
-        }
-      ],
-      "duration_ms": 160575,
-      "name": "Love of You (The Violin Song)",
-      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
-    },
-    {
-      "added_at": "2023-08-21 12:58:17",
-      "album": {
         "name": "Che Danestam (Seventh Soul Remix)",
         "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 506666,
       "name": "Che Danestam - Seventh Soul Remix",
       "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
+    },
+    {
+      "added_at": "2023-08-21 12:58:17",
+      "album": {
+        "name": "Love of You (The Violin Song)",
+        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "Love of You (The Violin Song)",
+      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
     },
     {
       "added_at": "2023-08-21 12:58:17",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-08-21 12:58:17",
       "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2023-08-21 12:58:17",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2023-08-21 12:58:17",
+      "album": {
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+      },
+      "artists": [
+        {
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2023-08-21 12:58:17",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-08-21 12:58:17",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
-      },
-      "artists": [
-        {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
-        },
-        {
-          "name": "Murat Salman",
-          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
-    },
-    {
-      "added_at": "2023-08-21 12:58:17",
-      "album": {
         "name": "Sakaratou Achiqin",
         "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 139415,
       "name": "Sakaratou Achiqin",
       "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+    },
+    {
+      "added_at": "2023-08-21 12:58:17",
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
+      },
+      "artists": [
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        },
+        {
+          "name": "Murat Salman",
+          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
     },
     {
       "added_at": "2023-08-21 12:58:17",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-08-21 12:58:17",
       "album": {
-        "name": "Asha",
-        "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        }
-      ],
-      "duration_ms": 252857,
-      "name": "Asha",
-      "url": "https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm"
-    },
-    {
-      "added_at": "2023-08-21 12:58:17",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 269378,
       "name": "Angelic",
       "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
+    },
+    {
+      "added_at": "2023-08-21 12:58:17",
+      "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        }
+      ],
+      "duration_ms": 252857,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm"
     },
     {
       "added_at": "2023-08-21 12:58:17",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2023-08-21 12:58:17",
       "album": {
+        "name": "Arab Money",
+        "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
+      },
+      "artists": [
+        {
+          "name": "Moonlight",
+          "url": "https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ"
+        },
+        {
+          "name": "Dayana",
+          "url": "https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Arab Money",
+      "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
+    },
+    {
+      "added_at": "2023-08-21 12:58:17",
+      "album": {
         "name": "Riviera",
         "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
       },
@@ -1911,38 +1931,22 @@
     {
       "added_at": "2023-08-21 12:58:17",
       "album": {
-        "name": "Arab Money",
-        "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
       },
       "artists": [
         {
-          "name": "Moonlight",
-          "url": "https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ"
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
         },
         {
-          "name": "Dayana",
-          "url": "https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632"
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Arab Money",
-      "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
-    },
-    {
-      "added_at": "2023-08-21 12:58:17",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     }
   ],
   "unique_name": "mosaic",

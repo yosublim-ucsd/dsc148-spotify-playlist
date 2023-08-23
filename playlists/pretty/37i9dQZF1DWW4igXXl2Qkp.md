@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:3yQMCDmPQPJlf6xJMzcnZL">Chow Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,389 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,465 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Dark Hunter](https://open.spotify.com/track/0xh0B9clrDt0gzmG4OpHsm) | [Gem Ceasar](https://open.spotify.com/artist/2Txm3BfqwwkWXBQBUqPGTd) | [Dark Hunter](https://open.spotify.com/album/1LSZ8hWTjtxjAJlrHqywhF) | 3:05 |
 | 75 | [Stones](https://open.spotify.com/track/2TmcoeozCAFmtIK1LWAqNt) | [Shame Gang](https://open.spotify.com/artist/3lERpk1kWnCnrau3vcC8MA), [Sonny Miles](https://open.spotify.com/artist/5H9W2VTCkxdGYTgkTbZM6J) | [Better Late Than Never](https://open.spotify.com/album/03G2w5Yq1wbXkRslJutzYB) | 3:45 |
 
-Snapshot ID: `MCxhMjgxZTczYjIyNTUzMTZiZmQyOGY5MDBjYzVjNGY3OWI2ODVmNjM2`
+Snapshot ID: `MCw4Y2Y4ZWU5Y2RmZDcyZWM0MjMwNjMyNmE1N2IyZWRhYjBlNDJkNTZl`

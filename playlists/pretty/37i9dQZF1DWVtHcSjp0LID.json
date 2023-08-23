@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 59335,
+  "num_followers": 59367,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDViODBiYTMxMzQzZWQ0NGYzMDkwZmFkNjU3MDBjZDI5ZDBkZWMw",
+  "snapshot_id": "MCwzNGMxNGE5OWQ0MjAyMGFlMmI0Y2U2YjZkZmJhYjMwNDlhZTZkOGQ5",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 344166,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Occasional Magic Remixes EP",
         "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 330145,
       "name": "Occasional Magic - Ulrich Schnauss Remix",
       "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 344166,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb"
     }
   ],
   "unique_name": "Deep Study",

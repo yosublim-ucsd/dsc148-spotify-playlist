@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-337 songs - 15 hr 8 min
+339 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Kiss In The Rain](https://open.spotify.com/track/2QOk0tGjSjyVMduRcw1OXK) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [A Kiss In The Rain](https://open.spotify.com/album/0K2cvO03dNYCPi9KJhOuw3) | 1:45 | 2022-11-14 | 2023-08-02 |
 | [A Model of the Universe](https://open.spotify.com/track/5ay0cvjtVAbMLOe8gTadFh) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:52 | 2022-08-01 |  |
 | [A Sky On Fire](https://open.spotify.com/track/2VpTN9X4LJjVOkGmLFY6Fh) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [A Sky On Fire](https://open.spotify.com/album/2oCftHwKeRxgnEshiubb4K) | 1:54 | 2023-01-31 |  |
+| [A Windless Night](https://open.spotify.com/track/04UhIAPoW2hKtnyzcDyLAW) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [A Windless Night](https://open.spotify.com/album/0r95YU3ymt2kH8tXBrg2AC) | 2:24 | 2023-08-22 |  |
 | [A World Without Pain](https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw) | 2:36 | 2022-08-01 |  |
 | [Aba](https://open.spotify.com/track/39EU7wgPcoU9UALeeQ0Q0Z) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Aba](https://open.spotify.com/album/72juJf6OMN8pncnMhFrMXT) | 4:58 | 2022-08-01 | 2022-11-15 |
 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2022-08-01 | 2023-04-19 |
@@ -137,6 +138,7 @@
 | [Larissa](https://open.spotify.com/track/1GsXfbpjrnAr8G4LcnhlPt) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Larissa](https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4) | 2:38 | 2022-08-01 |  |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-08-01 | 2023-05-04 |
 | [Lavandula](https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Lavandula](https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB) | 2:50 | 2022-08-01 |  |
+| [le doute](https://open.spotify.com/track/1xdredrpFZpjfRn2xWBjs8) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [le doute](https://open.spotify.com/album/2rLa1N2EayashFihwQA7cM) | 2:45 | 2023-08-22 |  |
 | [Leaving Home](https://open.spotify.com/track/7v0rYS2J9c423DLgLFdnFI) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Leaving Home](https://open.spotify.com/album/4xCpA8yhZLHEzXPZjHbzli) | 2:25 | 2023-01-27 | 2023-02-15 |
 | [lei sogna di noi](https://open.spotify.com/track/2myAatrsAXWSYBCJzphYle) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [lei sogna di noi](https://open.spotify.com/album/6hEEE80InjpeOtNaMxFTu5) | 2:00 | 2022-08-01 | 2022-09-13 |
 | [Lentement](https://open.spotify.com/track/5IsR52IBI6AWGxcmx0dj83) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Lentement](https://open.spotify.com/album/68s563Nh1u4VTolbnEzPm7) | 2:11 | 2023-03-14 |  |

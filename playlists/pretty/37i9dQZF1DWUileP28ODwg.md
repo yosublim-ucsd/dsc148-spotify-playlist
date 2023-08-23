@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,123 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,341 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 34 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
 | 35 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 |
 | 36 | [How Far](https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 3:07 |
-| 37 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 |
+| 37 | [My Light](https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light \(Acoustic Version\)](https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4) | 2:27 |
 | 38 | [Sound Mind \- Studio Version](https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Sound Mind \(Studio Version\)](https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD) | 3:42 |
-| 39 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 |
+| 39 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 |
 | 40 | [Things That I'm Afraid Of](https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Things That I'm Afraid Of](https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop) | 2:46 |
-| 41 | [My Light](https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light \(Acoustic Version\)](https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4) | 2:27 |
+| 41 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 |
 | 42 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 |
 | 43 | [Hallelujah Anyway](https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Whosoever](https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ) | 3:45 |
-| 44 | [Son of David \(feat\. Brandon Lake\)](https://open.spotify.com/track/1jvX9QdqLLwQUguKzR0Ad6) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Ryan Ellis](https://open.spotify.com/album/1W1SIJVBK38bbjb76kPJfO) | 3:09 |
-| 45 | [God You Are](https://open.spotify.com/track/0doQwQqwoHnwvWNpjpHqFd) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Wholehearted](https://open.spotify.com/album/6MCdxX1Ncd9P4V6za26n4J) | 4:25 |
+| 44 | [God You Are](https://open.spotify.com/track/0doQwQqwoHnwvWNpjpHqFd) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Wholehearted](https://open.spotify.com/album/6MCdxX1Ncd9P4V6za26n4J) | 4:25 |
+| 45 | [Son of David \(feat\. Brandon Lake\)](https://open.spotify.com/track/1jvX9QdqLLwQUguKzR0Ad6) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Ryan Ellis](https://open.spotify.com/album/1W1SIJVBK38bbjb76kPJfO) | 3:09 |
 | 46 | [Goodbye Ole Me](https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 2:01 |
 | 47 | [Satisfied](https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Grace In The Wilderness](https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w) | 2:46 |
 | 48 | [Jesus Is Coming Back \(feat\. Mandisa & Jonathan Traylor\)](https://open.spotify.com/track/3nDaOQU9hOkwf1onF3rSuZ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Jesus Is Coming Back \(feat\. Mandisa & Jonathan Traylor\)](https://open.spotify.com/album/0zGeEmwuASGbKeKnPdRiWA) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O) | 3:35 |
 | 100 | [The Great Awakening](https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [The Great Awakening](https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7) | 3:30 |
 
-Snapshot ID: `MCw0NWViMjhlOWQ0OWYxNWJjZDdiYjRmYTkyOGM3YjI0OTA0YjM4OWVi`
+Snapshot ID: `MCxlYzgyOGU2YjE0ZjY1YWU0MDAwMjU0ZjQ1ZGE4ZDhlMzEwOTZlOTdk`

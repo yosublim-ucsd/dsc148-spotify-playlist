@@ -796,7 +796,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 118253,
       "name": "Moon Flower",
       "url": "https://open.spotify.com/track/1zNdql4RAENgsKUM6W0muM"
@@ -1976,10 +1976,28 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 359693,
       "name": "Oyasuminasai",
       "url": "https://open.spotify.com/track/5ZNvOTXfclQg193urphVaB"
+    },
+    {
+      "album": {
+        "name": "Kitrist II",
+        "url": "https://open.spotify.com/album/2JUW82k0C8jdT6MPuxX4D5"
+      },
+      "artists": [
+        {
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407080,
+      "name": "Parthenon Ginzadoori",
+      "url": "https://open.spotify.com/track/1NIcSBsiCg0cfrDAc9O7LV"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "New jazz for open minds. Cover: Cautious Clay",
-  "num_followers": 897057,
+  "num_followers": 897267,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzJjNTUzODE2YTExNzBlODVhNjk0NTUzOGIwNjliZTI1MzFhYmEx",
+  "snapshot_id": "MCwzYjg4MmVkZDAwZDUwZTlkYWY5OWE4MGFlODM2YTdjOTZhZTI5ZGZm",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -119,6 +119,26 @@
       "duration_ms": 219999,
       "name": "Coral Way",
       "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Light (feat. Bahia Dayes)",
+        "url": "https://open.spotify.com/album/4SecYNmUfTlg29S48YfIyr"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Bahia Dayes",
+          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "The Light (feat. Bahia Dayes)",
+      "url": "https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ"
     },
     {
       "added_at": "2023-08-18 04:01:00",

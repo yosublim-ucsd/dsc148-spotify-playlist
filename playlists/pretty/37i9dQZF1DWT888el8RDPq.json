@@ -1,12 +1,12 @@
 {
   "description": "canzoni felici italiane e internazionali per un'estate presa bene \u2600\ufe0f",
-  "num_followers": 17835,
+  "num_followers": 17901,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWY0YWFkYzIxNDgzZThkMTI3ZGUzN2Q5ODkzMjlhNzRjNDJmNjRh",
+  "snapshot_id": "MCw0MmI2MWNlZjc4YTg2YTJlNzQ5ZDg2NmVjNDVhOTFkYzVjMWE2YjBj",
   "tracks": [
     {
       "added_at": "2023-08-10 09:09:41",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-08-10 09:09:41",
       "album": {
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+    },
+    {
+      "added_at": "2023-08-10 09:09:41",
+      "album": {
         "name": "Escapism.",
         "url": "https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz"
-    },
-    {
-      "added_at": "2023-08-10 09:09:41",
-      "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
       "added_at": "2023-08-10 09:09:41",

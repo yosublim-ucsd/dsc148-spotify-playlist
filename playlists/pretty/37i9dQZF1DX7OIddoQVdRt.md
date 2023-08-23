@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover:  <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a">Pastor Mike Jr.</a>, <a href="https://www.thestellarawards.com/index.html">Stellar Awards'</a> Artist of the Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,840 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,935 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 78 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 |
 | 79 | [One More Time](https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Zacardi Cortez](https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo) | 4:19 |
 | 80 | [Don't Judge Me \(feat\. Missy Elliott\)](https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Don't Judge Me \(feat\. Missy Elliott\)](https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw) | 3:24 |
-| 81 | [Open Door \(See You Later\)](https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy) | [Christon Gray](https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2) | [Open Door \(See You Later\)](https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M) | 4:15 |
+| 81 | [Blak Sheep Freestyle](https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:05 |
 | 82 | [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F) | 4:33 |
-| 83 | [Blak Sheep Freestyle](https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:05 |
+| 83 | [Open Door \(See You Later\)](https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy) | [Christon Gray](https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2) | [Open Door \(See You Later\)](https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M) | 4:15 |
 | 84 | [Touch From You](https://open.spotify.com/track/2IHroOC3rcvR8fx0SN8Xva) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Touch From You](https://open.spotify.com/album/4qcJq2M19yycNn4wIFo78y) | 3:57 |
 | 85 | [Never Gonna Break My Faith \(feat\. The Boys Choir of Harlem\)](https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [The Boys Choir Of Harlem](https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11) | [Never Gonna Break My Faith \(feat\. The Boys Choir of Harlem\)](https://open.spotify.com/album/3nR5pUJkbh6Jm42JPjuZxL) | 4:10 |
 | 86 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 99 | [High and Lifted](https://open.spotify.com/track/5BEfxZNZZa4wN6mlz4LH4U) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Warryn Campbell Presents My Block Inc.](https://open.spotify.com/album/1cbaR2xRm6YAHgbTgr5met) | 4:01 |
 | 100 | [You’re Gonna Get The Glory \- Live](https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 8:01 |
 
-Snapshot ID: `MCwwMGVlYTQxOTljOGViMjBlZDNhZTBlOTI2Zjg3MDEwNDVkZDJhYWJi`
+Snapshot ID: `MCxhMWI3NjZlZDU2MzBiOTEwN2RmMWJjMjJmZjNjYmQzYjkyN2RiZTdj`

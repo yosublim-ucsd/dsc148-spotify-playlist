@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs and pop covers right now.",
-  "num_followers": 1134124,
+  "num_followers": 1134168,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTUzNDNjNDIxNGIxODMzYzRhY2RhY2E5Njg0ZGNmZTNiNjg5ZWNi",
+  "snapshot_id": "MCxiYmEyOGViN2Q2YWE2NjkwMTgzY2E5M2MzYjI0Nzc4YzdjNmZhMjli",
   "tracks": [
     {
       "added_at": "2023-08-16 08:44:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
-        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 198777,
-      "name": "Candle In The Wind - 2018 Version",
-      "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 198777,
+      "name": "Candle In The Wind - 2018 Version",
+      "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "duration_ms": 182952,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 206586,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
-      },
-      "artists": [
-        {
-          "name": "Ben & Tim",
-          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
-        }
-      ],
-      "duration_ms": 182952,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
+        "name": "Back to Black",
+        "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
+      },
+      "artists": [
+        {
+          "name": "Sky Garden",
+          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
+        }
+      ],
+      "duration_ms": 183674,
+      "name": "Back to Black",
+      "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
         "name": "Call Your Girlfriend - Acoustic",
         "url": "https://open.spotify.com/album/76jfRPPFyQSnmB5N9SyNLW"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 201104,
       "name": "lonely together",
       "url": "https://open.spotify.com/track/1qKOTnd7iewqEKfJxMFcWn"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
-        "name": "Back to Black",
-        "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
-      },
-      "artists": [
-        {
-          "name": "Sky Garden",
-          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
-        }
-      ],
-      "duration_ms": 183674,
-      "name": "Back to Black",
-      "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
         "name": "what do you mean?",
         "url": "https://open.spotify.com/album/6wqYJ0dhfbVTvuwdHKNNys"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 197202,
       "name": "Visiting Hours (Acoustic)",
       "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
+        "name": "how do you sleep?",
+        "url": "https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 223340,
+      "name": "how do you sleep?",
+      "url": "https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
         "name": "Better Break My Heart",
         "url": "https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32"
       },
@@ -2087,6 +2103,26 @@
       "duration_ms": 175013,
       "name": "Better Break My Heart - Acoustic version",
       "url": "https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
+        "name": "Is It Just Me?",
+        "url": "https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz"
+      },
+      "artists": [
+        {
+          "name": "Emily Burns",
+          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Is It Just Me? (feat. JP Cooper) (Acoustic)",
+      "url": "https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -2111,38 +2147,18 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "how do you sleep?",
-        "url": "https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm"
+        "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
       },
       "artists": [
         {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+          "name": "Jill & Jane",
+          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
         }
       ],
-      "duration_ms": 223340,
-      "name": "how do you sleep?",
-      "url": "https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
-        "name": "Is It Just Me?",
-        "url": "https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz"
-      },
-      "artists": [
-        {
-          "name": "Emily Burns",
-          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Is It Just Me? (feat. JP Cooper) (Acoustic)",
-      "url": "https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz"
+      "duration_ms": 170931,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -2199,22 +2215,6 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "Barbie Girl",
-        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
-      },
-      "artists": [
-        {
-          "name": "Jill & Jane",
-          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
-        }
-      ],
-      "duration_ms": 170931,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/4puw9Hf1Unj7Kasb1ZAxso"
       },
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "WITHOUT ME",
-        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
-      },
-      "artists": [
-        {
-          "name": "Graham Carter",
-          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
-        }
-      ],
-      "duration_ms": 180998,
-      "name": "WITHOUT ME",
-      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
         "name": "Bigger Than (Acoustic)",
         "url": "https://open.spotify.com/album/1nLoG3te48Zzj3MkV7qcjZ"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 213080,
       "name": "Bigger Than - Acoustic",
       "url": "https://open.spotify.com/track/6wi0w8KfsjhWc77CwGGSkq"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
+        "name": "WITHOUT ME",
+        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
+      },
+      "artists": [
+        {
+          "name": "Graham Carter",
+          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
+        }
+      ],
+      "duration_ms": 180998,
+      "name": "WITHOUT ME",
+      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
-      },
-      "artists": [
-        {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
-        }
-      ],
-      "duration_ms": 175002,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
         "name": "Boy's A Liar",
         "url": "https://open.spotify.com/album/0ZmhHFfrXJ7ItNaIgHtQXQ"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 220000,
       "name": "Boy's A Liar",
       "url": "https://open.spotify.com/track/1EOdKbgizAfNRV6j2Rm3E3"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 175002,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -2711,6 +2711,22 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
+        "name": "Other Ways",
+        "url": "https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "duration_ms": 272154,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/4DGNPmbnW9rKw4gwtbfW65"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
         "name": "Pumped Up Kicks",
         "url": "https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf"
       },
@@ -2723,22 +2739,6 @@
       "duration_ms": 129991,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
-      },
-      "artists": [
-        {
-          "name": "Theresa Chase",
-          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
-        }
-      ],
-      "duration_ms": 203603,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -2759,6 +2759,22 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
+      },
+      "artists": [
+        {
+          "name": "Theresa Chase",
+          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
         "name": "Ransom",
         "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
       },
@@ -2771,22 +2787,6 @@
       "duration_ms": 166698,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
-        "name": "Other Ways",
-        "url": "https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 272154,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/4DGNPmbnW9rKw4gwtbfW65"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "LULU, Vol. 1",
-        "url": "https://open.spotify.com/album/4WNPWn19iZOFvDwVbjEcZG"
-      },
-      "artists": [
-        {
-          "name": "Hugo Helmig",
-          "url": "https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE"
-        }
-      ],
-      "duration_ms": 225316,
-      "name": "All That I Need",
-      "url": "https://open.spotify.com/track/2htuDl6TWC2cxia8ZTdBSU"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
         "name": "Crying My Eyes Out (Acoustic)",
         "url": "https://open.spotify.com/album/5FQiRzFDZ1mRaz0MyPoS73"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 170904,
       "name": "Crying My Eyes Out - Acoustic",
       "url": "https://open.spotify.com/track/73ez4MUeIzT35JfhYoPYxZ"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
+        "name": "LULU, Vol. 1",
+        "url": "https://open.spotify.com/album/4WNPWn19iZOFvDwVbjEcZG"
+      },
+      "artists": [
+        {
+          "name": "Hugo Helmig",
+          "url": "https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE"
+        }
+      ],
+      "duration_ms": 225316,
+      "name": "All That I Need",
+      "url": "https://open.spotify.com/track/2htuDl6TWC2cxia8ZTdBSU"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -3203,18 +3203,18 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "Bullet - Stripped",
-        "url": "https://open.spotify.com/album/3XXF972ndwpoopGkCF6749"
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
       },
       "artists": [
         {
-          "name": "Laura Zocca",
-          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+          "name": "Sarah Close",
+          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
         }
       ],
-      "duration_ms": 189352,
-      "name": "Bullet - Stripped",
-      "url": "https://open.spotify.com/track/5qiROfHRf9zfZqiUtP0Vqs"
+      "duration_ms": 187286,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -3235,18 +3235,18 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
+        "name": "Bullet - Stripped",
+        "url": "https://open.spotify.com/album/3XXF972ndwpoopGkCF6749"
       },
       "artists": [
         {
-          "name": "Sarah Close",
-          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
         }
       ],
-      "duration_ms": 187286,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+      "duration_ms": 189352,
+      "name": "Bullet - Stripped",
+      "url": "https://open.spotify.com/track/5qiROfHRf9zfZqiUtP0Vqs"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -3267,22 +3267,6 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL"
-      },
-      "artists": [
-        {
-          "name": "Samuel Pine",
-          "url": "https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv"
-        }
-      ],
-      "duration_ms": 152854,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU"
-    },
-    {
-      "added_at": "2023-08-16 08:44:00",
-      "album": {
         "name": "All We Grow (Ten Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ"
       },
@@ -3295,6 +3279,22 @@
       "duration_ms": 299199,
       "name": "Take It With Me",
       "url": "https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ"
+    },
+    {
+      "added_at": "2023-08-16 08:44:00",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL"
+      },
+      "artists": [
+        {
+          "name": "Samuel Pine",
+          "url": "https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv"
+        }
+      ],
+      "duration_ms": 152854,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU"
     },
     {
       "added_at": "2023-08-16 08:44:00",
@@ -3347,18 +3347,18 @@
     {
       "added_at": "2023-08-16 08:44:00",
       "album": {
-        "name": "If I Wasn't Me",
-        "url": "https://open.spotify.com/album/6rg7brnp2fmvI9mi1V7Uyz"
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/43JIZ6tIFBkfrgA0TgungY"
       },
       "artists": [
         {
-          "name": "Laur Elle",
-          "url": "https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH"
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
         }
       ],
-      "duration_ms": 173008,
-      "name": "If I Wasn't Me",
-      "url": "https://open.spotify.com/track/3Xb3Ryh1vF9i4CKtMNphoD"
+      "duration_ms": 171875,
+      "name": "Tattoo - Acoustic",
+      "url": "https://open.spotify.com/track/35HBeoqP9gs2JPgeOrtM5e"
     }
   ],
   "unique_name": "Hot Acoustics",

@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1114149,
+  "num_followers": 1114402,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWFlMThjMDVkYTA1ODUzNjczYjMxM2Q2YTFhN2EyN2E3MzZlZDE3",
+  "snapshot_id": "MCxiZmNmZmRjZWJiYjExMGUzZTJmMDA1OTI2NWY5NTg5ODA0NjAzYTlh",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1223,18 +1223,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "S.F. Sorrow",
-        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
+        "name": "Sly Stone & The Mojo Men",
+        "url": "https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH"
       },
       "artists": [
         {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+          "name": "Sly Stone",
+          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
+        },
+        {
+          "name": "The Mojo Men",
+          "url": "https://open.spotify.com/artist/0RMmoLhiIGyaVI6icgcJU9"
         }
       ],
-      "duration_ms": 221013,
-      "name": "Bracelets Of Fingers",
-      "url": "https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj"
+      "duration_ms": 181026,
+      "name": "My Woman's Head",
+      "url": "https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV"
     }
   ],
   "unique_name": "Psychedelic Rock",

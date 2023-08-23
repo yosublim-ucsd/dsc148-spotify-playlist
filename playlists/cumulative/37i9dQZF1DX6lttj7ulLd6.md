@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-166 songs - 12 hr 42 min
+167 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Flower Child](https://open.spotify.com/track/2WGmkBmywV4gBLZer6lAAH) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:49 | 2022-05-06 |  |
 | [Fragile](https://open.spotify.com/track/5YW9Vrst2OmdJih861foWB) | [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Dance Of The Soul](https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh) | 4:09 | 2022-05-06 | 2022-09-28 |
 | [Free Time](https://open.spotify.com/track/6FBzUSZPGrCfto3xKHXsGg) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Groove On!](https://open.spotify.com/album/5vYhpagdFervgTth43gDBp) | 5:04 | 2022-05-06 | 2023-01-19 |
+| [Get Up, Stand Up](https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq), [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi) | 4:57 | 2023-08-22 |  |
 | [Girl In The Red Dress](https://open.spotify.com/track/7IGXCoBk68O6Yrt65WFPIL) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:56 | 2022-05-06 |  |
 | [Givin' It Up](https://open.spotify.com/track/39ex82ihu7ZSBIW7zFTA4P) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:01 | 2022-05-06 | 2022-07-16 |
 | [Givin’ It Up](https://open.spotify.com/track/7cU5eciL5P82afz3luTiTd) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Smooth Jazz Hits: \#1 Chart\-Toppers](https://open.spotify.com/album/6QrxQS2l68ht5NzNzLAFf8) | 4:01 | 2022-11-08 | 2022-11-13 |
@@ -143,7 +144,7 @@
 | [Take Me There](https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 5:14 | 2022-05-06 | 2022-10-05 |
 | [Tell Me So](https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [In The Name Of Love](https://open.spotify.com/album/54oJKdLUcrIwOwX4FkxBxW) | 5:01 | 2022-05-06 | 2023-03-29 |
 | [The Catwalk](https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [The Catwalk](https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC) | 3:27 | 2023-04-06 |  |
-| [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 | 2023-08-18 |  |
+| [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 | 2023-08-18 | 2023-08-23 |
 | [The Gift](https://open.spotify.com/track/4OEEX2KxWFXOjp8tBf02t6) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 5:28 | 2022-05-06 | 2022-11-23 |
 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 | 2023-05-11 |  |
 | [The Only One For Me](https://open.spotify.com/track/1dBhgZ40Qf8EVTZ61prtIJ) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Wishful Thinking](https://open.spotify.com/album/0L3yaukGbiP8X9BGHMGNOt) | 4:49 | 2022-05-06 | 2022-08-30 |

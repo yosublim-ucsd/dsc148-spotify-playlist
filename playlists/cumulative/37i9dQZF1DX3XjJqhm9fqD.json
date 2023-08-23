@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Tou 9",
+        "url": "https://open.spotify.com/album/3AqNXhnQnzWUG9K6jTie65"
+      },
+      "artists": [
+        {
+          "name": "Roody Roodboy",
+          "url": "https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Dous Pou Dous",
+      "url": "https://open.spotify.com/track/7yoyJGMS6afTrVL28gj1XS"
+    },
+    {
+      "album": {
         "name": "Dous pou Dous",
         "url": "https://open.spotify.com/album/3S31k8NVb2UzlOXldL876a"
       },
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 272984,
       "name": "Dous pou Dous",
       "url": "https://open.spotify.com/track/7GJvZPLFouefZ1alU9B7Xg"

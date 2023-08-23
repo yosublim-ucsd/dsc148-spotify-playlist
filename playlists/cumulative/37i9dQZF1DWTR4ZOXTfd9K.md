@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-141 songs - 14 hr 44 min
+142 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Jumpin' The Blues \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/0okh476MArSQObZ4jAr0Ji) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Midnight Special \(Remastered\)](https://open.spotify.com/album/06gaOfTDym5Jf8FZNxwCnZ) | 5:29 | 2021-12-02 |  |
 | [lamplight](https://open.spotify.com/track/0rRtkc4eUbH2v6qBtw00l4) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 3:37 | 2023-04-11 |  |
 | [Let 'Em Roll](https://open.spotify.com/track/1f2hIPiAT870zgTAr7o1Jp) | [Big John Patton](https://open.spotify.com/artist/1N0ymPm6hUQbmzXDuERfeT) | [Let 'Em Roll](https://open.spotify.com/album/6GikhGod1ea9wJLMdX7Fk7) | 6:48 | 2021-12-02 |  |
-| [Lifewish](https://open.spotify.com/track/6zU9WvBMEKRcHd7NbjWa1c) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Ancestors](https://open.spotify.com/album/2VDTLlEcXLav53hfVkqV5R) | 7:33 | 2021-12-02 |  |
+| [Lifewish](https://open.spotify.com/track/6zU9WvBMEKRcHd7NbjWa1c) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Ancestors](https://open.spotify.com/album/2VDTLlEcXLav53hfVkqV5R) | 7:33 | 2021-12-02 | 2023-08-23 |
 | [Little B's Poem \- Remastered 1994](https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 5:11 | 2021-12-02 |  |
 | [LLL](https://open.spotify.com/track/7F2GCFOBnFoNyE2qfYUR3A) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 6:10 | 2021-12-02 | 2022-10-07 |
 | [Lotus Flower \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/5LCOngkOEmtgLf0Igfu63k) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Afro\-Cuban \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ) | 4:16 | 2021-12-02 | 2022-10-07 |
@@ -98,6 +98,7 @@
 | [New Monastery \- Rudy Van Gelder Edition/1999 Remaster](https://open.spotify.com/track/5K6jQyCr2sxKMvcBLI6Zfv) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Point Of Departure \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS) | 7:05 | 2021-12-02 |  |
 | [Nice And Easy \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 4:19 | 2021-12-02 |  |
 | [Oblighetto](https://open.spotify.com/track/5H9ndwyE50LFwZFuZnVe2o) | [Jack McDuff](https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs) | [Moon Rappin'](https://open.spotify.com/album/25sQE6mJ38XKqKm4VKgWp8) | 6:36 | 2021-12-02 |  |
+| [Old Folks](https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Old Folks](https://open.spotify.com/album/74XZhsk5g0Mm6Pf7vX6VuT) | 5:50 | 2023-08-22 |  |
 | [One For 'Grew \(For Mulgrew Miller\)](https://open.spotify.com/track/55hyRqaAASnPhQEHK8ts9a) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [In My Element](https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS) | 6:33 | 2021-12-02 |  |
 | [One For Daddy\-O \- Remastered](https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 8:25 | 2021-12-02 | 2022-10-07 |
 | [Orange Peel](https://open.spotify.com/track/1rgBIkLubecld0M92q5ulV) | [Reuben Wilson](https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut) | [Blue Mode](https://open.spotify.com/album/0e0wYhumzrbDwoAhhZihs8) | 6:39 | 2022-10-06 |  |

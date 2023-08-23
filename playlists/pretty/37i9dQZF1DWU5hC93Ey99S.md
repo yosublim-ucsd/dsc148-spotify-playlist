@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels\. Cover: Babsy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,909 likes - 204 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,034 likes - 204 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 203 | [Leave The Water Still](https://open.spotify.com/track/7IiLsCv7fvoqnZ95NPfRsw) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Leave The Water Still](https://open.spotify.com/album/2rCUuPSpWfx1XUi0HApTjz) | 3:00 |
 | 204 | [Esther \- Duskus Romantic Edit](https://open.spotify.com/track/3VgWp5x2nvvP9XFCs6UBQs) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Esther \(Duskus Romantic Edit\)](https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J) | 3:03 |
 
-Snapshot ID: `MCxjODdmM2Y2MmExNGRjNmFiMWU3ZmRlNWZhNDgxMzRjZTUzOTg4NWVl`
+Snapshot ID: `MCxiZDY5MWM4ZjRiMGFlYjYxMGMyODQ1M2Q2ZDAwYTEwMjBkZTMzZjlh`

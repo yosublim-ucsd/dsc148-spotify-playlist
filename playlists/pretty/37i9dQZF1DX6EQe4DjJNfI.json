@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Gaab",
-  "num_followers": 162430,
+  "num_followers": 162487,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWVhMmY2MWEzMjdlYzNkNTRjYTBlNTMzYzc5NzYyMDA4Y2Q3ZTNl",
+  "snapshot_id": "MCw5ZjIxZTVkODU1YjFkNjgwNTg1ZDc2NDkzZjc1ZTU1ZTcyMjAwY2Mw",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
       },
       "artists": [
         {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+          "name": "Yuri Fernandes",
+          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
         }
       ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+      "duration_ms": 215094,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "\u00c9ramos",
         "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 218890,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Reprise",
-        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
-      },
-      "artists": [
-        {
-          "name": "Yuri Fernandes",
-          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
-        }
-      ],
-      "duration_ms": 215094,
-      "name": "Reprise",
-      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
-      },
-      "artists": [
-        {
-          "name": "Coimbra",
-          "url": "https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy"
-        },
-        {
-          "name": "Cibelle Aguiar",
-          "url": "https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 151475,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
+      },
+      "artists": [
+        {
+          "name": "Coimbra",
+          "url": "https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy"
+        },
+        {
+          "name": "Cibelle Aguiar",
+          "url": "https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Vers\u00e3o Beta",
-        "url": "https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "PNDA",
-          "url": "https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI"
-        }
-      ],
-      "duration_ms": 133825,
-      "name": "Vers\u00e3o Beta",
-      "url": "https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "O Que Eu Soul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 154290,
       "name": "Uma Chance",
       "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Vers\u00e3o Beta",
+        "url": "https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "PNDA",
+          "url": "https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI"
+        }
+      ],
+      "duration_ms": 133825,
+      "name": "Vers\u00e3o Beta",
+      "url": "https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "1001 Motivos",
+        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        }
+      ],
+      "duration_ms": 163201,
+      "name": "1001 Motivos",
+      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Liga\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/3X4pfBeCpDeMG9vbsAm95e"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 200210,
       "name": "Liga\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/4YU8fEqLYvGSnLv2lFVkjF"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "1001 Motivos",
-        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Black",
-          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
-        }
-      ],
-      "duration_ms": 163201,
-      "name": "1001 Motivos",
-      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
     },
     {
       "added_at": "2023-08-18 03:01:00",

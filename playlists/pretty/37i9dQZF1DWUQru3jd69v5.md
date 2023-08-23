@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Fre\_nky in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,823 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,853 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Lacoste 2](https://open.spotify.com/track/6DOMY2WrG5iz41tGvYE3U9) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE) | [Lacoste 2](https://open.spotify.com/album/1SZAVFA9FPdZNKEc2dA468) | 1:57 |
 | 50 | [GUERRA](https://open.spotify.com/track/3jsnqaZI1liYePMnHyhZF4) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn) | [DRILL LIFE 2 DELUXE](https://open.spotify.com/album/7kC5FpnIJf6y6ZqlNzZ81V) | 1:54 |
 
-Snapshot ID: `MCxhMDZkYWY5YTA5Yzg5MTU2ZTlhNDk1ZGEzMTRkNjdlYWFjMWUyNDAx`
+Snapshot ID: `MCwyYWY0YWUyOTNmODMzNjE0YmQwYWEyMTQxNDE5MmYyOTc5ZTZhNmFj`

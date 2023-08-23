@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-171 songs - 10 hr 42 min
+172 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Take Me Back](https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX) | 2:56 | 2021-12-08 | 2022-07-29 |
 | [Ten Days Of Blue](https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Ten Days Of Blue](https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA) | 7:33 | 2021-12-08 | 2022-06-01 |
 | [The Dream](https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [O R B I T](https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G) | 2:33 | 2021-12-08 |  |
+| [The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo) | [Laurindo Almeida](https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk) | [Classical Current](https://open.spotify.com/album/2KZIJx4RtZ1seAa6pa6ugl) | 2:50 | 2023-08-22 |  |
 | [Train From Paris](https://open.spotify.com/track/2xibxsCa7g3ScMB2vIwHWC) | [Mindtrap](https://open.spotify.com/artist/4OA32fupbR1suJd44PZJxU) | [Northern Rooms](https://open.spotify.com/album/1KKp6eBkErHQ6V04jWfqPR) | 4:28 | 2021-12-08 |  |
 | [two](https://open.spotify.com/track/39xRHgkRG13GJYOw8sOaQJ) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [alternative universe](https://open.spotify.com/album/5fC4bXk6Eo7PNikqtqU53T) | 3:08 | 2022-08-03 |  |
 | [Void](https://open.spotify.com/track/2bcXFEJxYaQ1D3GRI4OM3Z) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5) | 3:42 | 2021-12-08 | 2022-12-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Northern19",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Limited Express (has gone?)",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -568,6 +568,24 @@
       "duration_ms": 169317,
       "name": "Believer",
       "url": "https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo"
+    },
+    {
+      "album": {
+        "name": "Tell Your Story",
+        "url": "https://open.spotify.com/album/6rlqdeK0VEjg5RbVWGrdR1"
+      },
+      "artists": [
+        {
+          "name": "Limited Express (has Gone?)",
+          "url": "https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128800,
+      "name": "BET ON ME",
+      "url": "https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO"
     },
     {
       "album": {
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 173960,
       "name": "Decided",
       "url": "https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5"
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 200000,
       "name": "HATER",
       "url": "https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3"
@@ -5768,7 +5786,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 165860,
       "name": "Second March",
       "url": "https://open.spotify.com/track/5sKL7KmuGkv080aa1GLSYe"
@@ -6352,6 +6370,24 @@
       "duration_ms": 208773,
       "name": "Star Falls On Our Hands Tonight",
       "url": "https://open.spotify.com/track/4oR4CLlb28cJfhnLy8cOVi"
+    },
+    {
+      "album": {
+        "name": "STAR HIGH",
+        "url": "https://open.spotify.com/album/6TXnScqi7HwxgPPnoGbxLr"
+      },
+      "artists": [
+        {
+          "name": "WESTERN STAGE",
+          "url": "https://open.spotify.com/artist/6TDe4nZC9oHCeANm5iAeFW"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201240,
+      "name": "STAR HIGH",
+      "url": "https://open.spotify.com/track/6FX5Lz5hv454VbJCUZBqsy"
     },
     {
       "album": {
@@ -11008,6 +11044,24 @@
       "duration_ms": 341693,
       "name": "\u9280\u6cb3\u9244\u9053\u306e\u591c",
       "url": "https://open.spotify.com/track/3gjTlJclAZCTa2IP2tn6wW"
+    },
+    {
+      "album": {
+        "name": "DRIP OF RAMMY",
+        "url": "https://open.spotify.com/album/4bgwaDZGObqdJbRkZnqFjw"
+      },
+      "artists": [
+        {
+          "name": "\u864e\u306e\u5b50\u30e9\u30df\u30fc",
+          "url": "https://open.spotify.com/artist/4uxbGvHpQJ9uKKDoOjlEjk"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210355,
+      "name": "\u9650\u754c\u7a81\u7834 - 2023ver",
+      "url": "https://open.spotify.com/track/5zL1aH9pHJa1BWB4qZqbRK"
     },
     {
       "album": {

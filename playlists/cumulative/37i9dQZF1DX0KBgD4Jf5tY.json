@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:3dA6K34y5FCgngffHJTjpY\">Red Roses</a>",
+  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:3dA6K34y5FCgngffHJTjpY\">MAGENTA FLORA</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -4426,6 +4426,32 @@
       "duration_ms": 137408,
       "name": "DOGMA",
       "url": "https://open.spotify.com/track/0hc2eM8xNeobLPlS4UFinw"
+    },
+    {
+      "album": {
+        "name": "Doll",
+        "url": "https://open.spotify.com/album/4KHDnxCN7Sbsket4V1BiOu"
+      },
+      "artists": [
+        {
+          "name": "Fuck Pop",
+          "url": "https://open.spotify.com/artist/2EOQo8wyiH2Td1VVXgTKGW"
+        },
+        {
+          "name": "5070",
+          "url": "https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt"
+        },
+        {
+          "name": "Damiank",
+          "url": "https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142188,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/5ui2a683na4h9zeIHoOGbo"
     },
     {
       "album": {
@@ -10508,7 +10534,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 164000,
       "name": "noveam",
       "url": "https://open.spotify.com/track/58TMU8cW7IBkhlVmqSOhp5"
@@ -12332,7 +12358,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 227280,
       "name": "Quando ho visto te",
       "url": "https://open.spotify.com/track/5JDUb4nkjuy2uWHneS18fo"
@@ -12678,6 +12704,24 @@
       "duration_ms": 124644,
       "name": "RESTI",
       "url": "https://open.spotify.com/track/6OrbgLPXxhmjxJ7WPKLxKk"
+    },
+    {
+      "album": {
+        "name": "Restiamo A Guardare",
+        "url": "https://open.spotify.com/album/49PSQYzOyKjwIGZSUwzxR5"
+      },
+      "artists": [
+        {
+          "name": "MARGHERITA PRINCIPI",
+          "url": "https://open.spotify.com/artist/0VvyCsUWH9s7uqcb24Yv7I"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Restiamo A Guardare",
+      "url": "https://open.spotify.com/track/1GYR1T4PSHtkElGyahDDqu"
     },
     {
       "album": {
@@ -14513,6 +14557,24 @@
     },
     {
       "album": {
+        "name": "Stefania",
+        "url": "https://open.spotify.com/album/0ci2nfXDyChKuNXjLPElx9"
+      },
+      "artists": [
+        {
+          "name": "Sellie",
+          "url": "https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Stefania",
+      "url": "https://open.spotify.com/track/7lF6ElEf4uPfzN6Wk5KENT"
+    },
+    {
+      "album": {
         "name": "Stelle Negli Occhi",
         "url": "https://open.spotify.com/album/6ZteKa00z9mOELY50nCzBV"
       },
@@ -15556,7 +15618,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 181189,
       "name": "TUTUFAFA",
       "url": "https://open.spotify.com/track/456e9P13jSXqux9ENfZI32"

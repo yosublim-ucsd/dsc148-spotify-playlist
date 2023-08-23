@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Disfruta de lo más nuevo con Alemán, Maluma y Carin Leon, Marshmello y Young Miko, RBD y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,956 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,089 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 23 | [Dale Suave](https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Dale Suave](https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD) | 3:00 |
 | 24 | [utopía](https://open.spotify.com/track/4QXYlAmt3rP0IkbWCoM7F8) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [German vs DAAZ](https://open.spotify.com/album/0oGkL1AWwuioRXM1YLrpN5) | 3:11 |
 | 25 | [TODO LO QUE HICE](https://open.spotify.com/track/5vH9UyB4OrFgiRHHx1BqNf) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [TODO LO QUE HICE](https://open.spotify.com/album/2xrFeU2vGVFZkDtUmxUJtJ) | 4:16 |
-| 26 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
+| 26 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
 | 27 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
 | 28 | [Suave](https://open.spotify.com/track/02sfjuUQgiASpIjlKh9y8I) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO) | [Suave](https://open.spotify.com/album/54oeAyQcj0pTbqONlCAZQ3) | 3:07 |
 | 29 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 |
 | 50 | [1975](https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 7:16 |
 
-Snapshot ID: `MCxjNzQ5ZmE2MWZkNzQxOTg2ZmI3NTgxODk5YjhmMDM3ZDhjMGMyYWI5`
+Snapshot ID: `MCxkZTljYmNlMmQwNzNjYjgwYTBiMTIxNDFmZTgyNTJjYWM4NzIxYTQ2`

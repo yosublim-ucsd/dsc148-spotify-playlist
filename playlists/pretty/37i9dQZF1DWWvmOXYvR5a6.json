@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Leellamarz(\ub9b4\ub7ec\ub9d0\uc988)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 199221,
+  "num_followers": 199353,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWY0ZjIzYjEyZDM4ZmQxYjMyYzA5NWU4MGJjM2NjZDcyZjJiMTVj",
+  "snapshot_id": "MCxiN2Y5MTI5MjE5YTM1ZmVkMWUzZDYzN2MwNTQ5YWVjZTM0MjcwZTNj",
   "tracks": [
     {
       "added_at": "2023-08-16 08:39:25",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 227083,
+      "name": "V",
+      "url": "https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa"
+    },
+    {
+      "added_at": "2023-08-16 08:39:25",
+      "album": {
         "name": "1st Single 'S.i.R'",
         "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 169800,
       "name": "Drowning (Feat. SOLE)",
       "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
-    },
-    {
-      "added_at": "2023-08-16 08:39:25",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 227083,
-      "name": "V",
-      "url": "https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa"
     },
     {
       "added_at": "2023-08-16 08:39:25",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 223681,
+      "name": "Me Like Yuh (K) (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T"
+    },
+    {
+      "added_at": "2023-08-16 08:39:25",
+      "album": {
         "name": "MBT",
         "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 370533,
       "name": "Wake Up (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/3ijq6sRH7PgRabMb83VvQO"
-    },
-    {
-      "added_at": "2023-08-16 08:39:25",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 223681,
-      "name": "Me Like Yuh (K) (Feat. Hoody)",
-      "url": "https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T"
     },
     {
       "added_at": "2023-08-16 08:39:25",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 198949,
-      "name": "Dank",
-      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
-    },
-    {
-      "added_at": "2023-08-16 08:39:25",
-      "album": {
         "name": "11:59 (feat. Goopy)",
         "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
       },
@@ -1079,6 +1063,42 @@
       "duration_ms": 177680,
       "name": "11:59 (feat. Goopy)",
       "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
+    },
+    {
+      "added_at": "2023-08-16 08:39:25",
+      "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "RING RING",
+      "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
+    },
+    {
+      "added_at": "2023-08-16 08:39:25",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 198949,
+      "name": "Dank",
+      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
     },
     {
       "added_at": "2023-08-16 08:39:25",
@@ -1107,26 +1127,6 @@
       "duration_ms": 266346,
       "name": "Good Day (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/6CxxgFhfvh5uz6h4l0ltzP"
-    },
-    {
-      "added_at": "2023-08-16 08:39:25",
-      "album": {
-        "name": "Ring Ring",
-        "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "RING RING",
-      "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
     },
     {
       "added_at": "2023-08-16 08:39:25",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
-        "name": "NOWITZKI",
-        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "Lance Skiiiwalker",
-          "url": "https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Trippy (Feat. Lance Skiiiwalker)",
-      "url": "https://open.spotify.com/track/6t34W4GkIQxh0RFDEj30jy"
-    },
-    {
-      "added_at": "2023-08-16 08:39:25",
-      "album": {
         "name": "Between Sat & Sun",
         "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
       },
@@ -1271,6 +1251,42 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
+        "name": "NOWITZKI",
+        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "Lance Skiiiwalker",
+          "url": "https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Trippy (Feat. Lance Skiiiwalker)",
+      "url": "https://open.spotify.com/track/6t34W4GkIQxh0RFDEj30jy"
+    },
+    {
+      "added_at": "2023-08-16 08:39:25",
+      "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
+    },
+    {
+      "added_at": "2023-08-16 08:39:25",
+      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 276152,
       "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
       "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
-    },
-    {
-      "added_at": "2023-08-16 08:39:25",
-      "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
     },
     {
       "added_at": "2023-08-16 08:39:25",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
+        "name": "Empty Head",
+        "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 185642,
+      "name": "Empty Head",
+      "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
+    },
+    {
+      "added_at": "2023-08-16 08:39:25",
+      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 231413,
       "name": "Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev"
-    },
-    {
-      "added_at": "2023-08-16 08:39:25",
-      "album": {
-        "name": "Empty Head",
-        "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 185642,
-      "name": "Empty Head",
-      "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
     },
     {
       "added_at": "2023-08-16 08:39:25",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
-    },
-    {
-      "added_at": "2023-08-16 08:39:25",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
       },
@@ -1459,18 +1439,22 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
-        "name": "2 Kids On The Block - Part.1",
-        "url": "https://open.spotify.com/album/7KmTTJ8lFaNmGvqL8BJKRd"
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 251813,
-      "name": "19",
-      "url": "https://open.spotify.com/track/5LGvVjkDajEdjaWDeovd3q"
+      "duration_ms": 190690,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
     },
     {
       "added_at": "2023-08-16 08:39:25",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
+        "name": "2 Kids On The Block - Part.1",
+        "url": "https://open.spotify.com/album/7KmTTJ8lFaNmGvqL8BJKRd"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 251813,
+      "name": "19",
+      "url": "https://open.spotify.com/track/5LGvVjkDajEdjaWDeovd3q"
+    },
+    {
+      "added_at": "2023-08-16 08:39:25",
+      "album": {
         "name": "BLOO IN WONDERLAND 2",
         "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
       },
@@ -1547,22 +1547,18 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
-        "name": "Akita",
-        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
+        "name": "OFOSUN",
+        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
       },
       "artists": [
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "hartts",
-          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
         }
       ],
-      "duration_ms": 224293,
-      "name": "Akita (Feat. hartts) (Prod. OBSN)",
-      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
+      "duration_ms": 226499,
+      "name": "U",
+      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
     },
     {
       "added_at": "2023-08-16 08:39:25",
@@ -1603,18 +1599,22 @@
     {
       "added_at": "2023-08-16 08:39:25",
       "album": {
-        "name": "OFOSUN",
-        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
+        "name": "Akita",
+        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
       },
       "artists": [
         {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
         }
       ],
-      "duration_ms": 226499,
-      "name": "U",
-      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
+      "duration_ms": 224293,
+      "name": "Akita (Feat. hartts) (Prod. OBSN)",
+      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
     },
     {
       "added_at": "2023-08-16 08:39:25",

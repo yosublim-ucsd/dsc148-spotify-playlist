@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,725 likes - 38 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,737 likes - 38 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Punta Power Mix \#1](https://open.spotify.com/track/4hQmr7JIGZiRdoxfuISc3r) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP), [Los Profesionales](https://open.spotify.com/artist/4BOQHyVmTsWkwLCerM4vJl), [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc), [Los Gatos Bravos](https://open.spotify.com/artist/4kDAtXl8PRYrjFyhTQr9u9) | [Batalla de las Puntas, Vol\. 3](https://open.spotify.com/album/3xO2uyWrSS2Xty3Kik2BJR) | 6:52 |
 | 38 | [Imagenes](https://open.spotify.com/track/563dJNGXjnh8SPRmC5plaH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:15 |
 
-Snapshot ID: `MCxhNmMyNTYwODkxZTNiMGRlN2QwMDY5ZTYyZDYyYTUxNzk5OTVhMmEw`
+Snapshot ID: `MCxiYTY1NTVkNTcxOGVjMDZlZjk1ZTUzYzFhMGIyNDY0ZTgxMmEwMzFj`

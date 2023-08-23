@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18850,
+  "num_followers": 18854,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODYzOWNmMTAwMDk3M2VlZjI2NDc2MjQ4N2VlNzZkMGU3OGNkMGUw",
+  "snapshot_id": "MCw1Nzc5OTE3NTQ1YWM5N2JmMjQxZGJiODUxOWMwYjc2OWExYmU0MWUx",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs"
+        "name": "La Primera Exploracion",
+        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
       },
       "artists": [
         {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+          "name": "Temporada de Tormentas",
+          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
         }
       ],
-      "duration_ms": 206875,
-      "name": "Perla",
-      "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
+      "duration_ms": 337560,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "La Primera Exploracion",
-        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs"
       },
       "artists": [
         {
-          "name": "Temporada de Tormentas",
-          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
         }
       ],
-      "duration_ms": 337560,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
+      "duration_ms": 206875,
+      "name": "Perla",
+      "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Deseo Permanente",
+        "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
+      },
+      "artists": [
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "duration_ms": 344434,
+      "name": "Deseo Permanente",
+      "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "La Cuesta del Sol",
         "url": "https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Deseo Permanente",
-        "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
-      },
-      "artists": [
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        }
-      ],
-      "duration_ms": 344434,
-      "name": "Deseo Permanente",
-      "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -831,18 +831,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Recordar/ Volver a pasar",
-        "url": "https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR"
+        "name": "Tiene Que Haber Un Mapa",
+        "url": "https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+          "name": "Maria Codino",
+          "url": "https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj"
+        },
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
         }
       ],
-      "duration_ms": 262500,
-      "name": "San Camilo",
-      "url": "https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ"
+      "duration_ms": 208216,
+      "name": "Aforismos",
+      "url": "https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -863,22 +867,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Tiene Que Haber Un Mapa",
-        "url": "https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB"
+        "name": "Recordar/ Volver a pasar",
+        "url": "https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR"
       },
       "artists": [
         {
-          "name": "Maria Codino",
-          "url": "https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj"
-        },
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
         }
       ],
-      "duration_ms": 208216,
-      "name": "Aforismos",
-      "url": "https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS"
+      "duration_ms": 262500,
+      "name": "San Camilo",
+      "url": "https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Regalos",
-        "url": "https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO"
-      },
-      "artists": [
-        {
-          "name": "Cometas",
-          "url": "https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Regalos",
-      "url": "https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 255897,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Regalos",
+        "url": "https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO"
+      },
+      "artists": [
+        {
+          "name": "Cometas",
+          "url": "https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Regalos",
+      "url": "https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Lo Que Queda",
-        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 224737,
-      "name": "Lo Que Queda",
-      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -1255,6 +1239,38 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "El Club Audiovisual",
+        "url": "https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "duration_ms": 172823,
+      "name": "Qu\u00e9 M\u00e1s Puedo Hacer?",
+      "url": "https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Lo Que Queda",
+        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 224737,
+      "name": "Lo Que Queda",
+      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Febril Pantalla",
         "url": "https://open.spotify.com/album/73ivbKbd0OtEXjVXgVrAZe"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 162373,
       "name": "Febril Pantalla",
       "url": "https://open.spotify.com/track/2CV0p6hJkxfTtYt94ukPBk"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "El Club Audiovisual",
-        "url": "https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ"
-      },
-      "artists": [
-        {
-          "name": "El Club Audiovisual",
-          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
-        }
-      ],
-      "duration_ms": 172823,
-      "name": "Qu\u00e9 M\u00e1s Puedo Hacer?",
-      "url": "https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 246594,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 216830,
       "name": "Tiembla",
       "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "El Juego de la Sed",
-        "url": "https://open.spotify.com/album/2BSgQC5v96a3oITrZ6ykRS"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Desbats",
-          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
-        }
-      ],
-      "duration_ms": 195419,
-      "name": "El Juego de la Sed",
-      "url": "https://open.spotify.com/track/0Gadp13jH5EsojTAXyhMwW"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -1475,22 +1459,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Nota De Voz",
-        "url": "https://open.spotify.com/album/4NaeVyU5avNma2tUY41P8s"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Laser",
-          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
-        }
-      ],
-      "duration_ms": 170839,
-      "name": "Nota De Voz",
-      "url": "https://open.spotify.com/track/07u8rikTmiY64DkJh1WAv9"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Pistas",
         "url": "https://open.spotify.com/album/3FNDUwoLsWERacjeco5n8h"
       },
@@ -1507,18 +1475,34 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Lo nuevo y lo in\u00fatil",
-        "url": "https://open.spotify.com/album/1gNnS20kz9qcQJ5ghIsNQK"
+        "name": "El Juego de la Sed",
+        "url": "https://open.spotify.com/album/2BSgQC5v96a3oITrZ6ykRS"
       },
       "artists": [
         {
-          "name": "Club de Haters",
-          "url": "https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC"
+          "name": "Juli\u00e1n Desbats",
+          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
         }
       ],
-      "duration_ms": 182087,
-      "name": "Lo nuevo y lo in\u00fatil",
-      "url": "https://open.spotify.com/track/6OkthLKgU7KtbUuX674HO0"
+      "duration_ms": 195419,
+      "name": "El Juego de la Sed",
+      "url": "https://open.spotify.com/track/0Gadp13jH5EsojTAXyhMwW"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Nota De Voz",
+        "url": "https://open.spotify.com/album/4NaeVyU5avNma2tUY41P8s"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Laser",
+          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
+        }
+      ],
+      "duration_ms": 170839,
+      "name": "Nota De Voz",
+      "url": "https://open.spotify.com/track/07u8rikTmiY64DkJh1WAv9"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 91500,
       "name": "Zona de Fumadores",
       "url": "https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Lo nuevo y lo in\u00fatil",
+        "url": "https://open.spotify.com/album/1gNnS20kz9qcQJ5ghIsNQK"
+      },
+      "artists": [
+        {
+          "name": "Club de Haters",
+          "url": "https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC"
+        }
+      ],
+      "duration_ms": 182087,
+      "name": "Lo nuevo y lo in\u00fatil",
+      "url": "https://open.spotify.com/track/6OkthLKgU7KtbUuX674HO0"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "La Bruma",
-        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 173154,
-      "name": "La Bruma",
-      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "La Bruma",
+        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 173154,
+      "name": "La Bruma",
+      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
     },
     {
       "added_at": "2023-08-18 03:00:00",

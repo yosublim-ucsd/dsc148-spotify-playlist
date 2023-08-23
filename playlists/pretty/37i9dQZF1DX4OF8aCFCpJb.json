@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 67823,
+  "num_followers": 67836,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGZlOTQxNzBkZWYzYzU3ODhiMzc5ZjM2MzFjMTI1Mjc2MWM3MjYy",
+  "snapshot_id": "MCw0ZTkwMTQyYzc1MzY1MjI0NDM1MWExMjlmODE0ZDBkOGQwZDljZTAx",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -391,18 +391,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "D\u00f6md att bli bed\u00f6md",
-        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
+        "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
+        "url": "https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5"
       },
       "artists": [
         {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/2EBLZoR071bKhHfe4TNKPi"
+        },
+        {
+          "name": "N\u00e4\u00e4\u00e4k",
+          "url": "https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S"
+        },
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
         }
       ],
-      "duration_ms": 188773,
-      "name": "Gillar din vibe",
-      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
+      "duration_ms": 232382,
+      "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
+      "url": "https://open.spotify.com/track/4nsJdPxz6b2mYwopZBco0H"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -471,26 +479,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
-        "url": "https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5"
+        "name": "D\u00f6md att bli bed\u00f6md",
+        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
       },
       "artists": [
         {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/2EBLZoR071bKhHfe4TNKPi"
-        },
-        {
-          "name": "N\u00e4\u00e4\u00e4k",
-          "url": "https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S"
-        },
-        {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 232382,
-      "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
-      "url": "https://open.spotify.com/track/4nsJdPxz6b2mYwopZBco0H"
+      "duration_ms": 188773,
+      "name": "Gillar din vibe",
+      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
-        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Snapphaneklanen",
-      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "H\u00f6g standard",
         "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 316000,
       "name": "H\u00f6g standard",
       "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
+        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Snapphaneklanen",
+      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "G\u00f6r Det \u00c4nd\u00e5",
-        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Vakna",
-      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Wayback",
         "url": "https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B"
       },
@@ -723,22 +707,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Mellan Raderna",
         "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 191120,
       "name": "Full fokus",
       "url": "https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "G\u00f6r Det \u00c4nd\u00e5",
+        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -779,22 +779,6 @@
       "duration_ms": 156360,
       "name": "Rikslarm",
       "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Resa Sig Opp",
-        "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Du Vill S\u00e5 Du Kan",
-      "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Reggaestrerad",
-        "url": "https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG"
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
       "artists": [
         {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 223122,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i"
+      "duration_ms": 233934,
+      "name": "Bida Din Tid",
+      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -891,6 +875,22 @@
       "duration_ms": 205011,
       "name": "Make Sense",
       "url": "https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Resa Sig Opp",
+        "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Du Vill S\u00e5 Du Kan",
+      "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
     }
   ],
   "unique_name": "Svensk Reggae",

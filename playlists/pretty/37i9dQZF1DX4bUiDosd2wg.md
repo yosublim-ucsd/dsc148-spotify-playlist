@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,549 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,552 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 107 | [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 |
 | 108 | [Come back to me](https://open.spotify.com/track/6giVIUnYtPt65tRmTKMbzh) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [VIBE IN PRAHA](https://open.spotify.com/album/4OCkcwSER9boDvzxEdlh6c) | 4:59 |
 | 109 | [비상](https://open.spotify.com/track/29acMabyXUwGFEvfqLJM7a) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [임재범 II / 2집](https://open.spotify.com/album/1cLD9RhI7VomKeQcbBpxvu) | 4:29 |
-| 110 | [발걸음 \(신명난다 에헤라디오\)](https://open.spotify.com/track/0FOiUOw5sd51lVt6DnNP6R) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Mask Singer 74th \(Live Version\)](https://open.spotify.com/album/42vi4SG1yDLnmiXuVfQokP) | 4:22 |
+| 110 | [발걸음 \(신명난다 에헤라디오\)](https://open.spotify.com/track/2gMIKHj6ITSlHRXVDL219w) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Mask Singer 74th \(Live Version\)](https://open.spotify.com/album/2WBKnRY6UZ6bVjCvOU1frS) | 4:22 |
 | 111 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 |
 | 112 | [화장을 고치고](https://open.spotify.com/track/0e70x113268aBzaBaNHmrR) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax02 : 화장을 고치고](https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6) | 4:10 |
 | 113 | [인연](https://open.spotify.com/track/1WavNG5mSEyqY4UHmESmOT) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [청연 \(Original Soundtrack\)](https://open.spotify.com/album/51Up0SNMGyG6lWKPM7bJ5X) | 4:41 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [Ali](https://open.spotify.com/artist/5QeXARPcuiXETSB2iPhaup) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCw3MWNjNTVhOGYzZjEyZDVjZmIyOWQxZjRhMTllMTU0OWY0NDg5MTQy`
+Snapshot ID: `MCw3ZDUxN2FlNjA4OWIzYzY1ZTMxYzVhNGM5NmM5MDQ2NzA1MTg5MGQw`

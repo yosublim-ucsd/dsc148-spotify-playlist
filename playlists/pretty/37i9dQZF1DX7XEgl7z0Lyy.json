@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 45455,
+  "num_followers": 50154,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njc5ZDJhZmQ0ZmUxZGQ0NzJhNjM3YWZlYzczMDNlYzBmZDViNmMw",
+  "snapshot_id": "MCwxZDBiOGNiYmFhM2VkZThkYTZhM2IyYWMzMWFkZTY0MTliMTg1OTZm",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -47,22 +47,6 @@
       "duration_ms": 114703,
       "name": "NALGOTICA!",
       "url": "https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "vampire love",
-        "url": "https://open.spotify.com/album/0EIqsSmwIP5GZJesgYTchK"
-      },
-      "artists": [
-        {
-          "name": "nami",
-          "url": "https://open.spotify.com/artist/3E2CPSMNaUMT0OosI4ogam"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "vampire love",
-      "url": "https://open.spotify.com/track/6HcEJg4rcHWNEI0bD5Wvvp"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -189,10 +173,10 @@
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
-      "added_at": "2023-08-04 16:10:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "SMOKE IT OFF!",
-        "url": "https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99"
+        "name": "LET ME SEE YA MOVE!",
+        "url": "https://open.spotify.com/album/3264fH7RgsN1aubvVgT0ny"
       },
       "artists": [
         {
@@ -202,15 +186,35 @@
         {
           "name": "cade clair",
           "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
-        },
-        {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
         }
       ],
-      "duration_ms": 122326,
-      "name": "SMOKE IT OFF! - Mega Mix",
-      "url": "https://open.spotify.com/track/3UEyIvpZcGvqEqIZdw6Sey"
+      "duration_ms": 121734,
+      "name": "LET ME SEE YA MOVE!",
+      "url": "https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "party addict",
+        "url": "https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        },
+        {
+          "name": "kojo",
+          "url": "https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV"
+        }
+      ],
+      "duration_ms": 125861,
+      "name": "party addict",
+      "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
     },
     {
       "added_at": "2023-08-04 16:10:00",
@@ -231,6 +235,22 @@
       "duration_ms": 108304,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/6vIN7kMIBolzlIkWpV1hAq"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "vampire love",
+        "url": "https://open.spotify.com/album/0EIqsSmwIP5GZJesgYTchK"
+      },
+      "artists": [
+        {
+          "name": "nami",
+          "url": "https://open.spotify.com/artist/3E2CPSMNaUMT0OosI4ogam"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "vampire love",
+      "url": "https://open.spotify.com/track/6HcEJg4rcHWNEI0bD5Wvvp"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -267,26 +287,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "party addict",
-        "url": "https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A"
+        "name": "Sassy Scene",
+        "url": "https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl"
       },
       "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
         {
           "name": "kets4eki",
           "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
         },
         {
-          "name": "Nosgov",
-          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
-        },
-        {
-          "name": "kojo",
-          "url": "https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV"
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
         }
       ],
-      "duration_ms": 125861,
-      "name": "party addict",
-      "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
+      "duration_ms": 135160,
+      "name": "Hands up!",
+      "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -331,30 +351,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Sassy Scene",
-        "url": "https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Pixel Hood",
-          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
-        }
-      ],
-      "duration_ms": 135160,
-      "name": "Hands up!",
-      "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Kurxxed Emeraldz",
         "url": "https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy"
       },
@@ -371,26 +367,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "LET ME SEE YA MOVE!",
-        "url": "https://open.spotify.com/album/3264fH7RgsN1aubvVgT0ny"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        },
-        {
-          "name": "cade clair",
-          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
-        }
-      ],
-      "duration_ms": 121734,
-      "name": "LET ME SEE YA MOVE!",
-      "url": "https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "ecstacy",
         "url": "https://open.spotify.com/album/1xCyOqwylZT5Syi5LwHF4q"
       },
@@ -403,6 +379,30 @@
       "duration_ms": 96028,
       "name": "ecstacy",
       "url": "https://open.spotify.com/track/2CIlKt4lRwAAUx5fYgCBxN"
+    },
+    {
+      "added_at": "2023-08-04 16:10:00",
+      "album": {
+        "name": "SMOKE IT OFF!",
+        "url": "https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        },
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        }
+      ],
+      "duration_ms": 122326,
+      "name": "SMOKE IT OFF! - Mega Mix",
+      "url": "https://open.spotify.com/track/3UEyIvpZcGvqEqIZdw6Sey"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -507,22 +507,6 @@
       "duration_ms": 110416,
       "name": "NARCISSISTIC PERSONALITY DISORDER",
       "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
-    },
-    {
-      "added_at": "2023-08-04 16:10:00",
-      "album": {
-        "name": "look don't touch",
-        "url": "https://open.spotify.com/album/1zUV0WoBJcqcrPOdNqErno"
-      },
-      "artists": [
-        {
-          "name": "pradababy",
-          "url": "https://open.spotify.com/artist/3oy5OQb6YkG9Kjy5ZBAtRg"
-        }
-      ],
-      "duration_ms": 104326,
-      "name": "look don't touch",
-      "url": "https://open.spotify.com/track/4CsKaCN7KJ3AeecfTpyPZz"
     },
     {
       "added_at": "2023-07-28 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 188335,
+  "num_followers": 188366,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWIzOTk0NTRlNGU5YWRjYThjMmIxMmYzMmVhYWRmNzU2YWVjOTZh",
+  "snapshot_id": "MCw4ZWE5Njc2MjE1MTJhZmUwMDBmYjg1NzE1NTQ3MmUzNmQ3MjVjMzZl",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -515,22 +515,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
-        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Don Ramiro Cavazos",
-          "url": "https://open.spotify.com/artist/563FHcEebqpITZ6Vu5sw6Y"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         }
       ],
-      "duration_ms": 193826,
-      "name": "Te Vas \u00c1ngel M\u00edo - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
-      "url": "https://open.spotify.com/track/3a7sMVCjNMQ5B1cE3XXub8"
+      "duration_ms": 256058,
+      "name": "La Muerte",
+      "url": "https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -567,22 +563,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 256058,
-      "name": "La Muerte",
-      "url": "https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
         "url": "https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 173560,
       "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula",
       "url": "https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
+        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Don Ramiro Cavazos",
+          "url": "https://open.spotify.com/artist/563FHcEebqpITZ6Vu5sw6Y"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Te Vas \u00c1ngel M\u00edo - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
+      "url": "https://open.spotify.com/track/3a7sMVCjNMQ5B1cE3XXub8"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Edge of the Sun (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4QsOzuucw0uoH3cuLA0RLv"
-      },
-      "artists": [
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Coyoac\u00e1n",
-      "url": "https://open.spotify.com/track/58VDkDKmw5tLvS2HcxMAxw"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "God Save The Queers EP",
         "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 288253,
       "name": "Kumbia Zombie",
       "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Edge of the Sun (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QsOzuucw0uoH3cuLA0RLv"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Coyoac\u00e1n",
+      "url": "https://open.spotify.com/track/58VDkDKmw5tLvS2HcxMAxw"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Dulce Muerte",
-        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
-      },
-      "artists": [
-        {
-          "name": "BuenRostro",
-          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Dulce Muerte",
-      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "La Danza de la Muerte (D\u00eda de Muertos)",
         "url": "https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 194092,
       "name": "La Danza de la Muerte - D\u00eda de Muertos",
       "url": "https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Dulce Muerte",
+        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
+      },
+      "artists": [
+        {
+          "name": "BuenRostro",
+          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Dulce Muerte",
+      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
-        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Para Cuando Muera",
-      "url": "https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 190106,
       "name": "La Reyna Del Inframundo",
       "url": "https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
+        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Para Cuando Muera",
+      "url": "https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1"
     }
   ],
   "unique_name": "D\u00eda de Muertos",

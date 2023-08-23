@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,613 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,792 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Andale](https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:48 |
 | 100 | [Say Less \(feat\. Lil Durk & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6D4n6TkbC3Dce3c03FzrDM) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hip Hop 50: Vol\. 2](https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz) | 2:54 |
 
-Snapshot ID: `MCwzMzJmMzVmMjg4MDAxYzYzYTM0NGU4YjhlZTA3NGYyOTlmMmEzNDg3`
+Snapshot ID: `MCwyNzg4YThkMjE4OTI2MTU5NzI3MGQ1ODRkZmFiYjQzOTJjODZlNDI4`

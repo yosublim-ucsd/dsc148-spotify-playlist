@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-513 songs - 1 day 5 hr 23 min
+514 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amanojaku](https://open.spotify.com/track/2P8HxufC1uIUVFYGkyRkSm) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [Exit Tunes Presents Gumitive From Megpoid \(Vocaloid\)](https://open.spotify.com/album/0IhgpAb7bDAIFeFk6gfh3F) | 3:08 | 2023-06-13 | 2023-07-21 |
 | [Aoku Aoku Hikaru](https://open.spotify.com/track/1W6l1pZR06xDwWi2nhb5YJ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC2](https://open.spotify.com/album/1zg4XTpXBFeAltnyQPSDbV) | 3:47 | 2023-03-09 | 2023-04-14 |
 | [Aoku Aoku Hikaru](https://open.spotify.com/track/4remMpKJioVgkTecTRvT52) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [Aoku Aoku Hikaru](https://open.spotify.com/album/6D1H5mmhfS3GwAPLDzeet3) | 3:47 | 2023-03-09 | 2023-03-13 |
+| [Apocalypse Now](https://open.spotify.com/track/2LbabPUGMd8EszPPvmiO6a) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Apocalypse Now](https://open.spotify.com/album/1vPm6olblhpMOw2kKjCesj) | 2:57 | 2023-08-22 |  |
 | [ATELIER](https://open.spotify.com/track/55HkMllhxhnB78YXanuwgK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:41 | 2022-06-14 | 2022-06-22 |
 | [Awake Now](https://open.spotify.com/track/14NNOtVmIhGHLcwaluyoHn) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/0pivFXtrPhKw6TZvksvBVO) | 3:16 | 2022-07-26 | 2022-08-17 |
 | [Awake Now](https://open.spotify.com/track/7MBhcb9p4z70uofoNxGXkG) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/73AKllCZLqEq5kVsn4cdDW) | 3:16 | 2022-06-09 | 2022-07-29 |
@@ -497,7 +498,7 @@
 | [群青讃歌](https://open.spotify.com/track/6BWMagsCayJHrMApCnYG8d) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eve Vocaloid 01](https://open.spotify.com/album/6EjxEzqpGebeH0X4PhuRqG) | 4:35 | 2022-06-09 | 2022-07-27 |
 | [脱法ロック](https://open.spotify.com/track/3RannlvnBgRRNY2gg940x7) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [CYNICISM](https://open.spotify.com/album/4RdqGPBih6Q5RfPED5sjiu) | 3:08 | 2022-06-23 | 2023-03-10 |
 | [脳漿炸裂ガール](https://open.spotify.com/track/5gX1JKayYNmXFvM0WH3SGT) | [+α/あるふぁきゅん。](https://open.spotify.com/artist/6h5CRuhHGbYgXjqsw76K3i) | [+α/](https://open.spotify.com/album/7Fs8QM404ayeo1bJVTJiXU) | 3:13 | 2022-06-14 | 2022-07-02 |
-| [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 | 2022-06-28 |  |
+| [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 | 2022-06-28 | 2023-08-23 |
 | [腐れ外道とチョコレゐト](https://open.spotify.com/track/07ja6ijB8a5DAsfwKJFoMb) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Comic and Cosmic](https://open.spotify.com/album/0rclMLKSwOEJ9I7xauRFbF) | 3:15 | 2022-06-23 | 2022-07-19 |
 | [花が落ちたので、](https://open.spotify.com/track/20q0R0wiT2p4Wy2ba3kaMN) | [一二三](https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO) | [独りに花を添え](https://open.spotify.com/album/0q7P45GeBYeAOGm6pa7DDY) | 4:16 | 2022-06-23 | 2022-07-26 |
 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 | 2023-02-09 | 2023-06-21 |

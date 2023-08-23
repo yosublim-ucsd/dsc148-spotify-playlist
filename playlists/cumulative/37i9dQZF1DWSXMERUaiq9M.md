@@ -4,7 +4,7 @@
 
 > love peace techno
 
-146 songs - 10 hr 19 min
+147 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Flying](https://open.spotify.com/track/3az4vAsJLnsNlvj786xsIR) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi) | [Flying](https://open.spotify.com/album/0tRIZKUU63SRnbqp9Iu9ZL) | 2:19 | 2023-06-15 | 2023-06-23 |
 | [Get Busy](https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Get Busy](https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob) | 3:20 | 2023-03-10 | 2023-08-11 |
 | [Get Funkeee](https://open.spotify.com/track/3UQ9arO3sZ0lzBBRsPMK6P) | [P.Vanillaboy](https://open.spotify.com/artist/6no5okBU3PLAhvonZbi21z), [penglord](https://open.spotify.com/artist/2DTVU6DwbfC2wMt3YIdiv4), [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Get Funkeee](https://open.spotify.com/album/5q412gKbYG2B4MI50iTi3e) | 6:20 | 2023-08-10 | 2023-08-19 |
-| [Get Shaky](https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/2cBSMHLqs6Zaj3IIUrGTnD) | 3:57 | 2023-03-10 |  |
+| [Get Shaky](https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/2cBSMHLqs6Zaj3IIUrGTnD) | 3:57 | 2023-03-10 | 2023-08-23 |
 | [Ghzelian](https://open.spotify.com/track/33dQ1rm0MBUvoRRWJngBpw) | [Lady Starlight](https://open.spotify.com/artist/0eoS0xkD1JAXJIEQi766Mf) | [Ghzelian](https://open.spotify.com/album/1Hmb3Wm0vqW6hqqlROGKVQ) | 5:57 | 2023-08-01 | 2023-08-05 |
 | [Give Me Your Love \(Baby\)](https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE) | [Give Me Your Love \(Baby\)](https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U) | 2:16 | 2023-05-26 | 2023-06-30 |
 | [Global BBs](https://open.spotify.com/track/0HL34cP8CEovMTUKcjkcZr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [Tootsie Pop](https://open.spotify.com/album/4EDYffZjJHQq6BOIPUSCKJ) | 5:14 | 2023-06-15 | 2023-06-23 |
@@ -96,6 +96,7 @@
 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 | 2023-07-07 | 2023-07-11 |
 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 | 2023-07-10 |  |
 | [MY BODY IS GOD ON ACID](https://open.spotify.com/track/4qf2TmjFImuZkpAwmP1LKE) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [MY BODY IS GOD ON ACID](https://open.spotify.com/album/5ON20qgoweG6jjxVXrQdZh) | 6:09 | 2023-03-10 | 2023-04-19 |
+| [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
 | [My Little White Pony](https://open.spotify.com/track/25SHYrwpLLuVnsLsN39xYr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo) | 4:59 | 2023-03-10 | 2023-07-01 |
 | [Neo Eros](https://open.spotify.com/track/1OWIJ8oVoeoKto8vNKQs5R) | [BXTR](https://open.spotify.com/artist/5DVHsT32QqMheNUahCSEAA), [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [Neo Eros](https://open.spotify.com/album/6ouucH3hin2Y2IKUUAi3cD) | 5:27 | 2023-05-05 | 2023-05-11 |
 | [Never Let Me Go](https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Never Let Me Go](https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI) | 4:09 | 2023-03-10 | 2023-05-06 |

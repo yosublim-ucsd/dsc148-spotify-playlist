@@ -1,12 +1,12 @@
 {
   "description": "tunes for walking, driving, running, flying, etc",
-  "num_followers": 180823,
+  "num_followers": 180902,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGZjMjY0N2I0NTM5Mjg0NzdkMjFhMzcyYmU5MDA2ZDA0YzZhYzk4",
+  "snapshot_id": "MCw1NDUwMjczMjg1ZjZhOWNlZWNmNDQ5NDI3OTRkMDBlOGNkOWM3ZmZm",
   "tracks": [
     {
       "added_at": "2023-08-09 21:18:22",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Are We Going Too Slow?",
-        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 188380,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "You and Your Friends (Deluxe)",
         "url": "https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 206733,
       "name": "Psychics in LA",
       "url": "https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Are We Going Too Slow?",
+        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 188380,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "House of FM",
-        "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 235263,
-      "name": "Losing Touch",
-      "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Once Twice Melody",
         "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 252733,
       "name": "New Romance",
       "url": "https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "House of FM",
+        "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Losing Touch",
+      "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "BIRDSONGS, Vol. 3",
-        "url": "https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 135625,
-      "name": "Easy On Them Turns",
-      "url": "https://open.spotify.com/track/2UR2cDcRfLiQzPvEV5hWtP"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "ALLIGATOR",
         "url": "https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 154730,
       "name": "ELECTRIFY TONIGHT",
       "url": "https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "BIRDSONGS, Vol. 3",
+        "url": "https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 135625,
+      "name": "Easy On Them Turns",
+      "url": "https://open.spotify.com/track/2UR2cDcRfLiQzPvEV5hWtP"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "LOOK AT THIS MESS IVE MADE EP",
+        "url": "https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk"
+      },
+      "artists": [
+        {
+          "name": "LoveLeo",
+          "url": "https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6"
+        }
+      ],
+      "duration_ms": 156149,
+      "name": "HEAD OVER HEELS",
+      "url": "https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "I'm Thru",
         "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 220147,
       "name": "Belles",
       "url": "https://open.spotify.com/track/4RpoYe85npfGZ9JEzTdzx8"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "LOOK AT THIS MESS IVE MADE EP",
-        "url": "https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk"
-      },
-      "artists": [
-        {
-          "name": "LoveLeo",
-          "url": "https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6"
-        }
-      ],
-      "duration_ms": 156149,
-      "name": "HEAD OVER HEELS",
-      "url": "https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "The Lost Grooves EP",
-        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
-      },
-      "artists": [
-        {
-          "name": "In Deep We Trust",
-          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Ba:sen - Pool Party Dub Mix",
-      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Tennis Courts",
         "url": "https://open.spotify.com/album/0RW5vXBF1fAe5W11bDstR7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 180570,
       "name": "Tennis Courts",
       "url": "https://open.spotify.com/track/79SHyhyGcYf47aPKA4RnVx"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "The Lost Grooves EP",
+        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+      },
+      "artists": [
+        {
+          "name": "In Deep We Trust",
+          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Ba:sen - Pool Party Dub Mix",
+      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Weather Report",
-        "url": "https://open.spotify.com/album/4EeNAmLMJpwE1IoZJjbQGn"
-      },
-      "artists": [
-        {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Fortune Cookie",
-      "url": "https://open.spotify.com/track/7I0MuhVysG7x8yYpLQPS4z"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "keep in touch",
         "url": "https://open.spotify.com/album/2vLQadIAwgChhNUu2WguFK"
       },
@@ -1431,6 +1415,38 @@
       "duration_ms": 212584,
       "name": "Can U Meet Me There",
       "url": "https://open.spotify.com/track/5mOPWc6HBo77VOztxzFh5s"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Weather Report",
+        "url": "https://open.spotify.com/album/4EeNAmLMJpwE1IoZJjbQGn"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Fortune Cookie",
+      "url": "https://open.spotify.com/track/7I0MuhVysG7x8yYpLQPS4z"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Rot",
+        "url": "https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo"
+      },
+      "artists": [
+        {
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+        }
+      ],
+      "duration_ms": 274026,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Rot",
-        "url": "https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo"
-      },
-      "artists": [
-        {
-          "name": "Tennyson",
-          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
-        }
-      ],
-      "duration_ms": 274026,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "PIE",
         "url": "https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 176552,
       "name": "PIE",
       "url": "https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "FORTHEWORLD",
-        "url": "https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr"
-      },
-      "artists": [
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 145620,
-      "name": "benny!",
-      "url": "https://open.spotify.com/track/6hDJWLmPebVbFrDC9hw1Ry"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "FORTHEWORLD",
+        "url": "https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 145620,
+      "name": "benny!",
+      "url": "https://open.spotify.com/track/6hDJWLmPebVbFrDC9hw1Ry"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 190346,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Mixtape",
-        "url": "https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg"
-      },
-      "artists": [
-        {
-          "name": "Bobbing",
-          "url": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX"
-        }
-      ],
-      "duration_ms": 91757,
-      "name": "Ah Uh Oh",
-      "url": "https://open.spotify.com/track/18Tak6ShCoGoxZhBgn2IoY"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Lars",
-        "url": "https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr"
+        "name": "Mixtape",
+        "url": "https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg"
       },
       "artists": [
         {
-          "name": "Swansea Skag",
-          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+          "name": "Bobbing",
+          "url": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX"
         }
       ],
-      "duration_ms": 183996,
-      "name": "Lars",
-      "url": "https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG"
+      "duration_ms": 91757,
+      "name": "Ah Uh Oh",
+      "url": "https://open.spotify.com/track/18Tak6ShCoGoxZhBgn2IoY"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1683,22 +1667,34 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/1HTYkylMaJEJzTeDCGfjt8"
+        "name": "Lars",
+        "url": "https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr"
       },
       "artists": [
         {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        },
-        {
-          "name": "Tabi",
-          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
         }
       ],
-      "duration_ms": 144076,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/3YJS5rTnXPsQgzZyIyC3Xw"
+      "duration_ms": 183996,
+      "name": "Lars",
+      "url": "https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p"
+      },
+      "artists": [
+        {
+          "name": "Mosie",
+          "url": "https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql"
+        }
+      ],
+      "duration_ms": 234230,
+      "name": "Oh! Frenchy",
+      "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
     }
   ],
   "unique_name": "omw",

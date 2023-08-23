@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,931 likes - 115 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,068 likes - 115 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 42 | [I'll Bite Your Soul](https://open.spotify.com/track/71qKWIBggc7poNXclWN53M) | [SHRK](https://open.spotify.com/artist/3bDsGKWVVP8NdrqpiB0rEp), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Love](https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK) | 2:03 |
 | 43 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 |
 | 44 | [simple.](https://open.spotify.com/track/0zDK7gAioDcF4g4eEpWYka) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [simple.](https://open.spotify.com/album/6dqUM4SWXJXrzd1lm2BJaG) | 1:57 |
-| 45 | [Imagination](https://open.spotify.com/track/5bttUhX2smfy7urwlidPfG) | [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Patient Zero](https://open.spotify.com/artist/7z6qM92XcUIwugTRs2PcmZ) | [Imagination](https://open.spotify.com/album/4Mm3zqe5BaCECuV8spp9ZG) | 1:44 |
+| 45 | [Imagination](https://open.spotify.com/track/5bttUhX2smfy7urwlidPfG) | [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Patient Zero](https://open.spotify.com/artist/7z6qM92XcUIwugTRs2PcmZ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Imagination](https://open.spotify.com/album/4Mm3zqe5BaCECuV8spp9ZG) | 1:44 |
 | 46 | [Love Is More Depressing Than Depression](https://open.spotify.com/track/6x2vJWVX5xaYvkISLVu7Kz) | [prxz](https://open.spotify.com/artist/40HzN0eLAMZk4nTHMk9sUA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Love Wounds](https://open.spotify.com/album/1h6VRZSqs4FANrEbUCraZc) | 2:13 |
 | 47 | [Dance with Me](https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH) | [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C) | [Love Is the Same as Sadness](https://open.spotify.com/album/4JcORch57yBGLItxgest7E) | 1:27 |
 | 48 | [First Date](https://open.spotify.com/track/733hyyG8U8kxxebds98nc6) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH) | 2:53 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 114 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 115 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MCw1YWZmYzk5ZTc0ZWNiMDQ2MzFiZTc0ZGJiYjkyZGZhNTFlNDRmNDFh`
+Snapshot ID: `MCwxOGM5MjI5YjQxMGI0MzM2YzRhMDVlNTI3YTY2ZGZkNTExOGRkYTZk`

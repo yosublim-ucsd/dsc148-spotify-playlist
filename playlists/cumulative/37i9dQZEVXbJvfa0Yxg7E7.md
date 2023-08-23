@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,235 songs - 2 day 16 hr 7 min
+1,236 songs - 2 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-10-06 |
 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 | 2021-10-06 | 2021-10-31 |
 | [Hurt You](https://open.spotify.com/track/63zmfZ1PWzZ8WsM45yyJp2) | [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Hurt You](https://open.spotify.com/album/3SIMvvam936pZT9GDDqUJj) | 4:09 | 2021-04-11 | 2021-04-13 |
+| [Hurts Me](https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Hurts Me](https://open.spotify.com/album/5fMG2nwVGN3fBofLm9CB0x) | 2:20 | 2023-08-22 |  |
 | [HVA SA DU](https://open.spotify.com/track/1EWRs6LpS4PL5gTbWaUMs6) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd) | [HVA SA DU](https://open.spotify.com/album/4Idg3E4GRUoxqlmrL3B19g) | 1:57 | 2023-02-04 | 2023-03-12 |
 | [Hvis Jeg Forlot Verden](https://open.spotify.com/track/6mVs7u8G3mZz2aEkUiOdh4) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Enten Går Det Bra, Ellers Går Det Over](https://open.spotify.com/album/3LIWwqu7IMhuWbrw8CqSSd) | 3:16 | 2022-03-29 | 2022-04-03 |
 | [Hvis Jeg Forlot Verden](https://open.spotify.com/track/791LthD0UWUYYXOwneTM3V) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Hvis Jeg Forlot Verden](https://open.spotify.com/album/0rCU9i6gleJ72xoJ3Y454X) | 3:16 | 2022-02-12 | 2022-03-30 |
@@ -566,7 +567,7 @@
 | [IBOPROFEN](https://open.spotify.com/track/5vtRUF1yqzWWwZe5rN901j) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [Omar Sheriff](https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7) | 2:10 | 2022-01-29 | 2022-09-15 |
 | [Idiot](https://open.spotify.com/track/1dD5RfTAEDEk19GhAz9hUG) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/4mn6Db6CFWf05QqKKTsSS1) | 1:58 | 2023-05-27 | 2023-06-07 |
 | [Idiot](https://open.spotify.com/track/5vLOM6xp1c2B1vqCpQf6oo) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/12GMWOXclPuWUmygCmvKrk) | 1:58 | 2023-06-06 | 2023-07-04 |
-| [Idiot](https://open.spotify.com/track/7tfoIzmMZ7baGJEYmHtajI) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/1quZHmo8Sdp0AJDG3Vrh3n) | 1:58 | 2023-07-03 |  |
+| [Idiot](https://open.spotify.com/track/7tfoIzmMZ7baGJEYmHtajI) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/1quZHmo8Sdp0AJDG3Vrh3n) | 1:58 | 2023-07-03 | 2023-08-23 |
 | [Idyll](https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:23 | 2023-06-11 | 2023-07-19 |
 | [If I Were You](https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [If I Were You](https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R) | 3:12 | 2022-03-05 | 2022-03-21 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-11 | 2023-03-19 |

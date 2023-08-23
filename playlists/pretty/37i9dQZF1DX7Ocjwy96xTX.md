@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > dark & dreamy for night creatures
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,556 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,068 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 49 | [Fading Strangers](https://open.spotify.com/track/2XF1JdrtOorRbxw02e3tFI) | [Unreality](https://open.spotify.com/artist/18LV0HPxHANRVU6z3L7xKs) | [Fading Strangers](https://open.spotify.com/album/287xZvqs6sT1Sme8GnVkaf) | 3:15 |
 | 50 | [Dream, Ivory](https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/4aMcxxMheE6r3FC4a4JLhv) | 3:08 |
 
-Snapshot ID: `MCxiNGFlZDc5YjNlNTAxMDdjZGFiNWE3NTM0NTBhYWU1ZjJlZjRjNDkw`
+Snapshot ID: `MCxjMGFjMWYyZDU2ZDA1YzQxOTQyOGQ2YzA2MDg0MGM2YzM4MmE0MTlj`

@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Praya Tjondro
 
-152 songs - 10 hr 49 min
+153 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Ode To Benny Liku](https://open.spotify.com/track/0InqZFiygFkZpMlLBHZV76) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [Dear Pops \(My Tribute\)](https://open.spotify.com/album/6hgX3x5ONatp8wWMVWVEUn) | 6:20 | 2022-09-02 | 2023-06-09 |
 | [Out For Myself](https://open.spotify.com/track/1vod4ABB5ohyWCR9q43kdO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Out For Myself](https://open.spotify.com/album/1FR6iORwa5Pjjpch7cNUQo) | 2:49 | 2022-09-02 |  |
 | [Overthinking](https://open.spotify.com/track/68axzsHTzuRwz7taOKwh3r) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Overthinking](https://open.spotify.com/album/33zlUHkFoO6zWb1sUthe43) | 3:35 | 2022-09-02 | 2023-07-14 |
-| [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt) | [Pengungkapan Hatimu](https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf) | 3:56 | 2022-09-02 |  |
+| [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt) | [Pengungkapan Hatimu](https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf) | 3:56 | 2022-09-02 | 2023-08-23 |
+| [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/7jITLJhURuLtOkLxmjDs67) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Pengungkapan Hatimu](https://open.spotify.com/album/6SYCwGMPFlhIgFQuiVoGpe) | 3:56 | 2023-08-17 |  |
 | [Perjalanan](https://open.spotify.com/track/2Xzzv1HLYnxLkeGwMeQyC3) | [5Petani](https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp) | [Perjalanan](https://open.spotify.com/album/12e9PBz29sAkDK3SuBCX3j) | 4:56 | 2023-03-03 |  |
 | [Perjumpaan Kita](https://open.spotify.com/track/0XrhqWIImjM7MlImOZUXZX) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt), [Dian Sastrowardoyo](https://open.spotify.com/artist/2z03bPWIFofruoPDCNj7GG) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 4:45 | 2022-09-02 | 2023-07-14 |
 | [Piccadilly](https://open.spotify.com/track/4an0lMBXVVuvjp62nNiAJT) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Two of a Kind](https://open.spotify.com/album/5Wv1AZE2RhdRLhKmrL1jtm) | 4:36 | 2022-09-02 |  |

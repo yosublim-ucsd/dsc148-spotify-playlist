@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-481 songs - 1 day 23 hr 22 min
+482 songs - 1 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Cumulonimbus Incus](https://open.spotify.com/track/2paMfzAp6rhZaAU5gjVfh6) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Silver Linings](https://open.spotify.com/album/3OFxNZom1XclhLF4cU62n8) | 6:48 | 2021-07-30 | 2022-07-29 |
 | [Cure My Desire \(feat\. Clementine Douglas\) \- Themba Remix](https://open.spotify.com/track/5vaNPQoye1DYsXj0yckiCk) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Cure My Desire \(feat\. Clementine Douglas\) \[Themba Remix\]](https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi) | 3:40 | 2023-01-30 |  |
 | [Cutting Ribbons \(feat\. Paul Brenning\)](https://open.spotify.com/track/72qQf918A43mrhddO8Hp9G) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Monnarsh](https://open.spotify.com/artist/2shdnmTdFi3RxMa5OGOPRj), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Cutting Ribbons \(feat\. Paul Brenning\)](https://open.spotify.com/album/0dyvhEKGtheznpjjPZ0Ub3) | 3:53 | 2023-05-05 | 2023-06-17 |
+| [Dale](https://open.spotify.com/track/6c3qEL7Vqln2z2UKvnPjjm) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [Dale](https://open.spotify.com/album/57UcRw8voA5xTPL7ctpBIG) | 3:32 | 2023-08-18 |  |
 | [Dance of the Crab](https://open.spotify.com/track/7tu1Bd1SfSiBdRgUvYpq7t) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 3:29 | 2023-07-14 | 2023-07-22 |
 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-07-07 |  |
 | [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 | 2023-04-07 | 2023-06-22 |
@@ -111,7 +112,7 @@
 | [Deneb Algedi \- Radio Edit](https://open.spotify.com/track/3UpiaKvd52jtDP5d9mDjBz) | [Massimo Logli](https://open.spotify.com/artist/3IVLbePHoVd9TYMJuKu1Ei) | [Deneb Algedi \- Elkurud](https://open.spotify.com/album/2wEvoWWqP9nKBWTKwgOobD) | 3:16 | 2021-05-07 | 2022-07-14 |
 | [Departures](https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 5:08 | 2021-04-21 | 2022-10-15 |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-05-13 | 2022-07-29 |
-| [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 | 2023-03-03 |  |
+| [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 | 2023-03-03 | 2023-08-23 |
 | [Die Dunkle Biene](https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Die Dunkle Biene](https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx) | 7:45 | 2023-02-24 |  |
 | [Disappear](https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5) | [Disappear](https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh) | 3:55 | 2022-06-10 |  |
 | [Disappear \- Andrea Oliva Remix](https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Disappear \(Andrea Oliva Remix\)](https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7) | 3:32 | 2023-03-10 |  |

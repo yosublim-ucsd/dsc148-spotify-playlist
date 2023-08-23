@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 191728,
+  "num_followers": 191842,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTQ1MGIwMWZjNGUyY2Q4NmYwMzZlYjViNjczMjMwOTdlZDA2NDcz",
+  "snapshot_id": "MCxmNmY3Yjc4ZDlmM2I3NmE3YzQ2OWUzOTE2OTQzY2RmZWYxZjExMzhi",
   "tracks": [
     {
       "added_at": "2023-07-07 06:05:01",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "Da Hora",
-        "url": "https://open.spotify.com/album/7nPkLH5JVbbc1mvesc6cGi"
+        "name": "House Of Jade",
+        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
       },
       "artists": [
         {
-          "name": "Vitto Meirelles",
-          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
         }
       ],
-      "duration_ms": 275574,
-      "name": "Nada \u00e9 Melhor Do Que Voc\u00ea",
-      "url": "https://open.spotify.com/track/5av3enKGwy5cfBKX8dpQ4r"
+      "duration_ms": 442000,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "House Of Jade",
-        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
+        "name": "Da Hora",
+        "url": "https://open.spotify.com/album/7nPkLH5JVbbc1mvesc6cGi"
       },
       "artists": [
         {
-          "name": "Eugene Lambert",
-          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+          "name": "Vitto Meirelles",
+          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
         }
       ],
-      "duration_ms": 442000,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
+      "duration_ms": 275574,
+      "name": "Nada \u00e9 Melhor Do Que Voc\u00ea",
+      "url": "https://open.spotify.com/track/5av3enKGwy5cfBKX8dpQ4r"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -851,30 +851,6 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "Samba Sem Ver\u00e3o",
-        "url": "https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH"
-      },
-      "artists": [
-        {
-          "name": "Marcio Nucci",
-          "url": "https://open.spotify.com/artist/5emBFil4bHt1h81zHDIhsa"
-        },
-        {
-          "name": "Delia Fischer",
-          "url": "https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG"
-        },
-        {
-          "name": "Jaques Morelenbaum",
-          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
-        }
-      ],
-      "duration_ms": 253870,
-      "name": "Samba Sem Ver\u00e3o",
-      "url": "https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
         "name": "Sorte!",
         "url": "https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 291729,
       "name": "Sorte!",
       "url": "https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
+        "name": "Samba Sem Ver\u00e3o",
+        "url": "https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH"
+      },
+      "artists": [
+        {
+          "name": "Marcio Nucci",
+          "url": "https://open.spotify.com/artist/5emBFil4bHt1h81zHDIhsa"
+        },
+        {
+          "name": "Delia Fischer",
+          "url": "https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        }
+      ],
+      "duration_ms": 253870,
+      "name": "Samba Sem Ver\u00e3o",
+      "url": "https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "Saudades de Amanh\u00e3",
-        "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
-      },
-      "artists": [
-        {
-          "name": "Antonio Carlos Bigonha",
-          "url": "https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK"
-        }
-      ],
-      "duration_ms": 275370,
-      "name": "Perto do Tom",
-      "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
         "name": "A Ma\u00e7\u00e3",
         "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
+        "name": "Saudades de Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
+      },
+      "artists": [
+        {
+          "name": "Antonio Carlos Bigonha",
+          "url": "https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK"
+        }
+      ],
+      "duration_ms": 275370,
+      "name": "Perto do Tom",
+      "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
         "name": "\u00cdndia",
         "url": "https://open.spotify.com/album/0jKrhKSGwTc4ZJ1cBvtRpI"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 188597,
       "name": "\u00cdndia - Tarde de Sol",
       "url": "https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
+        "name": "Muito \u00e0 Vontade",
+        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
+      },
+      "artists": [
+        {
+          "name": "Sammy Silva Band",
+          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
+        }
+      ],
+      "duration_ms": 157268,
+      "name": "Muito \u00e0 Vontade",
+      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -1127,22 +1143,6 @@
       "duration_ms": 267488,
       "name": "Choro de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6wn4H2ORKskGU81H6Hpook"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
-        "name": "Muito \u00e0 Vontade",
-        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
-      },
-      "artists": [
-        {
-          "name": "Sammy Silva Band",
-          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
-        }
-      ],
-      "duration_ms": 157268,
-      "name": "Muito \u00e0 Vontade",
-      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
+        "name": "O Melhor Carinho",
+        "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
+      },
+      "artists": [
+        {
+          "name": "Elisa Gudin",
+          "url": "https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I"
+        }
+      ],
+      "duration_ms": 193324,
+      "name": "O Melhor Carinho",
+      "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
         "name": "M\u00fasicas para Travessia",
         "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 124088,
       "name": "Na Casa do Jornalista",
       "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
-        "name": "O Melhor Carinho",
-        "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
-      },
-      "artists": [
-        {
-          "name": "Elisa Gudin",
-          "url": "https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I"
-        }
-      ],
-      "duration_ms": 193324,
-      "name": "O Melhor Carinho",
-      "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
+        "name": "Parti Capuri",
+        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
+      },
+      "artists": [
+        {
+          "name": "Billynho Blanco",
+          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Parti Capuri",
+      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
         "name": "Navegante - Dudu Sperb Recebe Guinga",
         "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 285613,
       "name": "Choro Pro Z\u00e9",
       "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
-        "name": "Parti Capuri",
-        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
-      },
-      "artists": [
-        {
-          "name": "Billynho Blanco",
-          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Parti Capuri",
-      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
+        "name": "Caetano Veloso - 1969",
+        "url": "https://open.spotify.com/album/1piwOhCQ92jysdChq3IRz9"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Chuvas De Ver\u00e3o - Remastered 2006",
+      "url": "https://open.spotify.com/track/3qhFhiaQrfkejwjSFqjfmR"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
         "name": "O Amor \u00e9 um Segredo Z\u00e9 Renato canta Paulinho da Viola",
         "url": "https://open.spotify.com/album/7Mk4XTh9NVPd9mJMIW9v7e"
       },
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "Caetano Veloso - 1969",
-        "url": "https://open.spotify.com/album/1piwOhCQ92jysdChq3IRz9"
+        "name": "\u00c0guas De Mar\u00e7o / Esse Ano / Nada \u00c9 Melhor Do Que Voc\u00ea",
+        "url": "https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Vitto Meirelles",
+          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
         }
       ],
-      "duration_ms": 168600,
-      "name": "Chuvas De Ver\u00e3o - Remastered 2006",
-      "url": "https://open.spotify.com/track/3qhFhiaQrfkejwjSFqjfmR"
+      "duration_ms": 145974,
+      "name": "Esse Ano",
+      "url": "https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -1631,22 +1647,6 @@
       "duration_ms": 152338,
       "name": "A Banca do Distinto",
       "url": "https://open.spotify.com/track/7kM9MuAIlRY3h0I8JnO68F"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
-        "name": "\u00c0guas De Mar\u00e7o / Esse Ano / Nada \u00c9 Melhor Do Que Voc\u00ea",
-        "url": "https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe"
-      },
-      "artists": [
-        {
-          "name": "Vitto Meirelles",
-          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
-        }
-      ],
-      "duration_ms": 145974,
-      "name": "Esse Ano",
-      "url": "https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e"
     },
     {
       "added_at": "2023-07-07 06:05:01",

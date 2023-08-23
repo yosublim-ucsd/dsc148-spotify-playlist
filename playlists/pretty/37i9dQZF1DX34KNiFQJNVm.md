@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta, Jão, Luísa Sonza, L7NNON, Mc Livinho, Péricles e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906,846 likes - 98 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,907,026 likes - 98 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [Contramão](https://open.spotify.com/track/5vxVf4x310ltfa2sVwMZRq) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Plutão Já Foi Planeta](https://open.spotify.com/album/443v0AsX5FFio7iX23rxse) | 3:29 |
 | 98 | [navegar](https://open.spotify.com/track/5xjVexs2dbB0vkcJEVOvFo) | [camilobers](https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO), [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [navegar](https://open.spotify.com/album/5DboGDC3KJFtIN2l6DkGEU) | 3:13 |
 
-Snapshot ID: `MCw1NzM5MTg5ZTY5MjFkYWZiNGY3ODMwOTA4MmVjOWY5MzM3M2E0OGVi`
+Snapshot ID: `MCxkMjlhYjU3OWNlMzk3NTFjYTMzNmRmNDQ0ZTY3MDdmYzY0YTEzMDJl`

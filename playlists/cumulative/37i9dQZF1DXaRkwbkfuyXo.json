@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Seguimos arremangados, pariente. Voz de Mando en portada.",
+  "description": "Seguimos arremangados, pariente. El Komander en portada.",
   "name": "Corridos Alterados",
   "tracks": [
     {
@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161626,
+      "name": "Escuela Del Virus Antrax",
+      "url": "https://open.spotify.com/track/1K2XUMHUxQsf9vlFiAqHpj"
+    },
+    {
+      "album": {
         "name": "Las Que Les Gustan A Los Viejones",
         "url": "https://open.spotify.com/album/5ON2UoS7EGthERLkiiVp7Z"
       },
@@ -1791,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170125,
+      "name": "Leyenda M1",
+      "url": "https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg"
+    },
+    {
+      "album": {
         "name": "El Movimiento Alterado Vol. 7",
         "url": "https://open.spotify.com/album/7bGQrDRhvbs2InGsFbC4eO"
       },
@@ -1802,7 +1838,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 222400,
       "name": "Leyenda Viviente",
       "url": "https://open.spotify.com/track/3tgGSqtSgI0kZcZATjmED0"
@@ -2170,7 +2206,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 209803,
       "name": "Soy De Rancho",
       "url": "https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,665 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,121 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 38 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 |
 | 39 | [Bullet In the Gun 2000 \- Radio Mix](https://open.spotify.com/track/3c7aA2sPM4xcFTWkBINhty) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be) | [Bullet in the Gun 2000](https://open.spotify.com/album/6rhPbYVEu7rVdSvsA0zvHi) | 3:10 |
 | 40 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 |
-| 41 | [Everytime \- Nalin & Kane Mix](https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU) | [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7), [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [25 Years, Vol\. 3](https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV) | 4:09 |
-| 42 | [Need To Feel Loved \- Radio Edit](https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6) | [Reflekt](https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk) | [Need To Feel Loved](https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X) | 3:16 |
+| 41 | [Need To Feel Loved \- Radio Edit](https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6) | [Reflekt](https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk) | [Need To Feel Loved](https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X) | 3:16 |
+| 42 | [Everytime \- Nalin & Kane Mix](https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU) | [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7), [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [25 Years, Vol\. 3](https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV) | 4:09 |
 | 43 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
 | 44 | [Greece 2000 \- Edit](https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n) | 3:39 |
 | 45 | [Seven Cities \- Solarstone's Atlantis Mix](https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Seven Cities](https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY) | 3:31 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 47 | [Cry](https://open.spotify.com/track/5fwONah6r8bm2UfcY8PGMz) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Cry](https://open.spotify.com/album/6qXV8qN7pKpEW9QrLrO1fm) | 4:17 |
 | 48 | [Beautiful \- 1999 Mix](https://open.spotify.com/track/59ktkd4Y30uNOeuxJhBN5e) | [Matt Darey](https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S), [Marcella Woods](https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c) | [Retrospective \(25 Years\)](https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4) | 3:39 |
 | 49 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
-| 50 | [We Control The Sunlight](https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h), [Jwaydan](https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp) | [Armada Collected: Aly & Fila](https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1) | 3:46 |
+| 50 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 |
 
-Snapshot ID: `MCxlYzUzNjM2ZjA2ZDdjMzQ5NjU0MDJjMTJmNjdjYzAxNjJiZTY5OWVk`
+Snapshot ID: `MCw2NzY4NjdlZmNhNzZhMjIyNGM3NGZiNmNiMGIyZmY3NDBhZmVmN2Q4`

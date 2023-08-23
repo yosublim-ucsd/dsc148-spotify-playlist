@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Forest Theory",
+        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Bamboo",
+          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337714,
+      "name": "Subconcious",
+      "url": "https://open.spotify.com/track/49tZayx9YX7rAFwOVdwQhw"
+    },
+    {
+      "album": {
         "name": "Hermetica",
         "url": "https://open.spotify.com/album/4EFAUFCc36J7SFoyYDdz0o"
       },

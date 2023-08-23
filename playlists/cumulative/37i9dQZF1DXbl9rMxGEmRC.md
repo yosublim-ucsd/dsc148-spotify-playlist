@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-473 songs - 1 day 16 hr 20 min
+474 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A csend hegyei](https://open.spotify.com/track/14YaVGzQho0X6zqI5Rfx5T) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [A csend hegyei](https://open.spotify.com/album/5MX3Rtz5e4kCopEkYfuRHp) | 4:10 | 2023-04-28 | 2023-05-23 |
 | [A Fine Day to Die](https://open.spotify.com/track/1nLF4GpaJe54kjjBVxIBRS) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Blood Fire Death](https://open.spotify.com/album/2QVt9UZEloRJgYqE70ACPs) | 8:36 | 2022-07-13 | 2023-08-19 |
 | [A Psylacybic Death](https://open.spotify.com/track/3gRVHf7tMrvbAZFMqZIWmD) | [Abduction](https://open.spotify.com/artist/0giVCDcrvEldaPK8aCF1vp) | [A Psylacybic Death](https://open.spotify.com/album/0ldAuoMKfNhTDZn9lvLDgp) | 7:08 | 2022-10-07 | 2023-01-01 |
+| [A World Of Pain](https://open.spotify.com/track/7paJIScWYg7SWhAn3KYPgN) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Here For None](https://open.spotify.com/album/03CPGRDNYWE7pmA9yXDdNa) | 3:09 | 2023-08-18 |  |
 | [Acclamation of Bonds](https://open.spotify.com/track/1KKcGv11n6RVa2l7Edi5ZY) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [Acclamation of Bonds](https://open.spotify.com/album/0BBiyOZILxrh1WvVp0TfGb) | 6:00 | 2022-06-10 | 2022-07-19 |
 | [Age Of The Ordeal Of Iron](https://open.spotify.com/track/6PpdiS1ITIfNn2CN2dGVfM) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [Age Of The Ordeal Of Iron](https://open.spotify.com/album/2f59CKxRPx3HOc96WcCL4q) | 5:53 | 2022-05-13 | 2022-07-28 |
 | [Agnus Dei](https://open.spotify.com/track/0fGhJvH67AJzNbdmDI0VDc) | [Funeral Mist](https://open.spotify.com/artist/2HDKz66BGq7RI2wEoMgPcv) | [Salvation](https://open.spotify.com/album/4aa0c088fBY0PYvrhKVEp2) | 4:33 | 2022-07-13 | 2022-07-27 |
@@ -114,7 +115,7 @@
 | [Desolation's Flower](https://open.spotify.com/track/7gX1NBorrOZqpLYBlRIW3F) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/3AmTVBNLadBMNE4OlVro6S) | 8:29 | 2023-08-04 |  |
 | [Destination Woe](https://open.spotify.com/track/1J4V8aJYMKrFAj64ry7Pxl) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [Destination Woe](https://open.spotify.com/album/5q13Ch3bg28ZqVrHhPsP1y) | 4:52 | 2023-03-17 | 2023-04-01 |
 | [Devil's Blood](https://open.spotify.com/track/3YW1hcnwzRIjwBfXuxl99Q) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi \(Remastered\)](https://open.spotify.com/album/56zmJY3VeoWpC2j71DbsOI) | 5:54 | 2022-07-13 | 2022-07-29 |
-| [Devil's Blood](https://open.spotify.com/track/4IiSKfn6MVHcqrG2ScUbiF) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi](https://open.spotify.com/album/2uqCn6pAXfkOd9P4huVZuf) | 5:54 | 2022-07-13 |  |
+| [Devil's Blood](https://open.spotify.com/track/4IiSKfn6MVHcqrG2ScUbiF) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi](https://open.spotify.com/album/2uqCn6pAXfkOd9P4huVZuf) | 5:54 | 2022-07-13 | 2023-08-23 |
 | [Die as a King](https://open.spotify.com/track/62t6283mMLU6BYb5QFjI0r) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Die as a King](https://open.spotify.com/album/2oekcukwotYHNZzkpxOfuP) | 3:37 | 2023-07-03 |  |
 | [Digital Bliss](https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG) | [Rotten Sound](https://open.spotify.com/artist/4aglyvdJ7ApTfDC6aQ2LFf) | [Apocalypse](https://open.spotify.com/album/3j2VfQygnXCYgQBNlenxwg) | 1:16 | 2023-03-31 | 2023-05-08 |
 | [Dissociation of the Extinguished Mind](https://open.spotify.com/track/5Ucq7WMc4ouHggTqo09ITX) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Dissociation of the Extinguished Mind](https://open.spotify.com/album/3gHYXJp2doaScSI6pEbsHq) | 6:56 | 2022-04-01 | 2022-05-07 |

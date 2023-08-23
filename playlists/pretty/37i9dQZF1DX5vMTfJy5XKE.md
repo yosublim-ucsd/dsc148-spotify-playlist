@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,684 likes - 166 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,664 likes - 166 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 14 | [Hallelujah](https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 3:20 |
 | 15 | [Walking in The Air](https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Walking in The Air](https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51) | 3:59 |
 | 16 | [Do You Hear What I Hear?](https://open.spotify.com/track/4ALkaFHbQZtJ5h1FigF2Ps) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Do You Hear What I Hear?](https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4) | 3:05 |
-| 17 | [Snow Falling](https://open.spotify.com/track/6nhkGPA0ieDvGjIvQbvabQ) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Chance Dalton](https://open.spotify.com/artist/6NqptR65eJmCAu500MWs7O) | [Snow Falling](https://open.spotify.com/album/3pHqtZRUYMpyJ2zgayMt1M) | 3:12 |
+| 17 | [Snow Falling](https://open.spotify.com/track/3yN2PMu5sCWo14L7kz9qya) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Chance Dalton](https://open.spotify.com/artist/6NqptR65eJmCAu500MWs7O) | [Snow Falling](https://open.spotify.com/album/1lUaMnSHkDKUBcg02uSWCl) | 3:12 |
 | 18 | [Christmas List](https://open.spotify.com/track/3tIFJcxOORa8WkTZBrpxSn) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Christmas List](https://open.spotify.com/album/1bm1rDiR9fPUVuLfovUeHn) | 3:21 |
 | 19 | [When Christmas Comes Again](https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When Christmas Comes Again](https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD) | 3:17 |
 | 20 | [Holiday Party](https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Holiday Party](https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1) | 3:01 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 165 | [Last Christmas](https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Last Christmas](https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo) | 2:48 |
 | 166 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
 
-Snapshot ID: `MCxkODAzZDc5NmJiMDg4ZWQ1NTMzYmYyYmIzMDYzYjQ2YmE1ZjM3NmQw`
+Snapshot ID: `MCxlNTA5Y2QwYTQ1ZjhjOGY3ZjVkN2ExNGI2NmI5YmI5ZjE4NTYxOGVl`

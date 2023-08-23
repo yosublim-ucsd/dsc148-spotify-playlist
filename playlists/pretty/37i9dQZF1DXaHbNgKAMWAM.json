@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 12303,
+  "num_followers": 12307,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2ExMWM5M2ExZGQ0N2FmN2EyNDE0OTEzMjg2NDQxY2MxN2JjNWEy",
+  "snapshot_id": "MCxmNzE1MGMxMGE2ODRiMzc4ZmY0ZTFiZTRlZDUzNTc3M2RkZDhlMTk2",
   "tracks": [
     {
       "added_at": "2023-08-05 06:02:24",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "Errr Day",
-        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
-      },
-      "artists": [
-        {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Errr Day",
-      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 199578,
       "name": "U",
       "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "Errr Day",
+        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Errr Day",
+      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 199766,
+      "name": "Celeb",
+      "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
         "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
       },
@@ -491,18 +507,34 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+        "name": "Especially For You",
+        "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
       },
       "artists": [
         {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+          "name": "Lee Daneung",
+          "url": "https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO"
         }
       ],
-      "duration_ms": 199766,
-      "name": "Celeb",
-      "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
+      "duration_ms": 154786,
+      "name": "Especially For You",
+      "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 165433,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -535,34 +567,18 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
         }
       ],
-      "duration_ms": 165433,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "Especially For You",
-        "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
-      },
-      "artists": [
-        {
-          "name": "Lee Daneung",
-          "url": "https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Especially For You",
-      "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
+      "duration_ms": 212093,
+      "name": "Pit a Pat",
+      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -579,22 +595,6 @@
       "duration_ms": 169930,
       "name": "Lover",
       "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Pit a Pat",
-      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
-      },
-      "artists": [
-        {
-          "name": "Kei",
-          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
-        }
-      ],
-      "duration_ms": 189575,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 220996,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
+      },
+      "artists": [
+        {
+          "name": "Kei",
+          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
+        }
+      ],
+      "duration_ms": 189575,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
-        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
-      },
-      "artists": [
-        {
-          "name": "SECRET NUMBER",
-          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
         "name": "SummerSweet",
         "url": "https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 150250,
       "name": "SummerSweet",
       "url": "https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
+        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
+        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 244764,
+      "name": "I Will Be By Your Side",
+      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 220186,
       "name": "You Move Me (feat. SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 244764,
-      "name": "I Will Be By Your Side",
-      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
     },
     {
       "added_at": "2023-08-05 06:02:24",

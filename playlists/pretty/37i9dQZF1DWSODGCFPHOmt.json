@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGMxMjA1OWUwOGRiMjIwZTUxMWVlZThhOTRjYmI1MjBkMjQxYmRl",
+  "snapshot_id": "MCw3NGVkZDIwNDVlNGMxMGQxNzVlOWYwMjVlZTQ3ZmM4ZGRjYjU0OTgw",
   "tracks": [
     {
       "added_at": "2023-08-16 16:10:15",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
-        "name": "El A\u00f1o Viejo",
-        "url": "https://open.spotify.com/album/4Atk3MgZi0yZ7dZ8b5CQ5I"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        },
-        {
-          "name": "Samo",
-          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/6KQoqaBI1CTKqRI58WnBP8"
-    },
-    {
-      "added_at": "2023-08-16 16:10:15",
-      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 256760,
       "name": "La Navidad De Los Pobres",
       "url": "https://open.spotify.com/track/5GkB3R0au66r1qZY2LBRyx"
+    },
+    {
+      "added_at": "2023-08-16 16:10:15",
+      "album": {
+        "name": "El A\u00f1o Viejo",
+        "url": "https://open.spotify.com/album/4Atk3MgZi0yZ7dZ8b5CQ5I"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        },
+        {
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/6KQoqaBI1CTKqRI58WnBP8"
     },
     {
       "added_at": "2023-08-16 16:10:15",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
+        "name": "A\u00f1o Con A\u00f1o",
+        "url": "https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 233864,
+      "name": "A\u00f1o Con A\u00f1o",
+      "url": "https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn"
+    },
+    {
+      "added_at": "2023-08-16 16:10:15",
+      "album": {
         "name": "Voy A Pedirle A Santa Claus",
         "url": "https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
-        "name": "A\u00f1o Con A\u00f1o",
-        "url": "https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul"
+        "name": "Mi Burrito Sabanero",
+        "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
       },
       "artists": [
         {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 233864,
-      "name": "A\u00f1o Con A\u00f1o",
-      "url": "https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn"
+      "duration_ms": 178440,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
     },
     {
       "added_at": "2023-08-16 16:10:15",
@@ -1055,22 +1071,6 @@
       "duration_ms": 174933,
       "name": "Lleg\u00f3 Navidad",
       "url": "https://open.spotify.com/track/57uFE2xndHxWXXp1KkmTZO"
-    },
-    {
-      "added_at": "2023-08-16 16:10:15",
-      "album": {
-        "name": "Mi Burrito Sabanero",
-        "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
     },
     {
       "added_at": "2023-08-16 16:10:15",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
+        "name": "Amor Navide\u00f1o",
+        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "Santa Quiero",
+      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
+    },
+    {
+      "added_at": "2023-08-16 16:10:15",
+      "album": {
         "name": "La \u00faltima canci\u00f3n",
         "url": "https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 156499,
       "name": "Amarga navidad (Ranchera)",
       "url": "https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO"
-    },
-    {
-      "added_at": "2023-08-16 16:10:15",
-      "album": {
-        "name": "Amor Navide\u00f1o",
-        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "Santa Quiero",
-      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
     },
     {
       "added_at": "2023-08-16 16:10:15",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Dame Un Beso En Noche Buena",
+      "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
+    },
+    {
+      "added_at": "2023-08-16 16:10:15",
+      "album": {
         "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 187853,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw"
-    },
-    {
-      "added_at": "2023-08-16 16:10:15",
-      "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Dame Un Beso En Noche Buena",
-      "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
     },
     {
       "added_at": "2023-08-16 16:10:15",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
-        "name": "La G\u00fcera Salom\u00e9",
-        "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
       "artists": [
         {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 224586,
-      "name": "La G\u00fcera Salom\u00e9",
-      "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
+      "duration_ms": 240906,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO"
     }
   ],
   "unique_name": "La Posada",

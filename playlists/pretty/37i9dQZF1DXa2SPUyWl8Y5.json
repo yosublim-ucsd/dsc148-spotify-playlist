@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 468610,
+  "num_followers": 468740,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmMwNmZhNTllZjkzM2M4NmFlNmQ3ZjEzYTlhZmY0OTgwYWZjNGZi",
+  "snapshot_id": "MCw0ZGE2ZTEzOGQ5ZjBlMWJlMDIzZjBiMWYxN2Y5NTNlMTc2M2ViNzA5",
   "tracks": [
     {
       "added_at": "2023-06-30 15:07:53",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
+        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 528959,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 364918,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
-        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 528959,
-      "name": "Chaos",
-      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Close to the Edge",
-        "url": "https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm"
-      },
-      "artists": [
-        {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
-        }
-      ],
-      "duration_ms": 308081,
-      "name": "Close to the Edge",
-      "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Shaded",
-        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
+        "name": "Close to the Edge",
+        "url": "https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm"
       },
       "artists": [
         {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
         }
       ],
-      "duration_ms": 290731,
-      "name": "Shaded",
-      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
+      "duration_ms": 308081,
+      "name": "Close to the Edge",
+      "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -763,6 +747,22 @@
       "duration_ms": 501290,
       "name": "Exoplanet",
       "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 290731,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Gratitude (Extended Mixes)",
+        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 356188,
+      "name": "Forsaken Dream - Extended Mix",
+      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 444816,
       "name": "Cliff - Einmusik Remix",
       "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "Gratitude (Extended Mixes)",
-        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 356188,
-      "name": "Forsaken Dream - Extended Mix",
-      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Traum EP",
-        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Deep in My Mind - Original Mix",
-      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Minister",
         "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 240020,
       "name": "Minister",
       "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Traum EP",
+        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Deep in My Mind - Original Mix",
+      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Landing in Halifax",
+        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
+      },
+      "artists": [
+        {
+          "name": "Passenger 10",
+          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Landing in Halifax",
+      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Panslinger",
         "url": "https://open.spotify.com/album/0v0fAOkiJ7PoFNVCTrWSFn"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 437479,
       "name": "Panama - Original Mix",
       "url": "https://open.spotify.com/track/2i1MnwRKlEKjAXiT6IwmTJ"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "Landing in Halifax",
-        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
-      },
-      "artists": [
-        {
-          "name": "Passenger 10",
-          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Landing in Halifax",
-      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "10 Years URSL - Reframed Future",
-        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
-      },
-      "artists": [
-        {
-          "name": "Schlepp Geist",
-          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
-        }
-      ],
-      "duration_ms": 425437,
-      "name": "Reframed Future",
-      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Planet Earth | March of the Giants",
         "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 457080,
       "name": "March of the giants",
       "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "10 Years URSL - Reframed Future",
+        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
+      },
+      "artists": [
+        {
+          "name": "Schlepp Geist",
+          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+        }
+      ],
+      "duration_ms": 425437,
+      "name": "Reframed Future",
+      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1251,38 +1251,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Dea Dia",
-        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 530979,
-      "name": "Dea Dia",
-      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
-      },
-      "artists": [
-        {
-          "name": "Moonwalk",
-          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
-        }
-      ],
-      "duration_ms": 269153,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
       },
@@ -1299,6 +1267,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Dea Dia",
+        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "duration_ms": 530979,
+      "name": "Dea Dia",
+      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Mind Kontrol EP",
         "url": "https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 403709,
       "name": "Dark Future",
       "url": "https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
+      },
+      "artists": [
+        {
+          "name": "Moonwalk",
+          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+        }
+      ],
+      "duration_ms": 269153,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
     },
     {
       "added_at": "2023-06-30 15:07:53",

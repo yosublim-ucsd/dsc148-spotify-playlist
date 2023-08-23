@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 28,286 likes - 40 songs - 2 hr 39 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 28,286 likes - 40 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
-| 2 | [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 |
-| 3 | [What Not To Do \- Moodymann Remix](https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [What Not To Do \(Moodymann Remix\)](https://open.spotify.com/album/0q5IDnHeEk0RqkaQvZ8gOY) | 5:16 |
-| 4 | [GUNZ](https://open.spotify.com/track/3bAW73ap6fM7DnDDRo8Xe2) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [GUNZ](https://open.spotify.com/album/4JKQF6JHokN1F4Kj5PkxdS) | 3:15 |
-| 5 | [Butterfly Effect \- DJ Ron Dixon's Clubstep Remix](https://open.spotify.com/track/4T4vBTxrbXdfJxOjHclV1Q) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect \(Remixes\)](https://open.spotify.com/album/1GEUwENl79CEkDtJjGQd2H) | 2:24 |
-| 6 | [Si Te Portas Bonito](https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 5:01 |
-| 7 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
-| 8 | [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 |
-| 9 | [Make You Scream \- Dixon & Trikk “Tri/xon” Rework](https://open.spotify.com/track/2WJQSM4Uoo2FoD3S54b24z) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9), [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Make You Scream \(Dixon & Trikk “Tri/xon” Rework\)](https://open.spotify.com/album/2t9qkkA68nFt1Yt4qEUmG7) | 5:52 |
+| 2 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
+| 3 | [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 |
+| 4 | [What Not To Do \- Moodymann Remix](https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [What Not To Do \(Moodymann Remix\)](https://open.spotify.com/album/0q5IDnHeEk0RqkaQvZ8gOY) | 5:16 |
+| 5 | [GUNZ](https://open.spotify.com/track/3bAW73ap6fM7DnDDRo8Xe2) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [GUNZ](https://open.spotify.com/album/4JKQF6JHokN1F4Kj5PkxdS) | 3:15 |
+| 6 | [Butterfly Effect \- DJ Ron Dixon's Clubstep Remix](https://open.spotify.com/track/4T4vBTxrbXdfJxOjHclV1Q) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect \(Remixes\)](https://open.spotify.com/album/1GEUwENl79CEkDtJjGQd2H) | 2:24 |
+| 7 | [Si Te Portas Bonito](https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 5:01 |
+| 8 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
+| 9 | [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 |
 | 10 | [When She Dance \- David Ariza Club Edit](https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [David Ariza](https://open.spotify.com/artist/3l3BG1aNUKmVsV555tR0BI) | [When She Dance \(David Ariza Club Edit\)](https://open.spotify.com/album/2Y6yUZjNh8jtuQWqFWunvy) | 5:36 |
 | 11 | [Forever \(Solomun Remix\)](https://open.spotify.com/track/6Y99Pdmhbg5GhAAxwjcbhR) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Forever \(Solomun Remix\)](https://open.spotify.com/album/09rft4QsmOVsaUzJjGrZOb) | 3:48 |
 | 12 | [Hidden Angel \- Hackney Road Studio Session](https://open.spotify.com/track/4VkylJXzgZjeNHksy0ANIE) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu), [Roger Robinson](https://open.spotify.com/artist/7aTVcGnRT0kjTwWKjTU3xR), [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT), [Specimens](https://open.spotify.com/artist/32sLVQDV5zUAFxNkj0i7ld) | [Hidden Angel \(Hackney Road Studio Session\)](https://open.spotify.com/album/2ho48nKrT5MmDd45bGNssX) | 4:17 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 39 | [Drum](https://open.spotify.com/track/0woEYg2SEO3u2MFKmVnDgM) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:38 |
 | 40 | [Sunsleeper](https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Sunsleeper](https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M) | 3:42 |
 
-Snapshot ID: `MzQ0OCxhZTdmNDk5ZGFhNzFmNDY3NTEwYWY0MjUxOTI1ZDZjN2M3ZGY4ZGVk`
+Snapshot ID: `MzQ1MSw4YjBlZGFiOWQ3NDM5MDg1NDA5NTljMWQ1NjgzOTgwZmFlNTIyNDc4`

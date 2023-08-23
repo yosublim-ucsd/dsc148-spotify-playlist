@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Derek Spears",
+        "url": "https://open.spotify.com/album/7HkJ7jZ3BbX5P2efcqUb9o"
+      },
+      "artists": [
+        {
+          "name": "Grandaddy",
+          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Derek Spears",
+      "url": "https://open.spotify.com/track/4009DkrtlBshvWNbbqVwbk"
+    },
+    {
+      "album": {
         "name": "despair",
         "url": "https://open.spotify.com/album/4N3ckWWF9Z4ysPv7LHakOr"
       },
@@ -1302,6 +1320,24 @@
       "duration_ms": 263551,
       "name": "Doomscrollers",
       "url": "https://open.spotify.com/track/65TxQkmxPrkLujVZjjWLj8"
+    },
+    {
+      "album": {
+        "name": "Doppelg\u00e4nger",
+        "url": "https://open.spotify.com/album/7L14vX6K0BxZdxmZOzchhk"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "Doppelg\u00e4nger",
+      "url": "https://open.spotify.com/track/2iNNtNfAGVjO3woehIxvFa"
     },
     {
       "album": {
@@ -1674,6 +1710,24 @@
       "duration_ms": 158466,
       "name": "Flight of the Crows",
       "url": "https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N"
+    },
+    {
+      "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/121svdnIrfyYHaJoc62KB2"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Regan",
+          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/665GayQvSikGzkwQl32TVy"
     },
     {
       "album": {
@@ -2446,6 +2500,24 @@
       "duration_ms": 227749,
       "name": "In The Kitchen",
       "url": "https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV"
+    },
+    {
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/75NiNeiZxUtPBIg5qORqnA"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164444,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/0nVeZ5dj57NhFomDVVxQsZ"
     },
     {
       "album": {
@@ -4039,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+    },
+    {
+      "album": {
         "name": "Sleeping Beauty",
         "url": "https://open.spotify.com/album/4SpcLIdWePHUp62Lt4BJ5A"
       },
@@ -4822,7 +4912,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 195666,
       "name": "Waltz For Sweatpants",
       "url": "https://open.spotify.com/track/5NItQtFp7GdPaOG41vVXCk"
@@ -4862,6 +4952,24 @@
       "duration_ms": 195636,
       "name": "what depression feels like",
       "url": "https://open.spotify.com/track/2nKxy7J1FyNAjkHtpJ7g3j"
+    },
+    {
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/56orzU3RLKSUDK5WFiqKhh"
+      },
+      "artists": [
+        {
+          "name": "Cody Fry",
+          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244880,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/1ENH0YTu0OiRykq00M9Z0c"
     },
     {
       "album": {

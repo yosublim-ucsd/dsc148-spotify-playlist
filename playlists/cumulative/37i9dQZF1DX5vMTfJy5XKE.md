@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-372 songs - 19 hr 31 min
+373 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,8 @@
 | [Sleigh Ride](https://open.spotify.com/track/6IXWwaxcBVLqSbU39Pqc19) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Sleigh Ride](https://open.spotify.com/album/76ZALfjfhhwd6WPW1JBhop) | 3:05 | 2022-11-11 |  |
 | [Small Town Christmas](https://open.spotify.com/track/1HMETjipiYtZLLUmyMJDHX) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [SOMETHING ABOUT CHRISTMAS TIME](https://open.spotify.com/album/3LKVzfLycqEt7QcjeDJfiu) | 2:51 | 2021-12-24 | 2022-09-28 |
 | [Snow](https://open.spotify.com/track/1UkFYMVhWAT1N7IIhJJMtE) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Snow](https://open.spotify.com/album/2XVDuyZ7gDHxpU9BAtMwu0) | 3:45 | 2021-12-24 | 2022-07-29 |
-| [Snow Falling](https://open.spotify.com/track/6nhkGPA0ieDvGjIvQbvabQ) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Chance Dalton](https://open.spotify.com/artist/6NqptR65eJmCAu500MWs7O) | [Snow Falling](https://open.spotify.com/album/3pHqtZRUYMpyJ2zgayMt1M) | 3:12 | 2022-12-09 |  |
+| [Snow Falling](https://open.spotify.com/track/3yN2PMu5sCWo14L7kz9qya) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Chance Dalton](https://open.spotify.com/artist/6NqptR65eJmCAu500MWs7O) | [Snow Falling](https://open.spotify.com/album/1lUaMnSHkDKUBcg02uSWCl) | 3:12 | 2022-12-09 |  |
+| [Snow Falling](https://open.spotify.com/track/6nhkGPA0ieDvGjIvQbvabQ) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Chance Dalton](https://open.spotify.com/artist/6NqptR65eJmCAu500MWs7O) | [Snow Falling](https://open.spotify.com/album/3pHqtZRUYMpyJ2zgayMt1M) | 3:12 | 2022-12-09 | 2023-08-23 |
 | [Snow Globe](https://open.spotify.com/track/31o1R5UwiH5w1xcB5y4fXY) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 3:03 | 2021-12-24 | 2022-09-28 |
 | [Snow in LA](https://open.spotify.com/track/45U9s9fNLj4hCShYaHmr98) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Snow in LA](https://open.spotify.com/album/6hIOoYqKSj7mkiKrGmjOZ5) | 3:49 | 2022-11-18 |  |
 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 | 2021-12-24 | 2022-09-28 |

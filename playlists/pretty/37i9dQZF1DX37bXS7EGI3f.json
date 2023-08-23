@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 743363,
+  "num_followers": 743481,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmMzN2Y4MDk5MzVhYzI0MGU0YzU0ODA5OWMxMDczODZmNTBhODAw",
+  "snapshot_id": "MCw3MjY1ZmNmMmE0ZTUyMTBhZTNiNTcyYjdlMGZkNTFiNGQwZjkwNjVm",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -247,22 +247,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Vultures Die Alone",
-        "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
+        "name": "Forsaken (The Aftermath)",
+        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
       },
       "artists": [
         {
-          "name": "Arion",
-          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
-        },
-        {
-          "name": "Cyan Kicks",
-          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 252893,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
+      "duration_ms": 298634,
+      "name": "Forsaken - The Aftermath",
+      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -283,18 +279,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Forsaken (The Aftermath)",
-        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
+        "name": "Vultures Die Alone",
+        "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
       "artists": [
         {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+        },
+        {
+          "name": "Cyan Kicks",
+          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
         }
       ],
-      "duration_ms": 298634,
-      "name": "Forsaken - The Aftermath",
-      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
+      "duration_ms": 252893,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Leviathan II",
-        "url": "https://open.spotify.com/album/2DJ5MSG3P0ApFNUjyRVitN"
-      },
-      "artists": [
-        {
-          "name": "Therion",
-          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
-        }
-      ],
-      "duration_ms": 250923,
-      "name": "Litany Of The Fallen",
-      "url": "https://open.spotify.com/track/2FSiK95QHH9brWSaO8KlxZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Love Reign O'er Me",
         "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
@@ -357,36 +341,20 @@
       "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
-      "added_at": "2023-07-17 22:14:26",
-      "album": {
-        "name": "Cicada",
-        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "Cicada",
-      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Omega",
-        "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
+        "name": "Leviathan II",
+        "url": "https://open.spotify.com/album/2DJ5MSG3P0ApFNUjyRVitN"
       },
       "artists": [
         {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
         }
       ],
-      "duration_ms": 320283,
-      "name": "Abyss of Time - Countdown to Singularity -",
-      "url": "https://open.spotify.com/track/627pEZNVSQ3iUyvOoxXVUw"
+      "duration_ms": 250923,
+      "name": "Litany Of The Fallen",
+      "url": "https://open.spotify.com/track/2FSiK95QHH9brWSaO8KlxZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -407,6 +375,38 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Omega",
+        "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 320283,
+      "name": "Abyss of Time - Countdown to Singularity -",
+      "url": "https://open.spotify.com/track/627pEZNVSQ3iUyvOoxXVUw"
+    },
+    {
+      "added_at": "2023-07-17 22:14:26",
+      "album": {
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Venerate Me",
         "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
@@ -419,22 +419,6 @@
       "duration_ms": 283338,
       "name": "Venerate Me",
       "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Natural Born Killer",
-        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -455,6 +439,22 @@
       "duration_ms": 300560,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Natural Born Killer",
+        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Interrogativa Cantilena",
-        "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
-      },
-      "artists": [
-        {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
-        },
-        {
-          "name": "Kevin Ridley",
-          "url": "https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Interrogativa Cantilena",
-      "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
       },
@@ -547,6 +527,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Interrogativa Cantilena",
+        "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
+      },
+      "artists": [
+        {
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+        },
+        {
+          "name": "Kevin Ridley",
+          "url": "https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Interrogativa Cantilena",
+      "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Light up the Sky",
         "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Wonders Still Awaiting",
         "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 312626,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -813,20 +813,24 @@
       "url": "https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp"
     },
     {
-      "added_at": "2023-07-17 22:14:26",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "If I",
-        "url": "https://open.spotify.com/album/0WoNTHJEFm8AeH7sqtQomq"
+        "name": "Nekonomicon",
+        "url": "https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ"
       },
       "artists": [
         {
-          "name": "Cyhra",
-          "url": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
+          "name": "Nekonomicon",
+          "url": "https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB"
+        },
+        {
+          "name": "Kylee Brielle",
+          "url": "https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI"
         }
       ],
-      "duration_ms": 223760,
-      "name": "If I",
-      "url": "https://open.spotify.com/track/3JBx9llueWAJhpRNAzvPjZ"
+      "duration_ms": 237031,
+      "name": "Dismantled",
+      "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -843,6 +847,22 @@
       "duration_ms": 264981,
       "name": "My Soul's Demise",
       "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
+    },
+    {
+      "added_at": "2023-07-17 22:14:26",
+      "album": {
+        "name": "If I",
+        "url": "https://open.spotify.com/album/0WoNTHJEFm8AeH7sqtQomq"
+      },
+      "artists": [
+        {
+          "name": "Cyhra",
+          "url": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "If I",
+      "url": "https://open.spotify.com/track/3JBx9llueWAJhpRNAzvPjZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -863,26 +883,6 @@
       "duration_ms": 364029,
       "name": "Vita Nova",
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Nekonomicon",
-        "url": "https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ"
-      },
-      "artists": [
-        {
-          "name": "Nekonomicon",
-          "url": "https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB"
-        },
-        {
-          "name": "Kylee Brielle",
-          "url": "https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI"
-        }
-      ],
-      "duration_ms": 237031,
-      "name": "Dismantled",
-      "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Drink with the Gods",
-        "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Drink with the Gods",
-      "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 271486,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Drink with the Gods",
+        "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Drink with the Gods",
+      "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
-      },
-      "artists": [
-        {
-          "name": "Dark Princess",
-          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "My Shadow Self",
-      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 267240,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
+      },
+      "artists": [
+        {
+          "name": "Dark Princess",
+          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "My Shadow Self",
+      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Daughters Of The Night",
+        "url": "https://open.spotify.com/album/2jtvxz7ihLYzIVjnaomd5J"
+      },
+      "artists": [
+        {
+          "name": "Nocturna",
+          "url": "https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "New Evil",
+      "url": "https://open.spotify.com/track/2rDkRLPyZoeUz0Z5nLz4Lr"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "After Forever (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 261933,
       "name": "Altar of Power",
       "url": "https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Daughters Of The Night",
-        "url": "https://open.spotify.com/album/2jtvxz7ihLYzIVjnaomd5J"
-      },
-      "artists": [
-        {
-          "name": "Nocturna",
-          "url": "https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "New Evil",
-      "url": "https://open.spotify.com/track/2rDkRLPyZoeUz0Z5nLz4Lr"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Here We Stand",
+        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
+      },
+      "artists": [
+        {
+          "name": "In Victory",
+          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "Here We Stand",
+      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "My Father's Son",
         "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 303253,
       "name": "Breathing Divinity",
       "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Here We Stand",
-        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
-      },
-      "artists": [
-        {
-          "name": "In Victory",
-          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
-        }
-      ],
-      "duration_ms": 248026,
-      "name": "Here We Stand",
-      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
     }
   ],
   "unique_name": "Epic & Melodic",

@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 110929,
+  "num_followers": 111422,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjUzMmEyYWQ4MWUwMGY1YWE4M2Q4MWM3NGE4NGE3ZGM0MzIxN2Fm",
+  "snapshot_id": "MCw3MzU3MWFlMWFhMzAxMzU1MDVkYTQyY2MxYmNhNWUyYWEyNjMzMTNi",
   "tracks": [
     {
       "added_at": "2023-07-14 00:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Bardo Landscape",
-        "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Bardo Landscape",
-      "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "where is life?",
         "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 127384,
       "name": "where is life?",
       "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Bardo Landscape",
+        "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        }
+      ],
+      "duration_ms": 203424,
+      "name": "Bardo Landscape",
+      "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -947,22 +947,18 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "haunted (remixes)",
-        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
       "artists": [
         {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 153984,
-      "name": "haunted (florence slowed version)",
-      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
+      "duration_ms": 296000,
+      "name": "As Bright as the Night",
+      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -983,18 +979,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+        "name": "haunted (remixes)",
+        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
         }
       ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
+      "duration_ms": 153984,
+      "name": "haunted (florence slowed version)",
+      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 489320,
-      "name": "Spectral",
-      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Let the Earth be Silent",
         "url": "https://open.spotify.com/album/5kHFBHMQiNM05M6eN4R0ez"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 452869,
       "name": "For Horror Eats The Light",
       "url": "https://open.spotify.com/track/5N4723h6DlwmmbpuNA895G"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Permanently Midnight",
-        "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
       "artists": [
         {
-          "name": "The Gentleman Losers",
-          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
         }
       ],
-      "duration_ms": 315284,
-      "name": "As I Came Through the Desert Thus It Was",
-      "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
+      "duration_ms": 70306,
+      "name": "Safn",
+      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
     }
   ],
   "unique_name": "gloomcore",

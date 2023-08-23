@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Gone Girl",
+        "url": "https://open.spotify.com/album/3Jul3ZMlbJJ5McOngWTbTU"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167307,
+      "name": "Gone Girl",
+      "url": "https://open.spotify.com/track/7lJebwVBaywjSis2ahqtnn"
+    },
+    {
+      "album": {
         "name": "Guli Mata",
         "url": "https://open.spotify.com/album/1EK8G52QTTI7LgDKnrCmB6"
       },

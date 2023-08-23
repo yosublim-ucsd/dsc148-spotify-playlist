@@ -4,13 +4,15 @@
 
 > A calm, instrumental reading playlist.
 
-353 songs - 15 hr 5 min
+359 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [85mm](https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [85mm](https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV) | 2:59 | 2023-02-28 |  |
 | [A Dream of Tomorrow](https://open.spotify.com/track/4nZCJzRoJqcItuc81ZnCBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Dream of Tomorrow](https://open.spotify.com/album/3Qojrn9xWLkfIbwL9Shrly) | 2:13 | 2023-02-28 |  |
+| [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 | 2023-08-22 |  |
 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 | 2022-04-04 | 2022-11-19 |
+| [A Midnight Sun](https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [A Midnight Sun](https://open.spotify.com/album/5j5ZhmEGBX5jMDsRTXb8fh) | 2:34 | 2023-08-22 |  |
 | [A Thought Evoked](https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [A Thought Evoked](https://open.spotify.com/album/5tbZrlYXjQCuPYF9IwjI7w) | 2:54 | 2022-04-04 |  |
 | [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-04-04 | 2023-06-21 |
 | [Abre los ojos](https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Abre los ojos](https://open.spotify.com/album/4EM7qAQ7pqE6qWYFFp7aVi) | 2:46 | 2022-04-04 |  |
@@ -32,6 +34,7 @@
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-04 |  |
 | [Badzura: Muse d'eau](https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 3 / RWKS](https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY) | 3:33 | 2022-04-04 |  |
 | [Banquet for A Boy from the Neighbourhood](https://open.spotify.com/track/3qP3pv8Gp8ODZeWm2V9bxc) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Yurusu](https://open.spotify.com/album/2mE1jjMKmt8gDX54MyHtQo) | 2:28 | 2022-12-22 |  |
+| [Bastione](https://open.spotify.com/track/3nMBQwUV1g1pkWxEz4kb2b) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Bastione](https://open.spotify.com/album/6Ayd2MMYR6CCAMSt10tiU3) | 2:37 | 2023-08-22 |  |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-04-04 |  |
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-04-04 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-04 |  |
@@ -256,6 +259,7 @@
 | [Seeking The Autumn Wind](https://open.spotify.com/track/2TV5VWvY46I7k51reLMGvE) | [Brian Busch](https://open.spotify.com/artist/6aRyxVvym2hAGccdLKcUB1) | [Brief Respite](https://open.spotify.com/album/1EVU6rShFk3cxVhk7o4qN6) | 2:59 | 2022-04-04 |  |
 | [Sendai](https://open.spotify.com/track/7tJDHTlzyUK1nsbSD2rf6f) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Sendai](https://open.spotify.com/album/1XRSfj0RiYAAeX6LrdVdRu) | 2:24 | 2022-09-20 |  |
 | [Sentiments](https://open.spotify.com/track/01OnItCkGkvQd4MI1B5eZl) | [Sabr Alptekin](https://open.spotify.com/artist/63kbSX61U1d74efq90Nqva) | [Sentiments](https://open.spotify.com/album/5OzrhQL4ZDjeZXV5yZ1odz) | 1:45 | 2022-09-20 | 2023-07-19 |
+| [Serafin](https://open.spotify.com/track/4SxsBPupdAIjYxxSVcJTQP) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Serafin](https://open.spotify.com/album/7m5cGnPhZ4LeoaYYBG54Ey) | 2:39 | 2023-08-22 |  |
 | [Serene](https://open.spotify.com/track/3dwdsOZ2lvnEfsIwK9hyBX) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Serene](https://open.spotify.com/album/2RPnCQxP5HRG8u0Avw9b6S) | 2:59 | 2022-04-04 |  |
 | [Serenity](https://open.spotify.com/track/2yh46DDBBxoDN45rCH8nBt) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Retrospection](https://open.spotify.com/album/2TTPCvN55NHOr95q89qmpa) | 2:55 | 2022-04-04 | 2022-07-08 |
 | [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 | 2022-04-04 | 2022-11-19 |
@@ -264,6 +268,7 @@
 | [Seul](https://open.spotify.com/track/7adeEYqvDXAXIvP3dwLAww) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Seul](https://open.spotify.com/album/77NtdpJrjHlJRLqLiSGCbw) | 2:40 | 2022-04-04 | 2022-05-21 |
 | [seulement vous](https://open.spotify.com/track/7k0Bl76i5qEYv3lTDwvQBC) | [Germain Lesage](https://open.spotify.com/artist/0ygpa3BkVD5ZYljYGF54EK) | [seulement vous](https://open.spotify.com/album/0qlzv0RHDVgNc77X7uiKMH) | 1:46 | 2022-09-20 | 2023-07-19 |
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-04-04 |  |
+| [Shade of autumn](https://open.spotify.com/track/0noc9oupMYnWoi3a54v8ZK) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Shade of autumn](https://open.spotify.com/album/6fE5yoNNecvI6FUkSiLpn4) | 2:27 | 2023-08-22 |  |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-04-04 | 2022-04-29 |
 | [Signs](https://open.spotify.com/track/2rcfgubkSTNwpNIpURgTmx) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Signs](https://open.spotify.com/album/7FgWxjsFY2iaboS6cEd1r2) | 1:39 | 2022-12-22 | 2023-02-22 |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2022-04-04 | 2022-05-21 |
@@ -308,6 +313,7 @@
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-04-04 | 2022-11-19 |
 | [The Season Ends](https://open.spotify.com/track/09rerFuyHRQ7MamskLIKLA) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [The Season Ends](https://open.spotify.com/album/7fxnfePBDSf5Gfal26fCub) | 1:59 | 2023-07-03 | 2023-07-19 |
 | [The shadow](https://open.spotify.com/track/35FJNNkCTHJ8qKyfPXDbxL) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [The shadow](https://open.spotify.com/album/2EZ31BP3AKAZd2yDJv48Wd) | 2:15 | 2022-11-18 |  |
+| [Through The Years](https://open.spotify.com/track/66ZgkGert8jeTCEtUq7KcQ) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Through The Years](https://open.spotify.com/album/2tmZIjSWjBloHaE77q4RJN) | 3:01 | 2023-08-22 |  |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2022-04-04 |  |
 | [Time](https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.1](https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB) | 2:04 | 2022-04-04 | 2022-05-21 |
 | [Time Flies](https://open.spotify.com/track/3OuSwVoqxlaKO3MfcigSNp) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Time Flies](https://open.spotify.com/album/4ZIeIq1iDLLKfOIZ0yswpf) | 3:13 | 2022-04-04 |  |

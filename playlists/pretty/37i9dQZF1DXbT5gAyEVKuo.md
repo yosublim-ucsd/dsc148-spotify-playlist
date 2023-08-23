@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,992 likes - 49 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,042 likes - 49 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [Yahweh / Yeshua Hamashiach](https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX) | [Yahweh / Yeshua Hamashiach](https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA) | 5:45 |
 | 49 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
 
-Snapshot ID: `MCwzMmEzM2JiMjc0ZjA0N2YxMTZjZDg1ZTNhZjMwZWRmYTYyNTM0MWIy`
+Snapshot ID: `MCw1MjBmNWFmNzE0NWQ0MWE0OTlhMDgyNzY4M2NlYmM3ZWRhYWY5NTI2`

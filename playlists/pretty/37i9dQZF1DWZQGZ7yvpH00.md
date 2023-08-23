@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,379 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,410 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Tu Verano <3](https://open.spotify.com/track/60FS4EkXM2t7odFb69Jfyv) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Tu Verano <3](https://open.spotify.com/album/0WctAvNJcLBLdQccvPrD1h) | 2:43 |
 | 50 | [Sin Mentiras Ni Reclamos](https://open.spotify.com/track/56FNq9J9SR5GwOcJAc5CRL) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [alivio](https://open.spotify.com/album/2IDSJ1Xw2yNJPkHdWbUvTI) | 3:05 |
 
-Snapshot ID: `MCxiNjY5ZTYyNDg0NWJjOWNmMzVmZGQ2MWMwNWFjZTI1MTIzMjZlNjYx`
+Snapshot ID: `MCw1NTI2MDEzYjVmZWI4YzdhYjQ4OTJkMjdmN2E4ZWE4NWU0YmYyZjg3`

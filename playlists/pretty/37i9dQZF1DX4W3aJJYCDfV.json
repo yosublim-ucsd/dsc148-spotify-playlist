@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Giggs (pictured), Hozier, Addison Rae and more!",
-  "num_followers": 836713,
+  "num_followers": 836724,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGYzOTc4NzJhZjViMzJjM2I0MDc0ZGQ5YjE1OGIwN2IwNDk4Mjdl",
+  "snapshot_id": "MCw2YjJlYTQyM2QxYTQxNThjYTc0MWIzYzA0MWQwYmFiNjEzMmExOTQ0",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -975,7 +975,7 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Snowfall Freestyle*",
+        "name": "snowfall freestyle*",
         "url": "https://open.spotify.com/album/0rKRklqJ2GwFFdBlAWS8Pt"
       },
       "artists": [
@@ -985,7 +985,7 @@
         }
       ],
       "duration_ms": 128362,
-      "name": "Snowfall Freestyle*",
+      "name": "snowfall freestyle*",
       "url": "https://open.spotify.com/track/0nopMEhHhClNZ02zwbO4ZK"
     },
     {
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "The Light (feat. Bahia Dayes)",
+        "url": "https://open.spotify.com/album/4SecYNmUfTlg29S48YfIyr"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Bahia Dayes",
+          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "The Light (feat. Bahia Dayes)",
+      "url": "https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "ZP Dub",
         "url": "https://open.spotify.com/album/0nRcvuCqOnkLxteipCyBWF"
       },
@@ -1316,7 +1336,7 @@
       "added_at": "2023-08-17 23:00:00",
       "album": {
         "name": "LO(V/S)ER",
-        "url": "https://open.spotify.com/album/7uoeIXsSuKschCwm7hWlIu"
+        "url": "https://open.spotify.com/album/7LK1D5mFSlQ2vQNxvDezH1"
       },
       "artists": [
         {
@@ -1330,7 +1350,7 @@
       ],
       "duration_ms": 162253,
       "name": "You & I (feat. JBEE)",
-      "url": "https://open.spotify.com/track/7x5A7gmt0rwjCqbPOcwTmC"
+      "url": "https://open.spotify.com/track/1J98zlROECgIYAeSOCvjnt"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1412,12 +1432,12 @@
           "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
         },
         {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        },
-        {
           "name": "MoreNight",
           "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
         }
       ],
       "duration_ms": 140571,
@@ -1479,7 +1499,7 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "DNK",
+        "name": "DNK (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
       },
       "artists": [
@@ -1837,7 +1857,7 @@
         }
       ],
       "duration_ms": 128304,
-      "name": "We a Run E Grung (Ms Banks Remix)",
+      "name": "We a Run E Grung - Ms Banks Remix",
       "url": "https://open.spotify.com/track/4qmt2Oey1mkGdz5TUVuFNq"
     },
     {

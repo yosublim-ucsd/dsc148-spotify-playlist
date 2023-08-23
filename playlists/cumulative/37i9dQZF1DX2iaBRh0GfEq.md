@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Noite Mais Linda do Mundo \(A Felicidade\)](https://open.spotify.com/track/33nzGH8NIdwYSpuNo3L7M1) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [The Moon 1111](https://open.spotify.com/album/5R6qsX0u206XZBZF3WdEeL) | 3:28 | 2022-05-23 |  |
-| [Ain’t Leavin’](https://open.spotify.com/track/21C9x0NdUHCZC0BbMhpIzg) | [Devin Hoffman](https://open.spotify.com/artist/3Rg7OiUyC9WwwbcgZzfwqb), [Holiday Rogers](https://open.spotify.com/artist/03agRSt6Kr1uoNrM0Kbzsi), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Disco Pop 2](https://open.spotify.com/album/7jW0A2xM7cWNiQIlzoegIJ) | 2:49 | 2022-05-23 |  |
+| [Ain’t Leavin’](https://open.spotify.com/track/21C9x0NdUHCZC0BbMhpIzg) | [Devin Hoffman](https://open.spotify.com/artist/3Rg7OiUyC9WwwbcgZzfwqb), [Holiday Rogers](https://open.spotify.com/artist/03agRSt6Kr1uoNrM0Kbzsi) | [Disco Pop 2](https://open.spotify.com/album/7jW0A2xM7cWNiQIlzoegIJ) | 2:49 | 2022-05-23 |  |
 | [Alma Gêmea](https://open.spotify.com/track/7LZ4votCOvxFLTUz65AjCB) | [Fábio Jr.](https://open.spotify.com/artist/60iOwdF3A0p4pAwgUXMaWU) | [Fabio Jr.](https://open.spotify.com/album/5HLfWanFevZ5QLSyqTtQcb) | 4:49 | 2022-05-23 |  |
 | [Brisa](https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Brisa](https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK) | 2:31 | 2022-05-23 |  |
 | [Contravento \(Live\)](https://open.spotify.com/track/2dM8oR5SLRvdMFAIaBhTqB) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Live](https://open.spotify.com/album/5MRJrXvvX8NCQSHarh5DHF) | 4:33 | 2022-05-23 |  |

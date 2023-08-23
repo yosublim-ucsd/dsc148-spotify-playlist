@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Quiero Salsa, dame Salsa! Foto: Marc Anthony",
-  "num_followers": 470751,
+  "num_followers": 471063,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2UyMTQ2YWQzNGM5NjRlZDBmODZlZjczNGVjZTU4MGMxYjY2MmY4",
+  "snapshot_id": "MCwwMWIzYWM2ZjI5YmU2ZDNiY2Y5ZDg3YTk3MDA1ZWI2MzBlZjM2YWFl",
   "tracks": [
     {
       "added_at": "2023-01-02 17:05:31",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-01-02 17:05:31",
       "album": {
+        "name": "Como Te Pago",
+        "url": "https://open.spotify.com/album/3WPkx7JolDej1qtX4IhZkJ"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 193462,
+      "name": "Como Te Pago",
+      "url": "https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej"
+    },
+    {
+      "added_at": "2023-01-02 17:05:31",
+      "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 285546,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
-    },
-    {
-      "added_at": "2023-01-02 17:05:31",
-      "album": {
-        "name": "Como Te Pago",
-        "url": "https://open.spotify.com/album/3WPkx7JolDej1qtX4IhZkJ"
-      },
-      "artists": [
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 193462,
-      "name": "Como Te Pago",
-      "url": "https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej"
     },
     {
       "added_at": "2023-01-02 17:05:31",

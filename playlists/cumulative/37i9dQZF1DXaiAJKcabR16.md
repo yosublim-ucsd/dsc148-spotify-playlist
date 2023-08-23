@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-99 songs - 6 hr 37 min
+100 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Little Lady Blues](https://open.spotify.com/track/7p8OHFQhzWLZgrXQmowSqN) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf) | 5:12 | 2023-03-28 |  |
 | [Little Red Rooster](https://open.spotify.com/track/06PsyBBc0YCQhGNlfPZ1SS) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Bad for Me \- EP](https://open.spotify.com/album/176IZWTuFw7Ei2n3OtUl4p) | 3:21 | 2021-07-30 |  |
 | [Methhead](https://open.spotify.com/track/2mLYN7Hz2czFkZugFscrrb) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Off This Mountaintop](https://open.spotify.com/album/5ihcQ3YrAH2Ip9wHUqeQyT) | 3:50 | 2021-07-30 |  |
-| [Missing At Sea](https://open.spotify.com/track/0xgm9ojDGh01nTsreKg0oL) | [Maggie Bjorklund](https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0) | [Shaken](https://open.spotify.com/album/4vxZh8neUimC0CcU5LtLQe) | 3:38 | 2021-07-30 |  |
+| [Missing At Sea](https://open.spotify.com/track/0xgm9ojDGh01nTsreKg0oL) | [Maggie Bjorklund](https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0) | [Shaken](https://open.spotify.com/album/4vxZh8neUimC0CcU5LtLQe) | 3:38 | 2021-07-30 | 2023-08-23 |
 | [Missing At Sea](https://open.spotify.com/track/5WKhPe4lSUYgHhhwFMnX4Y) | [Maggie Bjorklund](https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0) | [Shaken](https://open.spotify.com/album/4WzdSt2xFoWboaIR9ceEkl) | 3:38 | 2021-07-30 | 2022-07-29 |
+| [Missing At Sea](https://open.spotify.com/track/5sl4vbpw5HWnUF2Qup8g83) | [Maggie Bjorklund](https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0) | [Shaken](https://open.spotify.com/album/2pCIBMk287dtzjGTqYPVDf) | 3:38 | 2023-06-23 |  |
 | [My Love Will Never Die](https://open.spotify.com/track/5XYmnUaaZ3D9Sqdt9SInEn) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Deluxe\)](https://open.spotify.com/album/7HW03Zew4rnOhy5uwskRSz) | 3:55 | 2021-07-30 |  |
 | [Night Has Turned to Day](https://open.spotify.com/track/0jVfp8deBjwdoi2oEm5hgK) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito \- EP](https://open.spotify.com/album/6wSl4enVRjlcQ890pqfQqk) | 2:38 | 2021-07-30 | 2022-07-29 |
 | [Night Has Turned to Day](https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito Deluxe EP](https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn) | 2:40 | 2021-07-30 |  |

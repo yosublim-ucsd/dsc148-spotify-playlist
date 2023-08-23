@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,069 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,149 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 90 | [Ultraviolet](https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 2:53 |
 | 91 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 |
 | 92 | [A Lesson In Dramatics](https://open.spotify.com/track/2Pkdxc8F6xhtuNhRKKWLbY) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe), [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A Lesson In Dramatics](https://open.spotify.com/album/0vSf832krBlezgeQm7NqIK) | 2:33 |
-| 93 | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/album/0SPIpADk9hv62agR2J5iy5) | 2:16 |
-| 94 | [Haunted](https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Haunted](https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc) | 3:43 |
+| 93 | [Haunted](https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Haunted](https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc) | 3:43 |
+| 94 | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/album/0SPIpADk9hv62agR2J5iy5) | 2:16 |
 | 95 | [This Time Last Week](https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [I Hope Hell Isn't Real](https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H) | 2:14 |
 | 96 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
 | 97 | [SELF\-SABOTAGE \(feat\. Good Charlotte\)](https://open.spotify.com/track/3cjPUCNlR7Sk7126DV77ms) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/6yefd6WEMrUmBuvAMl8Dd8) | 2:37 |
 | 98 | [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 |
 | 99 | [Plastic Heart](https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart](https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3) | 3:03 |
-| 100 | [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 |
+| 100 | [Cigarettes](https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Cigarettes](https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H) | 2:36 |
 
-Snapshot ID: `MCw3YjI1Yjk5ODQ2Y2IwNzkzMmE0NjY0OWY1MTU0MDU1ZmMxNGRjOTA4`
+Snapshot ID: `MCxjNmZkYWUxYmU4ZWQyMDVjYjM3OWIxMjE5YTYxYzE5N2U3YTFkYmNi`

@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-155 songs - 11 hr 10 min
+158 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A good thing](https://open.spotify.com/track/5wshBiqIBASdItBlwSN1PI) | [Yeseul Kim](https://open.spotify.com/artist/4u6LWxsANEMNmE1KJo49Ci) | [A good thing](https://open.spotify.com/album/6DkBOdtTIfMAdKl2JZ1wwk) | 5:28 | 2023-03-31 |  |
 | [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 | 2022-07-08 |  |
 | [actually i\`m from jazz](https://open.spotify.com/track/0r4ko5ssD3NFWed4YimMbW) | [Coa White](https://open.spotify.com/artist/6pE3JDwvWDbjv1TqLRDjiP) | [actually i\`m from jazz](https://open.spotify.com/album/1LoAeJfQAX6xh8jgXzRgwu) | 4:23 | 2023-02-07 |  |
-| [Annual plant](https://open.spotify.com/track/3Odx622SRpsHSylBSbfsaw) | [MANIK](https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc) | [Annual plant](https://open.spotify.com/album/0fa0ZARLeWnBSdaYQK1BaK) | 4:21 | 2023-02-07 |  |
+| [Annual plant](https://open.spotify.com/track/3Odx622SRpsHSylBSbfsaw) | [MANIK](https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc) | [Annual plant](https://open.spotify.com/album/0fa0ZARLeWnBSdaYQK1BaK) | 4:21 | 2023-02-07 | 2023-08-23 |
+| [Annual plant](https://open.spotify.com/track/3TcPYJi9lSwwt350olQ3zB) | [MANIK](https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc) | [Annual plant](https://open.spotify.com/album/5tiTWtLR5CEqNzpeEUqVm7) | 4:21 | 2023-07-24 |  |
 | [Artemis In My Pluto](https://open.spotify.com/track/14rVKMBXB7yncPlstFwt8u) | [sun Lee](https://open.spotify.com/artist/0MpLSPJhglRKRhGoE689kS) | [In the eNd, i find MY heART](https://open.spotify.com/album/54NVZYARZKQhFC7QT6ldym) | 3:09 | 2023-02-07 | 2023-06-08 |
 | [Artemis In My Pluto](https://open.spotify.com/track/3leuAjdy8RnqLKgvlvPqLT) | [sun Lee](https://open.spotify.com/artist/0MpLSPJhglRKRhGoE689kS) | [In the eNd, i find MY heART](https://open.spotify.com/album/0TFlnShNuQwOiePmTlx8CF) | 3:09 | 2023-04-14 |  |
 | [Bambi](https://open.spotify.com/track/75IjhFxQkIvCzP16IyR5Ob) | [정수연](https://open.spotify.com/artist/7az0Pd2sKjDBXMxPxhd6Qn) | [Bambi](https://open.spotify.com/album/0qKGgiSj0etZBTFrqMwPZ7) | 4:22 | 2022-05-03 |  |
@@ -25,7 +26,8 @@
 | [Blue in LED](https://open.spotify.com/track/1RuirFlIK2j9dlHoIUATWo) | [윤청미](https://open.spotify.com/artist/2ZzUbppeRa137R18Cxgj4A) | [Blue in LED](https://open.spotify.com/album/140zLUWx5AHU4b9PbDjaTI) | 3:30 | 2022-05-03 | 2022-07-29 |
 | [Blue in Led](https://open.spotify.com/track/1xZB3IMZ3LSbDoborownFf) | [윤청미](https://open.spotify.com/artist/05uzbpyy2ouCUFKFsmhiwV) | [Blue in Led](https://open.spotify.com/album/0wa11yZGqW3kCVb46jmKZD) | 3:30 | 2022-07-08 | 2023-02-08 |
 | [Bohemian](https://open.spotify.com/track/2ragyAOyclvs6CaBEE3Ouw) | [Gypsum](https://open.spotify.com/artist/6qV7FBGBGmMOuGRW8gzuP8) | [Bohemian](https://open.spotify.com/album/4yu5JDYqSwsPnO0gozaW6Q) | 4:18 | 2022-05-18 |  |
-| [Breeze](https://open.spotify.com/track/6CX8ZtHiupf9EulZXjXKA9) | [김상준](https://open.spotify.com/artist/1ZLe92Imu2rBDyZijS7TlZ) | [Breeze](https://open.spotify.com/album/3n9vwJ5YfbgEb6cnd6pDJS) | 3:08 | 2023-02-07 |  |
+| [Breeze](https://open.spotify.com/track/5XhtsFFa0x6T68RU228Eql) | [sangjun kim](https://open.spotify.com/artist/5ActYrw5XC68RWkNGXrysv) | [Breeze](https://open.spotify.com/album/4cGVSpkczCuwfsbLNjbx7v) | 3:08 | 2023-07-24 |  |
+| [Breeze](https://open.spotify.com/track/6CX8ZtHiupf9EulZXjXKA9) | [김상준](https://open.spotify.com/artist/1ZLe92Imu2rBDyZijS7TlZ) | [Breeze](https://open.spotify.com/album/3n9vwJ5YfbgEb6cnd6pDJS) | 3:08 | 2023-02-07 | 2023-08-23 |
 | [Caterpillar \(feat\. Rob Christian\)](https://open.spotify.com/track/6HUODKj1h2VofvTHNdBoLa) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Rob Christian](https://open.spotify.com/artist/5GmTnqtSTio7KExuVLfw4W) | [Caterpillar](https://open.spotify.com/album/3G6PJpsgX2sVFqMsQwmKz6) | 4:22 | 2022-05-03 | 2022-05-19 |
 | [Challenge](https://open.spotify.com/track/1efuuWPLLISJEcL50QBqJu) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/7i2BaCWyYFCbHv7ds6IXSJ) | 5:33 | 2022-05-03 | 2022-12-03 |
 | [Challenge](https://open.spotify.com/track/7rSaFa1IUSsE3VUpyhsgsC) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/1K2GzbrJLDIRfzpVBIw6FR) | 5:33 | 2022-11-23 |  |
@@ -65,7 +67,8 @@
 | [Honeymoon](https://open.spotify.com/track/5fFhTTd6pmgBpysk2ozGtg) | [ZXQ](https://open.spotify.com/artist/7x9SoabYD4wuOML2PQ6onB) | [Honeymoon](https://open.spotify.com/album/6SFC5vD6tvizIL3ghFJOQe) | 2:24 | 2023-02-07 |  |
 | [I'm Not a Butterfly](https://open.spotify.com/track/4RcuqGcL9G95s6qdZzKoqb) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Who Stole the Skies](https://open.spotify.com/album/3vBepxBq8Ik2Tsn5Yu1uML) | 5:13 | 2022-09-26 | 2023-02-08 |
 | [Inflexible Chess Pieces](https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg) | [Junbeom Sim](https://open.spotify.com/artist/3LNX9HVfbM5u3IdJ44IVwL) | [Inflexible Chess Pieces](https://open.spotify.com/album/2OrJbRm23LFDbvg4J2P072) | 10:54 | 2022-05-03 |  |
-| [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-20 |  |
+| [Isolate \(feat\. AHRAM GO\)](https://open.spotify.com/track/4HBFLUmi3CdnDugb1fevCo) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/4ofBi1vvKlz40osDgUA9OB) | 3:12 | 2023-07-24 |  |
+| [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-20 | 2023-08-23 |
 | [Late Autumn](https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb) | [Heather](https://open.spotify.com/artist/4vE4SByWj4geUQdjZvyl9g) | [Late Autumn](https://open.spotify.com/album/1qhO8rdnpTvvrlwyYOcHdM) | 3:15 | 2022-11-11 | 2023-08-09 |
 | [Late Autumn](https://open.spotify.com/track/5HJu3wKHXUdcOs0wnjpNJQ) | [헤더](https://open.spotify.com/artist/72FPeJpnV2CQjdHRbrpehd) | [Late Autumn](https://open.spotify.com/album/4VkQFeNsVftX92t9LDphLk) | 3:15 | 2023-07-24 |  |
 | [let it flow](https://open.spotify.com/track/4tiw4EJUBYiyaCRZBeWNPd) | [Sunji Lee](https://open.spotify.com/artist/6JBv1lNpxPnxf2f4AxImDM) | [Oscillations](https://open.spotify.com/album/6aaHSGnPbyhjzjnHdKwIIv) | 6:12 | 2022-05-03 | 2022-05-19 |

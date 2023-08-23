@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: A\. G\. Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,767 likes - 107 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,010 likes - 107 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 106 | [FUMD](https://open.spotify.com/track/3cXAJVliJ6H19KpHUvNCd4) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FUMD](https://open.spotify.com/album/1v5W6yDZc3rlmcXSzTZNhb) | 2:20 |
 | 107 | [My Brain is Lasers](https://open.spotify.com/track/6d4cXluehWd5F0OBqjTt8K) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [SPRINKLES!: A.M\. Block](https://open.spotify.com/album/3ky1eVuWvfAbx4s9pPPfcV) | 2:32 |
 
-Snapshot ID: `MCxlM2UwMTYxMjU2NTI5YmI2ZGNiMzBhOTAyOTI4YmY5MTljZGM2ODA4`
+Snapshot ID: `MCxmOTdmYTQxMWUxMjhlNTVjYzEyNjNlMjY4MzFmNDJkN2VmODk3Mzhi`

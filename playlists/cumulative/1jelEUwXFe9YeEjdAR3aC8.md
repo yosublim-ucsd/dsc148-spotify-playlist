@@ -2,7 +2,7 @@
 
 ### [Indie Chill](https://open.spotify.com/playlist/1jelEUwXFe9YeEjdAR3aC8)
 
-> Chill indie music\. Cover: Reneé Rapp
+> Chill indie music\. Cover: kenzie
 
 515 songs - 1 day 4 hr 37 min
 

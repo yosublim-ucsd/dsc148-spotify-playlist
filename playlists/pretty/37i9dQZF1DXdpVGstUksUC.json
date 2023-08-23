@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 526325,
+  "num_followers": 526469,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjhmNTcwMzcyNGU5YTgwMWIzMGExZTcyZGUyNjYxMDliNzBjZGVi",
+  "snapshot_id": "MCw4OWY4OTMyODJlOTE1NDcwODIzMTBiMjY5MDEyYTYwZTdlNzMxZjE0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Mars Red Sky",
         "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 329626,
       "name": "Strong Reflection",
       "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Beneath The Rose",
-        "url": "https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k"
-      },
-      "artists": [
-        {
-          "name": "Baroness",
-          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
-        }
-      ],
-      "duration_ms": 334306,
-      "name": "Beneath the Rose",
-      "url": "https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Unemployment Office",
         "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 204181,
       "name": "Unemployment Office",
       "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Beneath The Rose",
+        "url": "https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k"
+      },
+      "artists": [
+        {
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+        }
+      ],
+      "duration_ms": 334306,
+      "name": "Beneath the Rose",
+      "url": "https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Old Growth",
         "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 256959,
       "name": "What Needs Must Be",
       "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Tempel",
-        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
-      },
-      "artists": [
-        {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
-        }
-      ],
-      "duration_ms": 526293,
-      "name": "Aquamaria",
-      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The No. 6 Dance",
         "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 214600,
       "name": "Mississippi King",
       "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Tempel",
+        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
+      },
+      "artists": [
+        {
+          "name": "Colour Haze",
+          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+        }
+      ],
+      "duration_ms": 526293,
+      "name": "Aquamaria",
+      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "The Witching Hour",
+        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
+      },
+      "artists": [
+        {
+          "name": "Doctor Smoke",
+          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "The Seeker",
+      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Into Submission",
         "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "The Witching Hour",
-        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
-      },
-      "artists": [
-        {
-          "name": "Doctor Smoke",
-          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "The Seeker",
-      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
-      },
-      "artists": [
-        {
-          "name": "Gas Giant",
-          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
-        }
-      ],
-      "duration_ms": 371983,
-      "name": "Too Stoned",
-      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Damned by Fate",
         "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 312746,
       "name": "Lust Queen",
       "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Gas Giant",
+          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
+        }
+      ],
+      "duration_ms": 371983,
+      "name": "Too Stoned",
+      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
-      },
-      "artists": [
-        {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
-        }
-      ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Beyond the Wasteland",
         "url": "https://open.spotify.com/album/6OZQwyKEtA3BiKWsccW7Im"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Rattle",
-        "url": "https://open.spotify.com/album/3H640JprxOBh9mxeD4kLHx"
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
       },
       "artists": [
         {
-          "name": "Wailin' Storms",
-          "url": "https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2"
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
         }
       ],
-      "duration_ms": 332120,
-      "name": "Rattle",
-      "url": "https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h"
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 417720,
       "name": "Parsonz Curse",
       "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Rattle",
+        "url": "https://open.spotify.com/album/3H640JprxOBh9mxeD4kLHx"
+      },
+      "artists": [
+        {
+          "name": "Wailin' Storms",
+          "url": "https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2"
+        }
+      ],
+      "duration_ms": 332120,
+      "name": "Rattle",
+      "url": "https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h"
     },
     {
       "added_at": "2023-08-11 04:00:00",

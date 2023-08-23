@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 101971,
+  "num_followers": 102112,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWQ2ZjQ5NDFkYmQ1Zjc2NWYxMjU0ZGVjYzE1ZDY1NWJlNWIwZWFm",
+  "snapshot_id": "MCw0ZGM5ZTkzY2M3NzY2MTcxYWVhNGNhYTI1MmM0ZDkwNzIyNDBkZWNi",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Defiant Order",
+        "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
+      },
+      "artists": [
+        {
+          "name": "Birdy Nam Nam",
+          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Defiant order",
+      "url": "https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "The Big Cover-Up",
         "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 306143,
       "name": "Substance Abuse",
       "url": "https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Defiant Order",
-        "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
-      },
-      "artists": [
-        {
-          "name": "Birdy Nam Nam",
-          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Defiant order",
-      "url": "https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ"
     },
     {
       "added_at": "2021-10-22 11:07:27",

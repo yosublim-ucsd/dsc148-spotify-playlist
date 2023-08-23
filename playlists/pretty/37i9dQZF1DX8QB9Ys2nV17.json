@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173105,
+  "num_followers": 173110,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzZiY2I5MDlmOTdiYzZjYzFkN2VjMjJlNzFiZTk4ZGRhYWMxN2E2",
+  "snapshot_id": "MCxjMGJjNWUwNTE3YjMwYjlkZmYyN2MyZWE0Njg3NzdjNDhmNTZkYjlm",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Voodoo in the Shadows",
-        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
-      },
-      "artists": [
-        {
-          "name": "Fiona Boyes",
-          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
-        }
-      ],
-      "duration_ms": 255106,
-      "name": "Party at Red's",
-      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Fish Outta Water",
-        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
+        "name": "Voodoo in the Shadows",
+        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
       },
       "artists": [
         {
-          "name": "Karen Lovely",
-          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
+          "name": "Fiona Boyes",
+          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Fish Outta Water",
-      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
+      "duration_ms": 255106,
+      "name": "Party at Red's",
+      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -491,6 +475,22 @@
       "duration_ms": 200449,
       "name": "Shut Your Mouth and Do Something",
       "url": "https://open.spotify.com/track/5rbX4du6LNRAvMm0zCIPCV"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Fish Outta Water",
+        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
+      },
+      "artists": [
+        {
+          "name": "Karen Lovely",
+          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Fish Outta Water",
+      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
     },
     {
       "added_at": "2022-03-08 14:01:09",

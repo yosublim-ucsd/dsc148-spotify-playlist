@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Shae Universe",
-  "num_followers": 126160,
+  "num_followers": 126253,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjE0MzNmNWM5ZjVhYWEwZDMxZTRlMmQ3ZGM3MTJjNTYyZDUyNzJk",
+  "snapshot_id": "MCxlNGNhZjA0Y2UxZjc3MmQyYmQxMjdkM2IwMmJjNTc1NDMyMTQ2Y2Yw",
   "tracks": [
     {
       "added_at": "2023-08-18 11:34:53",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-18 11:34:53",
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 199833,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf"
-    },
-    {
-      "added_at": "2023-08-18 11:34:53",
-      "album": {
         "name": "THERAPY",
         "url": "https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 126857,
       "name": "THERAPY",
       "url": "https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2"
+    },
+    {
+      "added_at": "2023-08-18 11:34:53",
+      "album": {
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 199833,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf"
     },
     {
       "added_at": "2023-08-18 11:34:53",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-18 11:34:53",
       "album": {
-        "name": "Caught Me Running",
-        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
-      },
-      "artists": [
-        {
-          "name": "Ama Lou",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Caught Me Running",
-      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
-    },
-    {
-      "added_at": "2023-08-18 11:34:53",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-08-18 11:34:53",
       "album": {
-        "name": "Excited",
-        "url": "https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY"
+        "name": "Caught Me Running",
+        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
       },
       "artists": [
         {
-          "name": "July 7",
-          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Excited",
-      "url": "https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b"
+      "duration_ms": 194906,
+      "name": "Caught Me Running",
+      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
     },
     {
       "added_at": "2023-08-18 11:34:53",
@@ -963,6 +947,22 @@
       "duration_ms": 186130,
       "name": "Strawberry Skies",
       "url": "https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC"
+    },
+    {
+      "added_at": "2023-08-18 11:34:53",
+      "album": {
+        "name": "Excited",
+        "url": "https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY"
+      },
+      "artists": [
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Excited",
+      "url": "https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b"
     },
     {
       "added_at": "2023-08-18 11:34:53",
@@ -1023,30 +1023,18 @@
     {
       "added_at": "2023-08-18 11:34:53",
       "album": {
-        "name": "Closure Tapes",
-        "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
+        "name": "Endless No Mores - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk"
       },
       "artists": [
         {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        },
-        {
-          "name": "Miraa May",
-          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        },
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 206875,
-      "name": "Genesis (Remix) [feat. Miraa May, Joyce Wrice & Bellah]",
-      "url": "https://open.spotify.com/track/7moQCUT1UbndHCC2H6xYVs"
+      "duration_ms": 179238,
+      "name": "Endless No Mores - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
     }
   ],
   "unique_name": "R&B UK",

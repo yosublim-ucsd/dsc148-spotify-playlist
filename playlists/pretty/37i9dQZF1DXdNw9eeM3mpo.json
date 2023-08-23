@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 434367,
+  "num_followers": 434451,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWY2MDA5NDM3MjlmYmFhMmEwZmExZjlhMWY5NGVhMTU3NDJhOWI2",
+  "snapshot_id": "MCwzZmFmYTExMGE2YzViY2YzM2M0MjM1Yjc0OGI4Y2EyN2UzZjY1ZThh",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1415,8 +1415,8 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+        "name": "Mugre",
+        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
+      "duration_ms": 222373,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1547,8 +1547,8 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Mugre",
-        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
       },
       "artists": [
         {
@@ -1556,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 222373,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "B-Side of Madness",
-        "url": "https://open.spotify.com/album/0kBU6p9eQCF4XHys30QKkg"
-      },
-      "artists": [
-        {
-          "name": "Marzela",
-          "url": "https://open.spotify.com/artist/7AdSQ6r60NhGQvFc70g76T"
-        }
-      ],
-      "duration_ms": 198618,
-      "name": "Rude Boys Unity",
-      "url": "https://open.spotify.com/track/6rVld2p50b7Wk2DldUOZBh"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "El ataque de la nueva ola",
         "url": "https://open.spotify.com/album/3MQaTzbx6u7KwbAmqEMGdy"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 220620,
       "name": "Esc\u00e1pate conmigo",
       "url": "https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "B-Side of Madness",
+        "url": "https://open.spotify.com/album/0kBU6p9eQCF4XHys30QKkg"
+      },
+      "artists": [
+        {
+          "name": "Marzela",
+          "url": "https://open.spotify.com/artist/7AdSQ6r60NhGQvFc70g76T"
+        }
+      ],
+      "duration_ms": 198618,
+      "name": "Rude Boys Unity",
+      "url": "https://open.spotify.com/track/6rVld2p50b7Wk2DldUOZBh"
     },
     {
       "added_at": "2023-07-28 06:00:00",

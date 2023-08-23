@@ -3423,6 +3423,32 @@
     },
     {
       "album": {
+        "name": "Tinted Windows",
+        "url": "https://open.spotify.com/album/0gnxxwuDgP2gvVSXbSgY57"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Wraich",
+          "url": "https://open.spotify.com/artist/0ov4rQDHNfsZkRxsIZ6kzL"
+        },
+        {
+          "name": "Crispy Dondada",
+          "url": "https://open.spotify.com/artist/03kKbaYoK0KB2xv7Q1FRKv"
+        },
+        {
+          "name": "Romeoz",
+          "url": "https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Tinted Windows",
+      "url": "https://open.spotify.com/track/6KLca4Dxyf5ArZoyqgmwhr"
+    },
+    {
+      "album": {
         "name": "Toy",
         "url": "https://open.spotify.com/album/4VrAmKqAphRMoDcYno8V25"
       },

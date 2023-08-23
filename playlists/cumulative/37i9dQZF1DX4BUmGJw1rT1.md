@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-197 songs - 13 hr 44 min
+198 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 | 2023-01-20 | 2023-06-28 |
 | [Better This Way](https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Jigsaw Heart](https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI) | 4:10 | 2022-05-25 |  |
 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2022-07-08 |  |
-| [Bloodshot Eyes](https://open.spotify.com/track/44UXzqbquZyHlOA4MrNwB5) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Bloodshot Eyes](https://open.spotify.com/album/5yaOqd0avsCCGlxS3hHIUY) | 3:41 | 2023-08-18 |  |
+| [Bloodshot Eyes](https://open.spotify.com/track/44UXzqbquZyHlOA4MrNwB5) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Bloodshot Eyes](https://open.spotify.com/album/5yaOqd0avsCCGlxS3hHIUY) | 3:41 | 2023-08-18 | 2023-08-23 |
 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 | 2022-07-08 |  |
 | [Blues Deluxe](https://open.spotify.com/track/4kE0QjiD0IkeXGjmRaQtiO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/2POTy8KiRigEg16A0cUDjx) | 7:20 | 2022-05-25 | 2022-07-29 |
 | [Blues Music](https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [G\. Love And Special Sauce](https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek) | 4:15 | 2022-06-14 |  |
@@ -64,6 +64,7 @@
 | [Feel](https://open.spotify.com/track/5V8ofCBuw6EmhOvmvZc18Z) | [Yasmine Gill](https://open.spotify.com/artist/3lUHHWVDBZVXnh1JCZ8P5I) | [Feel](https://open.spotify.com/album/66k33fj9TsE9XXcipKoSTh) | 3:51 | 2023-08-18 |  |
 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 | 2022-05-25 |  |
 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 | 2022-05-25 |  |
+| [Fire in Me](https://open.spotify.com/track/7utUz3M9pa5Q6h6JGU6r7k) | [Sara Syms](https://open.spotify.com/artist/59zNVUIdLrT7Wl0Zyc8CZj) | [Fire in Me](https://open.spotify.com/album/19pkhI8TXoAEVGLrN2Q6XU) | 4:09 | 2023-08-18 |  |
 | [Fire On The Floor](https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor \(Deluxe Edition\)](https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP) | 5:11 | 2022-07-08 |  |
 | [Fire On The Floor](https://open.spotify.com/track/2FX5U6bbMwpy3VBn4sErbW) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor](https://open.spotify.com/album/2lsOrtqnpScvxYvOrqQcl3) | 5:11 | 2022-05-25 | 2022-07-24 |
 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 | 2022-10-03 |  |

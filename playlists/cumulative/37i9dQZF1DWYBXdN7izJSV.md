@@ -4,7 +4,7 @@
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-106 songs - 6 hr 45 min
+108 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Guns of Umpqua](https://open.spotify.com/track/45SUewgCOLuDxdGnfhXHHV) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [American Band](https://open.spotify.com/album/0TbtGujCU6nlT2e2qnJVcs) | 3:51 | 2020-10-13 |  |
 | [Guns Of Umpqua](https://open.spotify.com/track/4iG03eGYR0liflIrFVj6Zf) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [American Band](https://open.spotify.com/album/43EtynQuS3r5afZnSY1sYb) | 3:51 | 2020-10-13 | 2022-07-29 |
 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 | 2020-10-13 |  |
-| [How Many Women](https://open.spotify.com/track/7xSOPBhpzqy9ZAWClYDnht) | [Lydia Loveless](https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn) | [Indestructible Machine](https://open.spotify.com/album/3mAVrIW8N85Em9eijWYdOl) | 3:44 | 2020-10-13 |  |
+| [How Many Women](https://open.spotify.com/track/5xBo0hTMiVNdYTuELFGtz0) | [Lydia Loveless](https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn) | [Indestructible Machine](https://open.spotify.com/album/1aZHbSOd5bpXpRjgUzdY8W) | 3:44 | 2020-10-13 |  |
+| [How Many Women](https://open.spotify.com/track/7xSOPBhpzqy9ZAWClYDnht) | [Lydia Loveless](https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn) | [Indestructible Machine](https://open.spotify.com/album/3mAVrIW8N85Em9eijWYdOl) | 3:44 | 2020-10-13 | 2023-08-23 |
 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 | 2020-10-13 |  |
 | [I'm Over You](https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK) | [The Silos](https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih) | [The Silos \(Bonus Track Version\)](https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg) | 4:58 | 2020-10-13 |  |
 | [Indianapolis](https://open.spotify.com/track/4dCFpIPmSWi2fDQvcdp9dK) | [The Bottle Rockets](https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW) | [24 Hours A Day](https://open.spotify.com/album/6oEpo2mn9gFX5B8MQUy1qy) | 3:32 | 2020-10-13 |  |
@@ -83,7 +84,8 @@
 | [Red Right Hand](https://open.spotify.com/track/5acXrmMJ2HFympa3z0Rfrk) | [Giant Sand](https://open.spotify.com/artist/339qxEdD8z8okRAiTp1HKf) | [Cover Magazine \(25th Anniversary Edition\)](https://open.spotify.com/album/3ceqBvEUADRATj8ihPITvq) | 4:40 | 2020-10-13 |  |
 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 | 2020-10-13 |  |
 | [Save It For A Rainy Day](https://open.spotify.com/track/6IZIEhCq9crPjl2jGUvELS) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Rainy Day Music](https://open.spotify.com/album/3vI8vpQDeh7NaNEY1AilPm) | 3:07 | 2020-10-13 |  |
-| [She Took A Lot Of Pills \(And Died\)](https://open.spotify.com/track/1lz3mp3MJmF910If1so02W) | [Robbie Fulks](https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe) | [Country Love Songs](https://open.spotify.com/album/7pPvsIGZU0LwQBhU6LVKII) | 2:43 | 2020-10-13 |  |
+| [She Took A Lot Of Pills \(And Died\)](https://open.spotify.com/track/1lz3mp3MJmF910If1so02W) | [Robbie Fulks](https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe) | [Country Love Songs](https://open.spotify.com/album/7pPvsIGZU0LwQBhU6LVKII) | 2:43 | 2020-10-13 | 2023-08-23 |
+| [She Took A Lot Of Pills \(And Died\)](https://open.spotify.com/track/3USn7GRMpBKrjaaxZmZ38v) | [Robbie Fulks](https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe) | [Country Love Songs](https://open.spotify.com/album/2SOOMrBaatKswhoKpYNiiM) | 2:43 | 2020-10-13 |  |
 | [Silence](https://open.spotify.com/track/0HglUzvGGNtNi7mCqjkW7S) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/2IsiRbh1i0Pkx2q6n3f6ci) | 4:07 | 2020-10-13 | 2022-07-29 |
 | [Silence](https://open.spotify.com/track/2GhrCXqIgvveXt07wFKvQ8) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/2GV6xnWl34jwrYLG0W3KDC) | 4:07 | 2020-10-13 | 2022-11-13 |
 | [Silence](https://open.spotify.com/track/5g79xHG0De0dDHe1Hkum66) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/6P9VUVYvKNP7DULIJ5p7Ks) | 4:07 | 2020-10-13 | 2023-04-29 |

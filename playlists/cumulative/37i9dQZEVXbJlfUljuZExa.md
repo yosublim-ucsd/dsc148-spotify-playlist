@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-770 songs - 1 day 20 hr 23 min
+771 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Joget Aidilfitri](https://open.spotify.com/track/77uFLBH1LKK8BIcAVGtKro) | [Ning Baizura](https://open.spotify.com/artist/179XJA4Q2PPPkPbjPvSRt7) | [Satu Hari Di Hari Raya](https://open.spotify.com/album/72KRrZJF2AxljhkcLhy0Ab) | 2:28 | 2022-05-02 | 2022-05-04 |
 | [Just as usual](https://open.spotify.com/track/64xTu0cKbXu3ZSRkfXiBnx) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 | 2021-06-09 | 2021-06-11 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-11-06 |
+| [Kau Tigakan Cinta](https://open.spotify.com/track/44PWXTnHRRpKvldbfKK9Oq) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Pesan Dari Surga](https://open.spotify.com/album/6sRTe26Ku29Ia4xvRxxin9) | 3:36 | 2023-08-22 |  |
 | [Kepulangan Yang Di Nanti](https://open.spotify.com/track/5eI3a4RJ5Qfum61vdQMy6B) | [Aman Shah](https://open.spotify.com/artist/5Za3d8fOzNa1aYojLj6fSh) | [Kepulangan Yang Dinanti](https://open.spotify.com/album/7HoFrmavhQ08QX5vqk7wJ8) | 3:45 | 2021-05-10 | 2023-04-25 |
 | [Kesetiaan](https://open.spotify.com/track/3EdUroPyP7PpNkAFzUDK0l) | [Sarah](https://open.spotify.com/artist/0ZLlXP2F6EWO0CkFz1Teky) | [Sarah](https://open.spotify.com/album/6l56EYISKqObgkylSZD1d4) | 4:21 | 2021-08-11 | 2021-08-25 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-10 |  |
@@ -684,7 +685,7 @@
 | [Telepathy](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:22 | 2021-05-23 | 2021-05-26 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-06-13 |
 | [Teman](https://open.spotify.com/track/7GkU7gkhmocy1lVFSkoi95) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Teman](https://open.spotify.com/album/4ydV32tGOIjWIfNXMSapz4) | 3:29 | 2021-03-27\* | 2021-04-10 |
-| [Terasa Ada](https://open.spotify.com/track/1VGVxZIHPiKh3Y4vZv6ChL) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Terasa Ada](https://open.spotify.com/album/0vYQ7xIaQQhh8fZAsbFSdf) | 4:02 | 2023-04-09 |  |
+| [Terasa Ada](https://open.spotify.com/track/1VGVxZIHPiKh3Y4vZv6ChL) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Terasa Ada](https://open.spotify.com/album/0vYQ7xIaQQhh8fZAsbFSdf) | 4:02 | 2023-04-09 | 2023-08-23 |
 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 | 2021-09-10 | 2021-09-19 |
 | [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2022-12-05 |  |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-01 | 2022-05-29 |

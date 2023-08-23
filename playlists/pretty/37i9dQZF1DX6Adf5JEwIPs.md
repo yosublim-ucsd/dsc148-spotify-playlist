@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: DannyLux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,100 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,151 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 11 | [Vas A Querer Volver](https://open.spotify.com/track/7dNvYibEFTGRvNi8hBzs4f) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vas A Querer Volver](https://open.spotify.com/album/2qWqD6MErYIzVs3Kby8Hlf) | 2:40 |
 | 12 | [Albur De Amor \- En Vivo](https://open.spotify.com/track/1YaebOdmTpdAPaX8yHBwMg) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Chuy Lizarraga Con Tambora Vol\. 2 Homenaje Antonio Aguilar, Joan Sebastian, Banda La Costena \(En Vivo\)](https://open.spotify.com/album/4QJijJ4Qg2nj129OkgXajN) | 2:44 |
 | 13 | [Amigos De Papel](https://open.spotify.com/track/3vYvH3RR7OO6Ib6I1yKYI8) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Amigos De Papel](https://open.spotify.com/album/0OLpzgML7O6GwlOgx5oneJ) | 2:34 |
-| 14 | [Sin Escalas](https://open.spotify.com/track/4YAgZYw2v8wyh5LVNV8Ta1) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/0FtcvjbtqVDC64pOq1UJMe) | 2:20 |
+| 14 | [Sin Escalas](https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/1daB1drE8UKC2vbKDGadJX) | 2:20 |
 | 15 | [A Otra Dimensión](https://open.spotify.com/track/1YVkmVBqppDLlcR6GN6t4t) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [A Otra Dimensión](https://open.spotify.com/album/03BSE43DfA5h1WBPZpQ8Lf) | 3:12 |
 | 16 | [Hierba Mala](https://open.spotify.com/track/2lTMh1c1vliXoxwcc3U5S1) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Hierba Mala](https://open.spotify.com/album/0G3buhLvSXNFODxd2Vo3e3) | 3:37 |
 | 17 | [A Mi Que Me Quedó \(Marraneo Time T2\) \- Acústico En Vivo 2023](https://open.spotify.com/track/5AkiFKkMqCVipYJKtT9zRc) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [A Mi Que Me Quedó \(Marraneo Time T2\) \[Acústico En Vivo 2023\]](https://open.spotify.com/album/0BAvXTluCscWB9qtFAruqT) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Tres Veces Te Engañé \- En Vivo](https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tres Veces Te Engañé \(En Vivo\)](https://open.spotify.com/album/67cz8x4lTBKle18uAhzeRa) | 4:16 |
 | 50 | [El Rey Del Pop \(En Vivo\)](https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 3:42 |
 
-Snapshot ID: `MCw3ZTQ3Mzc4Mzk3MDc5ODFhY2UwZjg0MDBjNzYxNWFjZjIwNGQxZmMw`
+Snapshot ID: `MCxmZWI3ZDZmZDQxNjZlNTVjZjQzNzA2MzI5NDJjZTI1MDk0ZWVmM2Qy`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,016 songs - 2 day 7 hr 44 min
+1,017 songs - 2 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Cuarentena](https://open.spotify.com/track/3NzO25bvpU4lUf8kYvcrd1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Cuarentena](https://open.spotify.com/album/6gNn20ucl04E91XvLdMc1Z) | 2:11 | 2021-10-31 | 2021-11-14 |
 | [Cuarentena](https://open.spotify.com/track/7zNGzcGEnfVld7PdlXSeSa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:11 | 2021-12-05 | 2021-12-19 |
 | [CUENTA](https://open.spotify.com/track/2J19dDdM6nmKDbN4AVJ1R4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:36 | 2021-04-26 | 2021-04-26 |
+| [Cuero Caro](https://open.spotify.com/track/7axxLnHLlcHeXkc4Si82zN) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Cuero Caro](https://open.spotify.com/album/0kqSvlx5pdMOYWaWiw7EUC) | 2:38 | 2023-08-22 |  |
 | [Cuerpo Natural](https://open.spotify.com/track/4EvvYJIu3l45MCUHDvZf7Q) | [Dariel J](https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI) | [Freedom](https://open.spotify.com/album/6yExO2h8KWW07843q1PV15) | 3:20 | 2023-08-20 |  |
 | [Cuerpo Natural](https://open.spotify.com/track/6GMM7NCrUvlm2HoC1KT6Bz) | [Dariel J](https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI) | [Freedom](https://open.spotify.com/album/6FOKz9h81qRVjnYAkXcDc2) | 3:20 | 2023-06-12 | 2023-06-15 |
 | [Cuevita](https://open.spotify.com/track/3LGn1d8P4Na3WHvYwCE6NL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:40 | 2023-03-18 | 2023-03-30 |
@@ -350,7 +351,7 @@
 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2022-12-24 | 2023-07-16 |
 | [GATÚBELA](https://open.spotify.com/track/6Vn1vje8yMw2OY6IOk9dkH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:28 | 2023-02-25 | 2023-03-19 |
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2022-08-27 | 2023-02-26 |
-| [Gemelo](https://open.spotify.com/track/7lRoOdRCLZfE5rbSQ9wQz0) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Gemelo](https://open.spotify.com/album/5sjmpKKRv9K5YW6KUNs8oX) | 2:12 | 2023-05-08 |  |
+| [Gemelo](https://open.spotify.com/track/7lRoOdRCLZfE5rbSQ9wQz0) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Gemelo](https://open.spotify.com/album/5sjmpKKRv9K5YW6KUNs8oX) | 2:12 | 2023-05-08 | 2023-08-23 |
 | [Giga](https://open.spotify.com/track/1UIVqQ8pqlvoSlPy9esKd6) | [Miguelito](https://open.spotify.com/artist/4gwgJqemp17xhiPm7pEAqu) | [Giga](https://open.spotify.com/album/6aXyh9hv7Z91eD1LZwp8sd) | 2:37 | 2022-08-22 | 2022-09-24 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-12 |
 | [Gladiador](https://open.spotify.com/track/2sY92LRATo3fwPzmDo0wwt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 3:07 | 2022-11-19 | 2022-12-11 |

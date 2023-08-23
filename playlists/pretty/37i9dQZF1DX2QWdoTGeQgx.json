@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 47295,
+  "num_followers": 47332,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTUzYzdlMzBiYmVkMWMxMTkxYzBlNjlmMDMzZDExN2RjNDRiODQx",
+  "snapshot_id": "MCw0OWZiNDc1NDAxNDkxYmQwNDM5MmIzMGMxYjliZWQyNjg1NDE4ZjJj",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -739,18 +739,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Lonely Soldier Boy",
-        "url": "https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL"
+        "name": "It's You (feat. Kaleb J)",
+        "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
       },
       "artists": [
         {
-          "name": "Hujan",
-          "url": "https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A"
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        },
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
         }
       ],
-      "duration_ms": 292760,
-      "name": "Kotak Hati",
-      "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
+      "duration_ms": 269712,
+      "name": "It's You (feat. Kaleb J)",
+      "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -771,22 +775,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "It's You (feat. Kaleb J)",
-        "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
+        "name": "Lonely Soldier Boy",
+        "url": "https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL"
       },
       "artists": [
         {
-          "name": "Sezairi",
-          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
-        },
-        {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+          "name": "Hujan",
+          "url": "https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A"
         }
       ],
-      "duration_ms": 269712,
-      "name": "It's You (feat. Kaleb J)",
-      "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
+      "duration_ms": 292760,
+      "name": "Kotak Hati",
+      "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1043,6 +1043,30 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "bad together",
+        "url": "https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        },
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        },
+        {
+          "name": "Irwinandfire",
+          "url": "https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "bad together",
+      "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
       },
@@ -1071,30 +1095,6 @@
       "duration_ms": 154666,
       "name": "Guess We're Good",
       "url": "https://open.spotify.com/track/3Nws6vS8MB5qMM171ZqcER"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "bad together",
-        "url": "https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        },
-        {
-          "name": "TY:DEL",
-          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
-        },
-        {
-          "name": "Irwinandfire",
-          "url": "https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa"
-        }
-      ],
-      "duration_ms": 170909,
-      "name": "bad together",
-      "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Vibin",
-        "url": "https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT"
-      },
-      "artists": [
-        {
-          "name": "Ylona Garcia",
-          "url": "https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR"
-        }
-      ],
-      "duration_ms": 165096,
-      "name": "Vibin",
-      "url": "https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Serendipity",
         "url": "https://open.spotify.com/album/4gXr2hrrKhdD4X4oBsvlgr"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "Vibin",
+        "url": "https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT"
+      },
+      "artists": [
+        {
+          "name": "Ylona Garcia",
+          "url": "https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR"
+        }
+      ],
+      "duration_ms": 165096,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "Till The Morning",
         "url": "https://open.spotify.com/album/6kL09GmdDpKlaM1veyxmZU"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 169200,
       "name": "Till The Morning",
       "url": "https://open.spotify.com/track/7dyTGeerbfWSCMCfWETZ3K"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Go Higher",
+        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 208264,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1207,22 +1223,6 @@
       "duration_ms": 269893,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Go Higher",
-        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
     }
   ],
   "unique_name": "Chill Lah",

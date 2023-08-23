@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 1708047,
+  "num_followers": 1710126,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjFhMzJiYTFmMGVhY2Q2MjE1Y2ZkZWY2ZTJmMWZkYTc3NzE0OGFm",
+  "snapshot_id": "MCw1ZDhkMGJkMzE5NTE3ZWU5ZjI4YmU4MDM4ZDUxZWZkODAwYWM2MDhj",
   "tracks": [
     {
       "added_at": "2023-08-04 16:04:56",
@@ -295,6 +295,34 @@
       "duration_ms": 110936,
       "name": "METAMORPHOSIS - Sped Up",
       "url": "https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU"
+    },
+    {
+      "added_at": "2023-08-22 16:40:57",
+      "album": {
+        "name": "Price Tag (Sped Up)",
+        "url": "https://open.spotify.com/album/6ITJMaP8RALYKlF1zYr8kx"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "Kuya Magik",
+          "url": "https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb"
+        }
+      ],
+      "duration_ms": 197664,
+      "name": "Price Tag - Sped Up",
+      "url": "https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA"
     },
     {
       "added_at": "2023-08-04 16:04:56",
@@ -1803,26 +1831,6 @@
       "duration_ms": 124556,
       "name": "If We Ever Broke Up - Sped Up",
       "url": "https://open.spotify.com/track/5aBfiBLoIznSLQoPZMoPUJ"
-    },
-    {
-      "added_at": "2023-08-04 16:04:56",
-      "album": {
-        "name": "die first (love forever)",
-        "url": "https://open.spotify.com/album/3Pqcill829HN55wmRCDFRw"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        },
-        {
-          "name": "Sped Up Songs + Nightcore",
-          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
-        }
-      ],
-      "duration_ms": 144875,
-      "name": "die first - sped up version",
-      "url": "https://open.spotify.com/track/3lEqXRwPi98ZvKm5bsZTGi"
     }
   ],
   "unique_name": "sped up songs",

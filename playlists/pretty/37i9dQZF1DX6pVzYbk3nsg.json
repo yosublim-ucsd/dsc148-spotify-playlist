@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 2385,
+  "num_followers": 2390,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2MyZGJmMzMzMjk1OTdlOTVmZWY0Y2Q4NjdmMzE5ZmQ4ZDRkZmJl",
+  "snapshot_id": "MCxhYzgxOWQ1NjFmODRhYTM1MjIwNmFiYmIzMzU3NTZkOGNmNjY5YzE3",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -391,22 +391,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+        "name": "Pal' Mundo",
+        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
       },
       "artists": [
         {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+          "name": "Bomba & Plena",
+          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Palo'e bandera",
-      "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
+      "duration_ms": 229103,
+      "name": "Bombale",
+      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -427,18 +423,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Pal' Mundo",
-        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
       "artists": [
         {
-          "name": "Bomba & Plena",
-          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
         }
       ],
-      "duration_ms": 229103,
-      "name": "Bombale",
-      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
+      "duration_ms": 194760,
+      "name": "Palo'e bandera",
+      "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bombazo",
-        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Afro Boriqua, Director William Cepeda",
-          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
-        }
-      ],
-      "duration_ms": 383000,
-      "name": "Lamento Borincano",
-      "url": "https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "\u00a1Ya est\u00e1! \u00a1Se form\u00f3!",
         "url": "https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 189080,
       "name": "Inyere",
       "url": "https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "duration_ms": 383000,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ"
     },
     {
       "added_at": "2023-06-13 22:15:19",

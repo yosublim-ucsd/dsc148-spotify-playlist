@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Trueno
 
-567 songs - 1 day 8 hr 21 min
+568 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Asi Soy](https://open.spotify.com/track/4UHi7kSI60zA8lHeCk4Yrf) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Asi Soy](https://open.spotify.com/album/1DgUPUAAgrQLV0h6rSVABP) | 3:56 | 2022-01-06 | 2022-01-20 |
 | [Baby Glock](https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA) | 2:45 | 2022-10-07 | 2022-10-23 |
 | [Baby Glock](https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Glock](https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv) | 2:45 | 2022-10-07 | 2022-12-10 |
+| [Baby Schai](https://open.spotify.com/track/0d2g68yDB7sGlxlGGJGDNE) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Baby Schai](https://open.spotify.com/album/6Zv4Gu7o8X8IUPrEHdlEhI) | 3:10 | 2023-08-18 |  |
 | [Baby Schai](https://open.spotify.com/track/1p01JS6Kpbwvizl2VXjkbZ) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Baby Schai](https://open.spotify.com/album/2Wqz2QJ5XyofmG6xqWHAEa) | 3:10 | 2022-10-07 | 2023-08-12 |
 | [Bacanora](https://open.spotify.com/track/1Sn1dtN2rVnOo3cqelNFRb) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Los del Noro](https://open.spotify.com/album/4OM4r8Pzin9wdBpPLPXNep) | 3:31 | 2022-10-07 | 2023-05-27 |
 | [Bajo y Batería](https://open.spotify.com/track/6AvBuucxeCrRJjxNVWKayz) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Bajo y Batería](https://open.spotify.com/album/5GkZHRuXwEoXq9xLlW1bzH) | 9:01 | 2023-07-14 |  |
@@ -127,7 +128,7 @@
 | [Cuanto tiempo pasó](https://open.spotify.com/track/7ix78YkXvHRpCpxy2V943y) | [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ) | [Cuanto tiempo pasó](https://open.spotify.com/album/4uYdQ4yjyf02M9oUeQ8wXd) | 3:13 | 2022-01-19 | 2022-10-08 |
 | [CUENTA](https://open.spotify.com/track/2J19dDdM6nmKDbN4AVJ1R4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:36 | 2022-01-19 | 2022-05-14 |
 | [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 | 2022-01-06 | 2022-01-20 |
-| [Cuídate \(Me Dijo Mi Apá\)](https://open.spotify.com/track/53X6Vbh6y13U0NWvFK4ne2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Cuídate \(Me Dijo Mi Apá\)](https://open.spotify.com/album/6O9Fp2P3j1iW0B8Fbc331L) | 3:07 | 2023-06-09 |  |
+| [Cuídate \(Me Dijo Mi Apá\)](https://open.spotify.com/track/53X6Vbh6y13U0NWvFK4ne2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Cuídate \(Me Dijo Mi Apá\)](https://open.spotify.com/album/6O9Fp2P3j1iW0B8Fbc331L) | 3:07 | 2023-06-09 | 2023-08-23 |
 | [Dale Duro](https://open.spotify.com/track/2i2LSBD8eAINyo9G9nZEfa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Diaz Antes](https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW) | 3:05 | 2022-01-19 | 2022-05-14 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2022-01-06 | 2022-10-08 |
 | [DANCE CRIP](https://open.spotify.com/track/5NtIprYDaflAuu3Pko0rjR) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:45 | 2022-12-09 |  |

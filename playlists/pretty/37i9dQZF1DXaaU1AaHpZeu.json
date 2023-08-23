@@ -1,12 +1,12 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. En portada: Sof\u00eda Campos.",
-  "num_followers": 296652,
+  "num_followers": 296672,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2U0Njg2YzgyNWM1M2M4NWMwZjQ4NDMwZTQ0NDVmMjM0MDc1ZDZl",
+  "snapshot_id": "MCw3NTg1ZjVmY2MxNWU5YzdhNWM0YWJmY2ZiNjkxYzhjOTQxMmM0ZmQz",
   "tracks": [
     {
       "added_at": "2023-08-18 05:45:00",
@@ -654,6 +654,10 @@
         {
           "name": "Jos\u00e9 y el Toro",
           "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        },
+        {
+          "name": "Denas & Miut",
+          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
         }
       ],
       "duration_ms": 165000,

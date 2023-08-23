@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 237 songs - 16 hr 29 min
+[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 239 songs - 16 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,5 +245,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 235 | [The Pale Impotent King](https://open.spotify.com/track/3ZUkvMkkGQ7SLRc92bXSZk) | [Our Common Collapse](https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb) | [The Pale Impotent King](https://open.spotify.com/album/4rLtdk5pm73yz0I8judHsr) | 3:19 |
 | 236 | [Garden Ov Frozen Souls](https://open.spotify.com/track/25JkKQqXv5afG82YWXUUMN) | [Taste of Plague](https://open.spotify.com/artist/4Ws0fLZArWYSqTbkN2dXTn) | [EXODUS 7:17](https://open.spotify.com/album/6n64BIHrTHeqrK53TfTOqt) | 3:03 |
 | 237 | [Boy](https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 3:50 |
+| 238 | [Serpent of Eden](https://open.spotify.com/track/43LpIP9zB2CQ5pCLTyfsYE) | [Reptilian Civilian](https://open.spotify.com/artist/1hNjyYqrL9ktyo8LZFZX9Q) | [Oblitus Scientia](https://open.spotify.com/album/7D8jTrxCZrz5uD65Slnb85) | 3:33 |
+| 239 | [Avarice](https://open.spotify.com/track/5UHmdE56RGE1yiLNZ8OJkH) | [WATCHLIST](https://open.spotify.com/artist/6xjPWlyX9WcVCVjVl4IC9b) | [Avarice](https://open.spotify.com/album/6puhZhHAFEpwd9BFPv31yY) | 3:35 |
 
-Snapshot ID: `MzQ0LGUzZGU2YmFhMTJkNjkzYmI1MGI0M2U1Y2MwNWRiYTc0ZTM5YzJmYjA=`
+Snapshot ID: `MzQ2LGZhZjE5OTgyZWZkMWVjNDI4MDFkMGY1Y2Q5MmEzY2FkNmViNDljYTY=`

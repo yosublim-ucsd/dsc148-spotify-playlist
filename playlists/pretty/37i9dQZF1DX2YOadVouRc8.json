@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 15599,
+  "num_followers": 15638,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTNjNGVhNTc0ZjI0YmFiZDMzYTUzMDYzZGI3YTFkZWFhNDFiZTcw",
+  "snapshot_id": "MCxiMzc0MWE2OGZlMDhhN2RhMDgxMTA5OWZiMDg2MzFjNjMzNmZiNGJh",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -683,22 +683,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         },
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
         }
       ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -719,22 +719,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         },
         {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "ENTA",
-        "url": "https://open.spotify.com/album/4FQD5xomYdmrUI47Y0q3zY"
-      },
-      "artists": [
-        {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        },
-        {
-          "name": "Mamba Sounds",
-          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
-        }
-      ],
-      "duration_ms": 156237,
-      "name": "ENTA",
-      "url": "https://open.spotify.com/track/7DZBsMWWLZizzztPtTGmBC"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 238917,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "ENTA",
+        "url": "https://open.spotify.com/album/4FQD5xomYdmrUI47Y0q3zY"
+      },
+      "artists": [
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        },
+        {
+          "name": "Mamba Sounds",
+          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
+        }
+      ],
+      "duration_ms": 156237,
+      "name": "ENTA",
+      "url": "https://open.spotify.com/track/7DZBsMWWLZizzztPtTGmBC"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Beautiful Lies",
-        "url": "https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY"
-      },
-      "artists": [
-        {
-          "name": "Runda",
-          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
-        }
-      ],
-      "duration_ms": 174964,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Vawulence",
         "url": "https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 132039,
       "name": "Vawulence",
       "url": "https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY"
+      },
+      "artists": [
+        {
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
+        }
+      ],
+      "duration_ms": 174964,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1463,22 +1463,30 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "That Uzere Boy",
-        "url": "https://open.spotify.com/album/67Ba42lVPrFR5NzbuwE3i6"
+        "name": "Better Than This (feat. Tellaman)",
+        "url": "https://open.spotify.com/album/4gXWlYFDwStgusk7cnXv0A"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+          "name": "Select Play",
+          "url": "https://open.spotify.com/artist/5bJTdzjq8dZRcVjJ8FkAiU"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
         }
       ],
-      "duration_ms": 144500,
-      "name": "Gangnam Style",
-      "url": "https://open.spotify.com/track/7wKzYOEaBcSBMHFRR7rUTF"
+      "duration_ms": 234375,
+      "name": "Better Than This (feat. Tellaman)",
+      "url": "https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE"
     }
   ],
   "unique_name": "Chill Bops",

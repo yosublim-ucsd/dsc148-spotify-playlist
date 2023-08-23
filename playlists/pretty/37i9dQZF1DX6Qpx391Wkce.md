@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,104 likes - 69 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,124 likes - 69 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 68 | [Bang the Acid \- Rebanged! \- Original Mix](https://open.spotify.com/track/5ZGxjJJDWEE6JSSINHSOH8) | [Damon Wild](https://open.spotify.com/artist/1Ca2mQbNaKYrz62PT8sRq5), [Tim Taylor \(Missile Records\)](https://open.spotify.com/artist/3SDO9vtI8lg2xandf0TP30) | [Bang the Acid \- Rebanged!](https://open.spotify.com/album/0RPqQ78Bodt48psh7XEYoj) | 7:52 |
 | 69 | [Arrival](https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y) | [Sector II: Acid](https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U) | 7:45 |
 
-Snapshot ID: `MCw2MGJmZTE0OWZjMzZhMDdmYzIwZjQwYjJlNzdmYTI2MGVlYjRhMTA3`
+Snapshot ID: `MCw4NjAyMjI0MDQ5N2JmNjBjNmYxOTYwZGEzYjdjNzllNmY2NDlmYTI2`

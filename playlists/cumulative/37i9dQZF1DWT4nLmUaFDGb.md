@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-230 songs - 14 hr 45 min
+231 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Fire and Rain](https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:02 | 2021-12-21 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2021-12-21 | 2022-12-06 |
 | [From Paris With Love \- Single Version](https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [From Paris With Love](https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH) | 4:48 | 2021-12-21 |  |
-| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-11 |  |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-11 | 2023-08-23 |
 | [Girl from Ipanema](https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW) | [Jonny Blu](https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw) | [The Best of Blu](https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT) | 2:50 | 2021-12-21 |  |
 | [Hallelujah](https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 6:20 | 2022-11-10 |  |
 | [Harvest Moon](https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Fictions](https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3) | 3:05 | 2021-12-21 |  |
@@ -229,6 +229,7 @@
 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 | 2022-10-20 |  |
 | [What Love Will Do to You](https://open.spotify.com/track/4bOsrHAmfULYx4PmkLV7nr) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 2:51 | 2022-08-29 | 2022-10-13 |
 | [What The World Needs Now Is Love](https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:12 | 2022-09-08 |  |
+| [When Wind Fades](https://open.spotify.com/track/1WqC7bXM00cOZpr8PhG8BR) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Blues and Bells](https://open.spotify.com/album/4Fx9vxHmk3yAk8M5o4IP3Y) | 5:07 | 2023-08-22 |  |
 | [Will you still love me tomorrow](https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 4:47 | 2022-08-19 |  |
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2021-12-21 | 2023-08-19 |
 | [You Are My Sunshine](https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Yours](https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM) | 3:34 | 2021-12-21 |  |

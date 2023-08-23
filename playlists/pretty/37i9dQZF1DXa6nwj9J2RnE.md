@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,787 likes - 55 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,784 likes - 55 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 54 | [The Great Hope Design](https://open.spotify.com/track/6D2whKQXHFzQtqPa5BXwPP) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Great Hope Design](https://open.spotify.com/album/02KjMI6Z4XAJALVX9XjcEM) | 5:20 |
 | 55 | [Liar](https://open.spotify.com/track/4bBqtW6tslUJbzmEIKhjhq) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/4szdNUevCiLlpj5BKdZrFd) | 3:54 |
 
-Snapshot ID: `MCxjN2I1M2Y5NzU1OWUxMGQ2M2UwN2FkNDc5MDBiOWZiNGQ4NmUzNjBl`
+Snapshot ID: `MCwxOTFjMTM0ZmYxNjQ2NGY1NDBmMDY2NTU5NWNkNDQ0M2YwYWRjMDM1`

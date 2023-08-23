@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Adrian L Santos en portada.",
-  "num_followers": 56057,
+  "num_followers": 56076,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGNmMjQyZDc4NzZmNzJiNDlhNzU1Yzk2Nzk3ZjQ0NzUxYTVjMzc0",
+  "snapshot_id": "MCw5YjM3NjZlNDlmZjc0NmI0ZGFmNmIzOTA0NDE0MTgyZWZkNTVjNGY3",
   "tracks": [
     {
       "added_at": "2023-08-18 06:00:00",
@@ -84,7 +84,7 @@
       "added_at": "2023-08-18 06:00:00",
       "album": {
         "name": "Los 2 de la S Y Sus Amigos",
-        "url": "https://open.spotify.com/album/0FtcvjbtqVDC64pOq1UJMe"
+        "url": "https://open.spotify.com/album/1daB1drE8UKC2vbKDGadJX"
       },
       "artists": [
         {
@@ -94,7 +94,7 @@
       ],
       "duration_ms": 140283,
       "name": "Sin Escalas",
-      "url": "https://open.spotify.com/track/4YAgZYw2v8wyh5LVNV8Ta1"
+      "url": "https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
+        "name": "Lo Obvio",
+        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Lo Obvio",
+      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
         "name": "TRANQUILE\u00d3N",
         "url": "https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "Lo Obvio",
-        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
-        }
-      ],
-      "duration_ms": 140453,
-      "name": "Lo Obvio",
-      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
         "name": "Mientras Otros Duermen",
         "url": "https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV"
       },
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
         "name": "\u00c1mame",
         "url": "https://open.spotify.com/album/0U36RN0P9awTfozisaj49A"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 199280,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
-        "url": "https://open.spotify.com/album/2hXb1mTtXkbmcZPgJKcUEy"
-      },
-      "artists": [
-        {
-          "name": "Al Tiro de Armando Ramos",
-          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
-        }
-      ],
-      "duration_ms": 148213,
-      "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
-      "url": "https://open.spotify.com/track/2r0llg6rLNN99PaTiAjUA7"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
         "name": "El Ni\u00f1o De La Amapola",
         "url": "https://open.spotify.com/album/1rygGMDNJ46kjKiwRzGC9Y"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 214707,
       "name": "El Ni\u00f1o De La Amapola",
       "url": "https://open.spotify.com/track/76sWBFlOhZeChOSdrAfpCd"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
+        "url": "https://open.spotify.com/album/2hXb1mTtXkbmcZPgJKcUEy"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        }
+      ],
+      "duration_ms": 148213,
+      "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
+      "url": "https://open.spotify.com/track/2r0llg6rLNN99PaTiAjUA7"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "Todas Son Iguales",
-        "url": "https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        },
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 155125,
-      "name": "Todas Son Iguales",
-      "url": "https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
         "name": "La Plebada",
         "url": "https://open.spotify.com/album/2RhK9R4I6t8bdacMbu5Qt6"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 141333,
       "name": "La Plebada",
       "url": "https://open.spotify.com/track/1yGQ5WHIaLboYVm5IRjT0w"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Todas Son Iguales",
+        "url": "https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 155125,
+      "name": "Todas Son Iguales",
+      "url": "https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "No He Parado",
-        "url": "https://open.spotify.com/album/0fTbXfGHSfS0Aq8JCqysdZ"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        },
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 143172,
-      "name": "No He Parado",
-      "url": "https://open.spotify.com/track/5JiK07lh0kf80tyy1d9j9S"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
         "name": "Respaldo y Apoyo",
         "url": "https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS"
       },
@@ -959,6 +939,26 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
+        "name": "Mi Peor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        },
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Mi Peor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco"
       },
@@ -971,6 +971,26 @@
       "duration_ms": 129132,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "No He Parado",
+        "url": "https://open.spotify.com/album/0fTbXfGHSfS0Aq8JCqysdZ"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 143172,
+      "name": "No He Parado",
+      "url": "https://open.spotify.com/track/5JiK07lh0kf80tyy1d9j9S"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -1011,26 +1031,6 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "Mi Peor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        },
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Mi Peor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
         "name": "Sencillito Y Serenito",
         "url": "https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "Rolitas De Oro",
-        "url": "https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 258500,
-      "name": "Juan Ayon",
-      "url": "https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
         "name": "Yo No Creo En Los Hombres",
         "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 215893,
       "name": "Yo No Creo En Los Hombres",
       "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Rolitas De Oro",
+        "url": "https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 258500,
+      "name": "Juan Ayon",
+      "url": "https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "\u00daltimo Chance",
-        "url": "https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 174085,
-      "name": "\u00daltimo Chance",
-      "url": "https://open.spotify.com/track/1nFyCntHHgelFWP733CykV"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
         "name": "7 Dias",
         "url": "https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 158953,
       "name": "7 D\u00edas",
       "url": "https://open.spotify.com/track/2VkO0XzFaHd6KCSFtFgth2"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "\u00daltimo Chance",
+        "url": "https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "\u00daltimo Chance",
+      "url": "https://open.spotify.com/track/1nFyCntHHgelFWP733CykV"
     },
     {
       "added_at": "2023-08-18 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,682 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,067 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 86 | [Revolution](https://open.spotify.com/track/5hSpfqVboiNEo4MCiy2VDG) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Revolution](https://open.spotify.com/album/4XVPDM5zdjNY6ovteechd6) | 3:10 |
 | 87 | [The Mercury](https://open.spotify.com/track/0vNTlunI1KuAEM9N1bqH13) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Turnpike Troubadours](https://open.spotify.com/album/46EPywakNshyqPm3KFUYpQ) | 3:43 |
 | 88 | [Me And Jack](https://open.spotify.com/track/6dHvwnHL84SuSbzzzZGbVP) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 4:51 |
-| 89 | [Where Do Ya Want It\_](https://open.spotify.com/track/3vNkxik5j3ZhlNl7OxdiSW) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan & The 78's](https://open.spotify.com/album/2KxxeQ7BWmAoR2fsVSmgPQ) | 2:45 |
+| 89 | [Where Do Ya Want It?](https://open.spotify.com/track/3kG21GP4PKVI168t73zCNK) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan and the 78's](https://open.spotify.com/album/39ZqxSOaYkHMlKaTW2iQxs) | 2:45 |
 | 90 | [Gasoline](https://open.spotify.com/track/7GPTK0ueaymxm8UUvYyP2l) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Gasoline](https://open.spotify.com/album/4DtfJUBNYhBvh9ahqIsKsd) | 3:59 |
 | 91 | [Sleeping Dogs](https://open.spotify.com/track/0BPpBlrPuiFEzkQAAOAdez) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 3:22 |
 | 92 | [Party Like You](https://open.spotify.com/track/30tNJbzSwy4FGyOJu4cD86) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Bury Me In My Boots \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3UpMLqTSQhzYPunjM1oFYW) | 3:07 |
@@ -173,7 +173,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 163 | [Trouble About My Soul](https://open.spotify.com/track/1fWovgVlN08wWILfV41dMC) | [The Trishas](https://open.spotify.com/artist/4QM4r0qNvLsHzP5VbDKjfp) | [They Call Us The Trishas](https://open.spotify.com/album/2rFhGGBoUxpPUpmZ3Xg4HJ) | 3:35 |
 | 164 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
 | 165 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
-| 166 | [Bad News](https://open.spotify.com/track/0FkCbt8AiKnj7HRrS2R2Hi) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan & The 78's](https://open.spotify.com/album/2KxxeQ7BWmAoR2fsVSmgPQ) | 5:17 |
+| 166 | [Bad News](https://open.spotify.com/track/6LoM9k42hBelhv1kovisRf) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan and the 78's](https://open.spotify.com/album/39ZqxSOaYkHMlKaTW2iQxs) | 5:17 |
 | 167 | [Goodbye Yesterday](https://open.spotify.com/track/04iseOYZpM3KCs70RMcdrj) | [Shaver](https://open.spotify.com/artist/0New046QPZ5XWHSKM6Rh24) | [Highway Of Life](https://open.spotify.com/album/4JnZDcTBPhJaSIzubpThXg) | 3:12 |
 | 168 | [Howlin at the Moon](https://open.spotify.com/track/6KkTEaHcD5rXG4cVjWjbWn) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Said a Prayer Twice for Both My Faces](https://open.spotify.com/album/6RtPOOl6JCef0oAp4MzSij) | 3:11 |
 | 169 | [Got Me in a Bind](https://open.spotify.com/track/7lliqDwZXHNTlybH9xVpKv) | [Rusty Tinder](https://open.spotify.com/artist/79s4Fgcxjwfw0qZzRzlWoB) | [Dear to You](https://open.spotify.com/album/6D8oAXAZESjYE011oxXC8M) | 3:32 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MCw0OGQyNGE1OTA0ZWE0Yjc4Mjg3MTJmNDFiYjJhMzc0NmFmYzk0MmI4`
+Snapshot ID: `MCxjMzdiMTQwNjIxNzM3ZTQwODdkZDNkMDE4OGRhOGVkNTUxOGEwOTgw`

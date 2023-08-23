@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6539\)
+## Playlists \(6541\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1235,7 +1235,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Cornerstones](/playlists/pretty/37i9dQZF1DWZCJsgK4Sw8Y.md)
 - [Corona Capital Forever](/playlists/pretty/37i9dQZF1DX0U9tAmY58zt.md)
 - [Corre con Rock](/playlists/pretty/37i9dQZF1DX8ucVJaqqjpS.md)
-- [Corridistas](/playlists/pretty/37i9dQZF1DWXjOlK5exuVE.md)
 - [Corridos 2023](/playlists/pretty/37i9dQZF1DWWX93cOoPbrf.md)
 - [Corridos 2023 \(2\)](/playlists/pretty/37i9dQZF1DX5471jEhaq8X.md)
 - [Corridos Alterados](/playlists/pretty/37i9dQZF1DXaRkwbkfuyXo.md)
@@ -2053,6 +2052,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Gentle Classical](/playlists/pretty/37i9dQZF1DX7cBprxbt1Fn.md)
 - [Gentle Focus](/playlists/pretty/37i9dQZF1DXabek8EJisVH.md)
 - [Gentle Jazz Saxophone](/playlists/pretty/37i9dQZF1DWXBvLQJVrYDy.md)
+- [Gentle Pilates](/playlists/pretty/37i9dQZF1DX0cwElyqFJT8.md)
 - [Gentle Rains](/playlists/pretty/37i9dQZF1DX2mFmJUZg4Mp.md)
 - [Gentle Waves](/playlists/pretty/37i9dQZF1DX3f9U3gq0DBT.md)
 - [Get Chores Done](/playlists/pretty/37i9dQZF1DXdVbxH0H5oTi.md)
@@ -2740,6 +2740,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [La Reina: Éxitos de la Música Mexicana](/playlists/pretty/37i9dQZF1DX905zIRtblN3.md)
 - [La Serenata](/playlists/pretty/37i9dQZF1DX127GJMzd1vB.md)
 - [La Tamalera](/playlists/pretty/37i9dQZF1DWZjpQgC7Wtwz.md)
+- [La Tierra del Corrido](/playlists/pretty/37i9dQZF1DWXjOlK5exuVE.md)
 - [La Troca](/playlists/pretty/37i9dQZF1DX2pFh4sRdmEB.md)
 - [La Vida Loca](/playlists/pretty/37i9dQZF1DWXHyhanaNMoy.md)
 - [La littérature française](/playlists/pretty/37i9dQZF1DX8pbyATDkUwW.md)
@@ -3250,6 +3251,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Nasty Bits](/playlists/pretty/37i9dQZF1DX2VvACCrgjrt.md)
 - [National Blood Week](/playlists/pretty/2y74Ha0ztRUcIYmqITh0D4.md)
 - [Nature Noise](/playlists/pretty/37i9dQZF1DWUKPeBypcpcP.md)
+- [Nature Pilates](/playlists/pretty/37i9dQZF1DWXesyyGl5sNw.md)
 - [Nature Relaxation](/playlists/pretty/37i9dQZF1DX2DjEOgyULQF.md)
 - [Nature Sounds](/playlists/pretty/37i9dQZF1DX4PP3DA4J0N8.md)
 - [Nature Stroll](/playlists/pretty/37i9dQZF1DWVnmlNqZsMNa.md)

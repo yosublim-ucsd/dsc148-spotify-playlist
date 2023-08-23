@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-221 songs - 16 hr 2 min
+222 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [무한지애](https://open.spotify.com/track/65wO72NHw8YmV6Il8je0Ml) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [Change](https://open.spotify.com/album/1qfwLENLIMv3t3m6Rcnf7n) | 4:30 | 2021-04-21 |  |
 | [밀리언조각 A Million Pieces](https://open.spotify.com/track/55GUJw0zEtfcjxjkwl8GL5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Fall, Once again \- The 2nd Mini Album](https://open.spotify.com/album/3fIvs6taFrgHDXIG7E6XZP) | 5:12 | 2021-04-21 |  |
 | [바보](https://open.spotify.com/track/6GyrI9HEVZSc4XUQeg3Mi8) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [해줄 수 없는 일](https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN) | 4:42 | 2021-04-21 |  |
-| [발걸음 \(신명난다 에헤라디오\)](https://open.spotify.com/track/0FOiUOw5sd51lVt6DnNP6R) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Mask Singer 74th \(Live Version\)](https://open.spotify.com/album/42vi4SG1yDLnmiXuVfQokP) | 4:22 | 2021-04-21 |  |
+| [발걸음 \(신명난다 에헤라디오\)](https://open.spotify.com/track/2gMIKHj6ITSlHRXVDL219w) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Mask Singer 74th \(Live Version\)](https://open.spotify.com/album/2WBKnRY6UZ6bVjCvOU1frS) | 4:22 | 2021-04-21 |  |
+| [발걸음 \(신명난다 에헤라디오\)](https://open.spotify.com/track/0FOiUOw5sd51lVt6DnNP6R) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Mask Singer 74th \(Live Version\)](https://open.spotify.com/album/42vi4SG1yDLnmiXuVfQokP) | 4:22 | 2021-04-21 | 2023-08-23 |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2021-04-21 |  |
 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [Ali](https://open.spotify.com/artist/5QeXARPcuiXETSB2iPhaup) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 | 2021-04-21 |  |
 | [보고싶다 \(From\. "드라마 천국의 계단"\)](https://open.spotify.com/track/2ES5x2KyfEeyplKPW0hkA5) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [인연](https://open.spotify.com/album/4tNYcoG7KmE4toxCvnHKQA) | 4:03 | 2021-04-21 |  |

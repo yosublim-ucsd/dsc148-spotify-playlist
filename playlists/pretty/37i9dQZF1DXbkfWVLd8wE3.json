@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 161284,
+  "num_followers": 161529,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTI0ODdiZTNlOWQ1YjAyMDI0ZGMwZTQyOGJmMGI5NzVjMTE2YjBh",
+  "snapshot_id": "MCxkZTNhYjBlMWYzOTliMjVkMTc3Nzc4NDliNzA2MmYzMjlkNTNkMGI4",
   "tracks": [
     {
       "added_at": "2023-08-21 04:00:00",
@@ -1152,17 +1152,13 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Talent",
+          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
         }
       ],
-      "duration_ms": 284480,
-      "name": "California Love - Original Version",
-      "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
+      "duration_ms": 268960,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1215,6 +1211,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3"
+      },
+      "artists": [
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/7zg9ZSOQtYLjWnvSawflg6"
       },
@@ -1235,22 +1247,6 @@
       "duration_ms": 191600,
       "name": "Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1YQ7BbJR8HqAolfprvxGKu"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3"
-      },
-      "artists": [
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1316,13 +1312,17 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Talent",
-          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         }
       ],
-      "duration_ms": 268960,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF"
+      "duration_ms": 284480,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Greatest Hits with a Twist - Deluxe Edition",
-        "url": "https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Ruff Ryders' Anthem - Re-Recorded",
-      "url": "https://open.spotify.com/track/32SFvZODywPBVDYSYtqxCj"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Internal Affairs",
         "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 173373,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Greatest Hits with a Twist - Deluxe Edition",
+        "url": "https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Ruff Ryders' Anthem - Re-Recorded",
+      "url": "https://open.spotify.com/track/32SFvZODywPBVDYSYtqxCj"
     },
     {
       "added_at": "2023-03-07 08:01:20",

@@ -2945,6 +2945,24 @@
     },
     {
       "album": {
+        "name": "Classical Current",
+        "url": "https://open.spotify.com/album/2KZIJx4RtZ1seAa6pa6ugl"
+      },
+      "artists": [
+        {
+          "name": "Laurindo Almeida",
+          "url": "https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170790,
+      "name": "The Lamp Is Low",
+      "url": "https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo"
+    },
+    {
+      "album": {
         "name": "Northern Rooms",
         "url": "https://open.spotify.com/album/1KKp6eBkErHQ6V04jWfqPR"
       },

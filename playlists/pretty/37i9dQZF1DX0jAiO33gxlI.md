@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Planet Hemp
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,462 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,496 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Insônia 2](https://open.spotify.com/track/7tITqCiDuMqKfWhibaF8V7) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Insônia 2](https://open.spotify.com/album/5pOhKRO8Ul0eyBzMGviWHU) | 4:27 |
 | 75 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 |
 
-Snapshot ID: `MCxhYzU3ZTJmM2E1YjZjZWUwYjY3NDNjOGVlYjVlNDcwZWE4ODA4ZmFj`
+Snapshot ID: `MCxhM2I0NzFjM2UxODJhZDUzMjIyZDRjNTBjYmVkNjc5ZTY0MDk0MTMx`

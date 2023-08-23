@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,172 likes - 25 songs - 1 hr 37 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,173 likes - 25 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 |
 | 2 | [airport](https://open.spotify.com/track/0hdWD4sMQuVYCdK274CVLm) | [awakebutstillinbed](https://open.spotify.com/artist/0NvYpRJfbFyOI4QdsLJ1Jw) | [airport / redlight](https://open.spotify.com/album/3YOHrL5g92ogsNZ73rzjhe) | 3:11 |
 | 3 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/5AXCGDpDg4rOdf3xg2Y939) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hope is a Dangerous Little Thing](https://open.spotify.com/album/13JTf9C01ApbfehYZoc7lX) | 3:12 |
-| 4 | [True Hardcore \(II\)](https://open.spotify.com/track/2WVfNHqhQTrvRReSXKckVV) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa), [Justice Tripp](https://open.spotify.com/artist/1lpi0BJoJv6n2GotX1K0NE) | [Death is Nothing to Us](https://open.spotify.com/album/3VAS3XDxovzScTloSDxMo7) | 2:34 |
+| 4 | [True Hardcore \(II\)](https://open.spotify.com/track/2WVfNHqhQTrvRReSXKckVV) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Death is Nothing to Us](https://open.spotify.com/album/3VAS3XDxovzScTloSDxMo7) | 2:34 |
 | 5 | [Go](https://open.spotify.com/track/1U7h6Lcd9N2tDet2CcXBeC) | [Thrash Palace](https://open.spotify.com/artist/7JiVSTMvYTGq6aw3l6azPj), [Vice Cooler](https://open.spotify.com/artist/3r77bYrD1XaR2AJT4bgfhe), [EMA](https://open.spotify.com/artist/0MT8Af4BlhE02l91O6cfyQ), [Sarah Register](https://open.spotify.com/artist/6W881Kbgid7iFFQ6l0TKoW) | [Go](https://open.spotify.com/album/3gKAtHhyCqKZxCOaPJBIMY) | 3:02 |
 | 6 | [Love Dies](https://open.spotify.com/track/7ktZBeIXXNTpvj2FVedrEt) | [Amor Muere](https://open.spotify.com/artist/6nrwVCgpbdrOfGiu8A0tVh) | [Love Dies](https://open.spotify.com/album/3OfJa55qFlmmI1PknUcjmk) | 5:58 |
 | 7 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Rats \(with Sukihana\)](https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx) | 2:55 |

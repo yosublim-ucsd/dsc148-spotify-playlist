@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 694458,
+  "num_followers": 694553,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2IzZjY3MDEzYTJkZjc5NzM2ZmY1ZjE3Yzg3MjNjOTA5ZDdiYjcy",
+  "snapshot_id": "MCwwYmYyOTNiNjdlNzI0ZDYyOWRhM2NkNTg5ZDdhNTliYWFjMDZmMTYy",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -527,42 +527,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Ao Cubo, Ao Vivo, Em Cores",
-        "url": "https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 184107,
-      "name": "50 Vezes - Ao Vivo",
-      "url": "https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Ao Vivo Em Bras\u00edlia (Deluxe)",
-        "url": "https://open.spotify.com/album/2pHdbp86D4AfZkSu3MVHTg"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Cuida Bem Dela - Ao Vivo",
-      "url": "https://open.spotify.com/track/0T6QwkFrB2czW5DWj531rQ"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "O Alvo (feat. Henrique & Juliano) [Ao Vivo]",
         "url": "https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv"
       },
@@ -583,6 +547,42 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Ao Vivo Em Bras\u00edlia (Deluxe)",
+        "url": "https://open.spotify.com/album/2pHdbp86D4AfZkSu3MVHTg"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cuida Bem Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/0T6QwkFrB2czW5DWj531rQ"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Ao Cubo, Ao Vivo, Em Cores",
+        "url": "https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 184107,
+      "name": "50 Vezes - Ao Vivo",
+      "url": "https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 203894,
-      "name": "Pra voc\u00ea acreditar - Ao vivo",
-      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
+      "duration_ms": 204681,
+      "name": "Sinto sua falta - Ao vivo",
+      "url": "https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 204681,
-      "name": "Sinto sua falta - Ao vivo",
-      "url": "https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ"
+      "duration_ms": 203894,
+      "name": "Pra voc\u00ea acreditar - Ao vivo",
+      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
     },
     {
       "added_at": "2023-02-10 03:01:00",

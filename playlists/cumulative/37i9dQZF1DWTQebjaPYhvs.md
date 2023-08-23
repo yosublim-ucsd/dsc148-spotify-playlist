@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-210 songs - 13 hr 8 min
+212 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Ashokan Farewell](https://open.spotify.com/track/2VjV3PRfThNjqmQg2Y8g4j) | [Jay Ungar](https://open.spotify.com/artist/54jNT6jMGDoxMSBzUDEYSB), [Evan Stover](https://open.spotify.com/artist/1v1YI1e2nv1MFe19mzaafR), [Matt Glaser](https://open.spotify.com/artist/4WYC1ZsXyTC8Jl6ovNMTju), [Molly Mason](https://open.spotify.com/artist/0fJwKh1jYgT5Fz6PzplBsv), [Russ Barenberg](https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF) | [The Civil War \(Original Soundtrack Recording\)](https://open.spotify.com/album/4gPnnu4X6iNApPtW9J9kQe) | 4:04 | 2019-06-27 |  |
 | [Axe](https://open.spotify.com/track/4WCe8syCgpfxGb3KFCvBWk) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:16 | 2019-08-15 |  |
 | [Baby I Lost My Way, \(But I'm Going Home\)](https://open.spotify.com/track/4sithGopG72uyw6LrLsgiu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 2:55 | 2019-06-27 |  |
-| [Bad News](https://open.spotify.com/track/0FkCbt8AiKnj7HRrS2R2Hi) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan & The 78's](https://open.spotify.com/album/2KxxeQ7BWmAoR2fsVSmgPQ) | 5:17 | 2019-06-27 |  |
+| [Bad News](https://open.spotify.com/track/0FkCbt8AiKnj7HRrS2R2Hi) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan & The 78's](https://open.spotify.com/album/2KxxeQ7BWmAoR2fsVSmgPQ) | 5:17 | 2019-06-27 | 2023-08-23 |
+| [Bad News](https://open.spotify.com/track/6LoM9k42hBelhv1kovisRf) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan and the 78's](https://open.spotify.com/album/39ZqxSOaYkHMlKaTW2iQxs) | 5:17 | 2019-06-27 |  |
 | [Beat Me Down](https://open.spotify.com/track/66TnITezi0MRbIX05dJpst) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Given](https://open.spotify.com/album/2e8UYAlw0dppcUS3goQTD4) | 3:41 | 2022-01-03 |  |
 | [Black Sheep](https://open.spotify.com/track/22464WVrCJhVdlbf3vbZOq) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Black Sheep](https://open.spotify.com/album/4xAR5nTV1KSA3Yh7AnYzXV) | 3:21 | 2021-11-08 |  |
 | [Blind Lover](https://open.spotify.com/track/1f72vbvydI4QBoeLasXFF6) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:17 | 2021-11-15 |  |
@@ -203,7 +204,8 @@
 | [West Texas in My Eye](https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Panhandlers](https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R) | 3:08 | 2021-12-06 |  |
 | [What Comes Naturally](https://open.spotify.com/track/3oxUhV9MXOusOMpKqdiHl0) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:21 | 2019-06-27 |  |
 | [What Cowboys Do](https://open.spotify.com/track/7Hle5ryHW10GCpkE8pxlpx) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:50 | 2020-07-13 |  |
-| [Where Do Ya Want It\_](https://open.spotify.com/track/3vNkxik5j3ZhlNl7OxdiSW) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan & The 78's](https://open.spotify.com/album/2KxxeQ7BWmAoR2fsVSmgPQ) | 2:45 | 2020-07-13 |  |
+| [Where Do Ya Want It?](https://open.spotify.com/track/3kG21GP4PKVI168t73zCNK) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan and the 78's](https://open.spotify.com/album/39ZqxSOaYkHMlKaTW2iQxs) | 2:45 | 2020-07-13 |  |
+| [Where Do Ya Want It\_](https://open.spotify.com/track/3vNkxik5j3ZhlNl7OxdiSW) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan & The 78's](https://open.spotify.com/album/2KxxeQ7BWmAoR2fsVSmgPQ) | 2:45 | 2020-07-13 | 2023-08-23 |
 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 | 2019-07-11 |  |
 | [Whiskey Fever](https://open.spotify.com/track/4AcIVgQDyBdLtfJyho29Mj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:32 | 2022-11-14 |  |
 | [White Trash Story](https://open.spotify.com/track/1KsNjuNa1e7AI2ySXYEceW) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [15 Years, the Wild Ride](https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW) | 3:48 | 2019-08-08 |  |

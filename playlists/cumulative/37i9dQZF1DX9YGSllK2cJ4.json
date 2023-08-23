@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "A Windless Night",
+        "url": "https://open.spotify.com/album/0r95YU3ymt2kH8tXBrg2AC"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144362,
+      "name": "A Windless Night",
+      "url": "https://open.spotify.com/track/04UhIAPoW2hKtnyzcDyLAW"
+    },
+    {
+      "album": {
         "name": "A World Without Pain",
         "url": "https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw"
       },
@@ -2352,6 +2370,24 @@
       "duration_ms": 170207,
       "name": "Lavandula",
       "url": "https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z"
+    },
+    {
+      "album": {
+        "name": "le doute",
+        "url": "https://open.spotify.com/album/2rLa1N2EayashFihwQA7cM"
+      },
+      "artists": [
+        {
+          "name": "Emile Franck",
+          "url": "https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165658,
+      "name": "le doute",
+      "url": "https://open.spotify.com/track/1xdredrpFZpjfRn2xWBjs8"
     },
     {
       "album": {

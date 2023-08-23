@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83ZswDLVXae.md) - [plain]
 
 > The top hits coming out of the G.O.O.D\. camp with <a href="spotify:artist:5K4W6rqBFWDnAN6FQUkS6x">Yeezy</a> at the helm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,337 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,316 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83ZswDLVXae.md) - [plain]
 | 72 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 |
 | 73 | [Be \(Intro\)](https://open.spotify.com/track/11aFVmFy8903RwDx4ohQiq) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 2:24 |
 
-Snapshot ID: `MCxlMzZkYjFlNGVkZjliNjlkNDk0MTg4OTA5ZTIwZDA1NjU3NzBiZmE5`
+Snapshot ID: `MCxlNzlkYjY1YmFhNDY4YWVlMjZiYWEyYjMzYWQwZjVlOWY1ODdjYTg4`

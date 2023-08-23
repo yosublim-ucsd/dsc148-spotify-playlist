@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
-> Electronic + Dance making waves, every month.
+> Electronic + Dance making waves, every month\. Cover: HoneyLuv & Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,994 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,008 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 74 | [Party All Night Long](https://open.spotify.com/track/5qnwoviJNQzB7VepePEGdI) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [P.J\. Classics ep](https://open.spotify.com/album/7J9OztpoSi0hYJAH6qzPeV) | 6:15 |
 | 75 | [Work That Body](https://open.spotify.com/track/1h3LHD3iDbP4MGYNeQG4N5) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 6:42 |
 
-Snapshot ID: `MCw2YWYwZmY3MjNhNmVkNmFiYzNjMzhmODg1YTQ5YzhjOGZhZWY5N2Vm`
+Snapshot ID: `MCxjYzBmYTliNzg3Y2YzMmNkMGMwNWQxMjY4MzJiM2Y5Y2IzMWMxN2Uy`

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 233246,
       "name": "A Man I Know",
       "url": "https://open.spotify.com/track/4Abirka1cnsMtWOMhpwKx5"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 257519,
       "name": "Agape",
       "url": "https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 198000,
       "name": "bye bye",
       "url": "https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 208448,
       "name": "Double Shifts",
       "url": "https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 272586,
       "name": "Fly Like an Eagle",
       "url": "https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 217349,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5UGsdm9LW7qzoOKuwFtFjT"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 159706,
       "name": "Il y a",
       "url": "https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 226858,
       "name": "In Good Time",
       "url": "https://open.spotify.com/track/1L0mzC9gGFjYhnW5fuWaCX"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 213373,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 236910,
       "name": "Long Live the (D)Evil",
       "url": "https://open.spotify.com/track/7LSQYhyOhooiBpDva8AJaC"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 292186,
       "name": "Magnetised - Acoustic",
       "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 189586,
       "name": "No Other Way",
       "url": "https://open.spotify.com/track/1jnnieDkF1hOlRil2Sgv9i"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 229464,
       "name": "Talk to Me - Live",
       "url": "https://open.spotify.com/track/07XDzVJcwPqKoDqUjUNJ6V"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 297720,
       "name": "The Sweet Sound of You",
       "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 253013,
       "name": "Youth",
       "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"

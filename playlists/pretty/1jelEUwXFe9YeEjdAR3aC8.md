@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 ### [Indie Chill](https://open.spotify.com/playlist/1jelEUwXFe9YeEjdAR3aC8)
 
-> Chill indie music\. Cover: Reneé Rapp
+> Chill indie music\. Cover: kenzie
 
-[Digster](https://open.spotify.com/user/digster.fm) - 114,185 likes - 50 songs - 2 hr 39 min
+[Digster](https://open.spotify.com/user/digster.fm) - 114,183 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 | 49 | [Lay Back](https://open.spotify.com/track/3S5sZTJrd1ESMnSjJu4yGL) | [Sea Glass](https://open.spotify.com/artist/3PvMAUXRI1D4NjpDrjBNRw), [Sky Adler](https://open.spotify.com/artist/7tBYbT4opzICINZB2JNCYX) | [Lay Back](https://open.spotify.com/album/5YkJZQjeiss1nlD2iXXzha) | 2:56 |
 | 50 | [Let Me Down \(with Chelsea Cutler\)](https://open.spotify.com/track/0ulm3WgGZsMAgwwv0Zg00W) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Let Me Down](https://open.spotify.com/album/30hk8tSh4WijrOfesqXZLx) | 2:29 |
 
-Snapshot ID: `NzkwMixmMzNiNzI2M2QxYWY2NWY0MmIzY2VlYTllOTlhZDIxNGRjYzBjNmIw`
+Snapshot ID: `NzkwNSxmMjY2YmQyYTgyMzM1NzBkNzFiMGYzYzg1MDJhYmYwMjA3MDhiZTk3`

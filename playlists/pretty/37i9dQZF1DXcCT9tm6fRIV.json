@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 236879,
+  "num_followers": 236922,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjAwNjY3NjlkN2Y1NDE3M2VlNzc1OGFjOTZmMjMzOWY1YzEyMDFj",
+  "snapshot_id": "MCwxOGU1NDQwY2E5YjRkNzJiMDMzOTMxMzcwYTY4NmVmMDRjY2ViZDBk",
   "tracks": [
     {
       "added_at": "2023-08-11 14:54:57",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "El Album Blanco",
-        "url": "https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
-        }
-      ],
-      "duration_ms": 208120,
-      "name": "Los Cosos De Al Lao",
-      "url": "https://open.spotify.com/track/1PiqZsBwsN50pZ7NCRmCd9"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "Vientos del Sur",
         "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 198437,
       "name": "Siempre Se Vuelve a Buenos Aires",
       "url": "https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "El Album Blanco",
+        "url": "https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
+        }
+      ],
+      "duration_ms": 208120,
+      "name": "Los Cosos De Al Lao",
+      "url": "https://open.spotify.com/track/1PiqZsBwsN50pZ7NCRmCd9"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Pucherito de gallina",
-        "url": "https://open.spotify.com/album/6531ccbkg5uE09HQ7KSBsm"
+        "name": "El Mundo De La Fantas\u00eda",
+        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
       },
       "artists": [
         {
-          "name": "Rodrigo de la Serna y El Yotivenco",
-          "url": "https://open.spotify.com/artist/7aIqwTieeHhRsxuZbzqv8A"
+          "name": "Cacho Casta\u00f1a",
+          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
         }
       ],
-      "duration_ms": 147173,
-      "name": "Pucherito de gallina",
-      "url": "https://open.spotify.com/track/5MAM9qZtv56hTZUA5881LR"
+      "duration_ms": 207746,
+      "name": "El Mundo De La Fantas\u00eda",
+      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "El Mundo De La Fantas\u00eda",
-        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
+        "name": "Pucherito de gallina",
+        "url": "https://open.spotify.com/album/6531ccbkg5uE09HQ7KSBsm"
       },
       "artists": [
         {
-          "name": "Cacho Casta\u00f1a",
-          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
+          "name": "Rodrigo de la Serna y El Yotivenco",
+          "url": "https://open.spotify.com/artist/7aIqwTieeHhRsxuZbzqv8A"
         }
       ],
-      "duration_ms": 207746,
-      "name": "El Mundo De La Fantas\u00eda",
-      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
+      "duration_ms": 147173,
+      "name": "Pucherito de gallina",
+      "url": "https://open.spotify.com/track/5MAM9qZtv56hTZUA5881LR"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche",
-        "url": "https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8"
-      },
-      "artists": [
-        {
-          "name": "Roberto Goyeneche",
-          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
-        },
-        {
-          "name": "Baffa-Berlingieri y su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/66hLRrlcZqU3Im4q5rUh86"
-        }
-      ],
-      "duration_ms": 176880,
-      "name": "Pompas De Jab\u00f3n",
-      "url": "https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 224746,
       "name": "Mariposita - En Vivo",
       "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche",
+        "url": "https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8"
+      },
+      "artists": [
+        {
+          "name": "Roberto Goyeneche",
+          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
+        },
+        {
+          "name": "Baffa-Berlingieri y su Orquesta T\u00edpica",
+          "url": "https://open.spotify.com/artist/66hLRrlcZqU3Im4q5rUh86"
+        }
+      ],
+      "duration_ms": 176880,
+      "name": "Pompas De Jab\u00f3n",
+      "url": "https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Castiellos",
-        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
-      },
-      "artists": [
-        {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        },
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        }
-      ],
-      "duration_ms": 241546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
         "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
@@ -943,18 +923,22 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Tinta Roja",
-        "url": "https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4"
+        "name": "Castiellos",
+        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
       },
       "artists": [
         {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        },
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
         }
       ],
-      "duration_ms": 188854,
-      "name": "Tinta Roja",
-      "url": "https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W"
+      "duration_ms": 241546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -971,6 +955,22 @@
       "duration_ms": 148093,
       "name": "Adi\u00f3s Muchachos",
       "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "Tinta Roja",
+        "url": "https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 188854,
+      "name": "Tinta Roja",
+      "url": "https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "70 A\u00f1os de Tango",
-        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
-      },
-      "artists": [
-        {
-          "name": "Roberto Siri",
-          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Quiero Verte una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "Piazzolla & Amelita Baltar",
         "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 276093,
       "name": "Las Ciudades",
       "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "70 A\u00f1os de Tango",
+        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
+      },
+      "artists": [
+        {
+          "name": "Roberto Siri",
+          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Quiero Verte una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
         "name": "Doce Milongas de Amor y un Tango Desesperado",
         "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 190438,
       "name": "Barrio de Tango",
       "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Tal vez ser\u00e0 su voz",
-        "url": "https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Orquesta El Arranque",
-          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Tal vez sera su voz",
-      "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 167200,
       "name": "Barrio de Tango - En Vivo",
       "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "Tal vez ser\u00e0 su voz",
+        "url": "https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "Tal vez sera su voz",
+      "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
     },
     {
       "added_at": "2023-08-11 14:54:57",

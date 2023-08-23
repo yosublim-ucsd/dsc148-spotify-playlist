@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Tito Nieves, Gilberto Santa Rosa
 
-138 songs - 10 hr 13 min
+139 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/5GOgQXy7zr7eawDcg42BQM) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Díselo](https://open.spotify.com/album/2g6mTpjzPug3VtyedEfMVJ) | 5:28 | 2022-08-12 | 2023-01-18 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/5npRVbAfQveZ57Od4e1j66) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Díselo](https://open.spotify.com/album/05El2xzVkxnnXhb5OBsSWd) | 5:28 | 2022-05-13 | 2022-09-30 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/7L4NlPfnt1MNc3hsgDQPqX) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6zqCAOy9YS9W4J2v4kaZOY) | 5:28 | 2023-01-13 |  |
+| [The Reason \- Latin Version](https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 | 2023-08-22 |  |
 | [Tocando el Cielo Con las Manos](https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4) | 4:47 | 2022-10-07 | 2023-02-04 |
 | [Tu Falta de Querer](https://open.spotify.com/track/5AQ5u6zEpcHqwnTuYFesR9) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Nuestra Historia](https://open.spotify.com/album/4BBYd00knrYeFnPDSwQ23l) | 5:01 | 2022-05-13 | 2022-07-29 |
 | [Tu Falta de Querer](https://open.spotify.com/track/5EUDROV3ETbVvnafg0OhRf) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Nuestra Historia](https://open.spotify.com/album/6RhQ9HgfpUi5U0mzeCzosW) | 5:02 | 2022-07-15 |  |
@@ -145,6 +146,6 @@
 | [Ya No Te Amo](https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Ya No Te Amo](https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM) | 3:56 | 2023-03-03 | 2023-04-28 |
 | [Ya para Que](https://open.spotify.com/track/3dzX3gSpIkQPFID4CcdrGN) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo) | [Rendido Ante Ti](https://open.spotify.com/album/6YQbz2amnceEATuoen42u0) | 4:03 | 2022-07-15 |  |
 | [Ya para qué](https://open.spotify.com/track/6o9LsVJ2wmVS26HIKsxBIL) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo) | [Rendido ante ti](https://open.spotify.com/album/4xPuNmZW2uIj067i75SIhm) | 4:03 | 2022-05-13 | 2022-07-29 |
-| [Ya Te Olvidé](https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Ya Te Olvidé](https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0) | 4:15 | 2023-04-27 |  |
+| [Ya Te Olvidé](https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Ya Te Olvidé](https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0) | 4:15 | 2023-04-27 | 2023-08-23 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

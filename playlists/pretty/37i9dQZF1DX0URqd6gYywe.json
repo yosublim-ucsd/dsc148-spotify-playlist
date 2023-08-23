@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 85595,
+  "num_followers": 85688,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTViMjc2YjQ0NDkxMmVjMGFhZDk5ZWJkMzg3ZGUxYjBhZmVlMDdj",
+  "snapshot_id": "MCxmMjEzMjg4ZDc3YjYyNDM3YzFlNzYzYTRhZWNjOTVjZDdiNzc2MmFk",
   "tracks": [
     {
       "added_at": "2023-08-11 14:44:17",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-11 14:44:17",
       "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Esa Estrella Era Mi Lujo",
-      "url": "https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY"
-    },
-    {
-      "added_at": "2023-08-11 14:44:17",
-      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 212880,
       "name": "Spaghetti del Rock",
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "added_at": "2023-08-11 14:44:17",
+      "album": {
+        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
+        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Esa Estrella Era Mi Lujo",
+      "url": "https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY"
     },
     {
       "added_at": "2023-08-11 14:44:17",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-08-11 14:44:17",
       "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 281266,
-      "name": "Fulanos de Nadie",
-      "url": "https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq"
-    },
-    {
-      "added_at": "2023-08-11 14:44:17",
-      "album": {
         "name": "Karmagedon",
         "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 328746,
       "name": "Chance",
       "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
+    },
+    {
+      "added_at": "2023-08-11 14:44:17",
+      "album": {
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 281266,
+      "name": "Fulanos de Nadie",
+      "url": "https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq"
     },
     {
       "added_at": "2023-08-11 14:44:17",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-08-11 14:44:17",
       "album": {
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+    },
+    {
+      "added_at": "2023-08-11 14:44:17",
+      "album": {
         "name": "Cordero Atado",
         "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
-    },
-    {
-      "added_at": "2023-08-11 14:44:17",
-      "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2023-08-11 14:44:17",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-11 14:44:17",
       "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 182614,
-      "name": "Viento y Marea",
-      "url": "https://open.spotify.com/track/0hWL7RaBdVEXjd2RYVSJPp"
-    },
-    {
-      "added_at": "2023-08-11 14:44:17",
-      "album": {
         "name": "Llegando Los Monos",
         "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 341826,
       "name": "Hero\u00edna",
       "url": "https://open.spotify.com/track/7ERzS9KIggtCp9oslPzEc0"
+    },
+    {
+      "added_at": "2023-08-11 14:44:17",
+      "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 182614,
+      "name": "Viento y Marea",
+      "url": "https://open.spotify.com/track/0hWL7RaBdVEXjd2RYVSJPp"
     },
     {
       "added_at": "2023-08-11 14:44:17",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-11 14:44:17",
       "album": {
-        "name": "Dejo Atr\u00e1s",
-        "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Dejo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM"
-    },
-    {
-      "added_at": "2023-08-11 14:44:17",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 320946,
       "name": "Otro Jueves Cobarde",
       "url": "https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO"
+    },
+    {
+      "added_at": "2023-08-11 14:44:17",
+      "album": {
+        "name": "Dejo Atr\u00e1s",
+        "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Dejo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM"
     },
     {
       "added_at": "2023-08-11 14:44:17",

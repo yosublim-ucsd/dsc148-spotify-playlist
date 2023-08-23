@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Claptone.",
-  "num_followers": 1859961,
+  "num_followers": 1860409,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTQyMWZiNjkwY2Y0YTQ1MmM5NWFlNmRhOTNkOWMzNTU0YmRiMzFh",
+  "snapshot_id": "MCxmZjVhMjkyNWExMWM5N2FlOWY3NzcxYTUzODgxZjZmMWZmYWZlZmEx",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "A Little Bit",
-      "url": "https://open.spotify.com/track/7za8623cNib4zIP9wKw9Ps"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Colourblind",
         "url": "https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 185120,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "A Little Bit",
+      "url": "https://open.spotify.com/track/7za8623cNib4zIP9wKw9Ps"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 191013,
       "name": "Pose",
       "url": "https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Fine Night",
-        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 161723,
-      "name": "Fine Night",
-      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Feel It Deep Inside",
+        "url": "https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 153825,
+      "name": "Feel It Deep Inside",
+      "url": "https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "U Ok?",
         "url": "https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 154176,
       "name": "U Ok?",
       "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Feel It Deep Inside",
-        "url": "https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG"
-      },
-      "artists": [
-        {
-          "name": "Dopamine",
-          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 153825,
-      "name": "Feel It Deep Inside",
-      "url": "https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Your Mother",
+        "url": "https://open.spotify.com/album/3mEkKriilkzliPrmhaIxo5"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 195452,
+      "name": "Your Mother",
+      "url": "https://open.spotify.com/track/2ICEB6VvX5OAGTxwo6F55t"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Make Me Happy (feat. Might Delete Later)",
         "url": "https://open.spotify.com/album/6weN60IhSCAWjhlt6jjaKs"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 204545,
       "name": "Make Me Happy (feat. Might Delete Later)",
       "url": "https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Your Mother",
-        "url": "https://open.spotify.com/album/3mEkKriilkzliPrmhaIxo5"
-      },
-      "artists": [
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
-        }
-      ],
-      "duration_ms": 195452,
-      "name": "Your Mother",
-      "url": "https://open.spotify.com/track/2ICEB6VvX5OAGTxwo6F55t"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 274677,
-      "name": "Sun Showers",
-      "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Dummy \u2013 Chris Lake Remix",
         "url": "https://open.spotify.com/album/6XqbzujsQpFewramig6kUM"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 173001,
       "name": "Dummy \u2013 Chris Lake Remix",
       "url": "https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 274677,
+      "name": "Sun Showers",
+      "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1883,6 +1883,26 @@
       "duration_ms": 158216,
       "name": "Bololo",
       "url": "https://open.spotify.com/track/7aTZhSR00WrYUJXOn8V2nU"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 170668,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1999,26 +2019,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 170668,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Off My Mind",
         "url": "https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc"
       },
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "All The Girls",
-        "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "All The Girls",
-      "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Baila (La Banda)",
         "url": "https://open.spotify.com/album/3rzSGcuOW6mGCGu0Sc2pzb"
       },
@@ -2131,6 +2111,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "All The Girls",
+        "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "All The Girls",
+      "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "I Want Your Soul (Mau P Remix)",
         "url": "https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3"
       },
@@ -2147,30 +2147,6 @@
       "duration_ms": 210826,
       "name": "I Want Your Soul - Mau P Remix",
       "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/4yn1R7xr2O30X7H3kgto2h"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "Max Mylo",
-          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
-        }
-      ],
-      "duration_ms": 181625,
-      "name": "The Loop",
-      "url": "https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2211,6 +2187,30 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/4yn1R7xr2O30X7H3kgto2h"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Max Mylo",
+          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
+        }
+      ],
+      "duration_ms": 181625,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Take My Hand (feat. Josh Barry)",
         "url": "https://open.spotify.com/album/3FsMheFQtusAMlfV75Nbyc"
       },
@@ -2227,22 +2227,6 @@
       "duration_ms": 171670,
       "name": "Take My Hand (feat. Josh Barry)",
       "url": "https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Hard For The Money",
-        "url": "https://open.spotify.com/album/0xBltm5HdLkpXxZ9mPXOTt"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 149900,
-      "name": "Hard For The Money",
-      "url": "https://open.spotify.com/track/0bT4KqZxUpmwLVMA87MOCT"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2275,6 +2259,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Hard For The Money",
+        "url": "https://open.spotify.com/album/0xBltm5HdLkpXxZ9mPXOTt"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 149900,
+      "name": "Hard For The Money",
+      "url": "https://open.spotify.com/track/0bT4KqZxUpmwLVMA87MOCT"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Move Your Body (feat. Moxie Knox)",
         "url": "https://open.spotify.com/album/6yWax0Ay0UMS5CXJquubSu"
       },
@@ -2299,30 +2299,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "All In A Dream (LP Giobbi Club Edit)",
-        "url": "https://open.spotify.com/album/5dH9IPXKnOoeT5h8GNfWcx"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Joseph Ashworth",
-          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "All In A Dream - LP Giobbi Club Edit",
-      "url": "https://open.spotify.com/track/0Sezv2khtojSuEBeM1WRJK"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Sex on the Streets (Fatboy Slim Edit)",
         "url": "https://open.spotify.com/album/3eqKAfheFX3cOiqjv7nUQs"
       },
@@ -2343,6 +2319,30 @@
       "duration_ms": 235133,
       "name": "Sex on the Streets - Fatboy Slim Edit",
       "url": "https://open.spotify.com/track/6EmVfRcU9v8pPNVBC55B3D"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "All In A Dream (LP Giobbi Club Edit)",
+        "url": "https://open.spotify.com/album/5dH9IPXKnOoeT5h8GNfWcx"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "All In A Dream - LP Giobbi Club Edit",
+      "url": "https://open.spotify.com/track/0Sezv2khtojSuEBeM1WRJK"
     },
     {
       "added_at": "2023-08-18 04:01:00",

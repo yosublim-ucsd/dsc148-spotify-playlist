@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-184 songs - 8 hr 53 min
+185 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Taur Jattan Di](https://open.spotify.com/track/71cVODnoVVC86J0r4VGEjT) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Taur Jattan Di](https://open.spotify.com/album/2bc7sswbaQOshk7bppuP4K) | 2:52 | 2023-03-29 | 2023-07-15 |
 | [Tera Canada](https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Tera Canada](https://open.spotify.com/album/01bK2JE8QRNyNA6Tb79j3Z) | 3:20 | 2023-08-10 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-03-29 |  |
+| [Tinted Windows](https://open.spotify.com/track/6KLca4Dxyf5ArZoyqgmwhr) | [Jimmy Wraich](https://open.spotify.com/artist/0ov4rQDHNfsZkRxsIZ6kzL), [Crispy Dondada](https://open.spotify.com/artist/03kKbaYoK0KB2xv7Q1FRKv), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [Tinted Windows](https://open.spotify.com/album/0gnxxwuDgP2gvVSXbSgY57) | 3:12 | 2023-08-22 |  |
 | [Toy](https://open.spotify.com/track/14pPJbEMx6JZU8RItbY1Vq) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Toy](https://open.spotify.com/album/4VrAmKqAphRMoDcYno8V25) | 3:04 | 2023-03-29 |  |
 | [True Stories](https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [True Stories](https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl) | 1:57 | 2023-06-16 |  |
 | [Tu Te Sharaab](https://open.spotify.com/track/0oUfa6l7wLkVAdXpuZv1Es) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Tu Te Sharab](https://open.spotify.com/album/2WkHsdB7xX7Iogc6V3mMCc) | 3:15 | 2023-03-29 | 2023-05-28 |

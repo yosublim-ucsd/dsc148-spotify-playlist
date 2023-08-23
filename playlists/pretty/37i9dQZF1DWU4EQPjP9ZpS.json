@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 275590,
+  "num_followers": 275753,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTNhMDc3ZTBhMzQ3ODQ0MDE4MWQ0N2IyMzQ3ZjM4MTU3MjUzMjVh",
+  "snapshot_id": "MCwwMDZhYmI2N2UxOTRjNzkwMTIyOTc0NjkyZTk4YzU2Y2IzMzE5OGYz",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -687,22 +687,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Cosmic Palace",
-        "url": "https://open.spotify.com/album/0PlJciYp4lDHeB9IaAxYrt"
+        "name": "vaporgroove (singles)",
+        "url": "https://open.spotify.com/album/2D1r01r3ZgUpURmPHXreaY"
       },
       "artists": [
         {
-          "name": "DavZ",
-          "url": "https://open.spotify.com/artist/1AOsohWDEAkuaJElJnHfkx"
+          "name": "VAAV Social Club",
+          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
         },
         {
-          "name": "Decisive Koala",
-          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+          "name": "Iden Kai",
+          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Cosmic Palace",
-      "url": "https://open.spotify.com/track/6FZSt1tVtKtj20gmqgIfNt"
+      "duration_ms": 203761,
+      "name": "vaporgroove ~",
+      "url": "https://open.spotify.com/track/7aXuldX1C1OIWdFGGDZlbu"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Cosmic Palace",
+        "url": "https://open.spotify.com/album/0PlJciYp4lDHeB9IaAxYrt"
+      },
+      "artists": [
+        {
+          "name": "DavZ",
+          "url": "https://open.spotify.com/artist/1AOsohWDEAkuaJElJnHfkx"
+        },
+        {
+          "name": "Decisive Koala",
+          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Cosmic Palace",
+      "url": "https://open.spotify.com/track/6FZSt1tVtKtj20gmqgIfNt"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 72000,
       "name": "stay",
       "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "vaporgroove (singles)",
-        "url": "https://open.spotify.com/album/2D1r01r3ZgUpURmPHXreaY"
-      },
-      "artists": [
-        {
-          "name": "VAAV Social Club",
-          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
-        },
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "vaporgroove ~",
-      "url": "https://open.spotify.com/track/7aXuldX1C1OIWdFGGDZlbu"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv"
-      },
-      "artists": [
-        {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
-        }
-      ],
-      "duration_ms": 74000,
-      "name": "Aquascaping \u30d4\u30e9\u30df\u30c3\u30c9",
-      "url": "https://open.spotify.com/track/3fcapo2HfJHiZ6xBXknUPN"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 232473,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv"
+      },
+      "artists": [
+        {
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+        }
+      ],
+      "duration_ms": 74000,
+      "name": "Aquascaping \u30d4\u30e9\u30df\u30c3\u30c9",
+      "url": "https://open.spotify.com/track/3fcapo2HfJHiZ6xBXknUPN"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Goodbye, 5o 5oon...",
+        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
+      },
+      "artists": [
+        {
+          "name": "Pan!c Pop",
+          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
+        }
+      ],
+      "duration_ms": 176015,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/5FUZdUXNGAWLg6bdlb5eou"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 416000,
       "name": "Arms of Mine",
       "url": "https://open.spotify.com/track/53QNhk9jqnhowWjzb5cMmR"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Goodbye, 5o 5oon...",
-        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
-      },
-      "artists": [
-        {
-          "name": "Pan!c Pop",
-          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
-        }
-      ],
-      "duration_ms": 176015,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Into the light",
-        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 83465,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "so be it",
         "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 388732,
       "name": "so be it",
       "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Into the light",
+        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 83465,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Ocean Breeze",
-        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
-      },
-      "artists": [
-        {
-          "name": "Trushinitas",
-          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
-        }
-      ],
-      "duration_ms": 135035,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Aeris",
         "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 226500,
       "name": "Oneirataxia",
       "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
+      },
+      "artists": [
+        {
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
+        }
+      ],
+      "duration_ms": 135035,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "BARBER BEATER Pt 2 \u30b7\u30e3\u30fc\u30d7\u306a\u30ab\u30c3\u30c6\u30a3\u30f3\u30b0\u30b3\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/7sJkwWBClBfYFwQHXXITtO"
-      },
-      "artists": [
-        {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
-        }
-      ],
-      "duration_ms": 351078,
-      "name": "The ORIGINAL \u9053\u5177",
-      "url": "https://open.spotify.com/track/5DSPwLHK9Kp83wdWKZwP2a"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "CYBERIA",
         "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 227462,
       "name": "\u5929\u4f7f",
       "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "BARBER BEATER Pt 2 \u30b7\u30e3\u30fc\u30d7\u306a\u30ab\u30c3\u30c6\u30a3\u30f3\u30b0\u30b3\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/7sJkwWBClBfYFwQHXXITtO"
+      },
+      "artists": [
+        {
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+        }
+      ],
+      "duration_ms": 351078,
+      "name": "The ORIGINAL \u9053\u5177",
+      "url": "https://open.spotify.com/track/5DSPwLHK9Kp83wdWKZwP2a"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1643,26 +1643,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "METHBREATH (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5us4FupvPJKwSIwqdzEIlK"
+        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
       },
       "artists": [
         {
-          "name": "Ralph Rodolen",
-          "url": "https://open.spotify.com/artist/0NdkJzmD9OHILInIu6rbjO"
-        },
-        {
-          "name": "slow//reverb",
-          "url": "https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j"
-        },
-        {
-          "name": "Ryan Celsius Sounds",
-          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Coriahosanota - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/4WrNFImUv1m2GWGL0QbfVi"
+      "duration_ms": 277570,
+      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1699,34 +1691,46 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
+        "name": "The 33rd Split",
+        "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
       },
       "artists": [
         {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+          "name": "King Quartz",
+          "url": "https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri"
+        },
+        {
+          "name": "VCRheadaches",
+          "url": "https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI"
         }
       ],
-      "duration_ms": 277570,
-      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
+      "duration_ms": 260399,
+      "name": "Vcrheadaches - Purge",
+      "url": "https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT"
     },
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Growing Apart",
-        "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
+        "name": "METHBREATH (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5us4FupvPJKwSIwqdzEIlK"
       },
       "artists": [
         {
-          "name": "Rayklin",
-          "url": "https://open.spotify.com/artist/2FTHXc8okmVhGLBREZUhVA"
+          "name": "Ralph Rodolen",
+          "url": "https://open.spotify.com/artist/0NdkJzmD9OHILInIu6rbjO"
+        },
+        {
+          "name": "slow//reverb",
+          "url": "https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j"
+        },
+        {
+          "name": "Ryan Celsius Sounds",
+          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
         }
       ],
-      "duration_ms": 217153,
-      "name": "Growing Apart",
-      "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
+      "duration_ms": 204000,
+      "name": "Coriahosanota - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/4WrNFImUv1m2GWGL0QbfVi"
     },
     {
       "added_at": "2023-07-18 02:19:19",

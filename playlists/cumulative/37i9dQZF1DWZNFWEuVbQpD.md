@@ -2,7 +2,7 @@
 
 ### [Rock: i Classici](https://open.spotify.com/playlist/37i9dQZF1DWZNFWEuVbQpD)
 
-> Perché...It’s Only Rock ’n Roll \(But We Like It\)!
+> Perché..\. It’s Only Rock 'n' Roll \(But We Like It\)!
 
 247 songs - 17 hr 57 min
 

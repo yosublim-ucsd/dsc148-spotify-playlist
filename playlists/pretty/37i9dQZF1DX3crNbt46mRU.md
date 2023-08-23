@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,719 likes - 105 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,722 likes - 105 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
+| 1 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
 | 2 | [Leila](https://open.spotify.com/track/4GqzVCIrLyuqTb9LLsjsYD) | [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Liquor Store](https://open.spotify.com/album/3VB6IOnqQVWvQlDf2IMqaC) | 2:59 |
 | 3 | [Lightning](https://open.spotify.com/track/1mreBnJEA5A6uIOTzkKq8Z) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lightning](https://open.spotify.com/album/1H6XatdVMrvJMvokzH2Kef) | 2:57 |
 | 4 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 104 | [End Of The World](https://open.spotify.com/track/25JnZYGNwdJg9MB9eaQ8TU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5s2IqfqzXdVUrI1YcZ8XBN) | 2:38 |
 | 105 | [I Sell](https://open.spotify.com/track/0UBGT7DgAI1F4k1jMUMf0H) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [I Sell](https://open.spotify.com/album/2kcmTK3wZEyAKore4X5lXC) | 2:47 |
 
-Snapshot ID: `MCxmNDM2YzZjMjdkMGFjY2Y2MmVkYmNlZDFhM2QxNWFiMWIwOWZhNTYw`
+Snapshot ID: `MCxlNTVkNmQ5MjRmMzhmMjUwYzUyMmU4YjU0MGMyZGRkMzU5YTdhMDE0`

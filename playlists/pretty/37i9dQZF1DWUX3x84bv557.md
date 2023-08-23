@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Nielson & MAXINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,939 likes - 90 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,990 likes - 90 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/track/39IfUdhato88j7BGmWikCV) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/album/1jyMBGyKOjJGGFISEImvEm) | 3:34 |
 | 90 | [Emiliana \- Mashup](https://open.spotify.com/track/19hNwhS9vYF4ITIDb3jHfp) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Emiliana \(Mashup\)](https://open.spotify.com/album/6kxTmTYdpLQXCnSffJbgFk) | 3:48 |
 
-Snapshot ID: `MCw0MzNmYzBkNzk0NDgzYzNkNzlkMWQyY2JiMWM5ZmU3MmZjOTYxOWE3`
+Snapshot ID: `MCw0ZTBjOGQ2MTgwZTQ4NDBmM2VkM2FlNGJlZWE3M2Q4ZmQ0MmM0Njgw`

@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Mitski.
 
-539 songs - 1 day 3 hr 47 min
+540 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [House We Share](https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [House We Share](https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa) | 2:47 | 2022-10-07 | 2023-04-01 |
 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-29 | 2022-10-15 |
 | [how to love](https://open.spotify.com/track/0yo9larsomF52ozr81jCEm) | [JEN Z](https://open.spotify.com/artist/1fqQGhjVuevPcROlYKzn4b) | [how to love](https://open.spotify.com/album/6IYXm4IxC9QYNoYGwFIbWD) | 3:33 | 2022-12-02 | 2023-07-20 |
+| [HSB](https://open.spotify.com/track/1YDfM80A8RdwnaEVvCKdzA) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [HSB](https://open.spotify.com/album/2LLfG193pOrWD0a4YhsQTJ) | 2:34 | 2023-08-18 |  |
 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 | 2022-05-27 | 2022-08-16 |
 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 | 2023-03-05 |  |
 | [Hurricanes](https://open.spotify.com/track/4XH87UjBYFtVYar8CNmoTJ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:22 | 2022-09-23 | 2022-10-08 |
@@ -314,7 +315,7 @@
 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-07-22 | 2023-07-28 |
 | [Me & Mrs\. Wong](https://open.spotify.com/track/0v0iiy4gktlrDWb6P0w1Xx) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Me & Mrs\. Wong](https://open.spotify.com/album/416QmA6TRGNkxjKp4i9b8b) | 3:50 | 2022-05-27 | 2022-07-29 |
 | [Me & Mrs\. Wong](https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 3:50 | 2022-07-22 | 2023-04-09 |
-| [Menanti](https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Menanti](https://open.spotify.com/album/7lnZheJKj0Fwy0DkC0WzBE) | 3:05 | 2023-04-29 |  |
+| [Menanti](https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Menanti](https://open.spotify.com/album/7lnZheJKj0Fwy0DkC0WzBE) | 3:05 | 2023-04-29 | 2023-08-23 |
 | [Mercury \(feat\. ØZI\)](https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [I AM U](https://open.spotify.com/album/52cZAcrw0TQpiQSMlW8Bfq) | 2:22 | 2022-05-27 | 2023-01-05 |
 | [Meri Mehbooba](https://open.spotify.com/track/18zXF2JNbtMthfQnQPaV45) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 | 2022-06-03 | 2022-06-11 |
 | [Merry Midnight](https://open.spotify.com/track/0LTpJoMdGZflD9BsbSvGpW) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Merry Midnight](https://open.spotify.com/album/22yAVxCemWUc6T9B41gUvK) | 4:29 | 2022-05-27 | 2022-07-29 |

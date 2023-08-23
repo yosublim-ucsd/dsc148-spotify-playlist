@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Steves J\. Bryan
 
-202 songs - 12 hr 2 min
+203 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Dlo Dous](https://open.spotify.com/track/092nVwXDBvlff4H9p71rOh) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/72xQw0tZDwDDl1uQ6ixpo7) | 5:13 | 2023-05-08 | 2023-07-14 |
 | [Dlo Dous](https://open.spotify.com/track/0JnnQ2ONBFYcPl451tyIHM) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/15L1z6E5DX2PIX62oy36k9) | 5:13 | 2023-06-09 | 2023-07-21 |
 | [Dlo Dous](https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/01oPSFSY6fQmlFUDoNORvB) | 5:13 | 2023-07-21 |  |
+| [Dous Pou Dous](https://open.spotify.com/track/7yoyJGMS6afTrVL28gj1XS) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Tou 9](https://open.spotify.com/album/3AqNXhnQnzWUG9K6jTie65) | 4:30 | 2023-08-18 |  |
 | [Dous pou Dous](https://open.spotify.com/track/3u3WacUgCuvmtqovOUbOij) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Dous pou Dous](https://open.spotify.com/album/3S31k8NVb2UzlOXldL876a) | 4:32 | 2023-05-08 | 2023-08-19 |
-| [Dous pou Dous](https://open.spotify.com/track/7GJvZPLFouefZ1alU9B7Xg) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Dous pou Dous](https://open.spotify.com/album/2rWTppcUCBy0bEZxTgfazL) | 4:32 | 2023-08-18 |  |
+| [Dous pou Dous](https://open.spotify.com/track/7GJvZPLFouefZ1alU9B7Xg) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Dous pou Dous](https://open.spotify.com/album/2rWTppcUCBy0bEZxTgfazL) | 4:32 | 2023-08-18 | 2023-08-23 |
 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 | 2022-05-12 |  |
 | [DWTG \(down with the gouyad remix\)](https://open.spotify.com/track/4HqqOAmToOjnfHyT1in0OE) | [Djmagickenny](https://open.spotify.com/artist/3KPTClQrtaVtQEhFkBFYA9), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [DWTG \(down with the gouyad remix\)](https://open.spotify.com/album/3tselS7WC7rhS4Q3E8yzjo) | 4:51 | 2022-04-15 | 2022-07-13 |
 | [Egoiste](https://open.spotify.com/track/3TKGddsGCdJOpRNLdvPoM0) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [Egoiste](https://open.spotify.com/album/6TdaLybeDhfPqSqL2ivPpr) | 2:33 | 2021-12-06 | 2022-05-13 |

@@ -2,7 +2,7 @@
 
 ### [O Drip](https://open.spotify.com/playlist/37i9dQZF1DWT22037si3kl)
 
-> Chique e confortável como a realeza do Trap\. Foto: Alee
+> Chique e confortável como a realeza do Trap\. Foto: LEALL, Big Bllakk, Derek
 
 247 songs - 12 hr 24 min
 

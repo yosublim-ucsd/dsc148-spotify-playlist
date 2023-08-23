@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 894959,
+  "num_followers": 895263,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDQ5NGNkN2MwNTFmY2NlMjhiMDY0M2U4ZWY5NGVjZGFlZDQzOTBj",
+  "snapshot_id": "MCw5YWU3MTY0ZjI5M2FlOTViMmU3ODI1NjFmZWRiOWY5YTUyN2YyMWY5",
   "tracks": [
     {
       "added_at": "2023-06-30 15:01:21",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-06-30 15:01:21",
       "album": {
-        "name": "Dancing Thing",
-        "url": "https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 184045,
-      "name": "Dancing Thing",
-      "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
-    },
-    {
-      "added_at": "2023-06-30 15:01:21",
-      "album": {
         "name": "EYES",
         "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
       },
@@ -135,70 +119,18 @@
     {
       "added_at": "2023-06-30 15:01:21",
       "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+        "name": "Dancing Thing",
+        "url": "https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
         }
       ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
-    },
-    {
-      "added_at": "2023-06-30 15:01:21",
-      "album": {
-        "name": "Take Care",
-        "url": "https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7"
-      },
-      "artists": [
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 205403,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG"
-    },
-    {
-      "added_at": "2023-06-30 15:01:21",
-      "album": {
-        "name": "Manzanita",
-        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        }
-      ],
-      "duration_ms": 164433,
-      "name": "Manzanita",
-      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
-    },
-    {
-      "added_at": "2023-06-30 15:01:21",
-      "album": {
-        "name": "Otherside (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Otherside - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
+      "duration_ms": 184045,
+      "name": "Dancing Thing",
+      "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
     },
     {
       "added_at": "2023-06-30 15:01:21",
@@ -219,6 +151,74 @@
       "duration_ms": 213495,
       "name": "The Sign (with CamelPhat)",
       "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
+    },
+    {
+      "added_at": "2023-06-30 15:01:21",
+      "album": {
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+    },
+    {
+      "added_at": "2023-06-30 15:01:21",
+      "album": {
+        "name": "Manzanita",
+        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 164433,
+      "name": "Manzanita",
+      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
+    },
+    {
+      "added_at": "2023-06-30 15:01:21",
+      "album": {
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 205403,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG"
+    },
+    {
+      "added_at": "2023-06-30 15:01:21",
+      "album": {
+        "name": "Otherside (Nils Hoffmann Remix)",
+        "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Otherside - Nils Hoffmann Remix",
+      "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
     },
     {
       "added_at": "2023-06-30 15:01:21",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-06-30 15:01:21",
       "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
+    },
+    {
+      "added_at": "2023-06-30 15:01:21",
+      "album": {
         "name": "MORE D4TA",
         "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2023-06-30 15:01:21",
       "album": {
-        "name": "The Mirage EP",
-        "url": "https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 371903,
-      "name": "The Mirage",
-      "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
-    },
-    {
-      "added_at": "2023-06-30 15:01:21",
-      "album": {
         "name": "Backseat Tape",
         "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
       },
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-06-30 15:01:21",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+        "name": "The Mirage EP",
+        "url": "https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 220887,
-      "name": "Explore Your Future",
-      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
+      "duration_ms": 371903,
+      "name": "The Mirage",
+      "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
     },
     {
       "added_at": "2023-06-30 15:01:21",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-30 15:01:21",
       "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
-    },
-    {
-      "added_at": "2023-06-30 15:01:21",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 329670,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1"
+    },
+    {
+      "added_at": "2023-06-30 15:01:21",
+      "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
     },
     {
       "added_at": "2023-06-30 15:01:21",

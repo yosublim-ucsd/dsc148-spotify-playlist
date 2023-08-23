@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,676 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,740 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 49 | [Divide and Conquer](https://open.spotify.com/track/04ogUiDHLHbxNYQemPB8ju) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn) | 0:59 |
 | 50 | [Rock n Roll Superstar](https://open.spotify.com/track/2F55f2G0f8x8NH21aFkWoU) | [Blues Saraceno](https://open.spotify.com/artist/5AVBFCn4Hq4KY2Xjc5Gj4y) | [Glam Rock](https://open.spotify.com/album/2rGcNlGZkpdpR9gxTTzvgh) | 3:03 |
 | 51 | [My Old Friend \(Always Will\) \[feat\. Antwaun Stanley\]](https://open.spotify.com/track/1haWKOqwKanmoPuecOnvbc) | [The Stand Ups](https://open.spotify.com/artist/7CwPZ0AFd8TMffs7Ko5jBk), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Standing Up, Falling Down](https://open.spotify.com/album/4gV1NaoLg7VcqqNbyjVYnV) | 4:04 |
-| 52 | [Ignite](https://open.spotify.com/track/4szIHLlonxnvu9WoR6Ifz6) | [Nine One One](https://open.spotify.com/artist/0g3drvUd9hMx7PKYN4OQWy), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Disco Pop 2](https://open.spotify.com/album/7jW0A2xM7cWNiQIlzoegIJ) | 3:06 |
+| 52 | [Ignite](https://open.spotify.com/track/4szIHLlonxnvu9WoR6Ifz6) | [Nine One One](https://open.spotify.com/artist/0g3drvUd9hMx7PKYN4OQWy) | [Disco Pop 2](https://open.spotify.com/album/7jW0A2xM7cWNiQIlzoegIJ) | 3:06 |
 | 53 | [In Your Eyes \(feat\. Kenny G\) \- Remix](https://open.spotify.com/track/1SySkCqhEG6Z68o2n07Bsr) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [In Your Eyes \(Remix\)](https://open.spotify.com/album/2MouaLzzY4HnsUYJYSgu2o) | 4:16 |
 | 54 | [LA / Alone](https://open.spotify.com/track/396DMhY0I2y5wSIIpirX4m) | [SRRY](https://open.spotify.com/artist/54AggBUiCq1Yo04s4EqXv2) | [LA / Alone](https://open.spotify.com/album/0TiXa5oN4JwsV9rUbSRo0U) | 5:50 |
 | 55 | [I’m Feelin’ it](https://open.spotify.com/track/1EUkhXskMhltNATNWzUVvm) | [Rhys Fletcher](https://open.spotify.com/artist/2bp9TWW21l3VDbLprItUud), [Georgina Daisy Birch](https://open.spotify.com/artist/6fe9P31v3uFnfrZm9ZbQu1), [Rusty B](https://open.spotify.com/artist/7DI4y02F2YrdSDw68dpYnU) | [Perc Pop 2](https://open.spotify.com/album/3FIG7MhtpdvkjRlFX8TOU4) | 2:42 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
 | 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MCw3ZTc4MTI2MWI3OWNmYWUwNWY3MmZkZDcyOWNjZmViMGZlYTYyYWVl`
+Snapshot ID: `MCxhY2I5YTBlMmZhZjJjM2RlODNiODFlODViNzcyMTI5MGE4ZGY2NDJj`

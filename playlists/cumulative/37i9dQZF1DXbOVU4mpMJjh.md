@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-847 songs - 2 day 11 hr 20 min
+848 songs - 2 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-11-10 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/4LIw2QRvZWvtV48O92yfKu) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:37 | 2022-04-14 | 2022-09-16 |
 | [Honeysuckle Rose](https://open.spotify.com/track/37fKuIYSd67vF8mPpkgKyS) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Key One Up](https://open.spotify.com/album/3zEVfXNe9G370rdfKxoVhM) | 6:23 | 2022-04-14 | 2022-09-23 |
-| [Hope](https://open.spotify.com/track/4bKVx5gwMwv0pEN79Jo8V6) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Hope](https://open.spotify.com/album/6KISGlQsr69gUTLtsLABa2) | 3:57 | 2023-01-19 |  |
+| [Hope](https://open.spotify.com/track/4bKVx5gwMwv0pEN79Jo8V6) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Hope](https://open.spotify.com/album/6KISGlQsr69gUTLtsLABa2) | 3:57 | 2023-01-19 | 2023-08-23 |
 | [Hope](https://open.spotify.com/track/6FxLkFFo7l4psCVWFVcEHW) | [Jakob Dinesen](https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0) | [Hope](https://open.spotify.com/album/6D1rPM2yIoM7i4gtmVtGwZ) | 5:06 | 2022-04-14 | 2022-04-27 |
 | [How Can I Tell You \- Live](https://open.spotify.com/track/4ZUlQw3KS7qiBrgJxSyel0) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Passin' Thru \(Live\)](https://open.spotify.com/album/2qiyL96vDeoFjWhRdJ4vL5) | 9:46 | 2022-04-14 | 2022-10-08 |
 | [How Many More](https://open.spotify.com/track/5zpqkOpg31ksUdhuqJ9CQU) | [Courtney Pine](https://open.spotify.com/artist/2OfIB3yNJjX3AElLJnz8am) | [Black Notes from the Deep](https://open.spotify.com/album/38TrCRGLXPUSCMWCbC9Lym) | 6:27 | 2022-04-14 | 2022-09-23 |
@@ -579,6 +579,7 @@
 | [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-03-09 |  |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 |  |
 | [Over The Rooftops](https://open.spotify.com/track/2erYjP47q8077YP2LH8Ar2) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Over The Rooftops](https://open.spotify.com/album/0IxhkuCEcEtyo5uMoTjpYB) | 3:50 | 2023-05-25 |  |
+| [P.S\. I Love You](https://open.spotify.com/track/1cdNkKJhTzAWW5yMBlvc0v) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Detour Ahead](https://open.spotify.com/album/3qH33VNF4bKmgjk9Y3BWk4) | 4:05 | 2023-08-18 |  |
 | [Parole Parole](https://open.spotify.com/track/1vN6YNWnQcZ2K6YxZruYZ2) | [Moulin Roty Trio](https://open.spotify.com/artist/1I1PN78a9Sv7RiGsbLSnQl) | [Parole Parole](https://open.spotify.com/album/10glt1hIgdPws9IDxVqeC3) | 4:36 | 2023-08-03 | 2023-08-14 |
 | [Part of the moment](https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Part of the moment](https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19) | 2:50 | 2023-08-10 |  |
 | [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 | 2022-10-13 |  |

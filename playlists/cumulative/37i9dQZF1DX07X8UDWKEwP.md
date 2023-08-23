@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Maffio & Christian Alicea
 
-302 songs - 17 hr 49 min
+303 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-01-28 | 2023-03-25 |
 | [Aura](https://open.spotify.com/track/7AfhyU66mFMuSFks5viJWK) | [Mario Baro](https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP), [Jae Camilo](https://open.spotify.com/artist/40S2INZWrAhcI6NlpY7mwC) | [Aura](https://open.spotify.com/album/5oRdhnVRSF15lTiHWFZ70U) | 2:52 | 2022-03-25 | 2022-06-30 |
 | [Aventurera](https://open.spotify.com/track/5Qi2dqDB6JW4BJtbxG8ZHB) | [MAYKEL](https://open.spotify.com/artist/7Gd7D8evygezZAFemifKMC) | [Aventurera](https://open.spotify.com/album/38DHTygKGvdJCJDNZ8TqHo) | 3:38 | 2022-01-01 | 2022-01-29 |
-| [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 | 2023-03-17 |  |
+| [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 | 2023-03-17 | 2023-08-23 |
 | [Ay, Ay, Ay](https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ay, Ay, Ay](https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD) | 3:28 | 2023-06-16 |  |
 | [Ayúdame](https://open.spotify.com/track/2pG8Bmm5lpk38fxeZRkvqT) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 2:44 | 2023-08-04 |  |
 | [Bachata Blue](https://open.spotify.com/track/4o24fPjYFIONeqAMtZIoYr) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Bachata Blue](https://open.spotify.com/album/2Id90GOl0vizaORLB1bzoy) | 3:15 | 2022-02-11 | 2022-06-30 |
@@ -286,6 +286,7 @@
 | [Tú Me Quieres Más \- Bachata Remix](https://open.spotify.com/track/0o5FygOsXEEfHlLOc7d5oL) | [Techy Fatule](https://open.spotify.com/artist/6qpTu1AzEuiBommRAqk3Xe), [YouMaico](https://open.spotify.com/artist/192QJ1f1rDbTrroEg5rSaf), [La Oreja Media Group](https://open.spotify.com/artist/20gslJcxWkQ2p36TBrAdwS) | [Tú Me Quieres Más \(Bachata Remix\)](https://open.spotify.com/album/3fMfrqdTQt0wYIlqtKbYSA) | 3:18 | 2022-02-11 | 2022-06-30 |
 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-10 |  |
 | [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-04-29 | 2022-06-30 |
+| [Un Cigarro](https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Un Cigarro](https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9) | 2:54 | 2023-08-18 |  |
 | [Un Minuto Mas](https://open.spotify.com/track/4mAA0PR2CAs2AUvkFa1kbo) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Un Minuto Mas](https://open.spotify.com/album/11VqlQPChAvgagBbMkIDTc) | 2:29 | 2022-01-01 | 2022-01-29 |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-12 |  |
 | [Vallenato Apretao](https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Vallenato Apretao](https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo) | 2:38 | 2022-01-01 | 2022-06-30 |

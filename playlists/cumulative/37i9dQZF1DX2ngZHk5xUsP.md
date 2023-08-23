@@ -4,7 +4,7 @@
 
 > Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-84 songs - 5 hr 17 min
+85 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 | 2023-05-02 |  |
 | [Segar](https://open.spotify.com/track/23SH0rxlb47odl9HHmufOr) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Jeruk Segar](https://open.spotify.com/album/2eyvObKjsKZx7Fe3VIPbxe) | 3:00 | 2023-06-08 |  |
 | [Semua Tentang Kita](https://open.spotify.com/track/6ULZ6Hw2eYaiq1tlR5thcW) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 4:28 | 2023-08-09 |  |
-| [Separuh Aku](https://open.spotify.com/track/0OVcoOK5WVvE6D9CXkopa9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:26 | 2023-08-11 |  |
+| [Separuh Aku](https://open.spotify.com/track/0OVcoOK5WVvE6D9CXkopa9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:26 | 2023-08-11 | 2023-08-23 |
+| [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 | 2023-08-18 |  |
 | [Sha La La](https://open.spotify.com/track/2oE4nQnV1D4PTZFoDw8JTF) | [Putih Abu\-Abu](https://open.spotify.com/artist/3yRNoZZuzU5TC7uwOxd7cL) | [Sha La La](https://open.spotify.com/album/15OsMcIup45YQk0TVp2AFn) | 3:31 | 2023-03-16 |  |
 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 | 2023-03-16 |  |
 | [Simpul](https://open.spotify.com/track/5kzE5sZTaK0hyCqYaLfN4t) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Simpul Tak Berdaya](https://open.spotify.com/album/4UlIKDydaQLNsJGRa5Dgqb) | 3:51 | 2023-03-16 |  |

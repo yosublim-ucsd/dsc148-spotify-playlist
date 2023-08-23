@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 43319,
+  "num_followers": 43384,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWE5YTZhMzQzOGVjNjM4NjZkYTUwZGJlM2NjNmUwNTRmZmFiNjM4",
+  "snapshot_id": "MCw4NWZkMDViMDQ5YjU2ZmM5ZWZhNGMyMTkzZjFmYTgyOTM2MjhjMGQz",
   "tracks": [
     {
       "added_at": "2023-08-18 14:03:30",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-08-18 14:03:30",
       "album": {
-        "name": "Traves\u00eda",
-        "url": "https://open.spotify.com/album/3R9mvWE3pbsxy5uruk5HNK"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        },
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 176162,
-      "name": "The Revenant Main Theme (Alva Noto Remodel)",
-      "url": "https://open.spotify.com/track/47PdDK2C3a1XuHQTpaBukA"
-    },
-    {
-      "added_at": "2023-08-18 14:03:30",
-      "album": {
         "name": "Unknown Tokyo",
         "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 245008,
       "name": "Unknown Tokyo",
       "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
+    },
+    {
+      "added_at": "2023-08-18 14:03:30",
+      "album": {
+        "name": "Traves\u00eda",
+        "url": "https://open.spotify.com/album/3R9mvWE3pbsxy5uruk5HNK"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 176162,
+      "name": "The Revenant Main Theme (Alva Noto Remodel)",
+      "url": "https://open.spotify.com/track/47PdDK2C3a1XuHQTpaBukA"
     },
     {
       "added_at": "2023-08-18 14:03:30",
@@ -559,6 +559,26 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
+    },
+    {
+      "added_at": "2023-08-18 14:03:30",
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "duration_ms": 273053,
+      "name": "Golden Apples Of The Sun",
+      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
     },
     {
       "added_at": "2023-08-18 14:03:30",
@@ -591,26 +611,6 @@
       "duration_ms": 302367,
       "name": "Objekt",
       "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
-    },
-    {
-      "added_at": "2023-08-18 14:03:30",
-      "album": {
-        "name": "Golden Apples of the Sun",
-        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        },
-        {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        }
-      ],
-      "duration_ms": 273053,
-      "name": "Golden Apples Of The Sun",
-      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
     },
     {
       "added_at": "2023-08-18 14:03:30",
@@ -711,38 +711,6 @@
     {
       "added_at": "2023-08-18 14:03:30",
       "album": {
-        "name": "Melting Hazard",
-        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 306676,
-      "name": "Melting Hazard",
-      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
-    },
-    {
-      "added_at": "2023-08-18 14:03:30",
-      "album": {
-        "name": "Taum",
-        "url": "https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r"
-      },
-      "artists": [
-        {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "Torpid",
-      "url": "https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6"
-    },
-    {
-      "added_at": "2023-08-18 14:03:30",
-      "album": {
         "name": "Contain (In Key)",
         "url": "https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 488706,
       "name": "Contain (In Key)",
       "url": "https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J"
+    },
+    {
+      "added_at": "2023-08-18 14:03:30",
+      "album": {
+        "name": "Taum",
+        "url": "https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "Torpid",
+      "url": "https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6"
+    },
+    {
+      "added_at": "2023-08-18 14:03:30",
+      "album": {
+        "name": "Melting Hazard",
+        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 306676,
+      "name": "Melting Hazard",
+      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
     },
     {
       "added_at": "2023-08-18 14:03:30",
@@ -863,6 +863,30 @@
     {
       "added_at": "2023-08-18 14:03:30",
       "album": {
+        "name": "Consumed In Key",
+        "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        {
+          "name": "Plastikman",
+          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "duration_ms": 517000,
+      "name": "Locomotion (In Key)",
+      "url": "https://open.spotify.com/track/1mhLRTKbnyP85NSpdb84Mx"
+    },
+    {
+      "added_at": "2023-08-18 14:03:30",
+      "album": {
         "name": "Kinder der Sonne (From \"Komplizen\")",
         "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
       },
@@ -911,30 +935,6 @@
       "duration_ms": 223986,
       "name": "58500 - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm"
-    },
-    {
-      "added_at": "2023-08-18 14:03:30",
-      "album": {
-        "name": "Consumed In Key",
-        "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
-      },
-      "artists": [
-        {
-          "name": "Richie Hawtin",
-          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
-        },
-        {
-          "name": "Plastikman",
-          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
-        },
-        {
-          "name": "Chilly Gonzales",
-          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
-        }
-      ],
-      "duration_ms": 517000,
-      "name": "Locomotion (In Key)",
-      "url": "https://open.spotify.com/track/1mhLRTKbnyP85NSpdb84Mx"
     },
     {
       "added_at": "2023-08-18 14:03:30",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-18 14:03:30",
       "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
-    },
-    {
-      "added_at": "2023-08-18 14:03:30",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 242142,
       "name": "17\u00b0C",
       "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
+    },
+    {
+      "added_at": "2023-08-18 14:03:30",
+      "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
     },
     {
       "added_at": "2023-08-18 14:03:30",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-08-18 14:03:30",
       "album": {
-        "name": "Yellowstone Ambient",
-        "url": "https://open.spotify.com/album/4hUZot6kLlzNs6K2xewkO4"
-      },
-      "artists": [
-        {
-          "name": "Airbird",
-          "url": "https://open.spotify.com/artist/2Yk1UXf6iXf0XpMxoKIMDD"
-        }
-      ],
-      "duration_ms": 396152,
-      "name": "Hellroaring Suspension Bridge",
-      "url": "https://open.spotify.com/track/2VZP3a2fFKUok9PMXenZjD"
-    },
-    {
-      "added_at": "2023-08-18 14:03:30",
-      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 278174,
       "name": "Sine Waves",
       "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "added_at": "2023-08-18 14:03:30",
+      "album": {
+        "name": "Yellowstone Ambient",
+        "url": "https://open.spotify.com/album/4hUZot6kLlzNs6K2xewkO4"
+      },
+      "artists": [
+        {
+          "name": "Airbird",
+          "url": "https://open.spotify.com/artist/2Yk1UXf6iXf0XpMxoKIMDD"
+        }
+      ],
+      "duration_ms": 396152,
+      "name": "Hellroaring Suspension Bridge",
+      "url": "https://open.spotify.com/track/2VZP3a2fFKUok9PMXenZjD"
     },
     {
       "added_at": "2023-08-18 14:03:30",
@@ -1335,6 +1335,30 @@
     {
       "added_at": "2023-08-18 14:03:30",
       "album": {
+        "name": "Worlds Collide (Hannes Kretzer Rework)",
+        "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
+      },
+      "artists": [
+        {
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
+        },
+        {
+          "name": "Morten Reppesg\u00e5rd",
+          "url": "https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI"
+        },
+        {
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+        }
+      ],
+      "duration_ms": 231340,
+      "name": "Worlds Collide - Hannes Kretzer Rework",
+      "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2023-08-18 14:03:30",
+      "album": {
         "name": "Amos",
         "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
       },
@@ -1371,30 +1395,6 @@
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
-    },
-    {
-      "added_at": "2023-08-18 14:03:30",
-      "album": {
-        "name": "Worlds Collide (Hannes Kretzer Rework)",
-        "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
-      },
-      "artists": [
-        {
-          "name": "Vetle N\u00e6r\u00f8",
-          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
-        },
-        {
-          "name": "Morten Reppesg\u00e5rd",
-          "url": "https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI"
-        },
-        {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
-        }
-      ],
-      "duration_ms": 231340,
-      "name": "Worlds Collide - Hannes Kretzer Rework",
-      "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
     },
     {
       "added_at": "2023-08-18 14:03:30",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-08-18 14:03:30",
       "album": {
-        "name": "Bluet",
-        "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
-      },
-      "artists": [
-        {
-          "name": "Ah! Kosmos",
-          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
-        },
-        {
-          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
-          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
-        }
-      ],
-      "duration_ms": 291096,
-      "name": "Bluet",
-      "url": "https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG"
-    },
-    {
-      "added_at": "2023-08-18 14:03:30",
-      "album": {
         "name": "Lovotic",
         "url": "https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 347784,
       "name": "Blessed Are The Lovers",
       "url": "https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA"
+    },
+    {
+      "added_at": "2023-08-18 14:03:30",
+      "album": {
+        "name": "Bluet",
+        "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+        }
+      ],
+      "duration_ms": 291096,
+      "name": "Bluet",
+      "url": "https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG"
     },
     {
       "added_at": "2023-08-18 14:03:30",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2023-08-18 14:03:30",
       "album": {
-        "name": "L'attente",
-        "url": "https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi"
+        "name": "Fighting Modernism EP",
+        "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
       },
       "artists": [
         {
-          "name": "Eskadet",
-          "url": "https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG"
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
         }
       ],
-      "duration_ms": 326362,
-      "name": "Apparences",
-      "url": "https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1"
+      "duration_ms": 231637,
+      "name": "Sony 7IV",
+      "url": "https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1"
     }
   ],
   "unique_name": "Electronic X",

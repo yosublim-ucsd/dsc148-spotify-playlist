@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Dee Gatti
 
-543 songs - 1 day 4 hr 33 min
+544 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1st Lady](https://open.spotify.com/track/4KNry6US58GNebuDaiYfHD) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [1st Lady](https://open.spotify.com/album/79gSwusnEUZB9tRNuiTVa5) | 3:12 | 2023-07-14 |  |
 | [2 O'Clock](https://open.spotify.com/track/0atUrqW5RpvfSlHCYBl4Qz) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:50 | 2023-02-03 | 2023-02-18 |
 | [2 You](https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [2 You](https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo) | 3:04 | 2021-12-15 | 2022-07-28 |
+| [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-18 |  |
 | [212](https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk) | 2:26 | 2023-05-05 |  |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2023-07-29 |
 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 | 2022-06-10 | 2022-12-03 |
@@ -226,7 +227,7 @@
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-15 | 2022-09-24 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-02-04 | 2022-07-29 |
 | [I Been](https://open.spotify.com/track/4elUB6bs5rrPbqlajs1oYp) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:41 | 2021-12-15 | 2022-08-27 |
-| [I Care](https://open.spotify.com/track/0YWmIEuPAIp8vezxX1m1Z3) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Lxrd Rossi](https://open.spotify.com/artist/10a1pn8WLc7Ek2uoy3s4JQ) | [Big Boss](https://open.spotify.com/album/0ZLuL6c8Kr4Vx2XTsWzTzQ) | 4:05 | 2023-05-12 |  |
+| [I Care](https://open.spotify.com/track/0YWmIEuPAIp8vezxX1m1Z3) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Lxrd Rossi](https://open.spotify.com/artist/10a1pn8WLc7Ek2uoy3s4JQ) | [Big Boss](https://open.spotify.com/album/0ZLuL6c8Kr4Vx2XTsWzTzQ) | 4:05 | 2023-05-12 | 2023-08-23 |
 | [I Deserve](https://open.spotify.com/track/0g5OzPkEGQeFiExxhUPjc3) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Deserve](https://open.spotify.com/album/3kZ8kuSmWXSJDeWjjTosUv) | 3:49 | 2021-12-15 | 2022-09-10 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-15 | 2022-09-24 |
 | [I Love You More Than You Know \(feat\. Childish Gambino\)](https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 4:23 | 2022-08-05 | 2023-01-28 |
@@ -448,7 +449,7 @@
 | [Spin the Block](https://open.spotify.com/track/6qmKEl7vp9UOhFEUlH1k2X) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/0WIyWP0I9sOm5zZkvFdc0u) | 3:49 | 2022-11-11 | 2023-08-14 |
 | [Spin the Block](https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:49 | 2022-11-11 |  |
 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 | 2022-09-09 | 2022-12-03 |
-| [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 | 2023-03-24 | 2023-08-20 |
+| [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 | 2023-03-24 |  |
 | [Stay](https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Stay](https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo) | 3:23 | 2023-06-02 |  |
 | [Stay Mad](https://open.spotify.com/track/3bNyIdiGPnepE6D6bOhGoQ) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Stay Mad](https://open.spotify.com/album/0F3csopuNUJxURyr9oZx1V) | 2:11 | 2021-12-15 | 2022-01-27 |
 | [Step 2 Me](https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Soulection](https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft) | [Soulection Takeover: 2K23 Edition](https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1) | 1:50 | 2023-01-27 |  |
@@ -479,7 +480,7 @@
 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-12-15 | 2023-02-24 |
 | [The Distance](https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [The Distance](https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d) | 3:22 | 2022-02-04 | 2022-04-20 |
 | [The Homie](https://open.spotify.com/track/40s9fTqos9irqz2kmNRbCq) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:40 | 2021-12-15 | 2022-07-29 |
-| [The One](https://open.spotify.com/track/4THEDAFFfKafxc78eZm2dj) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [4 PM In The Ville](https://open.spotify.com/album/5B1HM6z8jWC9LoRaKmfGqP) | 2:53 | 2023-06-23 |  |
+| [The One](https://open.spotify.com/track/4THEDAFFfKafxc78eZm2dj) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [4 PM In The Ville](https://open.spotify.com/album/5B1HM6z8jWC9LoRaKmfGqP) | 2:53 | 2023-06-23 | 2023-08-23 |
 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2022-12-02 | 2023-07-22 |
 | [Thug Cry](https://open.spotify.com/track/0sATEUoYEAH1zjfYSKIo8N) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Thug Cry](https://open.spotify.com/album/1MeVoCVoD5smZ3Z7urlmtu) | 2:59 | 2021-12-15 | 2022-07-10 |
 | [Thug Passion](https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Pray for a Beautiful Sky](https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M) | 3:49 | 2023-06-23 |  |

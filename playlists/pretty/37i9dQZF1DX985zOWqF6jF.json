@@ -1,12 +1,12 @@
 {
   "description": "Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo' ",
-  "num_followers": 9205,
+  "num_followers": 9241,
   "original_name": "Perreo de Dos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGM0NmIzYzUzMTcxYTY5MjQ3M2Q1ZDg3Y2Q3MmNkNDgxYWY4ODgw",
+  "snapshot_id": "MCwwMDZlYzA3OWQzNTJiNTY1ZGEyODI4NjY1MDczMzg0ZWZmMjQ2ZjJh",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -743,6 +743,26 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Velitas",
+        "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 225542,
+      "name": "Velitas",
+      "url": "https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "KrING",
         "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 229826,
       "name": "HASTA ABAJO",
       "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Velitas",
-        "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 225542,
-      "name": "Velitas",
-      "url": "https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -859,22 +859,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+        "name": "KrING",
+        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         }
       ],
-      "duration_ms": 216413,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
+      "duration_ms": 129332,
+      "name": "PPP",
+      "url": "https://open.spotify.com/track/3oB0bcIVRVZgCkWif0H4vV"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -927,18 +923,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "KrING",
-        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
       "artists": [
         {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 129332,
-      "name": "PPP",
-      "url": "https://open.spotify.com/track/3oB0bcIVRVZgCkWif0H4vV"
+      "duration_ms": 216413,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Umaye",
-        "url": "https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Umaye",
-      "url": "https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Paz",
         "url": "https://open.spotify.com/album/7lQMPfBaZEewTGeyPXz46u"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 186000,
       "name": "Paz",
       "url": "https://open.spotify.com/track/0zPR15MfQqMMotAnKesKR4"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Umaye",
+        "url": "https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Umaye",
+      "url": "https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "No Es Normal (con Jay Wheeler)",
-        "url": "https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "No Es Normal (con Jay Wheeler)",
-      "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "A Vapor",
         "url": "https://open.spotify.com/album/2lqSkqHqylnD3DMWxjRK9f"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 264426,
       "name": "A Vapor",
       "url": "https://open.spotify.com/track/0hEIE8XhFOhM2Okrf9sshs"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "No Es Normal (con Jay Wheeler)",
+        "url": "https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "No Es Normal (con Jay Wheeler)",
+      "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Esclava (Remix)",
+        "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
+      },
+      "artists": [
+        {
+          "name": "bryant mayers",
+          "url": "https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK"
+        }
+      ],
+      "duration_ms": 284281,
+      "name": "Esclava (Remix)",
+      "url": "https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
       },
@@ -1931,22 +1947,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Xplicit Content",
-        "url": "https://open.spotify.com/album/2iV5pcGbjFdQnHLzcYWyuW"
-      },
-      "artists": [
-        {
-          "name": "RMAND",
-          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
-        }
-      ],
-      "duration_ms": 144920,
-      "name": "Xplicit Content",
-      "url": "https://open.spotify.com/track/36ohb6o1C589APsOXrxYek"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Caviar (Remix)",
         "url": "https://open.spotify.com/album/6MqHZQWnjSniOgpnfYD1tC"
       },
@@ -1995,6 +1995,22 @@
       "duration_ms": 205142,
       "name": "Clito (feat. Lenny Tav\u00e1rez, Dalex & Brray)",
       "url": "https://open.spotify.com/track/5p9p6Z7WfvbztQ7eQa3qr0"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Xplicit Content",
+        "url": "https://open.spotify.com/album/2iV5pcGbjFdQnHLzcYWyuW"
+      },
+      "artists": [
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "duration_ms": 144920,
+      "name": "Xplicit Content",
+      "url": "https://open.spotify.com/track/36ohb6o1C589APsOXrxYek"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -2143,26 +2159,6 @@
       "duration_ms": 214054,
       "name": "Kush",
       "url": "https://open.spotify.com/track/4dyhfLyhSLLzqe7qXdvrZL"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Tan Rico",
-        "url": "https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Clandestino & Yailemm",
-          "url": "https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi"
-        }
-      ],
-      "duration_ms": 246937,
-      "name": "Tan Rico",
-      "url": "https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9"
     }
   ],
   "unique_name": "Perreo de Dos ",

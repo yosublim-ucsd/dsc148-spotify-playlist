@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: DannyLux.
 
-3,361 songs - 7 day 8 hr 24 min
+3,362 songs - 7 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2810,7 +2810,8 @@
 | [Simplemente Amigos \- En Vivo](https://open.spotify.com/track/7bTuxj0ZhgQSQm0cTpwJTM) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Desde Mazatlan \(En Vivo\)](https://open.spotify.com/album/2cOqedgiDXoZU0HJCbHUG1) | 2:17 | 2022-10-21 | 2022-10-29 |
 | [Sin Beneficio \- En Vivo](https://open.spotify.com/track/18j9QdokRIpbmIbE8fEd2p) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Sin Beneficio \(En Vivo\)](https://open.spotify.com/album/3oZBn894Hc2Mw6PKDSHJXb) | 2:39 | 2023-04-07 | 2023-04-15 |
 | [Sin Censura](https://open.spotify.com/track/1lAqzEHhPQdTPOIPfYOfjc) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Sin Censura](https://open.spotify.com/album/5ZD8xjHeIxf6EJg3Xp1FkY) | 3:26 | 2022-12-09 | 2022-12-17 |
-| [Sin Escalas](https://open.spotify.com/track/4YAgZYw2v8wyh5LVNV8Ta1) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/0FtcvjbtqVDC64pOq1UJMe) | 2:20 | 2023-08-18 |  |
+| [Sin Escalas](https://open.spotify.com/track/4YAgZYw2v8wyh5LVNV8Ta1) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/0FtcvjbtqVDC64pOq1UJMe) | 2:20 | 2023-08-18 | 2023-08-23 |
+| [Sin Escalas](https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/1daB1drE8UKC2vbKDGadJX) | 2:20 | 2023-08-18 |  |
 | [Sin Explicaciones](https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 2:52 | 2022-09-30 | 2022-10-08 |
 | [Sin Hacer Mucho Ruido](https://open.spotify.com/track/3V6lykCoXM9dcBaovxFy5A) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [Sin Hacer Mucho Ruido](https://open.spotify.com/album/3hVq8jQKZUArgrzLraYiYB) | 2:39 | 2022-08-19 | 2022-08-27 |
 | [Sin Instructivo](https://open.spotify.com/track/0LWOMX9KX6651zRuMunVSH) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Sin Instructivo](https://open.spotify.com/album/6MVd7rogG9g2kCmt6fy22j) | 3:06 | 2022-11-25 | 2022-12-03 |

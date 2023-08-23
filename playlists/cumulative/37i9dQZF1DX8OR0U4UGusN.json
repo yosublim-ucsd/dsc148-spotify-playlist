@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 144076,
       "name": "Magic City",
       "url": "https://open.spotify.com/track/3YJS5rTnXPsQgzZyIyC3Xw"
@@ -3118,6 +3118,24 @@
       "duration_ms": 215138,
       "name": "no me falta nada",
       "url": "https://open.spotify.com/track/6yiH4fLImaQ6LTm4uQx3ok"
+    },
+    {
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p"
+      },
+      "artists": [
+        {
+          "name": "Mosie",
+          "url": "https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234230,
+      "name": "Oh! Frenchy",
+      "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
     },
     {
       "album": {

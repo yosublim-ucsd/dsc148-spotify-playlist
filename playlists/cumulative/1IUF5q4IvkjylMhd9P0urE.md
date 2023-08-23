@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-391 songs - 22 hr 45 min
+392 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Flimsier](https://open.spotify.com/track/6IXan50zp9ZEdtkF0vsFAj) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/36tUlc8fGxaUTv4cLmC9UJ) | 3:59 | 2023-07-03 |  |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-01-18 | 2023-05-24 |
 | [FOREIGN EXCHANGE](https://open.spotify.com/track/2zCYHUapGleoIRIzV2Pibg) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp5000](https://open.spotify.com/album/2NbXyRbMzqaiE548rmj9qW) | 3:17 | 2022-09-16 | 2022-11-09 |
+| [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 | 2023-08-22 |  |
 | [FORGET](https://open.spotify.com/track/1uYT2uYHRrWOrTz3EQyLK2) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [CAMEO](https://open.spotify.com/album/48B7jkbp9jFzx09Ne4gKIt) | 3:59 | 2023-04-13 | 2023-08-04 |
 | [Freak](https://open.spotify.com/track/7w7rUZJKHDSB5Naqw3vcxM) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Freak](https://open.spotify.com/album/4az2wznRc4hPHy94DdabI0) | 2:28 | 2022-11-08 | 2022-12-20 |
 | [Free In The Knowledge / A Hairdryer \- Live at Montreux Jazz Festival](https://open.spotify.com/track/6GNzl4ZHlgSfI9VdwoViKj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [The Smile \(Live at Montreux Jazz Festival, July 2022\)](https://open.spotify.com/album/6x4C6uMJqQnnp4V39p2CeO) | 11:53 | 2022-12-15 | 2023-02-11 |

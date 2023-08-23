@@ -19615,6 +19615,28 @@
     },
     {
       "album": {
+        "name": "The Light (feat. Bahia Dayes)",
+        "url": "https://open.spotify.com/album/4SecYNmUfTlg29S48YfIyr"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Bahia Dayes",
+          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340840,
+      "name": "The Light (feat. Bahia Dayes)",
+      "url": "https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ"
+    },
+    {
+      "album": {
         "name": "Common Ground",
         "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
       },

@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 13022,
+  "num_followers": 13077,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjFmZTc5NDcwNWEwZDViZTFlMzQ1YWNjMWI1YzVjNGNkYzU1NDU2",
+  "snapshot_id": "MCxmZTlhYTY3ZDc0ZWJiNzdmNjY1NmIwOGU3ZjQwMDhlNTFlMjIyMmZj",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
+      },
+      "artists": [
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 320012,
+      "name": "Olufunmi",
+      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Love & Trust",
         "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 165217,
       "name": "Love and Trust",
       "url": "https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
-      },
-      "artists": [
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 320012,
-      "name": "Olufunmi",
-      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Complete",
-        "url": "https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD"
-      },
-      "artists": [
-        {
-          "name": "T'neeya",
-          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
-        }
-      ],
-      "duration_ms": 160862,
-      "name": "Complete",
-      "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "No Closure",
         "url": "https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 185997,
       "name": "No Closure",
       "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Complete",
+        "url": "https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "duration_ms": 160862,
+      "name": "Complete",
+      "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
     },
     {
       "added_at": "2023-08-17 23:00:00",

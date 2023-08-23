@@ -4,7 +4,7 @@
 
 > LeeHi's here for you, Hice Creams!
 
-105 songs - 6 hr 34 min
+106 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Scarecrow](https://open.spotify.com/track/7xKxOpLTtfk0LGM3FfYXZt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Scarecrow](https://open.spotify.com/album/379SRCYYEmc2mlPdjMo55S) | 4:23 | 2022-03-14 | 2022-07-29 |
 | [Special](https://open.spotify.com/track/4MwT3qzF3tfMtSFr9b2nKa) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:56 | 2022-03-14 |  |
 | [Special](https://open.spotify.com/track/4mvYxbLsjxt4sMYBgB1XT8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 3:56 | 2022-03-14 | 2022-07-29 |
-| [Sway](https://open.spotify.com/track/5stdUO4GG7DUTEEi9phHDe) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 6](https://open.spotify.com/album/0RC3Zi3iVJqEsk2L4TMpTN) | 3:24 | 2022-03-14 |  |
+| [Sway](https://open.spotify.com/track/5stdUO4GG7DUTEEi9phHDe) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 6](https://open.spotify.com/album/0RC3Zi3iVJqEsk2L4TMpTN) | 3:24 | 2022-03-14 | 2023-08-23 |
+| [Sway \(푸시캣돌스\)](https://open.spotify.com/track/40b0zEI13mYnmNA8VSyx6W) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 6](https://open.spotify.com/album/53i3A4spyFNPr5IO5g6Is4) | 3:24 | 2022-03-14 |  |
 | [Turn It Up](https://open.spotify.com/track/02L48nV0vwTuXl9bLIlMFn) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 1:47 | 2022-03-14 |  |
 | [Turn It Up](https://open.spotify.com/track/0t6hr8idp6EACxH95LCbjC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 1:47 | 2022-03-14 | 2022-07-29 |
 | [U Go Girl](https://open.spotify.com/track/3qYgty7NLEqtlp5g3zcaf0) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 Top 3](https://open.spotify.com/album/2KnJ8hw1rWRdrsnRqo4CQz) | 3:41 | 2022-03-14 |  |

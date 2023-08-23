@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 346886,
+  "num_followers": 346940,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjQ1Mzc3ZWExM2U5NDBiYjY3YTQyNTEyMmVlZTBlNTUwOGE5NGJk",
+  "snapshot_id": "MCw1NGRlMDQxNjE2MDdlYTRjM2Y0ODUxYTBhM2NiNzgzMGRkMjQzNjlj",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Disco Hearts",
-        "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        },
-        {
-          "name": "Laura Davie",
-          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Disco Hearts",
-      "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "I Discover",
         "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Disco Hearts",
+        "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Disco Hearts",
+      "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
     },
     {
       "added_at": "2023-08-18 04:00:00",

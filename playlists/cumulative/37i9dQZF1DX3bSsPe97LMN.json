@@ -6322,10 +6322,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-23",
       "duration_ms": 140283,
       "name": "Sin Escalas",
       "url": "https://open.spotify.com/track/4YAgZYw2v8wyh5LVNV8Ta1"
+    },
+    {
+      "album": {
+        "name": "Los 2 de la S Y Sus Amigos",
+        "url": "https://open.spotify.com/album/1daB1drE8UKC2vbKDGadJX"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140283,
+      "name": "Sin Escalas",
+      "url": "https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP"
     },
     {
       "album": {
