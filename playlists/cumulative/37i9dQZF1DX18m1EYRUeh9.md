@@ -4,12 +4,13 @@
 
 > Smooth joints from around the globe
 
-92 songs - 6 hr 14 min
+94 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7PM](https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:31 | 2023-08-10 | 2023-08-18 |
-| [A New God Before Us](https://open.spotify.com/track/1GUyaMubKrVoAC3ca6D9Mb) | [Holy Tongue](https://open.spotify.com/artist/261n3GnAgoCgSmqan7OL7o) | [Deliverance and Spiritual Warfare](https://open.spotify.com/album/0nyzXhNH1TcEghjaiI9pAZ) | 3:32 | 2023-08-10 |  |
+| [A New God Before Us](https://open.spotify.com/track/1GUyaMubKrVoAC3ca6D9Mb) | [Holy Tongue](https://open.spotify.com/artist/261n3GnAgoCgSmqan7OL7o) | [Deliverance and Spiritual Warfare](https://open.spotify.com/album/0nyzXhNH1TcEghjaiI9pAZ) | 3:32 | 2023-08-10 | 2023-08-24 |
+| [A New God Before Us](https://open.spotify.com/track/1sfMxHmmFFOOCKBqtXyBGw) | [Holy Tongue](https://open.spotify.com/artist/261n3GnAgoCgSmqan7OL7o) | [Deliverance and Spiritual Warfare](https://open.spotify.com/album/1AfM1mYwdvA6mUatRtpGqx) | 3:32 | 2023-08-17 |  |
 | [A1](https://open.spotify.com/track/2PLvCLvJWw5WQmrFmtR5Mg) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [A1](https://open.spotify.com/album/4kRHyTMRGhBcDDRHUxQz7p) | 2:35 | 2023-08-10 |  |
 | [ACE](https://open.spotify.com/track/3nzqvaPIdREQwaK9hN5uAH) | [Slowmango](https://open.spotify.com/artist/6HeP0AhbHupgZpRQRwkXX5) | [ACE](https://open.spotify.com/album/7gEvFzmzSsBBGpMTvS4m9H) | 3:57 | 2023-08-10 |  |
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2023-08-10 |  |
@@ -62,7 +63,8 @@
 | [On Land \- Hugh B Dub](https://open.spotify.com/track/754xe1zYNdjnHjxFM3nInA) | [Loose Fit](https://open.spotify.com/artist/0uheKgZvAN1XtSaIsSV3IO), [Hugh B](https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn) | [Remixes and Dubs](https://open.spotify.com/album/44fftVVsXoC0zoDrUPpRSS) | 4:10 | 2023-08-10 |  |
 | [Oscillate](https://open.spotify.com/track/2KCj8oBO9PmOgSOqEOyQQK) | [Alexander Flood](https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz) | [Oscillate](https://open.spotify.com/album/0mTLIPyWBKcuMRXnOj1yH6) | 6:13 | 2023-08-10 |  |
 | [Over The Moon](https://open.spotify.com/track/5asQpx4UqHbWOYBNP375Qv) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 3:32 | 2023-08-10 |  |
-| [Pash Rash](https://open.spotify.com/track/1Wl1mqm9URwTkFcfTOBI78) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Pash Rash](https://open.spotify.com/album/6LG9QQHDTyZhtrjBaa9cPN) | 6:08 | 2023-08-10 |  |
+| [Pash Rash](https://open.spotify.com/track/1Wl1mqm9URwTkFcfTOBI78) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Pash Rash](https://open.spotify.com/album/6LG9QQHDTyZhtrjBaa9cPN) | 6:08 | 2023-08-10 | 2023-08-24 |
+| [Pash Rash](https://open.spotify.com/track/1geU3dUBoTtkCoCJmU2L5D) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 6:08 | 2023-08-17 |  |
 | [phoenix](https://open.spotify.com/track/0JiS119XxHV9RfowD0GnIJ) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [phoenix](https://open.spotify.com/album/43nJVcXlrXfu540KyCab82) | 2:33 | 2023-08-10 |  |
 | [Plate](https://open.spotify.com/track/3vFG1ZcB68ACOdeY99aYIm) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Forever Forever](https://open.spotify.com/album/338Gexpd2aM74CJBGfcuDC) | 3:27 | 2023-08-17 |  |
 | [poor man's boy](https://open.spotify.com/track/37078l3sNWX5jqt6PockGR) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [poor man's boy](https://open.spotify.com/album/5jZKYpgLEzCohYyYejUD4L) | 3:44 | 2023-08-10 | 2023-08-18 |

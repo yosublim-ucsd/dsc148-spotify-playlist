@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. Genesis Owusu on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,641 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,656 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Clusterfunk](https://open.spotify.com/track/72XBKleAwVl37YC6m17jAe) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Clusterfunk](https://open.spotify.com/album/0rFhlL58D0qQENlrQyd0jh) | 3:07 |
 | 100 | [Shibari](https://open.spotify.com/track/7sx0yE5ZDoQlJhDx6uwii1) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [Shibari](https://open.spotify.com/album/3KmBCZN13tpwXxT6QJKgvf) | 2:31 |
 
-Snapshot ID: `MCxhNWE3ZDlkNTIwMmQ0OWRiYTdmYjJhODE2ZTM4ZjY0ZjRhOWE0NWM2`
+Snapshot ID: `MCw2NzQxNGE0NWUwMzZkMWU0NTAxNjYxOTBiMGU3NTYwMzdmYmExN2Q2`

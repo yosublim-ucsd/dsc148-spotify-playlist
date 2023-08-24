@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 48491,
+  "num_followers": 48518,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzZiMjU1YzM3YjFkNDI4OGQ0YTU1MmU4MDQ5NjBmZGFjYzY4NDVi",
+  "snapshot_id": "MCw3ZjViZWM3ODY2ODQ0MDRkZDIyOGU0MzRkZmViZGFkMzcxMTZkN2E5",
   "tracks": [
     {
       "added_at": "2023-07-17 06:17:21",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Kiss The Rain",
-      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -231,22 +231,18 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "\ub208 (SNOW)",
-        "url": "https://open.spotify.com/album/5PEqgoVQje28EbUTKPbVFn"
+        "name": "vacation",
+        "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
       },
       "artists": [
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Lee Moon Sae",
-          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
         }
       ],
-      "duration_ms": 240000,
-      "name": "\ub208 (SNOW) (Feat. \uc774\ubb38\uc138 (Lee Moon Sae))",
-      "url": "https://open.spotify.com/track/62SJ5qkvcNBorQ6QNg6Xcb"
+      "duration_ms": 215353,
+      "name": "vacation",
+      "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -267,18 +263,22 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "vacation",
-        "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
+        "name": "\ub208 (SNOW)",
+        "url": "https://open.spotify.com/album/5PEqgoVQje28EbUTKPbVFn"
       },
       "artists": [
         {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
         }
       ],
-      "duration_ms": 215353,
-      "name": "vacation",
-      "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
+      "duration_ms": 240000,
+      "name": "\ub208 (SNOW) (Feat. \uc774\ubb38\uc138 (Lee Moon Sae))",
+      "url": "https://open.spotify.com/track/62SJ5qkvcNBorQ6QNg6Xcb"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "BETTER - The 10th Album",
-        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 238093,
-      "name": "All That Jazz",
-      "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/5PNgP4gYjqhxDAT1GrNTme"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 205854,
       "name": "Sweet lies",
       "url": "https://open.spotify.com/track/7sBMBr6SoNS4LrDAbyVwRR"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 238093,
+      "name": "All That Jazz",
+      "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
-        },
-        {
-          "name": "SONG JU HEE",
-          "url": "https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC"
-        }
-      ],
-      "duration_ms": 178886,
-      "name": "ROSE",
-      "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
         "name": "LISH",
         "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 224778,
       "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
       "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
+        },
+        {
+          "name": "SONG JU HEE",
+          "url": "https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC"
+        }
+      ],
+      "duration_ms": 178886,
+      "name": "ROSE",
+      "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
     },
     {
       "added_at": "2023-07-17 06:17:21",

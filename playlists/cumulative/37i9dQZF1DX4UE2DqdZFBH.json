@@ -163,6 +163,36 @@
     },
     {
       "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS"
+      },
+      "artists": [
+        {
+          "name": "Alam Khan",
+          "url": "https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG"
+        },
+        {
+          "name": "Arjun K. Verma",
+          "url": "https://open.spotify.com/artist/7zRwN2RRNF3NJ0YjBprXDk"
+        },
+        {
+          "name": "Del Sol Quartet",
+          "url": "https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH"
+        },
+        {
+          "name": "Ojas Adhiya",
+          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119850,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/4i6XRMX1DRgJVZIRHjGHYe"
+    },
+    {
+      "album": {
         "name": "Moods of Yoga - Asana",
         "url": "https://open.spotify.com/album/7g7ZeAYpbui7XaEEgea1qH"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest rock playlist. Cover: Lauran Hibberd",
-  "num_followers": 585772,
+  "num_followers": 585761,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTgyOGI2ZmJlODJkZWM2ODRhYjdkODJmZTI0OWZlMGUxZjE3MmMy",
+  "snapshot_id": "MCw0ZjE3NzdhMjM3MzNjZWI0NDcwMGQxY2ViN2Q3M2FkOWFhNmJkMTg4",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -775,7 +775,7 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "follow:noise",
+        "name": "follow: noise",
         "url": "https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN"
       },
       "artists": [

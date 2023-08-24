@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,951 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,019 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 6 | [Temperature High](https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Temperature High](https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD) | 3:10 |
 | 7 | [Wherever You Are](https://open.spotify.com/track/7JcykXZ7KhEe5hvv1Rt7A1) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 4:51 |
 | 8 | [Dedicated to Tar Feather \- Kitchen Table Session](https://open.spotify.com/track/2K945KyrJtHmqi3q38OUwa) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko) | [Dedicated to Tar Feather \(Kitchen Table Session\)](https://open.spotify.com/album/0gnRq4Rzey5prEtuln9xYe) | 2:40 |
-| 9 | [Running](https://open.spotify.com/track/3owyO7tQEuebTfSehSNEV0) | [Millie Mountain](https://open.spotify.com/artist/6DVdCYxPalV6GXHAFhEkIG), [Tom Ford](https://open.spotify.com/artist/16Hec1v49TSJCAwuXYcPn1) | [Running](https://open.spotify.com/album/2cdz9UdAt09UkQQ5bJdOBT) | 3:46 |
+| 9 | [Running](https://open.spotify.com/track/3owyO7tQEuebTfSehSNEV0) | [Millie Mountain](https://open.spotify.com/artist/6DVdCYxPalV6GXHAFhEkIG), [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE) | [Running](https://open.spotify.com/album/2cdz9UdAt09UkQQ5bJdOBT) | 3:46 |
 | 10 | [Late Night](https://open.spotify.com/track/1oDqQxCjKXJOjXaj8EtElC) | [SANITY](https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [MELONYX](https://open.spotify.com/artist/5Bb7SM8dO0eA31copoScl6) | [Late Night](https://open.spotify.com/album/7v0MAUldWD7QjUn0EcUAC3) | 2:58 |
 | 11 | [Trials Of A Dream](https://open.spotify.com/track/56DYPStYTJVPSuIGdqUwAw) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Trials Of A Dream \- Chapter I](https://open.spotify.com/album/1n6cXBVg3LAjGY3uAP8pr1) | 3:43 |
 | 12 | [The Chase \(Strings Attached\)](https://open.spotify.com/track/52f2ccR0PPgZPRcoRbDK1K) | [Michael Leonhart](https://open.spotify.com/artist/0mChXKL4LlV2jiSBTn97j3), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [DJ Logic](https://open.spotify.com/artist/75GlHUh2Mr5IthCCRptIQV) | [The Chase \(Strings Attached\)](https://open.spotify.com/album/64HcsqawVw1JLDCB9nTHEa) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Pitaya](https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Pitaya](https://open.spotify.com/album/2GZbFLOgJWgoUecKVhEIy1) | 2:42 |
 | 100 | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/track/7k7644SNGKVmveIR99RlAB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/album/64289Z7VZZvOMyjr7yBeG7) | 3:18 |
 
-Snapshot ID: `MCwyZGE0ODMxNmVlMDkyYTA5MzlhODQ4NTQzMjkzNThkNzM4OWUxMTUw`
+Snapshot ID: `MCxiYTc3NDlkMmZlNWY1ODdhYmZiNGY2MjJkN2RmYjY5MDY0ZTcxMDEw`

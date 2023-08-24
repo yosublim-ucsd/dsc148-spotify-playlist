@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 15021,
+  "num_followers": 15023,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTc3N2QwODU5MjdkN2ZkODhjODU2YzAxNTVhZGRlMDdkNjI4MDhl",
+  "snapshot_id": "MCw2M2UzZGRiMzE4NGIzZWU3NjhjZTRlZmNhNzI1ODU5MWZmNTFkMGFj",
   "tracks": [
     {
       "added_at": "2023-05-24 15:45:04",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Latest Greatest Straitest Hits",
-        "url": "https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "The Best Day",
-      "url": "https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "At The Speed Of Life",
         "url": "https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 235400,
       "name": "The Foundation",
       "url": "https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Latest Greatest Straitest Hits",
+        "url": "https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "The Best Day",
+      "url": "https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG"
     },
     {
       "added_at": "2022-06-09 16:13:45",

@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 3205,
+  "num_followers": 3223,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2Q2NmVlMmFiZDBjODI3NWVmNzU3NWYwNGVhZmQ4YmQ1ZjkzNjA5",
+  "snapshot_id": "MCwwYTBmMzA1NTA1ZjM2MzUxODYwZjhmNDQwM2ZiZDEyNDZhYzNkMTUy",
   "tracks": [
     {
       "added_at": "2023-08-10 23:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Nkunim (The Victory Song)",
-        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
-      },
-      "artists": [
-        {
-          "name": "Carl Clottey",
-          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
-        }
-      ],
-      "duration_ms": 409432,
-      "name": "Nkunim (The Victory Song)",
-      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 213333,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Nkunim (The Victory Song)",
+        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
+      },
+      "artists": [
+        {
+          "name": "Carl Clottey",
+          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
+        }
+      ],
+      "duration_ms": 409432,
+      "name": "Nkunim (The Victory Song)",
+      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk"
-      },
-      "artists": [
-        {
-          "name": "Irene Logan",
-          "url": "https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz"
-        }
-      ],
-      "duration_ms": 321881,
-      "name": "More",
-      "url": "https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Perfect Love (Romans 8:38-39)",
         "url": "https://open.spotify.com/album/4jYS7PnRh5Pv2ym6pmmmOe"
       },
@@ -871,6 +855,26 @@
       "duration_ms": 176500,
       "name": "Perfect Love (Romans 8:38-39)",
       "url": "https://open.spotify.com/track/45Jaa9BfSzCWck93WKD9EA"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Amenuveve (Grace)",
+        "url": "https://open.spotify.com/album/2YVcZs92qwPnKFo0duGv6f"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Bethel Revival Choir",
+          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
+        }
+      ],
+      "duration_ms": 408235,
+      "name": "Amenuveve (Grace)",
+      "url": "https://open.spotify.com/track/7JQjnwndY82ga5gWjTzTMC"
     }
   ],
   "unique_name": "Aseda",

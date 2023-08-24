@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa?si=0ad9d8da816b4022">AMAKA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,283 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,299 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 62 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 |
 | 63 | [Wetin No Good \(Remix\)](https://open.spotify.com/track/4i7WFJtcQYZEY2gIqz6pBN) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Wetin No Good \(Remix\)](https://open.spotify.com/album/0xrMCKn0ROUeUpU8XZooav) | 2:58 |
 | 64 | [Casamigos](https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Casamigos](https://open.spotify.com/album/0fhG0rYGnIX8l9lzn9WRed) | 2:22 |
-| 65 | [Glow on You](https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg) | [Street Symphony](https://open.spotify.com/artist/3VqgsVyCuUFy3qEDvn0HXP), [Soda Supreme](https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4) | [Glow on You](https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9) | 2:53 |
+| 65 | [Glow On You](https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg) | [Street Symphony](https://open.spotify.com/artist/3VqgsVyCuUFy3qEDvn0HXP), [Soda Supreme](https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4), [YourSndTrk](https://open.spotify.com/artist/2f0KE1Um0D4vszSkad3J5p) | [Glow On You](https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9) | 2:53 |
 | 66 | [Just Earth with New Skin](https://open.spotify.com/track/13QRcBHGVhUERv5rTqFqk3) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Terraform: The Possibility](https://open.spotify.com/album/5D1nLOVbRT9ThDfkKeeh7Q) | 3:20 |
 | 67 | [Damn, Crazy](https://open.spotify.com/track/2OJQNNnEiXyXiNRfl9Q0a2) | [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu) | [Damn, Crazy](https://open.spotify.com/album/7obgy7wcL3CgpiJGthVxuT) | 1:35 |
 | 68 | [FIND MY WAY](https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [FIND MY WAY](https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5) | 1:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Big Motion Ft Money Man](https://open.spotify.com/track/0m6KwKbig8S2kE7pYLSqXc) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Snake Me](https://open.spotify.com/album/2311S2LhvI7TfK6SqdvkWf) | 2:50 |
 | 100 | [Da Fuck](https://open.spotify.com/track/2PAj0RWVzQolTHLDEgpj4b) | [DonMonique](https://open.spotify.com/artist/2QcGQ2p4IU6Nyyg3gden98) | [Da Fuck](https://open.spotify.com/album/7lx5kDxQL1V4Rxa20nSYEB) | 2:22 |
 
-Snapshot ID: `MCw2MmVkNDQ4NzA1NDFhY2YzMzEzZjNmMjkwYWMxMGIxNDc5MDNjNDI4`
+Snapshot ID: `MCxmMTc1MzQ1NTU5YTY5MzliNGJiZDM0MTFlZWZhYzg2OTliYTk3MjRj`

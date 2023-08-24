@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Days and Routes",
+        "url": "https://open.spotify.com/album/7xrpAUON5vsFWHisBdWT9U"
+      },
+      "artists": [
+        {
+          "name": "Louie Hobbs Trio",
+          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155697,
+      "name": "Days and Routes",
+      "url": "https://open.spotify.com/track/53gKR7VesC3P6x0ggY6QGO"
+    },
+    {
+      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 
 > Acoustic versions of well\-known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,537 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,574 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 101 | [Somewhere Only We Know](https://open.spotify.com/track/5AXyf6LS4D7QYp3JAJKW7F) | [Reneé Dominique](https://open.spotify.com/artist/2Xr7M6vawpp6zwKOMU7iBU) | [Somewhere Only We Know](https://open.spotify.com/album/7xIuo7UM59SF3bxvNODu7Q) | 3:49 |
 | 102 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 |
 
-Snapshot ID: `MCxjOWI1ZWEzZDA4MGE3N2Y3MjQyMGZjMmI3MGYzNzY3NjkyODJmZTdm`
+Snapshot ID: `MCxkNDAyNzZlMjRmOTg2OGEyMTFmMmU3MTNlOGEzYjBkZjk5MzkzN2Iw`

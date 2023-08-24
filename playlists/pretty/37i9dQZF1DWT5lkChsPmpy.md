@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,248 likes - 200 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,413 likes - 200 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 6 | [Warm Winds](https://open.spotify.com/track/1EubxR3TjnZ8lRaUeEGUI8) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Warm Winds](https://open.spotify.com/album/4doPmHXFsoan270EY5wMoG) | 2:23 |
 | 7 | [Terminus](https://open.spotify.com/track/0BbrZBVVUqCoTmXqVuu51Z) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS) | [Terminus](https://open.spotify.com/album/6nVqW8PZWP65AcP7j3MDB0) | 2:34 |
 | 8 | [Il Mondriano](https://open.spotify.com/track/2ZibD5qD4jwNZop2b1Makp) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Il Mondriano](https://open.spotify.com/album/6kXz6KY2SuqFbq2O9qwnzG) | 3:27 |
-| 9 | [lighting](https://open.spotify.com/track/2MRALsAuVvzfUAHP0RT2er) | [Gramercy](https://open.spotify.com/artist/23QXvk7uAn0oRrURb1YMQG) | [lighting](https://open.spotify.com/album/5f3JBcC6rK8b7pieUCPHsE) | 2:54 |
+| 9 | [lighting](https://open.spotify.com/track/2MRALsAuVvzfUAHP0RT2er) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [lighting](https://open.spotify.com/album/5f3JBcC6rK8b7pieUCPHsE) | 2:54 |
 | 10 | [All In](https://open.spotify.com/track/0J4GC21u9mvvZv6AS0f2dv) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [All In](https://open.spotify.com/album/0ypQJe3UArCxJJKP1DJWw8) | 2:37 |
 | 11 | [Zodiac Interstellar](https://open.spotify.com/track/2lOa0pC5BbOchxyxWg9EPS) | [Mimimi](https://open.spotify.com/artist/5RE5W8McrdwFqlv0mG2Jet) | [Zodiac Interstellar](https://open.spotify.com/album/0U6GqcJAnfi8qr9KCwVzpJ) | 2:34 |
 | 12 | [Humbling](https://open.spotify.com/track/1kcX7g54f1TW6JtzIXJI6F) | [NueBoo](https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [Window Shades](https://open.spotify.com/album/5Yh3xIKw4VK04mSZXPLIyN) | 2:30 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 199 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 |
 | 200 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 |
 
-Snapshot ID: `MCw5ZWJhMmVjMDczNTQ4NDU2MmNhNjE0YTJmODkwN2U3MjFkZjQ3MzQ0`
+Snapshot ID: `MCwyN2I3ZTg3ZGFjZmZiY2U3NjgyMzFiZWMyM2FlMDI2ZWNlODk3Nzcx`

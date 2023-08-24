@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: Architrackz, Kempi & Kalibwoy
 
-666 songs - 1 day 5 hr 59 min
+667 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 | 2023-04-06 | 2023-07-07 |
 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(feat\. Ayra Starr & Omah Lay\) \[Remix\]](https://open.spotify.com/album/689njStjzEujqVZtSDlpha) | 3:04 | 2023-03-23 | 2023-04-12 |
 | [Personal](https://open.spotify.com/track/7JM7sFQCcuErfMfN5YAIGU) | [LVZY](https://open.spotify.com/artist/5URgLdTZE8arO0jtby46BG), [Lienz](https://open.spotify.com/artist/11GMr695MGyabd8etqZQWz), [Beat Fabrique](https://open.spotify.com/artist/7t61VJCf7tWsjuMRpr1OiV) | [Personal](https://open.spotify.com/album/5ys0fnR2mKWub5L5OuaBHy) | 2:10 | 2023-07-06 | 2023-07-21 |
+| [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 | 2023-08-23 |  |
 | [PIA](https://open.spotify.com/track/14xQPLY3byTrvd5VwFtdJS) | [Nordin](https://open.spotify.com/artist/6IdSqpFPyjKzO3z56xzoaK), [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [PIA](https://open.spotify.com/album/6P52y85mLpW3HLuoL2iNKz) | 2:25 | 2023-05-25 | 2023-07-21 |
 | [Ping Pong](https://open.spotify.com/track/42GlLOlvrkjaP3zLPfFJdH) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Ping Pong](https://open.spotify.com/album/7HfVLB0nKCC7HNVNGtbdSQ) | 2:23 | 2023-06-08 | 2023-07-07 |
 | [Pinot Grigio](https://open.spotify.com/track/0VmQojt349tz7uTtxCtLht) | [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Pinot Grigio](https://open.spotify.com/album/795xCyBwqeCZGLecDg3Ign) | 2:49 | 2023-02-23 | 2023-03-03 |

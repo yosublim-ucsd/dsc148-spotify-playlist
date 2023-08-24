@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-879 songs - 1 day 21 hr 53 min
+880 songs - 1 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Costa Rica](https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Costa Rica](https://open.spotify.com/album/4ywSu0JCtzQD1IpXZn2eQf) | 2:21 | 2022-02-22 | 2023-03-22 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-03 | 2023-05-01 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-04 | 2022-12-09 |
-| [Csakaszesz](https://open.spotify.com/track/1oE9IMmIrHx7DPIFL43WEn) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Nitro](https://open.spotify.com/album/58zbBHgXAqP06UBBjwOSs5) | 2:37 | 2023-06-23 |  |
+| [Csakaszesz](https://open.spotify.com/track/1oE9IMmIrHx7DPIFL43WEn) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Nitro](https://open.spotify.com/album/58zbBHgXAqP06UBBjwOSs5) | 2:37 | 2023-06-23 | 2023-08-24 |
 | [Csakaszesz](https://open.spotify.com/track/623u7OpPyVRc77cGOlX65n) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Csakaszesz](https://open.spotify.com/album/3bvEZQLNygrRkdyf5J9I8k) | 2:37 | 2023-05-27 | 2023-06-24 |
 | [Csavargó](https://open.spotify.com/track/1jI95q1ZSLZuVNdOMwaoUL) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [Csavargó](https://open.spotify.com/album/7brKQyvjCymITjb8SEZiZe) | 2:54 | 2023-01-23 |  |
 | [Csinibaba](https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt) | [Kiss Kevin](https://open.spotify.com/artist/2qiyCYzYvsFEsMn1gSMNed) | [Csinibaba](https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7) | 2:30 | 2022-09-22 | 2023-06-01 |
@@ -264,7 +264,7 @@
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-06-08 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-05-08 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 | 2023-03-12 |
-| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 |  |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-08-24 |
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-02-07 | 2022-03-06 |
 | [Forog a világ](https://open.spotify.com/track/1cf5u4F1zIvn9wUjhqzxm9) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Forog a világ](https://open.spotify.com/album/7apll1uOGqxEzQHmc7PlB5) | 2:36 | 2022-11-22 | 2023-08-18 |
 | [four moods](https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 3:23 | 2022-08-11 |  |
@@ -400,6 +400,7 @@
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-27 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-25 |
 | [Kellett A Pénz](https://open.spotify.com/track/70tnUXPayf0nDQFAObwsVi) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Kellett A Pénz](https://open.spotify.com/album/4ZVKUo36Fz6dZ2h0o5E19k) | 2:38 | 2021-08-10 | 2021-09-19 |
+| [Keringő](https://open.spotify.com/track/1U2IOLDqC5iST9gcUcGs6W) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Keringő](https://open.spotify.com/album/1KS4UPVoDgNqIvU0603RbA) | 3:38 | 2023-08-23 |  |
 | [Kik Lehetnénk Mi?](https://open.spotify.com/track/1rxDPdLThry1tMvaPnvUQI) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Kik Lehetnénk Mi?](https://open.spotify.com/album/4sttHTZXp2qSP3fqf8e1pv) | 2:45 | 2021-11-24 | 2021-12-12 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-28 | 2023-04-06 |
 | [Kincsem 2](https://open.spotify.com/track/7kNQcIdtqUgXgbCsSoK6NF) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:08 | 2023-04-08 | 2023-04-16 |
@@ -710,7 +711,7 @@
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-14 |
 | [Sonne](https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 4:32 | 2023-07-13 | 2023-07-15 |
 | [Sose alszok](https://open.spotify.com/track/7db8yyr25wPV2grLqDtC6x) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:13 | 2023-04-08 | 2023-04-13 |
-| [Spanom](https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Fotofóbia](https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i) | 3:31 | 2022-04-21 | 2023-08-20 |
+| [Spanom](https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Fotofóbia](https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i) | 3:31 | 2022-04-21 |  |
 | [Spanom ugyanez](https://open.spotify.com/track/5qJgc1CpZl45RfZXyRHeFd) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Kolg8eight](https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO), [Csoky](https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:20 | 2023-04-08 | 2023-04-22 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-05 | 2022-11-07 |
 | [spirál](https://open.spotify.com/track/2lnmvnD0OW8ToJeddFWKzH) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Kolg8eight](https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO), [Gosha](https://open.spotify.com/artist/3QRgUDiW6dylLfOkO5miiz) | [úton](https://open.spotify.com/album/6RuuMs24vFydEgnyX7nA61) | 3:24 | 2023-01-07 | 2023-01-09 |

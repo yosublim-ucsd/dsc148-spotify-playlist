@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 
 > Celebrating the oral tradition of Punjabi poetry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,570 likes - 28 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,579 likes - 28 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 | 27 | [Chah Da Cup, Pt\. 2](https://open.spotify.com/track/0FfqoDtNVC7pSoyVz9MvaL) | [Babu Chandigarhia](https://open.spotify.com/artist/2chDSHehyzR81P7jIxq2nB), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Chah Da Cup 2](https://open.spotify.com/album/23iXMTjeU5SFld7PiX3Nnd) | 5:50 |
 | 28 | [Bulley Shah \- Unplugged](https://open.spotify.com/track/4BlL9VYXAYuXc1vNpz6Dc6) | [Silinder Pardesi](https://open.spotify.com/artist/7DAQ0MYm1LQ00GbF7OrtZO) | [Hey Soniye](https://open.spotify.com/album/5A7GfTsFQTO3yiOeJUC9HP) | 4:19 |
 
-Snapshot ID: `MCwwZTA1MWE4NjU1MGZhMTVjYmY3Yjc2YjliYmYyZjNiYzliYWNkYTM1`
+Snapshot ID: `MCxmZTYwZDRjYzgzNmFmZjhjMTkzMDFlZGVmYjk1MzQxYjU0OTgwOTgx`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 12695,
+  "num_followers": 12723,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2UwODE5YmExOTM5OTA0ZDI0NTJjYjRkZjAxODViZTM3N2E0MzRk",
+  "snapshot_id": "MCwwYzQyMzU1NGJmNTAyNjYwYWNlN2Y0OThmZjhhNjk4YzI4NjUyZjVm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -383,18 +383,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
         }
       ],
-      "duration_ms": 508226,
-      "name": "Another Star",
-      "url": "https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm"
+      "duration_ms": 275320,
+      "name": "Nakamarra",
+      "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -423,22 +427,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 275320,
-      "name": "Nakamarra",
-      "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
+      "duration_ms": 508226,
+      "name": "Another Star",
+      "url": "https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Scratch Attack!",
+        "url": "https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "duration_ms": 278560,
+      "name": "Blackboard Jungle Dub - Version 1",
+      "url": "https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Complex Simplicity: 15th Anniversary Edition",
         "url": "https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 252973,
       "name": "You'll Never Find (a Better Woman)",
       "url": "https://open.spotify.com/track/2aJzN2dhjqBrBzMuNYMkiG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Scratch Attack!",
-        "url": "https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk"
-      },
-      "artists": [
-        {
-          "name": "Lee \"Scratch\" Perry",
-          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
-        }
-      ],
-      "duration_ms": 278560,
-      "name": "Blackboard Jungle Dub - Version 1",
-      "url": "https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9"
     },
     {
       "added_at": "2022-10-01 16:00:00",

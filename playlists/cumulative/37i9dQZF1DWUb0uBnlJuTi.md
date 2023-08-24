@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-340 songs - 1 day 2 hr 5 min
+341 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [SP's Galaxy](https://open.spotify.com/track/5cgtYVTPaQgJPWCo1pOj7P) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [SP's Galaxy](https://open.spotify.com/album/4N3b8w28hUX5cxYL9rVgVG) | 2:45 | 2022-07-22 | 2022-08-17 |
 | [Spanish Joint](https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Geoff Clapp](https://open.spotify.com/artist/5Ezil114d4umN4hJDu8teY) | [Sam Fribush Organ Trio, Vol\. I: Riverboat](https://open.spotify.com/album/4i0SSxtyDqXRF5YwtqRPWR) | 4:24 | 2021-03-05 |  |
 | [Spare Tire](https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Spare Tire](https://open.spotify.com/album/2YUPATCVtrrTMw5kFRqdhk) | 2:48 | 2021-08-02 |  |
-| [Spiky Boi](https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Spiky Boi](https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t) | 1:59 | 2023-05-19 |  |
+| [Spiky Boi](https://open.spotify.com/track/2VvUwV9PDrli8uapBKPQOv) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 1:59 | 2023-05-19 |  |
+| [Spiky Boi](https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Spiky Boi](https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t) | 1:59 | 2023-05-19 | 2023-08-24 |
 | [Spoon \(Mike Casey Remix\) \[No Sax\]](https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Spoon \(Mike Casey Remix\)](https://open.spotify.com/album/2LmcUC52wK3UTfySCDKN33) | 1:53 | 2021-06-18 | 2023-03-11 |
 | [Spread Love](https://open.spotify.com/track/0N7yfvd5tfP3kschFBfhss) | [Riot Jazz Brass Band](https://open.spotify.com/artist/1txSIgiNjE6LpvkxP7sYyP) | [Riot Jazz Makes People Happy](https://open.spotify.com/album/7z61j8SPcOgzo6R8D2m6Tn) | 4:38 | 2023-04-14 |  |
 | [Squid Exit Music \- 7" radio edit](https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ) | [Squid Exit Music \(7" radio edit\)](https://open.spotify.com/album/73GYm6vMu3w2I4Tm14VQiB) | 3:50 | 2022-03-04 | 2023-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,622 likes - 75 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,712 likes - 75 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 11 | [Minha Cota](https://open.spotify.com/track/34ttcDOpcaiEfj4PRn3LfB) | [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr) | [Anunak](https://open.spotify.com/album/21YMupsMicZtl262PUTIE0) | 1:18 |
 | 12 | [Com Us Amigo No Peão](https://open.spotify.com/track/6l3UcM13VGBdlEmQHjG760) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Hip Hop Machine \#20](https://open.spotify.com/album/5SLh58mVPRk2MUz3jTKVd2) | 4:07 |
 | 13 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/0in5MharrmpP0ZBA25Tm1Q) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Tunes That Stick Vol 6](https://open.spotify.com/album/69vmtpUmljdtwNf4mdcHGS) | 2:55 |
-| 14 | [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 |
+| 14 | [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 |
 | 15 | [Inté Sermos 1 \- Tudo Que Queria](https://open.spotify.com/track/6S2LWMJDF3YaWgsFS2m2h4) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Ester Mello](https://open.spotify.com/artist/30DjiOaSbDvlqJQGkJAQZo), [jonatas nascimento](https://open.spotify.com/artist/7GrNVXnQ800k7EqwBIEPoI), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Inté Sermos 1 \- Tudo Que Queria](https://open.spotify.com/album/5KNYe1St9t07vUwpkktQn5) | 9:54 |
 | 16 | [Dj Qap pra Sempre](https://open.spotify.com/track/1PzbbWWpnn9Lx09lcEZiyn) | [Dj Qap](https://open.spotify.com/artist/2eWZvyjFinIYLKuhg18GuA), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Ana Preta](https://open.spotify.com/artist/7J53BPDKOFVgU3CFVnNQud), [Arnaldo Tifu](https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx), [Deborah Crespo](https://open.spotify.com/artist/2oePGqnENPf3MD86YVtP4x), [Muka Mc](https://open.spotify.com/artist/2siN4xXTDSrovyjUejmm4P), [Levi](https://open.spotify.com/artist/0XYQf3kQubzm7Ztvmnukka), [Sâmela Araújo](https://open.spotify.com/artist/3qFFZIY3scdBx5hTaXiBa2) | [Dj Qap pra Sempre](https://open.spotify.com/album/09AENheDe1DztawKI7jDsV) | 3:51 |
 | 17 | [Os Guerreiros Estão de Pé](https://open.spotify.com/track/15P42RrNmPOp15ZLJXGcEO) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv), [D.R.R\. Banda](https://open.spotify.com/artist/3cfxRQJbSygzAtwr2EugEt) | [Os Guerreiros Estão de Pé](https://open.spotify.com/album/2i9vnQrisHxV4ZvkLVKtPn) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 74 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 75 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/7yXhCLwFbj4L5WEhgX62L4) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Antes das 6:00, Pt\. 2 \(Bonus Track\)](https://open.spotify.com/album/5j7lUcfsGu9T4QHe6WCnkv) | 4:01 |
 
-Snapshot ID: `MCxkZjgzMDI4ZjU0MmQ0MjIyMzJlZmVhYzY0MTY1NDkxYzI3NGFhZjYz`
+Snapshot ID: `MCw3OTNkMTJiNzhlMmY0YWE4ZTNmODE3YmRhNzViZTEwNzBlZDZjOWRm`

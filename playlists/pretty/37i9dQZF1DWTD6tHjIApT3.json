@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: AI",
-  "num_followers": 99792,
+  "num_followers": 99815,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2ZiOTliOWNmNDU1MWQ1YWI2MTAxYzc1ZDkwNzM5YTA3NGRjNWFl",
+  "snapshot_id": "MCw2MGY4NGUxOTNjYmIwYTI4ZDJiM2I4YTkyNjA1OTQ5NTIzYzEzN2Qz",
   "tracks": [
     {
       "added_at": "2023-08-22 15:00:00",
@@ -147,8 +147,8 @@
     {
       "added_at": "2023-08-22 15:00:00",
       "album": {
-        "name": "\u7f60",
-        "url": "https://open.spotify.com/album/5veZgQ4mjEM0TasNtrf4hB"
+        "name": "Wanna",
+        "url": "https://open.spotify.com/album/3grQnzdbrVfQ9uwhgTFm6N"
       },
       "artists": [
         {
@@ -157,8 +157,8 @@
         }
       ],
       "duration_ms": 148327,
-      "name": "\u7f60",
-      "url": "https://open.spotify.com/track/0m5ocXAAv8aRTezFr6edok"
+      "name": "Wanna",
+      "url": "https://open.spotify.com/track/4rLsZcXQlylBEgDVXQO3eu"
     },
     {
       "added_at": "2023-08-22 15:00:00",
@@ -859,8 +859,8 @@
     {
       "added_at": "2023-08-22 15:00:00",
       "album": {
-        "name": "\u5929\u4f7f\u306b\u306a\u3063\u305f\u3089",
-        "url": "https://open.spotify.com/album/5NjNjH6wvLD4j36Ukk8SJY"
+        "name": "Tenshininattara",
+        "url": "https://open.spotify.com/album/3rauBdRQNxnbOC1Eesqa3N"
       },
       "artists": [
         {
@@ -869,8 +869,8 @@
         }
       ],
       "duration_ms": 210461,
-      "name": "\u5929\u4f7f\u306b\u306a\u3063\u305f\u3089",
-      "url": "https://open.spotify.com/track/3GNVa2iKdQtMzjMyHqamCk"
+      "name": "Tenshininattara",
+      "url": "https://open.spotify.com/track/6eGvfX5i1n2MFCIJZWMANg"
     },
     {
       "added_at": "2023-08-22 15:00:00",
@@ -928,7 +928,7 @@
       "added_at": "2023-08-22 15:00:00",
       "album": {
         "name": "I've Got the Power",
-        "url": "https://open.spotify.com/album/7tAEGU20y23kFaLdQBW1TO"
+        "url": "https://open.spotify.com/album/7gOvCcSaQOAcGOhomfU5sH"
       },
       "artists": [
         {
@@ -938,7 +938,7 @@
       ],
       "duration_ms": 200160,
       "name": "I've Got the Power",
-      "url": "https://open.spotify.com/track/5sGMHpYpF1oGHrzGQEBXfJ"
+      "url": "https://open.spotify.com/track/6biUfADXKG8iOmnfF4tUXM"
     },
     {
       "added_at": "2023-08-22 15:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-22 15:00:00",
       "album": {
-        "name": "Resonantia",
-        "url": "https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 229506,
-      "name": "Resonantia",
-      "url": "https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr"
-    },
-    {
-      "added_at": "2023-08-22 15:00:00",
-      "album": {
         "name": "\u79c1\u306f\u732b\u306e\u76ee",
         "url": "https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 190000,
       "name": "\u79c1\u306f\u732b\u306e\u76ee",
       "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"
+    },
+    {
+      "added_at": "2023-08-22 15:00:00",
+      "album": {
+        "name": "Resonantia",
+        "url": "https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 229506,
+      "name": "Resonantia",
+      "url": "https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr"
     },
     {
       "added_at": "2023-08-22 15:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-08-22 15:00:00",
       "album": {
-        "name": "Without Love",
-        "url": "https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71"
-      },
-      "artists": [
-        {
-          "name": "LMYK",
-          "url": "https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg"
-        }
-      ],
-      "duration_ms": 247104,
-      "name": "Without Love",
-      "url": "https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp"
-    },
-    {
-      "added_at": "2023-08-22 15:00:00",
-      "album": {
         "name": "Under Mentality",
         "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 203166,
       "name": "It Might Be Painful, But I Still Love It.",
       "url": "https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg"
+    },
+    {
+      "added_at": "2023-08-22 15:00:00",
+      "album": {
+        "name": "Without Love",
+        "url": "https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71"
+      },
+      "artists": [
+        {
+          "name": "LMYK",
+          "url": "https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg"
+        }
+      ],
+      "duration_ms": 247104,
+      "name": "Without Love",
+      "url": "https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp"
     },
     {
       "added_at": "2023-08-22 15:00:00",
@@ -1551,8 +1551,8 @@
     {
       "added_at": "2023-08-22 15:00:00",
       "album": {
-        "name": "\u6625\u4e00\u756a",
-        "url": "https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z"
+        "name": "1999",
+        "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
       },
       "artists": [
         {
@@ -1560,9 +1560,9 @@
           "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
         }
       ],
-      "duration_ms": 197529,
-      "name": "\u6625\u4e00\u756a",
-      "url": "https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP"
+      "duration_ms": 228013,
+      "name": "\u9752\u85cd\u904a\u6cf3",
+      "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
     },
     {
       "added_at": "2023-08-22 15:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-08-22 15:00:00",
       "album": {
-        "name": "\u84b2\u516c\u82f1",
-        "url": "https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs"
-      },
-      "artists": [
-        {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 191988,
-      "name": "\u84b2\u516c\u82f1",
-      "url": "https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2"
-    },
-    {
-      "added_at": "2023-08-22 15:00:00",
-      "album": {
         "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
         "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 205133,
       "name": "\u3072\u3053\u3046\u304d\u96f2 - 2022 mix",
       "url": "https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri"
+    },
+    {
+      "added_at": "2023-08-22 15:00:00",
+      "album": {
+        "name": "\u84b2\u516c\u82f1",
+        "url": "https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 191988,
+      "name": "\u84b2\u516c\u82f1",
+      "url": "https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2"
     },
     {
       "added_at": "2023-08-22 15:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-22 15:00:00",
       "album": {
-        "name": "\u30ed\u30b9\u30bf\u30a4\u30e0",
-        "url": "https://open.spotify.com/album/5AJDIhtmJB2KEXmggElgo2"
-      },
-      "artists": [
-        {
-          "name": "\u91ce\u7530\u611b\u5b9f",
-          "url": "https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "\u30ed\u30b9\u30bf\u30a4\u30e0",
-      "url": "https://open.spotify.com/track/7iL5vjJdt8kD2hAXYE7iv4"
-    },
-    {
-      "added_at": "2023-08-22 15:00:00",
-      "album": {
         "name": "^^",
         "url": "https://open.spotify.com/album/1BI02iaqO3qhY9TEvPrTAs"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 246400,
       "name": "^^",
       "url": "https://open.spotify.com/track/0zngjITKiudJ1mBYmrOnu8"
+    },
+    {
+      "added_at": "2023-08-22 15:00:00",
+      "album": {
+        "name": "\u30ed\u30b9\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/5AJDIhtmJB2KEXmggElgo2"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u7530\u611b\u5b9f",
+          "url": "https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "\u30ed\u30b9\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/7iL5vjJdt8kD2hAXYE7iv4"
     }
   ],
   "unique_name": "Women's Voice",

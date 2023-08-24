@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,374 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,402 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 49 | [Mind Control](https://open.spotify.com/track/2DjPHCj4s9fg5wgrnZfd6j) | [Analect](https://open.spotify.com/artist/5oMo0oEwNSokwvVOrX2FTk) | [Mind Control](https://open.spotify.com/album/0KePvhkykaUeqJrY4Hd6Yk) | 6:33 |
 | 50 | [The Jumper \- Mass Medium Remix](https://open.spotify.com/track/6Mci4rqOnUDsK8oWOYvnHS) | [Hammer House](https://open.spotify.com/artist/7eh776e6NmW68TTYLGd5zA), [Mass Medium](https://open.spotify.com/artist/4XpxlgcEnxaBDaAO7V1XvH) | [The Jumper](https://open.spotify.com/album/7g4v5cmyQCoPtuifBjngdu) | 3:21 |
 
-Snapshot ID: `MCxiMTRhN2Y4MGVhZGI1NmQwM2NjOWI5YTYwYzM1ZDFjM2ZlNDgzY2E5`
+Snapshot ID: `MCw3ODJmNTBkMjJmMTRhMzU0ZDkyYjhmZDc5MGU5OGIxMTQ3N2ZhMzI1`

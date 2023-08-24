@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Colo de Deus",
-  "num_followers": 310280,
+  "num_followers": 310474,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDk2NTgyMTVhNzQzZDc0ZWUyNDA3NDQ0MzY4ZjI4MzZhMjUyNmMz",
+  "snapshot_id": "MCwwYzc2NzZlMWQwODQxMGQyMmM2M2FlZjk1NGFlNDE4NDBkM2ZhN2Nk",
   "tracks": [
     {
       "added_at": "2023-08-18 05:42:27",
@@ -423,6 +423,26 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
+        "name": "Decididamente",
+        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
+      },
+      "artists": [
+        {
+          "name": "Cassiano Menke",
+          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
+        },
+        {
+          "name": "Walmir Alencar",
+          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Decididamente",
+      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
+    },
+    {
+      "added_at": "2023-08-18 05:42:27",
+      "album": {
         "name": "DNA de Maria",
         "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 309660,
       "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
-    },
-    {
-      "added_at": "2023-08-18 05:42:27",
-      "album": {
-        "name": "Decididamente",
-        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
-      },
-      "artists": [
-        {
-          "name": "Cassiano Menke",
-          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
-        },
-        {
-          "name": "Walmir Alencar",
-          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Decididamente",
-      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
     },
     {
       "added_at": "2023-08-18 05:42:27",
@@ -543,22 +543,22 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
-        "name": "Romaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
+        "name": "Em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
       },
       "artists": [
         {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
         },
         {
-          "name": "Leo Cidade",
-          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
         }
       ],
-      "duration_ms": 319556,
-      "name": "Romaria - Ao Vivo",
-      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
+      "duration_ms": 228125,
+      "name": "Em Sil\u00eancio",
+      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
     },
     {
       "added_at": "2023-08-18 05:42:27",
@@ -579,22 +579,22 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
-        "name": "Inflama-Me",
-        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
+        "name": "Romaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
       },
       "artists": [
         {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
         },
         {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+          "name": "Leo Cidade",
+          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
         }
       ],
-      "duration_ms": 401500,
-      "name": "Inflama-Me",
-      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
+      "duration_ms": 319556,
+      "name": "Romaria - Ao Vivo",
+      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
     },
     {
       "added_at": "2023-08-18 05:42:27",
@@ -619,22 +619,22 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
-        "name": "Em Sil\u00eancio",
-        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
+        "name": "Inflama-Me",
+        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
         },
         {
-          "name": "Padre Denis-Ricard",
-          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
         }
       ],
-      "duration_ms": 228125,
-      "name": "Em Sil\u00eancio",
-      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
+      "duration_ms": 401500,
+      "name": "Inflama-Me",
+      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
     },
     {
       "added_at": "2023-08-18 05:42:27",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 449016,
-      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
-    },
-    {
-      "added_at": "2023-08-18 05:42:27",
-      "album": {
         "name": "Que Amor \u00c9 Esse?",
         "url": "https://open.spotify.com/album/1VfrXFXpdm0M0Liuc1LXK7"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
+        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 449016,
+      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
+    },
+    {
+      "added_at": "2023-08-18 05:42:27",
+      "album": {
         "name": "Deus V\u00ea",
         "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
-        "name": "Cantai a Deus Com Alegria 2022",
-        "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
+        "name": "Nada Te Perturbe",
+        "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
       },
       "artists": [
         {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
         }
       ],
-      "duration_ms": 349859,
-      "name": "Irresistivelmente",
-      "url": "https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU"
+      "duration_ms": 225326,
+      "name": "Nada Te Perturbe",
+      "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
     },
     {
       "added_at": "2023-08-18 05:42:27",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
-        "name": "Nada Te Perturbe",
-        "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
+        "name": "Cantai a Deus Com Alegria 2022",
+        "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
       },
       "artists": [
         {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
         }
       ],
-      "duration_ms": 225326,
-      "name": "Nada Te Perturbe",
-      "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
+      "duration_ms": 349859,
+      "name": "Irresistivelmente",
+      "url": "https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU"
     },
     {
       "added_at": "2023-08-18 05:42:27",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
-        "name": "Alma de Cristo",
-        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 232115,
-      "name": "Alma de Cristo",
-      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
-    },
-    {
-      "added_at": "2023-08-18 05:42:27",
-      "album": {
         "name": "Acalma Minha Tempestade",
         "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
@@ -915,6 +899,26 @@
       "duration_ms": 322512,
       "name": "Acalma Minha Tempestade",
       "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "added_at": "2023-08-18 05:42:27",
+      "album": {
+        "name": "Esposa das Esposas",
+        "url": "https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP"
+      },
+      "artists": [
+        {
+          "name": "Bruna Marques",
+          "url": "https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP"
+        },
+        {
+          "name": "Gabriel Kzam",
+          "url": "https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k"
+        }
+      ],
+      "duration_ms": 239597,
+      "name": "Esposa das Esposas",
+      "url": "https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc"
     },
     {
       "added_at": "2023-08-18 05:42:27",
@@ -963,26 +967,6 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
-        "name": "Esposa das Esposas",
-        "url": "https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP"
-      },
-      "artists": [
-        {
-          "name": "Bruna Marques",
-          "url": "https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP"
-        },
-        {
-          "name": "Gabriel Kzam",
-          "url": "https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k"
-        }
-      ],
-      "duration_ms": 239597,
-      "name": "Esposa das Esposas",
-      "url": "https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc"
-    },
-    {
-      "added_at": "2023-08-18 05:42:27",
-      "album": {
         "name": "Te Adorar",
         "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 326208,
       "name": "Te Adorar",
       "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
+    },
+    {
+      "added_at": "2023-08-18 05:42:27",
+      "album": {
+        "name": "Alma de Cristo",
+        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 232115,
+      "name": "Alma de Cristo",
+      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
     },
     {
       "added_at": "2023-08-18 05:42:27",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
+        "name": "D\u00e1-Me de Beber",
+        "url": "https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx"
+      },
+      "artists": [
+        {
+          "name": "Talita Garcia",
+          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
+        },
+        {
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "D\u00e1-Me de Beber",
+      "url": "https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ"
+    },
+    {
+      "added_at": "2023-08-18 05:42:27",
+      "album": {
         "name": "Minha Voca\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 254964,
       "name": "Minha Voca\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
-    },
-    {
-      "added_at": "2023-08-18 05:42:27",
-      "album": {
-        "name": "D\u00e1-Me de Beber",
-        "url": "https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx"
-      },
-      "artists": [
-        {
-          "name": "Talita Garcia",
-          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
-        },
-        {
-          "name": "Padre Diogo Albuquerque",
-          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "D\u00e1-Me de Beber",
-      "url": "https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ"
     },
     {
       "added_at": "2023-08-18 05:42:27",

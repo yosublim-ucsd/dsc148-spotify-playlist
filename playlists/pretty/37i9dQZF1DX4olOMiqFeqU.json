@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2437270,
+  "num_followers": 2437631,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmZmN2Q0MGNhOTQxOGEyODFmNDU3N2Q2ZmY0NTdjZWRjNTQxMzAx",
+  "snapshot_id": "MCwxMjk4YTU4NjE4ZmQ3ZmYxOWU4MjU3NzIwM2VhZjg2MWQzMzRkMTg1",
   "tracks": [
     {
       "added_at": "2023-04-03 07:21:01",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Umaga",
-        "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
+        "name": "Sa Ngalan Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz"
       },
       "artists": [
         {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
         }
       ],
-      "duration_ms": 303937,
-      "name": "Hindi Tayo Pwede",
-      "url": "https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV"
+      "duration_ms": 285138,
+      "name": "Sa Ngalan Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG"
     }
   ],
   "unique_name": "OPM Favorites",

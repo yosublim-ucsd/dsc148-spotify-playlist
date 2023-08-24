@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Another Journey : The Beginning",
+        "url": "https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Akhirnya",
+      "url": "https://open.spotify.com/track/5CuJ5sx1ZuNibvDIhqP3gj"
+    },
+    {
+      "album": {
         "name": "Visible Idea of Perfection",
         "url": "https://open.spotify.com/album/3lIr5Sb74IEw4etgpnOluC"
       },

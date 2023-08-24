@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Los Ángeles Azules & Maria Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,305 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,341 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Murió la flor / El reloj / Arrepentida](https://open.spotify.com/track/5Mj0hzzwRWj8dMPpfkhiA3) | [El Combo 10](https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Murió la flor / El reloj / Arrepentida](https://open.spotify.com/album/3LidPiOzidYA5kDFlKXMyK) | 3:53 |
 | 50 | [LALA](https://open.spotify.com/track/5pAiAby7MFjR2CPHTULMua) | [Ke Kumbia](https://open.spotify.com/artist/4wld5HDVMVy9I6MnPqjzFH) | [LALA](https://open.spotify.com/album/6jBzXsFk2LJEvzXsza3ZvI) | 2:48 |
 
-Snapshot ID: `MCxhOWFjOTkwNDg5ZDZkZTZjMzk1NmM5ZjBiMDI1OGZmZDk3YjVlNDI0`
+Snapshot ID: `MCxiN2Q3ODBkNDUyODMzOTUxNzlmMzMxNzQ4ZGI3YThhYzY3OTg1ZTFi`

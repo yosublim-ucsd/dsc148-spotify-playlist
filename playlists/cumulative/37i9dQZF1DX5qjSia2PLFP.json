@@ -2683,7 +2683,7 @@
     },
     {
       "album": {
-        "name": "Glow on You",
+        "name": "Glow On You",
         "url": "https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9"
       },
       "artists": [
@@ -2694,13 +2694,17 @@
         {
           "name": "Soda Supreme",
           "url": "https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4"
+        },
+        {
+          "name": "YourSndTrk",
+          "url": "https://open.spotify.com/artist/2f0KE1Um0D4vszSkad3J5p"
         }
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173834,
-      "name": "Glow on You",
+      "name": "Glow On You",
       "url": "https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg"
     },
     {

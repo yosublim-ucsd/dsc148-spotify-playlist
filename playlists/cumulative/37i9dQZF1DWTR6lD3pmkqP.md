@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-507 songs - 1 day 18 hr 43 min
+508 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [One Day I'll Fly Away](https://open.spotify.com/track/6TCEJVBIrm9YysBGEVHFD0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Jasmine](https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye) | 4:15 | 2022-04-01 |  |
 | [One Mo' Dram](https://open.spotify.com/track/36vyq6JJPm6DM1C4UahLee) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Ironside](https://open.spotify.com/album/6zmUoCKw6UvkLGjaVEZsin) | 5:00 | 2021-12-16 | 2022-07-28 |
 | [One Mo' Dram](https://open.spotify.com/track/1sNeojqna7wvDCQKBHeYvR) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Ironside](https://open.spotify.com/album/5rAMFNRPhYbuunjpa96flo) | 5:00 | 2022-02-10 |  |
+| [One Theme](https://open.spotify.com/track/1GSzulE33vQPkJrv3DZsXM) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Christian Euman](https://open.spotify.com/artist/69Fc6qhNwvJGJUhPzkw0UX), [Greg Paul](https://open.spotify.com/artist/02VrMFqsgeEebhNeVJ4Poe), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Chris Fishman](https://open.spotify.com/artist/7th9o3DE5cL9VsgNLgfxsJ) | [One Theme & Subsequent Improvisation](https://open.spotify.com/album/4R5Y7xokLrEbn8G9LtdcHc) | 7:01 | 2022-02-10 |  |
 | [One Theme](https://open.spotify.com/track/5ph2tEsYdaBmN6u4I8KhEE) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Christian Euman](https://open.spotify.com/artist/69Fc6qhNwvJGJUhPzkw0UX), [Greg Paul](https://open.spotify.com/artist/02VrMFqsgeEebhNeVJ4Poe), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Chris Fishman](https://open.spotify.com/artist/7th9o3DE5cL9VsgNLgfxsJ) | [One Theme & Subsequent Improvisation](https://open.spotify.com/album/3FIgy6fZRdW8iKMrsyTfOg) | 7:01 | 2021-12-16 | 2023-07-30 |
 | [Oni](https://open.spotify.com/track/2fU8bwQtPJyAHuw6QpSjPN) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Oni / Lantern](https://open.spotify.com/album/7GJKVke6czVnfjIee76TYz) | 6:36 | 2022-02-10 |  |
 | [Oni](https://open.spotify.com/track/2j2lqP2WGJptkmqYauGJX6) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Oni](https://open.spotify.com/album/7GTrTOtOWJGxQFuUpNl8Cz) | 6:36 | 2021-12-16 | 2022-07-29 |
@@ -456,7 +457,7 @@
 | [There Is You And You](https://open.spotify.com/track/399mWBUEXBezJtnfAQwbix) | [Chelsea Carmichael](https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d) | [There Is You And You](https://open.spotify.com/album/3Jpgk1jpGRUyGE7pJ6QyqH) | 6:57 | 2021-12-21 | 2022-07-29 |
 | [This Was Once Out of Shape](https://open.spotify.com/track/3qhJWC50lNxxiBcB35SyaA) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/2vC0VZmlbWEEC46w06CWvp) | 3:47 | 2021-12-21 | 2022-09-05 |
 | [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 | 2022-02-10 |  |
-| [Three](https://open.spotify.com/track/1NhD7y5j9KHaJeZ97BTv0X) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Three](https://open.spotify.com/album/0baQFRCoX2Ghru6pQxSlv1) | 2:33 | 2021-12-16 |  |
+| [Three](https://open.spotify.com/track/1NhD7y5j9KHaJeZ97BTv0X) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Three](https://open.spotify.com/album/0baQFRCoX2Ghru6pQxSlv1) | 2:33 | 2021-12-16 | 2023-08-24 |
 | [Ti\-de](https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 6:12 | 2022-04-01 |  |
 | [Ti\-de](https://open.spotify.com/track/679DH2dDS6VPrVzJKS6obT) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 6:12 | 2022-04-01 | 2023-04-29 |
 | [Tickled Pink](https://open.spotify.com/track/6T9xlXS2skCGQL89V9dxUX) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Tickled Pink](https://open.spotify.com/album/6grMAcl5o9URTqjjC7SRGp) | 3:01 | 2021-12-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Quavo, Polo G and Lil Durk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,574,494 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,578,686 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Trip McKnight](https://open.spotify.com/track/44lme9otJbQhWX4QsvPkXa) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:37 |
 | 50 | [No More](https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SANTIAGO](https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY) | 3:10 |
 
-Snapshot ID: `MCwxYzNiZDVhMTZhYWNhMDczYjkyMTFmM2FmM2NjZDQ5MGQwYWVlNjBl`
+Snapshot ID: `MCxiMzNlMzAxNDljMzBjMzQzYzM3MDMxNWNlNzAzNjJkNTRjNWNiYmU5`

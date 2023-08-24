@@ -10296,7 +10296,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 133719,
       "name": "Tournesol",
       "url": "https://open.spotify.com/track/322iMyBTTUhTCGRttDs6CY"
@@ -10786,6 +10786,24 @@
       "duration_ms": 180500,
       "name": "Unsere Reise",
       "url": "https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC"
+    },
+    {
+      "album": {
+        "name": "Unspoken words",
+        "url": "https://open.spotify.com/album/0kb3AVXkNmsHCOXsHpK1pU"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159244,
+      "name": "Unspoken words",
+      "url": "https://open.spotify.com/track/3YVDpr9ATEeLaSj5z24qmK"
     },
     {
       "album": {

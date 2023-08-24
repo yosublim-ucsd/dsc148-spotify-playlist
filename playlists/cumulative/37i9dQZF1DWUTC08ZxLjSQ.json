@@ -1105,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/4F6PiOx1sG3nj2qsENKwow"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV"
+        },
+        {
+          "name": "NBL",
+          "url": "https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199207,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5rS361ITtlivgOlz9PcxM7"
+    },
+    {
+      "album": {
         "name": "Grounding Place",
         "url": "https://open.spotify.com/album/0mHtsfh7zOubxpNTDVzXKP"
       },
@@ -3511,6 +3533,28 @@
     },
     {
       "album": {
+        "name": "Toque Del Sol",
+        "url": "https://open.spotify.com/album/4OezapuJwbIXSoyUKlDFcn"
+      },
+      "artists": [
+        {
+          "name": "ReqTeq",
+          "url": "https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv"
+        },
+        {
+          "name": "Tha\u00efs Sala",
+          "url": "https://open.spotify.com/artist/6xPRuXtCzd7gQH4yOSgZyB"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270508,
+      "name": "Toque Del Sol",
+      "url": "https://open.spotify.com/track/58eEvagJwKhcmHbG40AuEg"
+    },
+    {
+      "album": {
         "name": "Toss & Turn",
         "url": "https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4"
       },
@@ -3776,6 +3820,24 @@
       "duration_ms": 214634,
       "name": "You",
       "url": "https://open.spotify.com/track/33BnkEFiFqfuPB4hwx6zuW"
+    },
+    {
+      "album": {
+        "name": "you know",
+        "url": "https://open.spotify.com/album/57StiABs37UCH0w0a6yxyp"
+      },
+      "artists": [
+        {
+          "name": "Kabier",
+          "url": "https://open.spotify.com/artist/7LebW9fZHLUhdAKdw7Xr21"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "you know",
+      "url": "https://open.spotify.com/track/5R6AgUJDrWay0cuO8enMez"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6rIaHuCIUu32uj2CjlEBN3">Mike Dimes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,782,670 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,783,079 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [No Bap](https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [No Bap](https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr) | 2:00 |
 | 100 | [Payroll \(feat\. Mike Dimes\)](https://open.spotify.com/track/01ma2sJKGaq8JA4KEwtFkh) | [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Payroll \(feat\. Mike Dimes\)](https://open.spotify.com/album/0eUNLpn5N8G0e29kpUdo5X) | 3:28 |
 
-Snapshot ID: `MCw0NWNhNTNiNWVmYWU3ZDMzNGMxZmEzNzU5N2M5YWU2NWI5ZTc1MWUy`
+Snapshot ID: `MCwwYTA4NDY0MmYyNzhhNDhmYTIwODYzYjk2NTViYTI4MDU5YjljOTM2`

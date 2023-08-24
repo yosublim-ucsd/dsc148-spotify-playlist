@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Allegra Krieger | Visual Artist: Bailey Elder",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Bo Staloch | Visual Artist: Bailey Elder",
   "name": "Fresh Finds Folk",
   "tracks": [
     {
@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Bellyful",
+        "url": "https://open.spotify.com/album/0U5xkWeqVYXT20zsLFJHWX"
+      },
+      "artists": [
+        {
+          "name": "Green Gardens",
+          "url": "https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263200,
+      "name": "Bellyful",
+      "url": "https://open.spotify.com/track/3YpyknW4X52wtKCctSUVBt"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/6C4hVepdGIUFsygmFE6aCi"
       },
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 196051,
       "name": "Birds",
       "url": "https://open.spotify.com/track/665lYEawkx38NJfCwSEoiH"
@@ -2132,6 +2150,24 @@
       "duration_ms": 177744,
       "name": "Cedar Island",
       "url": "https://open.spotify.com/track/2mu4GuE7tG8vAiFsXgSQYC"
+    },
+    {
+      "album": {
+        "name": "Celebrity Lookalikes",
+        "url": "https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu"
+      },
+      "artists": [
+        {
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212458,
+      "name": "Celebrity Lookalikes",
+      "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
     },
     {
       "album": {
@@ -3112,7 +3148,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 197834,
       "name": "Darkeve Duet",
       "url": "https://open.spotify.com/track/2zQGLaMQxHFiNtwu2WWeEl"
@@ -5138,7 +5174,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 271421,
       "name": "from here on out",
       "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
@@ -6044,7 +6080,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 224087,
       "name": "heart will remain",
       "url": "https://open.spotify.com/track/1O0uwWbIcTxzX9ma5ktrZD"
@@ -6260,7 +6296,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 218831,
       "name": "Home in the Country",
       "url": "https://open.spotify.com/track/7eiS9YMhjhX4r7qutGHJvo"
@@ -6938,7 +6974,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 111000,
       "name": "Impartial",
       "url": "https://open.spotify.com/track/0a60kCUF4K4sLsgSsGiZQD"
@@ -7310,6 +7346,24 @@
       "duration_ms": 308000,
       "name": "June",
       "url": "https://open.spotify.com/track/3Do19iVwOKTq8v6IL3TZ1d"
+    },
+    {
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui"
+      },
+      "artists": [
+        {
+          "name": "Duff Thompson",
+          "url": "https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184270,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk"
     },
     {
       "album": {
@@ -8051,6 +8105,42 @@
     },
     {
       "album": {
+        "name": "Long Road Ahead",
+        "url": "https://open.spotify.com/album/1VT4RlcKgtGuOjx3DWVGyT"
+      },
+      "artists": [
+        {
+          "name": "Maybel",
+          "url": "https://open.spotify.com/artist/4vyc9XRUivKWefuHRepSQh"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255065,
+      "name": "Long Road Ahead",
+      "url": "https://open.spotify.com/track/5QRnF1susEGh48AC4WzWvb"
+    },
+    {
+      "album": {
+        "name": "Stories up High",
+        "url": "https://open.spotify.com/album/2Obbm5E6IR6nNBmvSKrcl9"
+      },
+      "artists": [
+        {
+          "name": "Laney Jones",
+          "url": "https://open.spotify.com/artist/7uRgKJfoqXp05a5OKhpEXS"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244088,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/0geJfOV9dNqpdWqUT6rvyk"
+    },
+    {
+      "album": {
         "name": "Long Way Around",
         "url": "https://open.spotify.com/album/5jGS2iLshI5AkGAQmuKxXA"
       },
@@ -8582,7 +8672,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 191626,
       "name": "meadow",
       "url": "https://open.spotify.com/track/2qbdHKcs1oBmU627F1loqA"
@@ -9263,6 +9353,24 @@
     },
     {
       "album": {
+        "name": "Babytooth",
+        "url": "https://open.spotify.com/album/25NEizm1s9EIs13f5jqtn5"
+      },
+      "artists": [
+        {
+          "name": "Babytooth",
+          "url": "https://open.spotify.com/artist/1qOs0GjofPiGwLs3hOFR4M"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208338,
+      "name": "New World Back",
+      "url": "https://open.spotify.com/track/3MWPcF16vFhvIUYTfcVoyS"
+    },
+    {
+      "album": {
         "name": "Next Day",
         "url": "https://open.spotify.com/album/405aqDgQO7urBQXgW89zRU"
       },
@@ -9484,7 +9592,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 289900,
       "name": "Noom",
       "url": "https://open.spotify.com/track/1UqHS7Naey9bRmoA5zFdjA"
@@ -10172,7 +10280,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 212230,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/09drCTMXn1mMBEemI6AJeL"
@@ -12045,6 +12153,24 @@
     },
     {
       "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/2WJU6BNznsH0WqTXEtLTeH"
+      },
+      "artists": [
+        {
+          "name": "Wax Owls",
+          "url": "https://open.spotify.com/artist/4WFulfYPCUrXGShsPcWZ8J"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215015,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/7BsvcF2wjGT5xDDvGwpXMj"
+    },
+    {
+      "album": {
         "name": "BREAK YOUR HEART",
         "url": "https://open.spotify.com/album/2ZWGyCfH0iU9MIPGJcrjnv"
       },
@@ -12518,6 +12644,24 @@
       "duration_ms": 187047,
       "name": "That So",
       "url": "https://open.spotify.com/track/39CGQf63kR3hgVbzPAyhRo"
+    },
+    {
+      "album": {
+        "name": "That's Everything",
+        "url": "https://open.spotify.com/album/6O0nCCwSprQhsE5VJ2elVF"
+      },
+      "artists": [
+        {
+          "name": "Miki Fiki",
+          "url": "https://open.spotify.com/artist/1O1r2qVtIFqlTJoB4jsJKd"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225809,
+      "name": "That's Everything",
+      "url": "https://open.spotify.com/track/76XOc4fQTSQwLxNsE2OUZz"
     },
     {
       "album": {
@@ -13592,6 +13736,24 @@
       "duration_ms": 309477,
       "name": "Violent Jubilee",
       "url": "https://open.spotify.com/track/5gPw1XHtkUbEb7Nvn0dWZH"
+    },
+    {
+      "album": {
+        "name": "waiting",
+        "url": "https://open.spotify.com/album/5wIi277EIR8RPjTyhBcet0"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "waiting",
+      "url": "https://open.spotify.com/track/5RJ0y1evuKlh05OLkoGo2X"
     },
     {
       "album": {

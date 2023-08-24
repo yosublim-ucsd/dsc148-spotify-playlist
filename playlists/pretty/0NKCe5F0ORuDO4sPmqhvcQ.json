@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20964,
+  "num_followers": 20963,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA0NDMsYjRlZTAwYThhMDAyN2EzMzJhNzYwYjg4ZTVjN2FlOGY0MDE1OTkyMQ==",
+  "snapshot_id": "MTA0NDcsYTE1ZWJhZjY0ODc0ZTE1NTE3ODIyNzQzODllZGFjMGFhZmEzMWU5NQ==",
   "tracks": [
     {
       "added_at": "2023-08-16 15:10:22",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx"
     },
     {
+      "added_at": "2023-08-23 14:10:06",
+      "album": {
+        "name": "LUKEY TY TY",
+        "url": "https://open.spotify.com/album/7i7IMaZAe5IamfpScpotin"
+      },
+      "artists": [
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "duration_ms": 113400,
+      "name": "LUKEY TY TY",
+      "url": "https://open.spotify.com/track/3dJ2rRiGeXRmK3df5EoQfq"
+    },
+    {
       "added_at": "2023-08-17 01:17:33",
       "album": {
         "name": "Coup De Gr\u00e2ce",
@@ -83,6 +99,22 @@
       "duration_ms": 223908,
       "name": "Coup De Gr\u00e2ce",
       "url": "https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7"
+    },
+    {
+      "added_at": "2023-08-23 14:10:24",
+      "album": {
+        "name": "Am I Human?",
+        "url": "https://open.spotify.com/album/2wagkL8o47G71cciBICnsI"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 152829,
+      "name": "Am I Human?",
+      "url": "https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL"
     },
     {
       "added_at": "2023-07-20 01:12:32",

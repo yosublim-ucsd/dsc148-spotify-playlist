@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Chri$tian Gate$",
-  "num_followers": 1504265,
+  "num_followers": 1504824,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWIzMzk0YWQwYmE5ODZiMjNiMmZjNDUwMTM2ZDU2Y2E3M2Y1MzZi",
+  "snapshot_id": "MCwwOGMzYzdiOTAzMGMzMDdiYjk0MWIxZTdhOGRlMDg5YjU3MmMzMmQ3",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
+        "name": "A SERIES OF UNFORTUNATE EVENTS",
+        "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
       },
       "artists": [
         {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
         }
       ],
-      "duration_ms": 172307,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
+      "duration_ms": 215647,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 195745,
       "name": "when we were 16",
       "url": "https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "A SERIES OF UNFORTUNATE EVENTS",
-        "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 215647,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1487,18 +1487,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "PRIMADONA",
-        "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
+        "name": "TheWitch&TheWizard",
+        "url": "https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        },
+        {
+          "name": "GREAF",
+          "url": "https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP"
         }
       ],
-      "duration_ms": 114200,
-      "name": "PRIMADONA",
-      "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
+      "duration_ms": 108460,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1519,22 +1523,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "TheWitch&TheWizard",
-        "url": "https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O"
+        "name": "It Was Fun While It Lasted (Deluxe)",
+        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        },
-        {
-          "name": "GREAF",
-          "url": "https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 108460,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC"
+      "duration_ms": 163755,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "PRIMADONA",
+        "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 114200,
+      "name": "PRIMADONA",
+      "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "WOULDN'T IT BE NICE",
         "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 165386,
       "name": "4AM",
       "url": "https://open.spotify.com/track/2O2kaMSTwJqeKaE44YNthA"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "It Was Fun While It Lasted (Deluxe)",
-        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
     },
     {
       "added_at": "2023-08-04 04:01:00",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-769 songs - 1 day 19 hr 12 min
+770 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,7 +684,7 @@
 | [עומס לב & Views](https://open.spotify.com/track/3ez2Vwn4Dd8UmPxviNalrn) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [עומס לב & Views](https://open.spotify.com/album/4UThawDvsFczcYnKAGZfuj) | 3:53 | 2022-10-11 | 2022-11-14 |
 | [עושה לי צרות](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [עושה לי צרות](https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR) | 2:38 | 2022-05-24 |  |
 | [עזבי](https://open.spotify.com/track/6EVRPTFEzBFCGDy8w0Omow) | [מיה סולימן](https://open.spotify.com/artist/12ft1cfLUNXc6gfM1JzaKR) | [עזבי](https://open.spotify.com/album/2wLbFgdkngszVgQIIsCUHj) | 2:15 | 2023-01-12 | 2023-01-22 |
-| [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 | 2023-08-20 |  |
+| [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 | 2023-08-20 | 2023-08-24 |
 | [עזוב אותי מטכנו](https://open.spotify.com/track/1st1G4ms39bWno8xaL4wrA) | [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3), [Lior Narkis](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [עזוב אותי מטכנו](https://open.spotify.com/album/5oZnwfuyRItVUtzuAbsHM7) | 2:12 | 2022-07-19 | 2022-08-17 |
 | [עזוב אותי מטכנו](https://open.spotify.com/track/2re0QWv8k08Z3bwDJeaEEp) | [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3), [Lior Narkis](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [צעירים לנצח](https://open.spotify.com/album/4E4nh3xQi6MjBGHzZVO1bB) | 2:12 | 2022-08-16 | 2022-08-30 |
 | [עזוב אותי מטכנו](https://open.spotify.com/track/3V6HZxYj1rrGYhXvapbqUJ) | [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3), [Lior Narkis](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [צעירים לנצח](https://open.spotify.com/album/76W6BpWOTeWeD9zWc1weEb) | 2:12 | 2022-07-21 | 2022-07-23 |
@@ -750,6 +750,7 @@
 | [שימי פס](https://open.spotify.com/track/30NVqoPHBnHVmAdwv1CjBr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo) | [שימי פס](https://open.spotify.com/album/2DfecxAH9IYiLrHgqfjHXp) | 3:11 | 2021-06-20 | 2021-08-21 |
 | [שיר לאמא](https://open.spotify.com/track/5BK8QQs9NhYRFGQHx8GMAG) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [השמרנים שוב באופנה](https://open.spotify.com/album/795jjqz2SyUQQVHDnwWDfp) | 3:38 | 2023-02-12 | 2023-04-17 |
 | [שלוותה](https://open.spotify.com/track/1e2N6VRQPlZBII4ijovmm1) | [ענבל רז](https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y) | [שלוותה](https://open.spotify.com/album/673EpXdUvojBmrMzbub0ob) | 2:54 | 2022-07-20 | 2022-08-04 |
+| [שלום אהובתי](https://open.spotify.com/track/7q40jR7vLHky0IKFTJWJ4K) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [שלום אהובתי](https://open.spotify.com/album/3OXK2W6Y0arDMf7aNRJN86) | 4:06 | 2023-08-23 |  |
 | [שלושה בנות](https://open.spotify.com/track/63TUZWEmunvQnAdLUD61yY) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Gitit Fisher](https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0) | [שלושה בנות](https://open.spotify.com/album/6pUQfBq9yXndShYxbpi84y) | 3:37 | 2022-06-02 | 2022-10-20 |
 | [שלחי אותו](https://open.spotify.com/track/7jlmMlAJr9sEnBzChegzeH) | [Roni Dalumi](https://open.spotify.com/artist/5yjmxaLSoZEnkIWJRAmhQe) | [תחזיקו](https://open.spotify.com/album/1hmxYh0NCD8V3zrJLDeyqH) | 2:58 | 2022-05-05 | 2023-04-28 |
 | [שלמים](https://open.spotify.com/track/72W6xVQGdKHQl348KYgwg2) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [שלמים](https://open.spotify.com/album/5rnmY7Z9ADlfFDiaCmvGKo) | 3:41 | 2021-03-27\* | 2021-12-13 |

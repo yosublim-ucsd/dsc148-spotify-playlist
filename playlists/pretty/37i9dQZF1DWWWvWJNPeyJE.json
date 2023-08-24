@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 228466,
+  "num_followers": 228694,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGM1NDgxNDczOGY1ZmNmYTJiYzhiZjMwMWU5NDgxYWUyNWYxMzQx",
+  "snapshot_id": "MCxlNzQ2YzQzNzllYmQ0NTQzMjlmYTM2ZGEwYmFjNzRhMjQ5NDNmMGRj",
   "tracks": [
     {
       "added_at": "2023-03-03 13:37:54",
@@ -100,7 +100,7 @@
       },
       "artists": [
         {
-          "name": "Usher",
+          "name": "USHER",
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
@@ -340,7 +340,7 @@
       },
       "artists": [
         {
-          "name": "Usher",
+          "name": "USHER",
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
@@ -552,7 +552,7 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "Usher",
+          "name": "USHER",
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
@@ -816,7 +816,7 @@
       },
       "artists": [
         {
-          "name": "Usher",
+          "name": "USHER",
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "Pleasures U Like",
+        "url": "https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Calling On You",
+      "url": "https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "King of R&B",
         "url": "https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 206893,
       "name": "Risk It All (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/7ncVTZ86MJQZK1FuW4hWLs"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "Pleasures U Like",
-        "url": "https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Calling On You",
-      "url": "https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk"
     },
     {
       "added_at": "2023-03-03 13:37:54",

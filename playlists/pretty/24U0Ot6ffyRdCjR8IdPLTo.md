@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain](/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo)
 
-### [Study Music 2023](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
+### [Pop Focus \| Pop Music for Studying](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-[Topsify](https://open.spotify.com/user/topsify) - 11,355 likes - 58 songs - 3 hr 21 min
+[Topsify](https://open.spotify.com/user/topsify) - 11,353 likes - 58 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 57 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 |
 | 58 | [Better Alone](https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Better Alone](https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD) | 3:29 |
 
-Snapshot ID: `MTA1NCw3YzdmYjI2YTcwZGI5YTI0ZGZlYzI1ZGI3MTkwNTUzNmQwYWM1NzQz`
+Snapshot ID: `MTA1NSxjNzZkNWFkZDZhY2EyMDgyZWJmOWM0OTkwMzJiMWM0OGYwNWFlZWI0`

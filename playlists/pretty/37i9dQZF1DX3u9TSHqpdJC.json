@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: bludnymph",
-  "num_followers": 193325,
+  "num_followers": 193459,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGZkNWM0ZmE5ZDlmYzM0NzQ3MDEwYmJhNThhYmRjMjM4ZDYxNTU5",
+  "snapshot_id": "MCw1MmNmM2E2NTUzY2ViYmNiMDBkNjZlM2Y5NGUxZDk1N2YzYzcwZmYw",
   "tracks": [
     {
       "added_at": "2023-08-16 04:07:32",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/25JnZYGNwdJg9MB9eaQ8TU"
     },
     {
+      "added_at": "2023-08-23 04:00:00",
+      "album": {
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/2P8C75kv0y8CzGcRPFNjtc"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 168203,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/1pKKk3iHUA1ZeNbXyjF86a"
+    },
+    {
+      "added_at": "2023-08-16 04:07:32",
+      "album": {
+        "name": "freak",
+        "url": "https://open.spotify.com/album/6YHcunLamMfjlnSnaUxPmr"
+      },
+      "artists": [
+        {
+          "name": "Cassie Marin",
+          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
+        }
+      ],
+      "duration_ms": 152755,
+      "name": "freak",
+      "url": "https://open.spotify.com/track/5vYvIFkTv8LOANg7T9L1ho"
+    },
+    {
       "added_at": "2023-08-16 04:07:32",
       "album": {
         "name": "Selfish",
@@ -39,6 +71,54 @@
       "duration_ms": 188411,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/1Wf7dRAvAqd9ljdK7nQm6u"
+    },
+    {
+      "added_at": "2023-08-23 04:00:00",
+      "album": {
+        "name": "HOW I FEEL",
+        "url": "https://open.spotify.com/album/0WfFqvoSu5IvbUYDgDxBLl"
+      },
+      "artists": [
+        {
+          "name": "Hudson Ingram",
+          "url": "https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo"
+        }
+      ],
+      "duration_ms": 179181,
+      "name": "HOW I FEEL",
+      "url": "https://open.spotify.com/track/48TLG2RjHOv8cI6lpOLzSq"
+    },
+    {
+      "added_at": "2023-08-16 04:07:32",
+      "album": {
+        "name": "This Generation Sucks",
+        "url": "https://open.spotify.com/album/7wMxSUbeSMNnGQGhYo8fYV"
+      },
+      "artists": [
+        {
+          "name": "RARIA",
+          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
+        }
+      ],
+      "duration_ms": 178634,
+      "name": "This Generation Sucks",
+      "url": "https://open.spotify.com/track/4NVNnpHWcw5AErkebQpz9j"
+    },
+    {
+      "added_at": "2023-08-09 04:00:00",
+      "album": {
+        "name": "cheater",
+        "url": "https://open.spotify.com/album/4tTE6p1ed8F6OLGeRWRgMw"
+      },
+      "artists": [
+        {
+          "name": "Savana Santos",
+          "url": "https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "cheater",
+      "url": "https://open.spotify.com/track/6xpPSguO2bzapQNO2j23c3"
     },
     {
       "added_at": "2023-08-16 04:07:32",
@@ -121,22 +201,6 @@
       "url": "https://open.spotify.com/track/4vfqtTA2gCEgorXHfay7XV"
     },
     {
-      "added_at": "2023-08-09 04:00:00",
-      "album": {
-        "name": "cheater",
-        "url": "https://open.spotify.com/album/4tTE6p1ed8F6OLGeRWRgMw"
-      },
-      "artists": [
-        {
-          "name": "Savana Santos",
-          "url": "https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "cheater",
-      "url": "https://open.spotify.com/track/6xpPSguO2bzapQNO2j23c3"
-    },
-    {
       "added_at": "2023-08-16 04:07:32",
       "album": {
         "name": "Aye Best Friend",
@@ -169,22 +233,6 @@
       "url": "https://open.spotify.com/track/5qaiXKVKbIyqAQ7xmEZlcZ"
     },
     {
-      "added_at": "2023-08-16 04:07:32",
-      "album": {
-        "name": "freak",
-        "url": "https://open.spotify.com/album/6YHcunLamMfjlnSnaUxPmr"
-      },
-      "artists": [
-        {
-          "name": "Cassie Marin",
-          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
-        }
-      ],
-      "duration_ms": 152755,
-      "name": "freak",
-      "url": "https://open.spotify.com/track/5vYvIFkTv8LOANg7T9L1ho"
-    },
-    {
       "added_at": "2023-08-02 04:00:00",
       "album": {
         "name": "Stay",
@@ -199,22 +247,6 @@
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
-    {
-      "added_at": "2023-08-16 04:07:32",
-      "album": {
-        "name": "This Generation Sucks",
-        "url": "https://open.spotify.com/album/7wMxSUbeSMNnGQGhYo8fYV"
-      },
-      "artists": [
-        {
-          "name": "RARIA",
-          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
-        }
-      ],
-      "duration_ms": 178634,
-      "name": "This Generation Sucks",
-      "url": "https://open.spotify.com/track/4NVNnpHWcw5AErkebQpz9j"
     },
     {
       "added_at": "2023-08-16 04:07:32",
@@ -1623,22 +1655,6 @@
       "duration_ms": 248765,
       "name": "Fantasy Girl",
       "url": "https://open.spotify.com/track/202C4Jw7Ww8RryU62w8GOq"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Tongue Tied",
-        "url": "https://open.spotify.com/album/5X5OP2cZsFEk1HYPYwmmnZ"
-      },
-      "artists": [
-        {
-          "name": "ili",
-          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
-        }
-      ],
-      "duration_ms": 141401,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/7hjxPMbVSE0EDKsbIF3hlg"
     },
     {
       "added_at": "2023-05-17 04:00:00",

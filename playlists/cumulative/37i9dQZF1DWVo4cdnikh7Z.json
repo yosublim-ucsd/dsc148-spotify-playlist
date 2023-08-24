@@ -1233,6 +1233,40 @@
     },
     {
       "album": {
+        "name": "Harkara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/72dMZ8Snl77L6TxLuBYNoK"
+      },
+      "artists": [
+        {
+          "name": "Ramshanker S",
+          "url": "https://open.spotify.com/artist/5QRO0Uwp7YanrCmZ05axjc"
+        },
+        {
+          "name": "Harihara Sudhan",
+          "url": "https://open.spotify.com/artist/4BWGWW865iPYzyM5PTsKGM"
+        },
+        {
+          "name": "Charee",
+          "url": "https://open.spotify.com/artist/49THHpmJjdF0OqMWCpQelQ"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        },
+        {
+          "name": "R. Deepak Krishna",
+          "url": "https://open.spotify.com/artist/4E6dYWIZoCICa20uam2zLE"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258334,
+      "name": "Anjalkaaran - From \"Harkara\"",
+      "url": "https://open.spotify.com/track/1Rk7LeZbD1mnv0s5lf6lkD"
+    },
+    {
+      "album": {
         "name": "Pattathu Arasan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2IBkciBEY2GmBbDqsXH9g0"
       },
@@ -1554,6 +1588,32 @@
       "duration_ms": 212926,
       "name": "Arutperunjodhi",
       "url": "https://open.spotify.com/track/4urVhgx7BLgwBB4Q9fl5T2"
+    },
+    {
+      "album": {
+        "name": "Asaivindri (From \"Paramporul\")",
+        "url": "https://open.spotify.com/album/24ygkm9kXwtNh9y2I08TX4"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Asaivindri - From \"Paramporul\"",
+      "url": "https://open.spotify.com/track/3JbGdKDj1vKN7Wg5uPMJrk"
     },
     {
       "album": {
@@ -3082,7 +3142,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 63000,
       "name": "Da Da Dadai - From \"DD Retruns\"",
       "url": "https://open.spotify.com/track/3n2avwkzCmgIpeaXEp9ayK"
@@ -4650,6 +4710,36 @@
     {
       "album": {
         "name": "Gandarabai (From \"Skanda\")",
+        "url": "https://open.spotify.com/album/4yR5vmBUG9CseJXGsmHMMh"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Roshini JKV",
+          "url": "https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX"
+        },
+        {
+          "name": "Kalapradah",
+          "url": "https://open.spotify.com/artist/7nwxcgsJwjTTsi7Y4hSvul"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231755,
+      "name": "Gandarabai (From \"Skanda\")",
+      "url": "https://open.spotify.com/track/2wBS9wsnSi8rXskdupEF7o"
+    },
+    {
+      "album": {
+        "name": "Gandarabai (From \"Skanda\")",
         "url": "https://open.spotify.com/album/2bCgApnMK8TBJpSbhCdgfQ"
       },
       "artists": [
@@ -4672,7 +4762,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 231755,
       "name": "Gandarabai (From \"Skanda\")",
       "url": "https://open.spotify.com/track/0SQIFK6K3ZBZQnn3ocFQAe"
@@ -14506,7 +14596,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 99563,
       "name": "Saaya Sanjale",
       "url": "https://open.spotify.com/track/5ZureE46xVrSPvEi1mxWsz"

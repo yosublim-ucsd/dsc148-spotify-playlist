@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico C\u00e9sar",
-  "num_followers": 344811,
+  "num_followers": 344896,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2IwYTE3MWU1MzNhZjJmNmQ4MDhmMzI3NjkxYzM0NjU3Y2JkMGE2",
+  "snapshot_id": "MCwwYzkwMWZlN2UwMzBiZGNkNWEyNmNlMjBlZDQxM2E0ZDU1ODMyMzM0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "N\u00e3o Tem Lua",
         "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 235636,
       "name": "Essa Menina",
       "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Tarde Em Itapu\u00e3",
-      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Ao Que Vai Chegar",
-        "url": "https://open.spotify.com/album/6QVpgpJQUDGHL97KChJ39z"
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
+        "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
       },
       "artists": [
         {
@@ -1440,13 +1440,13 @@
           "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         },
         {
-          "name": "Mutinho",
-          "url": "https://open.spotify.com/artist/1A8yxioKh9YeFbwy10y3mK"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         }
       ],
-      "duration_ms": 206457,
-      "name": "Ao Que Vai Chegar",
-      "url": "https://open.spotify.com/track/0vMwa2OtZ2FLsqQ1lJBFYK"
+      "duration_ms": 165815,
+      "name": "Regra Tr\u00eas",
+      "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1571,8 +1571,8 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
-        "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
+        "name": "Ao Que Vai Chegar",
+        "url": "https://open.spotify.com/album/6QVpgpJQUDGHL97KChJ39z"
       },
       "artists": [
         {
@@ -1580,13 +1580,13 @@
           "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         },
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+          "name": "Mutinho",
+          "url": "https://open.spotify.com/artist/1A8yxioKh9YeFbwy10y3mK"
         }
       ],
-      "duration_ms": 165815,
-      "name": "Regra Tr\u00eas",
-      "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
+      "duration_ms": 206457,
+      "name": "Ao Que Vai Chegar",
+      "url": "https://open.spotify.com/track/0vMwa2OtZ2FLsqQ1lJBFYK"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Redescobrir",
-        "url": "https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU"
-      },
-      "artists": [
-        {
-          "name": "Bruna Caram",
-          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
-        },
-        {
-          "name": "Z\u00e9 Renato",
-          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Redescobrir",
-      "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Ao Vivo no Coala Festival 2022",
         "url": "https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Redescobrir",
+        "url": "https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU"
+      },
+      "artists": [
+        {
+          "name": "Bruna Caram",
+          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
+        },
+        {
+          "name": "Z\u00e9 Renato",
+          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Redescobrir",
+      "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
     },
     {
       "added_at": "2023-07-28 04:36:55",

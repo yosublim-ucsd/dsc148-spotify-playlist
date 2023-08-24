@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Joh Makini
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,353 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,355 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 48 | [Hatuna Kesi](https://open.spotify.com/track/1eTNIIvyLFSuMB6kIlPhEE) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Hatuna Kesi](https://open.spotify.com/album/2BQXiotfASO146JznwXpYb) | 3:14 |
 | 49 | [Money Walk \(Mwendo wa Cash\)](https://open.spotify.com/track/4vRC79cET11g2h17CC7YiW) | [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t), [Chekbob](https://open.spotify.com/artist/2VCslciNsD6Uh7Ff8srpDE) | [NYANGUVA](https://open.spotify.com/album/4seKv6V2ceEzYfTvitpgcL) | 3:17 |
 
-Snapshot ID: `MCwyNjdjZjY3YWE0YWE1ZTdjZjE1MjUwMjA5MDBmNTkyNzFjMzE5OTFi`
+Snapshot ID: `MCw2YWY0OGZiNTgyMmNiMzM1Y2YxYmU1ZGY1NzBlNTg5NmMxMjhiMWJi`

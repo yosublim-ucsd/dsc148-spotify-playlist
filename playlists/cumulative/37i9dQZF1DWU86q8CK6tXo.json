@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/2ZqwYRYdC9I17viDXXnQBA"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205208,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/01h2YaiMRGIgBx9QkJ6Ddi"
+    },
+    {
+      "album": {
         "name": "Prayer Hands",
         "url": "https://open.spotify.com/album/0kbdmFDYZETl2u25asx2SR"
       },
@@ -11524,7 +11542,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 260760,
       "name": "My Time As a Ghostly Someone Else",
       "url": "https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl"

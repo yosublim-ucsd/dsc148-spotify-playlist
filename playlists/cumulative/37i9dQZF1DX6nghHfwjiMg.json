@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Descubre los nuevos talentos de Argentina, Chile y Uruguay. Foto: Abril Olivera.",
+  "description": "Descubre los nuevos talentos de Argentina, Chile y Uruguay. Foto: Soui Uno.",
   "name": "Radar Al Sur",
   "tracks": [
     {
@@ -516,7 +516,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 122136,
       "name": "Canci\u00f3n para morir",
       "url": "https://open.spotify.com/track/7dPsBfSXOJ2cacwuhj1T4H"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 150231,
       "name": "Espera",
       "url": "https://open.spotify.com/track/6zKKOc677Q1ALzzi9DIB8N"
@@ -1090,6 +1090,24 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/593wo8qHVfasps1XCO0Xht"
     },
     {
       "album": {
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 110418,
       "name": "I Wanna Do",
       "url": "https://open.spotify.com/track/06LWXvlG664lAfQ3N8WRXV"
@@ -1586,6 +1604,24 @@
       "duration_ms": 176246,
       "name": "Magia",
       "url": "https://open.spotify.com/track/1VRh6jQfaiiRkXfdxpjxd2"
+    },
+    {
+      "album": {
+        "name": "Pulsi\u00f3n",
+        "url": "https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2"
+      },
+      "artists": [
+        {
+          "name": "Mar Marzo",
+          "url": "https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "Mal Marzo",
+      "url": "https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4"
     },
     {
       "album": {
@@ -2632,6 +2668,24 @@
       "duration_ms": 218172,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B"
+    },
+    {
+      "album": {
+        "name": "Resurgir",
+        "url": "https://open.spotify.com/album/7z1FnYbJHBqY1SiVUzC9bx"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "Resurgir",
+      "url": "https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN"
     },
     {
       "album": {

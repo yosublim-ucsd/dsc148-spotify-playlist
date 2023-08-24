@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 59866,
+  "num_followers": 59916,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2JlMzQ5YzRmYTU2ZjI5MGIwNDc1ZmRhY2ZlZTkyNjM0NzJmYTU5",
+  "snapshot_id": "MCxhMGY3OWQ3NTJjNmZmZDAyZmQxZjA5ZDFjMGY2NzM0NTA4NmM2ZDQ5",
   "tracks": [
     {
       "added_at": "2023-07-27 15:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 282335,
-      "name": "HELL! or HELL?",
-      "url": "https://open.spotify.com/track/4BLkz8cHw7DRsJMgYVWbBI"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "\u8ff7\u661f\u53eb",
         "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 211373,
       "name": "\u8ff7\u661f\u53eb",
       "url": "https://open.spotify.com/track/17XvFKtkd5vgB6yW0ob2R9"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 282335,
+      "name": "HELL! or HELL?",
+      "url": "https://open.spotify.com/track/4BLkz8cHw7DRsJMgYVWbBI"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+        "name": "\u7121\u8def\u77e2",
+        "url": "https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt"
       },
       "artists": [
         {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
         }
       ],
-      "duration_ms": 301500,
-      "name": "R\u00b7I\u00b7O\u00b7T",
-      "url": "https://open.spotify.com/track/5SY9BO5RF5ecqQYtDYyCB5"
+      "duration_ms": 222933,
+      "name": "\u7121\u8def\u77e2",
+      "url": "https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u7121\u8def\u77e2",
-        "url": "https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt"
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
       },
       "artists": [
         {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 222933,
-      "name": "\u7121\u8def\u77e2",
-      "url": "https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f"
+      "duration_ms": 301500,
+      "name": "R\u00b7I\u00b7O\u00b7T",
+      "url": "https://open.spotify.com/track/5SY9BO5RF5ecqQYtDYyCB5"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 282300,
-      "name": "ONE OF US",
-      "url": "https://open.spotify.com/track/3Eu6OI5GREV2RVksFaYgMo"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "QUINTET",
         "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 255000,
       "name": "\u8a93\u3044\u306eWingbeat",
       "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 282300,
+      "name": "ONE OF US",
+      "url": "https://open.spotify.com/track/3Eu6OI5GREV2RVksFaYgMo"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 215968,
+      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
+      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
         "name": "\u512a\u52dd",
         "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 295593,
       "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
       "url": "https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 215968,
-      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
-      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "Domination to world",
-        "url": "https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 224833,
-      "name": "\u707c\u71b1 Bonfire!",
-      "url": "https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "\u8ff7\u661f\u53eb",
         "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 271653,
       "name": "\u540d\u7121\u58f0",
       "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "Domination to world",
+        "url": "https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 224833,
+      "name": "\u707c\u71b1 Bonfire!",
+      "url": "https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "ROZEN HORIZON",
-        "url": "https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 218602,
-      "name": "\u9583\u5149",
-      "url": "https://open.spotify.com/track/10TQk2XVEhrTxODRemdsxT"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "Wahl",
         "url": "https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 242566,
       "name": "Song I am.",
       "url": "https://open.spotify.com/track/289IAotG694ek6V1Lp54Ue"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "ROZEN HORIZON",
+        "url": "https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "\u9583\u5149",
+      "url": "https://open.spotify.com/track/10TQk2XVEhrTxODRemdsxT"
     },
     {
       "added_at": "2023-07-27 15:00:00",

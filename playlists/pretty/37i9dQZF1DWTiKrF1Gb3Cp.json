@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 158106,
+  "num_followers": 158172,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDQxYmU1OWM3MzliOTAzNTM0OWFhMDY0NjdkNWQ2MGUyYjg3Nzcz",
+  "snapshot_id": "MCxlYTQ5MTdiZWE1M2JlYjM3M2Q5YjJkN2E4Mjc2MzAyYTExMjU5MWU5",
   "tracks": [
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1839,22 +1839,34 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "WARZONE FREESTYLE",
-        "url": "https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P"
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 196235,
-      "name": "WARZONE FREESTYLE",
-      "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"
+      "duration_ms": 141904,
+      "name": "Modo Bestia",
+      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Top 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4lrEdGXOgr1URylvbMyxVM"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Zapata",
+          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
+        }
+      ],
+      "duration_ms": 228884,
+      "name": "Soy De Barrio",
+      "url": "https://open.spotify.com/track/0tY1L6nbATmY5caW68IkvN"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1927,22 +1939,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Top 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/4lrEdGXOgr1URylvbMyxVM"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Zapata",
-          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
-        }
-      ],
-      "duration_ms": 228884,
-      "name": "Soy De Barrio",
-      "url": "https://open.spotify.com/track/0tY1L6nbATmY5caW68IkvN"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Equivocado",
         "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
       },
@@ -1963,18 +1959,22 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+        "name": "WARZONE FREESTYLE",
+        "url": "https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 141904,
-      "name": "Modo Bestia",
-      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
+      "duration_ms": 196235,
+      "name": "WARZONE FREESTYLE",
+      "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"
     },
     {
       "added_at": "2023-07-28 20:09:33",

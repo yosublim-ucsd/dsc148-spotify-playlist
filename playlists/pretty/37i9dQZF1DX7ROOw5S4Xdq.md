@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Arthur Callazans, Bruna Karla
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,787 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,910 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 11 | [O Preço Mais Caro](https://open.spotify.com/track/09Ycc4int063ZpChD3OMCE) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Preço Mais Caro](https://open.spotify.com/album/1IevqavLNiL8L03MbiziDx) | 3:57 |
 | 12 | [Deus Fará](https://open.spotify.com/track/71D1FbE9tGeibYa10l78Me) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Jesus \(Deluxe\)](https://open.spotify.com/album/1olViWyLd2YHivr72eZSRA) | 5:02 |
 | 13 | [Eu Te Agradeço \(Ao Vivo\)](https://open.spotify.com/track/7BKexzUKH9IkI2SLWL8KLf) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Eu Te Agradeço \(Ao Vivo\)](https://open.spotify.com/album/7oA2jq29xIYjURzbzqawPW) | 4:09 |
-| 14 | [Seu Amor \- Ao Vivo](https://open.spotify.com/track/4IzIBR03UPdEKyROA8KCDk) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [BRAVE Sessions • LUDI \(Ao Vivo\)](https://open.spotify.com/album/0WbJEPZ1ZWuv8w69yQc3eT) | 3:50 |
+| 14 | [Seu Amor • BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/4IzIBR03UPdEKyROA8KCDk) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [BRAVE Sessions • LUDI \(Ao Vivo\)](https://open.spotify.com/album/0WbJEPZ1ZWuv8w69yQc3eT) | 3:50 |
 | 15 | [Espere](https://open.spotify.com/track/3JdhQ09pjDbjDwzrTlZH75) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Espere](https://open.spotify.com/album/5vS0xGGqJIg3eLSIpzkqc3) | 4:41 |
 | 16 | [A Vitória](https://open.spotify.com/track/6dfbzFfhkh7DHLUTQfcVIH) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [A Vitória](https://open.spotify.com/album/0NcD0ngeWjK0Npayc2k4VA) | 3:05 |
 | 17 | [A Resposta](https://open.spotify.com/track/7sMwlXkfCANCyqWmPp0F1Q) | [Virginia Arruda](https://open.spotify.com/artist/5RUMApncGMcAxDhgg7akQa), [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [A Resposta](https://open.spotify.com/album/0YMEopJcAyJxE4i3xaXCqk) | 6:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 59 | [Vitorioso És](https://open.spotify.com/track/6CCwJUqpwqFy7EDpyGn9nj) | [Pagode Restaura](https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C) | [Vitorioso És](https://open.spotify.com/album/78wlfqXp3pdbQd19lb948r) | 4:36 |
 | 60 | [Carolina Se Converteu](https://open.spotify.com/track/1knS3ViIgA8bR2lUMnVJO1) | [Xote Santo](https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE) | [Carolina Se Converteu](https://open.spotify.com/album/0yWJi3wCrZDUAIyYy3EhAu) | 3:35 |
 
-Snapshot ID: `MCw1YWE0NjNmYTkwZjc1ZjY2YmU3MjE3MDkzNzg2NTFlNDc4MjQ5NTY3`
+Snapshot ID: `MCxhYmZkYmQzOGFlZTNkNjYyMWMyNTc4NmIxZDEwZDgxYTFkMzlhNjVh`

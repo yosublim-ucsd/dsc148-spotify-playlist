@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Cautious Clay
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,267 likes - 100 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,466 likes - 100 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 3 | [Bass solo](https://open.spotify.com/track/5wRO3D0QDF9xcdLC6I4vlP) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Dario Chiazzolino](https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [Bass solo](https://open.spotify.com/album/2w7FHQsqxYEDL6lE8WhXQs) | 2:35 |
 | 4 | [Something Old Something New](https://open.spotify.com/track/7BVqoseT4SS6ly48xmdSAK) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd) | [Something Old Something New](https://open.spotify.com/album/4Kk7bcoKqkbwFzhDKuezxr) | 6:36 |
 | 5 | [Coral Way](https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:39 |
-| 6 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/4SecYNmUfTlg29S48YfIyr) | 5:40 |
+| 6 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 |
 | 7 | [Old Folks](https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Old Folks](https://open.spotify.com/album/74XZhsk5g0Mm6Pf7vX6VuT) | 5:50 |
 | 8 | [Origin 01](https://open.spotify.com/track/6WYs0dpollV9oeui2MBXdh) | [everwave](https://open.spotify.com/artist/5nQnpRoxAaiMvn2qLL2hDX), [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Greg Paul](https://open.spotify.com/artist/02VrMFqsgeEebhNeVJ4Poe) | [Origin 01](https://open.spotify.com/album/18TmskuHhaVsCmgtc3hw5Y) | 4:25 |
 | 9 | [Day Glow](https://open.spotify.com/track/32SGbjA6hEXB3wmvnYWeg1) | [Lee Pardini](https://open.spotify.com/artist/3pA2WY9BtYThcYxuNlmnNx) | [Day Glow](https://open.spotify.com/album/08AVQmJWvNES8OO0eqSYzD) | 6:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Catalyst](https://open.spotify.com/track/751KTKDG30KIxUo2CHHas9) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Bryan Carter](https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ), [Andrew Gould](https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0), [John Lake](https://open.spotify.com/artist/4dyFqMBXDGSMXAev9B0NGX) | [Catalyst](https://open.spotify.com/album/4HWL8RyCRoeoh6JK1TduJu) | 7:38 |
 | 100 | [No End](https://open.spotify.com/track/2MJMUvGIN5aidX8rHTsJcH) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [No End](https://open.spotify.com/album/5R1eo5djaopbyuWH3vpJHd) | 2:38 |
 
-Snapshot ID: `MCwzYjg4MmVkZDAwZDUwZTlkYWY5OWE4MGFlODM2YTdjOTZhZTI5ZGZm`
+Snapshot ID: `MCxiMmJlZjQ4YmJhYTAzYWEyYzQ5ZGU0YzFmMDY1MjQyMGJmNzhmMDRk`

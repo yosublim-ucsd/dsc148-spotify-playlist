@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4?si=c7a288487c28483d">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,449 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,615 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Breathe With Me \(feat\. Lindsey Stirling\)](https://open.spotify.com/track/7z3aHNAAUsPMAaVmwuDkUe) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Breathe With Me \(feat\. Lindsey Stirling\)](https://open.spotify.com/album/7fRNpEQDax1JiP5vbWaSv0) | 5:00 |
 | 100 | [Slow Me Down](https://open.spotify.com/track/2c6pOvjLEoY240Ny6l3YNA) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Slow Me Down](https://open.spotify.com/album/78u9L6vuyjYjQo2gGqF98e) | 3:22 |
 
-Snapshot ID: `MCwzNjRhODVmZjYzODViNzM2OTU2OWVhNmNjNzkyZWU4OGVkYTRjYjc3`
+Snapshot ID: `MCxiYTM1YmRhMjU3NDBhZDMwOGIyNWFlNmU3NDdjNDY2NjMwMDQ0NjU0`

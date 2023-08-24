@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: BRN
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,651 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,667 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 69 | [Tears](https://open.spotify.com/track/4J8euWtEZJmDRuFAjzAMI5) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Tears](https://open.spotify.com/album/3bjsXm28P3JAb3rvqYa684) | 2:24 |
 | 70 | [Mary Jane](https://open.spotify.com/track/2ufkb3FQTmK8OJpP7dZ5oB) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ), [LLølita](https://open.spotify.com/artist/0fnCSuylj2kNfNzpvmFeM3) | [Mary Jane](https://open.spotify.com/album/0bOPG9YALZ4nbNA9u3I7XU) | 5:10 |
 
-Snapshot ID: `MCwyMmZhMDg3ZWY4OTgzYjAxY2ExYmNmNjRiMTc1ODg3M2U2MDdlMzE4`
+Snapshot ID: `MCw1MWVmZTE5MjI4YjAyZTMwNTBkMTAyMjQ1M2IwYjdhNDhkOTljYTBk`

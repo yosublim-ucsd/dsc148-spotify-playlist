@@ -4,7 +4,7 @@
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-1,734 songs - 4 day 15 hr 12 min
+1,734 songs - 4 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1718,7 +1718,7 @@
 | [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 | 2023-06-02 | 2023-06-10 |
 | [Would You Be My Judy?](https://open.spotify.com/track/1ndRpUXCDR40upnsnV5IYS) | [Nancy](https://open.spotify.com/artist/6HN4w8eC0IVDYprG41CKh9) | [Would You Be My Judy?](https://open.spotify.com/album/5D4GX521TlVeTiYBMJ6czp) | 3:11 | 2022-08-12 | 2022-08-20 |
 | [Wretched Lie](https://open.spotify.com/track/1X6JFzijTY8qD2NdbslC6D) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Wretched Lie](https://open.spotify.com/album/6nZaXEYNHX5Sid4AkyQV1q) | 4:09 | 2023-01-20 | 2023-01-28 |
-| [X \(Wot You Sayin?\)](https://open.spotify.com/track/0nKD6cmgVwJohU3Nmx11zT) | [Mantra of the Cosmos](https://open.spotify.com/artist/6hUgHqG6kTgK5XswUHIErd), [Shaun Ryder](https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY), [Zak Starkey](https://open.spotify.com/artist/4h4l0uPYNCYJQZF4ZzugIy), [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [X \(Wot You Sayin?\)](https://open.spotify.com/album/1K61dcFGro98brEedVR91T) | 3:00 | 2023-08-18 |  |
+| [X \(Wot You Sayin?\)](https://open.spotify.com/track/0nKD6cmgVwJohU3Nmx11zT) | [Mantra of the Cosmos](https://open.spotify.com/artist/6hUgHqG6kTgK5XswUHIErd), [Shaun Ryder](https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY), [Zak Starkey](https://open.spotify.com/artist/4h4l0uPYNCYJQZF4ZzugIy), [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [X \(Wot You Sayin?\)](https://open.spotify.com/album/1K61dcFGro98brEedVR91T) | 2:46 | 2023-08-18 |  |
 | [Xodokan Iko \- Hu Na Ney](https://open.spotify.com/track/1H1bWmRBgfc8qBvcyKMM7S) | [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Xodokan Iko \- Hu Na Ney](https://open.spotify.com/album/6xVXkePfuTyWmFxapFAfIG) | 3:57 | 2023-06-16 | 2023-06-24 |
 | [Yawning Abyss](https://open.spotify.com/track/47mJjlNsR5LjBl5Z6QWXmQ) | [Creep Show](https://open.spotify.com/artist/29rSgenXS6LlqOZWMBHLJE), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Yawning Abyss](https://open.spotify.com/album/69HcVN9uglc9UVpUdjsFZl) | 3:45 | 2023-03-10 | 2023-03-18 |
 | [Year Zero](https://open.spotify.com/track/4pepbIXjq5Thakr90P3VHq) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 3:40 | 2023-05-05 | 2023-05-13 |

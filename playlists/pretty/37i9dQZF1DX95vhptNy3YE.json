@@ -1,12 +1,12 @@
 {
   "description": "Senndy e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 214261,
+  "num_followers": 214340,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGMxOTBiZjFhZjE4NzcwM2E1MGE4NzgzNGE4N2NlOGI5NWU3MzYw",
+  "snapshot_id": "MCw4ZTMxYjEzMjI3NWFjNTExOGViOWQ2MTUyNGE4YjUzMzdiNjFmYTQ1",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -904,8 +904,8 @@
           "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
         },
         {
-          "name": "Mamute",
-          "url": "https://open.spotify.com/artist/2WTXoEeS24xWis7ptoQ1wT"
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
         }
       ],
       "duration_ms": 242570,
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Frozone",
-        "url": "https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        },
-        {
-          "name": "prod by bila",
-          "url": "https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2"
-        }
-      ],
-      "duration_ms": 178119,
-      "name": "Frozone",
-      "url": "https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Chove Chuva",
         "url": "https://open.spotify.com/album/39kN9xSE9LbuQAiXQAe52G"
       },
@@ -1187,6 +1163,30 @@
       "duration_ms": 170802,
       "name": "Chove Chuva",
       "url": "https://open.spotify.com/track/1pQ29ZLS28yXAiXW2LREyK"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Frozone",
+        "url": "https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "prod by bila",
+          "url": "https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2"
+        }
+      ],
+      "duration_ms": 178119,
+      "name": "Frozone",
+      "url": "https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT"
     },
     {
       "added_at": "2023-08-18 03:01:00",

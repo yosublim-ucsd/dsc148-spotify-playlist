@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-474 songs - 1 day 16 hr 23 min
+475 songs - 1 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Endless November](https://open.spotify.com/track/3TDGJ4EWmZFEMA8B4wnTZ6) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Endless November](https://open.spotify.com/album/3sGToMcgvwofekr6XdIkw9) | 7:43 | 2021-12-17 | 2022-01-15 |
 | [Erasure](https://open.spotify.com/track/0bsQEcdbZPUAv33cVrxUNW) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Erasure](https://open.spotify.com/album/5huhY847S7cVpUPVZmmG1q) | 4:45 | 2022-01-14 | 2022-04-23 |
 | [Esaiah](https://open.spotify.com/track/50TtG7RA5yBa1RI4tLGhU7) | [Gomorran](https://open.spotify.com/artist/2gYZWsir5p6qtSkTDF7Qkt) | [Excerpts from the Dark Age](https://open.spotify.com/album/07DJUKMAxbTzfM3cWnAVUn) | 4:35 | 2021-12-17 | 2022-02-11 |
-| [Et smelter](https://open.spotify.com/track/6WMv9iP4O2tvl8hfW5cHVW) | [Dødheimsgard](https://open.spotify.com/artist/4EzPNgGmh8l2xPoTEgivT8) | [Black Medium Current](https://open.spotify.com/album/6lJ8c7QFGE0x32KaslsRCE) | 10:19 | 2023-04-28 |  |
+| [Et smelter](https://open.spotify.com/track/6WMv9iP4O2tvl8hfW5cHVW) | [Dødheimsgard](https://open.spotify.com/artist/4EzPNgGmh8l2xPoTEgivT8) | [Black Medium Current](https://open.spotify.com/album/6lJ8c7QFGE0x32KaslsRCE) | 10:19 | 2023-04-28 | 2023-08-24 |
 | [Eternal Disguise](https://open.spotify.com/track/5Pv4IXVuDQ2BVDMKpTVrJy) | [Dark Archive](https://open.spotify.com/artist/0eV0wbQfEyZTQe9tPAh3aF) | [Reunite the Darkness](https://open.spotify.com/album/36fZ7ArMTxnTdeTv9auYh9) | 2:41 | 2022-05-20 | 2022-07-27 |
 | [Ethnogenese](https://open.spotify.com/track/71Y8PGb5uicatooZb7Yot1) | [Obscurity](https://open.spotify.com/artist/1O6WsZT2io58x15CXAQVBO) | [Ethnogenese](https://open.spotify.com/album/2TOEbYty0peTaPXBw6EicO) | 4:10 | 2021-12-17 | 2022-01-29 |
 | [Event Horizon](https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc) | [Dawn Of Solace](https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7) | [Event Horizon](https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm) | 3:51 | 2021-12-17 | 2022-07-29 |
@@ -235,6 +235,7 @@
 | [Into the Crypts of Rays](https://open.spotify.com/track/4xQO8MVtFZOW2KJMBuAB2p) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 3:39 | 2022-07-13 | 2022-09-04 |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
 | [IRMOS I](https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt) | [Batushka](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [MARIA](https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz) | 4:49 | 2022-04-01 | 2023-07-04 |
+| [Island of Dead Men](https://open.spotify.com/track/1n857ftGC4pbJhFjBmf5im) | [Asinhell](https://open.spotify.com/artist/0LDCMz2as9KQgSlX3KJNYx) | [Island of Dead Men](https://open.spotify.com/album/5wpL7nK7eCM33EXe9auPt1) | 3:01 | 2023-08-18 |  |
 | [It's Darker Than You Think](https://open.spotify.com/track/24rgd0Ex8aBpmctVJHbJSF) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/4SCjDGytdNcWgtt3cMIBF2) | 4:41 | 2022-07-13 | 2022-07-29 |
 | [It's Darker than you Think](https://open.spotify.com/track/479lTQmXhnmGai0UGVxQpY) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/3L640gN3OxWwYVipxqerWA) | 4:41 | 2022-07-13 |  |
 | [Iò Pan!](https://open.spotify.com/track/1RSMkPnTZDK5OUEXYnV31Y) | [Selvans](https://open.spotify.com/artist/2HpWGadw2hmtDMTfbfaqkj) | [Dark Italian Art](https://open.spotify.com/album/7JvLKSi8zktCdBXVM7Hhnr) | 5:45 | 2021-12-17 | 2022-01-22 |

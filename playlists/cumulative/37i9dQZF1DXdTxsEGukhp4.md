@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 崎山蒼志
 
-206 songs - 12 hr 3 min
+207 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Kawaikutegomen](https://open.spotify.com/track/4Mo0vn7a03pJ19uESUrH5a) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [Capi](https://open.spotify.com/artist/1CnxV1xCQR5pmAR6IHIIyR) | [Kokuhakujikkouiinkai \-FLYING SONGS\- Koishiteru](https://open.spotify.com/album/6RriT3rElmDYDODZjcKBcq) | 3:39 | 2023-01-26 | 2023-06-23 |
 | [KIMINOMAMA](https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [KIMINOMAMA](https://open.spotify.com/album/1zfEiFINYq6yP3aUROBvQz) | 2:57 | 2023-02-23 | 2023-06-16 |
 | [KNOCK](https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Over The Moon](https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3) | 2:53 | 2023-05-11 |  |
-| [Kokuhaku](https://open.spotify.com/track/6DynX3j7dYbvlQiGLZh516) | [Lil Yeek](https://open.spotify.com/artist/02e9PHgZGNSwUrDH4MLysR) | [Kokuhaku](https://open.spotify.com/album/4XrUvNDapaHPyQSagcCxR9) | 4:19 | 2023-08-17 |  |
+| [Kokuhaku](https://open.spotify.com/track/0JnRFvW9QnilJxSkUEAzLx) | [Lil Yeek](https://open.spotify.com/artist/02e9PHgZGNSwUrDH4MLysR) | [Night Flight](https://open.spotify.com/album/2k2d58liuxwUATY9yxGz9g) | 4:19 | 2023-08-17 |  |
+| [Kokuhaku](https://open.spotify.com/track/6DynX3j7dYbvlQiGLZh516) | [Lil Yeek](https://open.spotify.com/artist/02e9PHgZGNSwUrDH4MLysR) | [Kokuhaku](https://open.spotify.com/album/4XrUvNDapaHPyQSagcCxR9) | 4:19 | 2023-08-17 | 2023-08-24 |
 | [kyou Izonshite](https://open.spotify.com/track/7rZisqzXQlYYfBZcU4iRj8) | [AVAM](https://open.spotify.com/artist/6QYNfAOyqSzJ06hoKdfWLe) | [Boku no Sekai ha Ao de Somatteiku](https://open.spotify.com/album/0gAHEksPGmsx8eqGutJKSO) | 3:26 | 2023-07-12 | 2023-08-08 |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-23 | 2023-06-09 |
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-23 | 2023-06-09 |

@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Banana Cake",
+        "url": "https://open.spotify.com/album/4Rggj2ueRuVX3PiXry6xpY"
+      },
+      "artists": [
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Banana Cake",
+      "url": "https://open.spotify.com/track/364QRc0IPz7qXUuJkUElnQ"
+    },
+    {
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/3C2a8WD61N3Q6lCaYnXywp"
       },
@@ -980,7 +998,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 194400,
       "name": "Dreaming In My Mind",
       "url": "https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN"

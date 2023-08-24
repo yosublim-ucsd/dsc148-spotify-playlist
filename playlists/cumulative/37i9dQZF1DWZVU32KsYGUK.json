@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Apr\u00e8s Tout",
+        "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
+      },
+      "artists": [
+        {
+          "name": "Alexis Pavot",
+          "url": "https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "Apr\u00e8s tout",
+      "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
+    },
+    {
+      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/2ZLdQ0sdq6lbY5bPSUJnL3"
       },
@@ -2587,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "Lac des Buttes",
+        "url": "https://open.spotify.com/album/5f7kNJ30Borz8VHTtsuG32"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Dupain-Aignon",
+          "url": "https://open.spotify.com/artist/13jahwQWxrUhKBpng3HRQf"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133572,
+      "name": "Le Lac des Buttes",
+      "url": "https://open.spotify.com/track/2wSDYbFEls8WYUCLCUvZNJ"
+    },
+    {
+      "album": {
         "name": "Le Printemps du Coeur- Une Liaison Amoureuse",
         "url": "https://open.spotify.com/album/3WkZ5uMr8iiE3RutnSoHeb"
       },
@@ -2860,6 +2896,24 @@
       "duration_ms": 113135,
       "name": "Los Viejos Tiempos",
       "url": "https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3"
+    },
+    {
+      "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe"
+      },
+      "artists": [
+        {
+          "name": "Cecile Roy",
+          "url": "https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139924,
+      "name": "Lost Frequencies",
+      "url": "https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA"
     },
     {
       "album": {
@@ -3238,7 +3292,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 110930,
       "name": "Musicbox",
       "url": "https://open.spotify.com/track/79ARqSOhxlYfYHKbiEcvXP"
@@ -3332,6 +3386,24 @@
       "duration_ms": 193997,
       "name": "Next Part Of The Dream",
       "url": "https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG"
+    },
+    {
+      "album": {
+        "name": "Night Bird, Night Song",
+        "url": "https://open.spotify.com/album/7cUVIhZAj4cyjdateENnve"
+      },
+      "artists": [
+        {
+          "name": "Camilla Turgot",
+          "url": "https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130690,
+      "name": "Night Bird, Night Song",
+      "url": "https://open.spotify.com/track/4oKLGQ5RhsIItD2zcOe7l3"
     },
     {
       "album": {
@@ -3836,7 +3908,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 119570,
       "name": "Prelude to Elegance",
       "url": "https://open.spotify.com/track/0eubFOQUAbrLPPmf6xNDQE"
@@ -5050,7 +5122,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 119974,
       "name": "Trap\u00e8ze",
       "url": "https://open.spotify.com/track/65jKH7EzzFRmtfCM3xTI2V"

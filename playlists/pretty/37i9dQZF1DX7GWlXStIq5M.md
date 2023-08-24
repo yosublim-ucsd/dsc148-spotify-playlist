@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Gloria Groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,611 likes - 85 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,666 likes - 85 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 84 | [TUA BITCH](https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ) | [Tua Bitch](https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY) | 3:13 |
 | 85 | [Vida Melhor](https://open.spotify.com/track/5M7lhKC3A4k50x2cQMfzCt) | [Robson Sá](https://open.spotify.com/artist/1xtDLOFghpcmOKK9rW5lPh) | [Vida Melhor](https://open.spotify.com/album/5H9q5IocriQT6sVtDsWrQL) | 2:42 |
 
-Snapshot ID: `MCwyODdlOWEwZTFkM2JiY2ZiMzI4MTFjODNlZjk1NjFhYWE5MDk1NzQx`
+Snapshot ID: `MCxlZDI1MzI0NTExNGRkMjA3NzA5MTg3NjZhNzg1ODQwNTYwMjQ2MWFl`

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Aya Nakamura
 
-1,991 songs - 4 day 10 hr 16 min
+1,992 songs - 4 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Comme une évidence](https://open.spotify.com/track/2ppnLfEpEqlDZs8qmpsdCB) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte deux](https://open.spotify.com/album/531fHm8Odx5THAX4CuLg91) | 3:36 | 2022-09-02 | 2022-09-17 |
 | [Comme ça](https://open.spotify.com/track/5tMRCsbCLNfbrKCAf47kYe) | [Shecky](https://open.spotify.com/artist/3N3ik9Imb3cjqYRL6cz3qv) | [Amour Délétère](https://open.spotify.com/album/1KCL3PKWV96JnYgq5i71hN) | 2:52 | 2022-08-05 | 2022-08-27 |
 | [Comment comment](https://open.spotify.com/track/1AXzOrfhuYFimANimmvIeH) | [Dominique Hudson](https://open.spotify.com/artist/5jUUxz4x0tzHtghlDNyBLa), [Stefano Torrex](https://open.spotify.com/artist/5nB3srQnV3w0QZms0DM6S8) | [Comment comment](https://open.spotify.com/album/1RlT0KHsTw6RGhT6b0gki3) | 2:49 | 2022-09-30 | 2022-10-15 |
+| [Comment on fait](https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Comment on fait](https://open.spotify.com/album/6fx6DbXhISVfj2T3mySNmS) | 3:00 | 2023-08-18 |  |
 | [Comment tu vas finir](https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Comment tu vas finir](https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz) | 2:29 | 2021-12-31 | 2022-01-15 |
 | [Comment tu vas?](https://open.spotify.com/track/3KsUnYbPcOMHetYdc3ftlZ) | [King Maliba](https://open.spotify.com/artist/5qdNvzjfLvWUkcbWVjuu08) | [Comment tu vas?](https://open.spotify.com/album/7GdSUvEjuoeKPF03foQpeD) | 3:02 | 2022-04-15 | 2022-04-23 |
 | [Commun maintenant \- Session live H2T](https://open.spotify.com/track/5cqlX4QK1VnaK0cT0d8vSL) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Commun maintenant \(Session Live H2T\)](https://open.spotify.com/album/7wgAYh8mujlxEtD8wtpQFQ) | 3:24 | 2022-05-27 | 2022-06-04 |
@@ -1854,7 +1855,7 @@
 | [Un autre hiver](https://open.spotify.com/track/6eLjr4UAIHYZvhBgjPlZ3L) | [Vice du Nord](https://open.spotify.com/artist/4yJ5foa0Em55APjnvFE6qm) | [Un autre hiver](https://open.spotify.com/album/146JbylMbF5nxNfrbWMVwu) | 3:21 | 2022-11-25 | 2022-12-17 |
 | [Un Bum](https://open.spotify.com/track/5V3yBZFCTUqeNkOoSar5gk) | [Thomas Argouin](https://open.spotify.com/artist/2YuO1O9h5zMxswHlFvs7b6) | [Un Bum](https://open.spotify.com/album/4pyfgT2L93E6dgNA36iHcz) | 4:19 | 2023-02-03 | 2023-02-18 |
 | [Un coup de génie](https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Un coup de génie](https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte) | 3:12 | 2022-02-04 | 2022-02-19 |
-| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 |  |
+| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 | 2023-08-24 |
 | [Un homme sans visage](https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Un homme sans visage](https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h) | 3:26 | 2022-05-13 | 2022-05-28 |
 | [Un jour ou l'autre](https://open.spotify.com/track/6w8xHbn3VHOQBzJ85majul) | [Pete](https://open.spotify.com/artist/40gbkGuMLWOxH0oGvH3MXk), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Un jour ou l'autre](https://open.spotify.com/album/2F6noOdaLKnBxtl78geaLW) | 3:02 | 2022-05-13 | 2022-05-28 |
 | [Un kid](https://open.spotify.com/track/2E1FCN9N6vNFejyksglQnZ) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Un kid](https://open.spotify.com/album/31rtUB4ct0i4tXJV0w6gPp) | 2:53 | 2022-11-18 | 2022-12-03 |

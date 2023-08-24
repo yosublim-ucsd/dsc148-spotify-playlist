@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth joints from around the globe
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,993 likes - 85 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,016 likes - 85 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 28 | [Lost in a Bed of Flowers](https://open.spotify.com/track/6jKRORjRyncMFPyMxsYyp1) | [Zen in Space](https://open.spotify.com/artist/3tCapIBvPdztdjuCnoout6) | [Between the Abstract](https://open.spotify.com/album/08RkTLcmCy8RvbLD4MacKZ) | 5:57 |
 | 29 | [What Not To Do \- Moodymann Remix](https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [What Not To Do \(Moodymann Remix\)](https://open.spotify.com/album/0q5IDnHeEk0RqkaQvZ8gOY) | 5:16 |
 | 30 | [Transient](https://open.spotify.com/track/1yJGKN9vVPbsRL6Lj5bGd7) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H) | [Transient](https://open.spotify.com/album/1tizhOQtiHBSDH8w24Pps4) | 3:45 |
-| 31 | [Pash Rash](https://open.spotify.com/track/1Wl1mqm9URwTkFcfTOBI78) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Pash Rash](https://open.spotify.com/album/6LG9QQHDTyZhtrjBaa9cPN) | 6:08 |
+| 31 | [Pash Rash](https://open.spotify.com/track/1geU3dUBoTtkCoCJmU2L5D) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 6:08 |
 | 32 | [On Land \- Hugh B Dub](https://open.spotify.com/track/754xe1zYNdjnHjxFM3nInA) | [Loose Fit](https://open.spotify.com/artist/0uheKgZvAN1XtSaIsSV3IO), [Hugh B](https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn) | [Remixes and Dubs](https://open.spotify.com/album/44fftVVsXoC0zoDrUPpRSS) | 4:10 |
 | 33 | [I'm Scanning Things I Can't See](https://open.spotify.com/track/6PFMHtcCD9l1O7PVUvxRn5) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [I'm Scanning Things I Can't See / Dark Dancing](https://open.spotify.com/album/0KwTL3GstzmHzXYVfVYpx9) | 2:28 |
 | 34 | [Nightclub Daydream](https://open.spotify.com/track/5tIWokaSlLIeH4xiQ5U1we) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5) | [Rarities 2010 \- 2020: Japanese Tour Singles](https://open.spotify.com/album/30lV8rmhO9bbOTD6NpZMts) | 3:32 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 69 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 |
 | 70 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 |
 | 71 | [phoenix](https://open.spotify.com/track/0JiS119XxHV9RfowD0GnIJ) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [phoenix](https://open.spotify.com/album/43nJVcXlrXfu540KyCab82) | 2:33 |
-| 72 | [A New God Before Us](https://open.spotify.com/track/1GUyaMubKrVoAC3ca6D9Mb) | [Holy Tongue](https://open.spotify.com/artist/261n3GnAgoCgSmqan7OL7o) | [Deliverance and Spiritual Warfare](https://open.spotify.com/album/0nyzXhNH1TcEghjaiI9pAZ) | 3:32 |
+| 72 | [A New God Before Us](https://open.spotify.com/track/1sfMxHmmFFOOCKBqtXyBGw) | [Holy Tongue](https://open.spotify.com/artist/261n3GnAgoCgSmqan7OL7o) | [Deliverance and Spiritual Warfare](https://open.spotify.com/album/1AfM1mYwdvA6mUatRtpGqx) | 3:32 |
 | 73 | [Much More \- 30/70 Crushin Mix](https://open.spotify.com/track/4kXh3uCLSAaFQJa1geebum) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [Much More \(30/70 Crushin Mix\)](https://open.spotify.com/album/72wCxJtjRZ0nC0VUDhm1sA) | 5:38 |
 | 74 | [Juice](https://open.spotify.com/track/5PCewEk7WLgWMpjXZwoy2Z) | [Mouche](https://open.spotify.com/artist/4VGuZY8GBZDsGI9PYW48Jj) | [Juice](https://open.spotify.com/album/5FHbLW2ofN5Go7BlyPrno2) | 3:28 |
 | 75 | [Bleached](https://open.spotify.com/track/7tKlED6H6p0FB92PqsKDtq) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Kreuzberg Kix EP 2](https://open.spotify.com/album/1CI68Bl2zLRBThWwa4SgAi) | 5:33 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 84 | [Earthly Times \- billy woods rework](https://open.spotify.com/track/13xE4sseIp2FSqcHWdQOBK) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Earthly Times \(billy woods rework\)](https://open.spotify.com/album/5HsBVXVIgCoQ2AnliVyUPE) | 3:11 |
 | 85 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 |
 
-Snapshot ID: `MCxjOWYzYzNhN2UzZjMwNDQ5NDNkYjU0MmExZGIzMjZiNDRkZGQyOTJm`
+Snapshot ID: `MCxmMWNlNTc3NjNiMzhjOTVlMWEwZThkMDVhNjc2YTY3NmNkNmQyYjU3`

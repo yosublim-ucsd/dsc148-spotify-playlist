@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Confusion",
+        "url": "https://open.spotify.com/album/2c2xtzOyPOkEoou45o1tYc"
+      },
+      "artists": [
+        {
+          "name": "Bangla Five",
+          "url": "https://open.spotify.com/artist/2mt61gxTSTC56E4wgosOIj"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "Baba Mayer Pocket",
+      "url": "https://open.spotify.com/track/76mzMB4jDgJVzKgFQwggzL"
+    },
+    {
+      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/6XQ47J5lY2VA4Gevkp0AOQ"
       },
@@ -764,7 +782,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 280656,
       "name": "Bhondo",
       "url": "https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N"
@@ -894,7 +912,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 471000,
       "name": "Biprotip",
       "url": "https://open.spotify.com/track/0kUD0WErxFfyM1VLgpWuIo"
@@ -912,10 +930,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 354504,
       "name": "Bishonno Shundor",
       "url": "https://open.spotify.com/track/4yg5KwOtT3UUjdlKR7zSnf"
+    },
+    {
+      "album": {
+        "name": "Oporajeyo",
+        "url": "https://open.spotify.com/album/2Ngq5znSkKruAO7ba8ljZj"
+      },
+      "artists": [
+        {
+          "name": "Mechanix",
+          "url": "https://open.spotify.com/artist/7tKi9Ea7AqpJDKNhsWRJuy"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312560,
+      "name": "Bisshoy",
+      "url": "https://open.spotify.com/track/1fu6SmSEeIHq1IlRfZB2SL"
     },
     {
       "album": {
@@ -948,7 +984,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 351240,
       "name": "Boka pakhi",
       "url": "https://open.spotify.com/track/5QFHN5g6tUuQGIsGFQyMjF"
@@ -966,7 +1002,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 243530,
       "name": "Bondho Janala",
       "url": "https://open.spotify.com/track/5BJBaI4bpWHmiXqFadEpkM"
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 271698,
       "name": "Bujhe Na Bujhe",
       "url": "https://open.spotify.com/track/0FWmRjraRmR6KiERSM2780"
@@ -1338,7 +1374,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 340500,
       "name": "Dhoa",
       "url": "https://open.spotify.com/track/78iTD1VX0T3T8N4jhSUzvw"
@@ -1450,7 +1486,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 258324,
       "name": "Eden",
       "url": "https://open.spotify.com/track/53NYK7ZRLBErAMdJNBJEoo"
@@ -1468,7 +1504,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 346920,
       "name": "Ei Brishti Bheja Raate",
       "url": "https://open.spotify.com/track/6wYFG41ZlYQ9LZoO134Ywl"
@@ -1616,7 +1652,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 318500,
       "name": "Esho Amar Shohore",
       "url": "https://open.spotify.com/track/5CM1vkHKmfjGk5Akzd6An1"
@@ -1634,7 +1670,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 260573,
       "name": "Eto Kosto Keno",
       "url": "https://open.spotify.com/track/4tp8j4lPEbwaRxmcmIG0GU"
@@ -1674,6 +1710,24 @@
       "duration_ms": 422397,
       "name": "Fer Dekha",
       "url": "https://open.spotify.com/track/09HJFvjdy6VQSwt3X71bKZ"
+    },
+    {
+      "album": {
+        "name": "Ferari Mon (Unplugged Live)",
+        "url": "https://open.spotify.com/album/7p0UXPKBF7fH1nz17GFVuj"
+      },
+      "artists": [
+        {
+          "name": "LRB",
+          "url": "https://open.spotify.com/artist/5rjNYnNzLc5wiQx9Z7zkhv"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364042,
+      "name": "Ferari Mon - Unplugged Live",
+      "url": "https://open.spotify.com/track/0aNVBb459J8QmTAoHu3pGq"
     },
     {
       "album": {
@@ -1868,7 +1922,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 399766,
       "name": "Haay Bhalobashi",
       "url": "https://open.spotify.com/track/3FyG3XJD5cUj4OfuyvYAgX"
@@ -2463,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Manush - 1",
+        "url": "https://open.spotify.com/album/3AZ7tQUxsqBnFHLaIXFfQP"
+      },
+      "artists": [
+        {
+          "name": "Avash",
+          "url": "https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316363,
+      "name": "Manush - 1",
+      "url": "https://open.spotify.com/track/4XnqzQJMamzhjNn5IU6myH"
+    },
+    {
+      "album": {
         "name": "Masranga",
         "url": "https://open.spotify.com/album/7knKeANWWtsYflQieVtyMh"
       },
@@ -2708,7 +2780,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 280513,
       "name": "Morron Iccha",
       "url": "https://open.spotify.com/track/7qDBGtbzTU480J25m6Y30m"
@@ -2762,7 +2834,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 290109,
       "name": "Na",
       "url": "https://open.spotify.com/track/4i1j5lA3ZreDpPoFzY3CHg"
@@ -2888,7 +2960,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 301371,
       "name": "Nijer Jonno",
       "url": "https://open.spotify.com/track/27ubltBJaoOJCBKDQoR3l0"
@@ -2982,7 +3054,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 439745,
       "name": "Obak Bhalobasha",
       "url": "https://open.spotify.com/track/2aj4w2bivH9PfIcjToMfYb"
@@ -3361,6 +3433,24 @@
     },
     {
       "album": {
+        "name": "Run Out",
+        "url": "https://open.spotify.com/album/0jRNMjnYRx3lhoIGmUbBtO"
+      },
+      "artists": [
+        {
+          "name": "Vikings",
+          "url": "https://open.spotify.com/artist/5lrrdRfiO5RHTTJW4CAq35"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349936,
+      "name": "Opekkha, Pt. 1",
+      "url": "https://open.spotify.com/track/0YMbrZvSCvoZ8KLlvqgoE2"
+    },
+    {
+      "album": {
         "name": "Ishshoronio",
         "url": "https://open.spotify.com/album/6GvalgWDABm1XEYvFfnGF1"
       },
@@ -3390,7 +3480,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 249786,
       "name": "Oporanho",
       "url": "https://open.spotify.com/track/5pvcKpHBdbhIUuE3JDvfQE"
@@ -3408,7 +3498,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 249846,
       "name": "Oporanho",
       "url": "https://open.spotify.com/track/44QWuAwI92irD0HNDRyheR"
@@ -3772,7 +3862,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 360000,
       "name": "PURBAPOR",
       "url": "https://open.spotify.com/track/2JccX3rLZQi4f2IE9c7b7o"
@@ -3960,7 +4050,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 353657,
       "name": "Rupkotha",
       "url": "https://open.spotify.com/track/3ywoWdGNt4WbQDo6DTMsOO"
@@ -4032,7 +4122,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 259296,
       "name": "School",
       "url": "https://open.spotify.com/track/63gXEUNweGMKkvhfkSPMzL"
@@ -4260,7 +4350,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 277517,
       "name": "Shomoy Gele",
       "url": "https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9"
@@ -4884,7 +4974,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 197265,
       "name": "\u09a4\u09cb\u09a6\u09c7\u09b0 \u0997\u09be\u09a8 | Toder Gaan",
       "url": "https://open.spotify.com/track/1ynbifTWZz0125dr8SeILx"

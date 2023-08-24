@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-638 songs - 1 day 19 hr 38 min
+639 songs - 1 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
 | [Better With You](https://open.spotify.com/track/2eIiQ5mf0EEYWSfN5Pzxki) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Better With You](https://open.spotify.com/album/2hCIK1s0jAD2s9LBzXusT4) | 3:20 | 2023-03-03 | 2023-03-11 |
 | [Big Big Love](https://open.spotify.com/track/1bKccVkVv8Fww7g47ecGKA) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/7wtRSJjjEdOxlZ0gn7MK7y) | 3:46 | 2023-03-17 | 2023-03-25 |
+| [Big Business / I Zimbra \(Live\) \- 2023 Remaster](https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Deluxe Edition\) \[Live\]](https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK) | 7:23 | 2023-08-18 |  |
 | [Big Shot City \- Makaya McCraven Interpolation](https://open.spotify.com/track/7DCiTmZKwIxILzlcu2nHA6) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B), [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Big Shot City \(Makaya McCraven Interpolation\)](https://open.spotify.com/album/1uib3EDOL75uSnMxzMHMBN) | 4:22 | 2023-04-21 | 2023-05-19 |
 | [Black Hole Sun](https://open.spotify.com/track/6pRAO4YzGQI5iEvBdttgGb) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Black Hole Sun](https://open.spotify.com/album/3R8GhDAi9r5wv8cOUFZ9xK) | 5:23 | 2023-03-31 | 2023-04-22 |
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-03-24 | 2023-04-01 |
@@ -109,7 +110,7 @@
 | [Consign To Oblivion \- Live at the Afas Live](https://open.spotify.com/track/76B4WwUShRWjjOOA6146Hb) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Consign To Oblivion \(Live At The Afas Live\)](https://open.spotify.com/album/4o0xfqGPoackkoZpDPIhgl) | 9:58 | 2023-08-04 | 2023-08-12 |
 | [CONTIGO](https://open.spotify.com/track/3pKG8z85Hsa4IiDwlELHf6) | [Mago Rey](https://open.spotify.com/artist/34W0qoIabeEniJH7rLVXHv), [Blanca Tapia](https://open.spotify.com/artist/7bwtu0qPlC5My6gmQiyiEt) | [CONTIGO](https://open.spotify.com/album/4mVMBRhzeuKd4ePwqtceOU) | 4:18 | 2023-08-04 | 2023-08-19 |
 | [Corona Flow](https://open.spotify.com/track/2TH9MV3CeqqempxwPL63Jq) | [Flannan](https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ), [AK](https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk), [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Corona Flow](https://open.spotify.com/album/2f5T5nSAJusaNRTmEAhJYb) | 2:31 | 2023-03-10 | 2023-03-18 |
-| [Corre Que Te Pillo \- En Vivo](https://open.spotify.com/track/0boAkxEC2m1MbtMWHE5ZJl) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Corre Que Te Pillo \(En Vivo\)](https://open.spotify.com/album/2SmOi0gfLVXNGKF5SOqI75) | 13:25 | 2023-08-18 |  |
+| [Corre Que Te Pillo \- En Vivo](https://open.spotify.com/track/0boAkxEC2m1MbtMWHE5ZJl) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Corre Que Te Pillo \(En Vivo\)](https://open.spotify.com/album/2SmOi0gfLVXNGKF5SOqI75) | 13:25 | 2023-08-18 | 2023-08-24 |
 | [Council Skies](https://open.spotify.com/track/1KDR3iKY185DjEREnzYhgU) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/0LEsy6Ncwa96urueYAB8ud) | 4:42 | 2023-04-21 | 2023-05-14 |
 | [Council Skies \- The Reflex Revision](https://open.spotify.com/track/50aTa1VLDpcXXmAZdBwAlc) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L), [The Reflex](https://open.spotify.com/artist/6E7SbenCPEit9gDFnMlDUA) | [Council Skies \(The Reflex Revision\)](https://open.spotify.com/album/3XVRHph1vIQcqefiFh7drP) | 5:25 | 2023-05-12 | 2023-06-03 |
 | [Countdown To Shutdown](https://open.spotify.com/track/1bw8MQNG3NOQCfJQD1Auxt) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Countdown To Shutdown](https://open.spotify.com/album/7exlpnPOPjdUfwKwZ3tvQk) | 3:13 | 2023-06-16 | 2023-06-24 |

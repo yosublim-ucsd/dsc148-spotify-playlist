@@ -1,12 +1,12 @@
 {
   "description": "The ultimate line-up of Summer anthems, strap in !!!",
-  "num_followers": 36418,
+  "num_followers": 36424,
   "original_name": "Summer: The Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTBhMGRhMTA2NmZkMzI4OTIwYjM4Yzg0OGY0OGEzZmU2NGFhZDk0",
+  "snapshot_id": "MCxiOTg5MmJiZDMwNzVhM2I5ODI0MmI4ZWRlMGFiMGY0YjNiNzljOWE0",
   "tracks": [
     {
       "added_at": "2023-02-28 16:56:35",
@@ -560,7 +560,7 @@
       },
       "artists": [
         {
-          "name": "Usher",
+          "name": "USHER",
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Stereo Love",
-        "url": "https://open.spotify.com/album/1g9MChpxVdgoyA7kMbcnfj"
-      },
-      "artists": [
-        {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-        },
-        {
-          "name": "Vika Jigulina",
-          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
-        }
-      ],
-      "duration_ms": 155755,
-      "name": "Stereo Love - UK Radio Edit",
-      "url": "https://open.spotify.com/track/6TyXieyAu2z51H6VMPKRI4"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
         "name": "Jubel - Radio Edit",
         "url": "https://open.spotify.com/album/5FGTcarbUXSplzZDmsAwkQ"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 148352,
       "name": "Jubel - Radio Edit",
       "url": "https://open.spotify.com/track/7715F9Eg9SlfYb1qdMb9en"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "Stereo Love",
+        "url": "https://open.spotify.com/album/1g9MChpxVdgoyA7kMbcnfj"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Vika Jigulina",
+          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+        }
+      ],
+      "duration_ms": 155755,
+      "name": "Stereo Love - UK Radio Edit",
+      "url": "https://open.spotify.com/track/6TyXieyAu2z51H6VMPKRI4"
     },
     {
       "added_at": "2023-02-28 16:56:35",

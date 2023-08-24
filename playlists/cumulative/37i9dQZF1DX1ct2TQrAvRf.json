@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "CROWN",
+        "url": "https://open.spotify.com/album/5bPuDMi9I7tyKlUceNEQgr"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "CROWN",
+      "url": "https://open.spotify.com/track/313cWKPX3VujfQcxj7Se6x"
+    },
+    {
+      "album": {
         "name": "Daku",
         "url": "https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR"
       },
@@ -1693,7 +1715,7 @@
         },
         {
           "name": "Harjas Harjaayi",
-          "url": "https://open.spotify.com/artist/19Ttezcs1d4HqzP5etqyaI"
+          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
         }
       ],
       "date_added": "2023-06-23",

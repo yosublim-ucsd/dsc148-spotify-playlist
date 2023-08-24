@@ -4,7 +4,7 @@
 
 > Brand new music from Giggs \(pictured\), Hozier, Addison Rae and more!
 
-5,453 songs - 12 day 6 hr 12 min
+5,454 songs - 12 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,7 @@
 | [Boy from Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 | 2023-06-29 | 2023-07-07 |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2022-12-02 | 2022-12-09 |
 | [boyfriend](https://open.spotify.com/track/7I5Nx5XlEAolrnQEnDcblx) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [boyfriend](https://open.spotify.com/album/32IYSWV4RkXN5bqWPS486t) | 2:48 | 2023-04-13 | 2023-04-21 |
-| [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 | 2023-08-17 |  |
+| [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 | 2023-08-17 |  |
 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-24 | 2023-03-31 |
 | [Boys Cry.](https://open.spotify.com/track/3yMsO3LotFxtnihSEEF8XV) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Boys Cry\. // i don't know.](https://open.spotify.com/album/5DZxZf107PoX6pN0TUJUx4) | 3:13 | 2023-02-17 | 2023-02-24 |
 | [Boys Don't Cry](https://open.spotify.com/track/140Ldf8BYMkNMc8FgPSDCZ) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Boys Don't Cry](https://open.spotify.com/album/1O1YesG4HmoRjRMvP8HK30) | 2:25 | 2023-03-24 | 2023-03-31 |
@@ -4687,7 +4687,8 @@
 | [The Lie](https://open.spotify.com/track/5YPLqI2Rt70N6gpv41UWtH) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [The Lie](https://open.spotify.com/album/6w2cljHv3TuDYTW0ghPPIC) | 3:13 | 2023-06-08 | 2023-06-16 |
 | [The Light](https://open.spotify.com/track/0YpwLE5KpqPpqwtCzh8sLW) | [Ekko & Sidetrack](https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [The Light](https://open.spotify.com/album/5BZjjFCTt0ySsdHv0C9qQE) | 3:19 | 2023-02-17 | 2023-02-24 |
 | [The Light](https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Light](https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa) | 2:52 | 2023-03-24 | 2023-03-31 |
-| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/4SecYNmUfTlg29S48YfIyr) | 5:40 | 2023-08-17 |  |
+| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 | 2023-08-17 |  |
+| [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/4SecYNmUfTlg29S48YfIyr) | 5:40 | 2023-08-17 | 2023-08-24 |
 | [The Likes Of Us](https://open.spotify.com/track/214S0jyOHYqeykI5VfFxDX) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [The Likes Of Us](https://open.spotify.com/album/4bW1xAnroNCjA9M9SdkDDA) | 4:30 | 2023-03-03 | 2023-03-10 |
 | [The Long Way](https://open.spotify.com/track/3nM8FrfQwX4kMUNygWZicg) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [The Long Way](https://open.spotify.com/album/0ohQJ1H0tN3bMfccSNpk9M) | 3:14 | 2023-05-18 | 2023-05-26 |
 | [The Loop](https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK) | [The Loop](https://open.spotify.com/album/4yn1R7xr2O30X7H3kgto2h) | 3:01 | 2023-07-13 | 2023-07-21 |

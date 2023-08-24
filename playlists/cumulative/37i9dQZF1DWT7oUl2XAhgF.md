@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-335 songs - 20 hr 27 min
+336 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,8 @@
 | [Workin' Man Blues](https://open.spotify.com/track/54SPmx0U4wg5P4I9rO9kdC) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Workin' Man Blues](https://open.spotify.com/album/2gjhCcAyZe5Zb1kyUbNNPK) | 3:37 | 2022-05-06 | 2023-04-30 |
 | [X Boyfriends](https://open.spotify.com/track/3DYVCuzV31DJAgBbEo0Ae3) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [Til It’s Gone](https://open.spotify.com/album/6S8mlOlfA5EM5liaSdKruf) | 2:53 | 2022-09-02 |  |
 | [X Boyfriends](https://open.spotify.com/track/6OLgvpOn1WTeyrS5UpWpAI) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [X Boyfriends](https://open.spotify.com/album/0ZEQ4W92SuEoXauwadG1UW) | 2:53 | 2022-08-26 | 2023-04-30 |
-| [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 | 2023-08-04 |  |
+| [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 | 2023-08-04 | 2023-08-24 |
+| [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 | 2023-08-04 |  |
 | [You Are Everything](https://open.spotify.com/track/1HL9e5uqnQg1qxJH2BisfJ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Stan Taylor](https://open.spotify.com/artist/0FLx5Ts7ydf1NuSsy334eU) | [You Are Everything](https://open.spotify.com/album/6LMTOf2XuRWmkm9O8Bvch8) | 2:59 | 2022-10-21 | 2022-11-12 |
 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 | 2023-06-02 |  |
 | [You Know What It Do](https://open.spotify.com/track/1YPsvTzKTMsQjrdC88CRcT) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 3:07 | 2021-07-09 | 2022-06-11 |

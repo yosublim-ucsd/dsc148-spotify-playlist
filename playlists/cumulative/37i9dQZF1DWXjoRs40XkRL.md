@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-181 songs - 16 hr 35 min
+182 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Ooch Apaar](https://open.spotify.com/track/14jmLovqc2rOc2KDqwd8Yw) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/10QCudlJoZPHcoPBDTc1mA) | 7:00 | 2022-07-12 | 2023-05-24 |
 | [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 | 2022-07-12 | 2022-08-23 |
 | [Ooch Apaar](https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/3pWzIncx5VZObkjD96UhMH) | 7:00 | 2022-05-17 | 2022-07-29 |
+| [Palkan](https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Palkan](https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd) | 6:01 | 2023-08-23 |  |
 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 | 2023-06-21 |  |
 | [Piya Sawre](https://open.spotify.com/track/6NDzy3yUSghgEPm2fbPbkY) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Shilpa Aggarwal](https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9) | [Piya Sawre](https://open.spotify.com/album/1ZinsKlEsh9tvXfYm5Gqpz) | 5:03 | 2023-07-20 |  |
 | [Piya: Basant Mukhari](https://open.spotify.com/track/32w1dhGQnuAoH4QiqtIWkH) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Junaid Bashir](https://open.spotify.com/artist/5LjIrV2myp40iKTOYOBcVa) | [Piya: Basant Mukhari](https://open.spotify.com/album/2u75yNIlGpJhdJ5zQfAxOl) | 5:41 | 2022-05-17 | 2023-07-06 |
@@ -157,7 +158,7 @@
 | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/track/3JMz4MfpBq6OOv5kfltzgL) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/album/5rrQPgEyjaB3CN527qAs9r) | 4:28 | 2022-05-17 |  |
 | [Saiyyan](https://open.spotify.com/track/4GSvSi4BA4Pddnjmmqmw49) | [Lagori](https://open.spotify.com/artist/1qnNpqNICqHeFjbBLD58M6) | [Lagori](https://open.spotify.com/album/0haROYCw0OBoA5wXki40tY) | 4:35 | 2022-05-17 | 2022-09-24 |
 | [Sakhi](https://open.spotify.com/track/1wnP0kMnl9NJC7Ek2rrHkB) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Is That So?](https://open.spotify.com/album/3ylCRdrUcCGJo47CkPtCDm) | 8:26 | 2022-05-17 | 2023-05-24 |
-| [Sakhi Re](https://open.spotify.com/track/5DymMqQjmD7KUtaLj6TyqN) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Sakhi Re](https://open.spotify.com/album/2fD4GmvzLRgwM2hiVsNtz3) | 2:37 | 2023-05-15 |  |
+| [Sakhi Re](https://open.spotify.com/track/5DymMqQjmD7KUtaLj6TyqN) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Sakhi Re](https://open.spotify.com/album/2fD4GmvzLRgwM2hiVsNtz3) | 2:37 | 2023-05-15 | 2023-08-24 |
 | [Sakhi Vasant Aaya](https://open.spotify.com/track/4DSORlBFO3jKHgrDB2esk0) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Sakhi Vasant Aaya](https://open.spotify.com/album/40a6zO11blPvhA4CnqCtw6) | 4:18 | 2022-05-17 | 2022-07-29 |
 | [Sakhi Vasant Aaya](https://open.spotify.com/track/4KMsPlI229IQ4z3dqcCbIV) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Sakhi Vasant Aaya \- Single](https://open.spotify.com/album/0mdDqBvNFnVhNLbWFtDFB1) | 4:18 | 2022-07-12 | 2023-05-24 |
 | [Samjha Toh Kar](https://open.spotify.com/track/6iaaxYDkrIT1wmNkCkiue8) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Samjha Toh Kar](https://open.spotify.com/album/0JcvVumxHj4S3QPuK9mAIg) | 4:02 | 2023-03-20 |  |

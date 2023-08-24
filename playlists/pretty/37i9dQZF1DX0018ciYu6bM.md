@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: KISS OF LIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,975 likes - 92 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,596 likes - 92 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 91 | [Karma](https://open.spotify.com/track/0AZ5C3305mRKWX1x0hDF39) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [That Karma](https://open.spotify.com/album/6svUGnoz4ra10k5993SGvc) | 3:15 |
 | 92 | [WICKED LOVE](https://open.spotify.com/track/7JduLib0OD7LheLRseXQWE) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 2:46 |
 
-Snapshot ID: `MCwzOWY3ZThkNDlhNmZkMmY5YzlkMWFkOTk3YmVlYjE3NjZjZDU4NGY1`
+Snapshot ID: `MCwwYmI1NjZjOGVlODRhYjcxZjI2YTlhNDJkOWZlM2M1ZWI5ODFlZGM2`

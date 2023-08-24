@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,212 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,234 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 54 | [Shiny](https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Shiny](https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi) | 2:09 |
 | 55 | [Buena Onda](https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M) | [Stereo Fear](https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM) | [Buena Onda](https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT) | 2:20 |
 | 56 | [Call me](https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC) | [Muerto A Puntapiés](https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV) | [Call me](https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI) | 1:58 |
-| 57 | [Sayulita Vibes](https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Sayulita Vibes](https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz) | 1:58 |
-| 58 | [alone alone](https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO) | [Thragg](https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H) | [alone alone](https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO) | 1:30 |
+| 57 | [alone alone](https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO) | [Thragg](https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H) | [alone alone](https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO) | 1:30 |
+| 58 | [Sayulita Vibes](https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Sayulita Vibes](https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz) | 1:58 |
 | 59 | [Lluvia de Oro](https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Yunani HU](https://open.spotify.com/artist/7GPDzYt6bNbg4b0X6YsgsB) | [Lluvia de Oro](https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg) | 2:20 |
 | 60 | [iced coffee](https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7) | [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [iced coffee](https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T) | 1:56 |
 | 61 | [Habits](https://open.spotify.com/track/4OVsPzhFDQExjFCc0UneHt) | [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ) | [To My Past Self](https://open.spotify.com/album/79uB85KjOZFusOJhjHRvb8) | 1:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 99 | [cerezo](https://open.spotify.com/track/0JWjPJHAIuVomnV1FMy2NN) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Shetafacker](https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:57 |
 | 100 | [Llamar La Atención](https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Llamar La Atención](https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg) | 2:21 |
 
-Snapshot ID: `MCxhMzgwYzQ0ZDQxYzc4OWJjOTQxMjZmZTI4OWQzZjBjM2M5MzRhNjhj`
+Snapshot ID: `MCw0MWUyNDJiZjJjMmQxNDFhNzQxZTgwNzM0N2RkZDEzYjE4ZjliNDJk`

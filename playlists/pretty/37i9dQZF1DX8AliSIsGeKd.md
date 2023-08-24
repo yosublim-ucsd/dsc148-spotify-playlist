@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Teenage Mutants
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,252 likes - 90 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,420 likes - 90 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 28 | [Don't Care Anymore](https://open.spotify.com/track/1Rpo5GI7BxWj2hXLaK39fq) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Don't Care Anymore](https://open.spotify.com/album/0mTspKDmWINKfM2gPqMmF1) | 6:56 |
 | 29 | [Mantra \- Super Flu Remix](https://open.spotify.com/track/3W6ymZgvxufltyxIgt4chk) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Mantra \(Super Flu Remix\)](https://open.spotify.com/album/3Hb0H6sa11p8gFqfae81SY) | 3:35 |
 | 30 | [Sun](https://open.spotify.com/track/268xv1lgn4tVaGV0J6tpn7) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Sun](https://open.spotify.com/album/3i6pEXP2CwAnswV6AYHq9h) | 3:40 |
-| 31 | [Fade Away](https://open.spotify.com/track/4BueRz1BQYOjj0g1jDhOIL) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [RBBN](https://open.spotify.com/artist/6MKjyUZqmSpxPLHUVSeoIo) | [Fade Away](https://open.spotify.com/album/1tu6KBlzVeFg9RCN5nKGq8) | 3:37 |
+| 31 | [Fade Away](https://open.spotify.com/track/4BueRz1BQYOjj0g1jDhOIL) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [RBBN](https://open.spotify.com/artist/6MKjyUZqmSpxPLHUVSeoIo), [Slimm](https://open.spotify.com/artist/6mlG47ucLElJgW038Dwnon) | [Fade Away](https://open.spotify.com/album/1tu6KBlzVeFg9RCN5nKGq8) | 3:37 |
 | 32 | [Imagination](https://open.spotify.com/track/120IM0v3CnflrIbUSQYHvQ) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Imagination](https://open.spotify.com/album/1RWjIsK48b5JVLV7Xo1qSo) | 6:16 |
 | 33 | [Café Del Mar \- Cosmic Boys Remix](https://open.spotify.com/track/69RBXp7bvMLTqN3FIcX5Zd) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Café Del Mar \(Cosmic Boys Remix\)](https://open.spotify.com/album/6iZRULp86iUN5DZm1Ts7Zn) | 6:21 |
 | 34 | [Burning](https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Burning](https://open.spotify.com/album/67AKOKUGQbahJAKvId1zlZ) | 3:08 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Everyday \(Far From\)](https://open.spotify.com/track/6EI7rWSTNICgjFB6qxqy4T) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [Guiding Hand](https://open.spotify.com/album/4lsMOOhoxlPuuL7myVFyEy) | 3:21 |
 | 90 | [Romancer & Dancer](https://open.spotify.com/track/0ulTXzGFN6QP87TMwA14aa) | [Sven Tasnadi](https://open.spotify.com/artist/5s05VygMShUXGXitSYkeyo) | [Romancer & Dancer](https://open.spotify.com/album/0Yj0F9DIZvb6bwEDzjfPsY) | 6:48 |
 
-Snapshot ID: `MCw0NTE5OTA4NTM0ZjNiOGFmNmMzZWRhMmM5ZWIyZTk4NTNjZTQzMmNm`
+Snapshot ID: `MCw4YWU1ZTFkNWFmZDc4YWU0YjJjMTE1YzQ4ZTI1Nzg0YmE5OTczOGFj`

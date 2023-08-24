@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 戴愛玲 \(Princess Ai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,490 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,495 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 32 | [無歡](https://open.spotify.com/track/73p05XarRTMLRzjRKSHPq9) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [無歡](https://open.spotify.com/album/70wJ16N6RCQUKu1K698cjM) | 3:08 |
 | 33 | [愛你](https://open.spotify.com/track/6T7oK4eP3Tezw4Ogy7q6KO) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [愛你](https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu) | 3:39 |
 | 34 | [寂寞寂寞就好](https://open.spotify.com/track/4LhAUjPqfLpBVNYEdPd5Go) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [To Hebe](https://open.spotify.com/album/3LS8Yu3yTT5CnUvkTcISyC) | 4:35 |
-| 35 | [踮起腳尖愛](https://open.spotify.com/track/18sAGLtcv4bRvwUfmfM5o9) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [超級偶像 Super! I Do!](https://open.spotify.com/album/1G1wZNcqqUplL1knIC8o8g) | 4:43 |
+| 35 | [踮起腳尖愛](https://open.spotify.com/track/18sAGLtcv4bRvwUfmfM5o9) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [超級偶像　Super! I Do!](https://open.spotify.com/album/1G1wZNcqqUplL1knIC8o8g) | 4:43 |
 | 36 | [一樣的月光](https://open.spotify.com/track/4wRYpv96z3nmsiC9f3BdWh) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO) | 4:00 |
 | 37 | [喜歡](https://open.spotify.com/track/393MehrSEiQgRYARQAixkT) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [親愛的...我還不知道](https://open.spotify.com/album/7igO6sx0vVHEzo0xuDmRZA) | 4:39 |
 | 38 | [靜止](https://open.spotify.com/track/3W8SvbEBjy9HAah2SdmfGw) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [SILENCE](https://open.spotify.com/album/4S9rZEaOzfDlSiwzNRLucy) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首张同名专辑](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 |
 | 50 | [一個人還是想著一個人 \- 《終極一班3》片尾曲](https://open.spotify.com/track/6jStVWa7OfddLSVdAxEyxR) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我是曾沛慈](https://open.spotify.com/album/428cg3yMWFKwXMIg1HGaVd) | 4:52 |
 
-Snapshot ID: `MCxjOTZkNzhkOGYxYjI5Mjg3NjhkYmIzOTcwZmExNDA5ZTNlMDNjNzU3`
+Snapshot ID: `MCwyNzk1MmQwZWNlODU5ZDkxYTU2M2NmMTc0N2UzZThhMDVlMTdkYjJm`

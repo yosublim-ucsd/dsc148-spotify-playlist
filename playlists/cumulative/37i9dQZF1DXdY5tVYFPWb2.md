@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-632 songs - 1 day 17 hr 49 min
+634 songs - 1 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-04-05 |  |
 | [Blue Shadow](https://open.spotify.com/track/4wQ6srvjaUn9GhRQJGnkuw) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [Blue Shadow](https://open.spotify.com/album/33MJxei5qOGB92dk6Y0hsp) | 4:34 | 2022-11-15 | 2022-11-23 |
 | [Bluest](https://open.spotify.com/track/4YVFgdx0WKl5YIm1oWmjs5) | [BESPER](https://open.spotify.com/artist/5789BJLcwL0l01iK4OPlyX) | [Bluest](https://open.spotify.com/album/18XTIRYjKlp6c1MS8poBlu) | 5:31 | 2022-11-15 | 2022-11-23 |
+| [BOOGIE WOOGIE MAINLAND](https://open.spotify.com/track/7rqrslgzRiDYtrDx7em11N) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [BOOGIE WOOGIE MAINLAND](https://open.spotify.com/album/2CVKifr1Zri3kN93o3I4or) | 4:32 | 2023-08-23 |  |
 | [BRAND NEW MEMORY](https://open.spotify.com/track/4GNnCJe90wEbBrGwTAJkhm) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [BRAND NEW MEMORY](https://open.spotify.com/album/6KzMPmEpiXOiTDWrtDencR) | 4:19 | 2023-04-04 | 2023-06-22 |
 | [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 | 2022-09-20 |  |
 | [Call out](https://open.spotify.com/track/3eaoxObc2n7viuxcL6fogs) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Spectre](https://open.spotify.com/album/2JlUMeJnyFR4vBO8wkbV8b) | 4:54 | 2023-05-23 | 2023-06-27 |
@@ -205,7 +206,7 @@
 | [LOVELAND, ISLAND \- Cover](https://open.spotify.com/track/2iHNZ0zOMRpFQJu28NMpNL) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [LOVELAND, ISLAND \(Cover\)](https://open.spotify.com/album/1xc1f57YL7LrGLvEvBcUQj) | 4:45 | 2022-08-16 | 2022-08-31 |
 | [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 | 2022-06-07 |  |
 | [MAGIC \(feat\. ohashiTrio\)](https://open.spotify.com/track/3bVfLwfVw92yjywkQ37C3j) | [lily](https://open.spotify.com/artist/74999p5OcCByzjFmi8Eugu), [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [MAGIC \(feat\. ohashiTrio\)](https://open.spotify.com/album/2fd8LBFEm1yJu2T3pTZNkr) | 4:21 | 2023-02-07 | 2023-02-15 |
-| [Magic hour](https://open.spotify.com/track/00431JgUFuCZGE9Ucjh4t5) | [miida and The Department](https://open.spotify.com/artist/6KueHYid6VoKcksdcIKqew), [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [Magic hour](https://open.spotify.com/album/5R0VUhPdk9DJkIZgVezqyn) | 4:26 | 2023-07-25 |  |
+| [Magic hour](https://open.spotify.com/track/00431JgUFuCZGE9Ucjh4t5) | [miida and The Department](https://open.spotify.com/artist/6KueHYid6VoKcksdcIKqew), [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [Magic hour](https://open.spotify.com/album/5R0VUhPdk9DJkIZgVezqyn) | 4:26 | 2023-07-25 | 2023-08-24 |
 | [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 | 2022-08-16 |  |
 | [Make You, Make Me](https://open.spotify.com/track/0griATJYc9f9hCmHbuwBV1) | [CHiLi GiRL](https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95) | [Make You, Make Me](https://open.spotify.com/album/3F8o6IneNTKnXPCCTPnbBz) | 3:23 | 2022-12-06 | 2022-12-14 |
 | [Make\-up Shadow \(feat\. ひかり\)](https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Make\-up Shadow \(feat\. ひかり\)](https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ) | 4:15 | 2023-07-04 |  |
@@ -350,7 +351,8 @@
 | [STARLIGHT](https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd) | 3:07 | 2022-06-28 | 2022-07-29 |
 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 | 2022-07-27 | 2023-05-13 |
 | [STARLIGHT](https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:08 | 2023-05-16 |  |
-| [Stay Here](https://open.spotify.com/track/08vLS0rSzEDZvnIb24PTzj) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Stay Here](https://open.spotify.com/album/7a8HyqmcdL2LuScqOxGu45) | 3:33 | 2023-08-22 |  |
+| [Stay Here](https://open.spotify.com/track/08vLS0rSzEDZvnIb24PTzj) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Stay Here](https://open.spotify.com/album/7a8HyqmcdL2LuScqOxGu45) | 3:33 | 2023-08-22 | 2023-08-24 |
+| [Stay Here](https://open.spotify.com/track/20jvmCAKAFKay1QLulG4hJ) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Stay Here](https://open.spotify.com/album/7846DZBi9nQC5yjpo1yh7Y) | 3:33 | 2023-08-23 |  |
 | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ) | 3:46 | 2022-05-24 | 2023-08-16 |
 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 | 2022-06-07 | 2022-11-13 |
 | [STEP IT](https://open.spotify.com/track/1orgfiHTB2opQkbwf9Gpnl) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/50zbhHNA9zNyC0zVcVUPzx) | 3:40 | 2022-07-27 | 2023-05-17 |

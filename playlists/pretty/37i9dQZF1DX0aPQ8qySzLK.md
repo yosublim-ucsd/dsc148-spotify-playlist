@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 64 | [I Need Some Air](https://open.spotify.com/track/6JQIc5mZTWDnmOkuIC51QZ) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [I Need Some Air](https://open.spotify.com/album/0V6Iv7TMSMhkiy4hCAp1nB) | 4:11 |
 | 65 | [Bridges](https://open.spotify.com/track/69U6phr8zMQeDOUscOnKPM) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Bridges](https://open.spotify.com/album/7y0YxerpfxZI7MrclmgRCI) | 4:11 |
 | 66 | [Ready for It All](https://open.spotify.com/track/4WgImOn4TaZJyD9Mbes0oM) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [Ready for It All](https://open.spotify.com/album/61n6040QOrnXfpH8WLsbUL) | 2:51 |
-| 67 | [Special Place In Hell](https://open.spotify.com/track/3iCF7e9cDzX4IkrrRPZtoZ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Summer B Sides](https://open.spotify.com/album/7eKRJ0btdxbAPXUe4qPxKt) | 2:19 |
+| 67 | [Special Place In Hell](https://open.spotify.com/track/1S6QUF7hYQ36XQxrjSpuoA) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Summer B\-Sides](https://open.spotify.com/album/38DQhpzEdGsLrQZacEqA4I) | 2:19 |
 | 68 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
 | 69 | [Run](https://open.spotify.com/track/7cp7nfPcnL9fGwGddnt7bi) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Run](https://open.spotify.com/album/3X55MRUS1FuW7V10X9hDms) | 3:22 |
 | 70 | [Long Way Down](https://open.spotify.com/track/014p05lZqNN7te7TO2xepE) | [Steve Marriner](https://open.spotify.com/artist/3gGtZLqY9EV0wTN8TjygoT) | [Hope Dies Last](https://open.spotify.com/album/7nwgP9aEYcAKWz3NqDz9DH) | 6:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 99 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
 | 100 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 |
 
-Snapshot ID: `MCwzNTEyYmQ1ZTVjNTU1NTk2YTU0NWIxOTk5ZDg1ZWYwZTU4YjAxNmM4`
+Snapshot ID: `MCw0MWU4ZDcxYTAzODkzZmI2MWQ3YjkxMjA5OGI3YWY4NzU0MjViZTJi`

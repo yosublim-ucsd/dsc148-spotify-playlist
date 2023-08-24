@@ -817,6 +817,28 @@
     },
     {
       "album": {
+        "name": "King of Kotha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44fj4q4kFinawqSkHAebkZ"
+      },
+      "artists": [
+        {
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+        },
+        {
+          "name": "Nithya Mammen",
+          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "King of Kotha - Title Track",
+      "url": "https://open.spotify.com/track/1eDHz1S9HJYfBbI2UW7yvU"
+    },
+    {
+      "album": {
         "name": "IRUTHALA PAKSHI",
         "url": "https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z"
       },

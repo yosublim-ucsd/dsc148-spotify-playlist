@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Andruss
 
-1,234 songs - 2 day 23 hr 13 min
+1,235 songs - 2 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Bring A Friend](https://open.spotify.com/track/5qvE6RC6vV9Y3bmVL535v6) | [Hood Rich](https://open.spotify.com/artist/6VsCebtxRP7GhBxmOnb2oA) | [Bring A Friend](https://open.spotify.com/album/1ftcMSE9C1ce2wH1O0AUFV) | 3:13 | 2021-11-26 | 2022-01-06 |
 | [Bring It](https://open.spotify.com/track/6seHytVZJPtJyH5X6QUKqJ) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Bring It](https://open.spotify.com/album/06ylSMA5HfHGtXAkGrC1Hf) | 2:20 | 2023-07-14 |  |
 | [Bring It Back](https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Bring It Back](https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb) | 2:58 | 2023-08-11 |  |
-| [Brisa](https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY) | 2:45 | 2023-06-16 |  |
+| [Brisa](https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY) | 2:45 | 2023-06-16 | 2023-08-24 |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-03 | 2022-08-06 |
 | [Bubblin](https://open.spotify.com/track/4zB2zfoyaKdZl0v9IfHUKL) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Bubblin](https://open.spotify.com/album/4rXzTuShibQto3yWnBrApV) | 3:29 | 2022-02-25 | 2022-06-11 |
 | [Buck](https://open.spotify.com/track/7jIgr15l4MF8wm9m3r2tPr) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [Buck](https://open.spotify.com/album/0eyiDFC2XrUgmVrrN9v7kx) | 3:29 | 2023-06-30 | 2023-08-18 |
@@ -260,6 +260,7 @@
 | [DJ](https://open.spotify.com/track/5nsXooXaMxTvppbjPjEl0m) | [Le Cheval](https://open.spotify.com/artist/4cndYndJR1qRXVp3zHcVzR) | [DJ](https://open.spotify.com/album/6vxK4qvcZuH3HT1FGC1CSZ) | 1:50 | 2022-09-09 | 2022-09-24 |
 | [DM ME](https://open.spotify.com/track/7dSHCIUMxruReVkPneapxP) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [DM ME](https://open.spotify.com/album/3t0XeuHfiDfeRJD0enq96J) | 3:03 | 2022-12-02 | 2023-01-21 |
 | [Do It All Night](https://open.spotify.com/track/3orvoGKOfx3H2WB0qYbHs7) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Do It All Night](https://open.spotify.com/album/49lw5mtUNmodv1q9r8B9sC) | 7:46 | 2022-12-28 | 2023-01-06 |
+| [Do It Like Dat \(feat\. Faustix\)](https://open.spotify.com/track/4AwPIuooqkBjX6utG5SkDe) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Do It Like Dat \(feat\. Faustix\)](https://open.spotify.com/album/6ekGtYJ3MoJKfQpgNSA4iz) | 2:19 | 2023-08-18 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-11-26 | 2022-03-12 |
 | [Do It Your Way \- Original Mix](https://open.spotify.com/track/6bxeekI9n4mFVw4GoeQZMa) | [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av), [John Ciafone](https://open.spotify.com/artist/3vESvN8vGnaIif4ZDOcxVC) | [Do It Your Way](https://open.spotify.com/album/2GeAr9D1kztZrxjuLfyYKv) | 9:32 | 2022-12-28 | 2023-01-06 |
 | [Do My Thing](https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Do My Thing](https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu) | 3:02 | 2023-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,941 likes - 98 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,967 likes - 98 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 26 | [Good Time](https://open.spotify.com/track/4Tbv2Z7SJFF2F3sUck3GHr) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Swankout](https://open.spotify.com/artist/0qg68x4aTedAe1CN5rkfXT) | [Good Time](https://open.spotify.com/album/0LiyDeXIrk4HuEtlEJ6GeC) | 5:04 |
 | 27 | [Flue](https://open.spotify.com/track/2wcPlaxZwKlRotEisXw6CT) | [We Rob Rave](https://open.spotify.com/artist/07T2LN73w52V8GBfEEcWKL) | [Helen Is Dead](https://open.spotify.com/album/3sM1uBGCHlTozPatZRHBda) | 4:48 |
 | 28 | [Concrete Jungle](https://open.spotify.com/track/2DPJUQou3aBzB4PEGn8Kmp) | [MRTN.](https://open.spotify.com/artist/6NRqAuPP6Nd1Y6qrEN5jZI) | [FREERIDE](https://open.spotify.com/album/4kTpQyrmA98dlexWsBcDfO) | 7:23 |
-| 29 | [Wetweird](https://open.spotify.com/track/2YZhiTfuMRB7b2bbi6Oeru) | [Private Press](https://open.spotify.com/artist/6P7gZ6hLuBrxelDuq28bR8) | [Young At Heart](https://open.spotify.com/album/3PX5rQj9XC794L4ZDqikxD) | 7:07 |
+| 29 | [Wetweird](https://open.spotify.com/track/25XN8K7hUyQhzhZ1AAkg9m) | [Private Press](https://open.spotify.com/artist/6P7gZ6hLuBrxelDuq28bR8) | [Wetweird](https://open.spotify.com/album/66V3XaMlVY3RsT6Ce2Ga0e) | 7:07 |
 | 30 | [Dawaj](https://open.spotify.com/track/0r83srct1rU0CwUVBbHljI) | [Mala Herba](https://open.spotify.com/artist/50gbIhjiUhry5kutiDjKNq) | [Demonologia](https://open.spotify.com/album/0Vf7fg61hX3bKjVASprxQa) | 4:10 |
 | 31 | [Uncle John From Jamaica \- M.I.K.E RMX](https://open.spotify.com/track/647KUXj2VDUrJMSgwH7FEd) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj), [M.I.K.E.](https://open.spotify.com/artist/2FClSTHSkbKYByTy7dnBQq) | [Uncle John From Jamaica](https://open.spotify.com/album/1KpQYeV8Zz5ZRN6ngHMyxv) | 7:21 |
 | 32 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 97 | [London Acid City \- Jon The Dentist Remix](https://open.spotify.com/track/1zmL3Dvul0H0oWpGqAsjhu) | [Lochi](https://open.spotify.com/artist/1qQpYZpMvEWgEE1p79uSPY), [Jon the Dentist](https://open.spotify.com/artist/1ZeqWDCum0uyQ80gnmtKBY) | [London Acid City](https://open.spotify.com/album/4QvrkXdSyR0j3FcgkkuTls) | 7:34 |
 | 98 | [Yes \- Remastered](https://open.spotify.com/track/5zhFBeXP6RjaqF8t5nWJPz) | [Mario De Bellis](https://open.spotify.com/artist/3nXiQWYpv6vWZERJbvYEg4) | [Yes](https://open.spotify.com/album/3JiFYykOsAqWy0UfLasmEg) | 8:25 |
 
-Snapshot ID: `MCwwMGU3NWI3MzlkMGJkNzU1OTYxNDRhYzY2ZGQ0NDg3YTc2YTI4ZDdk`
+Snapshot ID: `MCw0MTAwODgzMTRlNGZmNGUyOGY4ODdhZWI2ZTAzZjQzMGM0MGQ1Mjdm`

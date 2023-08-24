@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,089 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,575 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 |
 | 50 | [Sortez les mapessa](https://open.spotify.com/track/4Fi2x6A5gFjKOxVWINY5f8) | [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ), [smy](https://open.spotify.com/artist/0pqQHE8S2ZiLknH7zjJcJ7), [Zaza](https://open.spotify.com/artist/3KywjJVE3nbXb3wIWVT0Y7), [Moris Beat](https://open.spotify.com/artist/6dkNQYPE7rqk57DfAfZdQU), [Ady Junior](https://open.spotify.com/artist/7BvNM0DOw6Y4aCG5CwRpQR) | [Sortez les mapessa](https://open.spotify.com/album/0JFwx4V0UXNDsCLlCU1KYY) | 2:26 |
 
-Snapshot ID: `MCw4YmRlNTE1NDkwODgyYjMyNWZjYWI2YzlhNGExODdjYmE2ZTJjZWRm`
+Snapshot ID: `MCw4MGUyY2M0MTdlNmNmNDExN2UzN2NkZDgzN2VlMDdmMWYwMGM3NGFm`

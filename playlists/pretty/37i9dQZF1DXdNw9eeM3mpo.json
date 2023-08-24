@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 434451,
+  "num_followers": 434541,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmFmYTExMGE2YzViY2YzM2M0MjM1Yjc0OGI4Y2EyN2UzZjY1ZThh",
+  "snapshot_id": "MCxlZjU2NjAxYWE5ZWNmNWJkZWFjNWM3ZjE1MTI5MWQ5NTMxNTJmODAw",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Lucha Rock",
+        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "La Boni",
         "url": "https://open.spotify.com/album/60i8eJW5Cqf68eRBUg1t5F"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 209311,
       "name": "La Boni",
       "url": "https://open.spotify.com/track/60F2wMMzrcTCFWNIlCXDSZ"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Lucha Rock",
-        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "5 A\u00f1os Con Sabor a 20",
-        "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
-      },
-      "artists": [
-        {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "La Ca\u00edda y la Gloria",
-      "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Nunca Nos Compusimos",
         "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 230573,
       "name": "Envenenen a Mis Labios",
       "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "5 A\u00f1os Con Sabor a 20",
+        "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
+      },
+      "artists": [
+        {
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "La Ca\u00edda y la Gloria",
+      "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Antih\u00e9roes",
-        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
-      },
-      "artists": [
-        {
-          "name": "Los Intocables",
-          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Criminales Sudamericanos",
-      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Mugre",
         "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 222373,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Antih\u00e9roes",
+        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
+      },
+      "artists": [
+        {
+          "name": "Los Intocables",
+          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "Criminales Sudamericanos",
+      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Kasualidad",
-        "url": "https://open.spotify.com/album/0FtTPER1MfrtYM8b94J7tT"
-      },
-      "artists": [
-        {
-          "name": "Ska Prensao",
-          "url": "https://open.spotify.com/artist/0zpJ9TatAuySVMfhTLV8Az"
-        }
-      ],
-      "duration_ms": 303812,
-      "name": "Kasualidad",
-      "url": "https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Este Ritmo",
         "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Kasualidad",
+        "url": "https://open.spotify.com/album/0FtTPER1MfrtYM8b94J7tT"
+      },
+      "artists": [
+        {
+          "name": "Ska Prensao",
+          "url": "https://open.spotify.com/artist/0zpJ9TatAuySVMfhTLV8Az"
+        }
+      ],
+      "duration_ms": 303812,
+      "name": "Kasualidad",
+      "url": "https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Head Over Heels (Esteban Descalzo 70's Remix)",
-        "url": "https://open.spotify.com/album/6XbMLQ1aKFth2jscwLOzky"
+        "name": "El Rey",
+        "url": "https://open.spotify.com/album/1sFqFgN9KWRPsXuc9dl1wL"
       },
       "artists": [
         {
-          "name": "Ska Jazz Messengers",
-          "url": "https://open.spotify.com/artist/3wy5jh3AV798pcbJGDVHkj"
-        },
-        {
-          "name": "Esteban Descalzo",
-          "url": "https://open.spotify.com/artist/5XX1OvMtiKOmPAyj7Amwqx"
+          "name": "Eskina Opuesta",
+          "url": "https://open.spotify.com/artist/5FZeu5LmVgSL4QmxQfnbFq"
         }
       ],
-      "duration_ms": 251157,
-      "name": "Head Over Heels (Esteban Descalzo 70's Remix)",
-      "url": "https://open.spotify.com/track/6bhYKH6vp4IyhiwBywUWng"
+      "duration_ms": 171250,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/7nfZd0tsEkb2xCA3v4VltV"
     }
   ],
   "unique_name": "Ska Latino ",

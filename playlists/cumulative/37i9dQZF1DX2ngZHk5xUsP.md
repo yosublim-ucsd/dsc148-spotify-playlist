@@ -4,10 +4,11 @@
 
 > Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-85 songs - 5 hr 22 min
+86 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Akhirnya](https://open.spotify.com/track/5CuJ5sx1ZuNibvDIhqP3gj) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:56 | 2023-08-23 |  |
 | [All the Time](https://open.spotify.com/track/60zomg1pGnaSrapCzO6aPG) | [The SIGIT](https://open.spotify.com/artist/4RLzLs2SHeyA0nLLlAJBg4) | [Visible Idea of Perfection](https://open.spotify.com/album/3lIr5Sb74IEw4etgpnOluC) | 3:18 | 2023-03-16 |  |
 | [Anggap Mati](https://open.spotify.com/track/1D6BoZAoB37IZE48RAJ4XZ) | [Rocket Rockers](https://open.spotify.com/artist/3k7qB8d47YeYcHlrqaLM4U) | [Anggap Mati](https://open.spotify.com/album/1mtEQWTzo70kld64xuTqYh) | 3:47 | 2023-08-18 |  |
 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 | 2023-07-27 |  |

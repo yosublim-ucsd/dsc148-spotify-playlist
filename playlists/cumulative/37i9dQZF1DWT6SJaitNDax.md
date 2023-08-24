@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: Davido & Latto
 
-385 songs - 20 hr 59 min
+386 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Roadblock](https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Roadblock](https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS) | 3:53 | 2022-05-06 | 2023-07-07 |
 | [Roll It](https://open.spotify.com/track/0L8HgGwvChw7Ftmn9AXhWd) | [Richie Benson](https://open.spotify.com/artist/6WgNboUpl48GJJuQxdUqrM), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Roll It](https://open.spotify.com/album/5jtqQMGNyrbDCcH2HgmpH8) | 3:22 | 2021-09-10 | 2022-06-02 |
 | [Rollin'](https://open.spotify.com/track/6CqXPacVmbCC4JeKBX3Yzb) | [Trifecta](https://open.spotify.com/artist/4eU1y1C4Jxr7eFA56Aivwf), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Rollin'](https://open.spotify.com/album/6Qz5tfMQildFmdwjBT9YEA) | 3:23 | 2022-03-25 | 2022-04-20 |
-| [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 | 2022-03-25 |  |
+| [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 | 2022-03-25 | 2023-08-24 |
 | [Rumour](https://open.spotify.com/track/4TF0cJ1HCQzA8upuEtXsiJ) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Demos For Ransom](https://open.spotify.com/album/1UrDQ6U5nosuGFNilFAksU) | 2:15 | 2021-09-10 | 2022-07-25 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2023-01-26 |  |
 | [Ryde](https://open.spotify.com/track/2uzwY7BBbeU9sGCp8Nhl9i) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [6th Heaven](https://open.spotify.com/album/3x6LyrVuG7DCWHNPab60rm) | 2:17 | 2021-09-10 | 2022-07-29 |
@@ -382,6 +382,7 @@
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \- Edit](https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \[Edit\]](https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg) | 2:49 | 2022-06-17 | 2022-09-13 |
 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/76HTR3j128J2G6ipyh6XAd) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/1HotRLNhfRzXIFmtjGFaUo) | 2:46 | 2023-05-14 | 2023-06-06 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-08-18 |  |
+| [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 | 2023-08-18 |  |
 | [Whine It \(feat\. Sauti Sol\)](https://open.spotify.com/track/5mFGk1g417gDhAvrafXjEK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:37 | 2021-09-10 | 2022-04-15 |
 | [Wicked](https://open.spotify.com/track/5Gf30Ezykm4MhgzvaPL2Ei) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P) | [Wicked](https://open.spotify.com/album/2EXy6Vv8aigcAIt9Tmy04V) | 3:09 | 2021-09-10 | 2022-07-29 |
 | [Wishes](https://open.spotify.com/track/6iRQXwzwaVMB59J7MuFloK) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [Wishes](https://open.spotify.com/album/3WibF7LSkCvoyD1h6sLsc8) | 2:44 | 2021-09-10 | 2022-07-23 |

@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Asmaa lmnawar
 
-531 songs - 1 day 6 hr 53 min
+532 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Circus](https://open.spotify.com/track/185g8LSwyx0rx2efD6riRx) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Issa & Assouad](https://open.spotify.com/artist/5P4gYpIeDqVMdkWnIHScSM) | [Circus](https://open.spotify.com/album/3ry7upEBDarprt1XVXNSf2) | 3:06 | 2021-12-23 | 2022-03-02 |
 | [Come With Me](https://open.spotify.com/track/2vbmlZNT3GNex5DaE1kO0h) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 2:57 | 2021-12-23 | 2022-03-01 |
 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 | 2023-02-21 | 2023-05-13 |
-| [Daloaa](https://open.spotify.com/track/7kDh5pD2V1cnPpNfYGqsd8) | [Natacha](https://open.spotify.com/artist/4Jqy6fyxfKMCJk9FrxNp05) | [Daloaa](https://open.spotify.com/album/244l0BzNjcwWmR8gKLn7ZY) | 2:55 | 2023-08-15 |  |
+| [Daloaa](https://open.spotify.com/track/7kDh5pD2V1cnPpNfYGqsd8) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y) | [Daloaa](https://open.spotify.com/album/244l0BzNjcwWmR8gKLn7ZY) | 2:55 | 2023-08-15 |  |
 | [Dandana](https://open.spotify.com/track/0Jxc621ZPErwELUjuQCrXr) | [Farah Chreim](https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc) | [Dandana](https://open.spotify.com/album/1YClS4T4KtiPRSuErccnLM) | 3:04 | 2023-02-23 | 2023-07-14 |
 | [Dawsha](https://open.spotify.com/track/213le8JlCRs3Zfbqo6WNvz) | [Hana Ghoneim](https://open.spotify.com/artist/6Ob3o641XhD90mvYqSU4Uk), [Mina Samy](https://open.spotify.com/artist/6b2YMk5FFcYt1dVVpjl2oQ) | [Dawsha](https://open.spotify.com/album/17NRtlUkwb1qBzrhU5py2y) | 3:21 | 2023-08-11 |  |
 | [Desert](https://open.spotify.com/track/2wDTjlvBMKgx3rhKZH7270) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Desert](https://open.spotify.com/album/3OdBtnlIzgwXnOHxgOgPOJ) | 5:04 | 2021-12-30 | 2022-02-19 |
@@ -243,6 +243,7 @@
 | [Kolshy Entaha Wrah](https://open.spotify.com/track/1zKPTEkndWQpSBvEC6zb8H) | [Rawaa Albaghdady](https://open.spotify.com/artist/3sWQyrf56xplCbRPXFB1RW) | [Kolshy Entaha Wrah](https://open.spotify.com/album/2ArCZ3BfwSzVyOuuv32J3u) | 4:47 | 2021-12-23 | 2022-03-01 |
 | [Kont Baheb](https://open.spotify.com/track/51PcRYiFdbq6RLE2dg6BRE) | [fayrouz Karawya](https://open.spotify.com/artist/5Td9LvCizoI69AVWIoYd3O), [200 Shams](https://open.spotify.com/artist/4Ak2clxvkKB3yh8tI8FjkM) | [Kont Baheb](https://open.spotify.com/album/5cOme3T6oIrWAdv321mmZr) | 3:28 | 2021-12-23 | 2022-02-26 |
 | [Korbag](https://open.spotify.com/track/0gBY3xJ8eig3YWnbASh5Xy) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Korbag](https://open.spotify.com/album/5bNkoDJ2IKDVJu6sNcgzXt) | 3:18 | 2022-11-15 | 2023-05-13 |
+| [Ktab Maftoh](https://open.spotify.com/track/2HznblRR4j5w8QkSH1e8El) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ktab Maftoh](https://open.spotify.com/album/4Zk52gbAM5A88NjkghWQpR) | 4:30 | 2023-08-23 |  |
 | [La Receta](https://open.spotify.com/track/1RUddjHVzH3yHLRHmlajNG) | [Malika](https://open.spotify.com/artist/61yCfJHSjcVLYCQvobkzO5) | [La Receta](https://open.spotify.com/album/0hA6c1hn8vNRjIA6LskpQK) | 3:57 | 2021-12-23 | 2022-02-26 |
 | [La Teharef](https://open.spotify.com/track/5aBHfsSGRuPxPdu3JPEusq) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [لا تحرف](https://open.spotify.com/album/3GQwWZK3ojppjzPkRGj7x5) | 3:54 | 2022-06-02 | 2023-04-21 |
 | [La7za](https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [La7za](https://open.spotify.com/album/0bTeTZPnvaUfdhAXj8RTyU) | 3:26 | 2022-05-26 | 2023-05-13 |
@@ -387,7 +388,7 @@
 | [Tmlktmoa Aqley + Amazing Grace](https://open.spotify.com/track/0nyKawWsIFDY6W1sRpTJ62) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Tmlktmoa Aqley + Amazing Grace](https://open.spotify.com/album/4yetIQlcwMNoVbzJuRnygx) | 2:32 | 2021-12-23 | 2022-03-02 |
 | [Too Late](https://open.spotify.com/track/0fcmSr3C2yrOXretChhrDi) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP), [Marwan Mardini](https://open.spotify.com/artist/7rsaNrrex1QmrawE7kUfpt) | [Too Late](https://open.spotify.com/album/0hV5hcxpzhKxKkRKO3nXbC) | 3:27 | 2021-12-23 | 2022-02-28 |
 | [Toxic Romance](https://open.spotify.com/track/4gkdmBV68a59NBnLiuPwWV) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Toxic Romance](https://open.spotify.com/album/5iLqP2S6uge7BABvzyaBjV) | 6:55 | 2021-12-30 | 2022-02-10 |
-| [Tushkar](https://open.spotify.com/track/6tUQtTSX7noC1VFOlaYfsl) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Tushkar](https://open.spotify.com/album/2l22vxxvQdUu9VweOyNdA2) | 2:56 | 2023-08-01 |  |
+| [Tushkar](https://open.spotify.com/track/6tUQtTSX7noC1VFOlaYfsl) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Tushkar](https://open.spotify.com/album/2l22vxxvQdUu9VweOyNdA2) | 2:56 | 2023-08-01 | 2023-08-24 |
 | [Unfollow Me Yalla](https://open.spotify.com/track/29Tzkn37Bf5w2yV8kpR3bz) | [Remie Akl](https://open.spotify.com/artist/0yKnrHyeDfAEr5XHuwA9xK) | [Unfollow Me Yalla](https://open.spotify.com/album/7wL1YGOMAxpLrwnlpCYmZA) | 2:39 | 2021-12-23 | 2022-03-02 |
 | [Wa7ed \- واحد](https://open.spotify.com/track/3tHc7PVa0wi1dOpNoiEIgn) | [Karima Gouit](https://open.spotify.com/artist/3MLCyLMIqrwpmZ60O63BS3) | [Wa7ed \(واحد\)](https://open.spotify.com/album/2Au9YjBHjWjYtS9Bnx9M1M) | 2:34 | 2023-05-16 | 2023-05-19 |
 | [Wadaony](https://open.spotify.com/track/2JB69hEsD1T9ETH81LkYOb) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Wadaony](https://open.spotify.com/album/6LcL6dVWSd33614lHCwcQw) | 4:02 | 2021-12-23 | 2022-02-27 |

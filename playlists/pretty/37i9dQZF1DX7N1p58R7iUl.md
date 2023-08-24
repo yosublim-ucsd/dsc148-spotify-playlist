@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,673 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,704 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 9 | [Dope \- Edit](https://open.spotify.com/track/1OPEWAHQaogdd7uNALZ6Su) | [HP Vince](https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW) | [Dope](https://open.spotify.com/album/3STZZzGrH6utEjSXI2q2uZ) | 3:20 |
 | 10 | [Glory \(feat\. Waajeed\) \- Floorplan Remix](https://open.spotify.com/track/0taSrEsqb3QiZPBRtPebFL) | [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B), [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Glory \(feat\. Waajeed\) \[Floorplan Remix\]](https://open.spotify.com/album/70Yl2gVcF5MzehZFKxTKtg) | 3:29 |
 | 11 | [Move With Me \- Todd Terry Remix](https://open.spotify.com/track/1ml3JWTEvWUJNj5tovHz75) | [Mia More](https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Move With Me \(Todd Terry Extended Remix\)](https://open.spotify.com/album/3hpoG2nJnwKPMfPlY207pp) | 3:06 |
-| 12 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:53 |
+| 12 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 |
 | 13 | [BFG](https://open.spotify.com/track/3ojHKbztzc33d6hiEhsDp5) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [BFG](https://open.spotify.com/album/34szLPacWvlfyX8mha2Mg4) | 2:28 |
 | 14 | [The Sound](https://open.spotify.com/track/6Bl0ROqU636RO6UHMU1NVg) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Leia Contois](https://open.spotify.com/artist/40ZOcK6mdly2Ni7ruJUEPP) | [The Sound](https://open.spotify.com/album/28B5eFQYYnRhYpqUkk7145) | 3:07 |
 | 15 | [Salty](https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Salty](https://open.spotify.com/album/7EquGOpg65HBsSzLmPVGWM) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 49 | [Work](https://open.spotify.com/track/2uNvsQrKdB6qcmO9zBMflb) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf), [Pupa Nas T](https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy) | [Work](https://open.spotify.com/album/7lSWiTwdASu9fmdv38vNWu) | 3:37 |
 | 50 | [Fly Like an Eagle](https://open.spotify.com/track/4uXUjefF7VdVfXz44ihvuh) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Fly Like an Eagle](https://open.spotify.com/album/3fxmtAYgHefEmvKLuL6Jft) | 2:36 |
 
-Snapshot ID: `MCxlMGFmNDcwMDJhNmEwZTIzZjNkYzZhNDJlMjNjZGJlNDMwY2Y1ODk1`
+Snapshot ID: `MCxiOTdmNWZlNjc3OWZkMDc0MGM2ODc2YzZmM2RmNmM1YWU3YTg1ZDJi`

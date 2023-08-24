@@ -1,12 +1,12 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78581,
+  "num_followers": 78580,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "Mzc2NyxkMWE0Y2RmYTEzZjEwZDFmZWE5MTY5MmFjYTUyNzA4NWVlZTc5MjJl",
+  "snapshot_id": "Mzc2OSw1YTIwNzBjYjk5ZTU3YmJkOTk0ZTRiOWI0MzEyYjkxMTY2OTY5OTZk",
   "tracks": [
     {
       "added_at": "2023-08-21 07:48:52",
@@ -23,6 +23,54 @@
       "duration_ms": 425363,
       "name": "King of the Slugs",
       "url": "https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs"
+    },
+    {
+      "added_at": "2023-08-23 10:07:54",
+      "album": {
+        "name": "This Woman's Work",
+        "url": "https://open.spotify.com/album/7l0tw2bxowj4gusfOqmzHC"
+      },
+      "artists": [
+        {
+          "name": "Max Tundra",
+          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
+        }
+      ],
+      "duration_ms": 294534,
+      "name": "This Woman's Work",
+      "url": "https://open.spotify.com/track/2fvqwcjPH2HUak5qOpu0Hp"
+    },
+    {
+      "added_at": "2023-08-23 08:55:08",
+      "album": {
+        "name": "Wet Stuff",
+        "url": "https://open.spotify.com/album/5MyRGoCM4u5dynIEtxD8ei"
+      },
+      "artists": [
+        {
+          "name": "Folk Implosion",
+          "url": "https://open.spotify.com/artist/6DM1YETeVIN3ce24DhnMhU"
+        }
+      ],
+      "duration_ms": 237743,
+      "name": "Wet Stuff",
+      "url": "https://open.spotify.com/track/6OeLBR8GvmQQj6HgxZ9si0"
+    },
+    {
+      "added_at": "2023-08-23 08:55:08",
+      "album": {
+        "name": "Wet Stuff",
+        "url": "https://open.spotify.com/album/5MyRGoCM4u5dynIEtxD8ei"
+      },
+      "artists": [
+        {
+          "name": "Folk Implosion",
+          "url": "https://open.spotify.com/artist/6DM1YETeVIN3ce24DhnMhU"
+        }
+      ],
+      "duration_ms": 234750,
+      "name": "Wet Stuff - 2023 Live Session",
+      "url": "https://open.spotify.com/track/158utttpCrbXbIqyLV0ny6"
     },
     {
       "added_at": "2023-08-18 13:05:42",

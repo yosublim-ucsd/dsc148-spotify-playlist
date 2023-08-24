@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThHdjM0lPOq.md) - [plain]
 
 > Relaxing instrumental piano covers from your favourite movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,198 likes - 78 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,320 likes - 78 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThHdjM0lPOq.md) - [plain]
 | 53 | [In The Air Tonight](https://open.spotify.com/track/6NTdYJI8jF1fsIg9VBz15H) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [In The Air Tonight](https://open.spotify.com/album/21IBJizjTDWLzK0NDf8J6w) | 3:51 |
 | 54 | [Every Breath You Take](https://open.spotify.com/track/3qLlQ4RLl3B8PaEdIG6H0d) | [Tomas Lee](https://open.spotify.com/artist/4gAbYtySCDOGOXHEUjrQVe) | [Every Breath You Take](https://open.spotify.com/album/2OhAmXifsCYytlfNT5hRKB) | 3:47 |
 | 55 | [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 |
-| 56 | [Dancing queen](https://open.spotify.com/track/2Ms4SBm3AnznOBX0n4Wrr8) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 4:10 |
-| 57 | [The Rose](https://open.spotify.com/track/5qSl1ycvNC62IAa9CXWcKC) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [The Rose](https://open.spotify.com/album/1Z8aje0QPSztIonhoIhPeN) | 2:53 |
-| 58 | [I Will Always Love You \(arr\. piano\)](https://open.spotify.com/track/116oIm7XXTtvasw2gvUMI9) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [I Will Always Love You \(arr\. Piano\)](https://open.spotify.com/album/4znnk5Ijuku995K23hMk4I) | 2:52 |
-| 59 | [I See the Light](https://open.spotify.com/track/1vPfsrueMdGzm6lBWXLHic) | [Emma Wiederstahl](https://open.spotify.com/artist/2ZhXKvIvkaa8AF2TQyXiS3) | [I See the Light](https://open.spotify.com/album/3DXzWmsfCKbS4gDNMwNUZh) | 3:52 |
-| 60 | [Go the Distance](https://open.spotify.com/track/3PR9kbQzYhpHHAgI2Vyagq) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Go the Distance](https://open.spotify.com/album/1KzRpKdsaC8jizQS3XvgjA) | 3:33 |
-| 61 | [The Eternal Vow \(From "Crouching Tiger, Hidden Dragon"\)](https://open.spotify.com/track/3CUYoHmbTmKqxLJxpOkzCY) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Jane Chee](https://open.spotify.com/artist/1mdvd9RX7YfxXYanzzesjk) | [Come Back to Me: Piano Arrangements of Great Film Music](https://open.spotify.com/album/1tLu5JUpXeQGqq2yq1POOE) | 2:16 |
-| 62 | [Kiss Me \(Piano Version\)](https://open.spotify.com/track/1YPwS7Req2TU4wkBw88S6y) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [The Chillest 90s](https://open.spotify.com/album/2jjBXXPgwQ1n4VXrBnL2g3) | 3:42 |
+| 56 | [The Rose](https://open.spotify.com/track/5qSl1ycvNC62IAa9CXWcKC) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [The Rose](https://open.spotify.com/album/1Z8aje0QPSztIonhoIhPeN) | 2:53 |
+| 57 | [I Will Always Love You \(arr\. piano\)](https://open.spotify.com/track/116oIm7XXTtvasw2gvUMI9) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [I Will Always Love You \(arr\. Piano\)](https://open.spotify.com/album/4znnk5Ijuku995K23hMk4I) | 2:52 |
+| 58 | [I See the Light](https://open.spotify.com/track/1vPfsrueMdGzm6lBWXLHic) | [Emma Wiederstahl](https://open.spotify.com/artist/2ZhXKvIvkaa8AF2TQyXiS3) | [I See the Light](https://open.spotify.com/album/3DXzWmsfCKbS4gDNMwNUZh) | 3:52 |
+| 59 | [Go the Distance](https://open.spotify.com/track/3PR9kbQzYhpHHAgI2Vyagq) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Go the Distance](https://open.spotify.com/album/1KzRpKdsaC8jizQS3XvgjA) | 3:33 |
+| 60 | [The Eternal Vow \(From "Crouching Tiger, Hidden Dragon"\)](https://open.spotify.com/track/3CUYoHmbTmKqxLJxpOkzCY) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Jane Chee](https://open.spotify.com/artist/1mdvd9RX7YfxXYanzzesjk) | [Come Back to Me: Piano Arrangements of Great Film Music](https://open.spotify.com/album/1tLu5JUpXeQGqq2yq1POOE) | 2:16 |
+| 61 | [Kiss Me \(Piano Version\)](https://open.spotify.com/track/1YPwS7Req2TU4wkBw88S6y) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [The Chillest 90s](https://open.spotify.com/album/2jjBXXPgwQ1n4VXrBnL2g3) | 3:42 |
+| 62 | [Dancing queen](https://open.spotify.com/track/2Ms4SBm3AnznOBX0n4Wrr8) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 4:10 |
 | 63 | [Love theme from The Godfather](https://open.spotify.com/track/2KC8Z17ndhFsKNxK0J3qZA) | [Nova Natale](https://open.spotify.com/artist/5jEQHHhbzEhqLEXOINws1f) | [Love theme from The Godfather](https://open.spotify.com/album/1v9W79VRpBsBrSR2JGZWYo) | 2:41 |
 | 64 | [Part of Your World](https://open.spotify.com/track/10P1THgSCHhNJHHIyuX4qa) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Part of Your World](https://open.spotify.com/album/6gFqEPL97JNYCdMXlcOfKz) | 3:58 |
 | 65 | [Can You Feel The Love Tonight](https://open.spotify.com/track/1Sr4E3AeJO6yhJWpRXL32i) | [George Jacomel](https://open.spotify.com/artist/44bWSBuHUEo6M84U8E0i6q) | [Can You Feel The Love Tonight](https://open.spotify.com/album/2JnJD3SDj23IVDJk9bER9f) | 3:03 |
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThHdjM0lPOq.md) - [plain]
 | 71 | [Someday \(From the Hunchback of Notre Dame\)](https://open.spotify.com/track/5BngMRDnKhGlSPuBKVKBje) | [Vera Oppenheim](https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT) | [Someday \(From the Hunchback of Notre Dame\)](https://open.spotify.com/album/0KXOupWVP6ad0zSNt4BOJF) | 2:14 |
 | 72 | [No Time to Die \(James Bond Theme\) \- Piano Version](https://open.spotify.com/track/4BEgCQdTR2NOuXMeM2HhKv) | [Sarah Coponat](https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U) | [No Time to Die \(James Bond Theme\) \[Piano Version\]](https://open.spotify.com/album/4VTQ29qlhbZYF5h488ateu) | 4:13 |
 | 73 | [Bella Notte](https://open.spotify.com/track/42paNhAcBQ5RSabNzOYSUX) | [Davide Ambrosia](https://open.spotify.com/artist/7Jd8IfE12z0jbepgMaVpXl) | [Bella Notte](https://open.spotify.com/album/2GdSaqqR52eOPlgO6WSumV) | 3:22 |
-| 74 | [Colors of the Wind](https://open.spotify.com/track/4EcOCD3uek9lYY87NmqFOZ) | [Ludovico Sagese](https://open.spotify.com/artist/1dygDSkQGQOfq1ZdChpOCs) | [Colors of the Wind](https://open.spotify.com/album/1gdvtGZapdtzIyOGtTNPGs) | 3:51 |
-| 75 | [Circle Of Life](https://open.spotify.com/track/01crGVaMxTuREayq7rryTN) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [My Own Home](https://open.spotify.com/album/74ICfDwM2hSzPh7q5dFshz) | 4:24 |
-| 76 | [How Far I'll Go](https://open.spotify.com/track/78kow2bDzZpSoyRmFzh5Jj) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [My Dream](https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA) | 3:48 |
-| 77 | [You´ll be in my heart](https://open.spotify.com/track/5g4PRcmsO1w3fMo5TgdM4e) | [David Galtszyk](https://open.spotify.com/artist/7gbE1dXHofvt3Z1iXgSLiv), [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Classic Movie Lullabies](https://open.spotify.com/album/09DrCoC8UyKsJW8Hvxict6) | 2:47 |
+| 74 | [Circle Of Life](https://open.spotify.com/track/01crGVaMxTuREayq7rryTN) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [My Own Home](https://open.spotify.com/album/74ICfDwM2hSzPh7q5dFshz) | 4:24 |
+| 75 | [How Far I'll Go](https://open.spotify.com/track/78kow2bDzZpSoyRmFzh5Jj) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [My Dream](https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA) | 3:48 |
+| 76 | [You´ll be in my heart](https://open.spotify.com/track/5g4PRcmsO1w3fMo5TgdM4e) | [David Galtszyk](https://open.spotify.com/artist/7gbE1dXHofvt3Z1iXgSLiv), [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Classic Movie Lullabies](https://open.spotify.com/album/09DrCoC8UyKsJW8Hvxict6) | 2:47 |
+| 77 | [Colors of the Wind](https://open.spotify.com/track/4EcOCD3uek9lYY87NmqFOZ) | [Ludovico Sagese](https://open.spotify.com/artist/1dygDSkQGQOfq1ZdChpOCs) | [Colors of the Wind](https://open.spotify.com/album/1gdvtGZapdtzIyOGtTNPGs) | 3:51 |
 | 78 | [Beauty And The Beast](https://open.spotify.com/track/4cuhDcdaWgkvoSaj016y6T) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [My Own Home](https://open.spotify.com/album/74ICfDwM2hSzPh7q5dFshz) | 4:33 |
 
-Snapshot ID: `MCwzNzlmZTU3Mzk1N2QxODIzZGI2ZGRhYTU0MTdmYzJkZDJmOWRmMTQ1`
+Snapshot ID: `MCxmMWE1ZjNkOGRlOWExM2NlNzRkNDU5MzMyYjBjN2RkYTg2N2RkM2Rm`

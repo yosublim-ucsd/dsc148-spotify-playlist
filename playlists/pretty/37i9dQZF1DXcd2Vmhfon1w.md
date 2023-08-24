@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Prok
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,266 likes - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,362 likes - 48 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 17 | [Dispuestos a morir \(feat\. Bardero$\)](https://open.spotify.com/track/0qZXZnRY8HnJSwnXW3qxwu) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Dispuestos a morir \(feat\. Bardero$\)](https://open.spotify.com/album/0wge0858QmI3lcVnbJkZD7) | 4:20 |
 | 18 | [Cada Motivo](https://open.spotify.com/track/5RwF8yjTv6LvpCjJL8yjkL) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx), [Lu Decker](https://open.spotify.com/artist/74LXFsgo40nbOJaO74QTAm), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Cada Motivo](https://open.spotify.com/album/5ZkrNdw8WiUr1kvpwAIT6x) | 4:28 |
 | 19 | [Me Lo Pienso](https://open.spotify.com/track/7wI8VR7eA11W2Jpq8D4Olw) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Me Lo Pienso](https://open.spotify.com/album/7wxQQrU7i44rtSah6GHnj6) | 2:54 |
-| 20 | [No hay nada nuevo](https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [No hay nada nuevo](https://open.spotify.com/album/0B1BbxohQyIitYrzegF5io) | 3:40 |
+| 20 | [Pa que lo gocen \(feat\. Dollar Selmouni & Blasfem\)](https://open.spotify.com/track/0TcHENybtIPcEPfr4bSPpA) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Yipiyou](https://open.spotify.com/album/0QlYj53TIFDRDq6E7GrRXH) | 3:40 |
 | 21 | [Mal Agüero](https://open.spotify.com/track/1eg8EWKfaRltn806sZvuDa) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Mal Agüero](https://open.spotify.com/album/0o0Kw1aYR6GShDsEk1jML9) | 3:41 |
 | 22 | [Mortales](https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Siempre](https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo) | 2:55 |
 | 23 | [Welcome](https://open.spotify.com/track/37KLoLkhcJMe7Odsstah0V) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD) | [Patato](https://open.spotify.com/album/4gJBXdGhYA1piaLYhYpZR9) | 2:24 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 27 | [Felicidades](https://open.spotify.com/track/1jx9ljlGXGrN1sIuEpBfnF) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Felicidades](https://open.spotify.com/album/47hpIs8QYlW1H1h6CMUJay) | 3:27 |
 | 28 | [Wifi](https://open.spotify.com/track/3D4gcNgiD0kMPW4AH1ufpA) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6) | [Pedigrí](https://open.spotify.com/album/0nFIAsLOuavv8a9xPY2JK9) | 3:34 |
 | 29 | [Mareas](https://open.spotify.com/track/7smmyEpJwuZn1CZi0K7pLj) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq) | [Mareas](https://open.spotify.com/album/4vqSKeqWuKOJSUjm2NWtB5) | 2:52 |
-| 30 | [Pa que lo gocen \(feat\. Dollar Selmouni & Blasfem\)](https://open.spotify.com/track/0TcHENybtIPcEPfr4bSPpA) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Yipiyou](https://open.spotify.com/album/0QlYj53TIFDRDq6E7GrRXH) | 3:40 |
+| 30 | [No hay nada nuevo](https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [No hay nada nuevo](https://open.spotify.com/album/0B1BbxohQyIitYrzegF5io) | 3:40 |
 | 31 | [EL CIELO](https://open.spotify.com/track/1werFoAlPyW1GYTfD9SRy6) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [EL CIELO](https://open.spotify.com/album/3SL9BkVqLDALKCeEkvrFB7) | 4:25 |
 | 32 | [Yo No Sé](https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [GIO](https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH) | [Yo No Sé](https://open.spotify.com/album/2ed6KMzzTjO7pNGmn8lODE) | 2:44 |
 | 33 | [Sorry Not Sorry](https://open.spotify.com/track/1tgmLnQepRcuHYGj0pgObJ) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Sorry Not Sorry](https://open.spotify.com/album/3kGwvdxAA643sChHnAF9Nl) | 3:32 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 47 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 |
 | 48 | [Hasta que salga el sol](https://open.spotify.com/track/296VAw6iwgYX38mWMy98EG) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hasta que salga el sol](https://open.spotify.com/album/6OxPnl4d7ZjsEyYhuWvG1k) | 4:07 |
 
-Snapshot ID: `MCwxYTk5Y2E0YTljNzA5Y2RjNjJmY2UxOWI0MTQ4MzY1YjYwOGY4ODk2`
+Snapshot ID: `MCwyOTRjZDBhYzFiODA4NTIwNzVmNDViZjIxZGU3ZmRlZjQxNDIxMmQ2`

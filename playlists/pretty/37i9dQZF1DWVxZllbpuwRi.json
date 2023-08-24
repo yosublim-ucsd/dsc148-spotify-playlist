@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 627631,
+  "num_followers": 627607,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzQ3ODdlODFjN2YwZjlhN2FkZDc1MWJjYTlhYzU3Yjc1ZWUyMWI3",
+  "snapshot_id": "MCxlZDg5NDIwNWY1Y2FhMzA4M2JhY2Y4MGM5ZGZhYTQ0M2I2NWQyNmNm",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Muito Calor",
+        "url": "https://open.spotify.com/album/0f3bt9OrN9BzSMRcpCg9y0"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Muito Calor",
+      "url": "https://open.spotify.com/track/5uVgsAzjO6eJR06VPrqUga"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 179456,
       "name": "All The Lies (with Felix Jaehn & The Vamps)",
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Muito Calor",
-        "url": "https://open.spotify.com/album/0f3bt9OrN9BzSMRcpCg9y0"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Muito Calor",
-      "url": "https://open.spotify.com/track/5uVgsAzjO6eJR06VPrqUga"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1875,30 +1875,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Silent Sun",
-        "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
-      },
-      "artists": [
-        {
-          "name": "WOAK",
-          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
-        },
-        {
-          "name": "Sillaz",
-          "url": "https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F"
-        },
-        {
-          "name": "RodMac",
-          "url": "https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP"
-        }
-      ],
-      "duration_ms": 171245,
-      "name": "Silent Sun",
-      "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt"
       },
@@ -1931,26 +1907,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
+        "name": "Silent Sun",
+        "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
       },
       "artists": [
         {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+          "name": "WOAK",
+          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
         },
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Sillaz",
+          "url": "https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F"
         },
         {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+          "name": "RodMac",
+          "url": "https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP"
         }
       ],
-      "duration_ms": 175020,
-      "name": "Savages",
-      "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
+      "duration_ms": 171245,
+      "name": "Silent Sun",
+      "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1971,6 +1947,30 @@
       "duration_ms": 201707,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/4fOyvPBU7A3PYkc0gAodTL"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 175020,
+      "name": "Savages",
+      "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -2063,22 +2063,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Light Years Away",
-        "url": "https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF"
+        "name": "POTINHO",
+        "url": "https://open.spotify.com/album/2vhu177PuIf5IZQiuESQG7"
       },
       "artists": [
         {
-          "name": "Pontifexx",
-          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
         },
         {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
         }
       ],
-      "duration_ms": 223333,
-      "name": "Light Years Away",
-      "url": "https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3"
+      "duration_ms": 177274,
+      "name": "POTINHO",
+      "url": "https://open.spotify.com/track/7wYZrv7HWbscIMnJZ6hj03"
     }
   ],
   "unique_name": "Ver\u00e3o Forever",

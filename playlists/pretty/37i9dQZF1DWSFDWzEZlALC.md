@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: PaulWetz
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,141 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,213 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 5 | [Gaga Baby](https://open.spotify.com/track/5pAZ7fEX5vA9IACYGDHFA8) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Gaga Baby](https://open.spotify.com/album/5TO2MJSSuOZXqIQxevLhZA) | 2:29 |
 | 6 | [Moment](https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Moment](https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW) | 2:43 |
 | 7 | [Königin der Nacht](https://open.spotify.com/track/27cs61wZgDAgKUVznXlTnm) | [Sam James](https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy) | [Königin der Nacht](https://open.spotify.com/album/1IlrO1vexqP55HwH78rsM8) | 2:27 |
-| 8 | [Sekundenschlaf](https://open.spotify.com/track/3nGHhdwp64mgOW4bOIjzZ2) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/7vSpIPqyUwujwf3PxJmWtR) | 2:33 |
+| 8 | [Sekundenschlaf](https://open.spotify.com/track/1nl2fmtFjDhplqdyecVIjn) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/58wvPo48VlBS9ySAYlUhGs) | 2:33 |
 | 9 | [Nie mehr weg](https://open.spotify.com/track/5qR2DOSkZufXivgcLTgbzR) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Nie mehr weg](https://open.spotify.com/album/7k9BKJcvvcf6WWOFVdyC4f) | 2:42 |
 | 10 | [schwarzes wasser](https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [schwarzes wasser](https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe) | 2:37 |
 | 11 | [1996](https://open.spotify.com/track/6qkWqGP2McFW7HCo43QqQc) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt) | [1996](https://open.spotify.com/album/5H7rYopIRRjHTfzJDTSuQq) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Tempelhof](https://open.spotify.com/track/2uVRcTm8tjQntOYcyr60J1) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Tempelhof](https://open.spotify.com/album/2rvobaAp5tVDQEi63ukyEE) | 2:53 |
 | 75 | [Warum so kalt](https://open.spotify.com/track/0ax4fascbiYqqAk1RJUk2p) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Eine kleine EP about kälte and the heat](https://open.spotify.com/album/0ZtSHFfLpT8HmkiHi2kwup) | 3:10 |
 
-Snapshot ID: `MCw1ZDlhMjgwMWNiNTE1ZmJlODIxNjY4MmRhNGY0ZGJkNWI0Y2QxODZh`
+Snapshot ID: `MCw3ODg2NjMxNTMzOTkxMjUxNGNjYTA3OTZkMTVjMjdkZGZkNzYwNjA3`

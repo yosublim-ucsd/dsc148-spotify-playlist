@@ -4,7 +4,7 @@
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-138 songs - 13 hr 20 min
+139 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Uncle John From Jamaica \- M.I.K.E RMX](https://open.spotify.com/track/647KUXj2VDUrJMSgwH7FEd) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj), [M.I.K.E.](https://open.spotify.com/artist/2FClSTHSkbKYByTy7dnBQq) | [Uncle John From Jamaica](https://open.spotify.com/album/1KpQYeV8Zz5ZRN6ngHMyxv) | 7:21 | 2022-07-23 |  |
 | [Unreal](https://open.spotify.com/track/5PTkSTqnfvORfPhfN8jJqY) | [Santiago Nech](https://open.spotify.com/artist/5sLj7XmjjuoTyjBmNJmVBt) | [127VA002](https://open.spotify.com/album/2cyG6x2GZH0OO0cXhBokvx) | 6:30 | 2023-07-05 |  |
 | [Voironizer](https://open.spotify.com/track/189yNofMA6F0Dc1u9czYje) | [VOIRON](https://open.spotify.com/artist/4U0BYR0t5YsRswcsyQKYWs) | [Voironizer](https://open.spotify.com/album/4DX8L1Ba2L2B5Xk8nKwHOk) | 3:18 | 2022-11-21 | 2023-04-27 |
-| [Wetweird](https://open.spotify.com/track/2YZhiTfuMRB7b2bbi6Oeru) | [Private Press](https://open.spotify.com/artist/6P7gZ6hLuBrxelDuq28bR8) | [Young At Heart](https://open.spotify.com/album/3PX5rQj9XC794L4ZDqikxD) | 7:07 | 2022-07-23 |  |
+| [Wetweird](https://open.spotify.com/track/25XN8K7hUyQhzhZ1AAkg9m) | [Private Press](https://open.spotify.com/artist/6P7gZ6hLuBrxelDuq28bR8) | [Wetweird](https://open.spotify.com/album/66V3XaMlVY3RsT6Ce2Ga0e) | 7:07 | 2023-04-26 |  |
+| [Wetweird](https://open.spotify.com/track/2YZhiTfuMRB7b2bbi6Oeru) | [Private Press](https://open.spotify.com/artist/6P7gZ6hLuBrxelDuq28bR8) | [Young At Heart](https://open.spotify.com/album/3PX5rQj9XC794L4ZDqikxD) | 7:07 | 2022-07-23 | 2023-08-24 |
 | [Whales](https://open.spotify.com/track/4NH6RqqfVmxabLwDcKlEM6) | [Tommy 2000](https://open.spotify.com/artist/2J4nqVgYL8lhIuy2GYxHVc) | [Whales](https://open.spotify.com/album/3XG46ILaDhxpXxUMoCJsfX) | 5:12 | 2022-11-21 |  |
 | [What You Want](https://open.spotify.com/track/51QwbYPuqPPF2Gl9edTn0Z) | [Soul Edifice](https://open.spotify.com/artist/36NoWFvGCEmiDodwEJj10M) | [Life Artefacts](https://open.spotify.com/album/2IeHdyvNfTVsVdZ6HhPGOI) | 5:29 | 2022-11-21 |  |
 | [What's Poppin \- Narciss' Champagne Poppin Remix](https://open.spotify.com/track/5cvWAwIWcYA9UU4YwcNjzG) | [Versus](https://open.spotify.com/artist/4iRPFD6sORIMMPmks0BxTm), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Quit Asking EP](https://open.spotify.com/album/0xGgT0dakLiwtiYugPqnkw) | 5:47 | 2022-07-23 | 2023-04-27 |

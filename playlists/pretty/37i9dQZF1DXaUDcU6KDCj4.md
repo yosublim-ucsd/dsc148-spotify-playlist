@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Gregory Alan Isakov
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,428 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,621 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Same Page](https://open.spotify.com/track/39uCoYHGaI6ShUUBfqezNQ) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Same Page](https://open.spotify.com/album/7Hi0hHfhJL4q2g6aCq5b1l) | 3:23 |
 | 150 | [My Old Man](https://open.spotify.com/track/62bQlzpi2X72D59ROPDoAi) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [My Old Man](https://open.spotify.com/album/03JXfzPjyNoCaRNraHdokq) | 3:23 |
 
-Snapshot ID: `MCwyNTVhNjQxZjA3ZDE2NjBlNWVmNTYwODIwYjAyYjBhNWMwMmFmOTEy`
+Snapshot ID: `MCxhNTkwZTRjMWUzYzJiNThhODM0ODk5YjFjYTdkNTJkYzM2MzQyZTJm`

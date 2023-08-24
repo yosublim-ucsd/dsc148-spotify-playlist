@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Seina\. Artwork: Isu Kim
 
-213 songs - 11 hr 50 min
+216 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 | 2022-09-20 | 2023-01-25 |
 | [Gazing](https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Gazing](https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz) | 2:53 | 2023-03-07 | 2023-08-02 |
 | [Gone](https://open.spotify.com/track/5yf2fztisvgjZSoOQJVoZe) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6), [Sophie Smith](https://open.spotify.com/artist/7KZ7EJISLPcfp8ujPTYNir) | [Gone](https://open.spotify.com/album/5CoFXUrSCKTgIQKUOo3Mh8) | 4:12 | 2023-05-24 |  |
+| [Greedy](https://open.spotify.com/track/5rS361ITtlivgOlz9PcxM7) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV), [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D) | [Greedy](https://open.spotify.com/album/4F6PiOx1sG3nj2qsENKwow) | 3:19 | 2023-08-23 |  |
 | [Grounding Place](https://open.spotify.com/track/5k42ev7lFesuG1UAlrKT3l) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Grounding Place](https://open.spotify.com/album/0mHtsfh7zOubxpNTDVzXKP) | 3:46 | 2022-10-25 | 2023-02-15 |
 | [Hamdulilah](https://open.spotify.com/track/0ouTndlSP7HIF2j0FgsHEg) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Here and There](https://open.spotify.com/album/2dEjij0eIdYLr90152L734) | 2:03 | 2022-10-19 | 2022-11-09 |
 | [Hamdulilah](https://open.spotify.com/track/55AuNDR0b8EZCeCqMeKPRP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Hamdulilah](https://open.spotify.com/album/014GFV5SvxywYplmNGON2c) | 2:03 | 2022-09-20 | 2022-10-21 |
@@ -193,6 +194,7 @@
 | [Think Twice](https://open.spotify.com/track/1uj9pZGxrh39WcgPdsx7DU) | [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6), [LrdBrn](https://open.spotify.com/artist/1JSjqgvUtMYWDmnYsmI5mJ) | [Think Twice](https://open.spotify.com/album/2zHKIVOACJGhAflSCqU1UD) | 2:13 | 2022-10-11 | 2022-11-24 |
 | [tiiiies](https://open.spotify.com/track/4trmxD9YPtU3GxMQLqLwwf) | [Kriracha](https://open.spotify.com/artist/5TSJcirRznrsWng7uyvnGA), [Riiiiko](https://open.spotify.com/artist/6XbUbADSRCbfgMjYrPGfbN) | [tiiiies](https://open.spotify.com/album/0K6fJ8QAHZeXIa4YsjAuji) | 2:30 | 2023-01-17 | 2023-03-02 |
 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 | 2023-03-21 |  |
+| [Toque Del Sol](https://open.spotify.com/track/58eEvagJwKhcmHbG40AuEg) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Thaïs Sala](https://open.spotify.com/artist/6xPRuXtCzd7gQH4yOSgZyB) | [Toque Del Sol](https://open.spotify.com/album/4OezapuJwbIXSoyUKlDFcn) | 4:30 | 2023-08-23 |  |
 | [Toss & Turn](https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE) | [Yal Solan](https://open.spotify.com/artist/3K2WqXT4Flri79jhZ2VCMs) | [Toss & Turn](https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4) | 2:51 | 2023-05-24 |  |
 | [Uncovered](https://open.spotify.com/track/59aIHEHhiwvnlGCmwumfgH) | [Abdu B](https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE) | [Uncovered](https://open.spotify.com/album/66ZJVQmOhlQAcF7yUDLtXg) | 2:32 | 2023-02-14 | 2023-08-02 |
 | [waht if\_6](https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [waht if\_6](https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf) | 1:31 | 2023-04-05 | 2023-08-02 |
@@ -207,6 +209,7 @@
 | [Ya Lel](https://open.spotify.com/track/1I1YpnPKkgtt01ETAy2Ku6) | [Bashar Murad](https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql) | [Ya Lel](https://open.spotify.com/album/48V722Zrn4nMGYWKrAFjk3) | 2:55 | 2023-06-20 |  |
 | [Yabki Wa Yadhak](https://open.spotify.com/track/6eQpjNP77wurPhX40EO8rV) | [SHAH \(EG\)](https://open.spotify.com/artist/7MUIbP7XLg9nsftAV4Eclq), [Obada](https://open.spotify.com/artist/6NeBmluEiGgPZdmGzqpSPq) | [Yabki Wa Yadhak](https://open.spotify.com/album/7uM3myz2mW7peXJQB8r8PA) | 6:46 | 2022-09-27 | 2022-10-26 |
 | [You](https://open.spotify.com/track/33BnkEFiFqfuPB4hwx6zuW) | [ANDY VAN DEE](https://open.spotify.com/artist/7dqsOmTmyVPn4osfk1Z4Ob) | [You](https://open.spotify.com/album/6PSbkCJ13g775K0eTDBmjp) | 3:34 | 2023-02-14 | 2023-03-02 |
+| [you know](https://open.spotify.com/track/5R6AgUJDrWay0cuO8enMez) | [Kabier](https://open.spotify.com/artist/7LebW9fZHLUhdAKdw7Xr21) | [you know](https://open.spotify.com/album/57StiABs37UCH0w0a6yxyp) | 2:31 | 2023-08-23 |  |
 | [Zahma](https://open.spotify.com/track/56gIBbVdJGpKTzU9clIGfZ) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [Zahma](https://open.spotify.com/album/6w7utjblhnH3POCa7XuGEz) | 2:36 | 2022-09-27 | 2022-10-12 |
 | [Zanqa](https://open.spotify.com/track/2szYtXOwdOsSodY3wefybT) | [Dali Chebil](https://open.spotify.com/artist/03BgaCpEKpepM1iykl4C5l) | [DENYA](https://open.spotify.com/album/3ai4sZXguA2esRD3rQ0MKx) | 4:25 | 2023-03-01 | 2023-05-24 |
 | [ZAWIA](https://open.spotify.com/track/22lAfAno0RJ1nYCdV2jeS9) | [Haris Hamza](https://open.spotify.com/artist/2CepAx2BXQje58hok8K7Tu) | [ZAWIA](https://open.spotify.com/album/4LKrtQBfgDW6fu6UEYttgb) | 2:23 | 2022-09-20 | 2022-10-26 |

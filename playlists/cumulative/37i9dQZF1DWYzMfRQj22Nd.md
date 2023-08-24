@@ -4,7 +4,7 @@
 
 > Taking the big steps with Drum & Bass.
 
-435 songs - 1 day 5 hr 46 min
+436 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [BARRICADE](https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [BARRICADE](https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq) | 3:20 | 2021-11-12 |  |
 | [Be Gone \- Urbandawn Remix](https://open.spotify.com/track/3bvBkpDqIYFUFw0B5K8mSM) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Be Gone \(Urbandawn Remix\)](https://open.spotify.com/album/5h22T9rbx492QhJuJ6EuLc) | 3:46 | 2022-07-15 | 2022-11-13 |
 | [Be Gone \- Urbandawn Remix](https://open.spotify.com/track/3e3vnMRzSUO9ZOxGquaeqC) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Be Gone \(Urbandawn Remix\)](https://open.spotify.com/album/3i36MGIWpR7ucGSitqzULQ) | 3:46 | 2022-02-18 | 2022-05-18 |
-| [Before We Go Down](https://open.spotify.com/track/7LSg7qrUGRNxSsJ8GlIkg4) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Before We Go Down](https://open.spotify.com/album/0FV6oEJVkyEZfJPyIs3bUc) | 3:57 | 2023-01-06 |  |
+| [Before We Go Down](https://open.spotify.com/track/7LSg7qrUGRNxSsJ8GlIkg4) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Before We Go Down](https://open.spotify.com/album/0FV6oEJVkyEZfJPyIs3bUc) | 3:57 | 2023-01-06 | 2023-08-24 |
 | [Behind The Glass](https://open.spotify.com/track/3Dd0R86fWYsKSk70EhBZ8v) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Behind The Glass](https://open.spotify.com/album/2Bm24tnHdB9hGuxIii7qPJ) | 5:08 | 2021-11-12 | 2022-07-29 |
 | [Berry Patch](https://open.spotify.com/track/0ObRbKEIH9jrwi0rqTo0hT) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Berry Patch](https://open.spotify.com/album/52zBGjH8c3DGlbYNqkJLAa) | 4:06 | 2022-02-18 | 2022-04-19 |
 | [Better Off Without You \(High Contrast Remix feat\. Shift K3Y\)](https://open.spotify.com/track/4EsFXXYwZYh4GD37aff1Db) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Better Off Without You \(Remixes feat\. Shift K3Y\)](https://open.spotify.com/album/5mLqn3YWaDjSNcqokqiWyj) | 3:33 | 2021-11-12 |  |
@@ -284,6 +284,7 @@
 | [Nemesis](https://open.spotify.com/track/31wYP7JYzEzMbX0ORrINoe) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Nemesis](https://open.spotify.com/album/2gy1bZfF5ZbM2Jn2BeHdRl) | 4:34 | 2021-11-12 | 2022-07-27 |
 | [Never Again](https://open.spotify.com/track/1w8LpjmZeBTY3PFeY1Es1A) | [DJ Rap](https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46), [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG) | [Never Again](https://open.spotify.com/album/6qYEhoD50aq5DJBxnSCYGW) | 5:20 | 2021-11-12 | 2022-07-26 |
 | [Never Let Me Go](https://open.spotify.com/track/1QgYm6U7EX2Bhpj3BOTLHQ) | [IAMSAM](https://open.spotify.com/artist/6RsUpx0KNqH6at7oNsRkXD), [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4) | [Never Let Me Go](https://open.spotify.com/album/0jRKTrIWx0RhPzRLHILVRO) | 3:14 | 2021-11-12 | 2022-07-28 |
+| [New Age Dreaming](https://open.spotify.com/track/6KxUvWRs2kDp1apoVADBXq) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [The Boy Of Many Colors](https://open.spotify.com/artist/6TH3slGLeQpUTS5Ng01bWx) | [New Age Dreaming](https://open.spotify.com/album/046CzF0aCtKCebNqLD6zHI) | 3:39 | 2023-08-18 |  |
 | [New Beginning](https://open.spotify.com/track/2YbpRcRomPCdnChIcgQo0D) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Lexurus](https://open.spotify.com/artist/3iEPGgJzNDexM0WPqpcvMB), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [New Beginning](https://open.spotify.com/album/0D7sxVgZTL9DerUPMp96t6) | 4:09 | 2021-11-12 | 2023-08-09 |
 | [Night Train](https://open.spotify.com/track/0zGHWnTtESiQrWwnCA1yBM) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Night Train](https://open.spotify.com/album/5LgCU9NNcj2V412ZKn3Sra) | 4:48 | 2022-01-28 |  |
 | [No Good](https://open.spotify.com/track/3ZPQjucn8YLgMBLwWslBY4) | [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Bubblers Part One](https://open.spotify.com/album/3ergwevoVNIdu8BCKFO74H) | 3:20 | 2022-02-18 | 2022-04-20 |

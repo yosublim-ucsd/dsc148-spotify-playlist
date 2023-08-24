@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajWk2WkW4sa.md) - [plain]
 | 22 | [Firework](https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 |
 | 23 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
 
-Snapshot ID: `MCwzMWYxOGUwYjFjNGMwMTA0Y2YxMjljZmZiYjAzNmQ5N2M3MmM5NTYy`
+Snapshot ID: `MCw0NmE2NWZjZGZiODcxNTFmYzg4YTliNzdiY2IwYjA4NzE2ZGVkOWI5`

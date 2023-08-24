@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1235954,
+  "num_followers": 1236349,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODhiODllY2M3N2M1ODg2NTY1MGRjZmM3YTVmOTk5OGVmMDY3ODBi",
+  "snapshot_id": "MCw1ODNlNGNlNGYxNGM4OGE0NDBhNDYzZGRjOThlMzNiYjlhNTIzYzk4",
   "tracks": [
     {
       "added_at": "2023-08-16 13:25:16",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-08-16 13:25:16",
       "album": {
-        "name": "When Daylight Strikes (Intents Kingdom of Unity 2023 Anthem)",
-        "url": "https://open.spotify.com/album/0LMgNpWGwqBrAZLcii4JPh"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Phuture Noize",
-          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
-        }
-      ],
-      "duration_ms": 224667,
-      "name": "When Daylight Strikes (Intents Kingdom of Unity 2023 Anthem)",
-      "url": "https://open.spotify.com/track/7hiSvqxUrIB4ZAH4hi0awM"
-    },
-    {
-      "added_at": "2023-08-16 13:25:16",
-      "album": {
         "name": "Mellow",
         "url": "https://open.spotify.com/album/2uM2YRfQXxpsCjDxuZdqiY"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 169839,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/6AQpd05OyowTvtO7I3BdBU"
+    },
+    {
+      "added_at": "2023-08-16 13:25:16",
+      "album": {
+        "name": "When Daylight Strikes (Intents Kingdom of Unity 2023 Anthem)",
+        "url": "https://open.spotify.com/album/0LMgNpWGwqBrAZLcii4JPh"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        }
+      ],
+      "duration_ms": 224667,
+      "name": "When Daylight Strikes (Intents Kingdom of Unity 2023 Anthem)",
+      "url": "https://open.spotify.com/track/7hiSvqxUrIB4ZAH4hi0awM"
     },
     {
       "added_at": "2023-08-16 13:25:16",
@@ -2119,26 +2119,6 @@
     {
       "added_at": "2023-08-16 13:25:16",
       "album": {
-        "name": "Somebody to Love",
-        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Maxtreme",
-          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
-        }
-      ],
-      "duration_ms": 188076,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
-    },
-    {
-      "added_at": "2023-08-16 13:25:16",
-      "album": {
         "name": "Music Of The Mind",
         "url": "https://open.spotify.com/album/1GbybeTHGXQxIdpUsDco8i"
       },
@@ -2175,22 +2155,38 @@
     {
       "added_at": "2023-08-16 13:25:16",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID"
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
       },
       "artists": [
         {
-          "name": "Sandro Silva",
-          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
         },
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
         }
       ],
-      "duration_ms": 197142,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1"
+      "duration_ms": 188076,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
+    },
+    {
+      "added_at": "2023-08-16 13:25:16",
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/0CdsPSUAFyI58HXxgQFLax"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 188991,
+      "name": "HALO",
+      "url": "https://open.spotify.com/track/4R7k9w4XBSYSUhlmXFr4xm"
     },
     {
       "added_at": "2023-08-16 13:25:16",
@@ -2215,18 +2211,22 @@
     {
       "added_at": "2023-08-16 13:25:16",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/0CdsPSUAFyI58HXxgQFLax"
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID"
       },
       "artists": [
         {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         }
       ],
-      "duration_ms": 188991,
-      "name": "HALO",
-      "url": "https://open.spotify.com/track/4R7k9w4XBSYSUhlmXFr4xm"
+      "duration_ms": 197142,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1"
     },
     {
       "added_at": "2023-08-16 13:25:16",
@@ -2407,26 +2407,6 @@
     {
       "added_at": "2023-08-16 13:25:16",
       "album": {
-        "name": "Sun Comes Up",
-        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Sun Comes Up",
-      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
-    },
-    {
-      "added_at": "2023-08-16 13:25:16",
-      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
       },
@@ -2447,22 +2427,22 @@
     {
       "added_at": "2023-08-16 13:25:16",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/6i3w3ojtW5s8gz15CWd1rj"
+        "name": "Sun Comes Up",
+        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
       },
       "artists": [
         {
-          "name": "Kronos",
-          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
         },
         {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
         }
       ],
-      "duration_ms": 159843,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/4e6IeyAH5IxXM2XsyusvIb"
+      "duration_ms": 212146,
+      "name": "Sun Comes Up",
+      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
     },
     {
       "added_at": "2023-08-16 13:25:16",
@@ -2479,6 +2459,26 @@
       "duration_ms": 182000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
+    },
+    {
+      "added_at": "2023-08-16 13:25:16",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/6i3w3ojtW5s8gz15CWd1rj"
+      },
+      "artists": [
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "duration_ms": 159843,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4e6IeyAH5IxXM2XsyusvIb"
     },
     {
       "added_at": "2023-08-16 13:25:16",
@@ -2895,6 +2895,22 @@
     {
       "added_at": "2023-08-16 13:25:16",
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/5FkHkDHeCqICjB1yv1COHA"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        }
+      ],
+      "duration_ms": 292553,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/1BRMT9ruyij1tKK1YqAf4S"
+    },
+    {
+      "added_at": "2023-08-16 13:25:16",
+      "album": {
         "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
         "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
       },
@@ -2915,22 +2931,6 @@
       "duration_ms": 197927,
       "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
       "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
-    },
-    {
-      "added_at": "2023-08-16 13:25:16",
-      "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/5FkHkDHeCqICjB1yv1COHA"
-      },
-      "artists": [
-        {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
-        }
-      ],
-      "duration_ms": 292553,
-      "name": "Awaken",
-      "url": "https://open.spotify.com/track/1BRMT9ruyij1tKK1YqAf4S"
     },
     {
       "added_at": "2023-08-16 13:25:16",
@@ -3595,6 +3595,22 @@
     {
       "added_at": "2023-08-16 13:25:16",
       "album": {
+        "name": "Where is the Beat?",
+        "url": "https://open.spotify.com/album/1dDPrbRNE9Q4hjnz36Ctp8"
+      },
+      "artists": [
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Where is the Beat?",
+      "url": "https://open.spotify.com/track/2QlSZqplGcoNIutgfhDoAS"
+    },
+    {
+      "added_at": "2023-08-16 13:25:16",
+      "album": {
         "name": "Edge Of The Unknown",
         "url": "https://open.spotify.com/album/13mS26sOAVYfngzLevsf82"
       },
@@ -3619,22 +3635,6 @@
       "duration_ms": 258946,
       "name": "Edge of The Unknown",
       "url": "https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J"
-    },
-    {
-      "added_at": "2023-08-16 13:25:16",
-      "album": {
-        "name": "Where is the Beat?",
-        "url": "https://open.spotify.com/album/1dDPrbRNE9Q4hjnz36Ctp8"
-      },
-      "artists": [
-        {
-          "name": "Maxtreme",
-          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Where is the Beat?",
-      "url": "https://open.spotify.com/track/2QlSZqplGcoNIutgfhDoAS"
     },
     {
       "added_at": "2023-08-16 13:25:16",

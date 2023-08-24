@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Wren Evans
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,137 likes - 57 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,225 likes - 57 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 56 | [Mưa Tháng Sáu](https://open.spotify.com/track/23SUnSd024ACX7u1AUXsGc) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Mưa Tháng Sáu](https://open.spotify.com/album/4yBg6jOe3H4YWlqwLOj3Jp) | 4:17 |
 | 57 | [Bật Tình Yêu Lên](https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ), [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8) | [Bật Tình Yêu Lên](https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB) | 3:23 |
 
-Snapshot ID: `MCwwNDcxNTY2MWMyZTA1OWVkY2NjOWE4NmZiYjIwODg2ZGQ5ZTAwMzQ1`
+Snapshot ID: `MCw3YmE3MDg4OGVmYmJlMTE5NTlkMWM1NGNlZTMwYzlkNzQyM2RiZDY5`

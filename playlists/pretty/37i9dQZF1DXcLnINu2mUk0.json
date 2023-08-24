@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Slow J.",
-  "num_followers": 37091,
+  "num_followers": 37123,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWQzMDA2YjEyYzU0OTJhYjkzOGVmYTgzNzNjOTMzMjg5NmFmNWU3",
+  "snapshot_id": "MCxjNzdjYjQyYzhmNzVkNTc5NmRiYzk5NjM0ZmU0YjI0YzU2YWQyYmU1",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -687,22 +687,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Filhos",
-        "url": "https://open.spotify.com/album/16xD2hWPUrnrUrWmzBweXQ"
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 210337,
-      "name": "Filhos",
-      "url": "https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4"
+      "duration_ms": 279423,
+      "name": "Depois da Chuva",
+      "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -727,6 +723,26 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Filhos",
+        "url": "https://open.spotify.com/album/16xD2hWPUrnrUrWmzBweXQ"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Filhos",
+      "url": "https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "That's Me",
         "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 279423,
-      "name": "Depois da Chuva",
-      "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 256144,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -961,7 +961,7 @@
         }
       ],
       "duration_ms": 199376,
-      "name": "Tequila (Studio Version)",
+      "name": "Tequila - Studio Version",
       "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
     },
     {
@@ -979,22 +979,6 @@
       "duration_ms": 206315,
       "name": "Madruga",
       "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Estrela Maior",
-        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 265011,
-      "name": "Estrela Maior",
-      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 156205,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Estrela Maior",
+        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 265011,
+      "name": "Estrela Maior",
+      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Crime Scene",
-        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
+        "name": "100 Maneiras",
+        "url": "https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD"
       },
       "artists": [
         {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+          "name": "xtussy",
+          "url": "https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI"
         }
       ],
-      "duration_ms": 178443,
-      "name": "Crime Scene",
-      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
+      "duration_ms": 240000,
+      "name": "100 Maneiras",
+      "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1127,22 +1127,6 @@
       "duration_ms": 228000,
       "name": "Fazer-te sonhar",
       "url": "https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "100 Maneiras",
-        "url": "https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD"
-      },
-      "artists": [
-        {
-          "name": "xtussy",
-          "url": "https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "100 Maneiras",
-      "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Crime Scene",
+        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "duration_ms": 178443,
+      "name": "Crime Scene",
+      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Tudo Se Repete",
         "url": "https://open.spotify.com/album/4brC0gox7AtKcndkkHhhpe"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 186517,
       "name": "Tudo Se Repete",
       "url": "https://open.spotify.com/track/2gLijdOpgmEv7K8Ly8y4su"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "duration_ms": 192864,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1207,38 +1223,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR"
-      },
-      "artists": [
-        {
-          "name": "DIGGA",
-          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
-        }
-      ],
-      "duration_ms": 192864,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Beb\u00e9",
-        "url": "https://open.spotify.com/album/5O0n73lPSFwtGrQCqCAIe4"
-      },
-      "artists": [
-        {
-          "name": "Barata",
-          "url": "https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN"
-        }
-      ],
-      "duration_ms": 163528,
-      "name": "Beb\u00e9",
-      "url": "https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/7hJtnNxChO1mGUtdWUuG6F"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 184444,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/5vwt5fdPoIbNYkWPOBInfp"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Beb\u00e9",
+        "url": "https://open.spotify.com/album/5O0n73lPSFwtGrQCqCAIe4"
+      },
+      "artists": [
+        {
+          "name": "Barata",
+          "url": "https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN"
+        }
+      ],
+      "duration_ms": 163528,
+      "name": "Beb\u00e9",
+      "url": "https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr"
     }
   ],
   "unique_name": "Seda",

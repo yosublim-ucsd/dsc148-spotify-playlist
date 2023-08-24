@@ -4,7 +4,7 @@
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-134 songs - 7 hr 33 min
+135 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Quiero Que Vuelvas](https://open.spotify.com/track/0YHNjkLz1359wkKOzxLSel) | [Magali Delarosa](https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc) | [Quiero Que Vuelvas](https://open.spotify.com/album/65zynurlXpGeJ7YLXMNXsI) | 3:41 | 2023-03-10 |  |
 | [Quédate Con El](https://open.spotify.com/track/11QBmPdodhQsekFGZNYenY) | [Stefani Montiel](https://open.spotify.com/artist/68itzJPfdDLNgLecpEfaHI), [Vampiro](https://open.spotify.com/artist/0tzcColcnmXRisPnbE9VlK) | [Quédate Con El](https://open.spotify.com/album/0VAvg1yg2eL7TmReNFopnt) | 3:34 | 2022-03-07 | 2023-03-11 |
 | [Raspar Zapato](https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh) | [Tejano Highway 281](https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV) | [Raspar Zapato](https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6) | 2:44 | 2023-03-10 |  |
-| [Rogando Por Tu Amor \(Version Tejano\)](https://open.spotify.com/track/3w1AC7BcBd8zRsKrtzJMZg) | [DEZ](https://open.spotify.com/artist/7MQc01r8BvkgXApZOtPezs) | [Rogando Por Tu Amor \(Version Tejano\)](https://open.spotify.com/album/61ZTUxn7bBbcdSLciTJW7x) | 3:23 | 2023-03-10 |  |
+| [Rogando Por Tu Amor](https://open.spotify.com/track/3konQZ2dxzZ9N83J0fC5qo) | [EL GALLO DEZ](https://open.spotify.com/artist/6HouSoogSl8M3OvLrdxij5) | [Rogando Por Tu Amor](https://open.spotify.com/album/0hJfMeu3ayGQtUbMZ8KZiM) | 3:23 | 2023-03-10 |  |
+| [Rogando Por Tu Amor \(Version Tejano\)](https://open.spotify.com/track/3w1AC7BcBd8zRsKrtzJMZg) | [DEZ](https://open.spotify.com/artist/7MQc01r8BvkgXApZOtPezs) | [Rogando Por Tu Amor \(Version Tejano\)](https://open.spotify.com/album/61ZTUxn7bBbcdSLciTJW7x) | 3:23 | 2023-03-10 | 2023-08-24 |
 | [Santa Borrachera](https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf) | [SuenaTron](https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4) | [Santa Borrachera](https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO) | 2:57 | 2023-03-10 |  |
 | [Se Me Antoja](https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:07 | 2023-03-10 |  |
 | [Sedúceme](https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Sedúceme](https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4) | 3:29 | 2023-03-10 |  |

@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-274 songs - 11 hr 7 min
+275 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Back It Up](https://open.spotify.com/track/4WrPZ198RawgV8uMVwkYWU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 2:40 | 2022-02-11 | 2023-07-20 |
 | [Back Stabbers Jersey Club Mix](https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp) | [Dj Darknite](https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg), [Groove The Producer](https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1), [Mattknight](https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT) | [Sounds Of A Menace \(Jersey Club\)](https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI) | 2:25 | 2022-07-08 |  |
 | [Back Up On It \(Jasmine\)](https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk) | [DJ Fire](https://open.spotify.com/artist/0ky4LIRukBkNFLJ2uzpQ9Y), [Dougie F & DJ Fire](https://open.spotify.com/artist/57UWHentGuHNFZBertnsf8), [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [Back Up On It \(Jasmine\)](https://open.spotify.com/album/7jYgzdKEdRHubC7zxHoKph) | 3:20 | 2022-02-11 | 2022-12-31 |
-| [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 | 2022-02-11 |  |
+| [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 | 2022-02-11 | 2023-08-24 |
 | [Banji](https://open.spotify.com/track/6tS9z4PYZpOFaHFs6Nuoz0) | [Sharaya J](https://open.spotify.com/artist/6Z4puj0KYgtcxJrVXKmvBX) | [Banji](https://open.spotify.com/album/6TrxrJAOR9dYbXJtLTGBX8) | 2:35 | 2022-02-11 | 2022-12-17 |
 | [Beat A Bitch Up Challenge](https://open.spotify.com/track/3YokUz1GMTM4hDVSwL9dHn) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx) | [Full House \(Jersey Club Remix\)](https://open.spotify.com/album/5LZjicQLBUsK1Uq8jsjqzz) | 1:12 | 2022-02-11 | 2022-07-08 |
 | [Beat A Bitch Up Challenge](https://open.spotify.com/track/3zl7WoKo2zhYWkbMLHSfXV) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx) | [Beat A Bitch Up Challenge](https://open.spotify.com/album/3Ky1KT0KdbUkpDOSO2QdsA) | 1:12 | 2022-07-22 | 2022-12-17 |
@@ -59,6 +59,7 @@
 | [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2022-12-30 |  |
 | [Brand New](https://open.spotify.com/track/5cNtRdWHiLwedKKo0xrebh) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Teez](https://open.spotify.com/artist/1CdH7hPovN32oz65xSnWHy) | [Brand New](https://open.spotify.com/album/4Qfk2gtSfyPeVv2Lygz7Ee) | 2:10 | 2022-02-11 | 2022-08-19 |
 | [Brand New](https://open.spotify.com/track/7tLXo5YmfBoyCYSNG62hJZ) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Teez](https://open.spotify.com/artist/1CdH7hPovN32oz65xSnWHy) | [Brand New](https://open.spotify.com/album/3nae8nex8etjw0c1zY0L7Y) | 2:10 | 2022-08-12 | 2022-11-09 |
+| [Break From Jersey](https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Break From Jersey](https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi) | 2:31 | 2023-08-18 |  |
 | [BULLET](https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [BULLET](https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv) | 1:38 | 2022-02-11 |  |
 | [Bust Down](https://open.spotify.com/track/3QSQCwfiYdb3aiEwpNqP9O) | [Constantine](https://open.spotify.com/artist/51J2nuOQ1AtyZ5KS7DgzGX), [Squadooble](https://open.spotify.com/artist/5bJewgbw67gH5bq00Bzptp) | [Made U Juke](https://open.spotify.com/album/14CJU3MxfDIX4fTaQ9OVYE) | 2:48 | 2022-02-11 | 2022-09-03 |
 | [Can You Bounce? \- Remix](https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [DJ Blizz](https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh) | [Can You Bounce? \(Remix\)](https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1) | 2:06 | 2022-07-08 | 2023-08-15 |

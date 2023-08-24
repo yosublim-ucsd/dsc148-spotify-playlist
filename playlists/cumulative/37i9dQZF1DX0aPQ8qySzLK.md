@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-140 songs - 8 hr 44 min
+141 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Skinny Legs](https://open.spotify.com/track/7FzL4QOuXXd6htbMyMXBAi) | [Dana Sipos](https://open.spotify.com/artist/5F8FbH4EdvOZrM8DyFOad3) | [Skinny Legs](https://open.spotify.com/album/3gZCCo0FT5Zlrvll9iGMrF) | 3:25 | 2021-12-01 |  |
 | [Slow and Steady](https://open.spotify.com/track/7hMfB8zmqDlO6qvJQPoGIO) | [LeRiche](https://open.spotify.com/artist/3l7zogHf9d1q2V7FBcKEiy) | [Apartment 24](https://open.spotify.com/album/0VaHzMHMKNxdtiPCnVt3dK) | 2:54 | 2021-12-01 |  |
 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 | 2021-12-01 |  |
-| [Special Place In Hell](https://open.spotify.com/track/3iCF7e9cDzX4IkrrRPZtoZ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Summer B Sides](https://open.spotify.com/album/7eKRJ0btdxbAPXUe4qPxKt) | 2:19 | 2021-12-01 |  |
+| [Special Place In Hell](https://open.spotify.com/track/1S6QUF7hYQ36XQxrjSpuoA) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Summer B\-Sides](https://open.spotify.com/album/38DQhpzEdGsLrQZacEqA4I) | 2:19 | 2021-12-01 |  |
+| [Special Place In Hell](https://open.spotify.com/track/3iCF7e9cDzX4IkrrRPZtoZ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Summer B Sides](https://open.spotify.com/album/7eKRJ0btdxbAPXUe4qPxKt) | 2:19 | 2021-12-01 | 2023-08-24 |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2021-12-01 |  |
 | [Surrender](https://open.spotify.com/track/53vcgIyHUsxpeZjcEymEmh) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Young Heart](https://open.spotify.com/album/4qsLVZk1UnizpQJBkbFNdx) | 3:54 | 2021-12-01 |  |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2021-12-01 |  |

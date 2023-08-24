@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "ABCD Girl",
+        "url": "https://open.spotify.com/album/1JaETgTmW0daTqaS5HLZSa"
+      },
+      "artists": [
+        {
+          "name": "KALMA",
+          "url": "https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "ABCD Girl",
+      "url": "https://open.spotify.com/track/6vFiifSiUN69wjdXi9KQtm"
+    },
+    {
+      "album": {
         "name": "ABCD\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/0kDGiFyem8HNi1G2HVEy9O"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 141600,
       "name": "ABCD\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5hInl2IZUBI4FuLMvEor1R"
@@ -3030,7 +3048,7 @@
     {
       "album": {
         "name": "I Love me",
-        "url": "https://open.spotify.com/album/1BQ5QzcoyC8RDj3bBE9CNH"
+        "url": "https://open.spotify.com/album/3OdNDDi9o21gKotKQnfa6h"
       },
       "artists": [
         {
@@ -3041,6 +3059,24 @@
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193356,
+      "name": "I Love me",
+      "url": "https://open.spotify.com/track/0Y5tyjzA8QBQrOyAV6G0gt"
+    },
+    {
+      "album": {
+        "name": "I Love me",
+        "url": "https://open.spotify.com/album/1BQ5QzcoyC8RDj3bBE9CNH"
+      },
+      "artists": [
+        {
+          "name": "Mr.\u3075\u3049\u308b\u3066",
+          "url": "https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-24",
       "duration_ms": 193356,
       "name": "I Love me",
       "url": "https://open.spotify.com/track/2x7tc0BJTDDLwg1jQ9ROAB"
@@ -3808,7 +3844,7 @@
     {
       "album": {
         "name": "LOTUS",
-        "url": "https://open.spotify.com/album/1g8SzxU5rOWw2X0yCZ9A39"
+        "url": "https://open.spotify.com/album/4FCFA4Jhv12f4DSemJgtsN"
       },
       "artists": [
         {
@@ -3819,6 +3855,24 @@
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 326284,
+      "name": "LOTUS",
+      "url": "https://open.spotify.com/track/2ltQSZL2wJ7tZGI9iuEgKP"
+    },
+    {
+      "album": {
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/1g8SzxU5rOWw2X0yCZ9A39"
+      },
+      "artists": [
+        {
+          "name": "THE SPELLBOUND",
+          "url": "https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-24",
       "duration_ms": 326284,
       "name": "LOTUS",
       "url": "https://open.spotify.com/track/4qDe8F9LpIIvd7xN2sJzN5"
@@ -5425,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "Sad Song",
+        "url": "https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203545,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv"
+    },
+    {
+      "album": {
         "name": "PLAYDEAD",
         "url": "https://open.spotify.com/album/0KINjwUwxK2iRQIqVwQSmv"
       },
@@ -5436,7 +5508,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 203545,
       "name": "Sad Song",
       "url": "https://open.spotify.com/track/7A6FL46PS9sa4xLKmUYvFP"

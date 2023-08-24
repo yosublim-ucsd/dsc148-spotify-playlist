@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Mih, Bianca
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,565 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,626 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 39 | [Gostosa de Air Max](https://open.spotify.com/track/02uKdKnouBOFSqP8aRCUmj) | [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo) | [Gostosa de Air Max](https://open.spotify.com/album/4h9JWqAumE78sOniGFUGg1) | 2:15 |
 | 40 | [F.D.P](https://open.spotify.com/track/6VGOXyPBs38qrq7nNyZvcD) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Tshawtty](https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Nabru](https://open.spotify.com/artist/67VY9YRt42yGpkO52KeIeF), [Lola](https://open.spotify.com/artist/1bkNzmvF9a7dfInKGMhsBw), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [F.D.P](https://open.spotify.com/album/4tHvgPqTQ1lhpL2IxZe478) | 4:38 |
 | 41 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
-| 42 | [Drip do Gaza](https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Calado Beats](https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN) | [Drip do Gaza](https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9) | 2:02 |
-| 43 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
-| 44 | [Se Entregue](https://open.spotify.com/track/4OSbrWCom49jTHMhhprk0I) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Se Entregue](https://open.spotify.com/album/2uIFw8t8vjPirLoRia0yII) | 4:20 |
+| 42 | [Se Entregue](https://open.spotify.com/track/4OSbrWCom49jTHMhhprk0I) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Se Entregue](https://open.spotify.com/album/2uIFw8t8vjPirLoRia0yII) | 4:20 |
+| 43 | [Drip do Gaza](https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Calado Beats](https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN) | [Drip do Gaza](https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9) | 2:02 |
+| 44 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
 | 45 | [Olhares \- Ao Vivo](https://open.spotify.com/track/2O1lvYqUJeElPxjsFNeDyb) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Iza Sabino no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/4F8B54XflmJca5xuhyy2Nc) | 2:12 |
 | 46 | [Betty Boop](https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Betty Boop](https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK) | 1:50 |
 | 47 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Vai Ficar \(Live at Soho Sessions\)](https://open.spotify.com/track/1LvjU5igregWzDRl6kRMkc) | [King](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Soho Sessions](https://open.spotify.com/artist/02bsMuvxMq6bvNLAJdtOQe) | [Vai Ficar \(Live at Soho Sessions\)](https://open.spotify.com/album/1Mo043KD2TGELiE4D0cAfd) | 3:25 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCxiNzkzMDVmY2U4NGYwNzRkODM0MGM0YTQxYjAyMjMxYjQwYzFkYTdm`
+Snapshot ID: `MCxmM2RmY2NhM2U3NmIzMTA4ZGEyNzIyNWEyN2U0MzMzMjNjOWMyYTZl`

@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Na Hoon\-a\(나훈아\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-805 songs - 1 day 22 hr 1 min
+806 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | [만개 \(prod\. 신지후\)](https://open.spotify.com/track/2hXsVNMyojuFYcTiF8nhGa) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:11 | 2022-12-05 | 2023-08-10 |
 | [만약 혹시나 만약에](https://open.spotify.com/track/0MBll3MNAunvI1k4EqRDXZ) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [만약 혹시나 만약에](https://open.spotify.com/album/1DJtekGwGeFiEWUkaYslNZ) | 2:36 | 2022-05-03 | 2022-07-20 |
 | [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 | 2022-04-22 |  |
+| [목포행 완행열차](https://open.spotify.com/track/1tb1vddvrGHwE1wSRwGB6V) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [préparation\(쁘레빠라씨용\)](https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20) | 3:31 | 2023-07-24 |  |
 | [무명배우](https://open.spotify.com/track/3rYKL4GEjt2R91ww7wNxeT) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [미스트롯 FINAL STAGE](https://open.spotify.com/album/1M7ZC5LiictivsP80SG886) | 4:15 | 2022-04-07 | 2022-07-29 |
 | [무명배우](https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Again](https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr) | 4:15 | 2022-07-22 |  |
 | [무명배우](https://open.spotify.com/track/6xKZwgfvGsz2uhKlxnL205) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Dream](https://open.spotify.com/album/4QlmckbPKjwvpfDO9DzDpQ) | 4:20 | 2022-05-03 | 2022-07-24 |
@@ -781,7 +782,7 @@
 | [우산이 없어요](https://open.spotify.com/track/4q5pT0SRWuu8EbXNjhwu94) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 3:59 | 2022-12-05 | 2023-02-25 |
 | [우쭈쭈](https://open.spotify.com/track/02yfGvVWiSMHckXHLCT22k) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [우쭈쭈](https://open.spotify.com/album/7M2xMJP7S2PCuGQpsURP55) | 3:24 | 2022-05-03 | 2022-07-13 |
 | [운명에게](https://open.spotify.com/track/5vMuxEioWkhfLmJae7W7Vl) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [운명에게](https://open.spotify.com/album/757sVf8hYQhMRBoTRo8oKi) | 3:31 | 2022-04-07 | 2022-07-29 |
-| [운명에게](https://open.spotify.com/track/4u9Kk4YuuJ7GSPXLWqETjL) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [장윤정 BEST 2020](https://open.spotify.com/album/5EhlXil84VfiTfzZnML0FJ) | 3:35 | 2023-07-24 |  |
+| [운명에게](https://open.spotify.com/track/4u9Kk4YuuJ7GSPXLWqETjL) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [장윤정 BEST 2020](https://open.spotify.com/album/5EhlXil84VfiTfzZnML0FJ) | 3:35 | 2023-07-24 | 2023-08-24 |
 | [울엄마](https://open.spotify.com/track/7e3kodG53Mzgl11PvErf5p) | [충청걸스\(윤서령](https://open.spotify.com/artist/00G21dVdlwAqBfhnjWoOCj), [이송연](https://open.spotify.com/artist/1V0rYogNR6sKkRqP3A2p1Z), [김산하\)](https://open.spotify.com/artist/554bhzomwHRS7Y5OGWL2qY) | [Korean Trot Contest PART.5](https://open.spotify.com/album/73AYOATUIFhqWlhWCAR3eF) | 4:57 | 2022-05-03 | 2022-07-26 |
 | [이 오빠 뭐야](https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [첫번째 이야기](https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo) | 3:38 | 2022-04-22 |  |
 | [인생열차](https://open.spotify.com/track/6D4uRhsvsOtMjGk02EsZwG) | [나태주](https://open.spotify.com/artist/61km720PlFBWz14G7qHSCP) | [인생열차](https://open.spotify.com/album/7gnE6znPjohbNzPfQ4R0qE) | 3:30 | 2022-04-21 | 2022-07-26 |

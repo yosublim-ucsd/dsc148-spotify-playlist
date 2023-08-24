@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Natanya\. Updates every Wednesday.
 
-1,622 songs - 3 day 11 hr 37 min
+1,623 songs - 3 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1618,7 +1618,8 @@
 | [YOU](https://open.spotify.com/track/25KyYoEvqfqtRWH5yHoFsW) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7) | [YOU](https://open.spotify.com/album/7BKq7qTPNCdDLl16QtBgbD) | 3:13 | 2022-09-21 | 2022-12-01 |
 | [You](https://open.spotify.com/track/4xJPWX1BFbsx9hrSIWmKWp) | [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [What Now](https://open.spotify.com/album/3WgzjVZhIalVan2yCG3lhr) | 3:09 | 2022-06-09 | 2022-08-11 |
 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 | 2022-02-23 | 2022-03-31 |
-| [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 | 2023-08-03 |  |
+| [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 | 2023-08-03 | 2023-08-24 |
+| [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 | 2023-08-03 |  |
 | [YOU + I](https://open.spotify.com/track/61LOAMiPICe8qewWxgALmv) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [YOU + I](https://open.spotify.com/album/5n9JcX3AEYYHBpysgZWdrE) | 3:18 | 2022-07-29 | 2022-09-09 |
 | [You Ain't Gotta](https://open.spotify.com/track/3GiD9NfHqo68GfqHMutbH6) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [You Ain't Gotta](https://open.spotify.com/album/0cSE4JeRkAH9QU71Fev5lp) | 3:27 | 2023-02-10 | 2023-02-23 |
 | [You and I](https://open.spotify.com/track/0mFNe5eGBBJNpinC6o9UCj) | [Dondria](https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO), [Avery Wilson](https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3) | [Perspective](https://open.spotify.com/album/3WTYB5NeOtsgH7XkjUZq5Z) | 3:01 | 2023-01-11 | 2023-02-11 |

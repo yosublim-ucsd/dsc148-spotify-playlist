@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-103 songs - 8 hr 37 min
+104 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Across The Ocean](https://open.spotify.com/track/5R1cHabaCTU0atNY249IxR) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Priya Darshini](https://open.spotify.com/artist/0HBnj5wwxLtAYL6H66jKJV), [Warren Mendonsa](https://open.spotify.com/artist/4h3U9ZOiDOzSUqiKCmrvfn), [Max ZT](https://open.spotify.com/artist/5WXUlwmB9Be8zQRFQAj3mx), [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Currency Audio](https://open.spotify.com/artist/4NWJPLnZxRYQCb2mYOZCR5) | [Across The Ocean](https://open.spotify.com/album/3l7zRvlnVnE8qhGAYIn7iy) | 5:13 | 2022-06-10 |  |
 | [Across the River](https://open.spotify.com/track/4zeqvxUAYmhJGDsQH9oBM8) | [Eashwar Subramanian](https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7) | [Across the River](https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX) | 4:21 | 2022-06-10 |  |
 | [All I Was Thinking Of](https://open.spotify.com/track/45hfMaXmzdvEt92BeCdu8f) | [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D) | [Opening Act](https://open.spotify.com/album/5YbOpTHfXOAe90CJobDHp0) | 3:58 | 2022-06-10 |  |
+| [Ascent](https://open.spotify.com/track/4i6XRMX1DRgJVZIRHjGHYe) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Arjun K\. Verma](https://open.spotify.com/artist/7zRwN2RRNF3NJ0YjBprXDk), [Del Sol Quartet](https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Ascent](https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS) | 1:59 | 2023-08-23 |  |
 | [Awakening The Soul 2](https://open.spotify.com/track/6cqkxzLZNglEN65Kt5hCMF) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Moods of Yoga \- Asana](https://open.spotify.com/album/7g7ZeAYpbui7XaEEgea1qH) | 17:21 | 2022-06-10 |  |
 | [Back to One](https://open.spotify.com/track/4yEXxzaeY1QfEfRVXTNqi9) | [Chris Jason](https://open.spotify.com/artist/2V2s3Ojx8fA8C0kZhyWmkl) | [Back to One](https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28) | 3:10 | 2022-06-10 |  |
 | [Bageshri](https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 8:11 | 2022-06-10 |  |

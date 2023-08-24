@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Carmen Sánchez Viamonte\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,842 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,920 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,28 +35,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 25 | [Enloqueciendo](https://open.spotify.com/track/7DjgJCvcx22XyZ5ounl1ml) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Esteban Sterling](https://open.spotify.com/artist/2I6Q1wQDqpRXkLeLR8w9oe) | [Enloqueciendo](https://open.spotify.com/album/0RlEealRuqOhv0HvnAryUF) | 4:05 |
 | 26 | [Otra Manera](https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:13 |
 | 27 | [Astronauta](https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Polos Vol\. II](https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV) | 3:52 |
-| 28 | [Dime](https://open.spotify.com/track/19mB6i7AW9Fu8Fa6WT4dSR) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Dime](https://open.spotify.com/album/5zpToVFpV0fWUuZAbLoG4X) | 2:42 |
-| 29 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 |
-| 30 | [Universitario de Deportes](https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Camino al Infierno Esta Lleno de Buenas Intenciones](https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj) | 1:56 |
-| 31 | [Entrá](https://open.spotify.com/track/7nCEobOjhCLue88XZzhpzF) | [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2), [YOUNG KALIF](https://open.spotify.com/artist/0qLJUMYyKwh1nLfzczCzPi), [MIRACALI](https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG) | [Entrá](https://open.spotify.com/album/4yjujCVjUjlFxIpu4OaYh1) | 3:11 |
-| 32 | [Pedazos](https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Pedazos](https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd) | 2:57 |
-| 33 | [Anime](https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Anime](https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR) | 2:39 |
+| 28 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 |
+| 29 | [Dime](https://open.spotify.com/track/19mB6i7AW9Fu8Fa6WT4dSR) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Dime](https://open.spotify.com/album/5zpToVFpV0fWUuZAbLoG4X) | 2:42 |
+| 30 | [Entrá](https://open.spotify.com/track/7nCEobOjhCLue88XZzhpzF) | [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2), [YOUNG KALIF](https://open.spotify.com/artist/0qLJUMYyKwh1nLfzczCzPi), [MIRACALI](https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG) | [Entrá](https://open.spotify.com/album/4yjujCVjUjlFxIpu4OaYh1) | 3:11 |
+| 31 | [Universitario de Deportes](https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Camino al Infierno Esta Lleno de Buenas Intenciones](https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj) | 1:56 |
+| 32 | [Anime](https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Anime](https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR) | 2:39 |
+| 33 | [Pedazos](https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Pedazos](https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd) | 2:57 |
 | 34 | [Amar](https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK) | [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr) | [Amar](https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531) | 4:00 |
 | 35 | [La Vida No Quiso](https://open.spotify.com/track/0Fbi1j0XLOqJgPu52qul4w) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [La Vida No Quiso](https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz) | 3:36 |
 | 36 | [5 MENOS 1](https://open.spotify.com/track/7vXuhIc6HzLoR2ix3OGDkS) | [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn) | [5 MENOS 1](https://open.spotify.com/album/084qaHSkGU48GZYMAXjqrI) | 2:07 |
 | 37 | [Patio de Adelante](https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa) | [Playa Gótica](https://open.spotify.com/artist/1l4eyzytKntvPlHMCyPkKz) | [Patio de Adelante](https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj) | 3:56 |
 | 38 | [Lima](https://open.spotify.com/track/0UyCfILValztCwbv4DmbXX) | [Malen](https://open.spotify.com/artist/2T3sYqqFKWb8v6eAneWEfP) | [Lima](https://open.spotify.com/album/30BjQ0xLtsv7YK53zd2V0e) | 2:18 |
-| 39 | [Tantas cosas que decir](https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K) | [PLEITØ](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS) | [4 x el desamor](https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr) | 3:01 |
-| 40 | [Sola](https://open.spotify.com/track/3fqCowFYUnGI63qmxrrmmS) | [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Cariño](https://open.spotify.com/album/5BRqHpMjkqHfdlFa2O397S) | 3:25 |
+| 39 | [Sola](https://open.spotify.com/track/3fqCowFYUnGI63qmxrrmmS) | [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Cariño](https://open.spotify.com/album/5BRqHpMjkqHfdlFa2O397S) | 3:25 |
+| 40 | [Tantas cosas que decir](https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K) | [PLEITØ](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS) | [4 x el desamor](https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr) | 3:01 |
 | 41 | [Azar](https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v) | [Abril Alconada](https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0) | [Encandilante divino](https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH) | 2:43 |
 | 42 | [Sal](https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Sal](https://open.spotify.com/album/3MtbOxFsx48CrminzLGCWZ) | 4:01 |
 | 43 | [En el dolor también hay dios](https://open.spotify.com/track/6ZUCiqcbTFd2fPbDYz9xNi) | [Max Valdés](https://open.spotify.com/artist/4aDtvnSRjsWzbXZFQTnDwY) | [En el dolor también hay dios](https://open.spotify.com/album/26utTCFELgXMcQM9yguHEW) | 3:44 |
 | 44 | [Sad Brillo](https://open.spotify.com/track/70D1DWrZqhxtiBNCs9LC8d) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Sad Brillo](https://open.spotify.com/album/4eN5vemrQsubJb5HVFPHbv) | 3:02 |
 | 45 | [TANTO PA' TI](https://open.spotify.com/track/22mzH72Vzv9W8G7yLIteUP) | [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [TANTO PA' TI](https://open.spotify.com/album/6o6TomNm8GemmUvEEKCt7b) | 2:16 |
 | 46 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
-| 47 | [Vuela](https://open.spotify.com/track/7nYRji38aKuawtCuYA3UpY) | [Shonny](https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft), [El Hijo del Búho](https://open.spotify.com/artist/3BPsGSg0myf7H0FCEeYqeq) | [Vuela](https://open.spotify.com/album/3NdPugHTrcBfSYc4SOjTg0) | 3:21 |
-| 48 | [Una Flor Reverberada \(Revienta\)](https://open.spotify.com/track/5fhnqS7dG8RmA1y2bg4CNA) | [nxrman](https://open.spotify.com/artist/7KvzBXGXq71C78oD80xJyK) | [Salí de la Depresión y Escribí Esto \(Interludio\)](https://open.spotify.com/album/0m8dJFFCwAqRG3aGLa7VWU) | 5:14 |
+| 47 | [Una Flor Reverberada \(Revienta\)](https://open.spotify.com/track/5fhnqS7dG8RmA1y2bg4CNA) | [nxrman](https://open.spotify.com/artist/7KvzBXGXq71C78oD80xJyK) | [Salí de la Depresión y Escribí Esto \(Interludio\)](https://open.spotify.com/album/0m8dJFFCwAqRG3aGLa7VWU) | 5:14 |
+| 48 | [Vuela](https://open.spotify.com/track/7nYRji38aKuawtCuYA3UpY) | [Shonny](https://open.spotify.com/artist/70axD2kGUWcyWjZAGAtgft), [El Hijo del Búho](https://open.spotify.com/artist/3BPsGSg0myf7H0FCEeYqeq) | [Vuela](https://open.spotify.com/album/3NdPugHTrcBfSYc4SOjTg0) | 3:21 |
 | 49 | [Fandango Frío](https://open.spotify.com/track/5yGJk7JAQfRAwCOsTQO21C) | [Anamaría Oramas](https://open.spotify.com/artist/44lOzk6pde1fCFa4zTQKsN), [Santiago Sandoval](https://open.spotify.com/artist/2YOId4xhJSesO3AAd0vSsl) | [Fandango Frío](https://open.spotify.com/album/4wwAcEEWUtA0XxfpOC6q75) | 6:03 |
 | 50 | [Nuevo Mundo](https://open.spotify.com/track/4VTMfxqu3lZUxYxey8N3rX) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Nuevo Mundo](https://open.spotify.com/album/3BpGRweJxhKdJBWAG0usMC) | 3:23 |
 
-Snapshot ID: `MCw1OTc0YWNiOGYzZmY2YmFiNWY0MjI1OGVjNmJmOTNlYThiNGM3MDc0`
+Snapshot ID: `MCw1NzBmYjhmYTVjNmY0ZTAxMzExOWQzNTZiMjVlNjZiYzhkMTNhZDFl`

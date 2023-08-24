@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,217 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,247 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 |
 | 49 | [Ice Spice](https://open.spotify.com/track/5urWEm3xpFTiek4qSHouQZ) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE) | [Ice Spice](https://open.spotify.com/album/1uvDNSW0TUyxkcfyLyZJtC) | 2:09 |
 
-Snapshot ID: `MCxlN2I5ODllNTkwZmE1ODFkZmRjMjhiOTBjNDFlZDBhMDE4M2NkMjRk`
+Snapshot ID: `MCxhMGI4YjM3ZWM2ZjI0ZDA0MWVkYmE4YjEzNDFmMjAwMmEyMDQzYjEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,991 likes - 91 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,049 likes - 91 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 | 55 | [Backlash \- Martin Garrix Radio Edit](https://open.spotify.com/track/1g99YoPWqouj3VYbUh8H2g) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Backlash \(Martin Garrix Edit\)](https://open.spotify.com/album/3VcOjUlRbGsrR3z3muJoWH) | 2:52 |
 | 56 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 |
 | 57 | [WIEE \(feat\. Mesto\)](https://open.spotify.com/track/0Y2QWrhPh6ATyaWYT0QLIR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:23 |
-| 58 | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/track/5M9jOReAKGZ2AttVefFjTY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/album/7e4eCJT5ON1FpJD5Si341e) | 3:43 |
+| 58 | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/track/5M9jOReAKGZ2AttVefFjTY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/album/7e4eCJT5ON1FpJD5Si341e) | 3:43 |
 | 59 | [Glad You Came](https://open.spotify.com/track/7xHfguzndSR2jOpMxzqh3r) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Glad You Came](https://open.spotify.com/album/0ESVw2RSkkBnJrSAnuxMuK) | 2:32 |
 | 60 | [There for You](https://open.spotify.com/track/6jA8HL9i4QGzsj6fjoxp8Y) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [There for You](https://open.spotify.com/album/0OK35duHpTPnvqya2d4pnn) | 3:41 |
 | 61 | [Now That I've Found You](https://open.spotify.com/track/24tVqMiAtv8jmpNPhBEsDY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [Michel Zitron](https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw) | [Now That I've Found You](https://open.spotify.com/album/38DkYeBW88ThKrbi21eRLB) | 3:12 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 | 90 | [Error 404](https://open.spotify.com/track/3IrPSIZXepPwIoKLQ4ADad) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Error 404](https://open.spotify.com/album/5FmOWKM0D2K4awi5bAwIwn) | 5:33 |
 | 91 | [Tremor \- Sensation 2014 Anthem](https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:54 |
 
-Snapshot ID: `MCxjMDRiNmY0NjllYmYwNzRkNjZmYjQyNDcwMDZmYWFjYjI4MThjMmI5`
+Snapshot ID: `MCw2YjM3YjMzYzYyMTI0ZDY3YTEwODQxZmVhZTc1YTBkMWYzNDIzOWE4`

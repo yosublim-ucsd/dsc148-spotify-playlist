@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-69 songs - 6 hr 16 min
+70 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Skyscrapers \- Locked Groove Belgium Mix](https://open.spotify.com/track/2HPjHWRhmsqnXtsnO1EUmr) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Locked Groove](https://open.spotify.com/artist/0Dc7CbTE5mcvrprttS6GDs) | [Skyscrapers \(Locked Groove Belgium Mix\)](https://open.spotify.com/album/293nfNaAGWQkK3PZRCSMex) | 5:57 | 2023-02-16 |  |
 | [SL4](https://open.spotify.com/track/545OWhzD8boaIwdce0i0ik) | [CRAVO](https://open.spotify.com/artist/4l7liyRNaTKf4qDz53DLvf) | [Sharp Loops](https://open.spotify.com/album/6THB9nyrkjrRRjpZkogxDi) | 5:21 | 2023-02-16 |  |
 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 | 2023-02-16 |  |
-| [Spice](https://open.spotify.com/track/5TkXbPJuV9LJVi9LpYGfvY) | [Neil Landstrumm](https://open.spotify.com/artist/2Dv40C26DYmaTgCFGjqlTU), [Legacy](https://open.spotify.com/artist/01tH3jrKOXWyoFfBlrvzuW), [Tina P](https://open.spotify.com/artist/4FoMKevlJ96WC3kzgKEVRV) | [Yell Yell](https://open.spotify.com/album/6Pw4lUSiZ3y5tChcxW2Ccc) | 3:29 | 2023-02-16 |  |
+| [Spice](https://open.spotify.com/track/21TAXXTUTozIrUzOHxV7ao) | [Neil Landstrumm](https://open.spotify.com/artist/2Dv40C26DYmaTgCFGjqlTU), [Legacy](https://open.spotify.com/artist/01tH3jrKOXWyoFfBlrvzuW), [Tina P](https://open.spotify.com/artist/4FoMKevlJ96WC3kzgKEVRV) | [Yell Yell](https://open.spotify.com/album/1qhQNQLBvQCZYFqvzzBeTl) | 3:29 | 2023-08-11 |  |
+| [Spice](https://open.spotify.com/track/5TkXbPJuV9LJVi9LpYGfvY) | [Neil Landstrumm](https://open.spotify.com/artist/2Dv40C26DYmaTgCFGjqlTU), [Legacy](https://open.spotify.com/artist/01tH3jrKOXWyoFfBlrvzuW), [Tina P](https://open.spotify.com/artist/4FoMKevlJ96WC3kzgKEVRV) | [Yell Yell](https://open.spotify.com/album/6Pw4lUSiZ3y5tChcxW2Ccc) | 3:29 | 2023-02-16 | 2023-08-24 |
 | [Sputtering](https://open.spotify.com/track/5VAALEdmKUFOkCl7M0R4Do) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82), [DJ Sotofett](https://open.spotify.com/artist/6XKpS1uSV0qmFmeyZO6mzp) | [Sputters](https://open.spotify.com/album/1uDLHtKvJS3tf2FVJ0pVV4) | 3:36 | 2023-02-16 |  |
 | [Starz](https://open.spotify.com/track/0tbtAd8TDRmHKbuPTolInF) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 8:04 | 2023-02-16 |  |
 | [superintelligence](https://open.spotify.com/track/52xg432SxRBoRV7YNhltkI) | [X\-Dream](https://open.spotify.com/artist/2Wmyxn5qWyLPWKeEMmJKHc) | [Locus Error](https://open.spotify.com/album/2tFkUn6aftaPWDUZhn8xDl) | 5:28 | 2023-03-24 | 2023-07-28 |

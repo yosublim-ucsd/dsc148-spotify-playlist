@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,615 songs - 5 day 18 hr 34 min
+3,616 songs - 5 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Balconia](https://open.spotify.com/track/6bK3vaE8H5miE0gaIIOFoc) | [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT), [SkiDs](https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Balconia](https://open.spotify.com/album/2uOAfAGiPWVZwg63FTVs7L) | 1:46 | 2022-01-27 | 2022-09-28 |
 | [Balcony Vibes](https://open.spotify.com/track/3qfu4A3XzXzx9fY2eXRsLj) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Balcony Vibes](https://open.spotify.com/album/1xq1PH0YOL6ULbcxkMTmkl) | 2:15 | 2020-04-24 | 2020-12-04 |
 | [Balcony Vibes Vol\. 2](https://open.spotify.com/track/6aBWsbq9Kg7D1u1atCbCvT) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Balcony Vibes Vol\. 2](https://open.spotify.com/album/7Gdys8YDamuk2SuAj77yhJ) | 2:55 | 2021-08-27 | 2021-12-24 |
+| [Bali](https://open.spotify.com/track/4GTx5ce46I727hO7AmTwf0) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Bali](https://open.spotify.com/album/6wt7ZVmCSkSojsGJjsff15) | 2:14 | 2023-08-17 |  |
 | [Ballads for Backgrounds](https://open.spotify.com/track/0o7YSyPeTwuZXi4rn7NDlB) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Ballads for Backgrounds](https://open.spotify.com/album/0cYEB8Ect5E84EeDxucyEK) | 2:02 | 2019-12-20 | 2020-04-24 |
 | [Ballena Bar](https://open.spotify.com/track/0jcD3aPna9hVxTmeosFt8N) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Ballena Bar](https://open.spotify.com/album/46N0QcCTeUIxqjWXqbnuLW) | 1:45 | 2020-06-09 | 2020-08-08 |
 | [ballin](https://open.spotify.com/track/1sL9EukureVOZOrx69SiWB) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Sechs](https://open.spotify.com/album/6m7u6Qi8hF8ENugh1fdiXN) | 2:07 | 2020-01-17 | 2020-05-08 |
@@ -1489,7 +1490,7 @@
 | [It's Like](https://open.spotify.com/track/5KxeUIVoQj2OGG0j1WRQoV) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [It's Like](https://open.spotify.com/album/3oBrEMQRMiF1nNlrmDBSxo) | 2:19 | 2021-02-26 | 2021-04-23 |
 | [It's Not Just Me](https://open.spotify.com/track/2XrXZ0DH1mqspN4mZWEp05) | [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ), [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [It's Not Just Me](https://open.spotify.com/album/6kH8vRc89EBSXfHCl2TJ6E) | 2:51 | 2022-11-17 |  |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2019-05-26\* | 2020-03-13 |
-| [It's Only Tuesday](https://open.spotify.com/track/0jD2Eou8plHycp7qYNHK8R) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [It's Only Tuesday](https://open.spotify.com/album/5AYgTRkJPuEhT6GlMolzem) | 1:36 | 2022-12-08 |  |
+| [It's Only Tuesday](https://open.spotify.com/track/0jD2Eou8plHycp7qYNHK8R) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [It's Only Tuesday](https://open.spotify.com/album/5AYgTRkJPuEhT6GlMolzem) | 1:36 | 2022-12-08 | 2023-08-24 |
 | [It's Our Time](https://open.spotify.com/track/4MeXAGHd3SYAgfx8YsTveT) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [It's Our Time](https://open.spotify.com/album/09UD4G7JXUqrXZYlq0Sq8n) | 2:08 | 2021-07-04 |  |
 | [It's Over](https://open.spotify.com/track/6yTMI32z4U5KMw8wsr7kcJ) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [It's Over](https://open.spotify.com/album/1NvbnubkNHo7zNnnccwvGn) | 2:14 | 2021-07-10 | 2021-09-17 |
 | [It's Raining Again](https://open.spotify.com/track/7KY5EBob4whjQ8oZBkkLTi) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [It's Raining Again](https://open.spotify.com/album/7iexRR9CMdWO8UcmXxkmlY) | 2:02 | 2019-07-26 | 2019-07-30 |

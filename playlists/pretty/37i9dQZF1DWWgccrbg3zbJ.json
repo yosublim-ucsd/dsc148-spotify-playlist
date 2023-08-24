@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 135157,
+  "num_followers": 135528,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzg1OTZhNzBmZWFlNjMwYjA0ZTMyNmM1NjdkNzU0Y2M4NjhhZGQz",
+  "snapshot_id": "MCw2N2NkMmIzZjhlM2Q2ZDBlN2I5Y2Y4NmRjZGI2OGFkZDEwODk3Mzc0",
   "tracks": [
     {
       "added_at": "2023-08-22 09:26:27",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-22 09:26:27",
       "album": {
-        "name": "Blue Note Trip 7: Birds / Beats",
-        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 135093,
-      "name": "A R\u00e3",
-      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
-    },
-    {
-      "added_at": "2023-08-22 09:26:27",
-      "album": {
         "name": "Gilbertos Samba",
         "url": "https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 242493,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/3Vjr3IYUWrhfcM1rmOXaIn"
+    },
+    {
+      "added_at": "2023-08-22 09:26:27",
+      "album": {
+        "name": "Blue Note Trip 7: Birds / Beats",
+        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "A R\u00e3",
+      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
     },
     {
       "added_at": "2023-08-22 09:26:27",

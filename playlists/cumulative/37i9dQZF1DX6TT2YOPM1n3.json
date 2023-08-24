@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Mera Sawera",
+        "url": "https://open.spotify.com/album/72RLlXLJPNfjAygCfLPSRN"
+      },
+      "artists": [
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Mera Sawera",
+      "url": "https://open.spotify.com/track/6MYdDETIIxZmbwlWYofhNJ"
+    },
+    {
+      "album": {
         "name": "Mere Humsafar (Original Score) [Female Version]",
         "url": "https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M"
       },

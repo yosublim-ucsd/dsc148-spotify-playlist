@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain]
 
 > Where all Hamilton music coexists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,521 likes - 72 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,629 likes - 72 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain]
 | 50 | [Ben Franklin's Song](https://open.spotify.com/track/7aD6Q1DO3rlUFT6s7y4fGx) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Ben Franklin's Song](https://open.spotify.com/album/54BSWfXrnag2Dy2SZsiqN9) | 3:43 |
 | 51 | [No John Trumbull \- Intro](https://open.spotify.com/track/2XxeRadxMDJQX8R9wOKR61) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 0:46 |
 | 52 | [My Shot \(feat\. Busta Rhymes, Joell Ortiz & Nate Ruess\) \- Rise Up Remix](https://open.spotify.com/track/7ElYuU4c2EVqtLpCBst0au) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Joell Ortiz](https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 4:30 |
-| 53 | [Wait For It](https://open.spotify.com/track/3ZV6Ry07586w52Wy1cLbLL) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 3:28 |
+| 53 | [Wait For It](https://open.spotify.com/track/3ZV6Ry07586w52Wy1cLbLL) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 3:28 |
 | 54 | [An Open Letter \(feat\. Shockwave\) \- Interlude](https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi), [Shockwave](https://open.spotify.com/artist/5F5mv4CeDI2styBTkko6zo) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 1:08 |
 | 55 | [Satisfied \(feat\. Miguel & Queen Latifah\)](https://open.spotify.com/track/3VyxvhpCUNVTvPO2B46lsa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 5:18 |
 | 56 | [Dear Theodosia \(feat\. Ben Folds\)](https://open.spotify.com/track/1fq4k7G5kYqUvKIuEmFAAo) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i), [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 2:25 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain]
 | 71 | [Who Tells Your Story \(feat\. Common & Ingrid Michaelson\)](https://open.spotify.com/track/2KxJv4AduPGxzI5NH2HUoC) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 4:13 |
 | 72 | [Dear Theodosia \- Reprise](https://open.spotify.com/track/0EPhiIcssW3jLKcGL8zYfl) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 3:39 |
 
-Snapshot ID: `MCw5MmIwM2U3M2ViNmJlMWYwNzY3MjcyMzFmNzRiMWRlZjI2NTBjYmZj`
+Snapshot ID: `MCxiYjNkNjJiOWE0ZTkxMTEwODIzMDM5MzY4MjMyOTAzNTk0MTI2ZTYz`

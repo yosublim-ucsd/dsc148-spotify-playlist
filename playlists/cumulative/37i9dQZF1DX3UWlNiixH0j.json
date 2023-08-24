@@ -2146,6 +2146,32 @@
     {
       "album": {
         "name": "Dreamin'",
+        "url": "https://open.spotify.com/album/1KXZlPBV0JQRaHUpeC3JLA"
+      },
+      "artists": [
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        },
+        {
+          "name": "\u2606Taku Takahashi",
+          "url": "https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216399,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/3ESbnlo4XUDRUDwrnVWoSf"
+    },
+    {
+      "album": {
+        "name": "Dreamin'",
         "url": "https://open.spotify.com/album/6ImRrwcju6WaamGf1rB1c1"
       },
       "artists": [
@@ -2164,7 +2190,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 216399,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/6a13rb1GU3U0RuujE0UgjB"
@@ -7899,6 +7925,24 @@
     },
     {
       "album": {
+        "name": "Television",
+        "url": "https://open.spotify.com/album/1Me0U6nBnqp7xjVAEFVFDJ"
+      },
+      "artists": [
+        {
+          "name": "Yamafutatsu",
+          "url": "https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Surf's Up",
+      "url": "https://open.spotify.com/track/1ZTBUub7HR1rcJYZ4QBIp8"
+    },
+    {
+      "album": {
         "name": "\u30c6\u30ec\u30d3",
         "url": "https://open.spotify.com/album/3qA0shjFErqRcQqSdvgbKY"
       },
@@ -7910,7 +7954,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 154000,
       "name": "Surf\u2019s Up",
       "url": "https://open.spotify.com/track/6IPqGO0lhR4PJdITWvyrFT"
@@ -9225,6 +9269,24 @@
     },
     {
       "album": {
+        "name": "WINDY",
+        "url": "https://open.spotify.com/album/3teMmUoBnAmJqvst0gLkqj"
+      },
+      "artists": [
+        {
+          "name": "TakehisaChiba",
+          "url": "https://open.spotify.com/artist/6tNEkLN7enKAv3isBXiyuu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "WINDY",
+      "url": "https://open.spotify.com/track/2GGwHjUWlf4oRzbo3bqvpB"
+    },
+    {
+      "album": {
         "name": "we are the tiva 2",
         "url": "https://open.spotify.com/album/7aJijMfdNjvuJdtyFzJA1U"
       },
@@ -10514,7 +10576,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 222000,
       "name": "\u30a6\u30a3\u30f3\u30c7\u30a3\u30fc",
       "url": "https://open.spotify.com/track/0QI2f7Fb9EoWkQc0C2Qg0k"
@@ -12334,7 +12396,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 228452,
       "name": "\u5e30\u308d\u3046",
       "url": "https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3"
@@ -14312,7 +14374,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 249540,
       "name": "\u98db\u6765",
       "url": "https://open.spotify.com/track/1jHC0WboNCLXCNOFJ9lsjZ"

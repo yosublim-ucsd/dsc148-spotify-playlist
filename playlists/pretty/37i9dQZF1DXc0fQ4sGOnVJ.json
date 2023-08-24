@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150049,
+  "num_followers": 150060,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGU0MWIxYzkzMGQ0YzliZjVkNjY1MDU5NjczMjU1NjVjZTBiYzI5",
+  "snapshot_id": "MCw5MGZhZmVjMDdmNzU2OTczMDU0YmJkMjg5ZWZiNmEzOTY0OTZmNzg4",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
+        "name": "Dirt Road",
+        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 165041,
+      "name": "Dirt Road",
+      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
         "name": "Hog Heaven",
         "url": "https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 282000,
       "name": "Backroads Life (feat. The Lacs)",
       "url": "https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Dirt Road",
-        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 165041,
-      "name": "Dirt Road",
-      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Dirt Road Revival",
-        "url": "https://open.spotify.com/album/4pWCmw4I5E9tBFbJ6noURB"
+        "name": "Slow Cookin' & Soul Food: The 2 Piece Combo",
+        "url": "https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC"
       },
       "artists": [
         {
-          "name": "Charlie Farley",
-          "url": "https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk"
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
         }
       ],
-      "duration_ms": 194064,
-      "name": "Southern Boy",
-      "url": "https://open.spotify.com/track/3fdSYv0zOMlcKe2jkybFBJ"
+      "duration_ms": 208189,
+      "name": "Slow Cookin'",
+      "url": "https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX"
     }
   ],
   "unique_name": "Field Party",

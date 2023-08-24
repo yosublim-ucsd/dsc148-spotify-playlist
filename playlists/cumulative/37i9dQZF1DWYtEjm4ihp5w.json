@@ -378,7 +378,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 255390,
       "name": "CALLE",
       "url": "https://open.spotify.com/track/5UpwX7ibkJrMJjBzK3Odya"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 200816,
       "name": "Ghi Lmachakil",
       "url": "https://open.spotify.com/track/1QVsVIfgVf7L2AdfkGP9d4"
@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "HKZ GANG V2",
+        "url": "https://open.spotify.com/album/7zCD2W5LfZ1h68oM33gACn"
+      },
+      "artists": [
+        {
+          "name": "Clemando",
+          "url": "https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182395,
+      "name": "HKZ GANG V2",
+      "url": "https://open.spotify.com/track/055mtpjA761fk09YyAXAoF"
+    },
+    {
+      "album": {
         "name": "IMPOLIS",
         "url": "https://open.spotify.com/album/1P3TKXMtmi3zKLPCYzNUYU"
       },
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 156329,
       "name": "KADAWINI",
       "url": "https://open.spotify.com/track/4x2OMxe81I4HoJjGsq5SC4"
@@ -1616,6 +1634,28 @@
       "duration_ms": 180946,
       "name": "MARK",
       "url": "https://open.spotify.com/track/7xuoic8xwZtXu6iK2HAjTZ"
+    },
+    {
+      "album": {
+        "name": "I HATE SUMMER",
+        "url": "https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188030,
+      "name": "MGHAMER",
+      "url": "https://open.spotify.com/track/0KSNoWPksTnUbKivbxpVhc"
     },
     {
       "album": {
@@ -2620,6 +2660,24 @@
       "duration_ms": 198415,
       "name": "Uno Dos Tres",
       "url": "https://open.spotify.com/track/36qTNWXDs4ky3BfNilyltW"
+    },
+    {
+      "album": {
+        "name": "VISA",
+        "url": "https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly"
+      },
+      "artists": [
+        {
+          "name": "Flooky",
+          "url": "https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124615,
+      "name": "VISA",
+      "url": "https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si"
     },
     {
       "album": {

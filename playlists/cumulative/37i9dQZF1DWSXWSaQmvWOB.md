@@ -2,9 +2,9 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of soul\-infused music! Cover: Leon Bridges
+> Your daily dose of soul\-infused music! Cover: Joy Denalane
 
-744 songs - 1 day 21 hr 47 min
+746 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Compromise](https://open.spotify.com/track/2AmHr7dwgdScxcufpT9IGS) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Compromise](https://open.spotify.com/album/6hTEaFkI5nlsKZTu6PhDZb) | 4:06 | 2021-05-21 | 2022-07-23 |
 | [Concorde](https://open.spotify.com/track/1SJGHveCOfrS364qHbBAS8) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Concorde](https://open.spotify.com/album/15RONh5tqAmMlvUVwfxqti) | 3:54 | 2020-08-25 | 2020-12-11 |
 | [Consider Me](https://open.spotify.com/track/6teOha7bnsAlYIdXQuXA1o) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/7o0PzwnZXAyq3LtvV2JE2x) | 3:04 | 2020-03-25\* | 2020-03-27 |
+| [Crazy](https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Crazy](https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28) | 3:15 | 2023-08-23 |  |
 | [Crazy For You](https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [Crazy For You](https://open.spotify.com/album/6kiv0BqEcRjmm7Ef4JYWKd) | 2:46 | 2023-07-10 |  |
 | [Crazy Good](https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxanne](https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c) | [Crazy Good](https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3) | 3:51 | 2020-07-03 | 2021-09-24 |
 | [Crescent Moon](https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Crescent Moon](https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS) | 3:19 | 2022-07-28 | 2023-03-03 |
@@ -141,7 +142,7 @@
 | [Dancing Away In Tears](https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:48 | 2021-07-30 | 2021-10-29 |
 | [DARKEST HOUR \(feat\. Poppy Ajudha & Daley\)](https://open.spotify.com/track/0kNwepIaZN7pFeDZ6qYSks) | [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [DARKEST HOUR \(feat\. Poppy Ajudha & Daley\)](https://open.spotify.com/album/2Wo5mwLbcU1FDYhcHy7Rnx) | 4:27 | 2021-08-06 | 2022-07-29 |
 | [Daylight](https://open.spotify.com/track/0cVrv8dZAhs19LKGX61EvS) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Daylight](https://open.spotify.com/album/3NdmyGu5zVDaihh0BGFnNx) | 3:52 | 2020-04-24 | 2020-10-09 |
-| [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 | 2023-01-28 |  |
+| [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 | 2023-01-28 | 2023-08-24 |
 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-29 | 2023-02-18 |
 | [deeper](https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [deeper / stoned love](https://open.spotify.com/album/4AHLaggnEuQA4rbv5xG3hG) | 4:39 | 2022-07-07 | 2022-09-13 |
 | [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 | 2022-09-29 | 2023-06-08 |
@@ -595,7 +596,8 @@
 | [Still](https://open.spotify.com/track/0H8VPq7MtL29JOI3rtO6bc) | [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [Still](https://open.spotify.com/album/1Scr6kniX8lYs84lGKfga4) | 2:26 | 2022-05-12 | 2022-07-29 |
 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/22lLqAMQOysHjy4iojDSmE) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/album/4C88dLvxhgzErXeL2ZZVBW) | 3:25 | 2021-05-14 | 2021-12-01 |
 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-03-02 | 2023-06-08 |
-| [Still Here](https://open.spotify.com/track/1hIoyKIpoHYHdF30hheNN2) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Still Here](https://open.spotify.com/album/6YODvhTyUWPOQDeDbHdXm0) | 2:46 | 2023-08-15 |  |
+| [Still Here](https://open.spotify.com/track/1hIoyKIpoHYHdF30hheNN2) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Still Here](https://open.spotify.com/album/6YODvhTyUWPOQDeDbHdXm0) | 2:46 | 2023-08-15 | 2023-08-24 |
+| [Still Here](https://open.spotify.com/track/2jBqINRBrOjPpLD2Mtw4XW) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 2:46 | 2023-08-23 |  |
 | [Stories \- Blue Lab Beats Remix](https://open.spotify.com/track/0bUmmhZrae79ohOrmE2gm7) | [Full Flava](https://open.spotify.com/artist/5t5JR8OaTz7lsKo9xFKnl3), [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [Stories \(Blue Lab Beats Remix\)](https://open.spotify.com/album/72GcUvSlBYfogW44g97cSQ) | 4:05 | 2020-11-06 | 2020-12-11 |
 | [Story Starts Today](https://open.spotify.com/track/1MHelwASBBLimX8lgto9nP) | [Wouter Hamel](https://open.spotify.com/artist/7eK4wPcMgmSIxcGBS2lJl0), [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Story Starts Today](https://open.spotify.com/album/5jd91JY8okLP87MvYAse2L) | 3:26 | 2020-11-28 | 2021-04-17 |
 | [Strawberry Blush \(feat\. Free Nationals\)](https://open.spotify.com/track/7wIZ3CXR08DPLR8G0uk210) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 | 2022-09-12 | 2022-09-30 |

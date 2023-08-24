@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-179 songs - 9 hr 56 min
+180 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2020-12-01 |  |
 | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Hold Space For Me](https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB) | 2:48 | 2020-12-01 |  |
 | [Next To You](https://open.spotify.com/track/081hXBEkvg9ZMUmzBIFPor) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:52 | 2020-12-01 | 2023-05-13 |
-| [Next To You](https://open.spotify.com/track/2Ahtup0oSl1OZVl4325JGU) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next To You](https://open.spotify.com/album/7IJEZ5dBc1Kqo3mDUinEFs) | 3:52 | 2020-12-01 |  |
+| [Next To You](https://open.spotify.com/track/2Ahtup0oSl1OZVl4325JGU) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next To You](https://open.spotify.com/album/7IJEZ5dBc1Kqo3mDUinEFs) | 3:52 | 2020-12-01 | 2023-08-24 |
+| [Next To You](https://open.spotify.com/track/53p449MFvBgnMCsYGAJK2F) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/3jRtKUrldJlJDW7r8hYh26) | 3:52 | 2020-12-01 |  |
 | [Next to You](https://open.spotify.com/track/6KCwPQApuQNQEV0hw93duq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next to You](https://open.spotify.com/album/1TdEFwpJ5LAmfdFNSjdok3) | 3:52 | 2020-12-01 | 2022-07-29 |
 | [Note To Self](https://open.spotify.com/track/72KsNIxvoOKMGpFSe55PCO) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Note To Self](https://open.spotify.com/album/41LVhTarQ3tlu9fKaprxoq) | 2:17 | 2020-12-01 | 2022-11-13 |
 | [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 | 2020-12-01 |  |

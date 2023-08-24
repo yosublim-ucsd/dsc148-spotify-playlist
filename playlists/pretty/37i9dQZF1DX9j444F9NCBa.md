@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,096 likes - 231 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,584 likes - 231 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,4 +240,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 230 | [Whiter Shade Of Pale](https://open.spotify.com/track/5tad82kRjYxtO4Ed6zvdPT) | [Maya Jackson](https://open.spotify.com/artist/0Fk3a9naiKu7BbE7UgtKfI) | [Whiter Shade Of Pale](https://open.spotify.com/album/4bdQKUBmMXxBCpECgwqTWD) | 2:27 |
 | 231 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 
-Snapshot ID: `MCwyYjk4OGJlYzZmMDNhYzU0NTBiYmQ4N2IxZTJlMDM3YTM1NDZmOGY2`
+Snapshot ID: `MCw3Nzc3N2I3NTU2OGE4NjE4ZmEzNGQ4M2RhMjFjYTJiM2JjNDBmNGYw`

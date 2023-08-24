@@ -452,7 +452,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 350906,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/4HVmE0XxxufxDQYbOTm4f1"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 228666,
       "name": "Lagos Go Slow",
       "url": "https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 274626,
       "name": "Musica",
       "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
@@ -1751,6 +1751,226 @@
     },
     {
       "album": {
+        "name": "Plus jamais Ebola",
+        "url": "https://open.spotify.com/album/4EOZrn6mRdDd4ZHeIKdKhN"
+      },
+      "artists": [
+        {
+          "name": "Monique Seka",
+          "url": "https://open.spotify.com/artist/5PFcIlZRac2ERAYbC09bR4"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Meiwey",
+          "url": "https://open.spotify.com/artist/6xjAhjA1qFqoBFWRMcWX7a"
+        },
+        {
+          "name": "S\u00e9kouba Bambino",
+          "url": "https://open.spotify.com/artist/6KPLx7eXOuyH36d1IlAQ3i"
+        },
+        {
+          "name": "Claudy Siar",
+          "url": "https://open.spotify.com/artist/2Bl3OQCWnY1mxlHOzHCKG0"
+        },
+        {
+          "name": "Fode Baro",
+          "url": "https://open.spotify.com/artist/4QbWaeihWUAER9pZ1MzlXf"
+        },
+        {
+          "name": "A\u00efcha Kon\u00e9",
+          "url": "https://open.spotify.com/artist/5PAmJH8CruQDoydEcCPkbL"
+        },
+        {
+          "name": "Annie Flore Batchiellilys",
+          "url": "https://open.spotify.com/artist/5meXrEZVHaEyyJmlYC5eTg"
+        },
+        {
+          "name": "Barbara Kanam",
+          "url": "https://open.spotify.com/artist/6HAIuUS4d8W4zjDTl6rsaU"
+        },
+        {
+          "name": "Binobin",
+          "url": "https://open.spotify.com/artist/4e7H9CGpFFHOrqv249nT85"
+        },
+        {
+          "name": "Black Kent",
+          "url": "https://open.spotify.com/artist/0cGAKlRsOPxXPZijGW9ZuN"
+        },
+        {
+          "name": "Carolyn Richard",
+          "url": "https://open.spotify.com/artist/5440yqWIX9wEEZ84KgySO2"
+        },
+        {
+          "name": "Charlotte Dipanda",
+          "url": "https://open.spotify.com/artist/3qt4OYC2CeOuVjKtzGMobL"
+        },
+        {
+          "name": "Dany Boss",
+          "url": "https://open.spotify.com/artist/0JBLfAgtQcWlj9BERpnvHP"
+        },
+        {
+          "name": "Dourra Barry",
+          "url": "https://open.spotify.com/artist/3Jf2iPOYSVoCKsiC3HMA64"
+        },
+        {
+          "name": "Kabine Kaabi Kandia Koutyt\u00e9",
+          "url": "https://open.spotify.com/artist/7pFNnQ9n6yL9OTANXFVwTn"
+        },
+        {
+          "name": "Kaka Messager",
+          "url": "https://open.spotify.com/artist/0otkJn1sNwjN7I9fFUC8mg"
+        },
+        {
+          "name": "Kandia Kouyate",
+          "url": "https://open.spotify.com/artist/5360uOindw6F5DjT5y1m0k"
+        },
+        {
+          "name": "Leila Chicot",
+          "url": "https://open.spotify.com/artist/30BfcSJWzhUo4QIlBVJ6PK"
+        },
+        {
+          "name": "Lino Versace",
+          "url": "https://open.spotify.com/artist/7qxPcaQxvbriE658df0zfC"
+        },
+        {
+          "name": "Maya Shane",
+          "url": "https://open.spotify.com/artist/6y7Yo575dOPyVvsl1SYcK1"
+        },
+        {
+          "name": "Mehdy Custos",
+          "url": "https://open.spotify.com/artist/09gHGP7cmr7FXFSSBJUkDx"
+        },
+        {
+          "name": "N'Faly Kouyate",
+          "url": "https://open.spotify.com/artist/5CpFtVVsjdSCfz1vKTPTb9"
+        },
+        {
+          "name": "Oudy",
+          "url": "https://open.spotify.com/artist/33X0yFO5pT1uaqs43ROtG7"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428327,
+      "name": "Plus jamais Ebola, pt. 1 - Extended Version",
+      "url": "https://open.spotify.com/track/0xMqQsKm8UTiBAiq1n5STC"
+    },
+    {
+      "album": {
+        "name": "Plus jamais Ebola",
+        "url": "https://open.spotify.com/album/4EOZrn6mRdDd4ZHeIKdKhN"
+      },
+      "artists": [
+        {
+          "name": "Monique Seka",
+          "url": "https://open.spotify.com/artist/5PFcIlZRac2ERAYbC09bR4"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Meiwey",
+          "url": "https://open.spotify.com/artist/6xjAhjA1qFqoBFWRMcWX7a"
+        },
+        {
+          "name": "S\u00e9kouba Bambino",
+          "url": "https://open.spotify.com/artist/6KPLx7eXOuyH36d1IlAQ3i"
+        },
+        {
+          "name": "Claudy Siar",
+          "url": "https://open.spotify.com/artist/2Bl3OQCWnY1mxlHOzHCKG0"
+        },
+        {
+          "name": "Fode Baro",
+          "url": "https://open.spotify.com/artist/4QbWaeihWUAER9pZ1MzlXf"
+        },
+        {
+          "name": "A\u00efcha Kon\u00e9",
+          "url": "https://open.spotify.com/artist/5PAmJH8CruQDoydEcCPkbL"
+        },
+        {
+          "name": "Annie Flore Batchiellilys",
+          "url": "https://open.spotify.com/artist/5meXrEZVHaEyyJmlYC5eTg"
+        },
+        {
+          "name": "Barbara Kanam",
+          "url": "https://open.spotify.com/artist/6HAIuUS4d8W4zjDTl6rsaU"
+        },
+        {
+          "name": "Binobin",
+          "url": "https://open.spotify.com/artist/4e7H9CGpFFHOrqv249nT85"
+        },
+        {
+          "name": "Black Kent",
+          "url": "https://open.spotify.com/artist/0cGAKlRsOPxXPZijGW9ZuN"
+        },
+        {
+          "name": "Carolyn Richard",
+          "url": "https://open.spotify.com/artist/5440yqWIX9wEEZ84KgySO2"
+        },
+        {
+          "name": "Charlotte Dipanda",
+          "url": "https://open.spotify.com/artist/3qt4OYC2CeOuVjKtzGMobL"
+        },
+        {
+          "name": "Dany Boss",
+          "url": "https://open.spotify.com/artist/0JBLfAgtQcWlj9BERpnvHP"
+        },
+        {
+          "name": "Dourra Barry",
+          "url": "https://open.spotify.com/artist/3Jf2iPOYSVoCKsiC3HMA64"
+        },
+        {
+          "name": "Kabine Kaabi Kandia Koutyt\u00e9",
+          "url": "https://open.spotify.com/artist/7pFNnQ9n6yL9OTANXFVwTn"
+        },
+        {
+          "name": "Kaka Messager",
+          "url": "https://open.spotify.com/artist/0otkJn1sNwjN7I9fFUC8mg"
+        },
+        {
+          "name": "Kandia Kouyate",
+          "url": "https://open.spotify.com/artist/5360uOindw6F5DjT5y1m0k"
+        },
+        {
+          "name": "Leila Chicot",
+          "url": "https://open.spotify.com/artist/30BfcSJWzhUo4QIlBVJ6PK"
+        },
+        {
+          "name": "Lino Versace",
+          "url": "https://open.spotify.com/artist/7qxPcaQxvbriE658df0zfC"
+        },
+        {
+          "name": "Maya Shane",
+          "url": "https://open.spotify.com/artist/6y7Yo575dOPyVvsl1SYcK1"
+        },
+        {
+          "name": "Mehdy Custos",
+          "url": "https://open.spotify.com/artist/09gHGP7cmr7FXFSSBJUkDx"
+        },
+        {
+          "name": "N'Faly Kouyate",
+          "url": "https://open.spotify.com/artist/5CpFtVVsjdSCfz1vKTPTb9"
+        },
+        {
+          "name": "Oudy",
+          "url": "https://open.spotify.com/artist/33X0yFO5pT1uaqs43ROtG7"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416266,
+      "name": "Plus jamais Ebola, pt. 2 - Extended Version",
+      "url": "https://open.spotify.com/track/3V4UD7Ig06dMcbVnnFi4GF"
+    },
+    {
+      "album": {
         "name": "Cubafrica",
         "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
       },
@@ -1846,7 +2066,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 397573,
       "name": "Reggae Makossa",
       "url": "https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o"
@@ -2214,7 +2434,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 423653,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x"
@@ -2232,7 +2452,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 149346,
       "name": "The Panther",
       "url": "https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv"

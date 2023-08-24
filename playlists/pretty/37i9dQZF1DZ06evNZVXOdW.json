@@ -1,15 +1,15 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 5402,
+  "num_followers": 5407,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMTE3NTUsMDAwMDAwMDA2ODk0YTE0YTcxNTI1ZDkwN2U2ZWYzZTAzNTUzYTM4Mw==",
+  "snapshot_id": "MjgyMTMyMjQsMDAwMDAwMDBjMzA1ZWEzYjc0OTRlMjI1MjE2OGIyYmYwY2ZlOGNmYQ==",
   "tracks": [
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Mehram",
         "url": "https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Udhero Na",
         "url": "https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe"
@@ -65,31 +65,7 @@
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
-      "album": {
-        "name": "Love In Exile",
-        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
-        },
-        {
-          "name": "Shahzad Ismaily",
-          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
-        }
-      ],
-      "duration_ms": 486598,
-      "name": "Sajni",
-      "url": "https://open.spotify.com/track/2IsMmLgrMbFjfDFe2Beur5"
-    },
-    {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "KARPEH",
         "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
@@ -113,7 +89,31 @@
       "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
+      "album": {
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
+        }
+      ],
+      "duration_ms": 486598,
+      "name": "Sajni",
+      "url": "https://open.spotify.com/track/2IsMmLgrMbFjfDFe2Beur5"
+    },
+    {
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Siren Islands",
         "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
@@ -145,7 +145,23 @@
       "url": "https://open.spotify.com/track/0RcYcNvHFFLkMb9F0Dku5c"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 232360,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7g4891487QfCuRrENM8vUs"
+    },
+    {
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
@@ -169,23 +185,7 @@
       "url": "https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
-      "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 232360,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/7g4891487QfCuRrENM8vUs"
-    },
-    {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/4VGFLMTNy3jr4Q1JLqV5LL"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Talvar",
         "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
@@ -221,7 +221,23 @@
       "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 497293,
+      "name": "Man Kunto Maula",
+      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
+    },
+    {
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
@@ -245,23 +261,7 @@
       "url": "https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
-      "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 497293,
-      "name": "Man Kunto Maula",
-      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
-    },
-    {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Siren Islands",
         "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
@@ -293,7 +293,23 @@
       "url": "https://open.spotify.com/track/33FLHXMkJplhhT9gino6ad"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 340400,
+      "name": "Aey Na Balam",
+      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
+    },
+    {
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
@@ -317,23 +333,7 @@
       "url": "https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
-      "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Aey Na Balam",
-      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
-    },
-    {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/5kxJ6PiADtz7kxMr9mBYBS"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "SPELLJAMS",
         "url": "https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa"
@@ -373,7 +373,23 @@
       "url": "https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 443200,
+      "name": "Baghon Main Pade Jhoole",
+      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
+    },
+    {
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
@@ -397,23 +413,7 @@
       "url": "https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
-      "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 443200,
-      "name": "Baghon Main Pade Jhoole",
-      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
-    },
-    {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/0SvzXilENkZzu9O1NPGs2K"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Naja",
         "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
@@ -449,7 +449,23 @@
       "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 327373,
+      "name": "Na Ja Balam",
+      "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
+    },
+    {
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
@@ -473,23 +489,7 @@
       "url": "https://open.spotify.com/track/3vIyVXqOTGNtLDoZ2zQ7Hw"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
-      "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 327373,
-      "name": "Na Ja Balam",
-      "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
-    },
-    {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Siren Islands",
         "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/0E4l6jS1tqDw8QCdtoclMz"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Resonant Bodies (Live)",
         "url": "https://open.spotify.com/album/4xZgFllOjdl5xPInHpiUXD"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/5h12CCqstNZAeUJqYeTfCx"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Revolution (Remix)",
         "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Kand",
         "url": "https://open.spotify.com/album/1XWcnBDw4uUpquWF7slHF9"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/76Ijr5E3UvOtzjaNcc3AXx"
     },
     {
-      "added_at": "2023-08-22 11:55:52",
+      "added_at": "2023-08-23 12:24:38",
       "album": {
         "name": "Siren Islands",
         "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"

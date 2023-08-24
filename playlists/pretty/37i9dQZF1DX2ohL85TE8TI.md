@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: King the Land\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 킹더랜드\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,356 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,705 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Stranger Than Heaven](https://open.spotify.com/track/3Noo7yd41ECT5zGv0d97CH) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Palemoon, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5BZ0OztYXhohvFOIwqqRXz) | 3:46 |
 | 100 | [A special day](https://open.spotify.com/track/07LPd1AHtfVCoiA0wU34TB) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [True to Love, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/05cKLsJ399FbbkyVELdcU2) | 2:55 |
 
-Snapshot ID: `MCw5NGE2MTJjNzgzM2IzOWMyOTgxNTk5MWI4MWI4NDZmMzIzZmI1MGE3`
+Snapshot ID: `MCwyNmE3MTE4YTA5YmViYjRlN2Q0YTk3ZTFmZTY0Y2E4NWEwM2Y2OTYy`

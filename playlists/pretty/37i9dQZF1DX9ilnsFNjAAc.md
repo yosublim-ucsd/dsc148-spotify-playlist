@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,402 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,429 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [3ankaboot](https://open.spotify.com/track/3rOdA7uimljndAKhnLG4Lt) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [3ankaboot](https://open.spotify.com/album/4Y5GjjC9uAPHtciumxAo0z) | 3:34 |
+| 1 | [3ankaboot](https://open.spotify.com/track/0GcNfzFjES2UXWeqV2exBD) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [3ankaboot](https://open.spotify.com/album/2Ivx1x1ZgzWGsBrSEEyOeX) | 3:34 |
 | 2 | [Aloe Drip](https://open.spotify.com/track/2Xh3vWOz2mh1TsoYO4afVx) | [GILA](https://open.spotify.com/artist/5PnSe8WPnWtneLiLlsp6FM) | [Energy Demonstration](https://open.spotify.com/album/0u40iGIWdpZj4skJFx9dhT) | 3:21 |
 | 3 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 |
 | 4 | [Wolfish](https://open.spotify.com/track/1kKNgd93PMTekQniB8QNbv) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [Lao](https://open.spotify.com/artist/2zDEnKW6qy7E4M9A2c2YAZ) | [Seguridad](https://open.spotify.com/album/5Jww8BxBhFWAxo49lvAh3Q) | 3:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MCw2ZGE1NTZkYjQ5YjNlZmFkM2QzZmM3MTM4MWZlNmFhZjU1NDA2Zjhh`
+Snapshot ID: `MCw0MGMxMmEwNjg1ODM1NGY1YzUyZjU5YjJiODQ5N2M0Zjg0NmRmYmE1`

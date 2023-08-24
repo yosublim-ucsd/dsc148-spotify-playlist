@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Sreenath Bhasi
 
-95 songs - 5 hr 10 min
+96 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Karukara](https://open.spotify.com/track/3beDYAoq3bQwL2mqlMmslR) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 6:20 | 2022-07-13 | 2023-07-24 |
 | [Kathare Kathare](https://open.spotify.com/track/6h6HZq8FjOZLdlRdgDenf3) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Girish Nakod](https://open.spotify.com/artist/2WrKNI4oe46x5gpMkPPwW2) | [Kathare Kathare](https://open.spotify.com/album/2N9rb8xjUfPG7z3FboJMmn) | 4:13 | 2022-06-23 | 2023-07-24 |
 | [Kilippattu](https://open.spotify.com/track/2BsqpmOiRP2bMRcOGpkQIT) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Kilippattu](https://open.spotify.com/album/2987ZN6ldWDnTomTM8rICN) | 2:33 | 2022-08-29 |  |
+| [King of Kotha \- Title Track](https://open.spotify.com/track/1eDHz1S9HJYfBbI2UW7yvU) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [King of Kotha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44fj4q4kFinawqSkHAebkZ) | 3:02 | 2023-08-23 |  |
 | [KOMB](https://open.spotify.com/track/5yqOM8fqofo3UXQI3HbESF) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 1:42 | 2023-07-23 |  |
 | [KozhiPunk](https://open.spotify.com/track/5HKtzrNTEKpNM8H6p1LvV1) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [Sekhar Menon](https://open.spotify.com/artist/1cpwQb4p8o8eFSWCfzGlYw) | [KozhiPunk](https://open.spotify.com/album/7KYW2WsHpFRD5pk0rmbuHQ) | 4:14 | 2022-10-25 |  |
 | [KYA](https://open.spotify.com/track/5GtOlPfo6yKyiASYo9YQrc) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 2:03 | 2023-07-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,046 likes - 70 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,146 likes - 70 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 | 67 | [Subconcious](https://open.spotify.com/track/49tZayx9YX7rAFwOVdwQhw) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 5:37 |
 | 68 | [Night Square](https://open.spotify.com/track/754AtYj0MT09y6q8Zm6INV) | [PHSNWSKY](https://open.spotify.com/artist/2xtQOwJMmnChneko7Rs8vW) | [Night Square EP](https://open.spotify.com/album/5a7eZfiVeUST9INkj5Y8WR) | 3:25 |
 | 69 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 |
-| 70 | [Micro Dose](https://open.spotify.com/track/4kNbzt8JmheXA0CBUTo5qe) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/7cz8J3Bnwgr5L9wwZUnXOz) | 6:33 |
+| 70 | [Micro Dose](https://open.spotify.com/track/5WROKHW8ddJMiRpWEux9G3) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/5bGhbn6cbkKg1abkdEYhLa) | 6:33 |
 
-Snapshot ID: `MCw1YTUxYTMxZjQ4ZWJkM2M1ZTM4YWMzMGU2Zjc3NThmMDY1YmIxMzUz`
+Snapshot ID: `MCw5NzY2YTg0N2JjNDdhNDJlZmQ4MWJlZmU5YzRlZGZlNjZhNTRlODE1`

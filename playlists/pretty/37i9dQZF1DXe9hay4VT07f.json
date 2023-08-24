@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Byron Messia",
-  "num_followers": 411492,
+  "num_followers": 411687,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjY4YWI4YjI2YzI3YjlmMzAyYjgzMjVlMDAzYzBkMTAzOTdhODBl",
+  "snapshot_id": "MCxiODcxNmNhYjM4OWRkNGQ3NTFmNDc4MTVhNWVkNmVhNWEyZGI4ODE5",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Shen Yeng Anthem",
-        "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
+        "name": "Buy out Riddim",
+        "url": "https://open.spotify.com/album/0YnW0VxELVkjA1GlQSeTWb"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Notch",
+          "url": "https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ"
         }
       ],
-      "duration_ms": 141226,
-      "name": "Shen Yeng Anthem",
-      "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
+      "duration_ms": 242560,
+      "name": "Nuttin Nuh Go So",
+      "url": "https://open.spotify.com/track/2eKcAEvYtwcuK4zFcYdtX3"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Buy out Riddim",
-        "url": "https://open.spotify.com/album/0YnW0VxELVkjA1GlQSeTWb"
+        "name": "Shen Yeng Anthem",
+        "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
       },
       "artists": [
         {
-          "name": "Notch",
-          "url": "https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 242560,
-      "name": "Nuttin Nuh Go So",
-      "url": "https://open.spotify.com/track/2eKcAEvYtwcuK4zFcYdtX3"
+      "duration_ms": 141226,
+      "name": "Shen Yeng Anthem",
+      "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Foreplay",
-        "url": "https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 166159,
-      "name": "Foreplay",
-      "url": "https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Dunce Cheque",
         "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
       },
@@ -463,22 +447,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 215776,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Pull up to Mi Bumper",
         "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
       },
@@ -495,6 +463,22 @@
       "duration_ms": 150279,
       "name": "Pull up to Mi Bumper",
       "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 215776,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -523,8 +507,8 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+        "name": "Foreplay",
+        "url": "https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp"
       },
       "artists": [
         {
@@ -532,25 +516,9 @@
           "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 155307,
-      "name": "Can't Anymore",
-      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Nobody Has to Know",
-      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
+      "duration_ms": 166159,
+      "name": "Foreplay",
+      "url": "https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -575,18 +543,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "My Type - Single",
-        "url": "https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7"
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 185065,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl"
+      "duration_ms": 222893,
+      "name": "Nobody Has to Know",
+      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -603,6 +571,38 @@
       "duration_ms": 204068,
       "name": "Gvnman Shift",
       "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "My Type - Single",
+        "url": "https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 185065,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "Can't Anymore",
+      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Queen Radio: Volume 1",
+        "url": "https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 138567,
+      "name": "Likkle Miss (with Skeng) - Remix",
+      "url": "https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Top Tier",
         "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 181115,
       "name": "Whap Whap (feat. F.S.)",
       "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Queen Radio: Volume 1",
-        "url": "https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 138567,
-      "name": "Likkle Miss (with Skeng) - Remix",
-      "url": "https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Roll It Gal",
+      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "One Day Riddim",
         "url": "https://open.spotify.com/album/5PkIgWAMxMDiDv1jrzkqgm"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 135640,
       "name": "Drinking Rum",
       "url": "https://open.spotify.com/track/0xezj8YX96S7m4fCDwCIoJ"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Roll It Gal",
-      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "21 Seconds",
-        "url": "https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe"
+        "name": "Dye Dye - Single",
+        "url": "https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz"
       },
       "artists": [
         {
-          "name": "So Solid Crew",
-          "url": "https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH"
+          "name": "Macka Diamond",
+          "url": "https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i"
         }
       ],
-      "duration_ms": 294373,
-      "name": "21 Seconds - 12\" Version",
-      "url": "https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4"
+      "duration_ms": 186265,
+      "name": "Dye Dye (Raw)",
+      "url": "https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa"
     }
   ],
   "unique_name": "Dancehall Party",

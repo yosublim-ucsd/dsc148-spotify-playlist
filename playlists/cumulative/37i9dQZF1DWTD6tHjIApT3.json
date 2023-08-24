@@ -6834,10 +6834,28 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 200160,
       "name": "I've Got the Power",
       "url": "https://open.spotify.com/track/5sGMHpYpF1oGHrzGQEBXfJ"
+    },
+    {
+      "album": {
+        "name": "I've Got the Power",
+        "url": "https://open.spotify.com/album/7gOvCcSaQOAcGOhomfU5sH"
+      },
+      "artists": [
+        {
+          "name": "Mao Abe",
+          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "I've Got the Power",
+      "url": "https://open.spotify.com/track/6biUfADXKG8iOmnfF4tUXM"
     },
     {
       "album": {
@@ -15773,6 +15791,24 @@
     },
     {
       "album": {
+        "name": "Tenshininattara",
+        "url": "https://open.spotify.com/album/3rauBdRQNxnbOC1Eesqa3N"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Tenshininattara",
+      "url": "https://open.spotify.com/track/6eGvfX5i1n2MFCIJZWMANg"
+    },
+    {
+      "album": {
         "name": "The 1st chapter",
         "url": "https://open.spotify.com/album/61MfHl4QOaS3pHyP9WWg5v"
       },
@@ -17078,6 +17114,24 @@
       "duration_ms": 240053,
       "name": "Walkin' In My Lane",
       "url": "https://open.spotify.com/track/3l2O4IuJ4DFEfUwDdWyPnf"
+    },
+    {
+      "album": {
+        "name": "Wanna",
+        "url": "https://open.spotify.com/album/3grQnzdbrVfQ9uwhgTFm6N"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148327,
+      "name": "Wanna",
+      "url": "https://open.spotify.com/track/4rLsZcXQlylBEgDVXQO3eu"
     },
     {
       "album": {
@@ -25936,7 +25990,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 210461,
       "name": "\u5929\u4f7f\u306b\u306a\u3063\u305f\u3089",
       "url": "https://open.spotify.com/track/3GNVa2iKdQtMzjMyHqamCk"
@@ -27518,7 +27572,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 197529,
       "name": "\u6625\u4e00\u756a",
       "url": "https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP"
@@ -29506,7 +29560,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 148327,
       "name": "\u7f60",
       "url": "https://open.spotify.com/track/0m5ocXAAv8aRTezFr6edok"
@@ -30780,7 +30834,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "\u9752\u85cd\u904a\u6cf3",
       "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"

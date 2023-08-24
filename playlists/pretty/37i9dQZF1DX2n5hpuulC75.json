@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 256956,
+  "num_followers": 257004,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi",
+  "snapshot_id": "MCwxN2ExNDRiMzBjNmRmZGZlNWUzMWY4Y2E1NDYwNmRhZGJkOTgzNWNk",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Backwater",
-        "url": "https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"
+        "name": "Antasma",
+        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
       },
       "artists": [
         {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+          "name": "Sal Dulu",
+          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
         }
       ],
-      "duration_ms": 254010,
-      "name": "Nylon",
-      "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
+      "duration_ms": 205680,
+      "name": "Antasma",
+      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
     }
   ],
   "unique_name": "Mellow Mood",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,173 likes - 25 songs - 1 hr 37 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,175 likes - 25 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 17 | [Crash](https://open.spotify.com/track/25SwJzzyuKCAHSIIcgYEjo) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Crash](https://open.spotify.com/album/2bGQnP0JUPy0tL3MZq67kD) | 4:43 |
 | 18 | [Androids](https://open.spotify.com/track/2omPerCn21CoHeyuik61GO) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Androids](https://open.spotify.com/album/2jzuERKPkfQV4yetOZNBxn) | 2:54 |
 | 19 | [KITM](https://open.spotify.com/track/3ue43zm57WE4S38MbciN7r) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [KITM](https://open.spotify.com/album/4vktA14dskWnc23YCAgcDC) | 4:48 |
-| 20 | [X \(Wot You Sayin?\)](https://open.spotify.com/track/0nKD6cmgVwJohU3Nmx11zT) | [Mantra of the Cosmos](https://open.spotify.com/artist/6hUgHqG6kTgK5XswUHIErd), [Shaun Ryder](https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY), [Zak Starkey](https://open.spotify.com/artist/4h4l0uPYNCYJQZF4ZzugIy), [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [X \(Wot You Sayin?\)](https://open.spotify.com/album/1K61dcFGro98brEedVR91T) | 3:00 |
+| 20 | [X \(Wot You Sayin?\)](https://open.spotify.com/track/0nKD6cmgVwJohU3Nmx11zT) | [Mantra of the Cosmos](https://open.spotify.com/artist/6hUgHqG6kTgK5XswUHIErd), [Shaun Ryder](https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY), [Zak Starkey](https://open.spotify.com/artist/4h4l0uPYNCYJQZF4ZzugIy), [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [X \(Wot You Sayin?\)](https://open.spotify.com/album/1K61dcFGro98brEedVR91T) | 2:46 |
 | 21 | [Persuasion](https://open.spotify.com/track/6YtCfUsWsRABWEXPXsTscP) | [Axis: Sova](https://open.spotify.com/artist/26mE22GR6hJgqoVokZYmRM) | [Persuasion](https://open.spotify.com/album/3iII9tQrrQ5hzrsKrW5ouj) | 4:26 |
 | 22 | [Freaky](https://open.spotify.com/track/3YTh8sEUXyvufGoQA5e6LP) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Freaky](https://open.spotify.com/album/1IAFJUMqWGnF6lYADgS2jw) | 2:49 |
 | 23 | [Bobby](https://open.spotify.com/track/1CYrOahjNKvUshii3vqQ1o) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Bobby](https://open.spotify.com/album/4IlD8dZVC7hLmUZR289g2q) | 4:07 |

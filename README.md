@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6542\)
+## Playlists \(6545\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -3411,6 +3411,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [O Melhor de Trapperz Brazil 2022](/playlists/pretty/37i9dQZF1DWULHbs82dshJ.md)
 - [OBSESSED](/playlists/pretty/37i9dQZF1DX7YE2tQ4q86h.md)
 - [OFF POP](/playlists/pretty/37i9dQZF1DX07Bg0Q5GozA.md)
+- [ONE PIECE](/playlists/pretty/37i9dQZF1DX9XrA0OT5b6M.md)
 - [ONE PIECE FILM RED](/playlists/pretty/37i9dQZF1DWV2mRphxMWjR.md)
 - [OPM Favorites](/playlists/pretty/37i9dQZF1DX4olOMiqFeqU.md)
 - [OTW](/playlists/pretty/37i9dQZF1DX5ENxuuyTX48.md)
@@ -3639,6 +3640,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Pop Country](/playlists/pretty/37i9dQZF1DXadasIcsfbqh.md)
 - [Pop Covers](/playlists/pretty/37i9dQZF1DX2i24iHGhL24.md)
 - [Pop Drive](/playlists/pretty/37i9dQZF1DWSThc8QnzIme.md)
+- [Pop Focus \| Pop Music for Studying](/playlists/pretty/24U0Ot6ffyRdCjR8IdPLTo.md)
 - [Pop Frequency](/playlists/pretty/37i9dQZF1DX1UnoGuyf388.md)
 - [Pop Goes Classical](/playlists/pretty/37i9dQZF1DWUPafHP1BJw1.md)
 - [Pop Gospel](/playlists/pretty/37i9dQZF1DWXia8adWhIq7.md)
@@ -4462,7 +4464,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Stripped Down](/playlists/pretty/37i9dQZF1DWXMJdkLQRrmg.md)
 - [Strong Black Lead Official Playlist](/playlists/pretty/37i9dQZF1DWTyczwg2TmSH.md)
 - [Studeermuziek](/playlists/pretty/37i9dQZF1DWZeS4XzRgJG0.md)
-- [Study Music 2023](/playlists/pretty/24U0Ot6ffyRdCjR8IdPLTo.md)
 - [Suara Dari Jawa Barat](/playlists/pretty/37i9dQZF1DX2ngZHk5xUsP.md)
 - [Sub Low](/playlists/pretty/37i9dQZF1DWZtGWF9Ltb0N.md)
 - [Sub Pop: The Grunge Years](/playlists/pretty/1s2jwVSrmxKxxvvDoMWl32.md)
@@ -5216,6 +5217,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Mahler](/playlists/pretty/37i9dQZF1DWYFH7pZ5xe7h.md)
 - [This Is Majo Aguilar](/playlists/pretty/37i9dQZF1DZ06evO4drHIS.md)
 - [This Is Manu Dibango](/playlists/pretty/37i9dQZF1DZ06evO1JZBOa.md)
+- [This Is Mar de Copas](/playlists/pretty/37i9dQZF1DZ06evNZWv69X.md)
 - [This Is Marc Anthony](/playlists/pretty/37i9dQZF1DX8evYJzHX5bn.md)
 - [This Is Marca MP](/playlists/pretty/37i9dQZF1DZ06evO2nnqru.md)
 - [This Is Marcos Witt](/playlists/pretty/37i9dQZF1DZ06evO2EFRC0.md)
@@ -5357,6 +5359,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Rihanna \(2\)](/playlists/pretty/37i9dQZF1DWWhBhYl3ZMvY.md)
 - [This Is Rina Sawayama](/playlists/pretty/37i9dQZF1DZ06evO1AcHDy.md)
 - [This Is Ringo Starr](/playlists/pretty/37i9dQZF1DWULtPSrLama7.md)
+- [This Is Rio](/playlists/pretty/37i9dQZF1DZ06evO16W1u2.md)
 - [This Is Rise Against](/playlists/pretty/37i9dQZF1DZ06evO46wsnu.md)
 - [This Is Rob Zombie](/playlists/pretty/37i9dQZF1DZ06evO29RPTW.md)
 - [This Is Roddy Ricch](/playlists/pretty/37i9dQZF1DWSlZ5R8c1TX1.md)

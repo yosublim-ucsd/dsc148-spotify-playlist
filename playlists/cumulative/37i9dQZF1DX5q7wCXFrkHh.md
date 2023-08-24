@@ -4,7 +4,7 @@
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-208 songs - 18 hr 26 min
+209 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [How High The Moon](https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn) | [Hank Jones Trio](https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U) | [The Trio](https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx) | 6:03 | 2022-05-13 |  |
 | [How Long Has This Been Going On? \- Instrumental](https://open.spotify.com/track/1pRlbZOrK4SzYLqOKxvgZY) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [The Cats](https://open.spotify.com/album/7aW9SO9EQ569LB2SwpaIYQ) | 5:55 | 2022-05-13 | 2022-10-08 |
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 5:01 | 2022-08-12 |  |
-| [I Didn't Know What Time It Was](https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:31 | 2022-05-13 |  |
+| [I Didn't Know What Time It Was](https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:31 | 2022-05-13 | 2023-08-24 |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/5nS7ZPffF19pBuz2SYrr9V) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Blues for Nica](https://open.spotify.com/album/1Frp5CHMTM45u0ytFYpnN2) | 4:03 | 2022-05-13 | 2022-10-17 |
 | [I Didn't Know What Time Was](https://open.spotify.com/track/0ENfeBVS4FLBkmEGIAGFAe) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Pal Joey](https://open.spotify.com/album/7n1TDAd9pEPui46oT4jaFU) | 4:00 | 2022-05-13 | 2022-07-29 |
 | [I Got It Bad](https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Rosario Giuliani](https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06) | [Duke's Dream](https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd) | 7:20 | 2022-05-13 |  |
@@ -213,6 +213,7 @@
 | [Work](https://open.spotify.com/track/7voids93Sff8r9hXYHJyI5) | [Vijay Iyer Trio](https://open.spotify.com/artist/52rI38ygJY9W8u2aB4B4sM) | [Break Stuff](https://open.spotify.com/album/5PBA6FITIETRwVymaaDquG) | 6:14 | 2022-05-13 | 2022-10-08 |
 | [You Go To My Head](https://open.spotify.com/track/5ik210SniDcr9HKBAf1MD8) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell](https://open.spotify.com/album/6zmiY7rh11iF7Bp7Z9zcHp) | 3:16 | 2022-05-13 | 2023-08-19 |
 | [You Go to My Head \- 2000 Remastered Version](https://open.spotify.com/track/0XoGkCcJQnLfXYJrLdhL5b) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [Bouncing with Bud](https://open.spotify.com/album/72dwVGdFMsjy6fJ3nByWzv) | 3:14 | 2022-05-13 | 2022-07-29 |
+| [You Go To My Head \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/3g6t47lf7r5Y6M7XRkAhMh) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 3:15 | 2023-08-23 |  |
 | [You Look Good To Me](https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 4:49 | 2022-08-17 |  |
 | [You Took Advantage Of Me \- Live](https://open.spotify.com/track/3BUMqtDQfXIg2YPHmDj0j0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 10:12 | 2022-05-13 | 2022-10-08 |
 | [Útviklingssang](https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD) | [Carla Bley](https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV) | [Duets](https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG) | 4:38 | 2022-05-13 | 2022-10-08 |

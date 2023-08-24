@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,792 likes - 103 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,793 likes - 103 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 90 | [To be, or not to be ugly](https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:54 |
 | 91 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 |
 | 92 | [Portia](https://open.spotify.com/track/5BudjBzFyPFpHfgLkKqja1) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Portia](https://open.spotify.com/album/6L2ktalG95PWiI7BpB9YcV) | 3:20 |
-| 93 | [Rosemary Hemphill](https://open.spotify.com/track/63FnpR9gIfFkpGMK2v6DAl) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Rosemary Hemphill](https://open.spotify.com/album/7hJXawgXArmsLcxHvIWIPr) | 5:11 |
+| 93 | [Rosemary Hemphill](https://open.spotify.com/track/6Euq9b3bwdvMp4W8TQIQGw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 5:11 |
 | 94 | [Waile](https://open.spotify.com/track/69V0oOacvu3NKhpuqDhkLk) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/6bB5RHwyIKq5jUzbVuS63Y) | 5:15 |
 | 95 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 |
 | 96 | [Half Heard Melody](https://open.spotify.com/track/3hsJyYVHF4JASbbmXfh1iF) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW), [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Half Heard Melody](https://open.spotify.com/album/6WVwm3Jt13kkBIRUXTHY83) | 3:05 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 102 | [Around](https://open.spotify.com/track/5FdNZJwSaFLqT1AYhbGpio) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Cabo Blanco](https://open.spotify.com/album/0vwZRg44EvPwKdwRGul4Us) | 2:30 |
 | 103 | [2 Steppin'](https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [2 Steppin'](https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h) | 2:50 |
 
-Snapshot ID: `MCw1ZDExZTA0YjdmY2ZiOThmYTA2MGJjNjlmMDlkNmQ1MmU2MDk2NzJl`
+Snapshot ID: `MCwwZDMyZGUwYzc2YzczZWExZWFhN2Y0YzM4ZTdiN2U5OTNkZGE5N2Fj`

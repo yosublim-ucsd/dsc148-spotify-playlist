@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,538 likes - 200 songs - 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,763 likes - 200 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 14 | [Iskhathi](https://open.spotify.com/track/6cK0RRZ0HA18cB7VxeMoTS) | [Nongoma](https://open.spotify.com/artist/3O7kSCL3mt0T0lBnvNyWwj), [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Iskhathi](https://open.spotify.com/album/0atF8hOC4T98gG6BPRSk4y) | 5:46 |
 | 15 | [The Grid Generation](https://open.spotify.com/track/0psCd4ntI6P1lrTZI6TRP2) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [The Grid Generation](https://open.spotify.com/album/1nqz0Wb3iGIB3zJ9OO3Ewx) | 4:45 |
 | 16 | [Safely Far](https://open.spotify.com/track/5zOImk9SuJVNISeMUd1m3y) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Safely Far](https://open.spotify.com/album/66MMnVPMTFD2yRIApV7CDn) | 3:05 |
-| 17 | [Spiky Boi](https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Spiky Boi](https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t) | 1:59 |
+| 17 | [Spiky Boi](https://open.spotify.com/track/2VvUwV9PDrli8uapBKPQOv) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 1:59 |
 | 18 | [The Ups and Downs](https://open.spotify.com/track/3aVnFftWFh5YWrg9QXwThw) | [David Helbock](https://open.spotify.com/artist/0vL5aeUgB40QfmprJKhpOq), [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Peter Madsen](https://open.spotify.com/artist/3yoec9eCXayjK4ZQGYNzOM), [Raphael Preuschl](https://open.spotify.com/artist/3jDeB8RF0KDC4CuZflmGKt), [Herbert Pirker](https://open.spotify.com/artist/2wgehJQNceJRqSHjv8YK3A), [Claudio Spieler](https://open.spotify.com/artist/5V58M3kxqK9zUdJUKg9Dk4) | [The Ups and Downs](https://open.spotify.com/album/7JkH3Vm2KHNYiLPhW3Ceco) | 5:25 |
 | 19 | [Sign Of The Times \(Single Version\)](https://open.spotify.com/track/2k2eu1Qa8v34MOhHi849YA) | [Billy Valentine](https://open.spotify.com/artist/4AYoCwXHaaxeaM8DtzP3zg), [The Universal Truth](https://open.spotify.com/artist/1ZD9NNLJlXTgjjolh9M6cK), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Sign of the Times](https://open.spotify.com/album/5QbqH2ZI7OxlYzumfPMHzK) | 4:14 |
 | 20 | [Watermelon Man](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 6:28 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 |
 | 200 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 |
 
-Snapshot ID: `MCxjYjdjYzI1OTIxZmU2NzJlZjBiMWE0MzAwNThjYWE4NTFlMTUxNmVm`
+Snapshot ID: `MCxlYTI2NDAwMmEwNzQwMDJlM2EwZTQxNjhkYTg1OTJhZTdkYjhmOGZh`

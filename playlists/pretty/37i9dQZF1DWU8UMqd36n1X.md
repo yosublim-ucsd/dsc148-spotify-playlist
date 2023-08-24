@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 
 > Music from that amazing era\. Cover: Teddy Riley
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,086 likes - 56 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,126 likes - 56 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,6 +63,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 | 53 | [Friends](https://open.spotify.com/track/3Tko0RJ41cH53qq80T7DxC) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Larger Than Life](https://open.spotify.com/album/5uPBrDpKLr6PKnybKoQbbk) | 4:28 |
 | 54 | [Anything \(feat\. Wu\-Tang Clan\) \- Old Skool Radio Version](https://open.spotify.com/track/5gmMY8KEvBoQdBWm7iLf7A) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Allen Gordon, Jr\. aka "ALLSTAR"](https://open.spotify.com/artist/1hGJNACUxxr1vMX3HLimGP) | [Anything](https://open.spotify.com/album/1cw5sRjB40LxCKIh2ge1F3) | 4:55 |
 | 55 | [Under Pressure](https://open.spotify.com/track/3mcbFloFZLeAWJYFR0HITA) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 4:13 |
-| 56 | [Call Me A Mack](https://open.spotify.com/track/32dRq8sTlXLGbDgZ3ZSKQO) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 4:06 |
+| 56 | [Call Me A Mack](https://open.spotify.com/track/32dRq8sTlXLGbDgZ3ZSKQO) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 4:06 |
 
-Snapshot ID: `MCw1YTdmYmZhNWY2MGE4NWMxZTAzMTFkNTBmNmJlM2ExMzUxZmUyZTg4`
+Snapshot ID: `MCxhZjUzYzE2MTJiM2E3MGM1N2IzODE3ZDVjMDI0N2Q3NjI5MTg3OTgy`

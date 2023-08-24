@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228330,
+  "num_followers": 228336,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
+  "snapshot_id": "MCwxMzQ1MWRjMmMyNmRlOGI1YmRhYWNhZDY0ZjA0MTk5OTMwZGIzOWY2",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -243,26 +243,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "obst\u00e1culo",
-        "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 135704,
-      "name": "obst\u00e1culo",
-      "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "1% (Remix)",
         "url": "https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 290053,
       "name": "1% - Remix",
       "url": "https://open.spotify.com/track/1F4Vm45mboD6k5VAx83pJu"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "obst\u00e1culo",
+        "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 135704,
+      "name": "obst\u00e1culo",
+      "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Tentretiene",
-        "url": "https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Tentretiene",
-      "url": "https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Piratas",
         "url": "https://open.spotify.com/album/6stZMmfRE8VlPWDXUBTKe6"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 199120,
       "name": "Piratas",
       "url": "https://open.spotify.com/track/0a3UB6hOlLPlgv1GIhWsed"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Tentretiene",
+        "url": "https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "Tentretiene",
+      "url": "https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        }
+      ],
+      "duration_ms": 191891,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Scarface Sin Manolo",
         "url": "https://open.spotify.com/album/5X5ZFAlfi5LqIoI7KWkSem"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 209117,
       "name": "Scarface Sin Manolo",
       "url": "https://open.spotify.com/track/2QG15gotHbUzTzNfnekxWs"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 191891,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz"
     },
     {
       "added_at": "2023-06-09 20:20:12",

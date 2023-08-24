@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,044 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,080 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 8 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 |
 | 9 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 |
 | 10 | [Hiding Away](https://open.spotify.com/track/3jX8KrdmVz1LrsPn0UP4mT) | [Gursi Hills](https://open.spotify.com/artist/65DxVcXahJBCmIbLx72Eeu), [Melanny Banda](https://open.spotify.com/artist/65MdXRlcYlGcsPP3gtfNgt) | [Hiding Away](https://open.spotify.com/album/0mSzhxwcvTkvBH59sjI7P8) | 2:24 |
-| 11 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |
+| 11 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |
 | 12 | [Please](https://open.spotify.com/track/4fDIsYUUzdq6riqwmsqzxN) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [Please](https://open.spotify.com/album/5JV6pGJIZ1UFuZrQvtyZQ7) | 2:14 |
 | 13 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 |
 | 14 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [Venus](https://open.spotify.com/track/7id0zfnNZdDIq3dQRCrSDJ) | [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG) | [Venus](https://open.spotify.com/album/2KusxJLjxuaiIwK47i4IqJ) | 1:55 |
 | 85 | [TO YOU](https://open.spotify.com/track/1wuGvgHmbDgBHKASwgJqPK) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [TO YOU](https://open.spotify.com/album/33c4mtFY9EXLNkQGRiAAic) | 2:36 |
 
-Snapshot ID: `MCw5OTQ2MGMyMTY5YjAyZWIzMTRiNmJiM2IzMDZiNWVjZGYxNWRmMzJm`
+Snapshot ID: `MCxjYjAyMDNlN2I1NjY0MjI5N2M0MjczMzFkYThmYzkxY2I2YjY1Y2Nh`

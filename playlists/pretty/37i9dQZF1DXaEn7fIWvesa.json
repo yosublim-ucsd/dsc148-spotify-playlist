@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Micha en portada.",
-  "num_followers": 1279,
+  "num_followers": 1298,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmNiYTk1ZDlhMDBlMGU5Mzg0MmM4NzlmNjllZGE2OWNkYTU2NTI3",
+  "snapshot_id": "MCw1ZTMxM2NiOTk5NjY1ZGFiNWIxNWJhOTEyOWJmNjJlZmI5MzQ3NjAy",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -307,6 +307,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx"
+      },
+      "artists": [
+        {
+          "name": "Un Titico",
+          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
+        },
+        {
+          "name": "El Dany MG",
+          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Blychy",
         "url": "https://open.spotify.com/album/5Xv5Est3n7bg7dZmo8ul8i"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 207058,
       "name": "La Guariconfianza",
       "url": "https://open.spotify.com/track/234PYuEChhjwv4GeT12pap"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Que Rico",
-        "url": "https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx"
-      },
-      "artists": [
-        {
-          "name": "Un Titico",
-          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
-        },
-        {
-          "name": "El Dany MG",
-          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Que Rico",
-      "url": "https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -427,30 +427,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Southwezzzt",
-        "url": "https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "El Yonki",
-          "url": "https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR"
-        },
-        {
-          "name": "DJ Conds",
-          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Southwezzzt",
-      "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Pornosotros",
         "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
       },
@@ -491,6 +467,30 @@
       "duration_ms": 238269,
       "name": "Agua Noche Remix",
       "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Southwezzzt",
+        "url": "https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "El Yonki",
+          "url": "https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Southwezzzt",
+      "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -623,6 +623,30 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        },
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 174757,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Que Locura",
         "url": "https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8"
       },
@@ -659,30 +683,6 @@
       "duration_ms": 183131,
       "name": "Ganas de Ti",
       "url": "https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "La Diferencia",
-        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Te Quiero Pa' Mi",
+        "url": "https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP"
+      },
+      "artists": [
+        {
+          "name": "El Kimiko y Yordy",
+          "url": "https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn"
+        }
+      ],
+      "duration_ms": 201365,
+      "name": "Te Quiero Pa' Mi",
+      "url": "https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Un Beso",
         "url": "https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 193526,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Te Quiero Pa' Mi",
-        "url": "https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP"
-      },
-      "artists": [
-        {
-          "name": "El Kimiko y Yordy",
-          "url": "https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn"
-        }
-      ],
-      "duration_ms": 201365,
-      "name": "Te Quiero Pa' Mi",
-      "url": "https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1023,6 +1023,34 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Descaradita",
+        "url": "https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk"
+      },
+      "artists": [
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        },
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Yoani Star",
+          "url": "https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E"
+        }
+      ],
+      "duration_ms": 258298,
+      "name": "Descaradita",
+      "url": "https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Tu & Yo (Remix)",
         "url": "https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk"
       },
@@ -1051,34 +1079,6 @@
       "duration_ms": 177196,
       "name": "Tu & Yo - Remix",
       "url": "https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Descaradita",
-        "url": "https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk"
-      },
-      "artists": [
-        {
-          "name": "El Chulo",
-          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
-        },
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Yoani Star",
-          "url": "https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E"
-        }
-      ],
-      "duration_ms": 258298,
-      "name": "Descaradita",
-      "url": "https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP"
     }
   ],
   "unique_name": "Cubat\u00f3n Miami",

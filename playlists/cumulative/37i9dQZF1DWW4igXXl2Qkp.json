@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: <a href=\"spotify:artist:3yQMCDmPQPJlf6xJMzcnZL\">Chow Lee</a>",
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: <a href=\"spotify:artist:6UIpxj5ggLdOebFVCOxVax\">Loe Shimmy</a>",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -280,6 +280,28 @@
       "duration_ms": 149528,
       "name": "365 (Grime Riddim)",
       "url": "https://open.spotify.com/track/7FCkssCnpkqWH2ozJmibAf"
+    },
+    {
+      "album": {
+        "name": "4 AND A BABY 2",
+        "url": "https://open.spotify.com/album/4inTBuDTZMfnOOuUbrdG7J"
+      },
+      "artists": [
+        {
+          "name": "Babii J",
+          "url": "https://open.spotify.com/artist/1dsLRt43e8PtnRVIctsSQw"
+        },
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193974,
+      "name": "4 AND A BABY 2",
+      "url": "https://open.spotify.com/track/3xqPLFnQKOTVxWIGsYDqXX"
     },
     {
       "album": {
@@ -1490,6 +1512,24 @@
       "duration_ms": 130856,
       "name": "Bad Bitches",
       "url": "https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB"
+    },
+    {
+      "album": {
+        "name": "If You Say So EP",
+        "url": "https://open.spotify.com/album/0WeSf1f77EUZXIwxVfd7F9"
+      },
+      "artists": [
+        {
+          "name": "Drayco McCoy",
+          "url": "https://open.spotify.com/artist/4bVa2CaqxYufM2gnNg0RGf"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149722,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/0cmfYmo4dqSnAs1ct5sE4K"
     },
     {
       "album": {
@@ -2915,6 +2955,24 @@
     },
     {
       "album": {
+        "name": "Call You Back",
+        "url": "https://open.spotify.com/album/402rHWZJdaBEwHbq4whmJc"
+      },
+      "artists": [
+        {
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Call You Back",
+      "url": "https://open.spotify.com/track/5szHpSNNHyCWm1QAXSXNAI"
+    },
+    {
+      "album": {
         "name": "Can't Be Famous",
         "url": "https://open.spotify.com/album/0rw0aKbyqJyxfIjM0WQYaX"
       },
@@ -2930,6 +2988,42 @@
       "duration_ms": 158172,
       "name": "Can't Be Famous",
       "url": "https://open.spotify.com/track/2nJI3knNuCEeOgXThoWV9d"
+    },
+    {
+      "album": {
+        "name": "Can't Blame Em",
+        "url": "https://open.spotify.com/album/2R3oMQcBBjhgsUl843bxnE"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154320,
+      "name": "Can't Blame Em",
+      "url": "https://open.spotify.com/track/2O7Nl0SHRRcV0rR2NDS6BM"
+    },
+    {
+      "album": {
+        "name": "Can't Forget",
+        "url": "https://open.spotify.com/album/2nVqJ5q1XPxi3x0lbUdM9a"
+      },
+      "artists": [
+        {
+          "name": "TYK",
+          "url": "https://open.spotify.com/artist/59e1xBpxB7CmdSl0wre3nT"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131343,
+      "name": "Can't Forget",
+      "url": "https://open.spotify.com/track/5q4PzEPtexRWiTh68Z67EB"
     },
     {
       "album": {
@@ -3180,7 +3274,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 135322,
       "name": "Choosin Me",
       "url": "https://open.spotify.com/track/3Xg2GLQtgNdP3Ialvsq1MN"
@@ -3746,7 +3840,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 185269,
       "name": "Dark Hunter",
       "url": "https://open.spotify.com/track/0xh0B9clrDt0gzmG4OpHsm"
@@ -3866,6 +3960,24 @@
       "duration_ms": 102400,
       "name": "Deal With It",
       "url": "https://open.spotify.com/track/3lLxhdHwuaLl5ZQD29usSH"
+    },
+    {
+      "album": {
+        "name": "DEAUX",
+        "url": "https://open.spotify.com/album/1220ZtP3RA3iKUd6FtuSaR"
+      },
+      "artists": [
+        {
+          "name": "B Deaux",
+          "url": "https://open.spotify.com/artist/3PmmfwIMD4ZcePSLHGUUk8"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150208,
+      "name": "DEAUX",
+      "url": "https://open.spotify.com/track/18ywzpvs8aofcvOrI37Hwq"
     },
     {
       "album": {
@@ -4216,7 +4328,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 240000,
       "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
       "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
@@ -4278,6 +4390,24 @@
       "duration_ms": 144914,
       "name": "DON'T COUNT ME OUT",
       "url": "https://open.spotify.com/track/4Rc8EXnq3AUZ5lziyRTpYV"
+    },
+    {
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/0ONIArUMnYDBaZwBTfH1CH"
+      },
+      "artists": [
+        {
+          "name": "OGB",
+          "url": "https://open.spotify.com/artist/3Ieo5BgLFmKRcwRV5UZ7rK"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131729,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/7gWmkKmJsc7grlV4O0vc1Z"
     },
     {
       "album": {
@@ -4584,10 +4714,28 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 199495,
       "name": "Dynasty",
       "url": "https://open.spotify.com/track/1SCys1pf11OD6TU2U9kOH1"
+    },
+    {
+      "album": {
+        "name": "E.B.K.",
+        "url": "https://open.spotify.com/album/6TVhpoHHucWi4YzPUBu4iB"
+      },
+      "artists": [
+        {
+          "name": "G41",
+          "url": "https://open.spotify.com/artist/1lBa2yLMbRVUGfV9nPosBw"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147748,
+      "name": "E.B.K.",
+      "url": "https://open.spotify.com/track/24vwbMToOmcBT9ADYuR3bM"
     },
     {
       "album": {
@@ -4660,7 +4808,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 192364,
       "name": "Edna (Capes)",
       "url": "https://open.spotify.com/track/0u3rPAewRgSd5PVTdjBBgb"
@@ -5106,7 +5254,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 141888,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP"
@@ -5360,7 +5508,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 196491,
       "name": "FOR MY PEOPLE",
       "url": "https://open.spotify.com/track/26kzaZRG99XSmjGxNQu4SC"
@@ -7073,6 +7221,24 @@
     },
     {
       "album": {
+        "name": "I'm Bach (Feelin' like yak)",
+        "url": "https://open.spotify.com/album/1Kn4A42jYU9a2cs0XIOhPP"
+      },
+      "artists": [
+        {
+          "name": "PM FRVR",
+          "url": "https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "I'm Bach (Feelin' like yak)",
+      "url": "https://open.spotify.com/track/7lwyaNYc0IU5XVr8LxRzAX"
+    },
+    {
+      "album": {
         "name": "I'M GOOD",
         "url": "https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd"
       },
@@ -7574,7 +7740,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 192000,
       "name": "Johnny Dang (with Paul Wall & DRODi)",
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
@@ -8276,7 +8442,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 156002,
       "name": "Life Notes",
       "url": "https://open.spotify.com/track/71JfRimpfjNuafEmoVfc8T"
@@ -8952,7 +9118,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 137142,
       "name": "Makin It Sound",
       "url": "https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ"
@@ -9315,6 +9481,24 @@
     },
     {
       "album": {
+        "name": "Money Man Meech",
+        "url": "https://open.spotify.com/album/7sxr6YXLaFQtjneUfNQ5M4"
+      },
+      "artists": [
+        {
+          "name": "Meech",
+          "url": "https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148148,
+      "name": "MMM (Coming Up )",
+      "url": "https://open.spotify.com/track/1uefyOl071KNUQwgXN1TGT"
+    },
+    {
+      "album": {
         "name": "Mob Shit",
         "url": "https://open.spotify.com/album/2fqEyPqh1ybVQ2M6FLqHLJ"
       },
@@ -9410,6 +9594,28 @@
       "duration_ms": 96013,
       "name": "Molly",
       "url": "https://open.spotify.com/track/1DiRWRhlbaltc2jYHOLe78"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/1k4D5hxbTrW3KX96RrKQ8Y"
+      },
+      "artists": [
+        {
+          "name": "J. Lock",
+          "url": "https://open.spotify.com/artist/5QuiN2ovCC4NVGMSqSBia8"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198364,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2xGKHw84T7BgV2bhvdDKf8"
     },
     {
       "album": {
@@ -9935,6 +10141,24 @@
     },
     {
       "album": {
+        "name": "Head Coach",
+        "url": "https://open.spotify.com/album/6VNky4zU67Xm2GyhLRBjke"
+      },
+      "artists": [
+        {
+          "name": "Billacheck",
+          "url": "https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181103,
+      "name": "Mvplayer",
+      "url": "https://open.spotify.com/track/2QFIFt26FE9F96zrrHKkej"
+    },
+    {
+      "album": {
         "name": "Southsidestory",
         "url": "https://open.spotify.com/album/5qtzCi0cXGbrrpWoSQeUzo"
       },
@@ -9954,6 +10178,24 @@
       "duration_ms": 198000,
       "name": "My Blood, My Genes",
       "url": "https://open.spotify.com/track/1YjCmFZzydjq7b4J4t6exH"
+    },
+    {
+      "album": {
+        "name": "MY FAVORITE DRUG",
+        "url": "https://open.spotify.com/album/719fKUhTNVCTKd0mhlYIR5"
+      },
+      "artists": [
+        {
+          "name": "Peter $un",
+          "url": "https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183453,
+      "name": "MY FAVORITE DRUG",
+      "url": "https://open.spotify.com/track/52DsauCIVMK9a9lB2qXslC"
     },
     {
       "album": {
@@ -10508,7 +10750,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 192200,
       "name": "No More",
       "url": "https://open.spotify.com/track/0yGbLny28yRcgr1S13lluW"
@@ -10914,7 +11156,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 151381,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/72GWqrm4hPOJQ8zh3qf1bf"
@@ -13822,7 +14064,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 146440,
       "name": "Stickz & Stonez",
       "url": "https://open.spotify.com/track/4fptYpDyXXNUPtwZ4u8r0R"
@@ -13946,7 +14188,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 225800,
       "name": "Stones",
       "url": "https://open.spotify.com/track/2TmcoeozCAFmtIK1LWAqNt"
@@ -14066,6 +14308,28 @@
       "duration_ms": 130619,
       "name": "summer heat",
       "url": "https://open.spotify.com/track/7lQiTriCtJYEXaK3Lz1foK"
+    },
+    {
+      "album": {
+        "name": "SUMMER SUPERSTARS",
+        "url": "https://open.spotify.com/album/5USNNy8ctbAlFS3PfsHOTy"
+      },
+      "artists": [
+        {
+          "name": "Draft Day",
+          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213280,
+      "name": "SUMMER SUPERSTARS",
+      "url": "https://open.spotify.com/track/6n72cRmfRz0y8aQxineuze"
     },
     {
       "album": {
@@ -14291,6 +14555,24 @@
     },
     {
       "album": {
+        "name": "TBH!",
+        "url": "https://open.spotify.com/album/1KB4yswp0hKkKERpHPTNou"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93982,
+      "name": "TBH!",
+      "url": "https://open.spotify.com/track/0zgqOEBPOAvU5vch5URzlt"
+    },
+    {
+      "album": {
         "name": "Telfy",
         "url": "https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo"
       },
@@ -14404,7 +14686,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 189496,
       "name": "The Last Dance",
       "url": "https://open.spotify.com/track/6pZMDwkmvrqt2ubqpLGRQy"
@@ -15198,7 +15480,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 192939,
       "name": "U ME N' EARTH",
       "url": "https://open.spotify.com/track/04KtHGmuHHyP9UjB6qid1n"
@@ -15546,6 +15828,32 @@
       "duration_ms": 185190,
       "name": "W.W.Y.B.",
       "url": "https://open.spotify.com/track/0HvrIZAycXzKYbVTFTY46w"
+    },
+    {
+      "album": {
+        "name": "1of1",
+        "url": "https://open.spotify.com/album/2HOjaFJUdAbz4BuEzfeKtm"
+      },
+      "artists": [
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "F1LTHY",
+          "url": "https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155690,
+      "name": "WA\\VE",
+      "url": "https://open.spotify.com/track/1EmCkwfm1dtz6t7nj9WT4C"
     },
     {
       "album": {

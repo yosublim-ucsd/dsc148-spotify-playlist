@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Karen Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,072 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,125 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Impressions](https://open.spotify.com/track/23gpK7yn4WbIVmsIYpoR0H) | [Jean\-Michel Pilc](https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM), [Francois Moutin](https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp), [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz) | [YOU are the Song](https://open.spotify.com/album/2qbhhdGzYxQX5jKVsYCSlx) | 4:24 |
 | 50 | [King Size Papa](https://open.spotify.com/track/4jUTtGnhdBKqxWQycVgIEh) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It \(Deluxe Edition\)](https://open.spotify.com/album/544v2wHRMwPAc7frjbukKf) | 3:52 |
 
-Snapshot ID: `MCw5OWQ3NGQxOTc0YTA3ZTA2OTVhZGQ2OWM0MTc3MTgxYmRhYTE5YjEx`
+Snapshot ID: `MCw5Yjk0NzdlMTlhOTg2MjQwODI2MzQ3YzVhOGE3YmMzMjA5NTFhZTc2`

@@ -2645,6 +2645,28 @@
     },
     {
       "album": {
+        "name": "PO PO PO",
+        "url": "https://open.spotify.com/album/5AYE8JjDT222UaFA1E2dD8"
+      },
+      "artists": [
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133056,
+      "name": "PO PO PO",
+      "url": "https://open.spotify.com/track/6RQ06Xu2bBZFFVptrxDZZq"
+    },
+    {
+      "album": {
         "name": "Mansa",
         "url": "https://open.spotify.com/album/0JBjfd9NAcpgHBbllm0fQg"
       },

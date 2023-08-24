@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTI1ZjJjYTRiYjc5MmQ4NTNmMGRlODhjMGQ4MTI5OGJmNmI0OGY5",
+  "snapshot_id": "MCxmNTRiZDQxM2EzNWYyMmJiMGY5ZjQyOTg1OGM4YzBkNDQ1N2I2MGNh",
   "tracks": [
     {
       "added_at": "2023-07-07 15:37:40",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-07-07 15:37:40",
       "album": {
-        "name": "Show Me the Money 8 Final",
-        "url": "https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 182868,
-      "name": "010",
-      "url": "https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT"
-    },
-    {
-      "added_at": "2023-07-07 15:37:40",
-      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -419,22 +399,22 @@
     {
       "added_at": "2023-07-07 15:37:40",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu"
+        "name": "Show Me the Money 8 Final",
+        "url": "https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk"
       },
       "artists": [
         {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "Bryn",
-          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 195083,
-      "name": "In The Morning (Feat. Bryn)",
-      "url": "https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo"
+      "duration_ms": 182868,
+      "name": "010",
+      "url": "https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT"
     },
     {
       "added_at": "2023-07-07 15:37:40",
@@ -455,6 +435,26 @@
       "duration_ms": 274493,
       "name": "Stay Cool",
       "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
+    },
+    {
+      "added_at": "2023-07-07 15:37:40",
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        },
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        }
+      ],
+      "duration_ms": 195083,
+      "name": "In The Morning (Feat. Bryn)",
+      "url": "https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo"
     },
     {
       "added_at": "2023-07-07 15:37:40",
@@ -555,30 +555,6 @@
     {
       "added_at": "2023-07-07 15:37:40",
       "album": {
-        "name": "Flower Cafe",
-        "url": "https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd"
-      },
-      "artists": [
-        {
-          "name": "JOOHONEY",
-          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
-        },
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        },
-        {
-          "name": "Sam Ock",
-          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "Flower Cafe (feat.Sam Ock, I.M)",
-      "url": "https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W"
-    },
-    {
-      "added_at": "2023-07-07 15:37:40",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 233376,
       "name": "Mannequin (Feat. Beenzino & SURAN)",
       "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
+    },
+    {
+      "added_at": "2023-07-07 15:37:40",
+      "album": {
+        "name": "Flower Cafe",
+        "url": "https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        },
+        {
+          "name": "Sam Ock",
+          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "Flower Cafe (feat.Sam Ock, I.M)",
+      "url": "https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W"
     },
     {
       "added_at": "2023-07-07 15:37:40",

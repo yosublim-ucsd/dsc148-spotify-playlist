@@ -2284,6 +2284,24 @@
     {
       "album": {
         "name": "Music for Living Spaces",
+        "url": "https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315538,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0rSfPw1dZibhCuOosxU68B"
+    },
+    {
+      "album": {
+        "name": "Music for Living Spaces",
         "url": "https://open.spotify.com/album/1wO5nsIQP1vDzJShd7BLgk"
       },
       "artists": [
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 315538,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2rqSKSAEVthsDyuZObnQY4"

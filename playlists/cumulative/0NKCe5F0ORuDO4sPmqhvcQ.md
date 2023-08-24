@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-488 songs - 1 day 3 hr 26 min
+490 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alone Together](https://open.spotify.com/track/567GBv8OB00xUZ2edVn4Up) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Elysian](https://open.spotify.com/album/4TUygYUS1Y4TSIjBw63FVe) | 3:27 | 2023-08-16 |  |
 | [Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [In Plain Sight](https://open.spotify.com/album/39H3aSkk8uCM25VoIx16y7) | 2:42 | 2023-02-23 |  |
 | [Always A Dream](https://open.spotify.com/track/5gV4soDW0AsPmD5tx1JEM4) | [Dafna](https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP) | [Always A Dream](https://open.spotify.com/album/6FvLm2WrMOHLuu2ZgFr2Et) | 2:54 | 2021-11-12 | 2022-01-08 |
+| [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 | 2023-08-23 |  |
 | [ambien](https://open.spotify.com/track/21KwCo6dkh83CypNslVwG1) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [ambien](https://open.spotify.com/album/2V1fOgi7qKLPhPdFK9E5Sz) | 3:00 | 2023-02-24 | 2023-04-01 |
 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-04-01 | 2022-06-25 |
 | [Amphibious](https://open.spotify.com/track/6BOzOhp0lkineq7GADZNs5) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Polite](https://open.spotify.com/album/0WgipZtpMYTd3nTZ8iG8HR) | 3:37 | 2021-06-16 | 2022-03-31 |
@@ -268,6 +269,7 @@
 | [Lover](https://open.spotify.com/track/3jRVHf7IH9fSixsHKW4UOh) | [Naderi](https://open.spotify.com/artist/6AuUD6XK7azpz23KJCbExL), [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Lover](https://open.spotify.com/album/7eLWn88xkk9EG4wMso3RId) | 2:04 | 2021-12-07 | 2022-01-08 |
 | [Lucky Ones](https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Lucky Ones](https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD) | 3:25 | 2022-12-02 |  |
 | [Lucky Ones \- Wilde Things Remix](https://open.spotify.com/track/2xlR5f4A5RGabqodlkaGVI) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Olivia Ray](https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle), [WILDE THINGS](https://open.spotify.com/artist/2Tdyg0TzUTuZrJJ4Gs7eeQ) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w) | 3:08 | 2022-02-11 | 2022-03-31 |
+| [LUKEY TY TY](https://open.spotify.com/track/3dJ2rRiGeXRmK3df5EoQfq) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [LUKEY TY TY](https://open.spotify.com/album/7i7IMaZAe5IamfpScpotin) | 1:53 | 2023-08-23 |  |
 | [Luminous \- gishfang Remix](https://open.spotify.com/track/1d9AeaczLLIZ1w28k8fRAn) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv) | [Luminous \(gishfang Remix\)](https://open.spotify.com/album/3lMhNcUS3WqDwhJ1HS6LYJ) | 2:16 | 2022-03-29 | 2022-04-19 |
 | [m box](https://open.spotify.com/track/2iZf5y9Ce6smoZiGkC0aAg) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl) | 2:32 | 2021-11-19 | 2022-01-08 |
 | [Mad](https://open.spotify.com/track/7IUtD2X4mt2PMotBFM6uoL) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [AFFIRMATIONS](https://open.spotify.com/album/6qrsaSHCzscquJnDmEhs3m) | 2:44 | 2022-07-15 | 2023-07-20 |

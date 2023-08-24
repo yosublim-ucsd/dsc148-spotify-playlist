@@ -780,7 +780,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 134500,
       "name": "Auriga",
       "url": "https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn"
@@ -9222,6 +9222,24 @@
       "duration_ms": 178000,
       "name": "Silentness",
       "url": "https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu"
+    },
+    {
+      "album": {
+        "name": "Silver Tales",
+        "url": "https://open.spotify.com/album/4KsrRoJSvbYAfYn42Y3k5b"
+      },
+      "artists": [
+        {
+          "name": "Dirk van Arnhem",
+          "url": "https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132374,
+      "name": "Silver Tales",
+      "url": "https://open.spotify.com/track/68Hx34QumbsgcqECS1PP43"
     },
     {
       "album": {

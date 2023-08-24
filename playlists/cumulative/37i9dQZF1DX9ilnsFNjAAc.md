@@ -4,11 +4,12 @@
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-107 songs - 6 hr 56 min
+108 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3ankaboot](https://open.spotify.com/track/3rOdA7uimljndAKhnLG4Lt) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [3ankaboot](https://open.spotify.com/album/4Y5GjjC9uAPHtciumxAo0z) | 3:34 | 2021-02-19 |  |
+| [3ankaboot](https://open.spotify.com/track/0GcNfzFjES2UXWeqV2exBD) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [3ankaboot](https://open.spotify.com/album/2Ivx1x1ZgzWGsBrSEEyOeX) | 3:34 | 2021-02-19 |  |
+| [3ankaboot](https://open.spotify.com/track/3rOdA7uimljndAKhnLG4Lt) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [3ankaboot](https://open.spotify.com/album/4Y5GjjC9uAPHtciumxAo0z) | 3:34 | 2021-02-19 | 2023-08-24 |
 | [A Mighty Quest](https://open.spotify.com/track/0POJynKv5Lq3HGJxQfvWAx) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [A Mighty Quest](https://open.spotify.com/album/5fqHxGDPxnbY0IoX7mJTl6) | 3:53 | 2021-02-19 |  |
 | [Acceleration](https://open.spotify.com/track/3uA3HcSMjtgb2NJcog8fA8) | [RUI HO](https://open.spotify.com/artist/2sTDVUq42SO6yVfD7c9r0J) | [In Pursuit of the Sun 逐日](https://open.spotify.com/album/2wITuNciLMoTHakVJXGUJG) | 4:05 | 2021-02-19 |  |
 | [Acceleration](https://open.spotify.com/track/4640e1mtMTSI9XA3OgO28P) | [RUI HO](https://open.spotify.com/artist/2sTDVUq42SO6yVfD7c9r0J) | [In Pursuit of the Sun 逐日](https://open.spotify.com/album/03uSeeML3IPSHjvh34T4EP) | 4:05 | 2021-02-19 | 2022-07-29 |

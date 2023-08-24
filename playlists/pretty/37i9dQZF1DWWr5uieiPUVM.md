@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap só dá o play e aumenta! Foto: Vulgo FK,MC PH, Veigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,827 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239,123 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Se Você for Embora](https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Se Você For Embora](https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ) | 2:10 |
 | 50 | [Sereia](https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Sereia](https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI) | 4:54 |
 
-Snapshot ID: `MCxlZGQ0ZjFlZGY0ZjQ2MmRkNWYxYWEzYWRmZjZlODEyZDcxZTViZDYx`
+Snapshot ID: `MCxkNWU2ZGI0ZjBkMDI1NzMzNDhmMDZmM2M5NGNlNjJjOGVkYjM1Mzc5`

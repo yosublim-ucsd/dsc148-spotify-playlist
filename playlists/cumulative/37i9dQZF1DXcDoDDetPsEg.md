@@ -2,7 +2,7 @@
 
 ### [Who We Be](https://open.spotify.com/playlist/37i9dQZF1DXcDoDDetPsEg)
 
-> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
+> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
 700 songs - 1 day 11 hr 41 min
 

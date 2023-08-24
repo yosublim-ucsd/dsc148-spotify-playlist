@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-415 songs - 1 day 5 hr 39 min
+416 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Feel](https://open.spotify.com/track/1suJTW6qNyv8wrJrhl66GB) | [Mötel](https://open.spotify.com/artist/0t2BvVv6gU4bPa0OFvcTJN) | [Feel](https://open.spotify.com/album/10fs3d44oj8OzWWsAj9eCB) | 3:33 | 2022-04-01 | 2022-04-21 |
 | [Feeling It](https://open.spotify.com/track/3h45GAnateHR2KnCiZYOQA) | [Maximum Love](https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ) | [Feeling It](https://open.spotify.com/album/0A2F4dtZP2YcS85ZBIrXVp) | 3:20 | 2022-12-01 | 2023-07-01 |
 | [Fever](https://open.spotify.com/track/0SoAEe3qrUmjh9YRX4FFbO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb), [BRESDEN](https://open.spotify.com/artist/0djds6pkICcQcfaxmK3cSj) | [Fever](https://open.spotify.com/album/0sTuNWvCX4Wn5zDiflJ7Qz) | 4:16 | 2022-02-04 | 2022-06-14 |
+| [Fire](https://open.spotify.com/track/2S1pXtETDouy0erB6fKQ3E) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Among Wolves](https://open.spotify.com/album/1mhuy869BxmT6A2gVXr35i) | 2:10 | 2023-06-30 |  |
 | [Fire](https://open.spotify.com/track/3XPDYyo2I9dIa2uhgcZhgn) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/1MkCO0adu22r0yPTkhzwjM) | 2:10 | 2022-08-12 | 2022-10-18 |
 | [Fire](https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW) | 2:10 | 2022-11-11 | 2023-07-10 |
 | [Firebird](https://open.spotify.com/track/4HeTO68jodyeWHHIgdytwr) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Jukebox 80s](https://open.spotify.com/artist/2O6IhsrW35MUzqmq5UVVKl) | [Firebird](https://open.spotify.com/album/72ophLrmWPbHAt8j56YHdF) | 3:38 | 2022-04-01 | 2022-04-21 |
@@ -382,7 +383,7 @@
 | [The Getaway](https://open.spotify.com/track/5boxsVqT2XsC2b1V2FUCsM) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU) | 3:56 | 2022-07-22 |  |
 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 | 2022-04-01 | 2022-05-28 |
 | [The Last Day \- Remastered](https://open.spotify.com/track/10pgXAyLSj1Bitw7mmn4BV) | [Midnight Danger](https://open.spotify.com/artist/08oYIzltKqFzeg7pQg6hh4) | [The Singles\. Remastered.](https://open.spotify.com/album/7lMD5BhMgGingxB0JqnDrW) | 4:49 | 2023-01-13 |  |
-| [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 | 2021-10-15 |  |
+| [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 | 2021-10-15 | 2023-08-24 |
 | [The Navigator \- Slowed Version](https://open.spotify.com/track/7gjgdMt8037wwWY8QLiqF8) | [Echo\-Eclipse](https://open.spotify.com/artist/6KGpRKwr3IKBxeEeUW7DLc) | [Arcade Machine \(Slowed Edition\) \[Slowed Version\]](https://open.spotify.com/album/2bOCal2xHpluVKBBPANrcY) | 3:50 | 2022-04-01 | 2022-05-22 |
 | [The Night](https://open.spotify.com/track/5sK5X9xq2aIk9uFe85OEby) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [The Night](https://open.spotify.com/album/74H6voYjugubDYisU8zarC) | 4:08 | 2022-05-20 | 2022-07-29 |
 | [The Perfect Girl \- The Motion Retrowave Remix](https://open.spotify.com/track/1UcyzhmBDfdw07DiuT7DEG) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo), [The Motion](https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n) | [The Perfect Girl \(The Motion Retrowave Remix\)](https://open.spotify.com/album/6LtIcRhkNqGdXl2OESjDPE) | 3:01 | 2022-07-22 | 2023-07-01 |

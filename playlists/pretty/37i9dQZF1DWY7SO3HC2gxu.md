@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,528 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,532 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 59 | [Thaai \- Dj Tomer & Ricardo's Voodoo Tribe Remix](https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c) | [Thaai Ep](https://open.spotify.com/album/00KkvpgOlPf8TZZVbsagm5) | 7:30 |
 | 60 | [Mzuzi Park](https://open.spotify.com/track/0KHKdCpEbvDyJxvMRVJkZG) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mzuzi Park](https://open.spotify.com/album/1dJXbNR32lgYW7Pr54e2Sk) | 8:13 |
 
-Snapshot ID: `MCxhMWQ4NTc0Nzk5MTM0MGUxY2QwY2JiMTIxY2FhZTExYWQ5ZmNiNDBm`
+Snapshot ID: `MCw2YWM1NzBhMzdkNzlhODI0ZWE1Y2ZmZTJhNTNmZjMyMzZkYjU5NzYy`

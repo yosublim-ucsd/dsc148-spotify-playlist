@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 26268,
+  "num_followers": 26349,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3",
+  "snapshot_id": "MCxkMzllNTZiNTQ5Yjg4MTY3NGUzZTFlYWU5ZjFiOTY3YjU1ZmYxYzg4",
   "tracks": [
     {
       "added_at": "2023-05-12 07:57:53",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
+        "name": "Dusty Streets",
+        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
+      },
+      "artists": [
+        {
+          "name": "Eddvin",
+          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
+        }
+      ],
+      "duration_ms": 386525,
+      "name": "Dusty Streets",
+      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
         "name": "Dark Snow",
         "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Dusty Streets",
-        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
-      },
-      "artists": [
-        {
-          "name": "Eddvin",
-          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
-        }
-      ],
-      "duration_ms": 386525,
-      "name": "Dusty Streets",
-      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "Lately I Found Myself",
         "url": "https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP"
       },
@@ -943,18 +943,22 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Electronic Deep House King",
-        "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
+        "name": "The Inglourious",
+        "url": "https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X"
       },
       "artists": [
         {
-          "name": "Seventhi DJ",
-          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Synth-O-Ven",
+          "url": "https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn"
         }
       ],
-      "duration_ms": 336352,
-      "name": "Electronic Deep House King",
-      "url": "https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W"
+      "duration_ms": 399986,
+      "name": "The Inglourious",
+      "url": "https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8"
     }
   ],
   "unique_name": "Deep House Session",

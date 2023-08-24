@@ -10007,6 +10007,24 @@
     },
     {
       "album": {
+        "name": "This Woman's Work",
+        "url": "https://open.spotify.com/album/7l0tw2bxowj4gusfOqmzHC"
+      },
+      "artists": [
+        {
+          "name": "Max Tundra",
+          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294534,
+      "name": "This Woman's Work",
+      "url": "https://open.spotify.com/track/2fvqwcjPH2HUak5qOpu0Hp"
+    },
+    {
+      "album": {
         "name": "This World Couldn\u2019t See Us",
         "url": "https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz"
       },
@@ -10854,6 +10872,42 @@
       "duration_ms": 249709,
       "name": "Welcome To Hell",
       "url": "https://open.spotify.com/track/1PMHfsqnvnTO7mBwDA5pQL"
+    },
+    {
+      "album": {
+        "name": "Wet Stuff",
+        "url": "https://open.spotify.com/album/5MyRGoCM4u5dynIEtxD8ei"
+      },
+      "artists": [
+        {
+          "name": "Folk Implosion",
+          "url": "https://open.spotify.com/artist/6DM1YETeVIN3ce24DhnMhU"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237743,
+      "name": "Wet Stuff",
+      "url": "https://open.spotify.com/track/6OeLBR8GvmQQj6HgxZ9si0"
+    },
+    {
+      "album": {
+        "name": "Wet Stuff",
+        "url": "https://open.spotify.com/album/5MyRGoCM4u5dynIEtxD8ei"
+      },
+      "artists": [
+        {
+          "name": "Folk Implosion",
+          "url": "https://open.spotify.com/artist/6DM1YETeVIN3ce24DhnMhU"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234750,
+      "name": "Wet Stuff - 2023 Live Session",
+      "url": "https://open.spotify.com/track/158utttpCrbXbIqyLV0ny6"
     },
     {
       "album": {

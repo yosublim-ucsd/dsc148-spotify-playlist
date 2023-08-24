@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-865 songs - 2 day 8 hr 36 min
+866 songs - 2 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,7 +621,8 @@
 | [Reset](https://open.spotify.com/track/5QaAMG5SdD0OKmV3VVo7Wo) | [Colyer](https://open.spotify.com/artist/1L0pwxF6zglm74nG2gBWw5) | [Reset](https://open.spotify.com/album/6LgkETeWZxBGgEThkiALNi) | 4:58 | 2022-04-22 | 2022-10-08 |
 | [Revelator](https://open.spotify.com/track/0xVwkfyPh0brDtlmtdIb2d) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [Revelator](https://open.spotify.com/album/7zI8PDMo7i9ZZcIBL7BK1d) | 3:05 | 2022-03-04 | 2022-06-15 |
 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 | 2021-12-14 | 2023-03-07 |
-| [Rosemary Hemphill](https://open.spotify.com/track/63FnpR9gIfFkpGMK2v6DAl) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Rosemary Hemphill](https://open.spotify.com/album/7hJXawgXArmsLcxHvIWIPr) | 5:11 | 2023-03-10 |  |
+| [Rosemary Hemphill](https://open.spotify.com/track/63FnpR9gIfFkpGMK2v6DAl) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Rosemary Hemphill](https://open.spotify.com/album/7hJXawgXArmsLcxHvIWIPr) | 5:11 | 2023-03-10 | 2023-08-24 |
+| [Rosemary Hemphill](https://open.spotify.com/track/6Euq9b3bwdvMp4W8TQIQGw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 5:11 | 2023-03-10 |  |
 | [Ruby Sparks](https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ) | 4:14 | 2022-09-02 | 2022-11-17 |
 | [Ruby Sparks](https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [Ruby Sparks](https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY) | 4:14 | 2022-07-22 | 2022-10-14 |
 | [Running Backwards](https://open.spotify.com/track/6tkb9q3f7elJ1u5p8AFNCX) | [Sleeping Jesus](https://open.spotify.com/artist/2HdmMDI7Kl4mUZdB6m4mp4) | [Running Backwards](https://open.spotify.com/album/7KoFuplb07ujpTafyNwcvP) | 3:00 | 2022-07-11 | 2022-07-16 |

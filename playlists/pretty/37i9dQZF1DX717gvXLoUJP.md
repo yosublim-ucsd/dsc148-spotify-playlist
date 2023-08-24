@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,835 likes - 54 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,852 likes - 54 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 | 40 | [Floating Away in a Hole Darker Than Yours \- Melvin White Remix](https://open.spotify.com/track/6mnR0EJXmQPG5stEW9liQ6) | [I\-F](https://open.spotify.com/artist/4JEj4gtpwF2dnnBZuNwpwT), [Melvin White](https://open.spotify.com/artist/7Mz0Yi1a95Cjri0LpkV2Jq) | [The Man from Pack](https://open.spotify.com/album/2PJntPpT9rVc1q492EnRqm) | 4:40 |
 | 41 | [Warm Love \- Blue Hour Remix](https://open.spotify.com/track/3unVDShdN8aAf0RdZeM4oR) | [Agent Orange aka Cari Lekebusch](https://open.spotify.com/artist/14IBJpAoIVKjL3RDPbDwZd), [Cari Lekebusch](https://open.spotify.com/artist/33WX23QMvnxE5lBbRG1qyl), [Blue Hour](https://open.spotify.com/artist/4dBDX26kNVoNEVUL97nlde) | [More Love \(Remastered\)](https://open.spotify.com/album/1F2NYAtDErMDcG0kKYzJlQ) | 6:07 |
 | 42 | [noroomforerror](https://open.spotify.com/track/1QTuQHLCr42OmTdYt1bT9L) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [all his decisions](https://open.spotify.com/album/1Aohl1B7uvIe666oWkybrq) | 5:29 |
-| 43 | [Spice](https://open.spotify.com/track/5TkXbPJuV9LJVi9LpYGfvY) | [Neil Landstrumm](https://open.spotify.com/artist/2Dv40C26DYmaTgCFGjqlTU), [Legacy](https://open.spotify.com/artist/01tH3jrKOXWyoFfBlrvzuW), [Tina P](https://open.spotify.com/artist/4FoMKevlJ96WC3kzgKEVRV) | [Yell Yell](https://open.spotify.com/album/6Pw4lUSiZ3y5tChcxW2Ccc) | 3:29 |
+| 43 | [Spice](https://open.spotify.com/track/21TAXXTUTozIrUzOHxV7ao) | [Neil Landstrumm](https://open.spotify.com/artist/2Dv40C26DYmaTgCFGjqlTU), [Legacy](https://open.spotify.com/artist/01tH3jrKOXWyoFfBlrvzuW), [Tina P](https://open.spotify.com/artist/4FoMKevlJ96WC3kzgKEVRV) | [Yell Yell](https://open.spotify.com/album/1qhQNQLBvQCZYFqvzzBeTl) | 3:29 |
 | 44 | [I Can’t Take You Leaving Me](https://open.spotify.com/track/7rOTtFB0RhL3yduL3tv63g) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Acacia Classics: Vol\. 1](https://open.spotify.com/album/3qypFU3zgm5aJAPhajCBnO) | 6:32 |
 | 45 | [Acid Love Making](https://open.spotify.com/track/2TAtmFFQSexZ2bgyCLsXpu) | [Acid Junkies](https://open.spotify.com/artist/60gEfPcEAvnvXBQ9oZePDI) | [Paranoid Experience](https://open.spotify.com/album/3sGeN4mOMfhTApjkKNjram) | 5:28 |
 | 46 | [biosseum](https://open.spotify.com/track/1iO1JyUx4GSeNaLRFuyypJ) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5) | [Third Ear](https://open.spotify.com/album/1qzmCUFszkpWLvlrROhW21) | 4:55 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 | 53 | [Children of the Last Generation](https://open.spotify.com/track/5GM4dhQXkxtHFCV5aM1zC7) | [X\-Dream](https://open.spotify.com/artist/2Wmyxn5qWyLPWKeEMmJKHc) | [The Best 1991\-2001](https://open.spotify.com/album/2y5avewOLhUVGT1xm3o6Og) | 7:45 |
 | 54 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
 
-Snapshot ID: `MCxkZjRlMzQzOWM1OWFjNmZmZmYyYWZjZjgyNTBlYjFhNmE2Zjc4NTQ1`
+Snapshot ID: `MCwzY2YxMGIyNDU4YmY1MGVjMDE1OWZhMDkzZmQ4YzFlZTg5YTk4MTcw`

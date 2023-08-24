@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 238958,
+  "num_followers": 239037,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDc5NzEzZGVmNTM1ZmQ5OGQwNDMxODkyMDNjZDg5NGNiZDFhNmVj",
+  "snapshot_id": "MCw3MDIxMmMzMjFkODY2YTkyMDA0YmI0YmM5NmMwNzY2ODdlMmE2YWE2",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Holo",
-        "url": "https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC"
-      },
-      "artists": [
-        {
-          "name": "Limbo",
-          "url": "https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Vibes 2",
         "url": "https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 136914,
       "name": "5:32pm",
       "url": "https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Holo",
+        "url": "https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC"
+      },
+      "artists": [
+        {
+          "name": "Limbo",
+          "url": "https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
-        "url": "https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR"
-      },
-      "artists": [
-        {
-          "name": "DJ BYmoment",
-          "url": "https://open.spotify.com/artist/3rhFSNJH1jYyJpV7oEJiuC"
-        }
-      ],
-      "duration_ms": 121477,
-      "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
-      "url": "https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "unexpected",
         "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 86571,
       "name": "viola",
       "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
+        "url": "https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR"
+      },
+      "artists": [
+        {
+          "name": "DJ BYmoment",
+          "url": "https://open.spotify.com/artist/3rhFSNJH1jYyJpV7oEJiuC"
+        }
+      ],
+      "duration_ms": 121477,
+      "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
+      "url": "https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm"
     },
     {
       "added_at": "2022-02-02 00:21:48",

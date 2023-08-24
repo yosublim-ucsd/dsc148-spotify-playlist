@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-185 songs - 8 hr 57 min
+187 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Death Row](https://open.spotify.com/track/0dDDt47pVAToheSPh12utX) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Death Row](https://open.spotify.com/album/7oq6Bm8RUggWkrXdsBMgfm) | 3:05 | 2023-04-27 |  |
 | [Defender](https://open.spotify.com/track/1QGUZ1pSmeJv7U677bSVN9) | [Deep Karan](https://open.spotify.com/artist/2rAC8yC2Aqdo2utiGuDto2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Defender](https://open.spotify.com/album/0jhvzKYhasAq4RzgeVK3A9) | 2:24 | 2023-06-27 |  |
 | [Distance](https://open.spotify.com/track/4FYTPNiMWiY72Kvo1JKDt6) | [Gagan Kokri](https://open.spotify.com/artist/2ECA51juFyrh4DAuc8FucP) | [Distance](https://open.spotify.com/album/0fVMSMACe6VFfutsNwIwAa) | 2:23 | 2023-07-20 | 2023-07-25 |
+| [Do or Die](https://open.spotify.com/track/6X5NGQQTHJ1nnbWx3mv5mv) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Do or Die](https://open.spotify.com/album/7IhBM442YmiKjUZTH0iTpr) | 2:13 | 2023-08-23 |  |
 | [Doaba Zone](https://open.spotify.com/track/4aPJDwEXwpND92r8VVfgvi) | [Shivjot Suchipind](https://open.spotify.com/artist/7dIWDfVELEshdx6pQvN6KJ) | [Doaba Zone](https://open.spotify.com/album/7hkWGmP36F8gFpCshqK04g) | 3:05 | 2023-03-29 | 2023-04-09 |
 | [Don’T Care](https://open.spotify.com/track/4AGDZS12QtecmUYaIdIxZ5) | [Gur\. V](https://open.spotify.com/artist/28zEsrNPBJJSsmRjsysTvY), [Jot Dhindsa](https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Don’T Care](https://open.spotify.com/album/1ZbZn6xKNv0PDn7hq2B9Av) | 2:50 | 2023-04-17 | 2023-04-21 |
 | [Dunia](https://open.spotify.com/track/191UibAfAOKYeA8vKv7MI9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:05 | 2023-06-29 |  |
@@ -122,6 +123,7 @@
 | [Muqabala](https://open.spotify.com/track/5OcXS6QZCiQYHzae9rfEeC) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Muqabala](https://open.spotify.com/album/5bPE9YHDx56udNABcQzZsf) | 3:46 | 2023-03-29 | 2023-04-15 |
 | [My Rulez](https://open.spotify.com/track/2WrgOxn53EUKLxuzo1pscL) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [My Rulez](https://open.spotify.com/album/0NPgf1wtzwgv7qw2TtNfAZ) | 2:47 | 2023-03-29 | 2023-07-15 |
 | [My Thoughts](https://open.spotify.com/track/5Zasc5jHaWCLLRKStYVeyx) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [My Thoughts](https://open.spotify.com/album/7tIZMftjTIehMLSUxdVFdX) | 2:50 | 2023-06-08 | 2023-07-13 |
+| [Naa Lai Ke](https://open.spotify.com/track/3vXHs1USJvUYpFsuxZGTiS) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Naa Lai Ke](https://open.spotify.com/album/4bqStg9FJ3mbIrTdYh1vtC) | 2:32 | 2023-08-23 |  |
 | [Naal Jehde Vekhe](https://open.spotify.com/track/4hqgW0mTab07LxOLcvuv6E) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1) | [G\-2](https://open.spotify.com/album/2XGi5FrzFh6oVa80m5z0OQ) | 2:21 | 2023-06-09 |  |
 | [Naam Jatt Da](https://open.spotify.com/track/6TjqQuqXmXOfHIsCcYvBaI) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Naam Jatt Da](https://open.spotify.com/album/0wG8O5Y2b4UHAHgyQ6EJKl) | 2:08 | 2023-03-29 | 2023-04-21 |
 | [Naam Sunuga](https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Naam Sunuga](https://open.spotify.com/album/290dKL08Ilt2QtRIeb4q6e) | 3:27 | 2023-03-29 |  |

@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by Loyal Squad Sound.
 
-384 songs - 20 hr 46 min
+385 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Shay'mpempe \- Amapiano Mix](https://open.spotify.com/track/0s85XRTiQaWh8AUsYbLsg1) | [Muzzy D Pilot](https://open.spotify.com/artist/5v2vY1aUV6yFfUMo6x0z8C), [Dj Mavuthela](https://open.spotify.com/artist/3q8eLo12KCxX4GTdg0rKmc), [Ribby De Deejay](https://open.spotify.com/artist/5dEEE7WHk9fFoftJj0qMAw), [Rhino](https://open.spotify.com/artist/03rDpz3TCm2mNgtJzDXP48) | [Shay'mpempe \(Amapiano Mix\)](https://open.spotify.com/album/6jWvHykPy2gL17a9CWJG58) | 5:49 | 2023-07-10 | 2023-08-08 |
 | [Shay'mpempe Amapiano Mix](https://open.spotify.com/track/2zEubbwXFFI7bb3B0etgBf) | [Muzzy D Pilot](https://open.spotify.com/artist/5v2vY1aUV6yFfUMo6x0z8C), [Dj Mavuthela](https://open.spotify.com/artist/3BwYXyhg61oe5XyrGfzJbg), [Ribby De Deejay](https://open.spotify.com/artist/7EZoW1TtCANKJa8r4TlmA9), [Rhino](https://open.spotify.com/artist/5jWLqtFEAW8fVtwGo7gArt) | [Shay'mpempe Amapiano Mix](https://open.spotify.com/album/4jfFgrCgBblCVt5FeZfAlm) | 5:55 | 2023-07-10 | 2023-08-04 |
 | [She Ready](https://open.spotify.com/track/7iMQcJkDfiEF07buHkUZCe) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out) | [Road Bounce Riddim](https://open.spotify.com/album/4sUT7BdvKj38vja03FATG4) | 3:17 | 2023-02-21 | 2023-07-11 |
+| [SIDUNG](https://open.spotify.com/track/7vuQEzDmZAGUkfFRDNd4OW) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [SIDUNG](https://open.spotify.com/album/5xvkP892H4YG7N8JFIzg5v) | 2:25 | 2023-08-23 |  |
 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 | 2023-07-10 | 2023-08-08 |
 | [So Sweet](https://open.spotify.com/track/02w48ldiaiEY1Sc2Mga6Yt) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [So Sweet](https://open.spotify.com/album/7C3lQxKzE5bnOjb2A6Xrxj) | 3:04 | 2021-08-26 | 2022-07-31 |
 | [Soak It Good](https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Soak It Good](https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD) | 3:02 | 2022-08-18 | 2023-02-22 |

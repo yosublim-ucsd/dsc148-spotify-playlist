@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Summer B-Sides",
+        "url": "https://open.spotify.com/album/38DQhpzEdGsLrQZacEqA4I"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139198,
+      "name": "Special Place In Hell",
+      "url": "https://open.spotify.com/track/1S6QUF7hYQ36XQxrjSpuoA"
+    },
+    {
+      "album": {
         "name": "Summer B Sides",
         "url": "https://open.spotify.com/album/7eKRJ0btdxbAPXUe4qPxKt"
       },
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 139198,
       "name": "Special Place In Hell",
       "url": "https://open.spotify.com/track/3iCF7e9cDzX4IkrrRPZtoZ"

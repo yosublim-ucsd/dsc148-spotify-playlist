@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 252151,
       "name": "Bandhaviduve",
       "url": "https://open.spotify.com/track/7qM1uWMe8YWU9npWaykIdD"
@@ -3556,6 +3556,36 @@
       "duration_ms": 207496,
       "name": "Chum Chum Chali Chali (from \"Kabzaa\") [Kannada]",
       "url": "https://open.spotify.com/track/6mpqDE2MUjLgPicgv2UPY3"
+    },
+    {
+      "album": {
+        "name": "Class Roomalli (From \"Paramvah\")",
+        "url": "https://open.spotify.com/album/2NKVlS34cZgAqxWqEP72mf"
+      },
+      "artists": [
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        },
+        {
+          "name": "Aparajith",
+          "url": "https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7"
+        },
+        {
+          "name": "Jos Jossey",
+          "url": "https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx"
+        },
+        {
+          "name": "Kiran N R pura",
+          "url": "https://open.spotify.com/artist/1S6ekiMG5sHcdtYOukkvi4"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179542,
+      "name": "Class Roomalli (From \"Paramvah\")",
+      "url": "https://open.spotify.com/track/5S9ASTIE8qeXQ44GhmG77O"
     },
     {
       "album": {
@@ -5670,7 +5700,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 231755,
       "name": "Gandarabai (From \"Skanda\")",
       "url": "https://open.spotify.com/track/3bcpehIolpCAuf9JYJn6Ei"
@@ -5700,7 +5730,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 231755,
       "name": "Gandarabai (From \"Skanda\")",
       "url": "https://open.spotify.com/track/0SQIFK6K3ZBZQnn3ocFQAe"
@@ -15345,6 +15375,36 @@
     },
     {
       "album": {
+        "name": "Preethiya Besuge (From \"DAD - Devaraj Aliyas David\")",
+        "url": "https://open.spotify.com/album/6cf4vw6ctEnsBhjkaNq4Q7"
+      },
+      "artists": [
+        {
+          "name": "Akash Seth",
+          "url": "https://open.spotify.com/artist/3O9hO2hlqVD33howbdXAxG"
+        },
+        {
+          "name": "Arjun krshna",
+          "url": "https://open.spotify.com/artist/1R6hEhpS9gtV7RJidh40mG"
+        },
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Madhuri Seshadri",
+          "url": "https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274105,
+      "name": "Preethiya Besuge (From \"DAD - Devaraj Aliyas David\")",
+      "url": "https://open.spotify.com/track/5x4Bvtqk7Xoo9Zd2Bsq58e"
+    },
+    {
+      "album": {
         "name": "PS Anthem (From \u201cPS-2\") [Kannada] [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/4dXfycka0T079aL7HYORMB"
       },
@@ -16920,7 +16980,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 208291,
       "name": "Single Sundara (From \"Raghavendra Stores\")",
       "url": "https://open.spotify.com/track/171etuRcF92SOVIuHnDm4u"

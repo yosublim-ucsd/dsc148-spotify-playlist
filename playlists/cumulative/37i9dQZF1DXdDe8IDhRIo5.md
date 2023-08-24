@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-92 songs - 5 hr 38 min
+93 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Nymphéas](https://open.spotify.com/track/40nqi9rHYgwlw688GfD2zr) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Nymphéas](https://open.spotify.com/album/4xZ3oe0Ia3VG2dqjTgYigE) | 4:31 | 2022-05-20 |  |
 | [One for Nieb](https://open.spotify.com/track/5Gw7MeQTfT7WXrn5f14mm8) | [Paulo Morello](https://open.spotify.com/artist/7HOLgdn03zAzkJ0c1Rdzv0), [Mulo Francel](https://open.spotify.com/artist/4ZfWg40EXHfCUiXHOIfRsI), [Sven Faller](https://open.spotify.com/artist/498SI25eedUQQUqzrf74NF) | [One for Nieb](https://open.spotify.com/album/5ohscyS9sYAT7AEKR8avFd) | 5:29 | 2022-02-04 | 2022-07-29 |
 | [One for Nieb](https://open.spotify.com/track/6gXB8XHdXAXtZn0GAnLmWg) | [Paulo Morello](https://open.spotify.com/artist/7HOLgdn03zAzkJ0c1Rdzv0), [Mulo Francel](https://open.spotify.com/artist/4ZfWg40EXHfCUiXHOIfRsI), [Sven Faller](https://open.spotify.com/artist/498SI25eedUQQUqzrf74NF) | [Living Is Easy, Mostly](https://open.spotify.com/album/0fssDBwchxUnVYVZ30MuHp) | 5:29 | 2022-02-04 |  |
-| [Place du Swing](https://open.spotify.com/track/5ybS0DddQYx9gO6YKtFcIQ) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [Place du swing](https://open.spotify.com/album/3S4mE5XrpQcV2w0CPLhOIB) | 4:03 | 2023-07-21 |  |
+| [Place du Swing](https://open.spotify.com/track/5ybS0DddQYx9gO6YKtFcIQ) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [Place du swing](https://open.spotify.com/album/3S4mE5XrpQcV2w0CPLhOIB) | 4:03 | 2023-07-21 | 2023-08-24 |
+| [Place du Swing](https://open.spotify.com/track/6yEqWdVTUt0wvOp1Ycs1sN) | [Greg Ruby](https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7), [Steve Rice](https://open.spotify.com/artist/0q1LMzk9N688736AFf4146) | [Valse Volant](https://open.spotify.com/album/4DNTwU5pKqjKIPQ6u1SaiE) | 4:03 | 2023-07-21 |  |
 | [Puttin' On the Ritz](https://open.spotify.com/track/0UOKYamx2rZB4HYjedYFxn) | [Gypsy Swing Revue](https://open.spotify.com/artist/3ZJrLqiSpAZueYPclk65Cl) | [Puttin' On The Ritz](https://open.spotify.com/album/2GhFpYVZdVZ1PnVkphY0OU) | 3:58 | 2021-02-04 |  |
 | [Ranger Swing](https://open.spotify.com/track/61bNf4P5rvoOMNTw16QIg8) | [Raphael Fays](https://open.spotify.com/artist/4P3gGxKIS5sZwZWRzmQDEJ) | [Paris Séville, bois de guitare \(Madera de Guitarra\)](https://open.spotify.com/album/4zA1OF1mdccHMXfwNBaodm) | 2:34 | 2021-02-04 |  |
 | [Rubina](https://open.spotify.com/track/1FrNj1WGpegtUf4k3n1BGq) | [Diknu Schneeberger](https://open.spotify.com/artist/2J6n7DlfLjXcW0tpnf5gYM) | [Rubina](https://open.spotify.com/album/4Vqdei8PgFzJzU6vYXfumF) | 2:54 | 2021-02-04 |  |

@@ -30555,6 +30555,24 @@
     },
     {
       "album": {
+        "name": "Rabbi",
+        "url": "https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo"
+      },
+      "artists": [
+        {
+          "name": "Rabbi Shergill",
+          "url": "https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322701,
+      "name": "Tere Bin",
+      "url": "https://open.spotify.com/track/5frmIBzZKMjU2PlWJJ8Ir3"
+    },
+    {
+      "album": {
         "name": "Zara Hatke Zara Bachke (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Yb13Od1beXcshjO6vSskt"
       },
@@ -30750,6 +30768,10 @@
         {
           "name": "MRL",
           "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
       "date_added": "2023-08-18",
@@ -32728,7 +32750,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-24",
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"

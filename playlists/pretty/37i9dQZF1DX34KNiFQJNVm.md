@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta, Jão, Luísa Sonza, L7NNON, Mc Livinho, Péricles e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907,026 likes - 98 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,907,233 likes - 98 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 26 | [Não Volto Mais \- Ao Vivo](https://open.spotify.com/track/5IxOfszzxHVlq8xa3hr8R7) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Matheusinho](https://open.spotify.com/artist/5fFaxiwdqZlsazN9qMyQMB) | [Não Volto Mais \(Ao Vivo\)](https://open.spotify.com/album/7mrcAW2uHpxca3Nocuk0bP) | 3:00 |
 | 27 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 |
 | 28 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 |
-| 29 | [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 |
+| 29 | [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 |
 | 30 | [Rasteira Das Rasteiras \- Ao Vivo](https://open.spotify.com/track/6VRFDqBRTSwq1sWqDhJVzM) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Rasteira Das Rasteiras \(Ao Vivo\)](https://open.spotify.com/album/6HyowBePqN50gHBkOFgGyv) | 3:24 |
 | 31 | [Ali Te Ama](https://open.spotify.com/track/75UeFgDZUmxJW1eViQtbYF) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ali Te Ama](https://open.spotify.com/album/6aR8YMno9VPTfKYvRf8DSL) | 2:48 |
 | 32 | [Se Eu Tivesse Respirado \- Ao Vivo](https://open.spotify.com/track/3H9L0irAiomAlq5XqmTRCY) | [Thiago Aquino](https://open.spotify.com/artist/7yPoxj2lXWy7J4ixQHVubk) | [Se Eu Tivesse Respirado \(Ao Vivo\)](https://open.spotify.com/album/13nLoNZek55G3RZOfxUMFR) | 3:26 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [Contramão](https://open.spotify.com/track/5vxVf4x310ltfa2sVwMZRq) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Plutão Já Foi Planeta](https://open.spotify.com/album/443v0AsX5FFio7iX23rxse) | 3:29 |
 | 98 | [navegar](https://open.spotify.com/track/5xjVexs2dbB0vkcJEVOvFo) | [camilobers](https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO), [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [navegar](https://open.spotify.com/album/5DboGDC3KJFtIN2l6DkGEU) | 3:13 |
 
-Snapshot ID: `MCxkMjlhYjU3OWNlMzk3NTFjYTMzNmRmNDQ0ZTY3MDdmYzY0YTEzMDJl`
+Snapshot ID: `MCxmMGVjODUxNzhkOTAyMWFmMWQ5YzU5ZDJjMmUzMmEzMDlmNzVhYjlm`

@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: PaulWetz
 
-327 songs - 16 hr 0 min
+328 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [schwarzes wasser](https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [schwarzes wasser](https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe) | 2:37 | 2023-08-17 |  |
 | [Schwerkraft](https://open.spotify.com/track/3TltWI1lSnko4Iv1z39NRT) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl), [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [Schwerkraft](https://open.spotify.com/album/1N61M4kkQw7z2ZlpA2ExgY) | 3:10 | 2023-02-16 | 2023-03-03 |
 | [Schön/Scheisse](https://open.spotify.com/track/0EcO8AnnMVDQYL7T8RzG1R) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Schön/Scheisse](https://open.spotify.com/album/2cdSrivIiikYOarkkNIeXQ) | 2:25 | 2023-05-25 | 2023-08-04 |
-| [Sekundenschlaf](https://open.spotify.com/track/3nGHhdwp64mgOW4bOIjzZ2) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/7vSpIPqyUwujwf3PxJmWtR) | 2:33 | 2023-08-03 |  |
+| [Sekundenschlaf](https://open.spotify.com/track/1nl2fmtFjDhplqdyecVIjn) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/58wvPo48VlBS9ySAYlUhGs) | 2:33 | 2023-08-17 |  |
+| [Sekundenschlaf](https://open.spotify.com/track/3nGHhdwp64mgOW4bOIjzZ2) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/7vSpIPqyUwujwf3PxJmWtR) | 2:33 | 2023-08-03 | 2023-08-24 |
 | [Shirt & Handtuch](https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Shirt & Handtuch](https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq) | 3:34 | 2023-04-13 | 2023-06-16 |
 | [Sie tanzt so gut](https://open.spotify.com/track/3FiINXWzj5ZYnfC3ROsWjp) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Sie tanzt so gut](https://open.spotify.com/album/2gUVkJk5RzEyIQndV1VUt9) | 3:25 | 2023-02-02 | 2023-04-14 |
 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 | 2023-03-09 |  |

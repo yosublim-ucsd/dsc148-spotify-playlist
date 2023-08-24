@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno, Big One & Rusherking.",
-  "num_followers": 622016,
+  "num_followers": 622294,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDM0ZmRjZjY1NzY5NGZlMDg2ZjRkZTY0M2UzOWYxMDIwM2NkZjMz",
+  "snapshot_id": "MCw4NGUzNGM4ZWJhY2QyMjFmYjQ4NzE1OWM3ZThiN2JlM2U5YjRlNDA4",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "No Seas Cruel",
-        "url": "https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg"
-      },
-      "artists": [
-        {
-          "name": "Alberto Plaza",
-          "url": "https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 236165,
-      "name": "No Seas Cruel",
-      "url": "https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Voy A Olvidarme De Mi",
         "url": "https://open.spotify.com/album/4FEH9l7ARowZhR1kL9X4WF"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 187573,
       "name": "Voy A Olvidarme De Mi",
       "url": "https://open.spotify.com/track/7At4ts4UEcrRJSP0rR3Q0B"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "No Seas Cruel",
+        "url": "https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg"
+      },
+      "artists": [
+        {
+          "name": "Alberto Plaza",
+          "url": "https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 236165,
+      "name": "No Seas Cruel",
+      "url": "https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Esta de Moda",
-        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
-      },
-      "artists": [
-        {
-          "name": "Pitty Murua",
-          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
-        }
-      ],
-      "duration_ms": 204382,
-      "name": "Lo Aprend\u00ed de Ti",
-      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Fern\u00e9, Cola y Cuarteto: Los 24 Grandes del Cuarteto!!",
         "url": "https://open.spotify.com/album/4sXZ2L8IViN0Qrg9dxlewT"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 1500920,
       "name": "Fragmentos Enganchados, Pt. 2",
       "url": "https://open.spotify.com/track/5tyaPG41AJwJmdv2lS7H1c"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Esta de Moda",
+        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
+      },
+      "artists": [
+        {
+          "name": "Pitty Murua",
+          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+        }
+      ],
+      "duration_ms": 204382,
+      "name": "Lo Aprend\u00ed de Ti",
+      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
     },
     {
       "added_at": "2023-08-18 03:00:00",

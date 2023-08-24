@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 
 > Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,872 likes - 89 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,887 likes - 89 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 | 23 | [ANGRY HEARTS](https://open.spotify.com/track/78ZSpNggaGhHY1HdcjGJr4) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [ANGRY HEARTS](https://open.spotify.com/album/3H9mOpsztHarggXBOaNTsB) | 3:22 |
 | 24 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 |
 | 25 | [Invisible](https://open.spotify.com/track/1Ub3KfqVC03ePKa1Zr0BEr) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Invisible](https://open.spotify.com/album/7GX5Uk4qudzPAyKjsE20OG) | 3:48 |
-| 26 | [Crush](https://open.spotify.com/track/3Txcx4jhuiTZSvhAL0WaRc) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:03 |
+| 26 | [Crush](https://open.spotify.com/track/3Txcx4jhuiTZSvhAL0WaRc) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:03 |
 | 27 | [Next To You](https://open.spotify.com/track/3iMJbAaMEEAuq6IyTffTz8) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Next To You](https://open.spotify.com/album/4e1HlR812DhUkqoKJtjwoQ) | 3:35 |
 | 28 | [Lights And Camera](https://open.spotify.com/track/4USgaSv1DqJby1iW6wVpeH) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Lights And Camera](https://open.spotify.com/album/7wA4RVDhJ7rcscmbzhrD1J) | 3:48 |
 | 29 | [Unrequited Love](https://open.spotify.com/track/7EMR7wcOHzK7qdyRPnqRMm) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:09 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 | 88 | [Lovely Intermission](https://open.spotify.com/track/22x0bKTXXitdbfuZUdhAAc) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:55 |
 | 89 | [Fears And Frustrations](https://open.spotify.com/track/6w9QevT88poB77qNzwy4LN) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 4:34 |
 
-Snapshot ID: `MCw3ZTYwYjI0YmJhM2I3OWYxZGYwODk4ODVkZjVmNjQ3YzcxZTc5NTBi`
+Snapshot ID: `MCxjZTJmN2JiMDY0OTM0ZTk4MmZjMWU5NWJlYjk1NDgyYTE0ZWVmYTJh`

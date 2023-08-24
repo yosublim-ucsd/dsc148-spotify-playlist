@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: bludnymph
 
-3,105 songs - 6 day 14 hr 4 min
+3,107 songs - 6 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1261,6 +1261,7 @@
 | [How Do You Know When It Feels Right](https://open.spotify.com/track/615ceemNRFwJEUA3CQ4sFY) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [How Do You Know When It Feels Right](https://open.spotify.com/album/1Fg04ADeuLyh2c8p5OlopY) | 3:16 | 2021-09-30 | 2021-10-28 |
 | [How Does It Feel?](https://open.spotify.com/track/1lW6GrI2Bq3FFfGhQdUo2M) | [WaitingForPairing](https://open.spotify.com/artist/1NCPoDfKMICNtbc65jTbeb), [Eena](https://open.spotify.com/artist/0E5agbcEHQR1B3Cq6IR99G) | [Love Stories Never End Well](https://open.spotify.com/album/1x1sfuQeuCvPtnIlXQlnZT) | 2:12 | 2020-10-13\* | 2020-12-08 |
 | [How I Do](https://open.spotify.com/track/3AvitQmoUA0hFr9r0aaKaa) | [Malcolm.](https://open.spotify.com/artist/2tKBSStIhOKU5GDrPEeVLS) | [How I Do](https://open.spotify.com/album/5z1AENszajkiVa3LdMtxFE) | 3:30 | 2021-03-06 | 2021-04-01 |
+| [HOW I FEEL](https://open.spotify.com/track/48TLG2RjHOv8cI6lpOLzSq) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [HOW I FEEL](https://open.spotify.com/album/0WfFqvoSu5IvbUYDgDxBLl) | 2:59 | 2023-08-23 |  |
 | [how to be alone](https://open.spotify.com/track/5yWh6idT3QMKCEX6KdxRbI) | [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [how to be alone](https://open.spotify.com/album/27mg83WPZdrIMwP8pR3EjL) | 3:06 | 2022-01-12 | 2022-03-03 |
 | [How to Be Alone](https://open.spotify.com/track/6xWHPPreZAD93a1g14Noun) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How to Be Alone](https://open.spotify.com/album/5cFmtcEpZiTgFTR26I1TwV) | 2:31 | 2022-03-09 | 2022-04-28 |
 | [How to Feel](https://open.spotify.com/track/2LaMQN61SLkACy1rGhMc1b) | [Zuli Jr.](https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW) | [How to Feel](https://open.spotify.com/album/1R8Hqbi6VflCS5rdQnYtOX) | 3:26 | 2021-04-15 | 2021-05-13 |
@@ -2324,6 +2325,7 @@
 | [Same Spoon](https://open.spotify.com/track/21E8AG9rDGRtziaFWGf9aU) | [Takkin](https://open.spotify.com/artist/6YJXZoTvzi4NK03J19R73d) | [Same Spoon](https://open.spotify.com/album/1oxzfVto0zDBiZ27QndqL1) | 3:17 | 2022-04-13 | 2022-05-18 |
 | [Same Stars](https://open.spotify.com/track/2ySfhhjJ7e59YOqJOCYOM7) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [Same Stars](https://open.spotify.com/album/7N0Jsh5uirHbaBqnf2Vc4k) | 2:40 | 2021-04-29 | 2021-05-06 |
 | [Sandcastle](https://open.spotify.com/track/0aoQatLl8N7NtLr1YPSu91) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [Sandcastle](https://open.spotify.com/album/3zRFYJfZzLlYKICALX1kyS) | 2:50 | 2022-09-07 | 2022-11-10 |
+| [Saturday](https://open.spotify.com/track/1pKKk3iHUA1ZeNbXyjF86a) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Saturday](https://open.spotify.com/album/2P8C75kv0y8CzGcRPFNjtc) | 2:48 | 2023-08-23 |  |
 | [Saturday](https://open.spotify.com/track/7DaqmSwW9Q8nAgW3ioU8Cl) | [Ódú](https://open.spotify.com/artist/5J0S0VMJPab8FUbu3vJ2ds) | [Saturday](https://open.spotify.com/album/5Q3Pc7s0hTSEMPzxJwp50m) | 3:35 | 2021-09-24 | 2022-01-13 |
 | [Save Your Prayers](https://open.spotify.com/track/4bKzBGu49VxduB5Bb9Ce3i) | [bloom](https://open.spotify.com/artist/3cXtMPyjj49G5dfZiO7W7Q) | [Save Your Prayers](https://open.spotify.com/album/3nReUdkHDaS8Ccvg8Etnty) | 3:13 | 2021-07-16 | 2021-09-02 |
 | [Saving Face](https://open.spotify.com/track/2ryATdlWSw5e2QkIZwOWN7) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Saving Face](https://open.spotify.com/album/6lcu11cmsWCGKyee35sb92) | 3:01 | 2023-06-07 | 2023-08-03 |
@@ -2785,7 +2787,7 @@
 | [Tongue](https://open.spotify.com/track/72CQvFsq5eCmwdQAvNHw0s) | [KEEKS](https://open.spotify.com/artist/1a0szpyoLfe9iC1II42U4o) | [Tongue](https://open.spotify.com/album/6fwozR7KIRyaPF34GUODcj) | 2:55 | 2022-07-06 | 2022-08-25 |
 | [Tongue Tied](https://open.spotify.com/track/3BVfxBL4HpBbju2VdV6Eyp) | [Drew.](https://open.spotify.com/artist/2X3RNnmuRsdXYLrNGn7oDm) | [Tongue Tied](https://open.spotify.com/album/51Rv8d8fbthw90H9UaqNfy) | 2:07 | 2022-01-12 | 2022-01-26 |
 | [tongue tied](https://open.spotify.com/track/0uNbv3DponnxhYndFGC8HU) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj) | [tongue tied](https://open.spotify.com/album/4K8I8MAAxRluGQ7SQyL3sl) | 3:20 | 2021-01-28 | 2021-02-25 |
-| [Tongue Tied](https://open.spotify.com/track/7hjxPMbVSE0EDKsbIF3hlg) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Tongue Tied](https://open.spotify.com/album/5X5OP2cZsFEk1HYPYwmmnZ) | 2:21 | 2023-05-24 |  |
+| [Tongue Tied](https://open.spotify.com/track/7hjxPMbVSE0EDKsbIF3hlg) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Tongue Tied](https://open.spotify.com/album/5X5OP2cZsFEk1HYPYwmmnZ) | 2:21 | 2023-05-24 | 2023-08-24 |
 | [Tongue Tied](https://open.spotify.com/track/4nOv98rbyxOyLTGvjYenrJ) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Tongue Tied](https://open.spotify.com/album/2xNgClNQjycAaVWM6MBoW6) | 2:58 | 2021-11-11 | 2021-12-01 |
 | [Too Good To Be Great](https://open.spotify.com/track/5yKUPmQluHTtdjht5jazgC) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Too Good To Be Great](https://open.spotify.com/album/0EMdnOXPNh0KhBBciy2HJh) | 3:06 | 2021-03-11 | 2021-04-08 |
 | [Too Many Hours](https://open.spotify.com/track/2mD0y1HRzTZBBarEdHpoRn) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Floodlight Fever](https://open.spotify.com/album/0q7Vou7pn6PYA0RVBhw8my) | 2:46 | 2021-03-11 | 2021-04-08 |

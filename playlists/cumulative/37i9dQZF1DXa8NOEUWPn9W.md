@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Claptone.
 
-689 songs - 1 day 18 hr 0 min
+689 songs - 1 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,7 @@
 | [Miami](https://open.spotify.com/track/3IVE4PaCFVFJauGDkoWke7) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [Once I Was Young](https://open.spotify.com/album/5YqMEy9J5JIskfp4zDti83) | 4:43 | 2022-12-28 | 2023-01-06 |
 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 | 2021-08-28 | 2022-04-21 |
 | [Middle](https://open.spotify.com/track/7pk1VW7qa7zBQDbqMWydUD) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/6xsGcIH2ZZyjQXv6YISOH0) | 3:01 | 2021-06-12 | 2022-07-29 |
-| [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:53 | 2023-07-28 |  |
+| [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 | 2023-07-28 |  |
 | [Miracle \(with Ellie Goulding\) \- Mau P Remix](https://open.spotify.com/track/3lsiqFV6SKhBgzQCpuM1JR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Miracle \(with Ellie Goulding\) \[Mau P Remix\]](https://open.spotify.com/album/2F5dzEAJZlxxMI0uGOQfYt) | 3:37 | 2023-04-28 | 2023-08-12 |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-22 | 2023-05-20 |
 | [Mirror](https://open.spotify.com/track/6UjW0h2wwYPA3nZGiNoE6b) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24) | [Mirror](https://open.spotify.com/album/4VNkV7mwVcBHsPVkvMLdf1) | 3:22 | 2023-07-28 |  |

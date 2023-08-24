@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Natanya\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,826 likes - 205 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,049 likes - 205 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 49 | [Love Is A Thang That, Pt.II](https://open.spotify.com/track/0xBY6ZTxIFhzIy3nrdv7hY) | [Caleb Taylor](https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH) | [Love Is A Thing That, Pt.II](https://open.spotify.com/album/171SYiQF2jpEFWqUtZ5l7L) | 1:48 |
 | 50 | [Coffee Shop](https://open.spotify.com/track/0v6nmmeBWS5RXRUOmBfPzI) | [Jade Massentoff](https://open.spotify.com/artist/0trWeG8FrBw1kjZNYYoMUd), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Coffee Shop](https://open.spotify.com/album/4iYEK9pZd6xeZUfJg28sY4) | 3:01 |
 | 51 | [A Simple Act](https://open.spotify.com/track/42M33hTmjZonBO3KBLbvnx) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts) | 3:32 |
-| 52 | [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 |
+| 52 | [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 |
 | 53 | [Deja Vu](https://open.spotify.com/track/5QfotYYaDUP0QBwnzQc1P7) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Deja Vu](https://open.spotify.com/album/0AfkaqtxSd6ubnsdeUspM0) | 3:08 |
 | 54 | [some help](https://open.spotify.com/track/1DHakofut96baXWxbELWlH) | [Rsieh Raxan](https://open.spotify.com/artist/33FLXaOcHRdGY8Jiw1WJ2d) | [some help](https://open.spotify.com/album/5TaF8zNbbmF2Y261OYfGqw) | 2:17 |
 | 55 | [PreLuude](https://open.spotify.com/track/7aSmytEPwzV2wFHZEtNfgh) | [Nikki Flores](https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB) | [PreLuude](https://open.spotify.com/album/5Z2QeG736CpEa2fLl6E6V7) | 3:33 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 204 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 |
 | 205 | [Borderline](https://open.spotify.com/track/1wuboor2JTlBQMAdeVoGpi) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [Borderline](https://open.spotify.com/album/5lz9iL7GHSTZ9HOUK8WFvw) | 4:09 |
 
-Snapshot ID: `MCw4NTkxNGQ4ZGRmYzRmNWQwNjJhNGRmMGEwYTViM2UzYzAzYWU5MGI3`
+Snapshot ID: `MCxjNmQ2ODI5MDY2OTdhZTg4MTgwMjliZmFkM2MzODNjMGE0Y2JmMWFh`

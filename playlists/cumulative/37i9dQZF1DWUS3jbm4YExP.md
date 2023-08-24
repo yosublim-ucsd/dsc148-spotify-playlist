@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-576 songs - 1 day 17 hr 47 min
+577 songs - 1 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [I Like It \(Don't Stop\)](https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9) | [Maxwell Udoh](https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 6:30 | 2021-10-06 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/0QTDCY85qljLPKHoekvrVL) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Daptone Records Singles Collection: Volume 5](https://open.spotify.com/album/6exNhKZyY5D4KOqSVJk0mx) | 3:33 | 2022-03-29 | 2023-08-14 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/438vUZj0qwC0zM4HMF3trH) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Daptone Records Singles Collection: Volume 5](https://open.spotify.com/album/7DeXMePPzsB5ztt4CrZGAV) | 3:33 | 2022-03-29 | 2023-04-30 |
+| [I'd Rather Go Blind](https://open.spotify.com/track/6SN0zMxQ7PlgpmwuVcGMgE) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [One Step Ahead](https://open.spotify.com/album/6oFyBwOwT0nh0hyOzr0Iht) | 3:36 | 2023-08-20 |  |
 | [I'm Gonna Make It](https://open.spotify.com/track/5oeL6Qnnlg4x789IMHQyl3) | [Gloria Jay](https://open.spotify.com/artist/6nF6ebJ5QfmyhqAfvo2mBG) | [Know What You Want](https://open.spotify.com/album/3SCzrlw8MWQzZxcGhG8moB) | 2:59 | 2021-10-06 | 2022-09-04 |
 | [I've Got Soul](https://open.spotify.com/track/1X4uGqysoMUdiX1yfWdwMT) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [David Marez](https://open.spotify.com/artist/1RXrFi7d58eFQxyWkdbQuq) | [I've Got Soul](https://open.spotify.com/album/5kQf8G6z3pRu1Zd10oJ99Z) | 3:29 | 2021-10-06 | 2022-07-29 |
 | [Ice V](https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice, Death, Planets, Lungs, Mushrooms And Lava](https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s) | 10:15 | 2022-09-09 | 2023-08-08 |
@@ -427,7 +428,7 @@
 | [Porsche 944](https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9) | [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Tigre d'Eau Douce](https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k) | [Marvin](https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO) | 3:55 | 2021-10-06 |  |
 | [Pretty Boys \(feat\. Khruangbin\)](https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 5:48 | 2021-10-06 |  |
 | [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 | 2022-11-20 |
-| [Pueblo](https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV) | [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ) | 1:43 | 2023-08-07 |  |
+| [Pueblo](https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV) | [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ) | 1:43 | 2023-08-07 | 2023-08-24 |
 | [Push Party](https://open.spotify.com/track/58OhTiU3KMT2pLvGeiYqoe) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Push Party](https://open.spotify.com/album/66HhgD8992OJjEk8X7KhM4) | 4:29 | 2021-10-26 | 2022-07-28 |
 | [Pé Di Bissilon](https://open.spotify.com/track/7FukgJWJ5qBI1vbXWKWPya) | [Bandé\-Gamboa](https://open.spotify.com/artist/0GvJLG8dgOx1tLGSXJW4Kf) | [Horizonte \- Revamping Rare Gems from Cabo Verde and Guinea\-Bissau](https://open.spotify.com/album/6nHSjff6aB7E60h19cdz2L) | 4:21 | 2021-10-06 | 2022-04-21 |
 | [Ragazzo](https://open.spotify.com/track/4LBhuxtdcv1ZIruY2P1xOz) | [Big Yawn](https://open.spotify.com/artist/01kK806Lcg2RNydzhYMzJZ) | [Ragazzo](https://open.spotify.com/album/57Ht9j2MEaJ65vkHiHuupX) | 3:27 | 2021-10-06 | 2022-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,262 likes - 102 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,248 likes - 102 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 101 | [Glasgowkyss](https://open.spotify.com/track/0KyqGOCLIyyYGa9UMXS5si) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Glasgowkyss](https://open.spotify.com/album/2diuedXxsq0lRszTiK28uN) | 3:54 |
 | 102 | [Our Energy](https://open.spotify.com/track/4KM8bp4QcSxlnq4VNszzNg) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Gina Livia](https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh) | [Our Energy](https://open.spotify.com/album/0baRBtUwBjjD5xWPyGAJeV) | 3:02 |
 
-Snapshot ID: `MCw1MzIwZjI1ZjA1YmM3ZDRkOGZkMzlhN2Y1MjRhY2RhNGZkYmNiZjZl`
+Snapshot ID: `MCw1MTk0MGY0OTMzZjg5ODEyODBhZmZiNGJlZTVlMjY5ZGJhZDQ0YjM3`

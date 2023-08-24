@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 102268,
+  "num_followers": 102310,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjU4ZjJlNGMzYjE5NWQ4ODQ2MmNiYjIxYTQxNmQ1YjIxYmQwZTg3",
+  "snapshot_id": "MCwyZWRjNzM0YzQzOWJkOTIwNTE3YWRiNGI3NTBjZTUyOTMwYWMxYjlk",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -59,8 +59,8 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "30 A\u00f1os Armonia 10",
-        "url": "https://open.spotify.com/album/0jxGMhNMdwZHrzhUOHglME"
+        "name": "Cl\u00e1sicos de Oro",
+        "url": "https://open.spotify.com/album/1dr9IiSe2FjT4PquZ2cAE3"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
         }
       ],
-      "duration_ms": 189973,
-      "name": "Dios M\u00edo Hasta Que Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4kzOSWuuJtde6nXW5vLmQD"
+      "duration_ms": 185925,
+      "name": "Dios Mio Has Que Me Enamore",
+      "url": "https://open.spotify.com/track/2Aqge19GldAwZRmIfaCxYx"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "A..estilo propio y jaranero",
-        "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos de Bambamarca",
-          "url": "https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m"
-        }
-      ],
-      "duration_ms": 365493,
-      "name": "La Chismosa",
-      "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "He Sentido Amor",
         "url": "https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 235154,
       "name": "He Sentido Amor",
       "url": "https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "A..estilo propio y jaranero",
+        "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos de Bambamarca",
+          "url": "https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m"
+        }
+      ],
+      "duration_ms": 365493,
+      "name": "La Chismosa",
+      "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
     },
     {
       "added_at": "2023-03-31 05:01:00",

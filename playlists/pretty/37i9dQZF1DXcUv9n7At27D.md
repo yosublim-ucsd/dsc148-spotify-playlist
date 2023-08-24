@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の夏に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,917 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,940 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 38 | [3 Romanzen für Violine und Klavier Op.22: 1\. Andante molto](https://open.spotify.com/track/3mzyTGFLlcSPUpO47GkD96) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Seiji Okamoto](https://open.spotify.com/artist/5Xdh3EzSnmmN52W8nVp60P), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc) | [frei aber einsam](https://open.spotify.com/album/2gX9f4VhPdbFJs61qCKK2Z) | 3:02 |
 | 39 | [初戀](https://open.spotify.com/track/1zYjk36LJjAxjAb6izoUSJ) | [Takeshi Senoo](https://open.spotify.com/artist/61n5YgL1SXRIre6tMYlhxq) | [RETRO MODERN DANDY](https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS) | 2:36 |
 | 40 | [いま、会いにゆきます](https://open.spotify.com/track/3Q76ByNVIsVmS0ZRbLIPm7) | [Suguru Matsutani](https://open.spotify.com/artist/0cGtHLKfga7uvnXld79LK7) | [WORKS](https://open.spotify.com/album/0Ou5yZUCihKLoiy6zfwk2I) | 5:57 |
-| 41 | [カノン](https://open.spotify.com/track/4vVlLzZ6dyB00AbVbbMq5X) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb), [高嶋ちさ子](https://open.spotify.com/artist/6L0FQdkLMXnxxBtiMYj4ss) | [HATS MUSIC COLLECTION \~ Spring & New Life](https://open.spotify.com/album/7rBxdT6frtLVCaLSx9Sc0R) | 4:26 |
+| 41 | [カノン](https://open.spotify.com/track/4vVlLzZ6dyB00AbVbbMq5X) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb), [高嶋ちさ子](https://open.spotify.com/artist/6L0FQdkLMXnxxBtiMYj4ss) | [HATS MUSIC COLLECTION ～ Spring & New Life](https://open.spotify.com/album/7rBxdT6frtLVCaLSx9Sc0R) | 4:26 |
 | 42 | [Songs My Mother Taught Me, Op\. 55 No\. 4, B\. 104 No\. 4 \(Arr\. Y\. Bandoh\)](https://open.spotify.com/track/7mR8mlsXniL9kAYhzfdhul) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [尾池亜美](https://open.spotify.com/artist/3cS5HS2INEMFnSOXCqcZrq), [Rino Kageyama](https://open.spotify.com/artist/7LW78dwND9q20GsutrLDwX) | [ZINGARO!!!](https://open.spotify.com/album/5OXK3sZG2btbOBCfnceWuz) | 3:16 |
 | 43 | [人生への古代のステップ](https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5) | [Takare Tadame](https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0) | [人生への古代のステップ](https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU) | 2:10 |
 | 44 | [By Night](https://open.spotify.com/track/4Hmg3T2TbcDfdOtj46dlqW) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [88 Keys](https://open.spotify.com/album/2TayNgXuzr6cjgzZ885R0g) | 1:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 49 | [Always You](https://open.spotify.com/track/4743TsEgme4vHSjWOmH1oi) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:17 |
 | 50 | [mou](https://open.spotify.com/track/12zymbsA9SpQ9TZqRg7gCn) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 2:53 |
 
-Snapshot ID: `MCxlNDU1Nzg3MTBmOTdjYzMyMDM2MmI5MWRmNDkwNzZhNjEyZGYwY2Nh`
+Snapshot ID: `MCwyMmYwZGViYWYwYTliMTE2N2FiMmQwNmY5MmRhNWY4YWI3MjgwZGNm`

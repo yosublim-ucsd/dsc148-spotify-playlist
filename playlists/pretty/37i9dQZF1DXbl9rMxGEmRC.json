@@ -1,12 +1,12 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
-  "num_followers": 454491,
+  "num_followers": 454706,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzczM2ZkMGRhMmNiYTNmNjlkYmQ2Yzc1ZjFkMWIwMzEyNzhhODY1",
+  "snapshot_id": "MCxkOWFmNmE1Mjg3MmVlNTY4N2I0MDkyNmFiMjQ0Y2Y2MGQyOTdlNDE5",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Faking It",
-        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
-      },
-      "artists": [
-        {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
-        }
-      ],
-      "duration_ms": 328015,
-      "name": "Faking It",
-      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Path Of Fierce Resistance",
         "url": "https://open.spotify.com/album/5pFoa1KA7r46eNuZvbdYX5"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 219400,
       "name": "Path Of Fierce Resistance",
       "url": "https://open.spotify.com/track/2wYiXAJ6552SGJlZnvewF7"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Die as a King",
-        "url": "https://open.spotify.com/album/2oekcukwotYHNZzkpxOfuP"
+        "name": "Compulsion for Cruelty",
+        "url": "https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL"
       },
       "artists": [
         {
-          "name": "Kataklysm",
-          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
+          "name": "Dying Fetus",
+          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
         }
       ],
-      "duration_ms": 217794,
-      "name": "Die as a King",
-      "url": "https://open.spotify.com/track/62t6283mMLU6BYb5QFjI0r"
+      "duration_ms": 277996,
+      "name": "Compulsion for Cruelty",
+      "url": "https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Compulsion for Cruelty",
-        "url": "https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL"
+        "name": "Die as a King",
+        "url": "https://open.spotify.com/album/2oekcukwotYHNZzkpxOfuP"
       },
       "artists": [
         {
-          "name": "Dying Fetus",
-          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
+          "name": "Kataklysm",
+          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
         }
       ],
-      "duration_ms": 277996,
-      "name": "Compulsion for Cruelty",
-      "url": "https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50"
+      "duration_ms": 217794,
+      "name": "Die as a King",
+      "url": "https://open.spotify.com/track/62t6283mMLU6BYb5QFjI0r"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -787,18 +787,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Singularity (Phase II - Xenotaph)",
-        "url": "https://open.spotify.com/album/5Rf3QTxZ42Lghe4pgIxc2o"
+        "name": "Holy Mountain",
+        "url": "https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL"
       },
       "artists": [
         {
-          "name": "Scar Symmetry",
-          "url": "https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6"
+          "name": "Rotting Christ",
+          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
+        },
+        {
+          "name": "Lars Nedland",
+          "url": "https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd"
         }
       ],
-      "duration_ms": 304440,
-      "name": "Chrononautilus",
-      "url": "https://open.spotify.com/track/1nwG0AkxnwCrqxmTN1spim"
+      "duration_ms": 313209,
+      "name": "Holy Mountain",
+      "url": "https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -819,22 +823,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Holy Mountain",
-        "url": "https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL"
+        "name": "The Singularity (Phase II - Xenotaph)",
+        "url": "https://open.spotify.com/album/5Rf3QTxZ42Lghe4pgIxc2o"
       },
       "artists": [
         {
-          "name": "Rotting Christ",
-          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
-        },
-        {
-          "name": "Lars Nedland",
-          "url": "https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd"
+          "name": "Scar Symmetry",
+          "url": "https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6"
         }
       ],
-      "duration_ms": 313209,
-      "name": "Holy Mountain",
-      "url": "https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U"
+      "duration_ms": 304440,
+      "name": "Chrononautilus",
+      "url": "https://open.spotify.com/track/1nwG0AkxnwCrqxmTN1spim"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Hell On Four Wheels",
-        "url": "https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7"
+        "name": "Devoid",
+        "url": "https://open.spotify.com/album/7u4PSnsEEGYs4MY2kKKObk"
       },
       "artists": [
         {
-          "name": "Warmen",
-          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
+          "name": "Dark Lunacy",
+          "url": "https://open.spotify.com/artist/63P5FOHij9qylmUA4rjHwQ"
         }
       ],
-      "duration_ms": 219653,
-      "name": "Hell On Four Wheels",
-      "url": "https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C"
+      "duration_ms": 427154,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/2cHRxt5cEvGjA244OqKmVC"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Devoid",
-        "url": "https://open.spotify.com/album/7u4PSnsEEGYs4MY2kKKObk"
+        "name": "Hell On Four Wheels",
+        "url": "https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7"
       },
       "artists": [
         {
-          "name": "Dark Lunacy",
-          "url": "https://open.spotify.com/artist/63P5FOHij9qylmUA4rjHwQ"
+          "name": "Warmen",
+          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
         }
       ],
-      "duration_ms": 427154,
-      "name": "Dolls",
-      "url": "https://open.spotify.com/track/2cHRxt5cEvGjA244OqKmVC"
+      "duration_ms": 219653,
+      "name": "Hell On Four Wheels",
+      "url": "https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Ontological Mysterium",
+        "url": "https://open.spotify.com/album/3ss5c9CfkPvTQeQutNcJEm"
+      },
+      "artists": [
+        {
+          "name": "Horrendous",
+          "url": "https://open.spotify.com/artist/1Na6P4MqOassrZtvT9Z12s"
+        }
+      ],
+      "duration_ms": 209726,
+      "name": "Neon Leviathan",
+      "url": "https://open.spotify.com/track/76dWCqKHCJLSpN4xWlEGco"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Stained In Rot",
         "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
       },
@@ -1155,6 +1171,22 @@
       "duration_ms": 254500,
       "name": "Stained In Rot",
       "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Bruja Encabronada",
+        "url": "https://open.spotify.com/album/0A47RiigR3Kic8hhr3zbvj"
+      },
+      "artists": [
+        {
+          "name": "Brujeria",
+          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Bruja Encabronada",
+      "url": "https://open.spotify.com/track/3owfKm1HAs3FiyZ5o7DkNM"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1175,18 +1207,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Warmen Are Here For None",
-        "url": "https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa"
+        "name": "Oxt to Anyone",
+        "url": "https://open.spotify.com/album/4WuHamV6YAKA3xUNpwkINO"
       },
       "artists": [
         {
-          "name": "Warmen",
-          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
+          "name": "Beurre",
+          "url": "https://open.spotify.com/artist/0LljVeNDyTJoH9peuKNWjg"
         }
       ],
-      "duration_ms": 217240,
-      "name": "Warmen Are Here For None",
-      "url": "https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO"
+      "duration_ms": 91173,
+      "name": "Uniform",
+      "url": "https://open.spotify.com/track/4weEZfLQRLafr8v7IT7fsN"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1207,50 +1239,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Oxt to Anyone",
-        "url": "https://open.spotify.com/album/4WuHamV6YAKA3xUNpwkINO"
+        "name": "Warmen Are Here For None",
+        "url": "https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa"
       },
       "artists": [
         {
-          "name": "Beurre",
-          "url": "https://open.spotify.com/artist/0LljVeNDyTJoH9peuKNWjg"
+          "name": "Warmen",
+          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
         }
       ],
-      "duration_ms": 91173,
-      "name": "Uniform",
-      "url": "https://open.spotify.com/track/4weEZfLQRLafr8v7IT7fsN"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Ontological Mysterium",
-        "url": "https://open.spotify.com/album/3ss5c9CfkPvTQeQutNcJEm"
-      },
-      "artists": [
-        {
-          "name": "Horrendous",
-          "url": "https://open.spotify.com/artist/1Na6P4MqOassrZtvT9Z12s"
-        }
-      ],
-      "duration_ms": 209726,
-      "name": "Neon Leviathan",
-      "url": "https://open.spotify.com/track/76dWCqKHCJLSpN4xWlEGco"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Bruja Encabronada",
-        "url": "https://open.spotify.com/album/0A47RiigR3Kic8hhr3zbvj"
-      },
-      "artists": [
-        {
-          "name": "Brujeria",
-          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Bruja Encabronada",
-      "url": "https://open.spotify.com/track/3owfKm1HAs3FiyZ5o7DkNM"
+      "duration_ms": 217240,
+      "name": "Warmen Are Here For None",
+      "url": "https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Avs\u00e4ndare Ok\u00e4nd",
-        "url": "https://open.spotify.com/album/7ANppiwdgIA2oxrq8mhEqm"
+        "name": "Here For None",
+        "url": "https://open.spotify.com/album/03CPGRDNYWE7pmA9yXDdNa"
       },
       "artists": [
         {
-          "name": "Shining",
-          "url": "https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya"
+          "name": "Warmen",
+          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
         }
       ],
-      "duration_ms": 508353,
-      "name": "Avs\u00e4ndare Ok\u00e4nd",
-      "url": "https://open.spotify.com/track/25oIp4MWarQehhgWyQGl3O"
+      "duration_ms": 189746,
+      "name": "A World Of Pain",
+      "url": "https://open.spotify.com/track/7paJIScWYg7SWhAn3KYPgN"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1367,18 +1367,34 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Cambrian Explosion",
-        "url": "https://open.spotify.com/album/0poic6k1yB9r89F2JpXKDI"
+        "name": "Thrice Woven",
+        "url": "https://open.spotify.com/album/1Uw3L9tXHZFuTS1lepKNVk"
       },
       "artists": [
         {
-          "name": "Alkaloid",
-          "url": "https://open.spotify.com/artist/4KMQDFaAsPEKcqKzdvkYKc"
+          "name": "Wolves In The Throne Room",
+          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
         }
       ],
-      "duration_ms": 239000,
-      "name": "The Cambrian Explosion",
-      "url": "https://open.spotify.com/track/0XDQEDR8gr6aaUY2jVpBXO"
+      "duration_ms": 576555,
+      "name": "Born from the Serpent's Eye",
+      "url": "https://open.spotify.com/track/7p0amXrQgyM53s3z9NfDty"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Avs\u00e4ndare Ok\u00e4nd",
+        "url": "https://open.spotify.com/album/7ANppiwdgIA2oxrq8mhEqm"
+      },
+      "artists": [
+        {
+          "name": "Shining",
+          "url": "https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya"
+        }
+      ],
+      "duration_ms": 508353,
+      "name": "Avs\u00e4ndare Ok\u00e4nd",
+      "url": "https://open.spotify.com/track/25oIp4MWarQehhgWyQGl3O"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1399,34 +1415,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Thrice Woven",
-        "url": "https://open.spotify.com/album/1Uw3L9tXHZFuTS1lepKNVk"
+        "name": "The Cambrian Explosion",
+        "url": "https://open.spotify.com/album/0poic6k1yB9r89F2JpXKDI"
       },
       "artists": [
         {
-          "name": "Wolves In The Throne Room",
-          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
+          "name": "Alkaloid",
+          "url": "https://open.spotify.com/artist/4KMQDFaAsPEKcqKzdvkYKc"
         }
       ],
-      "duration_ms": 576555,
-      "name": "Born from the Serpent's Eye",
-      "url": "https://open.spotify.com/track/7p0amXrQgyM53s3z9NfDty"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Here For None",
-        "url": "https://open.spotify.com/album/03CPGRDNYWE7pmA9yXDdNa"
-      },
-      "artists": [
-        {
-          "name": "Warmen",
-          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "A World Of Pain",
-      "url": "https://open.spotify.com/track/7paJIScWYg7SWhAn3KYPgN"
+      "duration_ms": 239000,
+      "name": "The Cambrian Explosion",
+      "url": "https://open.spotify.com/track/0XDQEDR8gr6aaUY2jVpBXO"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1463,38 +1463,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Homunculus (Spirit Made Flesh) IX",
-        "url": "https://open.spotify.com/album/6H3ZsGKvAFFhrZ8O2hBSxN"
-      },
-      "artists": [
-        {
-          "name": "Incantation",
-          "url": "https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz"
-        }
-      ],
-      "duration_ms": 277053,
-      "name": "Homunculus (Spirit Made Flesh) IX",
-      "url": "https://open.spotify.com/track/73JmAiEVuWR9z2EVQo8Ni5"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Kalmah",
-        "url": "https://open.spotify.com/album/2wxVRKpv3yVZXV7hv5muqr"
-      },
-      "artists": [
-        {
-          "name": "Kalmah",
-          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
-        }
-      ],
-      "duration_ms": 293677,
-      "name": "Serve the Untrue",
-      "url": "https://open.spotify.com/track/3VSjFsP90huj6wvNKaE3Uo"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Slasher",
         "url": "https://open.spotify.com/album/0qlglHVwWrCCkvFYCuSifB"
       },
@@ -1527,6 +1495,38 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Kalmah",
+        "url": "https://open.spotify.com/album/2wxVRKpv3yVZXV7hv5muqr"
+      },
+      "artists": [
+        {
+          "name": "Kalmah",
+          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
+        }
+      ],
+      "duration_ms": 293677,
+      "name": "Serve the Untrue",
+      "url": "https://open.spotify.com/track/3VSjFsP90huj6wvNKaE3Uo"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Homunculus (Spirit Made Flesh) IX",
+        "url": "https://open.spotify.com/album/6H3ZsGKvAFFhrZ8O2hBSxN"
+      },
+      "artists": [
+        {
+          "name": "Incantation",
+          "url": "https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz"
+        }
+      ],
+      "duration_ms": 277053,
+      "name": "Homunculus (Spirit Made Flesh) IX",
+      "url": "https://open.spotify.com/track/73JmAiEVuWR9z2EVQo8Ni5"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Sworn to the Dark",
         "url": "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
       },
@@ -1539,38 +1539,6 @@
       "duration_ms": 405866,
       "name": "Satan's Hunger",
       "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "A Crawling Feast of Decay",
-        "url": "https://open.spotify.com/album/4h88OeKLXsKtQ184ZCOKXa"
-      },
-      "artists": [
-        {
-          "name": "Grand Cadaver",
-          "url": "https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC"
-        }
-      ],
-      "duration_ms": 195455,
-      "name": "A Crawling Feast Of Decay",
-      "url": "https://open.spotify.com/track/6aEj5976amMbfkDso4b6F2"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "The Shadowthrone (Remastered 2021)",
-        "url": "https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 507640,
-      "name": "Hvite Krists D\u00f8d - Remastered 2021",
-      "url": "https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1591,6 +1559,38 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "The Shadowthrone (Remastered 2021)",
+        "url": "https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "duration_ms": 507640,
+      "name": "Hvite Krists D\u00f8d - Remastered 2021",
+      "url": "https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "A Crawling Feast of Decay",
+        "url": "https://open.spotify.com/album/4h88OeKLXsKtQ184ZCOKXa"
+      },
+      "artists": [
+        {
+          "name": "Grand Cadaver",
+          "url": "https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC"
+        }
+      ],
+      "duration_ms": 195455,
+      "name": "A Crawling Feast Of Decay",
+      "url": "https://open.spotify.com/track/6aEj5976amMbfkDso4b6F2"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Queen of the Dead Dimension",
         "url": "https://open.spotify.com/album/3WaZwT2pTDgkg17wE3Clad"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Black Medium Current",
-        "url": "https://open.spotify.com/album/6lJ8c7QFGE0x32KaslsRCE"
+        "name": "Island of Dead Men",
+        "url": "https://open.spotify.com/album/5wpL7nK7eCM33EXe9auPt1"
       },
       "artists": [
         {
-          "name": "D\u00f8dheimsgard",
-          "url": "https://open.spotify.com/artist/4EzPNgGmh8l2xPoTEgivT8"
+          "name": "Asinhell",
+          "url": "https://open.spotify.com/artist/0LDCMz2as9KQgSlX3KJNYx"
         }
       ],
-      "duration_ms": 619257,
-      "name": "Et smelter",
-      "url": "https://open.spotify.com/track/6WMv9iP4O2tvl8hfW5cHVW"
+      "duration_ms": 181853,
+      "name": "Island of Dead Men",
+      "url": "https://open.spotify.com/track/1n857ftGC4pbJhFjBmf5im"
     }
   ],
   "unique_name": "Extreme Metal",

@@ -2,7 +2,7 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> TRUCKER MOTHERF\*CKER!!
+> HÅLL UTKIK EFTER HOOJA SOM TUFFAR RUNT PÅ EN BASTUFLOTTE I STOCKHOLM!!
 
 738 songs - 1 day 7 hr 53 min
 
@@ -267,7 +267,7 @@
 | [GOOD PUSS](https://open.spotify.com/track/4nCdyt8Blll5Mt3ClGahn6) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/36Oy2gl0tlmssZ0B1Nj8x4) | 3:40 | 2022-03-24 | 2022-04-17 |
 | [GRANNEN](https://open.spotify.com/track/5txP2z9la3VltJANNVaQFW) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [GRANNEN](https://open.spotify.com/album/3isQ0HBxcCpuBTGRZQ9A3z) | 2:19 | 2022-09-15 | 2023-03-03 |
 | [Grip](https://open.spotify.com/track/4e6eg6qL181QDSzya2lQPZ) | [DOPEDROP](https://open.spotify.com/artist/20WsuMMc6p15WgDmUlttNx) | [Grip](https://open.spotify.com/album/4XUcTF67QEiG90k5tQnqAB) | 2:37 | 2021-12-16 | 2022-04-21 |
-| [GRUSVÄG](https://open.spotify.com/track/5CLydITobjloGLCI3KogSO) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GRUSVÄG](https://open.spotify.com/album/7cIz4GR8YnKmJtU6dckxYi) | 2:23 | 2023-05-25 | 2023-08-04 |
+| [GRUSVÄG](https://open.spotify.com/track/5CLydITobjloGLCI3KogSO) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GRUSVÄG](https://open.spotify.com/album/7cIz4GR8YnKmJtU6dckxYi) | 2:23 | 2023-05-25 |  |
 | [GUBBS](https://open.spotify.com/track/4w3j1axSc5mp9xUNjHyLoq) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [GETING, BEATS & SPORT](https://open.spotify.com/album/1424ajQP4ece9Im56m8rxE) | 3:05 | 2022-09-29 | 2022-11-18 |
 | [Guestlist +1](https://open.spotify.com/track/139J3VxWKa0aWRUbmObCxT) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Guestlist +1](https://open.spotify.com/album/06zBsNcKaa89kmSbZreV2X) | 2:28 | 2022-06-23 | 2022-08-26 |
 | [Guld och gröna skogar](https://open.spotify.com/track/0O3FDIuca4WWxK8bW7mEUC) | [Bonnaläppen](https://open.spotify.com/artist/5Zqatp4NZsbZ5VwmwMK1ZJ) | [Guld och gröna skogar](https://open.spotify.com/album/3KIdQkdsewOtD6524CXZjE) | 2:13 | 2023-08-10 |  |

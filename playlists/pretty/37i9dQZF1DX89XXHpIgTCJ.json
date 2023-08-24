@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 267069,
+  "num_followers": 267689,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmEzYjE2NDFkNjM0OTYzMjg5OTA5MTg3NGQ3NjE1NWFhOTI1MzJi",
+  "snapshot_id": "MCwyMDZjMjk4MjQ0NDM2OWQ2YWZkNzljZjc2MTg3ZWM5M2I4NWQ5MGJj",
   "tracks": [
     {
       "added_at": "2023-07-25 11:59:13",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-07-25 11:59:13",
       "album": {
-        "name": "Apocalypse 91\u2026 The Enemy Strikes Black",
-        "url": "https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        },
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Bring Tha Noize",
-      "url": "https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA"
-    },
-    {
-      "added_at": "2023-07-25 11:59:13",
-      "album": {
         "name": "Pegasus: Neon Shark vs Pegasus Presented By Travis Barker (Deluxe)",
         "url": "https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 250213,
       "name": "Unfuck The World",
       "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
+    },
+    {
+      "added_at": "2023-07-25 11:59:13",
+      "album": {
+        "name": "Apocalypse 91\u2026 The Enemy Strikes Black",
+        "url": "https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        },
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Bring Tha Noize",
+      "url": "https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA"
     },
     {
       "added_at": "2023-07-25 11:59:13",

@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Maanju Poyi",
+        "url": "https://open.spotify.com/album/1wLrzYfialQYyTw6vAxFu6"
+      },
+      "artists": [
+        {
+          "name": "Entercone",
+          "url": "https://open.spotify.com/artist/31IIGfZnnpIWzVph2zKGkG"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273385,
+      "name": "Maanju Poyi",
+      "url": "https://open.spotify.com/track/0FziXBnfNclTU9uPFVU0q7"
+    },
+    {
+      "album": {
         "name": "Maarane Thedum",
         "url": "https://open.spotify.com/album/5oya1Gh8pERbBLf9BYG5l7"
       },

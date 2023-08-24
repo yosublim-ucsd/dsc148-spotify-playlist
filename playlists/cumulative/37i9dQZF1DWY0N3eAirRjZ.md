@@ -2,9 +2,9 @@
 
 ### [All the Aloha: Native Hawaii](https://open.spotify.com/playlist/37i9dQZF1DWY0N3eAirRjZ)
 
-> From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: Keauhou
+> Please consider donating to Hawai'i Community Foundation's <a href="https://www.hawaiicommunityfoundation.org/maui\-strong?fbclid=IwAR13k\_bWcOzvA0EM6bF6CSmkSktK8G\[…\]EzD6jXm7wvU2z18gYZVchaFYOyGe2pBhhcts&mibextid=Zxz2cZ">Maui Strong Fund</a> to provide financial resources quickly to those that have been impacted by the devastating wildfires on Maui\. From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music.
 
-70 songs - 4 hr 26 min
+75 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bamboo](https://open.spotify.com/track/30KQItegXK7Refn1PbNcmI) | [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Proud as the Sun](https://open.spotify.com/album/3hpjWOp3vPo04z7iWtT4c3) | 3:37 | 2022-05-02 |  |
 | [E O Mai](https://open.spotify.com/track/6kXkbhwZcz6d7h04WsYswt) | [Keali'i Reichel](https://open.spotify.com/artist/5QieUEtijtUF3ABBp5JVYP) | [E O Mai](https://open.spotify.com/album/53GlD1PZG8AWOhpgCIIpCd) | 4:37 | 2022-05-02 |  |
 | [Feel the Sunshine](https://open.spotify.com/track/6ExZ4vG23GsUgAATjdPxwg) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 2:58 | 2023-02-24 |  |
+| [Funny Talk \(feat\. Fiji\)](https://open.spotify.com/track/2uwBFfhuVSgDVc7IWj2qe6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Funny Talk](https://open.spotify.com/album/4YvX9t3HLTFnomTnOj5QOa) | 2:57 | 2023-08-23 |  |
 | [Goodnight And Goodmorning](https://open.spotify.com/track/4LcetXHTxpEbUsPRYmVO90) | [Cecilio & Kapono](https://open.spotify.com/artist/2GG9Jh4qPx9iT0ynCtEFsy) | [Elua](https://open.spotify.com/album/2E0mlWGm6bgO8AHGuVVYDf) | 2:47 | 2022-05-02 |  |
 | [Haleakala Hula](https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Uluwehi Sings Na Mele Hula Aloha](https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe) | 2:35 | 2022-05-02 |  |
 | [Hanalei I Ka Pilimoe](https://open.spotify.com/track/16AgooUpw2xG8OQqGepEJZ) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:09 | 2022-05-02 |  |
@@ -28,6 +29,7 @@
 | [Heha Waipiʻo](https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:36 | 2022-08-26 |  |
 | [Hi'ilawe](https://open.spotify.com/track/7qTlRtGYNd9emAr8eB6xLk) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Pure Gabby](https://open.spotify.com/album/2Ta9PRl0lN9Bz2SDttccd1) | 4:08 | 2022-05-02 |  |
 | [Hilo Hula](https://open.spotify.com/track/2XctnPVkwBKFcRWf0QGaGF) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Hawaiian Island Breeze](https://open.spotify.com/album/2rOCJTDQKbDSxYWG930bMb) | 2:31 | 2022-05-02 |  |
+| [Home](https://open.spotify.com/track/2HvDdnIM3gzROq4jZ0t2ha) | [Jay.Keyz](https://open.spotify.com/artist/735Dj0ds517E8X1uPiJ35s) | [Home](https://open.spotify.com/album/2S6Y4khGh8zG8RVVvBAcP6) | 3:56 | 2023-08-23 |  |
 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 | 2022-05-02 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2022-05-02 |  |
 | [Huaka\`i](https://open.spotify.com/track/0ZAXFqWIT7Abz7RkXeMdFJ) | [Patrick Landeza](https://open.spotify.com/artist/7ujNPg1x9Q4n0CRNZ8JseP) | [Slack Key Huaka\`i](https://open.spotify.com/album/7hKvLXhooRXdqytXRZ6Ib7) | 3:26 | 2022-05-02 |  |
@@ -64,7 +66,9 @@
 | [Put a Little Love](https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL) | [Natural Vibrations](https://open.spotify.com/artist/2u0CzUCFU8OEoIFORUq6wJ) | [All Natural](https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax) | 4:24 | 2022-05-02 |  |
 | [Pālehua](https://open.spotify.com/track/4yTG9hIbRRZHQcjcij3suF) | [Amy Hanaiali'i](https://open.spotify.com/artist/2EmDuzFyrKX0CVFgwnU61Q), [Willie K](https://open.spotify.com/artist/2RzwqtC6CQeZUDXWz6wzlV) | [Hanaiali'i](https://open.spotify.com/album/5P41jVL17AKxQs1NT2apt0) | 3:23 | 2022-05-02 |  |
 | [Pōpoki Slack Key](https://open.spotify.com/track/06hR429T7qvOY5Dpw4y8iQ) | [Ray Kane](https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 2:39 | 2022-10-14 | 2022-11-13 |
+| [Roots Satisfaction Featuring Fiji](https://open.spotify.com/track/58S3oqkxQxdZTkx1RcMFO6) | [Laga Savea](https://open.spotify.com/artist/1VVHsW1mcNBjeiLFF3FcdZ) | [Roots Satisfaction \(U.S\. Release\)](https://open.spotify.com/album/67RxlEEtL4xJ9O8bpe9w8N) | 3:14 | 2023-08-23 |  |
 | [Round n Round \(feat\. Pepper & Kaleo Wassman\)](https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX) | [Vana Liya](https://open.spotify.com/artist/12GfQaPLWcOztNYsVL5wIV), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Round n Round](https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ) | 4:56 | 2022-05-02 |  |
+| [Shores of Waiehu](https://open.spotify.com/track/3WS1OpKVyB5oWYzh95afV5) | [Ekolu](https://open.spotify.com/artist/3DK8L6LNTwmg5l3KfzgcRx) | [Shores of Waiehu](https://open.spotify.com/album/40Y1O71qHycEQgzQtAoTPt) | 3:37 | 2023-08-23 |  |
 | [Simple Love Song](https://open.spotify.com/track/3HhqFgee7pgNVo7h87pVIm) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [A10: Best of Anuhea](https://open.spotify.com/album/3aivd94f6fp7NhMxVz4ZrN) | 3:44 | 2022-10-14 | 2022-11-13 |
 | [Simple Love Song](https://open.spotify.com/track/2bDmYeA5ovrMJQJ9AR1Mxj) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/2Canm6l7zAge5MV9iJ8ngy) | 3:44 | 2022-05-02 | 2022-07-29 |
 | [Simple Love Song](https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:44 | 2022-05-02 |  |
@@ -77,6 +81,7 @@
 | [Waimanalo Blues](https://open.spotify.com/track/6jt4XlR6GE96GPRUr2XdxX) | [Country Comfort](https://open.spotify.com/artist/67ca6wIED6oeHj5f84K93z), [Billy Kaui](https://open.spotify.com/artist/5h8cor75Nc5j0OlW1qxpA5), [Chuck Lee](https://open.spotify.com/artist/4AJY5AxgDGXnZePcpWlZ3O), [Randy Lorenzo](https://open.spotify.com/artist/34b3evbwuaICTdl0YoE7uZ), [Jimmy Freudenberg](https://open.spotify.com/artist/64MluByW6rSJzNtiMZqZUR), [Eugene Matsumura](https://open.spotify.com/artist/1yU5CoWeJ5cGUlM3nrMdVF), [Huge Hawaiian Hit](https://open.spotify.com/artist/5oGg6tyTExCb8dEo5cr2pL) | [We Are the Children](https://open.spotify.com/album/5FLk6tZkmjTFiW07quOApM) | 4:15 | 2022-05-02 |  |
 | [Whee Ha Swing](https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56) | 2:31 | 2022-05-02 |  |
 | [Whee Ha Swing](https://open.spotify.com/track/1ECsI8Z2IhCKpLZbsEe5iw) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters, Vol\. 1](https://open.spotify.com/album/53hJB0xPGms7KJxRZsWE0I) | 2:37 | 2022-05-02 | 2022-07-29 |
+| [When I Think About You](https://open.spotify.com/track/60Mv9DQI1mxjaSpfwTJHQZ) | [Ho'onu'a](https://open.spotify.com/artist/7fNv44w4jZllwDLtLMxvup) | [Feel Good Island Music](https://open.spotify.com/album/4bRTEB4bs4fn408VdimJEN) | 3:01 | 2023-08-23 |  |
 | [You Ku'uipo](https://open.spotify.com/track/3VnRQ8M9wksw8cTXTXoxOw) | [Willie K](https://open.spotify.com/artist/2RzwqtC6CQeZUDXWz6wzlV) | [The Uncle In Me Volume 1](https://open.spotify.com/album/4U9VLjuXnFynCYvlH5xqYM) | 4:44 | 2022-05-02 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

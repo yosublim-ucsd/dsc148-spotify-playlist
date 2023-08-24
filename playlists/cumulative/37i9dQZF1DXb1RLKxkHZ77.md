@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Danial Kifli
 
-272 songs - 17 hr 5 min
+274 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Benar](https://open.spotify.com/track/5XRffsZ6c9u2I2yWRZBBx1) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Benar](https://open.spotify.com/album/5LP13IhwD4ZdL7bZASjyQP) | 2:39 | 2023-03-15 | 2023-04-20 |
 | [Berdamai](https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:36 | 2022-05-25 | 2022-06-01 |
 | [Berkunjung Di Hari Raya](https://open.spotify.com/track/6bWQZ2rQR71qPr59MGZurE) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Berkunjung Di Hari Raya](https://open.spotify.com/album/7qhEWs5dLVxEv7jL6vy3aV) | 3:07 | 2023-04-12 | 2023-05-11 |
-| [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 | 2023-07-19 |  |
+| [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 | 2023-07-19 | 2023-08-24 |
 | [Bertahan / Pergi](https://open.spotify.com/track/5ljnTSvVHXNlOLYSRDWPgM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Bertahan / Pergi](https://open.spotify.com/album/33lrHJbplh0dOA5WzVP2T0) | 4:00 | 2022-11-24 | 2023-01-26 |
 | [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 | 2022-05-25 | 2022-10-09 |
 | [Bertahan Terluka](https://open.spotify.com/track/62sancAaHEMwPxBuatzaay) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:00 | 2023-02-01 | 2023-08-03 |
@@ -61,7 +61,7 @@
 | [Darah](https://open.spotify.com/track/4PK0MXzzC7iz7ygDCQn5Xj) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Darah](https://open.spotify.com/album/1fSHmbA2mAVQhLAZSZmNTO) | 3:29 | 2023-06-14 | 2023-07-12 |
 | [Debu \- Strings Version](https://open.spotify.com/track/5CRTFdqAMRs1F4NyfMnQFU) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV), [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Debu \(Strings Version\)](https://open.spotify.com/album/1EuSXRl5N6AQ2P03FnU5Kq) | 3:29 | 2022-11-16 | 2022-11-25 |
 | [DEPRESI](https://open.spotify.com/track/7rrwz7bK0FX723GxJtN1p7) | [IamNeeta](https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg) | [DEPRESI](https://open.spotify.com/album/2Sb5rDCcdR2tPtplSmJkWu) | 3:47 | 2022-12-21 | 2023-02-17 |
-| [DEPRESI \- Piano Version](https://open.spotify.com/track/1Pq3gJCrmdBIAlOUlbQLpv) | [IamNeeta](https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg) | [DEPRESI \(Piano Version\)](https://open.spotify.com/album/31K1IeCj9Q6cTRgrdPWgGt) | 4:30 | 2023-07-26 |  |
+| [DEPRESI \- Piano Version](https://open.spotify.com/track/1Pq3gJCrmdBIAlOUlbQLpv) | [IamNeeta](https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg) | [DEPRESI \(Piano Version\)](https://open.spotify.com/album/31K1IeCj9Q6cTRgrdPWgGt) | 4:30 | 2023-07-26 | 2023-08-24 |
 | [Di Alam Fana Cintamu](https://open.spotify.com/track/5WPTrrhMfB3U5B2N6rMMUR) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8), [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Di Alam Fana Cintamu](https://open.spotify.com/album/5Md6fqUN8QQ0sMDMrilSUi) | 5:06 | 2022-12-14 | 2023-04-13 |
 | [Di Sebalik Rahsia](https://open.spotify.com/track/7yJtvZjco9VZKE22DJTjmu) | [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Di Sebalik Rahsia](https://open.spotify.com/album/1LweEZf8kLWPwmS7xpyPWd) | 4:28 | 2023-05-31 | 2023-07-19 |
 | [Di Ujung Hari](https://open.spotify.com/track/1IZfp6REaaY2dF9U4fkEXV) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Di Ujung Hari](https://open.spotify.com/album/6EKeNdmZmzZpZanXKYA5wY) | 4:10 | 2023-03-29 | 2023-05-04 |
@@ -115,6 +115,7 @@
 | [Kan](https://open.spotify.com/track/4VzJN0sd8jrJ4P2N6S17Dx) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Kan](https://open.spotify.com/album/5j2TvYkvy5BA6KGXJuQajF) | 3:17 | 2022-05-25 | 2022-07-28 |
 | [Kasih Merintih \- Original Sound Track of Trinil](https://open.spotify.com/track/03rOLJudsev770bNjJY04f) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Kasih Merintih \(Original Sound Track of Trinil\)](https://open.spotify.com/album/5Hk1GEK6UnoFZEWYc2i66E) | 3:58 | 2022-11-24 | 2023-02-02 |
 | [Kau Aku Satu](https://open.spotify.com/track/58AeuoM5QMceFia2GS56zd) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Kau Aku Satu](https://open.spotify.com/album/4XnnqrZzMc6bxKL1nmMV1V) | 3:26 | 2023-02-15 | 2023-03-09 |
+| [Kau Tigakan Cinta](https://open.spotify.com/track/44PWXTnHRRpKvldbfKK9Oq) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Pesan Dari Surga](https://open.spotify.com/album/6sRTe26Ku29Ia4xvRxxin9) | 3:36 | 2023-08-23 |  |
 | [Kaulah Syurga](https://open.spotify.com/track/5Mg6WjcJyOCoz03mHBXhqd) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq), [Lia Aziz](https://open.spotify.com/artist/4Dxs6WepdnXGJWAC4vgmPp) | [Kaulah Syurga](https://open.spotify.com/album/674KAJHIrjzZx0ZpUPJyxp) | 3:49 | 2022-05-25 | 2022-09-01 |
 | [Kecewa](https://open.spotify.com/track/5kulMDqE2C0uCVUQ8X1Lby) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Kecewa](https://open.spotify.com/album/2f8y8MJAXRwq9G100DWIYH) | 3:21 | 2022-09-28 | 2022-12-15 |
 | [Kecundang](https://open.spotify.com/track/1EfguG6A84ob5TaMP7BmT2) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Selamat Tinggal Pujaan](https://open.spotify.com/album/29k6rNn6fU89ucu6UNadlo) | 2:28 | 2023-05-03 |  |
@@ -247,6 +248,7 @@
 | [SUSTENTO](https://open.spotify.com/track/2N2zdSWXytUAjziN6LJWFw) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh) | [SUSTENTO](https://open.spotify.com/album/0Agoz3tn21HjcaPo6gZmZW) | 3:00 | 2022-05-25 | 2022-07-22 |
 | [SUTERA](https://open.spotify.com/track/3kDvYWOTRzs5dEGKRsCizB) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [SUTERA](https://open.spotify.com/album/2apVqruZkI2V9EQheYcjzp) | 3:18 | 2022-08-03 | 2022-09-22 |
 | [SWIPE](https://open.spotify.com/track/1FNfR4kZyozQ1unC5rQGC6) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [SWIPE](https://open.spotify.com/album/5mtgm2XTGhtLxxHcYC6XU0) | 2:40 | 2022-10-27 | 2023-08-10 |
+| [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 | 2023-08-23 |  |
 | [Tak Ingin Kau Terluka](https://open.spotify.com/track/3HQgtw9EiCBPXsTQPrO2ZF) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx), [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Tak Ingin Kau Terluka](https://open.spotify.com/album/0uFlzYLmvdkLOffbpapdPW) | 4:09 | 2023-05-03 | 2023-06-01 |
 | [Tak Ingin Usai](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tak Ingin Usai](https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY) | 4:38 | 2022-06-01 | 2022-10-13 |
 | [Tak Ingin Usai \- Duet Version](https://open.spotify.com/track/0qPiK7vHmTMAckxIgKETN9) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Tak Ingin Usai \(Duet Version\)](https://open.spotify.com/album/16K8rQ5maxmxeJb5L3uuo4) | 4:38 | 2022-10-12 | 2023-05-24 |
