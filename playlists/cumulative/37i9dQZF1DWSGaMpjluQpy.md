@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-102 songs - 5 hr 51 min
+103 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Maybe We'll Meet Again](https://open.spotify.com/track/03DgmKAOSZy70tFCQZULM3) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Midnight Midtown Jazz \(Rain\)](https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC) | 3:40 | 2023-04-27 |  |
 | [Merry Monday \- With Rain](https://open.spotify.com/track/59dNEyVBv0ZoAe7zyvRl3L) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday \- With Rain](https://open.spotify.com/album/5f9MNfZHMS1tvWq55LdJU1) | 3:06 | 2023-04-27 |  |
 | [Midnight midtown](https://open.spotify.com/track/3A4bXk6EoP2nR6LyHnMecm) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Midnight Midtown Jazz \(Rain\)](https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC) | 4:36 | 2023-04-27 |  |
+| [Mist](https://open.spotify.com/track/5iM3nPaF06Dp4dGEzEKA1U) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Mist](https://open.spotify.com/album/32wjNexQ2ZLD5qU9SQRzo7) | 4:15 | 2023-08-24 |  |
 | [Misty Morning](https://open.spotify.com/track/7wYnL2pk7S3VqiiraH0DIi) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Midnight Midtown Jazz \(Rain\)](https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC) | 3:16 | 2023-04-27 |  |
 | [My Roses](https://open.spotify.com/track/2iY8BxUCYmtQkqU9igxNp4) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:39 | 2023-04-27 |  |
 | [My Tears](https://open.spotify.com/track/00cOVMkWHzwMWzYNGOBmF2) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [My Tears](https://open.spotify.com/album/1QAWyemipLW254r7eEbgov) | 3:53 | 2023-04-27 |  |

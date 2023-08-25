@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-235 songs - 9 hr 12 min
+236 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [flowers](https://open.spotify.com/track/3rOEB3uDJW8njCCzZHG8ug) | [Anatolian Lover](https://open.spotify.com/artist/623ScUknqQMeadlTsPsw0k), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [flowers](https://open.spotify.com/album/7tAaWz43voY2qe3kd4tvBL) | 1:45 | 2022-04-15 | 2022-07-27 |
 | [flumes](https://open.spotify.com/track/2RJLaVIbhv4TvYAyHUWEYs) | [dxwg](https://open.spotify.com/artist/3R7gYMibAfCIW7D9tN0UL5) | [flumes](https://open.spotify.com/album/4HOnws27YBHCLfI2Sx5JVH) | 2:30 | 2022-04-15 | 2022-07-29 |
 | [For Her](https://open.spotify.com/track/3CJpS12RnQe4gf00ssQnA7) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/1z2EULhFIYioLEV4K6DEHp) | 1:47 | 2022-04-15 | 2022-08-12 |
-| [For Her](https://open.spotify.com/track/5rzCO5V9AVV0zvgJbEfUos) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:47 | 2022-04-15 |  |
+| [For Her](https://open.spotify.com/track/5rzCO5V9AVV0zvgJbEfUos) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:47 | 2022-04-15 | 2023-08-25 |
 | [for you](https://open.spotify.com/track/2iGqmP4YP3hrx3ij9jvZsG) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/7hmMkesNBhzzGMiCbOCpMo) | 3:08 | 2022-04-15 | 2023-06-12 |
 | [for you](https://open.spotify.com/track/5hgX8pSZSOcKhsvzldsgWy) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/3W8IdpgA3elbN4BVggHCcd) | 3:08 | 2022-04-15 | 2022-11-19 |
 | [Found you by the Sea](https://open.spotify.com/track/2ovlA6kPP1XaR8hg7qgtnM) | [9thchord](https://open.spotify.com/artist/1FnAtXNjnVfTk157yQWzy5), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Found you by the Sea](https://open.spotify.com/album/2wH0zEupJScB87nbQhfFJt) | 2:56 | 2022-04-15 | 2022-07-29 |
@@ -217,6 +217,7 @@
 | [Tide](https://open.spotify.com/track/5la9kc6osTp6HZU9sHzEJx) | [Egger](https://open.spotify.com/artist/52VGhCTWuqf5fIdUqBtYkR), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [Tide](https://open.spotify.com/album/1zTcLZZrU1J9YISA0lCnYT) | 1:43 | 2022-04-15 | 2022-07-29 |
 | [time's arrow](https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [time's arrow](https://open.spotify.com/album/2Mp2LYqJ7G8GKnKKF0doym) | 2:18 | 2022-04-15 |  |
 | [TIMES](https://open.spotify.com/track/1U7XPqYnmrcodq6JLkAeWO) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 1:22 | 2022-04-15 | 2022-06-16 |
+| [Too Tired](https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Easy Feet](https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh) | 1:56 | 2022-04-15 |  |
 | [train ride home](https://open.spotify.com/track/57ArrGYCgOg4TkWNFG2SJw) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:18 | 2022-04-15 | 2022-11-25 |
 | [train ride home](https://open.spotify.com/track/70vGzrfqPGC8sa6Oo5b88g) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:18 | 2022-04-15 |  |
 | [Tumbleup](https://open.spotify.com/track/3EHkSFhEGzGav41IolQ6Cd) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Tumbleup](https://open.spotify.com/album/4GhZoS9GOTg9XgqroRTIWu) | 1:55 | 2022-04-15 | 2022-07-29 |

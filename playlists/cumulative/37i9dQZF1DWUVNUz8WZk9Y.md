@@ -38,12 +38,12 @@
 | [少年期](https://open.spotify.com/track/1ReCdmB1c7TCxTcaxYK8Z7) | [Tetsuya Takeda](https://open.spotify.com/artist/69XPjjmtVFyntrir7ZHfnk) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:11 | 2023-02-28 |  |
 | [帰る場所](https://open.spotify.com/track/5NkRMqbLWkWemyjsRpxVlg) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD) | [BALLAD](https://open.spotify.com/album/0J4VLq05izAr156iadxgLc) | 3:58 | 2023-02-28 |  |
 | [手をつなごう](https://open.spotify.com/track/1QoCVPSbayKifYbYIVDMV6) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Sing to the Sky](https://open.spotify.com/album/4dnXPRhXmwucQfyA2Qhlha) | 4:49 | 2023-02-28 |  |
-| [時の旅人](https://open.spotify.com/track/2u0EiTzKREGGN1BnIpOp3Q) | [Toshiyuki Nishida](https://open.spotify.com/artist/4djumM1qrx3qrRNTQworSy) | [エッセンシャル・ベスト 西田敏行](https://open.spotify.com/album/0cFhaCH30tnnGc73zMlB8S) | 4:00 | 2023-02-28 |  |
+| [時の旅人](https://open.spotify.com/track/2u0EiTzKREGGN1BnIpOp3Q) | [Toshiyuki Nishida](https://open.spotify.com/artist/4djumM1qrx3qrRNTQworSy) | [エッセンシャル・ベスト　西田敏行](https://open.spotify.com/album/0cFhaCH30tnnGc73zMlB8S) | 4:00 | 2023-02-28 |  |
 | [未来のミュージアム](https://open.spotify.com/track/3IIWswUsUI4BnTWYZU2UsN) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [未来のミュージアム](https://open.spotify.com/album/7Bc42pyMISw5ntd3qDqUtj) | 3:22 | 2023-02-28 |  |
 | [生きてる生きてく](https://open.spotify.com/track/6TT5cVq9gtm9Fxm1jm3RSj) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [生きてる生きてく](https://open.spotify.com/album/7qkPAM0ZbpWoZgfTbIxpg3) | 3:29 | 2023-02-28 |  |
 | [私のなかの銀河](https://open.spotify.com/track/18TJmCozSNyy2apOJfF8Wt) | [Kaientai](https://open.spotify.com/artist/1DsKJnZ0VeVD4ZEpDIegQF) | [涙、自ら拭い去る時](https://open.spotify.com/album/0lKauXhP2Zl2zOvXTgR7Co) | 4:23 | 2023-02-28 |  |
 | [空へ](https://open.spotify.com/track/1BewDJrYxLgN9nS2zhZY1i) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [山崎x映画](https://open.spotify.com/album/3SpIt27FGjgDE6WARb1oWK) | 4:35 | 2023-02-28 |  |
 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 | 2023-02-28 |  |
-| [風のマジカル](https://open.spotify.com/track/0mv1d2ALQZf7EORUJym7BU) | [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [裏K25 \~KOIZUMI KYOKO ALL TIME BEST 19→38\~](https://open.spotify.com/album/3dCD0h7bx5v13OSfV86d3r) | 4:07 | 2023-02-28 |  |
+| [風のマジカル](https://open.spotify.com/track/0mv1d2ALQZf7EORUJym7BU) | [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [裏K25 ～KOIZUMI KYOKO ALL TIME BEST 19→38～](https://open.spotify.com/album/3dCD0h7bx5v13OSfV86d3r) | 4:07 | 2023-02-28 |  |
 
 \*This playlist was first scraped on 2023-03-01. Prior content cannot be recovered.

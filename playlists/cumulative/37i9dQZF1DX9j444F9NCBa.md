@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-501 songs - 1 day 1 hr 33 min
+502 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Against All Odds](https://open.spotify.com/track/35BLTLHdlD60LAk90bTUmE) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [Against All Odds](https://open.spotify.com/album/4LeHYuZNVhTHaV9VzoDos4) | 3:48 | 2022-01-21 |  |
 | [All of Me](https://open.spotify.com/track/56ICwlcXIKFoLg2CzbKwKF) | [Lasse Ivonen](https://open.spotify.com/artist/4FLrO7HeEPdqMGIzKZwl5f) | [All of Me](https://open.spotify.com/album/29a3wLZ2Wl1YH4uWKcjtw5) | 3:01 | 2022-05-02 | 2023-05-12 |
 | [All of Me](https://open.spotify.com/track/3Q2dzhPIEYsgJ5CpkiVB8m) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Just Give Me A Reason](https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM) | 3:47 | 2022-09-05 | 2023-03-18 |
+| [All of Me](https://open.spotify.com/track/4i6crZJXCGOfv6TgbTWRKC) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [All of Me](https://open.spotify.com/album/0VjUnLN1LYk3zyV3Ai17K2) | 2:42 | 2023-08-24 |  |
 | [Always On My Mind](https://open.spotify.com/track/5zOw7nHXlGqoYTRmDnrw0g) | [Benjamin Daughtry](https://open.spotify.com/artist/5ii6Td83MJmap7UdXxxk1I) | [Always On My Mind](https://open.spotify.com/album/04gl0kOqCvtYuN0FhVu1MD) | 2:48 | 2023-04-14 |  |
 | [Always On My Mind](https://open.spotify.com/track/4UhT0Dxxm0cX6P2NBxCp5t) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Always On My Mind](https://open.spotify.com/album/7jH2myKPGQobKHSRHkTZN2) | 3:34 | 2022-12-02 | 2023-04-14 |
 | [Always Remember Us This Way](https://open.spotify.com/track/6dTnMa9af6WkwGh9Ci1Ocf) | [Susan Suarez](https://open.spotify.com/artist/7zXgNwttTYAgW38YUb2eon) | [Always Remember Us This Way](https://open.spotify.com/album/4lzQ6B9UPXltUqQ17VvzlP) | 3:27 | 2022-01-21 | 2023-04-29 |

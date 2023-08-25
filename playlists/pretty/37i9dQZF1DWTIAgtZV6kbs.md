@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,375 likes - 97 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,458 likes - 97 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,10 +100,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 90 | [You are the only one](https://open.spotify.com/track/7CfsVJLzbd50yCNSM6yKhL) | [三石琴乃](https://open.spotify.com/artist/6f1uKn32JhuBirTF3esEod) | [ヱヴァンゲリヲン新劇場版:序 オリジナルサウンドトラック](https://open.spotify.com/album/42IbFUaAvDHBJTo1ujxlCG) | 4:04 |
 | 91 | [蒼いレジェンド](https://open.spotify.com/track/2Fy7Qe48dNYidRmb5KLvKq) | [三石琴乃](https://open.spotify.com/artist/6f1uKn32JhuBirTF3esEod) | [ヱヴァンゲリヲン新劇場版:序 オリジナルサウンドトラック](https://open.spotify.com/album/42IbFUaAvDHBJTo1ujxlCG) | 4:34 |
 | 92 | [FALL in STAR](https://open.spotify.com/track/6OOUPeen0s0wb6CoBrJ7Lw) | [三石琴乃](https://open.spotify.com/artist/6f1uKn32JhuBirTF3esEod) | [ヱヴァンゲリヲン新劇場版:序 オリジナルサウンドトラック](https://open.spotify.com/album/42IbFUaAvDHBJTo1ujxlCG) | 4:30 |
-| 93 | [Dilemmatic triangle opera AYANAMI Version](https://open.spotify.com/track/4RNoAYuI8ibfHvsqBEYUDh) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [Fifty\~Fifty](https://open.spotify.com/album/2gw5R6dcwXeQkaDt29bjVp) | 5:43 |
+| 93 | [Dilemmatic triangle opera AYANAMI Version](https://open.spotify.com/track/4RNoAYuI8ibfHvsqBEYUDh) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [Fifty～Fifty](https://open.spotify.com/album/2gw5R6dcwXeQkaDt29bjVp) | 5:43 |
 | 94 | [ふりむかないで](https://open.spotify.com/track/57PWxaO7DEnS4cf1bbZZAs) | [The Peanuts](https://open.spotify.com/artist/5BZgkvkTEBu0cXyM1MkvKl) | [ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック](https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP) | 2:55 |
-| 95 | [真実一路のマーチ](https://open.spotify.com/track/3kkXdezh9GjvZ0Gd20dhFy) | [Kiyoko Suizenji](https://open.spotify.com/artist/3v8X96lvVXfrwC4bMrM4On) | [水前寺清子全曲集 \~熊本城・三百六十五歩のマーチ\~](https://open.spotify.com/album/0A6Iw003J1zPSweeXw8YLk) | 3:32 |
-| 96 | [世界は二人のために](https://open.spotify.com/track/1vWHMOsvrlwYp0X1rQyXpv) | [Naomi Sagara](https://open.spotify.com/artist/5hIYzEi9gBUCXOmrhV6M04) | [ゴールデン☆ベスト デラックス・58](https://open.spotify.com/album/0x5I0Ep6Qplcp7xQwyshrI) | 3:49 |
-| 97 | [人生を語らず](https://open.spotify.com/track/1zDPaZJxf4zbNPThFqjqu8) | [Takuro Yoshida](https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7) | [今はまだ人生を語らず\-1](https://open.spotify.com/album/2uhkQC2DTj5dtAM5wmi9t2) | 4:33 |
+| 95 | [真実一路のマーチ](https://open.spotify.com/track/3kkXdezh9GjvZ0Gd20dhFy) | [Kiyoko Suizenji](https://open.spotify.com/artist/3v8X96lvVXfrwC4bMrM4On) | [水前寺清子全曲集 ～熊本城・三百六十五歩のマーチ～](https://open.spotify.com/album/0A6Iw003J1zPSweeXw8YLk) | 3:32 |
+| 96 | [世界は二人のために](https://open.spotify.com/track/1vWHMOsvrlwYp0X1rQyXpv) | [Naomi Sagara](https://open.spotify.com/artist/5hIYzEi9gBUCXOmrhV6M04) | [ゴールデン☆ベスト　デラックス・58](https://open.spotify.com/album/0x5I0Ep6Qplcp7xQwyshrI) | 3:49 |
+| 97 | [人生を語らず](https://open.spotify.com/track/1zDPaZJxf4zbNPThFqjqu8) | [Takuro Yoshida](https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7) | [今はまだ人生を語らず－1](https://open.spotify.com/album/2uhkQC2DTj5dtAM5wmi9t2) | 4:33 |
 
-Snapshot ID: `MCxkYmQ3NTIyYmRmM2MxYWQ0OTYzNGFiNDQxY2RhMzg5OTkzNjEyY2Zj`
+Snapshot ID: `MCxiZTg2NDQ4ZWRmNzZiNDk4MTQ0Mjg2OTZmZTBmY2FmMmE1MWY2ZTJi`

@@ -1,31 +1,31 @@
 {
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
-  "num_followers": 156926,
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc",
+  "num_followers": 157025,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQ0ODg5YzM2NWQyMzA1NzA4YThiMmM3MmJlYzY2NTQ2Y2MzMDhl",
+  "snapshot_id": "MCxmNTcwOTMxMjlhNjZmZDA1Mjg1NjNkYWRhYjIyMzAwODBiZjg4NTRj",
   "tracks": [
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "C'est toi",
-        "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
+        "name": "London Fever",
+        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
       },
       "artists": [
         {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 131480,
-      "name": "C'est toi",
-      "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
+      "duration_ms": 202106,
+      "name": "London Fever",
+      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "Luva",
         "url": "https://open.spotify.com/album/5ncmjE3vxiuOCqcwyuEjhN"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/7bDv1BzoGPSnniq1Xe0vvG"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "Samira 3",
         "url": "https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv"
@@ -65,7 +65,23 @@
       "url": "https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 131480,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
@@ -81,99 +97,7 @@
       "url": "https://open.spotify.com/track/07l8zhiWw5NhHmd9rOmo4G"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Faits Divers",
-        "url": "https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51"
-      },
-      "artists": [
-        {
-          "name": "JEY BROWNIE",
-          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
-        },
-        {
-          "name": "FLEM KGB",
-          "url": "https://open.spotify.com/artist/2nnza2r2urV90Ykr5Sfnsi"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "GTB",
-      "url": "https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Pour nous",
-        "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
-      },
-      "artists": [
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 167251,
-      "name": "Pour nous",
-      "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
-    },
-    {
-      "added_at": "2023-08-19 09:41:46",
-      "album": {
-        "name": "Quelqu'un d'autre",
-        "url": "https://open.spotify.com/album/4fvXVtz9imF8xZlaK7G8ra"
-      },
-      "artists": [
-        {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Quelqu'un d'autre",
-      "url": "https://open.spotify.com/track/3Ni5MBq60khbNsor0UYlzk"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "London Fever",
-        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "London Fever",
-      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Dans La Chambre / Money",
-        "url": "https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 285870,
-      "name": "Dans La Chambre / Money",
-      "url": "https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "Daddy 9",
         "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
@@ -193,7 +117,115 @@
       "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Faits Divers",
+        "url": "https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        },
+        {
+          "name": "FLEM KGB",
+          "url": "https://open.spotify.com/artist/2nnza2r2urV90Ykr5Sfnsi"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "GTB",
+      "url": "https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Rassure-toi",
+        "url": "https://open.spotify.com/album/08kXWDkoGFhwlg5NPatEXo"
+      },
+      "artists": [
+        {
+          "name": "Cadie Nelva",
+          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
+        }
+      ],
+      "duration_ms": 174061,
+      "name": "Rassure-toi",
+      "url": "https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Dans La Chambre / Money",
+        "url": "https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 285870,
+      "name": "Dans La Chambre / Money",
+      "url": "https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Pour nous",
+        "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 167251,
+      "name": "Pour nous",
+      "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Quelqu'un d'autre",
+        "url": "https://open.spotify.com/album/4fvXVtz9imF8xZlaK7G8ra"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Quelqu'un d'autre",
+      "url": "https://open.spotify.com/track/3Ni5MBq60khbNsor0UYlzk"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "On vient de loin",
+        "url": "https://open.spotify.com/album/12fpYUwuFUcvwCplvxNQSV"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "duration_ms": 152617,
+      "name": "On vient de loin",
+      "url": "https://open.spotify.com/track/2hsWXtf1kKPubl90gl6PbQ"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "Un peu de moi",
         "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
@@ -209,87 +241,7 @@
       "url": "https://open.spotify.com/track/5e19nB0x3kkuIDPjfQx609"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Makele",
-        "url": "https://open.spotify.com/album/4y2B5kpPU9volLqTnDDoCZ"
-      },
-      "artists": [
-        {
-          "name": "Meiitod",
-          "url": "https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS"
-        },
-        {
-          "name": "Lil Jay Bingerack",
-          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Makelele",
-      "url": "https://open.spotify.com/track/3LHgc025pXKdA57Wu7tCra"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Dernier je t'aime",
-        "url": "https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Nov",
-          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "Dernier je t'aime",
-      "url": "https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Drama (Partie II)",
-        "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
-      },
-      "artists": [
-        {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
-        },
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Comme avant (feat. Low Jay)",
-      "url": "https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "G\u00c9 VOULAIT",
-        "url": "https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 161122,
-      "name": "G\u00c9 VOULAIT",
-      "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "R\u00e9silience",
         "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
@@ -309,71 +261,7 @@
       "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Step By Step",
-        "url": "https://open.spotify.com/album/7opoRFAZZnYiB8nG4gVQVA"
-      },
-      "artists": [
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Step By Step",
-      "url": "https://open.spotify.com/track/4mJBWq4XbarSGfDNJ8ufF7"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "SPECIALE",
-        "url": "https://open.spotify.com/album/4wZMPmutewDauGR8Yv4wxF"
-      },
-      "artists": [
-        {
-          "name": "Barack Adama",
-          "url": "https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M"
-        }
-      ],
-      "duration_ms": 154403,
-      "name": "SPECIALE",
-      "url": "https://open.spotify.com/track/3L2nk3jh5Q25ibYEDRjRo5"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Zina",
-        "url": "https://open.spotify.com/album/2ctn0Isyb0sySJ8tLoxb8X"
-      },
-      "artists": [
-        {
-          "name": "Emkal",
-          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
-        }
-      ],
-      "duration_ms": 136471,
-      "name": "Zina",
-      "url": "https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 223073,
-      "name": "Carry Me",
-      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
@@ -397,7 +285,43 @@
       "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 223073,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Drama (Partie II)",
+        "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        },
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Comme avant (feat. Low Jay)",
+      "url": "https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "M\u00e8re ya Palais",
         "url": "https://open.spotify.com/album/6URO16cnGDleeYxQFZE8Yj"
@@ -413,7 +337,39 @@
       "url": "https://open.spotify.com/track/40XrmyoNFxG5KehHeFvrKT"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Zina",
+        "url": "https://open.spotify.com/album/2ctn0Isyb0sySJ8tLoxb8X"
+      },
+      "artists": [
+        {
+          "name": "Emkal",
+          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
+        }
+      ],
+      "duration_ms": 136471,
+      "name": "Zina",
+      "url": "https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Bunker 09",
+        "url": "https://open.spotify.com/album/12PLqI9BiLCPlLihhoEExV"
+      },
+      "artists": [
+        {
+          "name": "Minissia",
+          "url": "https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bunker 09",
+      "url": "https://open.spotify.com/track/4t7KDvE1AO02Jr0uDIJYY6"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "D\u00e9lire (feat. Tiakola)",
         "url": "https://open.spotify.com/album/459LQDfdX2DMzsymKkRRfP"
@@ -433,27 +389,43 @@
       "url": "https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "R\u00e9silience (R\u00e9edition)",
-        "url": "https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON"
+        "name": "Mon coco",
+        "url": "https://open.spotify.com/album/6dfhAN5YdT4WpCgM048lqQ"
       },
       "artists": [
         {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Dertay",
+          "url": "https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Yabibi (feat. Nej)",
-      "url": "https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk"
+      "duration_ms": 164745,
+      "name": "Mon coco",
+      "url": "https://open.spotify.com/track/5XTtRcxSLqyflaklKITjvi"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "G\u00c9 VOULAIT",
+        "url": "https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 161122,
+      "name": "G\u00c9 VOULAIT",
+      "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "FAREWELL",
         "url": "https://open.spotify.com/album/5LjYtn7feCJfP3vpaHw7s5"
@@ -473,99 +445,7 @@
       "url": "https://open.spotify.com/track/5fZvfkA6x85Ie2YtvRrB1Q"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Mon coco",
-        "url": "https://open.spotify.com/album/6dfhAN5YdT4WpCgM048lqQ"
-      },
-      "artists": [
-        {
-          "name": "Dertay",
-          "url": "https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Mon coco",
-      "url": "https://open.spotify.com/track/5XTtRcxSLqyflaklKITjvi"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Un peu de moi",
-        "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
-      },
-      "artists": [
-        {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "C\u00e2lin (feat. Soolking)",
-      "url": "https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "En attendant PM",
-        "url": "https://open.spotify.com/album/62FGudHITMLyLr0dZFV8Xa"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00efssa",
-          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
-        }
-      ],
-      "duration_ms": 182998,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/1zeHHVvlytOKg37iwMBK9y"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/6ON6G3oNKLuDYfJOshwuK6"
-      },
-      "artists": [
-        {
-          "name": "Mv",
-          "url": "https://open.spotify.com/artist/4NCWWjplzDnwE3YAkRLHjc"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 169579,
-      "name": "K.O",
-      "url": "https://open.spotify.com/track/7fYlVF4X0NFcU2cVMJT3ve"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Enchant\u00e9",
-        "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
-      },
-      "artists": [
-        {
-          "name": "Bramsito",
-          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
-        },
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "CV (feat. RK)",
-      "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "BBM",
         "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
@@ -585,55 +465,43 @@
       "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "La Vie de Roni",
-        "url": "https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef"
+        "name": "En attendant PM",
+        "url": "https://open.spotify.com/album/62FGudHITMLyLr0dZFV8Xa"
       },
       "artists": [
         {
-          "name": "AMK",
-          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+          "name": "Ma\u00efssa",
+          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
         }
       ],
-      "duration_ms": 163759,
-      "name": "Recommencer",
-      "url": "https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF"
+      "duration_ms": 182998,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/1zeHHVvlytOKg37iwMBK9y"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Love Story III",
-        "url": "https://open.spotify.com/album/1pRv3dJ8Z46Rl5copApNpj"
+        "name": "R\u00e9silience (R\u00e9edition)",
+        "url": "https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON"
       },
       "artists": [
         {
-          "name": "Mkz03",
-          "url": "https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi"
-        }
-      ],
-      "duration_ms": 126981,
-      "name": "Love Story III",
-      "url": "https://open.spotify.com/track/40OWsWC7SqFIK5GtqswGsP"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "M\u00e9t\u00e9o",
-        "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
-      },
-      "artists": [
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
         {
           "name": "Nej",
           "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
         }
       ],
-      "duration_ms": 182970,
-      "name": "M\u00e9t\u00e9o",
-      "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
+      "duration_ms": 157000,
+      "name": "Yabibi (feat. Nej)",
+      "url": "https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "Chou",
         "url": "https://open.spotify.com/album/2uyNkQUMUFcjx1OrNSz8jp"
@@ -653,27 +521,63 @@
       "url": "https://open.spotify.com/track/6iUiqclxAWQPVwmw0e3vYq"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "UNE LARME DE +",
-        "url": "https://open.spotify.com/album/5p22pIQyjHxtEU9ZflwmKc"
+        "name": "Step By Step",
+        "url": "https://open.spotify.com/album/7opoRFAZZnYiB8nG4gVQVA"
       },
       "artists": [
         {
-          "name": "Araujo",
-          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
-        },
-        {
-          "name": "JEY BROWNIE",
-          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
         }
       ],
-      "duration_ms": 159398,
-      "name": "KM",
-      "url": "https://open.spotify.com/track/3JAhkNrtJBjeAoJB2B5Aei"
+      "duration_ms": 171733,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/4mJBWq4XbarSGfDNJ8ufF7"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Enchant\u00e9",
+        "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
+      },
+      "artists": [
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "CV (feat. RK)",
+      "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Dernier je t'aime",
+        "url": "https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "Dernier je t'aime",
+      "url": "https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "S\u00dbR ET CERTAIN",
         "url": "https://open.spotify.com/album/5lybxL3zlWlLz4eYh9Ns67"
@@ -693,39 +597,115 @@
       "url": "https://open.spotify.com/track/5o9i7yTVirTIMMQrZrtTkd"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/7nLkUKpKDd9ZUxAi2O0YKQ"
+        "name": "Makele",
+        "url": "https://open.spotify.com/album/4y2B5kpPU9volLqTnDDoCZ"
       },
       "artists": [
         {
-          "name": "SisiK",
-          "url": "https://open.spotify.com/artist/2uCRg5frmbfGvzlLRR0Pyi"
+          "name": "Meiitod",
+          "url": "https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS"
+        },
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
         }
       ],
-      "duration_ms": 158378,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/4vUDJ6ajc7zjVjCu132UvT"
+      "duration_ms": 165517,
+      "name": "Makelele",
+      "url": "https://open.spotify.com/track/3LHgc025pXKdA57Wu7tCra"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Sans Filtre",
-        "url": "https://open.spotify.com/album/5JczTcyvSeUFSE4h5pBfIW"
+        "name": "La Vie de Roni",
+        "url": "https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef"
       },
       "artists": [
         {
-          "name": "Ruthee",
-          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Sans Filtre",
-      "url": "https://open.spotify.com/track/2XNcON85G8D4uX4e8DwJrq"
+      "duration_ms": 163759,
+      "name": "Recommencer",
+      "url": "https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF"
     },
     {
-      "added_at": "2023-08-10 22:01:00",
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/6ON6G3oNKLuDYfJOshwuK6"
+      },
+      "artists": [
+        {
+          "name": "Mv",
+          "url": "https://open.spotify.com/artist/4NCWWjplzDnwE3YAkRLHjc"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 169579,
+      "name": "K.O",
+      "url": "https://open.spotify.com/track/7fYlVF4X0NFcU2cVMJT3ve"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "SPECIALE",
+        "url": "https://open.spotify.com/album/4wZMPmutewDauGR8Yv4wxF"
+      },
+      "artists": [
+        {
+          "name": "Barack Adama",
+          "url": "https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M"
+        }
+      ],
+      "duration_ms": 154403,
+      "name": "SPECIALE",
+      "url": "https://open.spotify.com/track/3L2nk3jh5Q25ibYEDRjRo5"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Love Story III",
+        "url": "https://open.spotify.com/album/1pRv3dJ8Z46Rl5copApNpj"
+      },
+      "artists": [
+        {
+          "name": "Mkz03",
+          "url": "https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi"
+        }
+      ],
+      "duration_ms": 126981,
+      "name": "Love Story III",
+      "url": "https://open.spotify.com/track/40OWsWC7SqFIK5GtqswGsP"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "UNE LARME DE +",
+        "url": "https://open.spotify.com/album/5p22pIQyjHxtEU9ZflwmKc"
+      },
+      "artists": [
+        {
+          "name": "Araujo",
+          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
+        },
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "duration_ms": 159398,
+      "name": "KM",
+      "url": "https://open.spotify.com/track/3JAhkNrtJBjeAoJB2B5Aei"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "Henny",
         "url": "https://open.spotify.com/album/5uhxqK0SAwJYCulcb9ug9R"
@@ -743,6 +723,22 @@
       "duration_ms": 149106,
       "name": "Henny",
       "url": "https://open.spotify.com/track/5kFqyOxSzbsXVaqVfXhJ57"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/7nLkUKpKDd9ZUxAi2O0YKQ"
+      },
+      "artists": [
+        {
+          "name": "SisiK",
+          "url": "https://open.spotify.com/artist/2uCRg5frmbfGvzlLRR0Pyi"
+        }
+      ],
+      "duration_ms": 158378,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/4vUDJ6ajc7zjVjCu132UvT"
     }
   ],
   "unique_name": "R&Bae",

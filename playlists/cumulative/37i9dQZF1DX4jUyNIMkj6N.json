@@ -988,7 +988,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 146573,
       "name": "Ei ny tid",
       "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
@@ -2212,6 +2212,24 @@
       "duration_ms": 263080,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
+    },
+    {
+      "album": {
+        "name": "Mycelium/Let Her Teach You",
+        "url": "https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ"
+      },
+      "artists": [
+        {
+          "name": "Fia",
+          "url": "https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197366,
+      "name": "Mycelium",
+      "url": "https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6"
     },
     {
       "album": {

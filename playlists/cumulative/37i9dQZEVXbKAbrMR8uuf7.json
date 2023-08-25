@@ -2271,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "BIM BIM",
+        "url": "https://open.spotify.com/album/42DF6QgKuMRl0bpmiyVnGv"
+      },
+      "artists": [
+        {
+          "name": "J Luminari",
+          "url": "https://open.spotify.com/artist/058Q0KtUhCc6ADjIwBvi3L"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "BIM BIM",
+      "url": "https://open.spotify.com/track/6cQIVOogRq8CZ0HKPuQeHZ"
+    },
+    {
+      "album": {
         "name": "Bisami",
         "url": "https://open.spotify.com/album/5vqlGFDDRQp5F7hWlrWWbJ"
       },
@@ -3878,7 +3896,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 200454,
       "name": "Cuerpo Natural",
       "url": "https://open.spotify.com/track/4EvvYJIu3l45MCUHDvZf7Q"
@@ -6782,7 +6800,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Fuap",
       "url": "https://open.spotify.com/track/28SnYTIt7AZesz8jj7DGEZ"
@@ -13498,7 +13516,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
@@ -15422,7 +15440,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
@@ -18881,6 +18899,24 @@
     },
     {
       "album": {
+        "name": "Te Borre",
+        "url": "https://open.spotify.com/album/65nGjgp50X6uzsHXvKoPca"
+      },
+      "artists": [
+        {
+          "name": "J Luminari",
+          "url": "https://open.spotify.com/artist/058Q0KtUhCc6ADjIwBvi3L"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185182,
+      "name": "Te Borre",
+      "url": "https://open.spotify.com/track/4xl2CCVJQsHw90Cq84FqLG"
+    },
+    {
+      "album": {
         "name": "SEN2 KBRN VOL. 2",
         "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
       },
@@ -19956,7 +19992,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 123141,
       "name": "Ubicacion y Foto",
       "url": "https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a"
@@ -20820,6 +20856,24 @@
       "duration_ms": 170391,
       "name": "Weak",
       "url": "https://open.spotify.com/track/0RnQgLWw6TiALyo5fqXVXX"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "album": {

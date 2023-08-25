@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Carmen Sánchez Viamonte\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,920 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,954 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 23 | [Tratando de olvidar](https://open.spotify.com/track/1dhFPv566hlN4IWaaQzcMk) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [Pa Lxs Niñxs Tristes](https://open.spotify.com/album/3hjzDKMfph8AtfS5wC6F8X) | 2:52 |
 | 24 | [TUYO](https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [TUYO](https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ) | 3:09 |
 | 25 | [Enloqueciendo](https://open.spotify.com/track/7DjgJCvcx22XyZ5ounl1ml) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Esteban Sterling](https://open.spotify.com/artist/2I6Q1wQDqpRXkLeLR8w9oe) | [Enloqueciendo](https://open.spotify.com/album/0RlEealRuqOhv0HvnAryUF) | 4:05 |
-| 26 | [Otra Manera](https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:13 |
-| 27 | [Astronauta](https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Polos Vol\. II](https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV) | 3:52 |
+| 26 | [Astronauta](https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Polos Vol\. II](https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV) | 3:52 |
+| 27 | [Otra Manera](https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:13 |
 | 28 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 |
 | 29 | [Dime](https://open.spotify.com/track/19mB6i7AW9Fu8Fa6WT4dSR) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Dime](https://open.spotify.com/album/5zpToVFpV0fWUuZAbLoG4X) | 2:42 |
-| 30 | [Entrá](https://open.spotify.com/track/7nCEobOjhCLue88XZzhpzF) | [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2), [YOUNG KALIF](https://open.spotify.com/artist/0qLJUMYyKwh1nLfzczCzPi), [MIRACALI](https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG) | [Entrá](https://open.spotify.com/album/4yjujCVjUjlFxIpu4OaYh1) | 3:11 |
-| 31 | [Universitario de Deportes](https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Camino al Infierno Esta Lleno de Buenas Intenciones](https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj) | 1:56 |
+| 30 | [La Vida No Quiso](https://open.spotify.com/track/0Fbi1j0XLOqJgPu52qul4w) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [La Vida No Quiso](https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz) | 3:36 |
+| 31 | [Entrá](https://open.spotify.com/track/7nCEobOjhCLue88XZzhpzF) | [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2), [YOUNG KALIF](https://open.spotify.com/artist/0qLJUMYyKwh1nLfzczCzPi), [MIRACALI](https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG) | [Entrá](https://open.spotify.com/album/4yjujCVjUjlFxIpu4OaYh1) | 3:11 |
 | 32 | [Anime](https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Anime](https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR) | 2:39 |
-| 33 | [Pedazos](https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Pedazos](https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd) | 2:57 |
+| 33 | [Universitario de Deportes](https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Camino al Infierno Esta Lleno de Buenas Intenciones](https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj) | 1:56 |
 | 34 | [Amar](https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK) | [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr) | [Amar](https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531) | 4:00 |
-| 35 | [La Vida No Quiso](https://open.spotify.com/track/0Fbi1j0XLOqJgPu52qul4w) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [La Vida No Quiso](https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz) | 3:36 |
+| 35 | [Pedazos](https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Pedazos](https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd) | 2:57 |
 | 36 | [5 MENOS 1](https://open.spotify.com/track/7vXuhIc6HzLoR2ix3OGDkS) | [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn) | [5 MENOS 1](https://open.spotify.com/album/084qaHSkGU48GZYMAXjqrI) | 2:07 |
 | 37 | [Patio de Adelante](https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa) | [Playa Gótica](https://open.spotify.com/artist/1l4eyzytKntvPlHMCyPkKz) | [Patio de Adelante](https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj) | 3:56 |
 | 38 | [Lima](https://open.spotify.com/track/0UyCfILValztCwbv4DmbXX) | [Malen](https://open.spotify.com/artist/2T3sYqqFKWb8v6eAneWEfP) | [Lima](https://open.spotify.com/album/30BjQ0xLtsv7YK53zd2V0e) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Fandango Frío](https://open.spotify.com/track/5yGJk7JAQfRAwCOsTQO21C) | [Anamaría Oramas](https://open.spotify.com/artist/44lOzk6pde1fCFa4zTQKsN), [Santiago Sandoval](https://open.spotify.com/artist/2YOId4xhJSesO3AAd0vSsl) | [Fandango Frío](https://open.spotify.com/album/4wwAcEEWUtA0XxfpOC6q75) | 6:03 |
 | 50 | [Nuevo Mundo](https://open.spotify.com/track/4VTMfxqu3lZUxYxey8N3rX) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Nuevo Mundo](https://open.spotify.com/album/3BpGRweJxhKdJBWAG0usMC) | 3:23 |
 
-Snapshot ID: `MCw1NzBmYjhmYTVjNmY0ZTAxMzExOWQzNTZiMjVlNjZiYzhkMTNhZDFl`
+Snapshot ID: `MCwzZjUyMzQ5ZmIzMzkxMzk2ZWM0MDU0NGExZDAzODk5ODIwODg5N2Ux`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Nielson & MAXINE",
+  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: BENR",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 173760,
       "name": "22",
       "url": "https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a"
@@ -577,6 +577,28 @@
     },
     {
       "album": {
+        "name": "App me als je thuis bent",
+        "url": "https://open.spotify.com/album/1avOhAMcwqKToin3pv37y8"
+      },
+      "artists": [
+        {
+          "name": "Sophia Mason",
+          "url": "https://open.spotify.com/artist/2v5PJeR9kJsZbkGvi85tVv"
+        },
+        {
+          "name": "Freez",
+          "url": "https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145685,
+      "name": "App me als je thuis bent",
+      "url": "https://open.spotify.com/track/7F8autsIk3qKOhBHth4O82"
+    },
+    {
+      "album": {
         "name": "Sliden EP",
         "url": "https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY"
       },
@@ -733,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Dit Is Het Levenslied",
+        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168194,
+      "name": "Beter Af Alleen",
+      "url": "https://open.spotify.com/track/5JsAI0uoaOOCM3PncU5vm8"
+    },
+    {
+      "album": {
         "name": "Bla Bla",
         "url": "https://open.spotify.com/album/59jXHqXPFGBCmcA1zcXLj7"
       },
@@ -860,6 +900,24 @@
       "duration_ms": 155500,
       "name": "Blind Vertrouwen",
       "url": "https://open.spotify.com/track/2IEaJNKgkMRCh4OGnATrPU"
+    },
+    {
+      "album": {
+        "name": "Boeie",
+        "url": "https://open.spotify.com/album/5Tl0c5B3lHjw0v5IQsDlBw"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153176,
+      "name": "Boeie",
+      "url": "https://open.spotify.com/track/2w5QvIqfDjg09RAe56WbiO"
     },
     {
       "album": {
@@ -1517,6 +1575,28 @@
     },
     {
       "album": {
+        "name": "Dit Is Het Levenslied",
+        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Trijntje Oosterhuis",
+          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241435,
+      "name": "Door Weer En Wind",
+      "url": "https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD"
+    },
+    {
+      "album": {
         "name": "Down Met Jou",
         "url": "https://open.spotify.com/album/51UpNHvjjcnP1JhF0qj51M"
       },
@@ -1655,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Eigen Weg",
+        "url": "https://open.spotify.com/album/73AN0JXVr2eGgLp6rbVaL3"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Eigen Weg",
+      "url": "https://open.spotify.com/track/2KPnl58uwUlx0wCRVOpZfj"
+    },
+    {
+      "album": {
         "name": "Eiland",
         "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
       },
@@ -1688,7 +1786,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 228000,
       "name": "Emiliana - Mashup",
       "url": "https://open.spotify.com/track/19hNwhS9vYF4ITIDb3jHfp"
@@ -1714,7 +1812,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 186666,
       "name": "Emotieloos",
       "url": "https://open.spotify.com/track/7yHSLU0G7GSaBv1vqmmUX7"
@@ -2481,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Houden Van Mij",
+        "url": "https://open.spotify.com/album/0H1bolHYB0kTUHvs7cc7Zd"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Domingos",
+          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Houden Van Mij",
+      "url": "https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS"
+    },
+    {
+      "album": {
         "name": "Hypnose",
         "url": "https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF"
       },
@@ -3136,7 +3252,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 215804,
       "name": "Leuk Zolang Het Duurt",
       "url": "https://open.spotify.com/track/3fCW3J2VNOqUVSGtpSVxun"
@@ -3776,7 +3892,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 169047,
       "name": "Nooit Meer Los",
       "url": "https://open.spotify.com/track/3GhQVwKsqwHk6dFsW6mp9d"
@@ -4160,6 +4276,24 @@
       "duration_ms": 185261,
       "name": "Radio",
       "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
+    },
+    {
+      "album": {
+        "name": "Reden",
+        "url": "https://open.spotify.com/album/1ubTnY6I7QZsnZqbOiQPYR"
+      },
+      "artists": [
+        {
+          "name": "Boaz Tooren",
+          "url": "https://open.spotify.com/artist/3naJPrcJbwO1ibrVzpbTTs"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172447,
+      "name": "Reden",
+      "url": "https://open.spotify.com/track/01D46oDUTJaykFjldVmWEe"
     },
     {
       "album": {
@@ -4806,7 +4940,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 156009,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/3E46A8yOgmLZMg4wml4II6"
@@ -5106,6 +5240,28 @@
       "duration_ms": 163730,
       "name": "Voel Jij Dat Ook",
       "url": "https://open.spotify.com/track/52eFgkFoYcSk0r7nSN3ldb"
+    },
+    {
+      "album": {
+        "name": "volgens mij ben ik verliefd",
+        "url": "https://open.spotify.com/album/27K7UVc24nW01l6WhvipId"
+      },
+      "artists": [
+        {
+          "name": "Dashaeno",
+          "url": "https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE"
+        },
+        {
+          "name": "damy",
+          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147648,
+      "name": "volgens mij ben ik verliefd",
+      "url": "https://open.spotify.com/track/3v7jPB2LvWc0WA9cRHqYHS"
     },
     {
       "album": {
@@ -5460,7 +5616,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 163435,
       "name": "Zolang Dit Liedje Duurt",
       "url": "https://open.spotify.com/track/4yzvrn5hlJBTbLvOrjGSvv"
@@ -5518,7 +5674,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 132500,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/7vi24RDlbTnQOqDBrWt2K6"

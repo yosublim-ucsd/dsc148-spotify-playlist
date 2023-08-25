@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-227 songs - 11 hr 57 min
+230 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [finished falling](https://open.spotify.com/track/16UwPw97aFFsprUZrjoU3I) | [Riley Power](https://open.spotify.com/artist/16li8cbi4fTA6Fyztk1Bz1) | [finished falling](https://open.spotify.com/album/7hrcaCivMZsdEEpiBBK9s6) | 3:25 | 2022-03-30 |  |
 | [First Steps](https://open.spotify.com/track/7JQuaTI3teysKtLiWQe4i8) | [Hillrose](https://open.spotify.com/artist/6MqsLKFJ2ND4AtwvUzvm4y) | [First Steps](https://open.spotify.com/album/31cseXGAHyJQiU41GLE5yI) | 2:34 | 2023-04-21 |  |
 | [Floating Particles](https://open.spotify.com/track/6jQcQ1Ysb299iqeotY3Iy2) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Floating Particles](https://open.spotify.com/album/5kggme6wDS79k5MnIEeOyY) | 2:00 | 2023-02-24 |  |
+| [Flower Petals](https://open.spotify.com/track/2yWOw6cA9d6G26J5syTNRy) | [Modesty Plains](https://open.spotify.com/artist/6fEjztEvxaryElFpmmlBQW) | [Flower Petals](https://open.spotify.com/album/0H7JnflTfBGvQQaa708WNz) | 2:57 | 2023-08-25 |  |
 | [Folds](https://open.spotify.com/track/1upFTZnAallS4AfzHZ7RmP) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Folds](https://open.spotify.com/album/43uRd28euFG1OYGTZDobV7) | 3:16 | 2023-04-14 |  |
 | [For Dinner…](https://open.spotify.com/track/6AdyaWgJliC8HJU4CseNJM) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:05 | 2022-07-15 | 2023-05-20 |
 | [For Dinner… \- Remastered](https://open.spotify.com/track/6yBmGf0yUUWnKWefP1qsfg) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland \(remastered\)](https://open.spotify.com/album/5aCh5uldkBY1tInUgVhVO0) | 5:05 | 2022-03-30 | 2022-07-29 |
@@ -78,6 +79,7 @@
 | [Gentle Whisper](https://open.spotify.com/track/0SdF87pVzhydKwygD13H6B) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gentle Whisper](https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2) | 2:58 | 2022-03-30 |  |
 | [Grounded](https://open.spotify.com/track/7mVts0s26dcB926oonXeoT) | [Pursue Earth](https://open.spotify.com/artist/2p9T2VRJ5VITfZP2brFNVE) | [Grounded](https://open.spotify.com/album/2SVEO24jsb84iynbMSJbo8) | 2:25 | 2023-06-09 |  |
 | [Happy Easters](https://open.spotify.com/track/7fRke8rCGhCzTkPzIh7jqE) | [Gareth Dickson](https://open.spotify.com/artist/5K679k3u9KgR60ESQxyihW) | [Quite A Way Away](https://open.spotify.com/album/2FeEWF8kbqpAjMFv5elAwM) | 5:56 | 2022-03-30 |  |
+| [Held In Velvet](https://open.spotify.com/track/3MHBNI5EhD59IHZHyQ8H2m) | [Leap Skies](https://open.spotify.com/artist/31OicMGohVViTImbsvwiuS) | [Held In Velvet](https://open.spotify.com/album/0SwTQCqd6id601EbwWwgA6) | 3:06 | 2023-08-25 |  |
 | [High Up](https://open.spotify.com/track/794SxkpLERVaBoag5946LG) | [Mirror Inside](https://open.spotify.com/artist/7qoAxsJr24mbtIRupSaI3Z) | [High Up](https://open.spotify.com/album/4DrcJ7w0o3G59qIlS25Mdx) | 2:18 | 2022-03-30 |  |
 | [High Windows](https://open.spotify.com/track/7dIO4IrjIlLhKsnj4o5nCn) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [High Windows](https://open.spotify.com/album/0UbucpkXmpzONj8JWSA6Zj) | 2:37 | 2023-08-11 |  |
 | [Homeward](https://open.spotify.com/track/73ezDZrPMOCfrd06ctU2lI) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Homeward](https://open.spotify.com/album/67LC6kwgCHBawwvif4AG6k) | 2:29 | 2023-02-09 |  |
@@ -101,7 +103,7 @@
 | [Klarälven](https://open.spotify.com/track/6wnqcyatMNMyK2mQSVjMfv) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Klarälven](https://open.spotify.com/album/5wwzf8mRgo4yhc0uS3ETuP) | 2:09 | 2023-03-03 |  |
 | [Knowledge](https://open.spotify.com/track/32jPQvbPz02F2jhlDdM3SU) | [Endless Voyager](https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa) | [Knowledge](https://open.spotify.com/album/1Fl3JnASxezylSjI0YZgVt) | 2:37 | 2023-06-30 |  |
 | [koime](https://open.spotify.com/track/2yJ8wsGlt6CGMH05mPecu9) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Syukujitu](https://open.spotify.com/album/0UrFBt7UW7R9J7CG2L481e) | 3:02 | 2023-03-23 |  |
-| [Les Paul Sanitarium](https://open.spotify.com/track/3HZOYhBlwuAVKO9wxT66B1) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXI](https://open.spotify.com/album/2mIu9oDUCuMCdowK2ocHYt) | 1:57 | 2022-03-30 |  |
+| [Les Paul Sanitarium](https://open.spotify.com/track/3HZOYhBlwuAVKO9wxT66B1) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXI](https://open.spotify.com/album/2mIu9oDUCuMCdowK2ocHYt) | 1:57 | 2022-03-30 | 2023-08-25 |
 | [lessly](https://open.spotify.com/track/2U62UKX9kl7lHsLn5ANsZp) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Neighborly Nod](https://open.spotify.com/album/1C7RHVtYees2YEL00XSsbs) | 2:23 | 2023-03-31 |  |
 | [Life Balance](https://open.spotify.com/track/5Fy3qUli32XAqwvMibwibE) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Start Somewhere](https://open.spotify.com/album/45Qh4kJ9fSnjo6awLgYew8) | 3:20 | 2023-08-04 |  |
 | [line up](https://open.spotify.com/track/4RQFT3aZPjhuafwXNUnL6x) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [line up](https://open.spotify.com/album/1FzTPoHFZ0QDthxwSHCBgl) | 2:25 | 2022-03-30 |  |
@@ -171,6 +173,7 @@
 | [Silver Moon Over Sleeping Steeples](https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 2:21 | 2022-03-30 |  |
 | [Slow Move](https://open.spotify.com/track/3mnAvzGT0DYm0pGxtJp5Yi) | [Amber Fall](https://open.spotify.com/artist/56KiUsVJcleCu44rnYvPh9) | [Slow Move](https://open.spotify.com/album/27jqdgUJaoV4Y6TZc7DOgt) | 2:30 | 2023-02-03 |  |
 | [Small Hours](https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [One World](https://open.spotify.com/album/78WlsSQKrX4suYf909Fcrm) | 8:45 | 2022-03-30 | 2023-05-06 |
+| [Solace of Dawn](https://open.spotify.com/track/466cRjXaG3Iuw7SPQQyF2V) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Solace of Dawn](https://open.spotify.com/album/4odN2mUX2n6LYXG6u41Y47) | 2:11 | 2023-08-25 |  |
 | [Sonic Waves](https://open.spotify.com/track/37TG4aXKl2HbwMihtOnPW8) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Sonic Waves](https://open.spotify.com/album/5TmmAIiuUqyBDgxrN7dygf) | 3:02 | 2023-02-24 |  |
 | [space cadet academy](https://open.spotify.com/track/28h4PBovsvNHn5GBEpXXRT) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [space cadet academy](https://open.spotify.com/album/1hwRNXUB5OHzcEskR156hQ) | 2:57 | 2022-12-02 |  |
 | [Spectrum](https://open.spotify.com/track/1IehfNuo7INDcML5BpB8XF) | [Serenity Within](https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp) | [Spectrum](https://open.spotify.com/album/0ICUzYINjeIcXtmOV0kZI6) | 2:47 | 2023-02-17 |  |

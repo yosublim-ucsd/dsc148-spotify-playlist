@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: YonYon
 
-769 songs - 1 day 23 hr 57 min
+770 songs - 2 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Far Dreams \- feat\. Misi Ke](https://open.spotify.com/track/3ArK2i4nAkdyZbWNUSe1O0) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Far Dreams \(feat\. Misi Ke\)](https://open.spotify.com/album/5y651XrkWm9tVLTgbWazi4) | 2:54 | 2023-01-31 | 2023-02-15 |
 | [Fdf](https://open.spotify.com/track/2QAEoWebhc86vbYBUvexOv) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Fdf](https://open.spotify.com/album/2hIzSIZ5LMu7sTePouMf4N) | 3:38 | 2023-05-04 | 2023-07-05 |
 | [Fdf](https://open.spotify.com/track/6wL0CLtCHzui9KjyDrvWL5) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Fdf](https://open.spotify.com/album/6RDqH9ClqrKLPAYS1WecKF) | 3:38 | 2023-03-28 | 2023-04-05 |
+| [Feel So Good](https://open.spotify.com/track/2ScCKoZz0DOgpnSUNlsQZc) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Feel So Good](https://open.spotify.com/album/4eAiq2DTuvLntga5pN5zp8) | 4:17 | 2023-08-24 |  |
 | [FIVE](https://open.spotify.com/track/1zn0JzlJ9NtW96a3ZCsTfV) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:30 | 2023-03-23 | 2023-04-19 |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2023-01-12 |  |
 | [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 | 2023-08-01 | 2023-08-03 |
@@ -773,7 +774,7 @@
 | [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-06-20 |  |
 | [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 | 2023-02-21 | 2023-02-23 |
 | [風船は小さな手を離れて](https://open.spotify.com/track/1dF4ksSNiXJnogblM7YfEa) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [もしかして世間](https://open.spotify.com/album/78Bbwa8TUPLlsaV1Y0vL3Q) | 3:55 | 2023-04-25 | 2023-05-24 |
-| [飛来](https://open.spotify.com/track/1jHC0WboNCLXCNOFJ9lsjZ) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [飛来](https://open.spotify.com/album/0XhnWsOmT4glyMnAxlLlK4) | 4:09 | 2023-08-15 |  |
+| [飛来](https://open.spotify.com/track/1jHC0WboNCLXCNOFJ9lsjZ) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [飛来](https://open.spotify.com/album/0XhnWsOmT4glyMnAxlLlK4) | 4:09 | 2023-08-15 | 2023-08-25 |
 | [養殖](https://open.spotify.com/track/2X4GdAzI97p3pXjIWru1id) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [養殖](https://open.spotify.com/album/70GwvrHxxwGTOiGIjYJ0BW) | 3:28 | 2023-04-13 | 2023-05-05 |
 | [餞](https://open.spotify.com/track/4151sPJDAMGChnHnxY1BJ1) | [Odd Donuts](https://open.spotify.com/artist/7rflUhNjhxlITzPI54XTzg) | [餞](https://open.spotify.com/album/3Uzgj9qUBnGJnLhOLAHdYU) | 3:35 | 2023-08-01 | 2023-08-09 |
 | [魚 \_ 魚](https://open.spotify.com/track/0iReJwnfIhYXmdGKN1OgB2) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [魚 \_ 魚](https://open.spotify.com/album/4X1929ex2VAoBiJ0M5eYkk) | 4:55 | 2023-08-01 | 2023-08-09 |

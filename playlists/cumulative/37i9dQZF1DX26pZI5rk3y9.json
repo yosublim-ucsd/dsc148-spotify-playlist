@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "name": "Blues BBQ",
+  "description": "Stomping new Blues and Blues Rock. ",
+  "name": "Blues Stompers",
   "tracks": [
     {
       "album": {
@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Bad Luck & The Blues",
+        "url": "https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249493,
+      "name": "Bad Luck & The Blues",
+      "url": "https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs"
+    },
+    {
+      "album": {
         "name": "Greatest Country Blues",
         "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
       },
@@ -434,7 +452,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 203599,
       "name": "Cassanova Kirk Daniel",
       "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
@@ -787,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Drivin' On",
+        "url": "https://open.spotify.com/album/6ytus8irgjlbAfqnCWimCw"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "Drivin' On",
+      "url": "https://open.spotify.com/track/2yf6oK3G0uVpvubcyGxz3p"
+    },
+    {
+      "album": {
         "name": "Taj Mahal",
         "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
@@ -852,7 +888,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 162612,
       "name": "Dynamite A Tribute to Muddy Waters - Radio Edit",
       "url": "https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP"
@@ -874,6 +910,24 @@
       "duration_ms": 171533,
       "name": "Eisenhower Blues - Single Version",
       "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
+    },
+    {
+      "album": {
+        "name": "Endless Highway",
+        "url": "https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "Endless Highway",
+      "url": "https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU"
     },
     {
       "album": {
@@ -1036,7 +1090,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 239904,
       "name": "Flood of 2019",
       "url": "https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq"
@@ -1058,6 +1112,24 @@
       "duration_ms": 219454,
       "name": "FLorida Man",
       "url": "https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0"
+    },
+    {
+      "album": {
+        "name": "Fool For You",
+        "url": "https://open.spotify.com/album/17XfvafYKaOPRwfHpluDe0"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Fool for You",
+      "url": "https://open.spotify.com/track/0gQaglR6S53t05TCylilk2"
     },
     {
       "album": {
@@ -1180,7 +1252,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 193928,
       "name": "Go Down Swinging",
       "url": "https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA"
@@ -1220,7 +1292,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 228857,
       "name": "Got till it's gone",
       "url": "https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR"
@@ -1842,6 +1914,24 @@
     {
       "album": {
         "name": "Roads Go On Forever",
+        "url": "https://open.spotify.com/album/3o1A0K1nT1LDfvGFlr0qRs"
+      },
+      "artists": [
+        {
+          "name": "Max Poolman",
+          "url": "https://open.spotify.com/artist/5VGuMO5Cj2dyuSiU4gWQys"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237613,
+      "name": "Keep On Rocking",
+      "url": "https://open.spotify.com/track/0Pptp81TIv4dOI917UHLHc"
+    },
+    {
+      "album": {
+        "name": "Roads Go On Forever",
         "url": "https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o"
       },
       "artists": [
@@ -1949,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "like it shoulda",
+        "url": "https://open.spotify.com/album/4xRur3wST8PvvYv3ncjFeA"
+      },
+      "artists": [
+        {
+          "name": "Sarah Faith",
+          "url": "https://open.spotify.com/artist/46D76MdW5bb5kpbc84j0HZ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283010,
+      "name": "like it shoulda",
+      "url": "https://open.spotify.com/track/0FBSK0D6B5nVSHJuDZRWbD"
+    },
+    {
+      "album": {
         "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
         "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
       },
@@ -2014,7 +2122,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 204862,
       "name": "Make It Easy",
       "url": "https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw"
@@ -2199,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Poor Black Mattie",
+        "url": "https://open.spotify.com/album/3ABPNG1GJupBu3Y5lVdCmA"
+      },
+      "artists": [
+        {
+          "name": "Southern Fried Groove Queens",
+          "url": "https://open.spotify.com/artist/2SahsjOb7Hqe0j0NYMMSxP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209446,
+      "name": "Poor Black Mattie",
+      "url": "https://open.spotify.com/track/0GlrnnMvUYyND73p02ZCSW"
+    },
+    {
+      "album": {
         "name": "Porcelain God",
         "url": "https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd"
       },
@@ -2246,7 +2372,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 169841,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
@@ -2596,7 +2722,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 353226,
       "name": "Sing the Blues",
       "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
@@ -2693,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Sweet & Low",
+        "url": "https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235560,
+      "name": "Sweet & Low",
+      "url": "https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I"
+    },
+    {
+      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE"
       },
@@ -2766,7 +2910,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 170854,
       "name": "Ten Beer Job",
       "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"

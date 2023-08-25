@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Pasithea (Binaural Theta)",
+        "url": "https://open.spotify.com/album/6kZRgUFymMFaXzbSHvrvNu"
+      },
+      "artists": [
+        {
+          "name": "Milo Graves",
+          "url": "https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Pasithea (Binaural Theta)",
+      "url": "https://open.spotify.com/track/72WhvgusoYiMEjQ4JYkXhV"
+    },
+    {
+      "album": {
         "name": "Binaural Theta for Sleep",
         "url": "https://open.spotify.com/album/7rpR7N25fNVUyqFZT32xAh"
       },

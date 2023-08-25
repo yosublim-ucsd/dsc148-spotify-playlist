@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Maulana Ardiansyah",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: ENVY*",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -462,6 +462,24 @@
       "duration_ms": 232005,
       "name": "cactus",
       "url": "https://open.spotify.com/track/7KMVvz2pgecZrUDkRJiFqY"
+    },
+    {
+      "album": {
+        "name": "CAN\u2019T TAKE ME OFF",
+        "url": "https://open.spotify.com/album/5sgeTuVkXDbyzTjl0fle53"
+      },
+      "artists": [
+        {
+          "name": "ENVY*",
+          "url": "https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245065,
+      "name": "CAN\u2019T TAKE ME OFF",
+      "url": "https://open.spotify.com/track/3PnXpGJbl9Mvr9SQHEg1AO"
     },
     {
       "album": {

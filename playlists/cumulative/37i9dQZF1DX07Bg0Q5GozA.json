@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Supershy",
+  "description": "New music off the beaten track. Cover: The Chemical Brothers, Beck",
   "name": "OFF POP",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 273080,
       "name": "(I Don't Need A) New Girl",
       "url": "https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk"
@@ -132,6 +132,28 @@
       "duration_ms": 221748,
       "name": "6am",
       "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
+      "album": {
+        "name": "Different Frame",
+        "url": "https://open.spotify.com/album/1RVocr5uuN4XJW4UjyWBD3"
+      },
+      "artists": [
+        {
+          "name": "Echonomist",
+          "url": "https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3"
+        },
+        {
+          "name": "Alexandros Miaris",
+          "url": "https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191622,
+      "name": "A Different Frame",
+      "url": "https://open.spotify.com/track/0pk4GJ9REs9fRFlUweWVgs"
     },
     {
       "album": {
@@ -1484,7 +1506,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 144479,
       "name": "Dance of the Crab - Edit",
       "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
@@ -1714,6 +1736,28 @@
       "duration_ms": 166125,
       "name": "Disco Dangerous",
       "url": "https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652"
+    },
+    {
+      "album": {
+        "name": "Discoproof",
+        "url": "https://open.spotify.com/album/3uMU0ZiDp3MDBypUiVKGYh"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Discoproof",
+      "url": "https://open.spotify.com/track/0CQcUsyDEfKsHWDDF3h2C1"
     },
     {
       "album": {
@@ -2096,7 +2140,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 221503,
       "name": "Eats The Tale",
       "url": "https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR"
@@ -2670,7 +2714,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 374379,
       "name": "Find You (Gerd Janson Remix)",
       "url": "https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51"
@@ -3336,7 +3380,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 205704,
       "name": "Hey",
       "url": "https://open.spotify.com/track/0tYDIP8PeQyOWRDlnZvW3Z"
@@ -3402,7 +3446,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 219750,
       "name": "Highlight - Edit",
       "url": "https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF"
@@ -3428,6 +3472,28 @@
       "duration_ms": 183360,
       "name": "Highway",
       "url": "https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup"
+    },
+    {
+      "album": {
+        "name": "Hip Neck Spine (Hercules & Love Affair Remixes)",
+        "url": "https://open.spotify.com/album/4br5yMUiI1naPRE1zTC7ge"
+      },
+      "artists": [
+        {
+          "name": "Daphne Guinness",
+          "url": "https://open.spotify.com/artist/1jWYbHqxagu177jUkwbz5P"
+        },
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Hip Neck Spine - Hercules & Love Affair Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/7xt5cSFtWjQa7BKp0UX5kl"
     },
     {
       "album": {
@@ -3544,6 +3610,24 @@
       "duration_ms": 179125,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/5EtsAKJgceaLk9X6OfU0xB"
+    },
+    {
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "album": {
@@ -5490,7 +5574,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 142500,
       "name": "No Love",
       "url": "https://open.spotify.com/track/51u0i005MZ9G0e1Lxm3PqO"
@@ -5686,6 +5770,24 @@
       "duration_ms": 216018,
       "name": "Oh Laura",
       "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
+    },
+    {
+      "album": {
+        "name": "The Time",
+        "url": "https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS"
+      },
+      "artists": [
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "OKALRIGHTISEEYOU",
+      "url": "https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0"
     },
     {
       "album": {
@@ -6679,6 +6781,28 @@
     },
     {
       "album": {
+        "name": "Skipping Like A Stone (feat. Beck)",
+        "url": "https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283093,
+      "name": "Skipping Like A Stone (feat. Beck)",
+      "url": "https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2"
+    },
+    {
+      "album": {
         "name": "Off Planet",
         "url": "https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0"
       },
@@ -6886,7 +7010,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 184986,
       "name": "Starlight (feat. Lord Siva)",
       "url": "https://open.spotify.com/track/3fGhEM2oydg2PLWTxMTtoV"
@@ -7178,6 +7302,28 @@
       "duration_ms": 383214,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/3IzfxJ3w7fDEjewRrSlSrS"
+    },
+    {
+      "album": {
+        "name": "Swept Up (Shakedown Remix)",
+        "url": "https://open.spotify.com/album/2F4EWvGw0sCvM4752tw7Lx"
+      },
+      "artists": [
+        {
+          "name": "Shuttle",
+          "url": "https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh"
+        },
+        {
+          "name": "Shakedown",
+          "url": "https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181390,
+      "name": "Swept Up - Shakedown Remix",
+      "url": "https://open.spotify.com/track/7GQskDnCN4IeyiM6bcav68"
     },
     {
       "album": {
@@ -7765,6 +7911,24 @@
     },
     {
       "album": {
+        "name": "Tunnelvision",
+        "url": "https://open.spotify.com/album/3ozkX0tqjKaE8KnrbiUcQL"
+      },
+      "artists": [
+        {
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199717,
+      "name": "Tunnelvision",
+      "url": "https://open.spotify.com/track/295HRmApiL8F7DJtBJtjFN"
+    },
+    {
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/0i6K3XnM3mjLlCKa2kPNIp"
       },
@@ -7878,6 +8042,24 @@
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
+    },
+    {
+      "album": {
+        "name": "Under the Moon",
+        "url": "https://open.spotify.com/album/7fn5WEWdDR10ccAxgsrMKp"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172786,
+      "name": "Under the Moon",
+      "url": "https://open.spotify.com/track/7JyZjlTWvCMJcbimNOAOkC"
     },
     {
       "album": {
@@ -8322,7 +8504,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 275922,
       "name": "White Walls",
       "url": "https://open.spotify.com/track/3CuCZPForUo8r9Cwl8IuW7"

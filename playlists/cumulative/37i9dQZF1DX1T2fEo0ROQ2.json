@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 215926,
       "name": "Calm",
       "url": "https://open.spotify.com/track/3Pcd6tCQ84hbnBDhkIhO4g"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 193918,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x"
@@ -3868,7 +3868,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 264512,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/25kDEZNeYdOa61StT88v4G"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 186502,
       "name": "Moonstone Beach",
       "url": "https://open.spotify.com/track/2EqyTHz6iFnmitFW3x1TiG"
@@ -4372,7 +4372,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 180624,
       "name": "Nefelibata",
       "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 170624,
       "name": "Reversed Stress",
       "url": "https://open.spotify.com/track/36LvimjTIyWaVS1CejsRL9"
@@ -5686,7 +5686,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 139593,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
@@ -5740,7 +5740,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 204090,
       "name": "Sintra - Ambient Mix",
       "url": "https://open.spotify.com/track/6Jvp6beybIW9umUJkjkWXV"
@@ -6136,7 +6136,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 241153,
       "name": "Stradivarius",
       "url": "https://open.spotify.com/track/006Wn3m9fntl8Vgcbw1KzR"
@@ -6226,7 +6226,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 249818,
       "name": "Sunrise Glory",
       "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
@@ -6680,7 +6680,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 205714,
       "name": "The Sun Has Risen - Instrumental",
       "url": "https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo"
@@ -7170,6 +7170,24 @@
       "duration_ms": 182389,
       "name": "We Belong Here",
       "url": "https://open.spotify.com/track/0F6iu3jm5bJpTsyDKSaE4a"
+    },
+    {
+      "album": {
+        "name": "We Gazed",
+        "url": "https://open.spotify.com/album/27t0xU8lqmWGsP8d7E1960"
+      },
+      "artists": [
+        {
+          "name": "Nico Acosta",
+          "url": "https://open.spotify.com/artist/4V4qWOu1lYx7qzhburyUXR"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "We Gazed",
+      "url": "https://open.spotify.com/track/4A0Eq7YBTpcmCBHqHA8OJp"
     },
     {
       "album": {

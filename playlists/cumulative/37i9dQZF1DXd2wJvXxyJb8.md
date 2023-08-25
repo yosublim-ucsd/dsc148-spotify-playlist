@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> entao qr dizer que vc veio aqui descobrir o q os jovens escutam??? boa viagem
+> FAKE NATTY
 
 312 songs - 14 hr 12 min
 

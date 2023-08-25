@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 143571,
       "name": "Atardecer",
       "url": "https://open.spotify.com/track/1Jn5Id1Yn99AGGZ4dHqloo"
@@ -4085,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "Poemy",
+        "url": "https://open.spotify.com/album/7CpWySksn3fzUreUXwRyFk"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Kulo",
+          "url": "https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164850,
+      "name": "Poemy",
+      "url": "https://open.spotify.com/track/3rusENC3xJSezTpZ4YMOOU"
+    },
+    {
+      "album": {
         "name": "Poj\u010f se mnou",
         "url": "https://open.spotify.com/album/5fTi5LgFPvSVBBEMAJRL6s"
       },
@@ -4316,6 +4334,24 @@
       "duration_ms": 234172,
       "name": "Realative",
       "url": "https://open.spotify.com/track/7oHhjX5WuUphmpIPaZ5poJ"
+    },
+    {
+      "album": {
+        "name": "Refreshing Mountains",
+        "url": "https://open.spotify.com/album/12HipH3laQEE7qbMgM1fNb"
+      },
+      "artists": [
+        {
+          "name": "Najia",
+          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200046,
+      "name": "Refreshing Mountains",
+      "url": "https://open.spotify.com/track/6C3iDqvRYl0qgKgOe4Bze0"
     },
     {
       "album": {
@@ -5288,6 +5324,24 @@
       "duration_ms": 156500,
       "name": "Strewn Across",
       "url": "https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV"
+    },
+    {
+      "album": {
+        "name": "Submerged",
+        "url": "https://open.spotify.com/album/6AS1ccXorg5PEKALw5wttV"
+      },
+      "artists": [
+        {
+          "name": "Rizzolo",
+          "url": "https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197111,
+      "name": "Submerged",
+      "url": "https://open.spotify.com/track/6Ldcbpyvgs11PgWMcjeqmW"
     },
     {
       "album": {

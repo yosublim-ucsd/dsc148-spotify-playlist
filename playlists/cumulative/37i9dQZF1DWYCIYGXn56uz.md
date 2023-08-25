@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: BLANCO
 
-201 songs - 9 hr 21 min
+202 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [CONCERTO](https://open.spotify.com/track/2ysCFTZocsMr672oxUUsAl) | [Calma](https://open.spotify.com/artist/56sJBZ0NubEJ6Y6QOldl1T), [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI) | [CONCERTO](https://open.spotify.com/album/0byn2frtBA5gvoiTGZQcfr) | 2:28 | 2023-05-18 | 2023-06-09 |
 | [Conosciuti ad una festa](https://open.spotify.com/track/6FdzapNtOI7AwSqV3N6yKX) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Conosciuti ad una festa](https://open.spotify.com/album/1rKyOWRJqsskIkiW8RYIN6) | 2:36 | 2023-05-25 | 2023-06-30 |
 | [Contro Corrente](https://open.spotify.com/track/5iI9da3MXSRmMmA2JBzWHu) | [Marquisslove](https://open.spotify.com/artist/2OtLUQ1TBgbtR2BCqnANWd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [Contro Corrente](https://open.spotify.com/album/5szQXnNjtUmInWTZPhj8ZW) | 2:02 | 2023-06-15 | 2023-07-07 |
+| [Cose Irrisolte](https://open.spotify.com/track/1Qce0xOIZkROcZ9WdkkolH) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Cose Irrisolte](https://open.spotify.com/album/2GXUbX988I5nxVRQKTywWO) | 2:41 | 2023-08-24 |  |
 | [Così Come Sei](https://open.spotify.com/track/39refPH7JbYZZZ1NrBEa0f) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Così Come Sei](https://open.spotify.com/album/6a4FSCfn5xOXi2TSTH03DR) | 2:28 | 2023-05-25 |  |
 | [Creatura bellissima](https://open.spotify.com/track/0X8RXxTg4p2Uxn1QMaPaqR) | [Drama](https://open.spotify.com/artist/2h16TAqr8VkUs8ddUxOS6w), [PATRIK](https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca) | [Creatura bellissima](https://open.spotify.com/album/2dD8MKY6wdNvCv1hgM3LDX) | 3:39 | 2023-05-18 | 2023-06-09 |
 | [Cuori di ghiaccio](https://open.spotify.com/track/33D5qp6MGqApwcSja17gE1) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Cuori di ghiaccio](https://open.spotify.com/album/3CmNrgMOnTXUfLQY7TDRtd) | 2:59 | 2023-03-23 | 2023-03-31 |

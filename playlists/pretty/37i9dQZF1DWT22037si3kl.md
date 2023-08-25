@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: LEALL, Big Bllakk, Derek
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,270 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,506 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 17 | [Celine](https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:42 |
 | 18 | [No Bank's](https://open.spotify.com/track/4Wwm8sCBEBuVYie9jiFvx9) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [No Bank's](https://open.spotify.com/album/07QrmBl9FqFiDYUd1jY4C8) | 3:08 |
 | 19 | [Clickbait](https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Clickbait](https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ) | 2:41 |
-| 20 | [Vandame](https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 2:39 |
-| 21 | [Dama de Vermelho](https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Dama de Vermelho](https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V) | 2:42 |
+| 20 | [Dama de Vermelho](https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Dama de Vermelho](https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V) | 2:42 |
+| 21 | [Vandame](https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 2:39 |
 | 22 | [Maturidade](https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg) | 2:22 |
 | 23 | [Vitória Dobrada](https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Vitória Dobrada](https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f) | 2:34 |
 | 24 | [Ironicamente](https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [No Cutty](https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ) | [Ironicamente](https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I) | 2:44 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 48 | [1 Minuto](https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 2](https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI) | 2:42 |
 | 49 | [Drip](https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Vianna](https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA) | [Drip Sesh, Vol\. 1](https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK) | 2:30 |
 
-Snapshot ID: `MCxkZjIwYzVlNzZhYTkyZTM5YzY5NjYzNTcxMDA0M2RiN2I0YTY3YWU3`
+Snapshot ID: `MCw5YWYzNzFiOWNhNzdhM2IyMDhkYTIxZDQ3OGMyZDFiNWNmYzM3NGMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidos haciendo música chida\. Camilo Séptimo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,547 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,573 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 49 | [A Diamond In Ashes](https://open.spotify.com/track/31Y7GTUiLoNZK3TcQIrzu8) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [A Diamond In Ashes](https://open.spotify.com/album/5erzaRQqc1tFjqAwzfjrzF) | 3:18 |
 | 50 | [x las veces](https://open.spotify.com/track/3zThD2oeqjI0M4XObSKgiH) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [x las veces](https://open.spotify.com/album/7fqyk1CVtAXVEg0f921CuC) | 3:25 |
 
-Snapshot ID: `MCxiNjQ3NmRjNDkyNzQ3NTJkNjRjYjNlZmY0NGI2ZWFlYTYxODg3ZWQ1`
+Snapshot ID: `MCw4YjI3YTRiNmMxNzJjODNlMjIxOGFkODAyMjYxOTViZWEyZmZjMDY0`

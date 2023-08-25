@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-133 songs - 7 hr 6 min
+134 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Across the Stars \(Love Theme from "Star Wars: Attack of the Clones"\)](https://open.spotify.com/track/3rUMH7i22tlkymhDPOmXUv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Attack of the Clones \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RSVY5851aNeCttrDpdj7A) | 5:33 | 2021-05-14 |  |
 | [Adventure](https://open.spotify.com/track/3AP3GrI8DwcMK7lX8x5aiX) | [A\-bee](https://open.spotify.com/artist/0ZstxjqVmLXd0bjATOB1u9) | [Star Wars: Visions \- T0\-B1 \(Original Soundtrack\)](https://open.spotify.com/album/3wNqrvdyIPV7qHTFF8jwQ0) | 2:28 | 2021-10-14 |  |
 | [Ahch\-To Island](https://open.spotify.com/track/1FFYCAWFz9drun5Br4w5Kk) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 4:22 | 2021-05-14 |  |
+| [Ahsoka \- End Credits \- From "Ahsoka"](https://open.spotify.com/track/12RRnmIMkMDViOjYd5k2iy) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Ahsoka \- End Credits \(From "Ahsoka"\)](https://open.spotify.com/album/71DGL0E8WZ0BAkVFOV3bIx) | 3:43 | 2023-08-25 |  |
 | [Ahsoka and the Martez Sisters](https://open.spotify.com/track/0hd8rk3WUINYVbdfsu1CqH) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \- The Final Season \(Episodes 5\-8\) \[Original Soundtrack\]](https://open.spotify.com/album/5iMwKUFGkspWiP73jHIrZj) | 3:00 | 2021-05-14 |  |
 | [Ahsoka Leaves](https://open.spotify.com/track/2MhsbNixSxMiitxzlFR22o) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \(Seasons One Through Six/Original Soundtrack\)](https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC) | 2:22 | 2021-05-14 |  |
 | [Ahsoka's Village](https://open.spotify.com/track/4aXx6JRcvuGiwVxxNjvVvy) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Tales of the Jedi \(Original Soundtrack\)](https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ) | 2:47 | 2022-10-26 |  |

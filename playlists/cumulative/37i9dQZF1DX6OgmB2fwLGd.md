@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: 2Rare
 
-764 songs - 1 day 7 hr 24 min
+765 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,7 +719,8 @@
 | [Vroom](https://open.spotify.com/track/5DDNgyfLS1MgkWq1vnhObp) | [Li Heat](https://open.spotify.com/artist/4rpSDGfnMmQjgnMAEmhptD) | [Vroom](https://open.spotify.com/album/7p04wXOLc0yibGBs0H04Ml) | 2:01 | 2022-04-29 | 2022-06-03 |
 | [Vulture Island](https://open.spotify.com/track/7FfFdw6GlRT2cZ06uil4Y8) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Vulture Island](https://open.spotify.com/album/4SwOxtIysNbF8N4jCkQSGR) | 2:15 | 2022-03-29 | 2022-04-02 |
 | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb) | 3:29 | 2022-04-01 | 2022-05-14 |
-| [WA\\VE](https://open.spotify.com/track/1EmCkwfm1dtz6t7nj9WT4C) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/2HOjaFJUdAbz4BuEzfeKtm) | 2:35 | 2023-08-18 |  |
+| [WA\\VE](https://open.spotify.com/track/1EmCkwfm1dtz6t7nj9WT4C) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/2HOjaFJUdAbz4BuEzfeKtm) | 2:35 | 2023-08-18 | 2023-08-25 |
+| [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 | 2023-08-18 |  |
 | [waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [waiting alonE](https://open.spotify.com/album/342UvGijO1QgI9wQFXDq9m) | 2:53 | 2023-08-11 |  |
 | [Wake That Thang Up](https://open.spotify.com/track/3BP4jOOvZgrBkaHo1Jcx7T) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Wake That Thang Up](https://open.spotify.com/album/25KZIVdcl3dn3TrxsiFD54) | 2:25 | 2023-03-31 | 2023-05-20 |
 | [Wake Up](https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Wake Up](https://open.spotify.com/album/0A94MKet60d5HhzN0vSGDm) | 1:52 | 2023-03-31 |  |

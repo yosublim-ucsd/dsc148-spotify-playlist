@@ -4262,10 +4262,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 251219,
       "name": "New Lives",
       "url": "https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh"
+    },
+    {
+      "album": {
+        "name": "New Lives (Radio Edit)",
+        "url": "https://open.spotify.com/album/7iVn7hAbIRliWQUp7d1808"
+      },
+      "artists": [
+        {
+          "name": "Michael Cates",
+          "url": "https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251219,
+      "name": "New Lives - Radio Edit",
+      "url": "https://open.spotify.com/track/0UBFcH7kXYQ8GiPvuHFKJJ"
     },
     {
       "album": {

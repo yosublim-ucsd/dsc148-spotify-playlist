@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-689 songs - 20 hr 30 min
+690 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Butterflies In My Stomach](https://open.spotify.com/track/2Zvf5qCoore4Sx9NjpEMDu) | [Bernice Stanford](https://open.spotify.com/artist/2g1Hf5dYttt4q2xm9131Qo) | [Butterflies In My Stomach](https://open.spotify.com/album/7Fo0wT9KJBOPqn7xpzn4sL) | 2:09 | 2021-10-05 | 2022-12-16 |
 | [By The Cradle](https://open.spotify.com/track/6FxRsfSfCoqHXAON2nulL1) | [Sanne Botner](https://open.spotify.com/artist/25V7uZKxpWTpnu4Y5ETyvP) | [By The Cradle](https://open.spotify.com/album/2hqhEduOMzfIQ0AbcsueB6) | 1:31 | 2021-10-05 | 2023-08-11 |
 | [Bä, bä, vita lamm](https://open.spotify.com/track/6j05XbgyLgFLU1ehdyEKwy) | [Esmund Gunvaldsen](https://open.spotify.com/artist/763dhn5rNBi22HIzsoDFqJ) | [Godnattvisor Från Pianot](https://open.spotify.com/album/42EADrIAnxCRIUziXy4mfl) | 1:20 | 2023-01-27 | 2023-06-03 |
-| [C'est l'heure de dormir](https://open.spotify.com/track/3aqS4avTIzxAlpYsNCzbet) | [Fifine Lambert](https://open.spotify.com/artist/5NGndt3Ai0J5S6pQODYt3M) | [C'est l'heure de dormir](https://open.spotify.com/album/10ZArX8ZEBj6mrzcQbijs7) | 1:41 | 2022-12-16 |  |
+| [C'est l'heure de dormir](https://open.spotify.com/track/3aqS4avTIzxAlpYsNCzbet) | [Fifine Lambert](https://open.spotify.com/artist/5NGndt3Ai0J5S6pQODYt3M) | [C'est l'heure de dormir](https://open.spotify.com/album/10ZArX8ZEBj6mrzcQbijs7) | 1:41 | 2022-12-16 | 2023-08-25 |
 | [Can I Tell You A Secret?](https://open.spotify.com/track/3rGQCq9JFcEHsYkOExmt5R) | [Margeret Lester](https://open.spotify.com/artist/0Sq9dQ0aNHxORRb8uJiwrW) | [Can I Tell You A Secret?](https://open.spotify.com/album/3txpHDpFOgl7jHFMWkEjQm) | 2:59 | 2021-10-05 | 2022-10-08 |
 | [Cardboard Castle](https://open.spotify.com/track/3d72QILd88K2qjBCOBQ8J4) | [Martin Grenelle](https://open.spotify.com/artist/7oBwDTaXpreH9jqXxtH2VP) | [Cardboard Castle](https://open.spotify.com/album/4SOIW6vEU6cDugXU0UbQKb) | 1:20 | 2021-10-05 | 2022-09-03 |
 | [Carousel](https://open.spotify.com/track/3Str3BD63DaBdOC4iRExM5) | [Miso Miso](https://open.spotify.com/artist/7yN9ZD8Kb1D8yt5LWTz4yD) | [Make Your Wish](https://open.spotify.com/album/1z1qPrQOWQt1zHAlDsM6cK) | 4:02 | 2022-07-27 | 2023-03-25 |
@@ -265,7 +265,7 @@
 | [Hush Little Baby](https://open.spotify.com/track/2MGquKw40obiAUR8gA6IMX) | [Isabelle Pavard](https://open.spotify.com/artist/0vHn9YgcrPyMwTjrMtvCBa) | [Hush Little Baby](https://open.spotify.com/album/27UK7UNACRIZHz6XeqHCMo) | 1:02 | 2022-04-20 | 2023-06-03 |
 | [Hush My Darling](https://open.spotify.com/track/4jggA9UxxTVj3L4nJkrqoA) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [Hush My Darling](https://open.spotify.com/album/5V5pR3LpovfAIFR6GeMuN7) | 1:29 | 2022-11-18 |  |
 | [Hush My Darling](https://open.spotify.com/track/37w8OTy6GttyjuTsxWSyod) | [Vera Oppenheim](https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT) | [Hush My Darling](https://open.spotify.com/album/3rbxbaZ0gBBrlP7d4Cm7fH) | 1:48 | 2022-10-28 | 2022-12-24 |
-| [Hush My Darling](https://open.spotify.com/track/7D9LtIHBOcAbaLSz7T6jFY) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Hush My Darling](https://open.spotify.com/album/76JzQNot8OtPJoQzacDL8F) | 3:07 | 2023-03-24 |  |
+| [Hush My Darling](https://open.spotify.com/track/7D9LtIHBOcAbaLSz7T6jFY) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Hush My Darling](https://open.spotify.com/album/76JzQNot8OtPJoQzacDL8F) | 3:07 | 2023-03-24 | 2023-08-25 |
 | [Hush Now Little Baby](https://open.spotify.com/track/4zP8XMQnw6QGJZKVS0Wes3) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Hush Now Little Baby](https://open.spotify.com/album/3qp71hKEcuiDaiwVjtAICq) | 2:11 | 2022-09-22 |  |
 | [Hymn For Tilda](https://open.spotify.com/track/7mZVmuLQFNnEBcExA6tOAi) | [The Stories We Tell](https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB) | [Hymn For Tilda](https://open.spotify.com/album/4nF5p7Ilgk8g6TCTkyQ9oI) | 2:19 | 2023-02-17 |  |
 | [Här kommer Pippi Långstrump](https://open.spotify.com/track/6pPKsXco1LF5kG9BGaXocm) | [Jessica Primrose](https://open.spotify.com/artist/6ANAnwnt0JgsbXKwXCe4rk) | [Pilutta\-visan](https://open.spotify.com/album/015ygZpYacjZXLczKCrOla) | 1:23 | 2022-10-28 | 2023-06-03 |
@@ -389,6 +389,7 @@
 | [Moon And Stars](https://open.spotify.com/track/7yOZnPhmBWDmCUU4n068Th) | [Winnie Muller](https://open.spotify.com/artist/4GO1o00k2U510iiNja7SrR) | [Moon And Stars](https://open.spotify.com/album/1W7ITEUf0MaMmvk0sHvQB3) | 1:50 | 2022-09-22 |  |
 | [Moonbow](https://open.spotify.com/track/62VAuiIgII0GfFfY20aX38) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Moonbow](https://open.spotify.com/album/5y3ofx6Gc8nHKnMuJMZe3M) | 1:59 | 2023-03-10 |  |
 | [Moonflight](https://open.spotify.com/track/3s9zIXife8Pdx8SjMg07Ju) | [Georgia Faingold](https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V) | [Moonflight](https://open.spotify.com/album/1vjAiGVrTiGoYUNbhBMoi2) | 1:40 | 2023-08-10 |  |
+| [Moonlight Song](https://open.spotify.com/track/1Yc2Y64xHLpc6tQ1UFphI1) | [Maria Mangasson](https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ) | [Moonlight Song](https://open.spotify.com/album/3IxrV08Irf96q0d7FL9W7d) | 1:46 | 2023-08-24 |  |
 | [Mors lilla Olle](https://open.spotify.com/track/1i8LQzvz0N8hO55lVGgGdf) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [London Bridge](https://open.spotify.com/album/0reqTcURfy5hVfO0GlEJbH) | 1:10 | 2022-12-16 |  |
 | [Mother Goose](https://open.spotify.com/track/1ZOWHiKOpJoZZM5ccVYGjj) | [Myla Watson](https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y) | [Mother Goose](https://open.spotify.com/album/4A1pcvNFojNbbThb5mNNq4) | 1:36 | 2023-06-08 |  |
 | [Mój Anioł](https://open.spotify.com/track/6vuyQpRo2hobQiVXfYrhBl) | [Jolanda Novak](https://open.spotify.com/artist/12Jx6Bt5MqHJS4AtWJl6JB) | [Mój Anioł](https://open.spotify.com/album/5DjpUSAvFfIwZcuNWNHwbf) | 1:37 | 2021-10-05 | 2022-11-19 |
@@ -517,7 +518,7 @@
 | [Sleep Now My Darling](https://open.spotify.com/track/3gkUj0ji4HEHPZ230aoE0s) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Sleep Now My Darling](https://open.spotify.com/album/2yJMjPKUU9v9XZeykLUKfL) | 1:50 | 2023-02-17 |  |
 | [Sleep Tight](https://open.spotify.com/track/75VbqJE4wpR7upFz5lCgP4) | [Alonso Águila](https://open.spotify.com/artist/6ziDHzJcxM6qsh8As478MS) | [Sleep Tight](https://open.spotify.com/album/2MtsvNNxj1bMXUDX4DNrrW) | 1:52 | 2022-09-02 |  |
 | [Sleep Tight My Baby](https://open.spotify.com/track/4ils1yQYpUf1nRZF48g2zT) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Sleep Tight My Baby](https://open.spotify.com/album/35v9gVUS3fbWzEqytENHfs) | 2:35 | 2022-12-16 |  |
-| [Sleep Till Morning Comes](https://open.spotify.com/track/4IMICTKWbU1K6IWHoXibyP) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [Sleep Till Morning Comes](https://open.spotify.com/album/6IH9de87cAOQh4DsFYkg3v) | 1:49 | 2023-05-05 |  |
+| [Sleep Till Morning Comes](https://open.spotify.com/track/4IMICTKWbU1K6IWHoXibyP) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [Sleep Till Morning Comes](https://open.spotify.com/album/6IH9de87cAOQh4DsFYkg3v) | 1:49 | 2023-05-05 | 2023-08-25 |
 | [Sleep Well](https://open.spotify.com/track/4JKK7V182MKyKjU1ZCifCV) | [David Langoster](https://open.spotify.com/artist/7hdAkFmni0yw1T5Yo1aIdP) | [Sleep Well](https://open.spotify.com/album/6UK4hyo7OVyOdjT9zhkmbK) | 1:16 | 2023-01-27 |  |
 | [Sleep, My Little Friend](https://open.spotify.com/track/3qfyU34tCYJ4IJD1H8Qtxh) | [Gennie Voltera](https://open.spotify.com/artist/36B4hA2eDLLjGqOXncPXHw) | [Sleep, My Little Friend](https://open.spotify.com/album/1QZTBycQ3kWQHnboczhpQC) | 1:05 | 2021-10-05 | 2022-10-29 |
 | [Sleepiness](https://open.spotify.com/track/0imByR0RuV7z2L0HuagzkW) | [Katinka Overman](https://open.spotify.com/artist/774hf31XZL9jyrwZMpLRiU) | [Sleepiness](https://open.spotify.com/album/4YF07YOzkn6NJp0vkqY9VO) | 2:02 | 2023-01-27 |  |
@@ -534,7 +535,7 @@
 | [Sleepy Teddy](https://open.spotify.com/track/7dQDKfg27CDRIZTdW3mLf3) | [Little Zoe](https://open.spotify.com/artist/510fJjKBitxDiqFinCi6F3) | [Sleepy Teddy](https://open.spotify.com/album/4hAvXaFLGquvpKnqPAodgN) | 2:21 | 2023-05-05 | 2023-06-16 |
 | [Sleepytime](https://open.spotify.com/track/13h7I9dNHkzu7JlKKZFShm) | [Evelina Krueger](https://open.spotify.com/artist/5GlrFOukoWnBdZ7wIYfjcw) | [Sleepytime](https://open.spotify.com/album/78LjH7ANZqP6mxD1DwOEWs) | 1:10 | 2022-11-18 |  |
 | [Slowly Falling Asleep](https://open.spotify.com/track/2iETLGEsj6YumvVaN8wGlK) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [Slowly Falling Asleep](https://open.spotify.com/album/7Bpa7Ayaa1bFGdMKDjnwum) | 2:03 | 2023-03-10 |  |
-| [Slumber Sky](https://open.spotify.com/track/5c22QzDuwB2Bq5m0wtD4CZ) | [Bella Ryan](https://open.spotify.com/artist/5BcDfs8faxn3PLreXI84f8) | [Slumber Sky](https://open.spotify.com/album/5ycSiGcAeSp3P4a6Iq3uV5) | 1:52 | 2022-04-20 |  |
+| [Slumber Sky](https://open.spotify.com/track/5c22QzDuwB2Bq5m0wtD4CZ) | [Bella Ryan](https://open.spotify.com/artist/5BcDfs8faxn3PLreXI84f8) | [Slumber Sky](https://open.spotify.com/album/5ycSiGcAeSp3P4a6Iq3uV5) | 1:52 | 2022-04-20 | 2023-08-25 |
 | [Slumber Slumber](https://open.spotify.com/track/1UT9kSB7uXa4tFVq5AxztN) | [Robin Thames](https://open.spotify.com/artist/6TMNfZRg48kWC72NJErGJH) | [Slumber Slumber](https://open.spotify.com/album/60Hx9WjhzCNmPG3ugl0T3u) | 1:09 | 2023-02-17 |  |
 | [Slumra Min Vän](https://open.spotify.com/track/58VOhFHz9UMqDPryNsX6SS) | [Amelie Tati](https://open.spotify.com/artist/6JTgpqC6HfRJHzL9fCHGKB) | [Slumra Min Vän](https://open.spotify.com/album/32FMH7upIL59SOmfZOimwG) | 2:24 | 2022-04-20 | 2023-01-27 |
 | [Smiling In My Sleep](https://open.spotify.com/track/4k2xVaV0x3RdW3vUoL68h3) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [Smiling In My Sleep](https://open.spotify.com/album/3YbzN8nHdN5jorYjpNvzLu) | 2:10 | 2021-10-05 |  |

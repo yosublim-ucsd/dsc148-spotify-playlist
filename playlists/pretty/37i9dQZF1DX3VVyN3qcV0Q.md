@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VVyN3qcV0Q.md) - [plain]
 | 24 | [Slam Jam! \- Mixed](https://open.spotify.com/track/2dR44FCzMehnQCkBHG1O3e) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Slam Jam! \(Mixed\)](https://open.spotify.com/album/5TUa9tqhZHCE8kOMw4YnXa) | 2:53 |
 | 25 | [Welcome to the Disco \- Mixed](https://open.spotify.com/track/4I651E7H02tRIETieN5M8T) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Welcome to the Disco \(Mixed\)](https://open.spotify.com/album/5U2hgGLISCF4UWhGzVtrt5) | 3:13 |
 
-Snapshot ID: `MCw2ZDQzYTI0ODcxMmIxOWJkMGFlMGEzZmM4MGZhMmI5M2U5Y2FkNjgz`
+Snapshot ID: `MCxkMjIwNWM4MmNjODFlYzNiMzVmNTk4ODQwYmViOGI0YWU0ZWMyNzkx`

@@ -17111,6 +17111,24 @@
     },
     {
       "album": {
+        "name": "Rich On Grape Street",
+        "url": "https://open.spotify.com/album/1sjghOoEKmHQ9Uucxr012N"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Rich On Grape Street",
+      "url": "https://open.spotify.com/track/3F6sLMtMvTeTrREKH2Y1Od"
+    },
+    {
+      "album": {
         "name": "Rich Problems",
         "url": "https://open.spotify.com/album/3umyqwAkITHw17JJjODAcv"
       },

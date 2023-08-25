@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc",
   "name": "R&Bae",
   "tracks": [
     {
@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Bunker 09",
+        "url": "https://open.spotify.com/album/12PLqI9BiLCPlLihhoEExV"
+      },
+      "artists": [
+        {
+          "name": "Minissia",
+          "url": "https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bunker 09",
+      "url": "https://open.spotify.com/track/4t7KDvE1AO02Jr0uDIJYY6"
+    },
+    {
+      "album": {
         "name": "C'est toi",
         "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
       },
@@ -654,7 +672,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 166906,
       "name": "C\u00e2lin (feat. Soolking)",
       "url": "https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK"
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 182970,
       "name": "M\u00e9t\u00e9o",
       "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
@@ -2342,6 +2360,24 @@
       "duration_ms": 182426,
       "name": "On s'fait du mal (feat. Dadju)",
       "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
+    },
+    {
+      "album": {
+        "name": "On vient de loin",
+        "url": "https://open.spotify.com/album/12fpYUwuFUcvwCplvxNQSV"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152617,
+      "name": "On vient de loin",
+      "url": "https://open.spotify.com/track/2hsWXtf1kKPubl90gl6PbQ"
     },
     {
       "album": {
@@ -2677,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Rassure-toi",
+        "url": "https://open.spotify.com/album/08kXWDkoGFhwlg5NPatEXo"
+      },
+      "artists": [
+        {
+          "name": "Cadie Nelva",
+          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174061,
+      "name": "Rassure-toi",
+      "url": "https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0"
+    },
+    {
+      "album": {
         "name": "La Vie de Roni",
         "url": "https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef"
       },
@@ -2800,7 +2854,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 180000,
       "name": "Sans Filtre",
       "url": "https://open.spotify.com/track/2XNcON85G8D4uX4e8DwJrq"

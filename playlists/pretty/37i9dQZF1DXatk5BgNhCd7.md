@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Los Ángeles Azules & Maria Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,341 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,398 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 14 | [Verano Permanente](https://open.spotify.com/track/6vRLN4Q4ZEFZa20SeesOnS) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Carli](https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Verano Permanente](https://open.spotify.com/album/24nuDNQnfyAyxSlpAiFkRl) | 4:39 |
 | 15 | [Un Cigarro](https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Un Cigarro](https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9) | 2:54 |
 | 16 | [Diganle](https://open.spotify.com/track/4tvxEdNhLHdhYkplr2YVot) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Diganle](https://open.spotify.com/album/12f3s7wfWqaxmulXQLRcIc) | 2:13 |
-| 17 | [Si Me Emborracho \- Bachata Version](https://open.spotify.com/track/4KZGfDuEXCO824srXcI6VM) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Si Me Emborracho \(Bachata Version\)](https://open.spotify.com/album/6VKtRsBXDnEP1ieZG8LqIz) | 3:09 |
+| 17 | [Fiesta! Si Me Emborracho \- Bachata Version](https://open.spotify.com/track/4KZGfDuEXCO824srXcI6VM) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Fiesta! Si Me Emborracho \(Bachata Version\)](https://open.spotify.com/album/6VKtRsBXDnEP1ieZG8LqIz) | 3:09 |
 | 18 | [Como Dejar de Amarte](https://open.spotify.com/track/0tgtrWzJCGJOXSzg6YeiSe) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [Como Dejar De Amarte](https://open.spotify.com/album/7BsPvmrxmXDrdNizZ8yxW9) | 4:04 |
 | 19 | [Clavada En Mi Cuerpo](https://open.spotify.com/track/2r8f3ojwoRpnz6Aszufnrt) | [Daniel Simo](https://open.spotify.com/artist/4HZGfCiVVgfmaKlvyIF65k) | [Clavada En Mi Cuerpo](https://open.spotify.com/album/5k3fW7bHYsk7dSDD89FZiJ) | 3:20 |
 | 20 | [Me Voy Contigo](https://open.spotify.com/track/4h5vzpVOjyE6iDL87aQe4b) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Me Voy Contigo](https://open.spotify.com/album/3s1n86YHWRonvhfxLQrNln) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Murió la flor / El reloj / Arrepentida](https://open.spotify.com/track/5Mj0hzzwRWj8dMPpfkhiA3) | [El Combo 10](https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Murió la flor / El reloj / Arrepentida](https://open.spotify.com/album/3LidPiOzidYA5kDFlKXMyK) | 3:53 |
 | 50 | [LALA](https://open.spotify.com/track/5pAiAby7MFjR2CPHTULMua) | [Ke Kumbia](https://open.spotify.com/artist/4wld5HDVMVy9I6MnPqjzFH) | [LALA](https://open.spotify.com/album/6jBzXsFk2LJEvzXsza3ZvI) | 2:48 |
 
-Snapshot ID: `MCxiN2Q3ODBkNDUyODMzOTUxNzlmMzMxNzQ4ZGI3YThhYzY3OTg1ZTFi`
+Snapshot ID: `MCxlYWU4MDAwNDEyZjk0NWQ0ZmZlZmU2OTAwOTA2ODE2YTUyMmIzYjJk`

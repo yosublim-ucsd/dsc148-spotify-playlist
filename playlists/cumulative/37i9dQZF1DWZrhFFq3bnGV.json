@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Praya Tjondro",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Vira Talisa",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -90,7 +90,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 301007,
       "name": "12345",
       "url": "https://open.spotify.com/track/3e9GQLWUzBUoSvzUvUB1VC"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 310450,
       "name": "A Child",
       "url": "https://open.spotify.com/track/4li2UDxFOvtzgFLKM31WJk"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 215302,
       "name": "A Long Way",
       "url": "https://open.spotify.com/track/6JYBO8re5EdRsPl3pBuHCJ"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 197760,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/0iua6kaiZlwKQsQ0CQaLkg"
@@ -460,6 +460,28 @@
       "duration_ms": 275328,
       "name": "Begini Cinta",
       "url": "https://open.spotify.com/track/7vCBnI93aQCdPJMqx5z6EU"
+    },
+    {
+      "album": {
+        "name": "Sejiwa",
+        "url": "https://open.spotify.com/album/4rEgxywUFenTE0CSvJxUAO"
+      },
+      "artists": [
+        {
+          "name": "The Groove",
+          "url": "https://open.spotify.com/artist/4QaAmS47H6ZCc5JtXP5933"
+        },
+        {
+          "name": "Tiara Effendy",
+          "url": "https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236233,
+      "name": "Berbunga - Bunga",
+      "url": "https://open.spotify.com/track/3NtqKyA6WU6AR6ajEAntjO"
     },
     {
       "album": {
@@ -634,7 +656,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 211783,
       "name": "Cocoa Butter",
       "url": "https://open.spotify.com/track/4guIRGkMQBGNBWFA3SjDah"
@@ -846,7 +868,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 309581,
       "name": "Dibatas Waktu",
       "url": "https://open.spotify.com/track/6i25UJEZmwdBjNq1Wq8rdQ"
@@ -1108,7 +1130,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 278120,
       "name": "Four in One",
       "url": "https://open.spotify.com/track/5WalKss7FNnbycpzsUA541"
@@ -1280,7 +1302,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 208000,
       "name": "Healing Wounds",
       "url": "https://open.spotify.com/track/7GviZb5p791rcED8MaGnWI"
@@ -1764,7 +1786,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 345640,
       "name": "Leila - Instrumental",
       "url": "https://open.spotify.com/track/3epfDlHCiGJMICVRFngWfm"
@@ -1830,7 +1852,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 197142,
       "name": "Little Bit Simple - Instrumental Version",
       "url": "https://open.spotify.com/track/0vlnOeaiMERE83zsDwV1i5"
@@ -2004,7 +2026,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 203824,
       "name": "moonlight",
       "url": "https://open.spotify.com/track/6xCB26Dg9hVNE76hJ774aU"
@@ -2266,7 +2288,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 296624,
       "name": "Perjalanan",
       "url": "https://open.spotify.com/track/2Xzzv1HLYnxLkeGwMeQyC3"
@@ -2346,7 +2368,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 270000,
       "name": "Propulsion",
       "url": "https://open.spotify.com/track/3DL4O5muk2DjIxnMAEtYq3"
@@ -2430,7 +2452,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 242232,
       "name": "Run Over the Line",
       "url": "https://open.spotify.com/track/1wNQ9mNK1IRgl6IXR9Wqhc"
@@ -2802,7 +2824,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 164000,
       "name": "Sugih Ati",
       "url": "https://open.spotify.com/track/1Y4h8HfM10JbnhRTr8ulya"
@@ -2952,7 +2974,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 329592,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/4OssZd7mNskFiUZ40ukFkx"
@@ -2974,7 +2996,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 221000,
       "name": "Terjebak Rasa",
       "url": "https://open.spotify.com/track/1mCbEnBemrfcJlOVBzDKbm"

@@ -208,7 +208,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1383999,
       "name": "A 479",
       "url": "https://open.spotify.com/track/3hJgoqoik98ctXroEVMPvA"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 932000,
       "name": "All The Noises Of Inaccessibility",
       "url": "https://open.spotify.com/track/6tM062ZRohsNbLa3OaHcPY"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1578000,
       "name": "An Opening",
       "url": "https://open.spotify.com/track/4q4PVP9tH4WgGlmYuNZqsf"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1010852,
       "name": "Annotations 1",
       "url": "https://open.spotify.com/track/0I5D3yRawWRHrAJsFdFNrj"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1197226,
       "name": "Birth of Liquid Plejades",
       "url": "https://open.spotify.com/track/6TMKeISSvlKSMRnPaq0ziP"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 778773,
       "name": "Come Out",
       "url": "https://open.spotify.com/track/1tVAblkpwlHpALeyy0RpzU"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1200519,
       "name": "Concert at Phil Niblock's Loft",
       "url": "https://open.spotify.com/track/0t7H4g6R10lDoGMvM9Vt5n"
@@ -1580,6 +1580,24 @@
       "duration_ms": 673324,
       "name": "Dreams of Stairs",
       "url": "https://open.spotify.com/track/54UlajCtx2b9CDwv7rSGKy"
+    },
+    {
+      "album": {
+        "name": "Drifting Memory Part 1",
+        "url": "https://open.spotify.com/album/76dByAwQ2VZzcvXb8EQIJ6"
+      },
+      "artists": [
+        {
+          "name": "Guy J",
+          "url": "https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1522872,
+      "name": "Drifting Memory",
+      "url": "https://open.spotify.com/track/73DIxRY4uaqCKwOrxCjK0d"
     },
     {
       "album": {
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 642906,
       "name": "FLUX TWO",
       "url": "https://open.spotify.com/track/7yfa4JcR05wO1roiR5Eb7B"
@@ -3208,7 +3226,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 781213,
       "name": "Max",
       "url": "https://open.spotify.com/track/0EclmjRuVEVytDKJyz6n6J"
@@ -3462,7 +3480,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1087000,
       "name": "Morgen\u00e5nder",
       "url": "https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA"
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1557832,
       "name": "Movement 2 - Live",
       "url": "https://open.spotify.com/track/1c9gPNG5YajP55gk4O964M"
@@ -3680,7 +3698,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 2455866,
       "name": "Nocturnes",
       "url": "https://open.spotify.com/track/0lPtLygfoiOQxJb2iry7OL"
@@ -4096,7 +4114,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1232413,
       "name": "Pauline Oliveros - I of IV",
       "url": "https://open.spotify.com/track/77rz0oP8SyYU6blsUaSITK"
@@ -4222,7 +4240,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1059351,
       "name": "Phaedra - Remastered 2018",
       "url": "https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm"
@@ -5022,7 +5040,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 2103070,
       "name": "Somebody Scream",
       "url": "https://open.spotify.com/track/6UYXiGoNbnIOqsKEo5VxdS"
@@ -5040,7 +5058,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1393224,
       "name": "Songs and Views from the Magnetic Garden: Songs and Views from the Magnetic Garden: II.",
       "url": "https://open.spotify.com/track/3eNaCqjTBSmrk7AZb9eulb"
@@ -5358,7 +5376,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1491862,
       "name": "Sweetness & Light I",
       "url": "https://open.spotify.com/track/1ZAUFjVplDJdA1BCU98z0U"
@@ -5716,7 +5734,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1778977,
       "name": "The Psychologically Ultimate Seashore",
       "url": "https://open.spotify.com/track/0vDyyvRmZKEC2UW4bucQlw"
@@ -5846,7 +5864,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1493200,
       "name": "The Way Home",
       "url": "https://open.spotify.com/track/1sWNTVYnz0xbo3AWtBuM2m"
@@ -6004,7 +6022,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1810826,
       "name": "Tintinnabulation (Contemplative Sound)",
       "url": "https://open.spotify.com/track/49QhJ4sBBDgQk8RaWMV2Yn"
@@ -6040,7 +6058,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1194215,
       "name": "Torn Page",
       "url": "https://open.spotify.com/track/5BEcsUdHuN9aQBqA46iPqP"
@@ -6112,7 +6130,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1246266,
       "name": "Tropic Of Capricorn",
       "url": "https://open.spotify.com/track/3vX7MHtYnisIKaHUT4PPJi"
@@ -6310,7 +6328,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 1305600,
       "name": "Variable Speeds",
       "url": "https://open.spotify.com/track/72nBHcM5RRyoPiIC1a6OPj"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Louis The Child",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring OddKidOut, San Holo & artemis orion",
   "name": "creamy",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 226950,
       "name": "2hard2letgo",
       "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 159375,
       "name": "all you'll get from me is my company",
       "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 272509,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
@@ -902,6 +902,24 @@
       "duration_ms": 246760,
       "name": "Beneath Us",
       "url": "https://open.spotify.com/track/21LG8xoR5iNEkbIJrLvkze"
+    },
+    {
+      "album": {
+        "name": "Bermondsey Bender",
+        "url": "https://open.spotify.com/album/1M6NaqHHPv7P4nLZjjbUeJ"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243664,
+      "name": "Bermondsey Bender",
+      "url": "https://open.spotify.com/track/7dpl1yewE4RWDCGBUXUjnP"
     },
     {
       "album": {
@@ -1754,6 +1772,32 @@
       "duration_ms": 165710,
       "name": "cloudy",
       "url": "https://open.spotify.com/track/4uN3fqx0mRqf61RemIFhIq"
+    },
+    {
+      "album": {
+        "name": "WEIGHTLESS",
+        "url": "https://open.spotify.com/album/5gJhPtgz6Q9TEmXRjlGRqo"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195092,
+      "name": "CLOUDY STORIES (feat. San Holo)",
+      "url": "https://open.spotify.com/track/5CM41rtmp3whRZX68O8IR8"
     },
     {
       "album": {
@@ -2610,7 +2654,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 169846,
       "name": "Duality",
       "url": "https://open.spotify.com/track/1MDFcgb008rczRBg2lmtGG"
@@ -4555,6 +4599,24 @@
     },
     {
       "album": {
+        "name": "I Don't Know What To Say",
+        "url": "https://open.spotify.com/album/5rDEDC8GcwlxV7qraoAZyL"
+      },
+      "artists": [
+        {
+          "name": "Origami Human",
+          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "I Don't Know What To Say",
+      "url": "https://open.spotify.com/track/4fei1adu1gwEfxlVJyX6LP"
+    },
+    {
+      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
@@ -5082,6 +5144,28 @@
       "duration_ms": 149760,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/0Hxg817iDRgOgizgY8G0j1"
+    },
+    {
+      "album": {
+        "name": "KEEP ME IN MIND (ft. Lyrah)",
+        "url": "https://open.spotify.com/album/3v54IBpEIcNMlXiXOkT7c8"
+      },
+      "artists": [
+        {
+          "name": "clear eyes",
+          "url": "https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr"
+        },
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "KEEP ME IN MIND (ft. Lyrah)",
+      "url": "https://open.spotify.com/track/4f84AMUxmYGFp9ddjEK3bG"
     },
     {
       "album": {
@@ -6496,6 +6580,24 @@
       "duration_ms": 184888,
       "name": "Out For A Run",
       "url": "https://open.spotify.com/track/14sDWKdWYg5YK9I74rwQms"
+    },
+    {
+      "album": {
+        "name": "Out Of Love",
+        "url": "https://open.spotify.com/album/2C61LqHVFz12uEJDRdBZUZ"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/5jRIWngYH11xuX2HjQwacj"
     },
     {
       "album": {
@@ -9188,7 +9290,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 170320,
       "name": "THIS IS THE END.",
       "url": "https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo"
@@ -9666,7 +9768,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 165500,
       "name": "VOODOO",
       "url": "https://open.spotify.com/track/2ryYs693sIZvV2No5g3vY7"

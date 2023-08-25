@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,336 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,335 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 19 | [Randy Johnson](https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Randy Johnson](https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85) | 2:32 |
 | 20 | [Right Thru](https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Right Thru](https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW) | 2:46 |
 | 21 | [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 |
-| 22 | [inestable](https://open.spotify.com/track/4xlcblBvKp7c62NWOFZ1Sq) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 3:02 |
+| 22 | [East Side](https://open.spotify.com/track/1RXZHzvwmNKwrnwAVLOxZU) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [East Side](https://open.spotify.com/album/3VFdfeQep8243UdqkJFEWC) | 2:30 |
 | 23 | [512](https://open.spotify.com/track/4zANwdkLMw3vQ2Xijg4WY8) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [512](https://open.spotify.com/album/17JfLaj2zx8k9whBHN8wiI) | 3:08 |
-| 24 | [East Side](https://open.spotify.com/track/1RXZHzvwmNKwrnwAVLOxZU) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [East Side](https://open.spotify.com/album/3VFdfeQep8243UdqkJFEWC) | 2:30 |
+| 24 | [inestable](https://open.spotify.com/track/4xlcblBvKp7c62NWOFZ1Sq) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 3:02 |
 | 25 | [Bonnie and Clyde](https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Bonnie and Clyde](https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7) | 3:29 |
 | 26 | [Gucci Prada](https://open.spotify.com/track/1DpyhxXcebRC3STmwMBXH3) | [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Gucci Prada](https://open.spotify.com/album/5PhmFSll4LVvCaQFWOD8lK) | 3:03 |
 | 27 | [Otra](https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Otra](https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG) | 2:46 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 36 | [Más Grande](https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Más Grande](https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX) | 3:39 |
 | 37 | [Lealtad x Dinero](https://open.spotify.com/track/6EMCdTDkc4jGqXy4AN4vsw) | [Producto Sin Corte](https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Lealtad x Dinero](https://open.spotify.com/album/2hdaowYq1S3yEd31yGOIsp) | 3:43 |
 | 38 | [Palestina](https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Castiel](https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2) | [Palestina](https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4) | 3:54 |
-| 39 | [Juicy](https://open.spotify.com/track/7AG2CdeWrcdkhQpQuXS9nv) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Juicy](https://open.spotify.com/album/57bcr49I6EUlgp1UKzUFdg) | 2:03 |
-| 40 | [11:11](https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir) | [11:11](https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf) | 3:11 |
+| 39 | [11:11](https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir) | [11:11](https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf) | 3:11 |
+| 40 | [Juicy](https://open.spotify.com/track/7AG2CdeWrcdkhQpQuXS9nv) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Juicy](https://open.spotify.com/album/57bcr49I6EUlgp1UKzUFdg) | 2:03 |
 | 41 | [Scarface Sin Manolo](https://open.spotify.com/track/2QG15gotHbUzTzNfnekxWs) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Scarface Sin Manolo](https://open.spotify.com/album/5X5ZFAlfi5LqIoI7KWkSem) | 3:29 |
 | 42 | [IDGAF](https://open.spotify.com/track/076GBcif3AM1IHfBJs545o) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [IDGAF](https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA) | 2:14 |
 | 43 | [Respeto X Respeto](https://open.spotify.com/track/1vrxkVgaOSQb02tyLtQnXD) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Respeto X Respeto](https://open.spotify.com/album/24UJw0M1giFfL1APlORrar) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Los Costos](https://open.spotify.com/track/0ZAYDTMC8NhYlKehcG9uZC) | [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Uno X Ciento](https://open.spotify.com/album/2eIR3IdzD32qKQQuLeQOXM) | 3:09 |
 | 50 | [Quiero](https://open.spotify.com/track/4Lxsnyn9yJnkkHZKTAQynR) | [Mhane](https://open.spotify.com/artist/7iZYxykcEg1PSVTW7cWdqK), [Robert Taylor](https://open.spotify.com/artist/1PbZZhQGxXdxgrcR1W8Ete) | [Quiero](https://open.spotify.com/album/20gGKogH9MsM0IegKgrX5f) | 2:58 |
 
-Snapshot ID: `MCwxMzQ1MWRjMmMyNmRlOGI1YmRhYWNhZDY0ZjA0MTk5OTMwZGIzOWY2`
+Snapshot ID: `MCwwYmQ0NDBmMTZjMGVlNzViMmY3NThmZTU4ZGRiOGE4MzA1MTUwN2Jl`

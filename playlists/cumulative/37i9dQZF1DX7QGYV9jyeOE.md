@@ -4,7 +4,7 @@
 
 > Classic and contemporary pioneers of New Age music\. Cover: Constance Demby
 
-87 songs - 7 hr 56 min
+88 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Om Mani Padme Hum](https://open.spotify.com/track/6S7QB6lkpJz25glAK3gTC0) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Skies Above Skies](https://open.spotify.com/album/0mOvzxPIp6XULoaq2Kq3h9) | 9:57 | 2021-10-15 |  |
 | [Pompeii 76 A.D.](https://open.spotify.com/track/68sMOYzXAebkYwfvZsedDI) | [Gail Laughton](https://open.spotify.com/artist/5WRr9OjL0ERTqeeUuuaklY) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 2:22 | 2021-10-15 |  |
 | [Port Ana](https://open.spotify.com/track/3BY8WGHPLIBAPw7lwkp3cX) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [Port Ana](https://open.spotify.com/album/0c6yAyZOGJEerke86Fxb9G) | 3:45 | 2021-10-15 |  |
+| [Quiet Joy](https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Quiet Joy / Domestic Peace](https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb) | 3:02 | 2023-08-24 |  |
 | [Quiet Repose](https://open.spotify.com/track/75yClCFX22VGcuLwCatoM8) | [Michele Ippolito](https://open.spotify.com/artist/02T9iupvpUM5kUAXy74bOM) | [Drifting in Dreams](https://open.spotify.com/album/5Jt9bhKrGeU6hh69D8scOy) | 4:37 | 2021-10-15 |  |
 | [Rain Again](https://open.spotify.com/track/4R7vKWacSrqaOiyfWaDTDH) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [Port Ana](https://open.spotify.com/album/0c6yAyZOGJEerke86Fxb9G) | 3:29 | 2021-10-15 |  |
 | [Reflecting Light](https://open.spotify.com/track/5soViX7uPUyYaPT6EJJD5e) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 2:47 | 2021-10-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,855 likes - 128 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,906 likes - 128 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 52 | [Kimi wa Boku ni Niteiru](https://open.spotify.com/track/1S5oYQtDWGRFGbmeGHHoAA) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Kimi wa Boku ni Niteiru](https://open.spotify.com/album/2Ha3g73VEHNEg9zBukU98S) | 4:45 |
 | 53 | [宇宙の詩 〜Higher and Higher 〜](https://open.spotify.com/track/7Frp5P5UEOtDssUfVFWvuM) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [CROSS](https://open.spotify.com/album/0yGVq0iZ0Ej7OWcYxQzydi) | 5:06 |
 | 54 | [Eien ni Amuro](https://open.spotify.com/track/3e6JumfGKJAW7NiifbVAdo) | [Kou Ikeda](https://open.spotify.com/artist/1cK45E2ZB2IHyyUfC0eim8), [Feeling Free](https://open.spotify.com/artist/1JbNaQwAJWS3XUO3iV7yKK) | [Eien ni Amuro](https://open.spotify.com/album/4MMC7xYQirRnEXFoCva9uZ) | 3:02 |
-| 55 | [TurnATurn](https://open.spotify.com/track/1eVTPymRl3GyeLqLyBiIXv) | [Hideki Saijo](https://open.spotify.com/artist/0NftkVrfzvCddFaDAmkBxh) | [TurnATurn](https://open.spotify.com/album/6Egklu4WXNhgR2EHW2rWci) | 4:46 |
+| 55 | [TurnＡTurn](https://open.spotify.com/track/1eVTPymRl3GyeLqLyBiIXv) | [Hideki Saijo](https://open.spotify.com/artist/0NftkVrfzvCddFaDAmkBxh) | [TurnＡTurn](https://open.spotify.com/album/6Egklu4WXNhgR2EHW2rWci) | 4:46 |
 | 56 | [MEN OF DESTINY](https://open.spotify.com/track/0h8nMNEoNIjOKAN7XTKtLZ) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [MEN OF DESTINY](https://open.spotify.com/album/4zZ6FlBnUujPNsSeeKsNVf) | 4:03 |
 | 57 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/6mwBMPGpO0gtvR8QKxVCyo) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [coordinate](https://open.spotify.com/album/1Nz1JrJKCsAtTiIu5A3pw2) | 4:19 |
 | 58 | [明日へ](https://open.spotify.com/track/0b1eJt5F6yI2u0T0LF0Ly3) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [PORTAL](https://open.spotify.com/album/1WJkB7MN6rgPIEO08aa6vI) | 5:18 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 127 | [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 |
 | 128 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MCw3OGZmYzRmZTM0MjFiZjRiNTQ3ZDFhNTg2MTE1YWUzYmZmNmE2NTc0`
+Snapshot ID: `MCw3NDRjMGI2OGUzYjA5ZTE1ODRlNzNlZmI5ZjE4YjdkMWJjMmFmOGU3`

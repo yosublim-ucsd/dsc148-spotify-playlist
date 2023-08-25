@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 243750,
       "name": "Catch",
       "url": "https://open.spotify.com/track/0avqD9l3aBJnuMDZMyFPwl"
@@ -10432,6 +10432,24 @@
       "duration_ms": 177611,
       "name": "skin shimmer",
       "url": "https://open.spotify.com/track/7FRE4xPjkql1KTJJDHQJn5"
+    },
+    {
+      "album": {
+        "name": "Skipper's Tale",
+        "url": "https://open.spotify.com/album/5Mgyt4mxPFGBPhcLXnkAuI"
+      },
+      "artists": [
+        {
+          "name": "Tree House Club",
+          "url": "https://open.spotify.com/artist/1ghseo4S7q5vSLnammn0vE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176919,
+      "name": "Skipper's Tale",
+      "url": "https://open.spotify.com/track/41CUgsSWTYxMf7Tu6ed1e7"
     },
     {
       "album": {

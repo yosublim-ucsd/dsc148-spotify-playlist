@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,469 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,503 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 23 | [昨日見た夢のように](https://open.spotify.com/track/4wtR2MpQTQYiztuAYWMG5z) | [Eiko Hiraiwa](https://open.spotify.com/artist/4VPCefGLDWC3ACrhMytyKS) | [Airium](https://open.spotify.com/album/2dts82QfvxKAJtYZbsHXdC) | 5:32 |
 | 24 | [モノクローム](https://open.spotify.com/track/1suyMXDdPZE6BZlKgTPB8b) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [URBAN BLUES Presents BEST OF NAOKO GUSHIMA](https://open.spotify.com/album/4qmd0MoQhHRudD3wXDHOmQ) | 5:36 |
 | 25 | [Melody](https://open.spotify.com/track/2OpaAoMdzC7fR6mAzTZL2G) | [Kenjiro Sakiya](https://open.spotify.com/artist/14tdomXFf9cDR8ms2xVN03) | [Platinum Best Sakiya Kenjiro \- Mellow Groove Collection](https://open.spotify.com/album/5xlTVgB8LMfCQffVDvrAKB) | 5:30 |
-| 26 | [あなたがそばにいる理由](https://open.spotify.com/track/4dRAXb8IpgVBdXJe5tYsUJ) | [Kaori Okui](https://open.spotify.com/artist/0RQhwDCMVYatkJ6p7rrB9e) | [Renaissance](https://open.spotify.com/album/0bWr54SZfUko5nVbtDiP9l) | 4:53 |
+| 26 | [あなたがそばにいる理由](https://open.spotify.com/track/4dRAXb8IpgVBdXJe5tYsUJ) | [Kaori Okui](https://open.spotify.com/artist/0RQhwDCMVYatkJ6p7rrB9e) | [Ｒｅｎａｉｓｓａｎｃｅ](https://open.spotify.com/album/0bWr54SZfUko5nVbtDiP9l) | 4:53 |
 | 27 | [Orange](https://open.spotify.com/track/1xfRbBRDU13OFbjQY917fm) | [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Blue Jam](https://open.spotify.com/album/0LILwQL53k7i9m9CxrUzXt) | 5:51 |
 | 28 | [地上の9mの宇宙](https://open.spotify.com/track/4IziiuY1hf00wLYSkk072A) | [Seiko Sato](https://open.spotify.com/artist/4sxVVljhdcKe36YGDZW3uV) | [CRYSTAL](https://open.spotify.com/album/39HbPKcc3M6MP63G4fFY7E) | 4:57 |
 | 29 | [Happy\-Go\-Lucky](https://open.spotify.com/track/2WOB3RH7MLpaNFjkIGVn1B) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [City Pop Essentials \- Drive \-](https://open.spotify.com/album/6Z4Ojg2KQEMblEKke3seBH) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 49 | [双子座グラフィティ \- 2014 Remaster](https://open.spotify.com/track/6SbhXWE47UAGZIYZNcZxkX) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [SINGLES BEST〜Archives〜 \(完全版\) \[リマスター\]](https://open.spotify.com/album/5aofoE06bWoCF43ZXHU4jk) | 4:50 |
 | 50 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 |
 
-Snapshot ID: `MCxlNzQ5NzNlOGQwNjk5YTI0YjM4ODdlZmI3YmE5MGQxMjg2Y2Y3ZGQ3`
+Snapshot ID: `MCw5ZDM3NTJkNmQzOWQyMWI5YjEzODUxOTE1NmM5NmZjMTQ1NjRjMGVk`

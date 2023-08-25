@@ -824,7 +824,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 165454,
       "name": "In Rhythm",
       "url": "https://open.spotify.com/track/5KuUhoDmQ6NvwHUAHhVmHB"
@@ -1044,6 +1044,24 @@
       "duration_ms": 160959,
       "name": "Mane Fluctus",
       "url": "https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G"
+    },
+    {
+      "album": {
+        "name": "Martello",
+        "url": "https://open.spotify.com/album/3H979kln0g82N8otZE71ec"
+      },
+      "artists": [
+        {
+          "name": "Julio Raass",
+          "url": "https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161090,
+      "name": "Martello",
+      "url": "https://open.spotify.com/track/7KWk7mL21m0YbkeJUdm1TM"
     },
     {
       "album": {

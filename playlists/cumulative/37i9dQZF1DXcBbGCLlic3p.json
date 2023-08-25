@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 239224,
       "name": "Allt finns kvar",
       "url": "https://open.spotify.com/track/6eTRQbYbCnrnm0ghn4eUNd"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 197124,
       "name": "Anay degimay",
       "url": "https://open.spotify.com/track/3wuEQyST9B3qhPlNymA4Vl"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 228602,
       "name": "Behind The Lines",
       "url": "https://open.spotify.com/track/0gEnOiu5WgBs0W9XWwSV21"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 253000,
       "name": "Dr\u00f8mme",
       "url": "https://open.spotify.com/track/3ScyefUwfkGi0g6CaCemRc"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 133794,
       "name": "Enlightened Room",
       "url": "https://open.spotify.com/track/7wVGdCV81JeomYcKNMoKcm"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 176000,
       "name": "In een ander leven",
       "url": "https://open.spotify.com/track/537oPrVMaJChPcHDEP83nR"
@@ -2111,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Lay Down",
+        "url": "https://open.spotify.com/album/6Pc9x79guaH7ahJduO7iFW"
+      },
+      "artists": [
+        {
+          "name": "Danielle Walker",
+          "url": "https://open.spotify.com/artist/5wAnMmOnMIA0EGNUIYkLRr"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/4PIdLxret66FcX5mMyTyga"
+    },
+    {
+      "album": {
         "name": "Leaving Port",
         "url": "https://open.spotify.com/album/0KC8Z2Q9mFlfbx0SgUY6i9"
       },
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 241018,
       "name": "Lifetimes",
       "url": "https://open.spotify.com/track/7w0Svp1oDZJtoBBq8JGKUn"
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 152597,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/6WPhQfpJOY2elhjJHI27H5"
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 148531,
       "name": "Minutes",
       "url": "https://open.spotify.com/track/4zIyhdolfQSwPrclbLyvUT"
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 180624,
       "name": "Nefelibata",
       "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 224277,
       "name": "Nibelia",
       "url": "https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd"
@@ -2770,7 +2788,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 194250,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/55cj9j5lNgAsKIYjX2mJLm"
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 212000,
       "name": "Noraezean",
       "url": "https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm"
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 178500,
       "name": "Oculis",
       "url": "https://open.spotify.com/track/3rkfPXBvaNLZNzwrWZ0Dmd"
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 180500,
       "name": "Patience",
       "url": "https://open.spotify.com/track/342mXLmWmrjqqIaVtnYjRH"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 240042,
       "name": "Shoreline Waves",
       "url": "https://open.spotify.com/track/1AvYFqAsQjo2ZTg4S2GBA8"
@@ -3850,7 +3868,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 178297,
       "name": "Slowly Drifting Away",
       "url": "https://open.spotify.com/track/3xgSzRqNvrQtUVcYP0LxdI"
@@ -4066,7 +4084,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 204000,
       "name": "Subtext",
       "url": "https://open.spotify.com/track/1Sb4GB5blfCNXXGhoEs7kw"
@@ -4732,7 +4750,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 294545,
       "name": "Warmest Embrace",
       "url": "https://open.spotify.com/track/0Sn8lWeOkc5crNhOus3hw9"

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g7dAq6cAPA.md) - [plain]
 
 > Music From "Puella Magi Madoka Magica"! 音楽で辿る「魔法少女まどか☆マギカ」の世界! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,362 likes - 81 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,427 likes - 81 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [コネクト](https://open.spotify.com/track/2ReLy6MAZB0lw65E7utuIt) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [コネクト](https://open.spotify.com/album/2kcyfDBLNVuvP7ebwSw3SX) | 4:31 |
 | 2 | [Magia](https://open.spotify.com/track/34q0h9Les2HFVMPLIQVHbI) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Magia](https://open.spotify.com/album/5jqyT4Y5pq6qF7zmKw4FNc) | 5:12 |
-| 3 | [ケアレス](https://open.spotify.com/track/0vEGVn21baQ0D5xaWJgLCc) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [TVアニメ「マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON \-覚醒前夜\-」Theme Song Collection](https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui) | 4:14 |
-| 4 | [Lapis](https://open.spotify.com/track/0I9XGKYjSmT5KC5RjIMfxE) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TVアニメ「マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON \-覚醒前夜\-」Theme Song Collection](https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui) | 3:58 |
+| 3 | [ケアレス](https://open.spotify.com/track/0vEGVn21baQ0D5xaWJgLCc) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [TVアニメ「マギアレコード　魔法少女まどか☆マギカ外伝 2nd SEASON \-覚醒前夜\-」Theme Song Collection](https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui) | 4:14 |
+| 4 | [Lapis](https://open.spotify.com/track/0I9XGKYjSmT5KC5RjIMfxE) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TVアニメ「マギアレコード　魔法少女まどか☆マギカ外伝 2nd SEASON \-覚醒前夜\-」Theme Song Collection](https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui) | 3:58 |
 | 5 | [フレッジ](https://open.spotify.com/track/07b3tcdgzUIcBeRJDPvsFu) | [環いろは\(CV:麻倉もも\)](https://open.spotify.com/artist/1cy5uXN8y8i5NhrfuRSvsM), [七海やちよ\(CV:雨宮天\)](https://open.spotify.com/artist/2NF2LvyC20LrgbIM0JARpy), [由比鶴乃\(CV:夏川椎菜\)](https://open.spotify.com/artist/7z5VXPhnlZMQ2y9iAfVkmd), [深月フェリシア\(CV:佐倉綾音\)](https://open.spotify.com/artist/72FEmm4aelN7tQ2avKDOoS), [二葉さな\(CV:小倉唯\)](https://open.spotify.com/artist/60ItUsKo0ZXHE3SJIyJdFh), [環うい\(CV:石見舞菜香\)](https://open.spotify.com/artist/02Z2U8A10g1BYk8FuR4j5P) | [フレッジ](https://open.spotify.com/album/4u9TwUKkOBaXcSdbuH9v5o) | 4:09 |
 | 6 | [オルゴール](https://open.spotify.com/track/6b8Hu7AWAANB43xmNAXvyz) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [オルゴール](https://open.spotify.com/album/1Pu3Zrzu1AzKByHmjlru2B) | 4:44 |
 | 7 | [Lapis](https://open.spotify.com/track/2dLePVS1r2mw2L0uE0k8zD) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Lapis](https://open.spotify.com/album/2GL9ZK5r1hgBBrTn2evF1r) | 3:59 |
-| 8 | [また あした](https://open.spotify.com/track/5sLtjikhdwpFxpQpt6NRB0) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 4:24 |
+| 8 | [また　あした](https://open.spotify.com/track/5sLtjikhdwpFxpQpt6NRB0) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 4:24 |
 | 9 | [and I'm home \-Original Master Version.\-](https://open.spotify.com/track/04MYBwT5u3n0o9YD9TSa5g) | [美樹さやか \(CV:喜多村英梨\)](https://open.spotify.com/artist/36y42taogcR024xS85HIHE), [佐倉杏子 \(CV:野中藍\)](https://open.spotify.com/artist/1VSGTuDTMQZ3aKjlDNVFYH) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 3:03 |
 | 10 | [Sis puella magica!](https://open.spotify.com/track/4S40MDl8IuzSHsmsctWaKI) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 2:49 |
 | 11 | [ルミナス](https://open.spotify.com/track/5OYi6DORnGytA7cNwVQpJC) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ルミナス](https://open.spotify.com/album/7i4MHVRVxRFWMwzr41RvcY) | 4:11 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g7dAq6cAPA.md) - [plain]
 | 80 | [ユメおと](https://open.spotify.com/track/6M3dD7YvWOMy4LU0ZCJcHn) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO), [暁美ほむら \(CV:斎藤千和\)](https://open.spotify.com/artist/6sabqK2dfqbzkF0jg2oHya) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 3:56 |
 | 81 | [Stairs](https://open.spotify.com/track/30qeDkDeFD59x2JCzwegRs) | [巴マミ\(CV:水橋かおり\)](https://open.spotify.com/artist/7bPq8mMssFUlLTPp1dJ3P5), [佐倉杏子 \(CV:野中藍\)](https://open.spotify.com/artist/1VSGTuDTMQZ3aKjlDNVFYH) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 3:51 |
 
-Snapshot ID: `MCwzMGY3MWZmZjZjNDMwZWEzNTY0YzQ0ZjhmNThiZDdiYmRkMDRmMTI5`
+Snapshot ID: `MCw3NzEwMDUzMTdiZGJjNTNmOGVmODk2NWIyOWQwZjU2MzA0ZTU2YjMz`

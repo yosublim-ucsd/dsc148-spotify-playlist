@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : Draganov
+> Les hits du moment sont ici\. Cover : Lartiste
 
 206 songs - 11 hr 22 min
 

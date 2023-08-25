@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Darlin'",
+        "url": "https://open.spotify.com/album/1v0dkSYLAImcmdDld2TwVm"
+      },
+      "artists": [
+        {
+          "name": "Michaela Cahill",
+          "url": "https://open.spotify.com/artist/1JPcMRkHD4ffcFmiHwV8k7"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169343,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/3I3xdmnczabkVKgVcXXeTJ"
+    },
+    {
+      "album": {
         "name": "Deep In The Cut",
         "url": "https://open.spotify.com/album/2wiZcgF4V96sSE0T5XUDTe"
       },
@@ -1756,24 +1774,6 @@
       "duration_ms": 137142,
       "name": "ME FUI",
       "url": "https://open.spotify.com/track/6jpMFoQi1CS00qI6ntXfUN"
-    },
-    {
-      "album": {
-        "name": "Darlin'",
-        "url": "https://open.spotify.com/album/1v0dkSYLAImcmdDld2TwVm"
-      },
-      "artists": [
-        {
-          "name": "Michaela Cahill",
-          "url": "https://open.spotify.com/artist/1JPcMRkHD4ffcFmiHwV8k7"
-        }
-      ],
-      "date_added": "2023-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169343,
-      "name": "Michaela Cahill - Darlin'",
-      "url": "https://open.spotify.com/track/3I3xdmnczabkVKgVcXXeTJ"
     },
     {
       "album": {

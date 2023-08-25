@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 51021,
+  "num_followers": 51060,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzZlYWU2NTZhN2I5YzUyODExNTRlNTRiODYxZDJiYmVkNmNlY2Q1",
+  "snapshot_id": "MCwwYWI3ZGYwNmM4MmU3NWU0MGJjNjZlYzYxMmQ3MTFjY2M3MmUyN2Rm",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Roll Deep",
-        "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
-      },
-      "artists": [
-        {
-          "name": "10Tik",
-          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
-        }
-      ],
-      "duration_ms": 207856,
-      "name": "Roll Deep",
-      "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Crawsis",
         "url": "https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 173740,
       "name": "Crawsis",
       "url": "https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Roll Deep",
+        "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
+      },
+      "artists": [
+        {
+          "name": "10Tik",
+          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
+        }
+      ],
+      "duration_ms": 207856,
+      "name": "Roll Deep",
+      "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Live n' Learn",
+        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "Live n' Learn",
+      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Glock 40",
         "url": "https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 206393,
       "name": "Empty",
       "url": "https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Live n' Learn",
-        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
-      },
-      "artists": [
-        {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Live n' Learn",
-      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Shootaz",
-        "url": "https://open.spotify.com/album/43SV1kuMfBm9HCPI6v0l3c"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        },
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 208351,
-      "name": "Shootaz",
-      "url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Guzu Bunx (Fada Rock)",
         "url": "https://open.spotify.com/album/3BkkaOV017yFknzAZzQ8By"
       },
@@ -1071,6 +1051,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Shootaz",
+        "url": "https://open.spotify.com/album/43SV1kuMfBm9HCPI6v0l3c"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "Shootaz",
+      "url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 236425,
       "name": "Next To Me (feat. Toni-Ann Singh)",
       "url": "https://open.spotify.com/track/18okB3tFyUOaQLWFoBOC1H"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Solemn Request",
-        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 186958,
-      "name": "Solemn Request",
-      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1155,6 +1139,22 @@
       "duration_ms": 177240,
       "name": "SINTRAP (Giftcard)",
       "url": "https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Solemn Request",
+        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 186958,
+      "name": "Solemn Request",
+      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Still a Bleed",
-        "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 216528,
-      "name": "Still a Bleed",
-      "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "WSTRN Season 3",
         "url": "https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7"
       },
@@ -1299,22 +1283,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "21 Psalm",
-        "url": "https://open.spotify.com/album/0J3Ilvx9rIi0aHvgmiIy31"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "21 Psalm",
-      "url": "https://open.spotify.com/track/5omLQJya4umViap9GwViw8"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Top Prize",
         "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
       },
@@ -1331,6 +1299,38 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "21 Psalm",
+        "url": "https://open.spotify.com/album/0J3Ilvx9rIi0aHvgmiIy31"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "21 Psalm",
+      "url": "https://open.spotify.com/track/5omLQJya4umViap9GwViw8"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Still a Bleed",
+        "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 216528,
+      "name": "Still a Bleed",
+      "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Be Good",
         "url": "https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6"
       },
@@ -1343,6 +1343,26 @@
       "duration_ms": 157628,
       "name": "Be Good",
       "url": "https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        },
+        {
+          "name": "Weekday",
+          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
+        }
+      ],
+      "duration_ms": 166687,
+      "name": "Imperfections",
+      "url": "https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1387,42 +1407,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Imperfections",
-        "url": "https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf"
-      },
-      "artists": [
-        {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        },
-        {
-          "name": "Weekday",
-          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
-        }
-      ],
-      "duration_ms": 166687,
-      "name": "Imperfections",
-      "url": "https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Another Dolla",
-        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 163526,
-      "name": "Another Dolla",
-      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Top Prize",
         "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 185666,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/5FCxUX1NdOzWtCcCoq5o17"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Another Dolla",
+        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "duration_ms": 163526,
+      "name": "Another Dolla",
+      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1507,6 +1507,42 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Know Weh Ya Do",
+        "url": "https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        },
+        {
+          "name": "Weekday",
+          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
+        }
+      ],
+      "duration_ms": 177957,
+      "name": "Know Weh Ya Do",
+      "url": "https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Ocean Wave",
+        "url": "https://open.spotify.com/album/722vGdkmCeXfKriYdKonto"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ocean Wave",
+      "url": "https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/3m0ma3GvTHyf5Ia1g69awi"
       },
@@ -1543,22 +1579,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Know Weh Ya Do",
-        "url": "https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz"
+        "name": "Sweepstake Life",
+        "url": "https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn"
       },
       "artists": [
         {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        },
-        {
-          "name": "Weekday",
-          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
         }
       ],
-      "duration_ms": 177957,
-      "name": "Know Weh Ya Do",
-      "url": "https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA"
+      "duration_ms": 180323,
+      "name": "Sweepstake Life",
+      "url": "https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1575,38 +1607,6 @@
       "duration_ms": 156631,
       "name": "Corrupt, Pt. 2",
       "url": "https://open.spotify.com/track/7zTa7Ba7lV0DOya0xTj5Uf"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Ocean Wave",
-        "url": "https://open.spotify.com/album/722vGdkmCeXfKriYdKonto"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Ocean Wave",
-      "url": "https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Sweepstake Life",
-        "url": "https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 180323,
-      "name": "Sweepstake Life",
-      "url": "https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/7mxpbEr40ApaC4wzKdSkuq"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "TOKYO",
         "url": "https://open.spotify.com/album/2iVF7QXXbh7M1AdLmkAvv4"
       },
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5"
-      },
-      "artists": [
-        {
-          "name": "Moyann",
-          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "25/8",
         "url": "https://open.spotify.com/album/1CkR6RZZW5MCRa6FGhcIGl"
       },
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5"
       },
       "artists": [
         {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+          "name": "Moyann",
+          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/7mxpbEr40ApaC4wzKdSkuq"
+      "duration_ms": 155294,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/1V7ZuemBGHlZHJnXWImgiL"
+      },
+      "artists": [
+        {
+          "name": "Marksman",
+          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
+        },
+        {
+          "name": "Nile SNL",
+          "url": "https://open.spotify.com/artist/4eUKHWM8spZa4rCtDdPRTZ"
+        }
+      ],
+      "duration_ms": 139154,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/0i5tGTm0ibiyLSCiDs3CiS"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Want You Back",
         "url": "https://open.spotify.com/album/7DyRjxogpXhnbhSeTKj80P"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 153000,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/1V7ZuemBGHlZHJnXWImgiL"
-      },
-      "artists": [
-        {
-          "name": "Marksman",
-          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
-        },
-        {
-          "name": "Nile SNL",
-          "url": "https://open.spotify.com/artist/4eUKHWM8spZa4rCtDdPRTZ"
-        }
-      ],
-      "duration_ms": 139154,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/0i5tGTm0ibiyLSCiDs3CiS"
     },
     {
       "added_at": "2023-05-24 08:21:37",

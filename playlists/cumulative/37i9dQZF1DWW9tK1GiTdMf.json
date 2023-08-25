@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b  Olivia Rodrigo in cover!",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b  GAYLE in cover!",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -2902,7 +2902,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 102400,
       "name": "Diciannove",
       "url": "https://open.spotify.com/track/3hOhe36qZVTMYMix2vsTer"
@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 177868,
       "name": "dolce",
       "url": "https://open.spotify.com/track/50bz5BYXZdNB0WDoyUzYZD"
@@ -3316,7 +3316,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 161533,
       "name": "Dov'\u00e9?",
       "url": "https://open.spotify.com/track/7H90YOKum4Ih997KavJqKZ"
@@ -3516,6 +3516,32 @@
       "duration_ms": 137900,
       "name": "Efedrina",
       "url": "https://open.spotify.com/track/0mraQZ7j0QRW0Gl1Fqi6xn"
+    },
+    {
+      "album": {
+        "name": "EMOGIRL",
+        "url": "https://open.spotify.com/album/7jRApMUwk5O2JN6wOh9oov"
+      },
+      "artists": [
+        {
+          "name": "Yans",
+          "url": "https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX"
+        },
+        {
+          "name": "Fulgur",
+          "url": "https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC"
+        },
+        {
+          "name": "Kunai",
+          "url": "https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150486,
+      "name": "EMOGIRL",
+      "url": "https://open.spotify.com/track/35v2ybDpFJ564K9xzXwyRn"
     },
     {
       "album": {
@@ -4775,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "Hated",
+        "url": "https://open.spotify.com/album/1Ifo5BrgTcBaUtwWj1ynhD"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "Hated",
+      "url": "https://open.spotify.com/track/2NNq2V3PD8u55LqGs8ImU1"
+    },
+    {
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/3GLDO6nEKcFojsiLQr5tTO"
       },
@@ -5887,6 +5931,24 @@
     },
     {
       "album": {
+        "name": "leave me for dead",
+        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176399,
+      "name": "leave me for dead",
+      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
+    },
+    {
+      "album": {
         "name": "LEI",
         "url": "https://open.spotify.com/album/2TeZPRV4238oHBxMf8sU21"
       },
@@ -6336,7 +6398,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 136274,
       "name": "Luna",
       "url": "https://open.spotify.com/track/1DC6d1GMuRhORcRVK89ZsU"
@@ -10183,6 +10245,28 @@
     },
     {
       "album": {
+        "name": "Spent\u00f8 & Stanc\u00f8",
+        "url": "https://open.spotify.com/album/0JbnMskkKVUFFIczLSidmw"
+      },
+      "artists": [
+        {
+          "name": "Nefil",
+          "url": "https://open.spotify.com/artist/0MGwBbvdr6smmVDpKee1kw"
+        },
+        {
+          "name": "Skins",
+          "url": "https://open.spotify.com/artist/1NFOVT7B71RKx6ysFKA0OF"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207741,
+      "name": "Spent\u00f8 & Stanc\u00f8",
+      "url": "https://open.spotify.com/track/2ei3Ki6ygpBcG1eUrbndux"
+    },
+    {
+      "album": {
         "name": "spero ti ci strozzi",
         "url": "https://open.spotify.com/album/4lvFDCOwH3l37sKGlRVYdv"
       },
@@ -11981,6 +12065,24 @@
     },
     {
       "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/2oDt8ji4RSwpjImc66YvvD"
+      },
+      "artists": [
+        {
+          "name": "pablo murphy",
+          "url": "https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/056jYB4VJ8j4YbwRniD4Hr"
+    },
+    {
+      "album": {
         "name": "ventiquattro",
         "url": "https://open.spotify.com/album/1EuqOMLU1qZiUekCMnZA1E"
       },
@@ -11992,7 +12094,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 150193,
       "name": "ventiquattro",
       "url": "https://open.spotify.com/track/36V1AlJgM7twP1LNJym8Xn"

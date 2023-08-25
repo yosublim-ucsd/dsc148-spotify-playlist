@@ -4,12 +4,12 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,130 songs - 2 day 10 hr 19 min
+1,131 songs - 2 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$ Class](https://open.spotify.com/track/24EX7eyICxUglPeKIyV7JJ) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [Kures Drill](https://open.spotify.com/album/4IsnFljZY7pcz5fhHBe7Q6) | 3:05 | 2023-08-19 | 2023-08-21 |
-| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-08-16 |  |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-08-16 | 2023-08-25 |
 | [\(Ne\)potřebuju tě](https://open.spotify.com/track/7sX4x81OuCCtagTwAWyP3A) | [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW) | [Album, co mi změnilo život](https://open.spotify.com/album/4NybXmmponlJSA5JnjXaae) | 3:02 | 2022-06-30 | 2022-07-02 |
 | [\*ADDICT\*](https://open.spotify.com/track/6u4M76UxU5DrQRM7O0bq8W) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C) | [\*PATTERN\*](https://open.spotify.com/album/0HfuXHVf6If1iG7JucFN6d) | 2:52 | 2023-07-22 | 2023-07-24 |
 | [\*JOLANDA\*](https://open.spotify.com/track/4ukTRImWuGPCbydk1b7Ooy) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C) | [\*PATTERN\*](https://open.spotify.com/album/0HfuXHVf6If1iG7JucFN6d) | 2:32 | 2023-07-22 | 2023-07-24 |
@@ -777,6 +777,7 @@
 | [Poznamenaný](https://open.spotify.com/track/5fhHCozr33ovDSqBGzfbmk) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Poznamenaný](https://open.spotify.com/album/0GPH1J5fmBenBFWxHqAqMx) | 3:37 | 2021-05-03 | 2021-06-20 |
 | [PPP](https://open.spotify.com/track/7btWEju08WG0kJksBMHhFT) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR](https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK) | 3:02 | 2022-03-12 | 2022-05-14 |
 | [Prach \- z filmu BANGER.](https://open.spotify.com/track/2nR4w34eMUWK3VuRygoIpq) | [Adam Mišík](https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ), [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Prach \(z filmu BANGER.\)](https://open.spotify.com/album/7z3f34cXRGZFioS6TNoMqA) | 2:41 | 2022-09-27 | 2023-03-10 |
+| [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-24 |  |
 | [Praha 90210](https://open.spotify.com/track/1dng8qxEokN08Q2CDGKDsK) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [ROMEO](https://open.spotify.com/album/2UQwJOfPOpgvVQSvyZ3mWZ) | 1:52 | 2021-06-09 | 2021-06-18 |
 | [Praha den a noc](https://open.spotify.com/track/7xWbvfPrSjTWdsBNHOqdJJ) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [TIMBERLAKETRAPPED 2](https://open.spotify.com/album/19O2oO9bmWV7z3O6X5WV3j) | 2:00 | 2022-12-25 |  |
 | [Praha/Vídeň](https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR](https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK) | 2:42 | 2022-03-12 |  |

@@ -2403,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Pacifying",
+        "url": "https://open.spotify.com/album/7CLMU4QE3IbJzav5iwPGhu"
+      },
+      "artists": [
+        {
+          "name": "Jin Eun-Kyung",
+          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166350,
+      "name": "Pacifying",
+      "url": "https://open.spotify.com/track/2piD3usltoZ3Q6ru5G90eh"
+    },
+    {
+      "album": {
         "name": "Pampus",
         "url": "https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF"
       },
@@ -3566,7 +3584,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 162058,
       "name": "We Dream",
       "url": "https://open.spotify.com/track/3npnieFhPJITVCDNMCOKgG"

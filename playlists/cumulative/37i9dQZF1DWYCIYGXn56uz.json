@@ -885,6 +885,28 @@
     },
     {
       "album": {
+        "name": "Cose Irrisolte",
+        "url": "https://open.spotify.com/album/2GXUbX988I5nxVRQKTywWO"
+      },
+      "artists": [
+        {
+          "name": "Werdn",
+          "url": "https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC"
+        },
+        {
+          "name": "Sbale",
+          "url": "https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161305,
+      "name": "Cose Irrisolte",
+      "url": "https://open.spotify.com/track/1Qce0xOIZkROcZ9WdkkolH"
+    },
+    {
+      "album": {
         "name": "Cos\u00ec Come Sei",
         "url": "https://open.spotify.com/album/6a4FSCfn5xOXi2TSTH03DR"
       },

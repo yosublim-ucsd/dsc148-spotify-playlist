@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-351 songs - 17 hr 39 min
+352 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [I´ll See A Light](https://open.spotify.com/track/7EqeAfbTta51OCd9gz6buQ) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [I´ll See A Light](https://open.spotify.com/album/6Boo2SIRxXRzKsyDmZvejZ) | 2:28 | 2022-07-05 |  |
 | [Just In View](https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Just In View](https://open.spotify.com/album/4e52GFe6T8POxpBMXqbTG7) | 3:29 | 2022-07-05 |  |
 | [Kaleidoscope](https://open.spotify.com/track/4expHDATikoNSKn5KnD5s0) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Kaleidoscope](https://open.spotify.com/album/76TEeAfLIIj0bVVkI54pWB) | 2:36 | 2022-07-05 | 2022-07-29 |
-| [Kaleidoscope](https://open.spotify.com/track/6pvLoqEUB7gv5JAKR97INq) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Kaleidoscope](https://open.spotify.com/album/6zzzSTmpQNlwNT7Qil0PX7) | 2:36 | 2022-07-05 |  |
+| [Kaleidoscope](https://open.spotify.com/track/6pvLoqEUB7gv5JAKR97INq) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Kaleidoscope](https://open.spotify.com/album/6zzzSTmpQNlwNT7Qil0PX7) | 2:36 | 2022-07-05 | 2023-08-25 |
 | [Kaleidoscopes](https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Kaleidoscopes](https://open.spotify.com/album/2aiyIySFX9CdtSAJC2jJy0) | 3:51 | 2022-07-05 |  |
 | [Kamala Whispers](https://open.spotify.com/track/7vuiorqf35I6w77KN6SX9v) | [Gerda Holmes](https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL) | [Kamala Whispers](https://open.spotify.com/album/2uhijpoPHyuCYoQ7blYqqR) | 2:18 | 2023-04-07 |  |
 | [Kaolnite](https://open.spotify.com/track/4fItBSHKBcgKWixN1Idie5) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Kaolnite](https://open.spotify.com/album/4ZPUoevTs8TL3qSTYoiV5N) | 3:00 | 2022-07-05 |  |
@@ -356,6 +356,7 @@
 | [White Clouds](https://open.spotify.com/track/6De33VzJSol8SANtkyOYfa) | [Cellulose Sunshine](https://open.spotify.com/artist/5UQC7KDvCQnrNPbOKP3Dls) | [White Clouds](https://open.spotify.com/album/1fvpkhV1V2MJTNGlLbXh6l) | 2:45 | 2022-07-05 |  |
 | [Wild Flowers](https://open.spotify.com/track/5QxJpxP8HG9UpHgAXt9NcL) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Deep Healing Sessions Vol 1](https://open.spotify.com/album/6pS5kuMkDKvDgZkaBQnSSI) | 3:27 | 2022-07-05 | 2023-07-29 |
 | [Wild Soul](https://open.spotify.com/track/0PSoQovKUDaVl7TBVGAmt4) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Dream Catcher](https://open.spotify.com/album/3JTj8NXeqCzU8DzEbEgp1S) | 3:29 | 2022-07-05 | 2023-03-04 |
+| [With Ease](https://open.spotify.com/track/00eBFvnAYsdAXXGCDnK7SV) | [Agnes Sayjno](https://open.spotify.com/artist/345c5ThS55JjzQizl3l8pg) | [With Ease](https://open.spotify.com/album/4ZJqFFI6TVaXqJtrLf7afE) | 3:01 | 2023-08-24 |  |
 | [Woods](https://open.spotify.com/track/5in0ezyUreA4p4XgBd5dJX) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Woods](https://open.spotify.com/album/2z34IdP8fG0NBbSCjEbwdP) | 3:04 | 2022-07-05 | 2023-03-04 |
 | [Yonder](https://open.spotify.com/track/6eIaNamCwzTfJr4SrFypu5) | [Nathalie J](https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb) | [Yonder](https://open.spotify.com/album/6X6DVdhuR1Ajws0GwFgjHD) | 3:20 | 2022-11-11 |  |
 | [Zwijgzaam](https://open.spotify.com/track/2bpRF8CLQ9p0fPsuxGxgyF) | [Arend Van de Berg](https://open.spotify.com/artist/63jzbSMufVu89cATqsHgyn) | [Zwijgzaam](https://open.spotify.com/album/66DT8BwYSolG1NFg2sxirA) | 3:14 | 2023-04-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,761 likes - 86 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,885 likes - 86 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,17 +19,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 9 | [Oysterdate](https://open.spotify.com/track/0QPSjqBltCTN4RI51YHoqP) | [Cmooth Operators](https://open.spotify.com/artist/7jbFr8lLTMytrhaHgoo3Sh) | [Oysterdate](https://open.spotify.com/album/57LtqLeAKvSpBDRa5JWBCj) | 3:00 |
 | 10 | [Inside](https://open.spotify.com/track/266AcipKTXIgXJxre9q96l) | [Karl Spark](https://open.spotify.com/artist/1fT4bjnaK1NRVL2Kt62clf) | [Eternity](https://open.spotify.com/album/1hao8mc9TnqAnw0CxneHYN) | 2:38 |
 | 11 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 |
-| 12 | [Sphinx](https://open.spotify.com/track/5yxbR0xFLPYD1Rwcpue0L9) | [Lui](https://open.spotify.com/artist/0Rk4M5J8WUbwga9BIXQyZA) | [Sphinx](https://open.spotify.com/album/7BkPWJsOkhwGgSU4cU0FtP) | 3:14 |
-| 13 | [Fast Friends](https://open.spotify.com/track/55SNJ5c6P2s9qoBjBSAJbq) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Low Tide](https://open.spotify.com/album/0KYdYU0aQoFid6Bx5Vp4WE) | 2:20 |
-| 14 | [drift](https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [drift](https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw) | 3:57 |
-| 15 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 |
-| 16 | [Names](https://open.spotify.com/track/7nnGqGyWubzlufPKDzSR05) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [Forensics](https://open.spotify.com/album/73uUKdwUNXW5v7BpZPGHPd) | 2:33 |
-| 17 | [Petros](https://open.spotify.com/track/3jpj5rsdWQ1178Y0ag6BAb) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Petros](https://open.spotify.com/album/1DnZaKmshbDzxzzhaBc1vH) | 3:06 |
-| 18 | [With My Head In The Clouds](https://open.spotify.com/track/6sbxL63lxChWhcpbrfZusb) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [With My Head In The Clouds](https://open.spotify.com/album/0APq3v0AR9lWXBB41nSWSm) | 3:18 |
-| 19 | [Think im falling](https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu) | [WingIt](https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy) | [Island Bypass](https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4) | 2:06 |
-| 20 | [Switch to Mandarin](https://open.spotify.com/track/0zAxSm7pUHr0rZ8OGsaJvA) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Switch to Mandarin](https://open.spotify.com/album/6rdVhNeC9SJXYbOvkMlRCB) | 3:11 |
-| 21 | [Really](https://open.spotify.com/track/1aApO1iwmZQxfwbFPbxy3I) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Really](https://open.spotify.com/album/3slEFvvLdHdY87gYg8QHt2) | 2:05 |
-| 22 | [Lazy](https://open.spotify.com/track/5AiI3I1ayQFAhFvOG6N6Qh) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Lazy](https://open.spotify.com/album/1WBLkmlmYyxPMqnQii3s05) | 3:01 |
+| 12 | [Mar y Sol](https://open.spotify.com/track/7ET0GAyYAy35LEZJnFwFEa) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Mar y Sol](https://open.spotify.com/album/2zRJG1SeLJ2LzyULzKyUPj) | 3:28 |
+| 13 | [Sphinx](https://open.spotify.com/track/5yxbR0xFLPYD1Rwcpue0L9) | [Lui](https://open.spotify.com/artist/0Rk4M5J8WUbwga9BIXQyZA) | [Sphinx](https://open.spotify.com/album/7BkPWJsOkhwGgSU4cU0FtP) | 3:14 |
+| 14 | [Fast Friends](https://open.spotify.com/track/55SNJ5c6P2s9qoBjBSAJbq) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Low Tide](https://open.spotify.com/album/0KYdYU0aQoFid6Bx5Vp4WE) | 2:20 |
+| 15 | [drift](https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [drift](https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw) | 3:57 |
+| 16 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 |
+| 17 | [Names](https://open.spotify.com/track/7nnGqGyWubzlufPKDzSR05) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [Forensics](https://open.spotify.com/album/73uUKdwUNXW5v7BpZPGHPd) | 2:33 |
+| 18 | [Petros](https://open.spotify.com/track/3jpj5rsdWQ1178Y0ag6BAb) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Petros](https://open.spotify.com/album/1DnZaKmshbDzxzzhaBc1vH) | 3:06 |
+| 19 | [With My Head In The Clouds](https://open.spotify.com/track/6sbxL63lxChWhcpbrfZusb) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [With My Head In The Clouds](https://open.spotify.com/album/0APq3v0AR9lWXBB41nSWSm) | 3:18 |
+| 20 | [Think im falling](https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu) | [WingIt](https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy) | [Island Bypass](https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4) | 2:06 |
+| 21 | [Switch to Mandarin](https://open.spotify.com/track/0zAxSm7pUHr0rZ8OGsaJvA) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Switch to Mandarin](https://open.spotify.com/album/6rdVhNeC9SJXYbOvkMlRCB) | 3:11 |
+| 22 | [Really](https://open.spotify.com/track/1aApO1iwmZQxfwbFPbxy3I) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Really](https://open.spotify.com/album/3slEFvvLdHdY87gYg8QHt2) | 2:05 |
 | 23 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 |
 | 24 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 |
 | 25 | [Jungle](https://open.spotify.com/track/1bYYkgs2MnDgmKstwHmTCN) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Jungle](https://open.spotify.com/album/3gydl4PaR5RDJIirW4eARZ) | 2:08 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 85 | [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 |
 | 86 | [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 |
 
-Snapshot ID: `MCxhNjNjOTIyNjQyYjA3ZDg4NDQ0ZTgyMGNlNzA4NzQ5OGFlZTkwZjBm`
+Snapshot ID: `MCwxOWNlMTI5NDkyNTFiMDJmNmY4ZTIwNzVjN2NhMTA4NjBkMzRhYjNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Krishnakali Saha, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,012 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,021 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Aao](https://open.spotify.com/track/0kUTSj4qTINZJp2kB35Dmr) | [Arpit Agnihotri](https://open.spotify.com/artist/0KJlY42ShDmGyvtcUTxu4M) | [Aao](https://open.spotify.com/album/2GN9FwmSYNw1lFN6FqEwJu) | 4:18 |
 | 100 | [Kahaniyan](https://open.spotify.com/track/04tiRFjYqhFZ71VVzzYwQx) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Kahaniyan](https://open.spotify.com/album/6ljwWuYQh5fYq322ksxy2H) | 3:54 |
 
-Snapshot ID: `MCxjM2FmMTI3ZDcwZThlOThiY2QzY2VmZmUxMTAyMGM4MDRhYzkwNGM4`
+Snapshot ID: `MCw2ZjA5ZDYzMjBiZTEyZDBkMTZlODMzNDQ1M2JkZWY2NWY2NTFlOTMx`

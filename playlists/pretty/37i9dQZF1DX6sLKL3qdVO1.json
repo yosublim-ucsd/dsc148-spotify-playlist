@@ -1,13 +1,33 @@
 {
-  "description": "Shawty lo que necesitas es darle flow. Feid portada. ",
-  "num_followers": 558046,
+  "description": "Shawty lo que necesitas es darle flow. Ghetto Kids y Nsqk en portada. ",
+  "num_followers": 558269,
   "original_name": "Dale Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzNkOWRiZWY1NTQxMzU4ZjAwMjliMGJmYTYxODQ0NmMzNWU1ZGE2",
+  "snapshot_id": "MCw1M2YxZGU0YjZmNGE3OGMwZjE1NWI2MWNiYWE1NWFjMDEzNWJjNzZj",
   "tracks": [
+    {
+      "added_at": "2023-08-24 20:20:05",
+      "album": {
+        "name": "EN EL GHETTO #3 (Par de cosas)",
+        "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "EN EL GHETTO #3 (Par de cosas)",
+      "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
+    },
     {
       "added_at": "2023-08-08 17:19:37",
       "album": {

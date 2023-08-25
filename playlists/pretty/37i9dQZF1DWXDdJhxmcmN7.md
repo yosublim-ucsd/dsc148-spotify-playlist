@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,234 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,666 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 57 | [alone alone](https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO) | [Thragg](https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H) | [alone alone](https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO) | 1:30 |
 | 58 | [Sayulita Vibes](https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Sayulita Vibes](https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz) | 1:58 |
 | 59 | [Lluvia de Oro](https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Yunani HU](https://open.spotify.com/artist/7GPDzYt6bNbg4b0X6YsgsB) | [Lluvia de Oro](https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg) | 2:20 |
-| 60 | [iced coffee](https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7) | [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [iced coffee](https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T) | 1:56 |
-| 61 | [Habits](https://open.spotify.com/track/4OVsPzhFDQExjFCc0UneHt) | [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ) | [To My Past Self](https://open.spotify.com/album/79uB85KjOZFusOJhjHRvb8) | 1:51 |
+| 60 | [Habits](https://open.spotify.com/track/4OVsPzhFDQExjFCc0UneHt) | [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ) | [To My Past Self](https://open.spotify.com/album/79uB85KjOZFusOJhjHRvb8) | 1:51 |
+| 61 | [iced coffee](https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7) | [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [iced coffee](https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T) | 1:56 |
 | 62 | [22 Hrs.](https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Canciones para Escuchar Frente a la Ventana](https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy) | 2:59 |
 | 63 | [Bloom](https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Bloom](https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf) | 2:15 |
 | 64 | [Michoacansiedad](https://open.spotify.com/track/0hiVmFhNCdxkF3mGF8bHpL) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Sé Pero No Quiero Saber, Entonces No Sé.](https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ) | 2:34 |
 | 65 | [Hide n Seek](https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Hide n Seek](https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4) | 2:10 |
-| 66 | [Efecto Foehn](https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N) | [Shō.gun](https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8) | [Efecto Foehn](https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF) | 2:09 |
-| 67 | [Playa](https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l) | [slider beats](https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps) | [Feelings](https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k) | 2:09 |
+| 66 | [Playa](https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l) | [slider beats](https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps) | [Feelings](https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k) | 2:09 |
+| 67 | [Efecto Foehn](https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N) | [Shō.gun](https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8) | [Efecto Foehn](https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF) | 2:09 |
 | 68 | [Opinable](https://open.spotify.com/track/6tSkvfWiXCkjqUXKXbLFKk) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Opinable](https://open.spotify.com/album/5f7XpTfXYCt8GWvk9sqEjT) | 3:05 |
 | 69 | [Canción en Forma de Elefante](https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Canciones Para Ver Las Nubes Pasar](https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ) | 2:44 |
 | 70 | [Amor Amor](https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n) | [Amor Amor](https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 99 | [cerezo](https://open.spotify.com/track/0JWjPJHAIuVomnV1FMy2NN) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Shetafacker](https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:57 |
 | 100 | [Llamar La Atención](https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Llamar La Atención](https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg) | 2:21 |
 
-Snapshot ID: `MCw0MWUyNDJiZjJjMmQxNDFhNzQxZTgwNzM0N2RkZDEzYjE4ZjliNDJk`
+Snapshot ID: `MCw1MDQxNDBhMTA3ZjUzMTQyYTAyZDU0Y2Q0NjhmNmI4Mzc5ZTdkNThk`

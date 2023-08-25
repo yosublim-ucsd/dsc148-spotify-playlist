@@ -349,6 +349,28 @@
     },
     {
       "album": {
+        "name": "Balance and Serenity for Sleep",
+        "url": "https://open.spotify.com/album/4rK2eia8RbWKD1TtjZIbN7"
+      },
+      "artists": [
+        {
+          "name": "Lemos",
+          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
+        },
+        {
+          "name": "Library Tapes",
+          "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Balance and Serenity for Sleep",
+      "url": "https://open.spotify.com/track/1n46LZ0g6q8TfVLUoRHqFI"
+    },
+    {
+      "album": {
         "name": "Slumbertrain",
         "url": "https://open.spotify.com/album/39aJDQNU5JJUlCI3NH485F"
       },
@@ -1568,6 +1590,24 @@
       "duration_ms": 199594,
       "name": "Kalas",
       "url": "https://open.spotify.com/track/2GeVtbxY76CiqZDhEyQCRw"
+    },
+    {
+      "album": {
+        "name": "Peta",
+        "url": "https://open.spotify.com/album/7vqe4Oi2TFVgpWwwFqA3kV"
+      },
+      "artists": [
+        {
+          "name": "Michiru Aoyama",
+          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153499,
+      "name": "kawarusi",
+      "url": "https://open.spotify.com/track/4Ry4yU8MIaiQHzbcPYDYVi"
     },
     {
       "album": {

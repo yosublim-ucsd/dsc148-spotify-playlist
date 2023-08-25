@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4?si=c7a288487c28483d">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,615 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,756 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 23 | [Beauty / We Fall Down \- Live](https://open.spotify.com/track/6qk2m4FLAsWT5BaaTqhddH) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Beauty](https://open.spotify.com/album/0N7g1biLYfgX00mWoHmMud) | 9:49 |
 | 24 | [Christ is Lower Still](https://open.spotify.com/track/3khXjhwcTYr2wcZX2umXUy) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Christ is Lower Still](https://open.spotify.com/album/6WDO8iw502euvnrfushQDL) | 5:56 |
 | 25 | [Christ Is The Center \- Live](https://open.spotify.com/track/3BmnZfapXOFmWSfNcj740D) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Christ Is The Center \(Live\)](https://open.spotify.com/album/1jDtoHYnjjxY5Cy8eiCybz) | 8:59 |
-| 26 | [Sing With All Your Heart](https://open.spotify.com/track/5VCisb9TbLJebeT0alrFEs) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Sing With All Your Heart](https://open.spotify.com/album/43n2tZF2uMwAsQemqIOrf9) | 3:34 |
+| 26 | [Sing With All Your Heart \- Live](https://open.spotify.com/track/5VCisb9TbLJebeT0alrFEs) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Sing With All Your Heart \(Live\)](https://open.spotify.com/album/43n2tZF2uMwAsQemqIOrf9) | 3:34 |
 | 27 | [Christ Our King \- Live](https://open.spotify.com/track/5RAAMMD8jJ4kVJCaX2hrNk) | [Village Lights](https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Ricky Vazquez](https://open.spotify.com/artist/1JNFZ2QcDKJbAPYwgCvgRb), [Ike Ndolo](https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W) | [Christ Our King \(Live\)](https://open.spotify.com/album/5vpeWPldeLp2SAREf4qD0v) | 4:05 |
 | 28 | [Thank You \- Live](https://open.spotify.com/track/5gB8fWV3shX1qSGIF0nu5P) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Thank You \(Live\)](https://open.spotify.com/album/5X7EtUR7UCAdH97YIJCuiT) | 4:12 |
 | 29 | [Wilderness](https://open.spotify.com/track/5v53SxJ00XAmYN9hn78mXo) | [Josh Yeoh](https://open.spotify.com/artist/3Tc2FLW6aD9eMcd4uyxqOP), [Isaac Ong](https://open.spotify.com/artist/63zn7wuzyLwH09q97QZvYH), [Abigail Yeo](https://open.spotify.com/artist/4h308aZOygxtABlcjcao9y) | [Wilderness](https://open.spotify.com/album/4oQuJC9h8R4BhAlc7F3qF2) | 7:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Breathe With Me \(feat\. Lindsey Stirling\)](https://open.spotify.com/track/7z3aHNAAUsPMAaVmwuDkUe) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Breathe With Me \(feat\. Lindsey Stirling\)](https://open.spotify.com/album/7fRNpEQDax1JiP5vbWaSv0) | 5:00 |
 | 100 | [Slow Me Down](https://open.spotify.com/track/2c6pOvjLEoY240Ny6l3YNA) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Slow Me Down](https://open.spotify.com/album/78u9L6vuyjYjQo2gGqF98e) | 3:22 |
 
-Snapshot ID: `MCxiYTM1YmRhMjU3NDBhZDMwOGIyNWFlNmU3NDdjNDY2NjMwMDQ0NjU0`
+Snapshot ID: `MCxmN2I3NzU0ZDFkM2E0NGVhNDIwMGE4MmVjZjMxNWJlNTBjNDQwZWJi`

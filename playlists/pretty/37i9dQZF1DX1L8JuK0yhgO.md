@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,516 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,519 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 44 | [Cloudy's just right](https://open.spotify.com/track/14zuiKpK4DOr9Fkjf5FpQq) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [Cloudy's just right](https://open.spotify.com/album/0PjxFB0gTY9p7xqxAsOrhS) | 3:40 |
 | 45 | [Sunday Gloaming](https://open.spotify.com/track/0IepVdzzw52fPpzwff9qWr) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/6KgLif7JIfrESE5l1nkLiS) | 4:47 |
 | 46 | [Suburban Sounds Forever](https://open.spotify.com/track/0XezLl7U4HNVXHk5kpluul) | [Teen Runnings](https://open.spotify.com/artist/0Df1WhuQDLCjtDt8bYNnlP) | [Suburban Sounds Forever](https://open.spotify.com/album/3iSrog08FYd9cNLDGC2kyS) | 2:43 |
-| 47 | [Re:higaeride \- lovely summer mix](https://open.spotify.com/track/40qwDCFeJqyxMakKz4UxRb) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA), [ラブリーサマーちゃん](https://open.spotify.com/artist/4RqW2gDA0WcAHD0Mc9yc6L) | [Re:higaeride \(lovely summer mix\)](https://open.spotify.com/album/3OIegmYvmUV4aY7BExNiq4) | 2:52 |
+| 47 | [Re:higaeride \- lovely summer mix](https://open.spotify.com/track/40qwDCFeJqyxMakKz4UxRb) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA), [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [Re:higaeride \(lovely summer mix\)](https://open.spotify.com/album/3OIegmYvmUV4aY7BExNiq4) | 2:52 |
 | 48 | [Session1](https://open.spotify.com/track/7n3LyF98MDpjZp4oPrhUEm) | [The taishiji Birds Ensemble](https://open.spotify.com/artist/5GQA2MnxPwVPvYdnwmbGix) | [Session1](https://open.spotify.com/album/6UMt1nHLdg6glDOkMWWRI0) | 2:12 |
 | 49 | [深南相模 \-孔\-](https://open.spotify.com/track/3gDXtvyvrqOVL0lRjojGZu) | [KOYANMUSIC](https://open.spotify.com/artist/19rxuAEQkRaSpW53OyHqzu) | [深南相模 \-孔\-](https://open.spotify.com/album/70aVRCwSQJgc4zeWCgr6Cf) | 3:17 |
 | 50 | [what a day](https://open.spotify.com/track/3zEJ5C8MdYaY3wCH9cEEsZ) | [aTTn](https://open.spotify.com/artist/40CE2AjIAmvExNgPEbGuwr), [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys), [ji2kia](https://open.spotify.com/artist/3GQDZKgxLoczcwbHY9tgY0) | [What a Day](https://open.spotify.com/album/3pmxgCORYK4Uf7Ft6jHM3c) | 1:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Shiver \- Logic1000 Remix](https://open.spotify.com/track/5dD7s5xnVh3Zk8fwt63lpA) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Shiver \(Logic1000 Remix\)](https://open.spotify.com/album/7hzkgn6hlrjoL6NssosKdd) | 3:34 |
 | 60 | [Freak Me Now \(with Róisín Murphy\) \- Horse Meat Disco Remix](https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna) | [Freak Me Now \(with Róisín Murphy\) \[Horse Meat Disco Remix\]](https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r) | 2:53 |
 
-Snapshot ID: `MCxjMWZmODk5NGI4NDEyYThjMGE4ODAwNzg4NjJlZTA2M2U3MTIwNjU4`
+Snapshot ID: `MCxiYmE1NDc4NDVjMjI4YjFmMmNhYjQzZjI0YzA1OTE0NjBmNDI0NDBl`

@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
+    },
+    {
+      "album": {
         "name": "DNK (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
       },
@@ -1353,6 +1371,50 @@
     },
     {
       "album": {
+        "name": "Dealer (feat. Blaqbonez & TAR1Q)",
+        "url": "https://open.spotify.com/album/1NOa7qFj3brcv9WNvUw9tM"
+      },
+      "artists": [
+        {
+          "name": "10Ten",
+          "url": "https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134398,
+      "name": "Dealer (feat. Blaqbonez & TAR1Q)",
+      "url": "https://open.spotify.com/track/7dHai2diN3uYd5SHZ8LsAO"
+    },
+    {
+      "album": {
+        "name": "Henny & a Vibe",
+        "url": "https://open.spotify.com/album/3TRG8uBtzK9b0Lixdp8sNn"
+      },
+      "artists": [
+        {
+          "name": "Mike Wang",
+          "url": "https://open.spotify.com/artist/09LAGEwOU3O1rXIY5Pa6S0"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/5ZQwZFPgYSciSXvaVCH0Xw"
+    },
+    {
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -1448,6 +1510,32 @@
       "duration_ms": 147829,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/6zntYa0B4LorAP7FB4ySTG"
+    },
+    {
+      "album": {
+        "name": "The Sum of Unfinished Businesses",
+        "url": "https://open.spotify.com/album/7yLxWKmosyUa0ZHS18ZTcN"
+      },
+      "artists": [
+        {
+          "name": "Mazbou Q",
+          "url": "https://open.spotify.com/artist/4ohC67TQuhtpWYNtcUgrYZ"
+        },
+        {
+          "name": "Phodiso",
+          "url": "https://open.spotify.com/artist/3yUPqkjKza9Kg5yXgaZA45"
+        },
+        {
+          "name": "Ch! Nonso",
+          "url": "https://open.spotify.com/artist/12pebkhzqSeiNhhiCSiZIv"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181015,
+      "name": "E No Dey Easy",
+      "url": "https://open.spotify.com/track/4KYASGpdl7SO2oUJI7pEDm"
     },
     {
       "album": {
@@ -2820,7 +2908,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
@@ -5746,6 +5834,28 @@
       "duration_ms": 176282,
       "name": "Talk That Talk",
       "url": "https://open.spotify.com/track/4velCw4NS8gCmeni5PUg1P"
+    },
+    {
+      "album": {
+        "name": "TELL DEM",
+        "url": "https://open.spotify.com/album/7I4sHOWCgBKUumuDLNgCxI"
+      },
+      "artists": [
+        {
+          "name": "J\u00c9REI",
+          "url": "https://open.spotify.com/artist/1lmf2OycyrMZ0WMDBplvl8"
+        },
+        {
+          "name": "JVT",
+          "url": "https://open.spotify.com/artist/01SGeo59EV57L72Dpq6JeE"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190874,
+      "name": "TELL DEM",
+      "url": "https://open.spotify.com/track/7Kto0ljnZH0x8zBVejHkCW"
     },
     {
       "album": {

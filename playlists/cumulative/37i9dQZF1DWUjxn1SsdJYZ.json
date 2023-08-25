@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 144750,
       "name": "4CERTAIN",
       "url": "https://open.spotify.com/track/7127v7qeXWKa1ACWIJS9fo"
@@ -1421,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Bump",
+        "url": "https://open.spotify.com/album/3i7ROEbBuHHLTXs4TIsla5"
+      },
+      "artists": [
+        {
+          "name": "Moses",
+          "url": "https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117607,
+      "name": "Bump",
+      "url": "https://open.spotify.com/track/1CT6q5bHXEPIKJtThRaxnr"
+    },
+    {
+      "album": {
         "name": "Burn Dat",
         "url": "https://open.spotify.com/album/3vkRnBQzbCzsrrCvBPAOqz"
       },
@@ -1589,6 +1607,32 @@
     },
     {
       "album": {
+        "name": "Celine",
+        "url": "https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc"
+      },
+      "artists": [
+        {
+          "name": "Youngn Lipz",
+          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
+        },
+        {
+          "name": "Ay Huncho",
+          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
+        },
+        {
+          "name": "wewantwraiths",
+          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193243,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG"
+    },
+    {
+      "album": {
         "name": "CHAT",
         "url": "https://open.spotify.com/album/6sSwcmateR8ewm6ztIae2x"
       },
@@ -1600,7 +1644,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 160000,
       "name": "CHAT",
       "url": "https://open.spotify.com/track/21QQ3YJv6FZ7UQwhTim5SQ"
@@ -1698,7 +1742,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 207960,
       "name": "City Of Gods",
       "url": "https://open.spotify.com/track/4BQgU3gXCoyr78Ti7yPQXq"
@@ -1994,7 +2038,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 163944,
       "name": "Dancers",
       "url": "https://open.spotify.com/track/5J2dQ24I9XRuhAufFCUPT3"
@@ -2180,6 +2224,24 @@
       "duration_ms": 190013,
       "name": "DEMONS",
       "url": "https://open.spotify.com/track/2EI5puz3355OrlbJbJARgS"
+    },
+    {
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/1had6G93RK7fsOQrE9zF1h"
+      },
+      "artists": [
+        {
+          "name": "Brazen Barbie",
+          "url": "https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125400,
+      "name": "Deserve It",
+      "url": "https://open.spotify.com/track/0RF7g1wMkAeoWPN08ZLz39"
     },
     {
       "album": {
@@ -2717,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/3kFEgT6Tijh2mJKWdom1pg"
+      },
+      "artists": [
+        {
+          "name": "KingTheFreeSoul",
+          "url": "https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168695,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/53LiivWOyjXF6qC79hmBLp"
+    },
+    {
+      "album": {
         "name": "EN VIVO",
         "url": "https://open.spotify.com/album/2r9WWv5OcoVMdgJDYBPBQh"
       },
@@ -2900,6 +2980,28 @@
       "duration_ms": 152074,
       "name": "Everyday Struggle",
       "url": "https://open.spotify.com/track/1L5eVkQE10XK5jCwmxhIVg"
+    },
+    {
+      "album": {
+        "name": "Everyone Dance",
+        "url": "https://open.spotify.com/album/08Wm53or2g05J1sxTXog9T"
+      },
+      "artists": [
+        {
+          "name": "C Chef",
+          "url": "https://open.spotify.com/artist/47hbcRk1OJXhZMvViMRwF2"
+        },
+        {
+          "name": "Juiceboxx",
+          "url": "https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132778,
+      "name": "Everyone Dance",
+      "url": "https://open.spotify.com/track/4Hoxzo01LKrtFtMeY5bSM9"
     },
     {
       "album": {
@@ -3732,7 +3834,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 178823,
       "name": "GUMBOOTS",
       "url": "https://open.spotify.com/track/0XX0hnpdxKvof7fgXSZaZI"
@@ -4832,7 +4934,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 210000,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/78NJxrlATB5l87KWpnVurG"
@@ -5101,6 +5203,32 @@
     },
     {
       "album": {
+        "name": "Let It Spray",
+        "url": "https://open.spotify.com/album/6olqZhsmwWGWx27MEogmk8"
+      },
+      "artists": [
+        {
+          "name": "Ay Huncho",
+          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
+        },
+        {
+          "name": "wewantwraiths",
+          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
+        },
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150559,
+      "name": "Let It Spray",
+      "url": "https://open.spotify.com/track/61VB5Z61QQmcERlHfgI4ze"
+    },
+    {
+      "album": {
         "name": "LET'S TROT!",
         "url": "https://open.spotify.com/album/2KzG1z2SrIEFlvtPuwYgks"
       },
@@ -5178,7 +5306,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 133150,
       "name": "LIGHT IT UP",
       "url": "https://open.spotify.com/track/1EPoQNneCvaz4TOGcivGSd"
@@ -6948,7 +7076,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 246214,
       "name": "One of the Best",
       "url": "https://open.spotify.com/track/5DYSXdN7ZNVhLricOEHC2N"
@@ -6988,7 +7116,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 150857,
       "name": "ONES",
       "url": "https://open.spotify.com/track/5d4WKZhiUN28fUKXOOCvVs"
@@ -7006,7 +7134,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 150767,
       "name": "Only Gang (Members Only)",
       "url": "https://open.spotify.com/track/2miuxb6UM6jiFwWroIoRoK"
@@ -7512,7 +7640,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 195000,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/167gEZCecUYYbPGpYXHtxk"
@@ -7642,7 +7770,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 158284,
       "name": "QUICKSAND",
       "url": "https://open.spotify.com/track/4AuDuSGTAGuW22mabb78fq"
@@ -7798,7 +7926,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 128108,
       "name": "rickys",
       "url": "https://open.spotify.com/track/5mn8rFWBcUN5T6eQ6uYyOI"
@@ -8666,7 +8794,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 165981,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/5PNLuATNp9KSGYIG7c1n0o"
@@ -8732,7 +8860,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 169974,
       "name": "Spasta",
       "url": "https://open.spotify.com/track/6HtD7UKpbMTrwBLauU2HGP"
@@ -10070,7 +10198,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 176748,
       "name": "VANDETTA",
       "url": "https://open.spotify.com/track/1qhvll21IN5QWvE9lzLMb3"
@@ -10586,7 +10714,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 140204,
       "name": "WHOA!",
       "url": "https://open.spotify.com/track/6HqWqRn0G2ahugirmSXnZx"
@@ -10814,7 +10942,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 151695,
       "name": "Zero Choice",
       "url": "https://open.spotify.com/track/0NnP64aYg6FBhTdEH3tvnj"

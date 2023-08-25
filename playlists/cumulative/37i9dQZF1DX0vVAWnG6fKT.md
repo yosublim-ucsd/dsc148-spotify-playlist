@@ -4,7 +4,7 @@
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-112 songs - 5 hr 7 min
+113 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Smoke! Smoke! Smoke! \(That Cigarette\)](https://open.spotify.com/track/05HBDnASISMJN46VxzDafK) | [Tex Williams](https://open.spotify.com/artist/7DCIJOYaG1Yj8uVlR4QGlu) | [Smoke Smoke Smoke](https://open.spotify.com/album/6z4tvzPeLyP3vFFVGOcH0s) | 2:43 | 2022-07-24 |  |
 | [Smoke! Smoke! Smoke! \(That Cigarette\)](https://open.spotify.com/track/7nskxCYXAwoKiJkZzUMcJo) | [Tex Williams](https://open.spotify.com/artist/7DCIJOYaG1Yj8uVlR4QGlu) | [Smoke! Smoke! Smoke!](https://open.spotify.com/album/2MOnT0IZ4U7FoDCGdK1WVs) | 2:43 | 2021-05-07 | 2022-07-29 |
 | [So, Round, So Firm, So Fully Packed](https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [The Very Best Of](https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr) | 2:58 | 2021-05-07 |  |
+| [Stars Of The Midnight Range](https://open.spotify.com/track/4Cn1pNLAXRT9CQxctRYEMx) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [Country and Western](https://open.spotify.com/album/4d03FnqYbILX3cxRgmlsP3) | 2:53 | 2023-01-02 |  |
 | [Stars Of The Midnight Range](https://open.spotify.com/track/4VBC10x8gSghWkdJQ6Ygwl) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [Country and Western](https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB) | 2:53 | 2022-07-24 | 2023-08-23 |
 | [Stay a Little Longer](https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:20 | 2021-05-07 |  |
 | [Steel Guitar Rag](https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Legend of Merle Travis](https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu) | 2:10 | 2021-05-07 | 2022-11-13 |
@@ -119,6 +120,6 @@
 | [You Are My Sunshine](https://open.spotify.com/track/3BRPsh9GaOw5MaZvy5k8bQ) | [Jimmie Davis](https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy) | [Top 100 Classics \- The Very Best of Jimmie Davis](https://open.spotify.com/album/3L0A6w2snQVbNPsbKMh5u4) | 2:48 | 2021-05-07 | 2022-07-23 |
 | [You Are My Sunshine](https://open.spotify.com/track/32Mjgo3oqzlVwaTpidm000) | [Jimmie Davis](https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy) | [The Country Music Hall Of Fame](https://open.spotify.com/album/3i93odjqBn7pV8SNJIkxca) | 2:52 | 2022-07-24 | 2023-01-03 |
 | [You May Be Sorry](https://open.spotify.com/track/4nHwLv2K7Ahy9AyqByOTjR) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Presenting Al Dexter](https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W) | 2:25 | 2022-07-24 | 2022-07-26 |
-| [You Two\-Timed Me One Time Too Often](https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 2:41 | 2022-06-08 |  |
+| [You Two\-Timed Me One Time Too Often](https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 2:41 | 2022-06-08 | 2023-08-25 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

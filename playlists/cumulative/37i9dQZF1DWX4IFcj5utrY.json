@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\" https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=3ZE-ub4-TWqqnKY5QnhNIg\">Oscar Mbo</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4GQybwZ4KVHlZzKnqw7KTO?si=quxxMmktTkG15gmxPZDAoA\">2Shoes</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -3653,6 +3653,28 @@
     },
     {
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381322,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
+    },
+    {
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/2YlBLHU9LQXDhx0E5zJ2Vc"
       },
@@ -4106,7 +4128,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 368577,
       "name": "Dakiwe",
       "url": "https://open.spotify.com/track/5goEUjSkFPIia3wGuRRugG"
@@ -8526,7 +8548,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 430301,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq"
@@ -9773,6 +9795,28 @@
     },
     {
       "album": {
+        "name": "Sons of The Soil",
+        "url": "https://open.spotify.com/album/7f3e62NaZXt2QXmfGUX1OQ"
+      },
+      "artists": [
+        {
+          "name": "The Billionaires",
+          "url": "https://open.spotify.com/artist/5gLAgBXxn26YXtBIODWfks"
+        },
+        {
+          "name": "Bukeka",
+          "url": "https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401352,
+      "name": "Let It Rain (feat. Bukeka)",
+      "url": "https://open.spotify.com/track/3e7kpLAEfpJXwaGpZ1Ewet"
+    },
+    {
+      "album": {
         "name": "Program and Control Man",
         "url": "https://open.spotify.com/album/1n4g7GAE1QN6aQQ2423jXx"
       },
@@ -10632,7 +10676,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 352093,
       "name": "Makwande",
       "url": "https://open.spotify.com/track/2MpkUFQpd7zYRGZt4BQ8bz"
@@ -12158,6 +12202,40 @@
       "duration_ms": 448394,
       "name": "Ngenani",
       "url": "https://open.spotify.com/track/3V0Ds5i1LV3aZ3Yx886P2X"
+    },
+    {
+      "album": {
+        "name": "Ngibambe (Jayda G Remix)",
+        "url": "https://open.spotify.com/album/2o0QaLNDnvx7Zoe9erwOzp"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "Gaba Cannal",
+          "url": "https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Ngibambe - Jayda G Remix",
+      "url": "https://open.spotify.com/track/73FtRvqWb77kuYk40DYNNS"
     },
     {
       "album": {
@@ -14220,7 +14298,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 273066,
       "name": "Sari Manuwe - Dr Feel Radio Remix",
       "url": "https://open.spotify.com/track/3zu3MJDiinYmLYiQVULrYX"
@@ -15020,7 +15098,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 408813,
       "name": "Silence",
       "url": "https://open.spotify.com/track/3tWIHTxK4cH0OUBlzcb97b"
@@ -18453,6 +18531,24 @@
     },
     {
       "album": {
+        "name": "The Real African Summer (Volume 1)",
+        "url": "https://open.spotify.com/album/7IctWKhli9RLmZcMMf0rNe"
+      },
+      "artists": [
+        {
+          "name": "2Shoes",
+          "url": "https://open.spotify.com/artist/0xWkMSvVSUq5WvvijluVNW"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260414,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3OscqkhDRo7AixWCMzLVQg"
+    },
+    {
+      "album": {
         "name": "We Beg Your Pardon",
         "url": "https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu"
       },
@@ -19172,7 +19268,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 323906,
       "name": "Xurhisa",
       "url": "https://open.spotify.com/track/3J9ShbGGoRMhl6a1xO75Kc"

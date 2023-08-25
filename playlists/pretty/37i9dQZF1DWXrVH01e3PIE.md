@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Milo J, Bhavi, Duki & LIT killah en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,395 likes - 101 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,580 likes - 101 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 44 | [Pastel Con Nutella](https://open.spotify.com/track/2ksvWFIlW7QgXuvk2MA1FT) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Pastel Con Nutella](https://open.spotify.com/album/04fwnwi4UNEcXPCWmd4dU7) | 4:04 |
 | 45 | [MI LOCURA EN BUENOS AIRES](https://open.spotify.com/track/0b0BMDKMFdVllW5PeriqFa) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [MI LOCURA EN BUENOS AIRES](https://open.spotify.com/album/5qPPycb83v2ycLeOZD3gKw) | 3:08 |
 | 46 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 |
-| 47 | [Teca \(Remix\) \[feat\. Neo Pistea, Midel, Rei & Zecca\]](https://open.spotify.com/track/4L9WoTpNvdFv8SPW7koxWC) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [Teca \(Remix\) \[feat\. Neo Pistea, Midel, Rei & Zecca\]](https://open.spotify.com/album/6NyQQNGA9zfA1mlsFmPLaO) | 4:24 |
+| 47 | [Teca \(Remix\) \[feat\. Neo Pistea, Midel, Rei & Zecca\]](https://open.spotify.com/track/0y8wA9l9ZfoPrWUYgqFg4U) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [Teca \(Remix\) \[feat\. Neo Pistea, Midel, Rei & Zecca\]](https://open.spotify.com/album/0CqOIOX1uBCu9napmYiPAA) | 4:24 |
 | 48 | [Se Que No](https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:33 |
 | 49 | [UN PISO MÁS](https://open.spotify.com/track/6Rsryyrp2tB4t0f8c60bGm) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [KOKI](https://open.spotify.com/artist/5LUkjuvgqMcroPUghvtqSX) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:55 |
 | 50 | [Mi Culpa](https://open.spotify.com/track/42SE13NYBeYw9r10PUwz7U) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Culpa](https://open.spotify.com/album/6Njm2qMYJeUNt6AXfMCTkR) | 3:30 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 100 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 |
 | 101 | [Nat Geo \(Remix\)](https://open.spotify.com/track/4ftg5EDTuJw7gIlTi9LC7d) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Nat Geo \(Remix\)](https://open.spotify.com/album/4mQCYm9dzempb87XCrQCCC) | 4:04 |
 
-Snapshot ID: `MCxiZGY4ZmUzYTQzNTE4ZGI3NDE0NjAxMjVlNGE2NzY0YTdhNWUzYmIz`
+Snapshot ID: `MCw0N2I4YTY1MWMwYWY2MGIwM2JiODI5NzhiZTg1MmZmM2M2MzliNTMx`

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-809 songs - 1 day 19 hr 56 min
+810 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [3+2=U](https://open.spotify.com/track/4MFddz4BhfPefzuc5WapkJ) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [Alone In My Dreams](https://open.spotify.com/album/6NxLWoS0GRoeZNZiMfOKsg) | 3:07 | 2023-04-08 | 2023-05-13 |
 | [5 AM \(feat\. SayWeCanFly\)](https://open.spotify.com/track/1sSIrpavZvit6lPFro11yy) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [5 AM \(feat\. SayWeCanFly\)](https://open.spotify.com/album/2lyl0g0xjvlbkQjtaH7lzk) | 3:54 | 2022-01-14 | 2022-09-15 |
 | [5 Years](https://open.spotify.com/track/1ZFZQK8OGNdRP7NE8DFJMc) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [V](https://open.spotify.com/album/3bIKrX3v2VWhIGe7MEzlwA) | 3:31 | 2022-10-21 | 2023-02-22 |
+| [7\-DS](https://open.spotify.com/track/3KAHkivOxoBLPeWMiPwYjO) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [7\-DS](https://open.spotify.com/album/4zyyVHaWLaQw0vyYTKV77E) | 2:31 | 2023-08-24 |  |
 | [Addicted](https://open.spotify.com/track/5tOq0CP7E8025oB6l9eghz) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Addicted](https://open.spotify.com/album/0iaxJy9W6DrkrnvwKgdyjf) | 2:44 | 2022-08-04 | 2022-09-07 |
 | [Adrenaline](https://open.spotify.com/track/3oWRC85b3vcl2xGfv9GwJv) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Hubstcy](https://open.spotify.com/artist/1GthlfmL1MOvV9R7sT8JlI), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Adrenaline](https://open.spotify.com/album/5vSXoikwA71eYYku7kcKA6) | 2:16 | 2022-03-22 | 2022-04-19 |
 | [Aethra](https://open.spotify.com/track/0UPstfIsC6MffdDBDpr7Yq) | [Animadrop](https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR) | [Aethra](https://open.spotify.com/album/1HLGtpl7bN2miDYx3jpQT9) | 6:53 | 2022-01-25 | 2022-03-05 |

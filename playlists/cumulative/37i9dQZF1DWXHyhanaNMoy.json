@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes! Cover: Architrackz, Kempi & Kalibwoy",
+  "description": "Motion en good vibes! Cover: Burna Boy",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Bando",
+        "url": "https://open.spotify.com/album/4NB5qLuuk0LhnjkXkMmSQL"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156055,
+      "name": "Bando",
+      "url": "https://open.spotify.com/track/6Rs6PtU7hgAH7c6uCeXPik"
+    },
+    {
+      "album": {
         "name": "BANDZ (feat. Emms)",
         "url": "https://open.spotify.com/album/1Eg4xGkEqragj73c36aJ9P"
       },
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 143076,
       "name": "Bandz Up (feat. BKO)",
       "url": "https://open.spotify.com/track/4Qg9rqLvxFga814H9UfJTT"
@@ -2317,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Bottles",
+        "url": "https://open.spotify.com/album/1EhfKYJkIdRS5yYDnb3OKq"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160579,
+      "name": "Bottles",
+      "url": "https://open.spotify.com/track/331ZKCTgF27kBC2W5vmRmV"
+    },
+    {
+      "album": {
         "name": "Bouge ton Corp",
         "url": "https://open.spotify.com/album/7abaD6aQDhC4uQsig8erNB"
       },
@@ -2876,7 +2912,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
@@ -2976,6 +3012,24 @@
       "duration_ms": 134927,
       "name": "Chupa Tonto",
       "url": "https://open.spotify.com/track/1xfiNgEAnLhwMJQdT829iL"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
       "album": {
@@ -4350,10 +4404,40 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 149771,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/1V2RVZdPSzFTb1ITr25iSw"
+    },
+    {
+      "album": {
+        "name": "Fantasie (Moto Moto)",
+        "url": "https://open.spotify.com/album/4Za4UkuFHRpXVwBUPz03pf"
+      },
+      "artists": [
+        {
+          "name": "Kayne",
+          "url": "https://open.spotify.com/artist/4XeBYMzQZGFI4UCYiyP5Sf"
+        },
+        {
+          "name": "Jeriel",
+          "url": "https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu"
+        },
+        {
+          "name": "Lirical",
+          "url": "https://open.spotify.com/artist/2H0j2bWQRjJWzcGIjnl7nX"
+        },
+        {
+          "name": "Tergu",
+          "url": "https://open.spotify.com/artist/3wfUewaoEZrTRUhqbgYk02"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151035,
+      "name": "Fantasie (Moto Moto)",
+      "url": "https://open.spotify.com/track/0CBVBurneEdNqgYifxu8Pd"
     },
     {
       "album": {
@@ -6427,6 +6511,44 @@
     },
     {
       "album": {
+        "name": "Juice Riddim",
+        "url": "https://open.spotify.com/album/0AxEhSMtd9HEQgoarQJw8j"
+      },
+      "artists": [
+        {
+          "name": "Rotjoch",
+          "url": "https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        },
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        },
+        {
+          "name": "Oykie",
+          "url": "https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214615,
+      "name": "Juice Riddim",
+      "url": "https://open.spotify.com/track/3nRgx6m8ExU6tlIdLzz225"
+    },
+    {
+      "album": {
         "name": "Kame Hame Ha",
         "url": "https://open.spotify.com/album/7hShXOa7Ml04xxBzRK0Ljj"
       },
@@ -6940,7 +7062,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 152748,
       "name": "LAMBO",
       "url": "https://open.spotify.com/track/25mTFieY8k7uVhEoEzsJgg"
@@ -10837,6 +10959,32 @@
     },
     {
       "album": {
+        "name": "Puta",
+        "url": "https://open.spotify.com/album/1w7Vhi1HuNL0Hkt9dUJg3H"
+      },
+      "artists": [
+        {
+          "name": "IMMO",
+          "url": "https://open.spotify.com/artist/4u4FCKbVpmElVrIlqpBSjm"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "Puta",
+      "url": "https://open.spotify.com/track/0foe2WwtVAV1mHPluhle43"
+    },
+    {
+      "album": {
         "name": "Qui sait ? (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
       },
@@ -12452,7 +12600,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 176453,
       "name": "Talibans II",
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
@@ -13492,7 +13640,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 186000,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
@@ -14390,7 +14538,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 145620,
       "name": "Y Dor",
       "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"

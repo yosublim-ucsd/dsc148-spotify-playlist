@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Gato e’ Monte.
 
-453 songs - 1 day 3 hr 27 min
+454 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Dame Más \(En Acústico\)](https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo) | 3:39 | 2023-05-05 |  |
 | [Danza](https://open.spotify.com/track/3Bc3GtEleSnPNc3ZJBDBxG) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a) | [Danza](https://open.spotify.com/album/0vZZOv2c14DmaNRhSHk606) | 1:16 | 2023-07-28 | 2023-08-18 |
 | [Danza Olvidada](https://open.spotify.com/track/5xX0qlWXOQqOGH6VEcSBSA) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Danza Olvidada](https://open.spotify.com/album/2aFioZ5TRqGee2CvNn5SgD) | 3:31 | 2023-05-12 | 2023-06-03 |
-| [De balde](https://open.spotify.com/track/0ByOfMa6l6XcnlQAkAsACF) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [De balde](https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN) | 4:43 | 2022-11-11 |  |
+| [De balde](https://open.spotify.com/track/0ByOfMa6l6XcnlQAkAsACF) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [De balde](https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN) | 4:43 | 2022-11-11 | 2023-08-25 |
 | [De carne y hueso](https://open.spotify.com/track/4hf9GhpfyuLsksKOBkpdD2) | [Volver al Mar](https://open.spotify.com/artist/29VStMD9gyW6PxNqpZAd2M) | [De carne y hueso](https://open.spotify.com/album/2ZKeYMXqNOxgJhnevS4Kqu) | 3:15 | 2022-04-08 | 2022-04-23 |
 | [De No Haberte Conocido](https://open.spotify.com/track/3AQkfvH36YJnp3hdBfhj7C) | [Cheo](https://open.spotify.com/artist/1P6xk2vcFnmOZRKqujdpCj), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Dónde](https://open.spotify.com/album/5LSssy7XGPGIiWlK6y5UtY) | 3:16 | 2021-12-24 | 2022-04-23 |
 | [De todas las flores](https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De todas las flores](https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP) | 5:22 | 2022-10-10 | 2023-01-28 |
@@ -294,6 +294,7 @@
 | [no hace falta saber](https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [no hace falta saber](https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW) | 2:48 | 2023-06-23 | 2023-08-05 |
 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 | 2023-03-10 | 2023-03-25 |
 | [No Pasarán](https://open.spotify.com/track/01qqX42EpmyAS6mOTKzBB0) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [El Vuelo](https://open.spotify.com/album/11ZYjr4BcCTyu8kAcZ6gA9) | 5:29 | 2021-12-24 | 2022-10-11 |
+| [No Pasarán](https://open.spotify.com/track/6qoi71vyo13PQeM1jPhMBv) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [El Vuelo](https://open.spotify.com/album/4V2o5BWHr885dH7i7kMSM9) | 5:29 | 2023-08-18 |  |
 | [No quiere volver](https://open.spotify.com/track/70GOXaZNUUuCu1UD4IVeyo) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY) | [No quiere volver](https://open.spotify.com/album/5Of8u654Wk3tYG0gcXOYIM) | 3:43 | 2022-04-01 | 2022-04-26 |
 | [No somos lo que nos dicen que somos](https://open.spotify.com/track/6DKkbcVmw5uzuej6TyMwYk) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Acto II: La \(Des\) Mesura](https://open.spotify.com/album/0UDCnifL25jz7KOpYXfGXu) | 5:27 | 2022-11-11 | 2022-11-26 |
 | [No Ves Tal Vez](https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [No Ves Tal Vez](https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv) | 3:29 | 2022-12-23 | 2023-01-21 |

@@ -1,36 +1,68 @@
 {
   "description": "Your ultimate playlist for the best in Mollywood!\nCover: Thallumala",
-  "num_followers": 66864,
+  "num_followers": 66955,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2UzODU5ZWM0ODBmYWFiYWQ5M2JkMjk1ZWFlNzgyMmUxNDcyOWIz",
+  "snapshot_id": "MCw0YTQ5YmViYWQyMzI0M2VjNWE4MTlkZTFkMzE5MjNjYzg5MjlhNzEw",
   "tracks": [
     {
-      "added_at": "2023-02-13 04:25:09",
+      "added_at": "2023-08-24 11:27:44",
       "album": {
-        "name": "Aadharanjali (From \"Romancham) - Single",
-        "url": "https://open.spotify.com/album/1mqEKGbULaBJ7Rv8r6LTPE"
+        "name": "Velipadinte Pusthakam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/10FVqAlUuZG99OqKW1Cle4"
       },
       "artists": [
         {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
         },
         {
-          "name": "Madhuvanthi Narayan",
-          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+          "name": "Renjith Unni",
+          "url": "https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA"
         }
       ],
-      "duration_ms": 149278,
-      "name": "Aadharanjali (From \"Romancham)",
-      "url": "https://open.spotify.com/track/3jg0GvH2oYHGuy2U7SH4SJ"
+      "duration_ms": 201600,
+      "name": "Entammede Jimikki Kammal",
+      "url": "https://open.spotify.com/track/2n46SeXId7o9WvXTFgRO8B"
+    },
+    {
+      "added_at": "2023-04-03 05:09:57",
+      "album": {
+        "name": "Ajagajantharam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q"
+      },
+      "artists": [
+        {
+          "name": "Praseetha Chalakudy",
+          "url": "https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu"
+        }
+      ],
+      "duration_ms": 202863,
+      "name": "Ollulleru",
+      "url": "https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU"
+    },
+    {
+      "added_at": "2022-08-18 06:40:38",
+      "album": {
+        "name": "Manavaalan Thug (From \"Thallumaala\")",
+        "url": "https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "SA",
+          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Manavaalan Thug - From \"Thallumaala\"",
+      "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
     },
     {
       "added_at": "2023-04-03 05:09:57",
@@ -57,24 +89,28 @@
       "url": "https://open.spotify.com/track/3atpk0CnzPpRVbzq3l3EMq"
     },
     {
-      "added_at": "2022-08-18 06:40:38",
+      "added_at": "2023-02-13 04:25:09",
       "album": {
-        "name": "Manavaalan Thug (From \"Thallumaala\")",
-        "url": "https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD"
+        "name": "Aadharanjali (From \"Romancham) - Single",
+        "url": "https://open.spotify.com/album/1mqEKGbULaBJ7Rv8r6LTPE"
       },
       "artists": [
         {
-          "name": "Dabzee",
-          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
         },
         {
-          "name": "SA",
-          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
+          "name": "Madhuvanthi Narayan",
+          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Manavaalan Thug - From \"Thallumaala\"",
-      "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
+      "duration_ms": 149278,
+      "name": "Aadharanjali (From \"Romancham)",
+      "url": "https://open.spotify.com/track/3jg0GvH2oYHGuy2U7SH4SJ"
     },
     {
       "added_at": "2022-06-16 11:57:53",
@@ -95,22 +131,6 @@
       "duration_ms": 226000,
       "name": "Darshana - From \"Hridayam\"",
       "url": "https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2"
-    },
-    {
-      "added_at": "2023-04-03 05:09:57",
-      "album": {
-        "name": "Ajagajantharam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q"
-      },
-      "artists": [
-        {
-          "name": "Praseetha Chalakudy",
-          "url": "https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu"
-        }
-      ],
-      "duration_ms": 202863,
-      "name": "Ollulleru",
-      "url": "https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU"
     },
     {
       "added_at": "2022-05-17 06:14:03",
@@ -1603,22 +1623,6 @@
       "duration_ms": 277346,
       "name": "Parayuvaan - From \"Ishq\"",
       "url": "https://open.spotify.com/track/4hTcGYU6uXZVCAfIMsxhlC"
-    },
-    {
-      "added_at": "2022-05-17 07:47:48",
-      "album": {
-        "name": "Big Brother (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/14twkYYG73eJadLi9J16ej"
-      },
-      "artists": [
-        {
-          "name": "Anand Bhaskar",
-          "url": "https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO"
-        }
-      ],
-      "duration_ms": 259024,
-      "name": "Oru Dinam",
-      "url": "https://open.spotify.com/track/7oHkzeHAJLYtlIxU9HPv1p"
     },
     {
       "added_at": "2023-02-07 13:47:22",

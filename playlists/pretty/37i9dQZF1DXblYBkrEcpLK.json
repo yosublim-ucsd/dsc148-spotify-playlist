@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: Aimer",
-  "num_followers": 139218,
+  "num_followers": 139316,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTAwYjU4ZDUwY2FmYjg3NDM5M2M3YjU3OWRhMjRhM2QxMTYwZmRh",
+  "snapshot_id": "MCxkMGM4YjAxYTk5YTBhYjlkYmQwMDY0ZjFkOGUwZDFhMjFjMDRlYjZm",
   "tracks": [
     {
       "added_at": "2023-08-15 15:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-08-15 15:00:00",
       "album": {
+        "name": "STONE OCEAN",
+        "url": "https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x"
+      },
+      "artists": [
+        {
+          "name": "ichigo from \u5cb8\u7530\u6559\u56e3&THE\u660e\u661f\u30ed\u30b1\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm"
+        }
+      ],
+      "duration_ms": 209744,
+      "name": "STONE OCEAN",
+      "url": "https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE"
+    },
+    {
+      "added_at": "2023-08-15 15:00:00",
+      "album": {
         "name": "TV SERIES \u201d\u3010OSHI NO KO\u3011 \u201d (Vol.2)",
         "url": "https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 221712,
       "name": "SIGN IS B - NEW ARRANGE SOLO VER.",
       "url": "https://open.spotify.com/track/7FhKL9ufaGBFz10O129ca1"
-    },
-    {
-      "added_at": "2023-08-15 15:00:00",
-      "album": {
-        "name": "STONE OCEAN",
-        "url": "https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x"
-      },
-      "artists": [
-        {
-          "name": "ichigo from \u5cb8\u7530\u6559\u56e3&THE\u660e\u661f\u30ed\u30b1\u30c3\u30c4",
-          "url": "https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm"
-        }
-      ],
-      "duration_ms": 209744,
-      "name": "STONE OCEAN",
-      "url": "https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE"
     },
     {
       "added_at": "2023-08-15 15:00:00",

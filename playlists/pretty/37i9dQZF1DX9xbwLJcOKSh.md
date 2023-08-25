@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,768 likes - 71 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,770 likes - 71 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,6 +78,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 68 | [could you bite the hand?](https://open.spotify.com/track/4QZj1MnujZc4xkP7LhXglF) | [Steve Conte](https://open.spotify.com/artist/5Uxss6P1MI2lX9vHvK76zK) | [WOLF'S RAIN](https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9) | 3:39 |
 | 69 | [UN SOFFIO DI VENTO](https://open.spotify.com/track/5l4P0kmJaBMk21x0cHBqym) | [ILA](https://open.spotify.com/artist/23e32slD0osGFsUpLUgxXR) | [YOKO KANNO produce Cyber Bicci](https://open.spotify.com/album/2QmOaMj4JwDkZOhveFu0RY) | 3:00 |
 | 70 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
-| 71 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 \~Tami\~](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
+| 71 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 ～Tami～](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MCwxZjRmNjNlMTEwMThhNWMyNjRmY2EwODQ5YzhmZGMyZGI1ODI3NTM3`
+Snapshot ID: `MCwyODM3MjZhOWQ0MWQ0ZjQ3NDZlOGM0NzIzODA0ZmNmNGE5NWZjMGE0`

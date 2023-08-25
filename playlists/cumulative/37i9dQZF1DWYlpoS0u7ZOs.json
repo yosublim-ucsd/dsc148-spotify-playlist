@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "re:start",
+        "url": "https://open.spotify.com/album/4mHuGNBWQFa1G7xdOsGYon"
+      },
+      "artists": [
+        {
+          "name": "OC Saint",
+          "url": "https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200892,
+      "name": "a girl is a gun",
+      "url": "https://open.spotify.com/track/1DizkiqT4coHh4lNMyEPtU"
+    },
+    {
+      "album": {
         "name": "Life Is Long and Everything Is Terrible",
         "url": "https://open.spotify.com/album/1L9Op4qXyO9bTJ5WL8KTp7"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 278884,
       "name": "anymore",
       "url": "https://open.spotify.com/track/3jWx8u8LTC4X0oB9tXGEdk"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 239080,
       "name": "Buck",
       "url": "https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6"
@@ -654,6 +672,24 @@
       "duration_ms": 170200,
       "name": "Daylight Robbery",
       "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
+    },
+    {
+      "album": {
+        "name": "Dead Poet's Society",
+        "url": "https://open.spotify.com/album/4Q8Pw2jPx10y7QvWPAMPbm"
+      },
+      "artists": [
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223812,
+      "name": "Dead Poets Society",
+      "url": "https://open.spotify.com/track/5pEkbTefFUglGrPafVSfID"
     },
     {
       "album": {
@@ -902,7 +938,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 190813,
       "name": "Faded",
       "url": "https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP"
@@ -1443,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208747,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
+    },
+    {
+      "album": {
         "name": "hotline",
         "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
       },
@@ -1785,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "King of the Slugs",
+        "url": "https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425363,
+      "name": "King of the Slugs",
+      "url": "https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs"
+    },
+    {
+      "album": {
         "name": "Lads Lads Lads",
         "url": "https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o"
       },
@@ -2012,7 +2084,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 218499,
       "name": "Loser",
       "url": "https://open.spotify.com/track/0SCX0m4QOZtoBX1kmhrsR0"
@@ -2462,7 +2534,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 182830,
       "name": "No Constraint",
       "url": "https://open.spotify.com/track/48x8I9dFZjWn7bJf5j2nnT"
@@ -2617,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "don't dream too much",
+        "url": "https://open.spotify.com/album/4l0t1qVRWPzLwmY70GCGMN"
+      },
+      "artists": [
+        {
+          "name": "KNIFE BRIDE",
+          "url": "https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236437,
+      "name": "permanent s m i l e",
+      "url": "https://open.spotify.com/track/7xJnVFoKuFqHCfbaShP63W"
+    },
+    {
+      "album": {
         "name": "Piggie",
         "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
       },
@@ -2700,7 +2790,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 183004,
       "name": "PSYCHO!",
       "url": "https://open.spotify.com/track/49AHu113tqQwWl7JGgvWFp"
@@ -2934,7 +3024,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 220000,
       "name": "SADFACE",
       "url": "https://open.spotify.com/track/3Ha33JQoabqcnwFXQehnCO"
@@ -2960,6 +3050,24 @@
       "duration_ms": 199613,
       "name": "Save It For Myself",
       "url": "https://open.spotify.com/track/5AWQZVceAinzjsCQH50WlX"
+    },
+    {
+      "album": {
+        "name": "Screw Loose",
+        "url": "https://open.spotify.com/album/6nMrYMhDpqGpFGhq0T2gnL"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203580,
+      "name": "Screw Loose",
+      "url": "https://open.spotify.com/track/7sKxMRhdgtvoqaCI9AIrdu"
     },
     {
       "album": {

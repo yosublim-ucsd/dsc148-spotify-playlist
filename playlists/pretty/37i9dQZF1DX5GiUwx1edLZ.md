@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,809 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,840 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 44 | [Praise You \(feat\. Meaco\) \- Chill Mix](https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Meaco](https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh) | [Believe In The Kingdom](https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB) | 3:21 |
 | 45 | [Better \(feat\. Teddy Swims\) \- Acoustic Version](https://open.spotify.com/track/24MoOLc4izxq0E0lzRxxJn) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better EP \(feat\. Teddy Swims\)](https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy) | 2:30 |
 | 46 | [The Scientist](https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [The Scientist](https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo) | 4:42 |
-| 47 | [By Your Side \(feat\. Tom Grennan\) \- Acoustic](https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(Acoustic\) \(feat\. Tom Grennan\)](https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF) | 3:11 |
-| 48 | [Drink About \- Acoustic Version](https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Drink About \(Acoustic Version\)](https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo) | 2:57 |
+| 47 | [Drink About \- Acoustic Version](https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Drink About \(Acoustic Version\)](https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo) | 2:57 |
+| 48 | [By Your Side \(feat\. Tom Grennan\) \- Acoustic](https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(Acoustic\) \(feat\. Tom Grennan\)](https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF) | 3:11 |
 | 49 | [Sun & Moon](https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Acoustic](https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3) | 4:48 |
 | 50 | [Regardless \- Acoustic](https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Regardless \(Acoustic\)](https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz) | 3:44 |
 | 51 | [You Don't Know Me \- Acoustic Version](https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me \(Acoustic Version\)](https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA) | 3:44 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 96 | [Zedd Medley \- Find You/Spectrum/Clarity/Stay the Night](https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R) | [Daniel Jang](https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN) | [Violin Covers Pt\. II](https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g) | 3:06 |
 | 97 | [They Don't Know Us \- Piano Version](https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [They Don't Know Us \(Piano Version\)](https://open.spotify.com/album/4rJ12YsAzupoxuVaJYJAh0) | 3:21 |
 | 98 | [Don't Forget My Love \- Acoustic](https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:14 |
-| 99 | [DON'T LOOK DOWN \(feat\. Lizzy Land\) \- Acoustic](https://open.spotify.com/track/0wHwGDYc8nltuYykhZRKln) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [DON'T LOOK DOWN \(feat\. Lizzy Land\) \[Acoustic\]](https://open.spotify.com/album/3vjUqxIylUXnCzjtebAmCg) | 3:11 |
-| 100 | [Ones You Miss \- Acoustic](https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss \(Acoustic\)](https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp) | 1:52 |
+| 99 | [Ones You Miss \- Acoustic](https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss \(Acoustic\)](https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp) | 1:52 |
+| 100 | [I Could Be The One \[Avicii vs Nicky Romero\] \- Noonie Bao Acoustic Mix](https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\] \(Remixes\)](https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0) | 3:51 |
 
-Snapshot ID: `MCwyNmViN2EyNWQ5OGU5YjE2MzYyZGRkZWQ4ZGU5ZGZhNWZlMGFmZTJh`
+Snapshot ID: `MCw1Y2U0NDZiNWY0YmM2NTUwNmEwYjM3M2MyMWZjYTNhN2NmZmJiODg2`

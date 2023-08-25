@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL?si=877493346f384810">Niko Eme</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,210 likes - 99 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,245 likes - 99 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [FlowPiQ](https://open.spotify.com/track/1LXy8GFZW8cpOxTtQngHoX) | [Dr\. Roca](https://open.spotify.com/artist/5gHzgHg9sEAWIClpJNgZ2J), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [FlowPiQ](https://open.spotify.com/album/0ByK1hBqDggwDLgRoLrzBY) | 2:33 |
 | 99 | [Roquero, Pt\. 2](https://open.spotify.com/track/51eMCfgWL4cCL9SqZnPuR1) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Jymba](https://open.spotify.com/artist/0FN1WCqzw7rwFm03jLNLzA) | [Roquero, Pt\. 2](https://open.spotify.com/album/4yNlzqANs18RNQetFydRU5) | 3:04 |
 
-Snapshot ID: `MCw4ODVhMTdmN2E3NGJkMmNhZTNkZWJmMjlhOTI0ODk0Yjc3OWI2MTlm`
+Snapshot ID: `MCw1NTFiZTA0NDczMmQ1NWM4ZDk4YWZiNGI1M2UyZjIyYjhhMTdmNDI4`

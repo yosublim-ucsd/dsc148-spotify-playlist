@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-160 songs - 7 hr 29 min
+161 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 | 2022-03-21 |  |
 | [One Path](https://open.spotify.com/track/3ciI0W5tW7zBPWEglpc3fR) | [Aster](https://open.spotify.com/artist/1ie4JpANX38QqUcnNRht7e) | [One Path](https://open.spotify.com/album/0LcPF7MaRplUP7N37LrEUo) | 2:09 | 2022-03-21 |  |
 | [Paragliders](https://open.spotify.com/track/2aZASr8jOyTi0GBHBzPnlc) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Paragliders](https://open.spotify.com/album/0QzF3Mk7KFvlDnhHqBrr99) | 3:07 | 2023-08-18 |  |
+| [pattern](https://open.spotify.com/track/2zuxJxGXamWbjgiTF6a7rA) | [Sofia Garcia](https://open.spotify.com/artist/513qG0sPNTxFlWOkWyFpGi) | [pattern](https://open.spotify.com/album/6ttEjZOmv5fSeiEz0QTmIC) | 2:24 | 2023-08-24 |  |
 | [Peace](https://open.spotify.com/track/55RlcgW6hojT3G1wMIovfA) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 3:02 | 2022-03-21 |  |
 | [Peace Of Mind](https://open.spotify.com/track/3MfwNWRuWAsdT1yIwHtRyz) | [MAVALA](https://open.spotify.com/artist/7v6MC0U94altKRU8VGL0j8) | [Ocean Deep](https://open.spotify.com/album/341k8e5u1rQ6xuDPqOIc2u) | 2:31 | 2022-03-21 |  |
 | [Perfezione](https://open.spotify.com/track/3iKtQJElqQBhqtIfeSlJic) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Pensieri](https://open.spotify.com/album/12vugt6x4fyG5Uz1enF7zP) | 2:50 | 2022-03-21 |  |

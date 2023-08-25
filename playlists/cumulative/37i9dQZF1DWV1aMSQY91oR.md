@@ -4,7 +4,7 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Lil Durk
 
-1,112 songs - 2 day 6 hr 1 min
+1,113 songs - 2 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,6 +815,7 @@
 | [Restart](https://open.spotify.com/track/5hz64PXbswyt7i2xPoEWCc) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself](https://open.spotify.com/album/4KvgpjA1iYE6faTItuNgOb) | 3:01 | 2023-05-19 | 2023-05-27 |
 | [RICH](https://open.spotify.com/track/61xcTCucphSPKWaEx7ldmD) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [6](https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO) | 3:10 | 2023-06-09 | 2023-06-17 |
 | [Rich Off My Notes](https://open.spotify.com/track/0jyvjOtzZ5RkFVeWUMaLOi) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Thru The Thunder](https://open.spotify.com/album/67j3HMq8R2JYlXE2DKecqd) | 3:27 | 2023-06-30 | 2023-07-15 |
+| [Rich On Grape Street](https://open.spotify.com/track/3F6sLMtMvTeTrREKH2Y1Od) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Rich On Grape Street](https://open.spotify.com/album/1sjghOoEKmHQ9Uucxr012N) | 3:01 | 2023-08-18 |  |
 | [Rich Problems](https://open.spotify.com/track/5wCqSOUqA8orGqTVqei04h) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rich Problems](https://open.spotify.com/album/3umyqwAkITHw17JJjODAcv) | 3:54 | 2023-06-16 | 2023-06-24 |
 | [RiCK \(feat\. Warhol.SS\)](https://open.spotify.com/track/6qBAhW4zN4l7BzjkfT8bqD) | [CASTRO](https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq), [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62) | [RiCK \(feat\. Warhol.SS\)](https://open.spotify.com/album/3qlkaDKZCqQZhDn4whLkbX) | 2:49 | 2023-03-24 | 2023-04-01 |
 | [Ricochet](https://open.spotify.com/track/43ZmBwX8rq6CBmq2yq20os) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [Ricochet](https://open.spotify.com/album/3WHunoslErJEcbYl6ltbYd) | 2:45 | 2023-04-14 | 2023-04-22 |

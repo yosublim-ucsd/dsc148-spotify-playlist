@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 244772,
       "name": "Be On Your Way",
       "url": "https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN"
@@ -1621,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "Dawn Down (AAAMYYY Remix)",
+        "url": "https://open.spotify.com/album/2t9LutKAFT0Ip6K12vfyQ1"
+      },
+      "artists": [
+        {
+          "name": "TAMIW",
+          "url": "https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l"
+        },
+        {
+          "name": "AAAMYYY",
+          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "Dawn Down - AAAMYYY Remix",
+      "url": "https://open.spotify.com/track/5BvYeQlgGTwbX9wO2HfIFF"
+    },
+    {
+      "album": {
         "name": "Dear Dustin",
         "url": "https://open.spotify.com/album/4Pnogn6xi5qunLhEKFw0mU"
       },
@@ -2188,7 +2210,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 273400,
       "name": "Eyes on Me - yahyel Remix",
       "url": "https://open.spotify.com/track/4BlMR3WhX0Id2rS6jtFDz0"
@@ -2344,6 +2366,24 @@
       "duration_ms": 237480,
       "name": "Faur\u00e9: Sicilienne",
       "url": "https://open.spotify.com/track/6TS1h31F8I9SIBIwIvdKYk"
+    },
+    {
+      "album": {
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/4eAiq2DTuvLntga5pN5zp8"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257465,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/2ScCKoZz0DOgpnSUNlsQZc"
     },
     {
       "album": {
@@ -2742,6 +2782,28 @@
       "duration_ms": 245379,
       "name": "Goldberg Variations, BWV 988: Aria",
       "url": "https://open.spotify.com/track/59XrtVk0rikGWU6plMniJF"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Goldberg Variations, BWV 988: Var. 13",
+        "url": "https://open.spotify.com/album/61HBbCtK1rsOSUazQaHFY5"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246153,
+      "name": "Goldberg Variations, BWV 988: Var. 13",
+      "url": "https://open.spotify.com/track/44PyoxKfSik9qkyzz5kjP6"
     },
     {
       "album": {
@@ -6304,7 +6366,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 242412,
       "name": "Sail On",
       "url": "https://open.spotify.com/track/02lSXyB3Bjx9r6r3fVEUDW"

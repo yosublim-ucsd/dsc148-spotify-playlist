@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-264 songs - 13 hr 2 min
+265 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Keep On](https://open.spotify.com/track/5YLoMU4RBnasKKNh4r0Uoh) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Keep On](https://open.spotify.com/album/5dRgfH52UfAu5Wsn5gc2GL) | 1:52 | 2021-09-06 | 2023-07-29 |
 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 | 2021-09-06 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2021-12-22 |  |
+| [Lay Down](https://open.spotify.com/track/4PIdLxret66FcX5mMyTyga) | [Danielle Walker](https://open.spotify.com/artist/5wAnMmOnMIA0EGNUIYkLRr) | [Lay Down](https://open.spotify.com/album/6Pc9x79guaH7ahJduO7iFW) | 2:29 | 2023-08-24 |  |
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2021-09-06 |  |
 | [Levitation](https://open.spotify.com/track/0zQ2Qbxic7cXWOVv9Qy98n) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Levitation](https://open.spotify.com/album/5U7rGOt0KLvEF2HXnvE88J) | 2:36 | 2021-09-06 |  |
 | [Lifandi Heimur](https://open.spotify.com/track/5d8dRlfaVweMxNguLyVxne) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Lifandi Heimur](https://open.spotify.com/album/41JstPT5yWEd6SKrKMJMj4) | 3:05 | 2021-09-06 |  |

@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-233 songs - 12 hr 45 min
+235 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [2nd Thots](https://open.spotify.com/track/4vYr4W0t855qPXGPTFp5ky) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:44 | 2022-05-03 | 2022-07-29 |
 | [a Bottle of Rosé](https://open.spotify.com/track/3eMR0Qz0QJUUMkhwTBujGc) | [Rosy](https://open.spotify.com/artist/2wMzCCeiXSV9NFSzGzwVyv) | [Escape](https://open.spotify.com/album/3fcyxmVS8xyWcqJwifUsad) | 3:11 | 2022-05-03 | 2022-07-21 |
 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 | 2022-05-03 |  |
-| [Around \(Feat\. Yonko\)](https://open.spotify.com/track/1qMbjpnSAJQRc4uKuNZKO6) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YONKO](https://open.spotify.com/artist/0rF8f4jHHztZoBPprNVVED) | [\[ Rorschach \] Part 1](https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ) | 3:55 | 2023-06-22 |  |
+| [Around \(Feat\. Yonko\)](https://open.spotify.com/track/1qMbjpnSAJQRc4uKuNZKO6) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YONKO](https://open.spotify.com/artist/0rF8f4jHHztZoBPprNVVED) | [\[ Rorschach \] Part 1](https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ) | 3:55 | 2023-06-22 | 2023-08-25 |
 | [artificial man](https://open.spotify.com/track/6IrkrxPfANv5EkpOwqD2QE) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 2:39 | 2022-05-03 | 2022-07-22 |
 | [At Night](https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Kuzi](https://open.spotify.com/artist/6AhjAXPBLWwHJ8kUGuj9CQ) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 2:23 | 2022-05-03 | 2022-07-15 |
 | [B](https://open.spotify.com/track/214PYv9UEuGTk2uZwu2caP) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc) | [Born To Be Cool](https://open.spotify.com/album/5x7gSmfu5kKdJocii6Xdrg) | 4:07 | 2022-05-03 | 2022-07-28 |
@@ -135,6 +135,7 @@
 | [Link Up](https://open.spotify.com/track/5GRwvD8VBGBzjfwrMhYyiU) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [TRAPART](https://open.spotify.com/album/54FB3qsEqNk3aI7HCHHtN4) | 3:06 | 2022-05-03 | 2022-06-10 |
 | [Lose myself to you](https://open.spotify.com/track/0JIhIwqs8LksShUI4ZJBO9) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/5tRixYdXfa2t5C6YTUSjdF) | 2:59 | 2022-05-03 | 2022-07-24 |
 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 | 2022-05-03 |  |
+| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-24 |  |
 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 | 2022-05-03 |  |
 | [LUCID DREAM](https://open.spotify.com/track/4G7lfJ2BwHgwhPFuyF1Ix0) | [Jiyoung Kang](https://open.spotify.com/artist/7cEG2unrO9IXQZcVxK7WNV) | [LUCID DREAM](https://open.spotify.com/album/6IZWPcVfecATbfDL5g0P7Q) | 3:01 | 2022-07-08 | 2022-07-28 |
 | [LYING](https://open.spotify.com/track/1NpIpw2JRLaR0SNRGcRE4t) | [KHYO](https://open.spotify.com/artist/6qjs1HBGVhe68VFIUdRlNR), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [LYING](https://open.spotify.com/album/6yjppE7WDwovMGMjEQ6Kq6) | 3:28 | 2022-05-03 | 2022-07-21 |
@@ -232,10 +233,11 @@
 | [Wild Dreams](https://open.spotify.com/track/2K0tO1NRmVdnPt5HIs8Q7w) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR) | [Wild Dreams](https://open.spotify.com/album/0RZRW5nSYteKyqKAfiCkGI) | 2:15 | 2022-05-03 | 2022-07-28 |
 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 | 2022-05-03 |  |
 | [WINTER IS COMING](https://open.spotify.com/track/7xdk14qIhI0g3EPD1719JV) | [M!KYLE](https://open.spotify.com/artist/0X0jbwqUCjJ0oNrWwTNx29) | [WINTER IS COMING](https://open.spotify.com/album/3GBbcv53sfblBEAjjjhMMs) | 3:08 | 2022-05-03 | 2022-07-11 |
+| [Wishing On You](https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:14 | 2023-08-24 |  |
 | [woo ah](https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Interlude](https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK) | 3:41 | 2022-07-08 |  |
 | [woo ah](https://open.spotify.com/track/5iOAtCkFtfPZoMeMbhMIY0) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Interlude](https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS) | 3:41 | 2022-05-03 | 2022-07-29 |
 | [XYZ](https://open.spotify.com/track/5PGcigTxmOupyDeAp8lnFn) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:31 | 2022-05-03 | 2022-07-10 |
-| [You and I](https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 2:40 | 2022-07-08 |  |
+| [You and I](https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 2:40 | 2022-07-08 | 2023-08-25 |
 | [You and I](https://open.spotify.com/track/3sAxSK47Z6nfIzPmiM9pmv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1) | 2:40 | 2022-05-03 | 2022-07-24 |
 | [YOU KNOW](https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:04 | 2022-07-08 |  |
 | [밤밤밤 2:30 am](https://open.spotify.com/track/2Jt5DoVuJ4PIBiBlg8fUXM) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau) | [밤밤밤 2:30 am](https://open.spotify.com/album/5n0TI35HW4A42CqPtbcQoj) | 3:11 | 2022-05-03 | 2022-07-29 |

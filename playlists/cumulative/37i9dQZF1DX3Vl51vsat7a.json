@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "125er",
+        "url": "https://open.spotify.com/album/5NcZ8XNvb1znL9Ei3h7ckT"
+      },
+      "artists": [
+        {
+          "name": "2LADE",
+          "url": "https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113576,
+      "name": "125er",
+      "url": "https://open.spotify.com/track/4FvJBGhXpW2DVq6JD9ZMFT"
+    },
+    {
+      "album": {
         "name": "17 f\u00fcr immer",
         "url": "https://open.spotify.com/album/2LCs34ukoSlsBDbetAKMYm"
       },
@@ -276,7 +294,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 155020,
       "name": "Anders",
       "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
@@ -630,7 +648,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 418000,
       "name": "Bring The Good Mood Back",
       "url": "https://open.spotify.com/track/69dxNtRNHQknBIrXRgYvvt"
@@ -695,6 +713,24 @@
     },
     {
       "album": {
+        "name": "KEIR",
+        "url": "https://open.spotify.com/album/6DIwGl4xl6vRf3LTzJuyuJ"
+      },
+      "artists": [
+        {
+          "name": "Keir",
+          "url": "https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154514,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0wQ0yPIeyJAvSBCRu9PGon"
+    },
+    {
+      "album": {
         "name": "Cabriolet",
         "url": "https://open.spotify.com/album/4KkqzAcyfYG4bGsRdnCwcf"
       },
@@ -706,7 +742,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 149155,
       "name": "Cabriolet",
       "url": "https://open.spotify.com/track/1386VN04NxJTXHxUa1M2r2"
@@ -962,7 +998,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 143826,
       "name": "Diamonds (feat. Takt32)",
       "url": "https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m"
@@ -1082,7 +1118,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 127794,
       "name": "DREI2EINS",
       "url": "https://open.spotify.com/track/5sJw10xQQv0yEO6g6O5TOn"
@@ -1172,7 +1208,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 181389,
       "name": "error",
       "url": "https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT"
@@ -1284,6 +1320,24 @@
       "duration_ms": 153128,
       "name": "For your safety",
       "url": "https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6"
+    },
+    {
+      "album": {
+        "name": "Forest Mystery",
+        "url": "https://open.spotify.com/album/6VtN92LHbDON4S8KV6wPYL"
+      },
+      "artists": [
+        {
+          "name": "Kellerkind",
+          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387924,
+      "name": "Forest Mystery",
+      "url": "https://open.spotify.com/track/1UfzVF3KVgc05I8HvPtJ6Y"
     },
     {
       "album": {
@@ -1530,6 +1584,24 @@
       "duration_ms": 155701,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN"
+    },
+    {
+      "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/5G2EiAE53X62bW3erdq1lw"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/4clhJIomittfffOssrsKMh"
     },
     {
       "album": {
@@ -2785,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/18Vr8wifIO7BQsPEgD1OgN"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169669,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1s2LA4dVnWikMXVtyBRaj1"
+    },
+    {
+      "album": {
         "name": "Panikwei\u00df",
         "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
       },
@@ -3035,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "S1",
+        "url": "https://open.spotify.com/album/28Ud7hGlfVUwAMWxkW1RoJ"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192579,
+      "name": "S1",
+      "url": "https://open.spotify.com/track/5M9h1FePRQwKlOOFdt9OSF"
+    },
+    {
+      "album": {
         "name": "Schnelle Brille",
         "url": "https://open.spotify.com/album/28ObxChs89xBac4j15Dt0e"
       },
@@ -3250,7 +3358,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 168291,
       "name": "SKELETON",
       "url": "https://open.spotify.com/track/53EfFnax4JFA93E5YFwR3f"
@@ -3496,6 +3604,24 @@
       "duration_ms": 160321,
       "name": "S\u00fc\u00dfe Tr\u00e4ume",
       "url": "https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW"
+    },
+    {
+      "album": {
+        "name": "Teen",
+        "url": "https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Teen",
+      "url": "https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r"
     },
     {
       "album": {
@@ -3964,7 +4090,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 169598,
       "name": "Voices",
       "url": "https://open.spotify.com/track/31jjzf6a02K6vzE3jvzDer"
@@ -4152,6 +4278,24 @@
       "duration_ms": 125506,
       "name": "WER, WENN NICHT WIR?",
       "url": "https://open.spotify.com/track/5v0oqncTY2wOweL6unFnbQ"
+    },
+    {
+      "album": {
+        "name": "WEREWOLF",
+        "url": "https://open.spotify.com/album/7GzDjBFRcfbske2x9U5QA9"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "WEREWOLF",
+      "url": "https://open.spotify.com/track/41dOSS3ZztCISuZQI3EiMR"
     },
     {
       "album": {

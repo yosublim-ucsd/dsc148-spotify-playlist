@@ -4,7 +4,7 @@
 
 > Smooth and relaxing Soul music to tune in to your body.
 
-56 songs - 3 hr 35 min
+59 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Be Real Black for Me](https://open.spotify.com/track/7JTSRQ7WBhrX5MXYVYbNrB) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:34 | 2023-06-29 |  |
 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 | 2023-06-29 |  |
 | [Cabô](https://open.spotify.com/track/3e9Gx4YlSx8etXjSJ71QFf) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 3:44 | 2023-06-29 |  |
+| [Can We Pretend](https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | ['Justments](https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt) | 3:49 | 2023-08-24 |  |
 | [Capricorn](https://open.spotify.com/track/0IXF4yLGlUkaXUataXDin8) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Faces in Reflection](https://open.spotify.com/album/27LrzDfCpvyhJw63OQz9cw) | 5:05 | 2023-06-29 |  |
 | [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 | 2023-06-29 |  |
 | [Could I Be Falling in Love](https://open.spotify.com/track/0SlBjQHEfRaVhqZ5SB1SRZ) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Diamond in the Rough](https://open.spotify.com/album/0hBlULfjPTKngZsvbe3qpE) | 3:08 | 2023-06-29 |  |
@@ -28,6 +29,7 @@
 | [I Believe to My Soul \- Single Version](https://open.spotify.com/track/76Ylp4u2fdOaCMRKMZJ6Sw) | [Junior Mance](https://open.spotify.com/artist/1KTUh4AYegM2fSdac5xqPb) | [I Believe To My Soul](https://open.spotify.com/album/3UrKX3xeDVYRhEj4pst1Wc) | 3:12 | 2023-06-29 |  |
 | [I Do Love You](https://open.spotify.com/track/0ARAvN0l7iViWw15JtsU3E) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Oh, How It Hurts](https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh) | 3:24 | 2023-06-29 |  |
 | [I Forgot To Be Your Lover](https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Man In The Street: The Complete Yellow Stax Solo Singles \(1968\-1974\)](https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b) | 2:22 | 2023-06-29 |  |
+| [I Want a Little Sugar In My Bowl](https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:32 | 2023-08-24 |  |
 | [I'm Gonna Tear Your Playhouse Down](https://open.spotify.com/track/62i5IYsfk28UiViWTeEw2x) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:45 | 2023-06-29 |  |
 | [I'm Still a Man \(Lord Have Mercy\)](https://open.spotify.com/track/6nIL8r8k59ulmQWaEwwqwb) | [Willie West](https://open.spotify.com/artist/76HrK2f7GCk4phitcHr60T), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [I'm Still a Man \(Lord Have Mercy\)](https://open.spotify.com/album/5GGjtPI5dy825OpKaEkVpL) | 4:11 | 2023-06-29 |  |
 | [I'm Your Puppet](https://open.spotify.com/track/6H8WMHCov3QGaPLbpOMpcJ) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [Shake A Tail Feather! The Best Of James And Bobby Purify](https://open.spotify.com/album/5wtLC8QWMF9tZKVI9cBqcX) | 2:59 | 2023-06-29 |  |
@@ -60,6 +62,7 @@
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2023-06-29 |  |
 | [When You Smile](https://open.spotify.com/track/2uqumMa7SueXxKDrJ6Euee) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Love Oh Love](https://open.spotify.com/album/78JrHNPusyVYOViMcUonyM) | 4:22 | 2023-06-29 |  |
 | [Where Will I Go](https://open.spotify.com/track/6d7pdDVxhOAAelJITR3R4Y) | [Brief Encounter](https://open.spotify.com/artist/4OEbC7T2MsiXplZhj7ljRj) | [Where Will I Go](https://open.spotify.com/album/3qZ8AzJXcnRRO5jz3vq5z6) | 4:16 | 2023-06-29 |  |
+| [Whoa](https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:19 | 2023-08-24 |  |
 | [Yes I'm Ready](https://open.spotify.com/track/2hx9Yf3ScH4n5psVLLFKf3) | [Sounds Of Soul](https://open.spotify.com/artist/3llEVTRieqZDrVhMVScmS1) | [So Much Love](https://open.spotify.com/album/5ov1eCG5XpHmVI106wlLzB) | 2:47 | 2023-06-29 |  |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2023-06-29 |  |
 | [You'll Lose A Good Thing](https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:39 | 2023-06-29 |  |

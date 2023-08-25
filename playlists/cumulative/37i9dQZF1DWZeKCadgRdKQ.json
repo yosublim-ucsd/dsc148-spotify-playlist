@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Chasing the Horizon",
+        "url": "https://open.spotify.com/album/0qRxMFGRVEZiJRNdDn9srq"
+      },
+      "artists": [
+        {
+          "name": "Dance Of Centuries",
+          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158729,
+      "name": "Chasing the Horizon",
+      "url": "https://open.spotify.com/track/3ybfuI1HTbbT1FYyiX3IsJ"
+    },
+    {
+      "album": {
         "name": "Chasing Tides",
         "url": "https://open.spotify.com/album/4HJMXBtyX7oHWzE1O0y3bw"
       },
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 162085,
       "name": "Clear Skies",
       "url": "https://open.spotify.com/track/7bKMZYXVYzGMvnHiRDCmjy"
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 194571,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/157kvk58Qr04AiuDv2aQWd"
@@ -3074,7 +3092,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 198077,
       "name": "Feels Like Flying",
       "url": "https://open.spotify.com/track/3mMd2MGvEIDAfMfvcb9wsC"
@@ -3110,7 +3128,7 @@
       ],
       "date_added": "2019-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 129199,
       "name": "Final Mid",
       "url": "https://open.spotify.com/track/7hQiWMz4Xisr6c5VdBsPKT"
@@ -3380,7 +3398,7 @@
       ],
       "date_added": "2019-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 159049,
       "name": "Found",
       "url": "https://open.spotify.com/track/2T2EemW8X3GlKvJe1gxpBC"
@@ -5328,7 +5346,7 @@
       ],
       "date_added": "2019-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 258928,
       "name": "Lucid Alchemy",
       "url": "https://open.spotify.com/track/7u7dK1IXsG4jdB6bK9PCFm"
@@ -6747,6 +6765,24 @@
     },
     {
       "album": {
+        "name": "Peaches",
+        "url": "https://open.spotify.com/album/7iKaBeiAqE5MjacyqXQ91G"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Oasis",
+          "url": "https://open.spotify.com/artist/31pLNmCY9ScYFahS0Qa448"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145004,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/7Bg3BIA1sceSbODgAJHvIP"
+    },
+    {
+      "album": {
         "name": "Perfect Instance",
         "url": "https://open.spotify.com/album/0q4lFbtl9ODtQVnwan4Nqr"
       },
@@ -7982,7 +8018,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 201951,
       "name": "Sintra",
       "url": "https://open.spotify.com/track/0b6iQfSLnYGz5VCzwndLz9"
@@ -8706,6 +8742,24 @@
       "duration_ms": 103586,
       "name": "Telefono B",
       "url": "https://open.spotify.com/track/1rCn4c0ULASiBiEYdQMvc9"
+    },
+    {
+      "album": {
+        "name": "Tell A Story",
+        "url": "https://open.spotify.com/album/4KyvtmlaX3whEj3VOA12kf"
+      },
+      "artists": [
+        {
+          "name": "BBG's",
+          "url": "https://open.spotify.com/artist/0rKBlryjOUk7Oy1v0RCG0o"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tell A Story",
+      "url": "https://open.spotify.com/track/4FmITkvf6U8iH4nQqDf29F"
     },
     {
       "album": {

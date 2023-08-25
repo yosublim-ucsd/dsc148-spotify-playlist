@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Eyedress, Mac DeMarco
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,004 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,023 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Leila](https://open.spotify.com/track/7sKJkJN7dhfBDmG86AKtOI) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paris\-Hawaï](https://open.spotify.com/album/4q2iiAmoWmM57F6I2al84B) | 5:03 |
 | 100 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 |
 
-Snapshot ID: `MCw0MDhmZjEyMzdlNDRjM2Q5ZTE5Y2Y4YzVmNzUwODY3NjU0YjM1NmNk`
+Snapshot ID: `MCw1YWJkZmVkZjhmMTMyYzg4MGRlZGUwYjg0N2ZhOWJjZWQ1ZTcyYjg1`

@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-801 songs - 23 hr 49 min
+803 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [If Happiness Had A Face](https://open.spotify.com/track/6otAE8C3v1Z3WipYfliXDp) | [Maryon Jennings](https://open.spotify.com/artist/1se3GbDEI02N7abqldFqC1) | [If Happiness Had A Face](https://open.spotify.com/album/3pYOrFMeGZOj4wO8B87MCs) | 1:34 | 2023-01-06 |  |
 | [If I Were an Astronaut](https://open.spotify.com/track/2Ygx4161pwI6xWkd3zu6HV) | [Dana McGowen](https://open.spotify.com/artist/4VsnumFuiW1YdUCHgENYUB) | [If I Were an Astronaut](https://open.spotify.com/album/2SyqxeyjjTR0k4j1riNTwA) | 1:21 | 2022-05-13 |  |
 | [If You Can't Fall Asleep](https://open.spotify.com/track/2OzYkqvv0gWeNn2fuI4BJx) | [Callie Berger](https://open.spotify.com/artist/6oE1DSOeQTgGMvLpFVnnjs) | [If You Can't Fall Asleep](https://open.spotify.com/album/7iI7Oz1jT9b1dkaWlb3qJC) | 1:47 | 2022-07-29 |  |
-| [If You're Happy and You Know It](https://open.spotify.com/track/5r9A6XkKEjazT4A0PhXgiy) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [If You're Happy and You Know It](https://open.spotify.com/album/2SYzk7ikiP4f2hPLtnnafR) | 2:06 | 2021-11-08 |  |
+| [If You're Happy and You Know It](https://open.spotify.com/track/5r9A6XkKEjazT4A0PhXgiy) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [If You're Happy and You Know It](https://open.spotify.com/album/2SYzk7ikiP4f2hPLtnnafR) | 2:06 | 2021-11-08 | 2023-08-25 |
 | [Ik zie je morgen](https://open.spotify.com/track/4vkqxl9pJlF3aAHL8uxdaN) | [Lorijn Engberts](https://open.spotify.com/artist/4GNuW8wZPsRhjBcNAnMXVw) | [Ik zie je morgen](https://open.spotify.com/album/1D55W5RAlmiLCRnQJ5ElbB) | 1:53 | 2021-11-08 |  |
 | [Il mio bambino](https://open.spotify.com/track/0ssGaSyS6FrfPa6NtncKnr) | [Verona Rizzo](https://open.spotify.com/artist/3FhVFMTffYD78U04viWgVo) | [Il mio bambino](https://open.spotify.com/album/2Uai0rWKNl4B7s3k7muORv) | 2:05 | 2022-05-13 |  |
 | [In mom's purse](https://open.spotify.com/track/3KXK50MwbDlWNvXDIzCHDt) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [In mom's purse](https://open.spotify.com/album/1BqOFw0TujOG2uf63uT57H) | 1:11 | 2022-05-13 | 2022-10-29 |
@@ -440,6 +440,7 @@
 | [Moon River](https://open.spotify.com/track/3J6dgORs9qkS4nJwctiMdp) | [Emilee Ness](https://open.spotify.com/artist/1fPd9o5MEt6E49AnWODQ7M) | [Sov På Min Arm](https://open.spotify.com/album/7GySg5RGGfASZpjTZn07vG) | 1:22 | 2023-01-27 |  |
 | [Moonflight](https://open.spotify.com/track/3s9zIXife8Pdx8SjMg07Ju) | [Georgia Faingold](https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V) | [Moonflight](https://open.spotify.com/album/1vjAiGVrTiGoYUNbhBMoi2) | 1:40 | 2023-08-10 |  |
 | [Moonlight Sleep](https://open.spotify.com/track/7H0tAhQsYhCSmZQNSqFadM) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Moonlight Sleep](https://open.spotify.com/album/42xwyjkYGvu05mTt63pQq4) | 1:43 | 2023-06-02 |  |
+| [Moonlight Song](https://open.spotify.com/track/1Yc2Y64xHLpc6tQ1UFphI1) | [Maria Mangasson](https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ) | [Moonlight Song](https://open.spotify.com/album/3IxrV08Irf96q0d7FL9W7d) | 1:46 | 2023-08-24 |  |
 | [Moonlit Cradle](https://open.spotify.com/track/7JJ8VKdFWMD14OYxishmdi) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Rainbow Sky](https://open.spotify.com/album/3e9Nts6SRxn1htmBr06L3n) | 1:42 | 2023-03-17 | 2023-06-23 |
 | [Morning Ditty](https://open.spotify.com/track/6PiwFv0GoSJbUeXF57YtJv) | [Lovell Caldwell](https://open.spotify.com/artist/3Gq8kXKBaLomAautCLAI82) | [Morning Ditty](https://open.spotify.com/album/0SzAm5sUnmYn8IBh06Ku0L) | 1:37 | 2021-11-08 |  |
 | [Morning Ditty](https://open.spotify.com/track/1i2BgXZSr3YoC9ut5GVwlL) | [Tiffany Royce](https://open.spotify.com/artist/0NHb5ZgkewGNZZZxgyn2Vo) | [Morning Ditty](https://open.spotify.com/album/1E6eKjL4FzLKVQiaCqAFZD) | 1:38 | 2021-11-08 | 2022-10-29 |
@@ -503,6 +504,7 @@
 | [Når du holder hånden min](https://open.spotify.com/track/6N5gzMlSWIbGNLDJoMWph9) | [Saga Solheim](https://open.spotify.com/artist/7uy9xQDLs9vJXNotUs2eVQ) | [Når du holder hånden min](https://open.spotify.com/album/2jN7REU2ZfHTpmehtJWoRB) | 2:05 | 2022-06-07 | 2023-06-03 |
 | [Når du sovnet](https://open.spotify.com/track/3E1HUM219guDCovVxKINMX) | [Trude Egeland](https://open.spotify.com/artist/70nfwQmdbDzaXCx5aQxmry) | [Når du sovnet](https://open.spotify.com/album/4jPsPb4iVviFleHwk9ULPM) | 1:59 | 2022-10-28 | 2023-06-03 |
 | [Oh Dear What Can The Matter Be](https://open.spotify.com/track/515HlA9jR6X2deb9ip6C6e) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Oh Dear What Can The Matter Be](https://open.spotify.com/album/5K3M9LU3glsJGEXUsNHDZk) | 1:36 | 2021-11-08 | 2022-10-29 |
+| [Old MacDonald Had a Farm](https://open.spotify.com/track/3vMaeivogNy0c26qG1hWo5) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Music Box](https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl) | 2:02 | 2023-08-24 |  |
 | [Old Man Noah](https://open.spotify.com/track/79vPABqHj4zEuSrs7xpDty) | [Adeimferry](https://open.spotify.com/artist/4nwwOJA6YtmbEX2KIr121J) | [Old Man Noah](https://open.spotify.com/album/4GNvVOdgQtGJeXwzj9ZIlw) | 1:29 | 2021-11-08 | 2022-07-01 |
 | [On More Sleep](https://open.spotify.com/track/5LPFIx2yusxKYAvioLn4xp) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleepy Eyes](https://open.spotify.com/album/20f2sObexRNK0NtpZ4jx9W) | 2:59 | 2023-04-07 | 2023-08-18 |
 | [On The Field Of Dreams](https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV) | [Izabella Kirk](https://open.spotify.com/artist/0PrTw0kgFwYZz0lje9LFED) | [On The Field Of Dreams](https://open.spotify.com/album/3AyzUXZw4EJaFwMOxss7ZY) | 1:11 | 2022-12-16 |  |
@@ -581,7 +583,7 @@
 | [Sleep Now](https://open.spotify.com/track/1HvLD8IlGZRTWJk3pdfWDo) | [Granville Anderson](https://open.spotify.com/artist/4s404Rqm5KCM94kqRVVzPg) | [Sleep Now](https://open.spotify.com/album/4UiEY2G3BHXOzL1vPMSGod) | 1:32 | 2021-11-08 | 2022-11-12 |
 | [Sleep Now](https://open.spotify.com/track/6nh2OYVRlNsvjCvG3dQlAT) | [Joey Ty](https://open.spotify.com/artist/3PpceQMvXxZBxsF0v4yojB) | [Sleep Now](https://open.spotify.com/album/7f3iZyWqecBdOISASthcRy) | 1:33 | 2021-11-08 | 2022-11-12 |
 | [Sleep Tight](https://open.spotify.com/track/3WYzdiuE5IViSiYn0eTfaU) | [Phil Counts](https://open.spotify.com/artist/14PVLP8iHxZewSvnlLQg9b) | [Sleep Tight](https://open.spotify.com/album/2wyRwPa4bcxLlhMwRSpTwg) | 1:49 | 2022-09-23 |  |
-| [Sleep tight my love](https://open.spotify.com/track/4MSOUIQmO0vTnLDBOtd9XH) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Sleep tight my love](https://open.spotify.com/album/56bdIslv6OwTFEtEngkfMi) | 1:27 | 2023-06-15 |  |
+| [Sleep tight my love](https://open.spotify.com/track/4MSOUIQmO0vTnLDBOtd9XH) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Sleep tight my love](https://open.spotify.com/album/56bdIslv6OwTFEtEngkfMi) | 1:27 | 2023-06-15 | 2023-08-25 |
 | [Sleep Well](https://open.spotify.com/track/1afPpNBopNkkDYm9HcHBNY) | [Elle Kling](https://open.spotify.com/artist/1t8DbRx3ZODsUzt1ieOiPL) | [Sleep Well](https://open.spotify.com/album/6fClidf9V2JtWFjZVtyRSf) | 1:33 | 2023-02-17 | 2023-08-18 |
 | [Sleep Well](https://open.spotify.com/track/2Fws81WEXX2oJeumotHxGJ) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Sleep Well](https://open.spotify.com/album/3BlEezIJKTyOehLgft437j) | 1:34 | 2023-01-27 |  |
 | [Sleep Well](https://open.spotify.com/track/2Eopi5U2T0C9CXru05TppU) | [Wilda Sigridsdottir](https://open.spotify.com/artist/5BRw3Nw9N9xMeukUV9rw5S) | [Elvira Fattigans Sång](https://open.spotify.com/album/7gDqsbPcfTsUwkWrxBSnJk) | 1:33 | 2023-04-07 | 2023-08-18 |
@@ -642,7 +644,7 @@
 | [Stjernefall](https://open.spotify.com/track/72Brqr3kj4zbxnmA31fW78) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Stjernefall](https://open.spotify.com/album/6JCE5LPLTWhPfwJsq27RAM) | 1:28 | 2022-06-07 | 2023-08-18 |
 | [Strawberry Days](https://open.spotify.com/track/2InxnDzuNTvai55lqZTB8e) | [Sienna Hewitt](https://open.spotify.com/artist/6PjnavWTln3VeGwsHZgWPL) | [Danny the Duckling](https://open.spotify.com/album/6xoiLYPz3A4na8YP9Vhpat) | 1:22 | 2022-06-30 |  |
 | [Strawberry Milkshake](https://open.spotify.com/track/0cABvxXyln85hw4BiZm8H9) | [Brandie Herbert](https://open.spotify.com/artist/5oWkadBD5uzxKs3Es5XeZ2) | [Strawberry Milkshake](https://open.spotify.com/album/05Lm2GVM9Bv36k9pzTo5w0) | 1:40 | 2021-11-08 | 2023-01-06 |
-| [Summer Sleep](https://open.spotify.com/track/2dtBBSs0DJSkXwexGXzxxN) | [Derick Lindon](https://open.spotify.com/artist/18lZHnAOjKYp2fE4UNbqnA) | [Summer Sleep](https://open.spotify.com/album/4kT4NcvsQKiPSOtCZhn6ft) | 2:00 | 2021-11-08 |  |
+| [Summer Sleep](https://open.spotify.com/track/2dtBBSs0DJSkXwexGXzxxN) | [Derick Lindon](https://open.spotify.com/artist/18lZHnAOjKYp2fE4UNbqnA) | [Summer Sleep](https://open.spotify.com/album/4kT4NcvsQKiPSOtCZhn6ft) | 2:00 | 2021-11-08 | 2023-08-25 |
 | [Summer Sleep](https://open.spotify.com/track/54zBtM141AyCBeUZJPZX32) | [Jaycob Atkinson](https://open.spotify.com/artist/1HrALd6zpArxcxBjCgCtDG) | [Summer Sleep](https://open.spotify.com/album/7xnQpUnppdMzDsuoGlEdvY) | 2:00 | 2021-11-08 |  |
 | [Summertime Waltz](https://open.spotify.com/track/3RAwUnAAIzKKSo0tRxg79H) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Summertime Waltz](https://open.spotify.com/album/5kUIDGogx2UhDNrI2jRBoy) | 2:03 | 2022-05-13 | 2022-10-29 |
 | [Sunbeam](https://open.spotify.com/track/5sN2ztotXMAalZaQmmfMeZ) | [Chiara Almanza](https://open.spotify.com/artist/1moO688fElQ5uMSbixmBya) | [Peace and Quiet](https://open.spotify.com/album/077PeucgkWd6GbZauVg4kL) | 2:11 | 2021-11-08 |  |
@@ -710,7 +712,7 @@
 | [This Little Light Of Mine](https://open.spotify.com/track/5iTPN58ZyTmMaMshmlGd46) | [Holly Lorne](https://open.spotify.com/artist/0Gy9lk0vV077vFTkneqlDa) | [This Little Light Of Mine](https://open.spotify.com/album/4KXOB4Os09kqRwShddxema) | 1:37 | 2021-11-08 |  |
 | [This Old Man](https://open.spotify.com/track/0FFtYy25WDwgdTlKOyFFui) | [Funny Fanny](https://open.spotify.com/artist/1kvETyy8pcVERDBrk7Txdh) | [This Old Man](https://open.spotify.com/album/0iL8y62kdnKlUv0l1n5LLb) | 2:00 | 2021-11-08 | 2022-10-29 |
 | [This Old Man](https://open.spotify.com/track/0W3lwmDR8B83b8puxO89HE) | [Karina Grant](https://open.spotify.com/artist/6z6tjX6FtOo6WOkE8CrLn6) | [This Old Man](https://open.spotify.com/album/6Srd3HVugYrR8GuT98wYFK) | 1:41 | 2022-10-28 |  |
-| [This Old Man](https://open.spotify.com/track/603Ov6PDOdfNkd1orkHPDV) | [Mel Rhodes](https://open.spotify.com/artist/4w5EOctmJhCFqHsXJw5nT4) | [This Old Man](https://open.spotify.com/album/1wfcOhdCsO39PH9lXdHUUB) | 1:34 | 2023-01-06 |  |
+| [This Old Man](https://open.spotify.com/track/603Ov6PDOdfNkd1orkHPDV) | [Mel Rhodes](https://open.spotify.com/artist/4w5EOctmJhCFqHsXJw5nT4) | [This Old Man](https://open.spotify.com/album/1wfcOhdCsO39PH9lXdHUUB) | 1:34 | 2023-01-06 | 2023-08-25 |
 | [This Willow Lullaby](https://open.spotify.com/track/3xM1HE5Uba8Mzo13G7O0Bn) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [This Willow Lullaby](https://open.spotify.com/album/5CcyMoMFcA0LBWePqqMPsf) | 2:14 | 2022-10-28 |  |
 | [Three Blind Mice](https://open.spotify.com/track/1kQZOSz9Iy2PgwuQOjM2Vp) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Three Blind Mice](https://open.spotify.com/album/4Byo31HOmhu3wa6CEKdqbl) | 1:27 | 2021-11-08 | 2022-09-24 |
 | [Three Little Foxes](https://open.spotify.com/track/7B3obFgv2Rw688A1nusXik) | [Laurel Hoh](https://open.spotify.com/artist/08SzjkwPk23BWqKL6LMHMj) | [Three Little Foxes](https://open.spotify.com/album/6p67dI1tgVy6xAGpvvkxfb) | 1:53 | 2023-05-12 |  |

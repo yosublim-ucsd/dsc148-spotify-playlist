@@ -4,7 +4,7 @@
 
 > All the Punk Rock that you need in your life\. Cover: Rancid
 
-140 songs - 7 hr 12 min
+141 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,9 +133,10 @@
 | [The Three of Us](https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 5:18 | 2021-10-05 | 2022-07-21 |
 | [This Is the End \(For You My Friend\)](https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:12 | 2021-10-05 |  |
 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 | 2021-10-05 |  |
-| [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2021-10-05 |  |
+| [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2021-10-05 | 2023-08-25 |
 | [Time Bomb](https://open.spotify.com/track/6ADSvN7HQ5E2ltbhNcHou0) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 2:24 | 2022-08-31 | 2022-11-13 |
 | [Time Bomb](https://open.spotify.com/track/7goMqXhydyyhmWdPxLTm7E) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/6feZP86NoM6P0UHuRLpJCx) | 2:24 | 2021-10-05 | 2022-07-29 |
+| [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 | 2023-03-07 |  |
 | [True Believers](https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [How I Spent My Summer Vacation](https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G) | 2:30 | 2021-10-05 |  |
 | [Trusty Chords](https://open.spotify.com/track/1Vi8NTwgsR63dhltQPtb6N) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Caution](https://open.spotify.com/album/2lwXTpfrqn0zvutmFKBhV2) | 2:49 | 2021-10-05 | 2022-07-06 |
 | [Turncoat](https://open.spotify.com/track/3fL2RGr1SAZT3wJObAEiDG) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/5BlPLttogJjVIU1Q05FhVS) | 2:10 | 2021-10-05 | 2022-07-28 |

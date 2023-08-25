@@ -620,7 +620,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220800,
-      "name": "TRANSFORMAR ~\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc~",
+      "name": "TRANSFORMAR \uff5e\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc\uff5e",
       "url": "https://open.spotify.com/track/1atzPmoTCzu2kAiazwkEMO"
     },
     {
@@ -1037,7 +1037,7 @@
     },
     {
       "album": {
-        "name": "\u30de\u30af\u30ed\u30b9 SONG\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 2002",
+        "name": "\u30de\u30af\u30ed\u30b9\u3000SONG\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 2002",
         "url": "https://open.spotify.com/album/57NFqW2IxIOqtSBR6uA1Wo"
       },
       "artists": [
@@ -1401,7 +1401,7 @@
     },
     {
       "album": {
-        "name": "palette(\u30cf\u309a\u30ec\u30c3\u30c8)",
+        "name": "palette\uff08\u30d1\u30ec\u30c3\u30c8\uff09",
         "url": "https://open.spotify.com/album/2LI4KcqWZH9OT6aDnOpmpU"
       },
       "artists": [
@@ -1527,7 +1527,7 @@
     },
     {
       "album": {
-        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u2606\u30d9\u30b9\u30c8 \u6c96\u7530\u6d69\u4e4b",
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u2606\u30d9\u30b9\u30c8\u3000\u6c96\u7530\u6d69\u4e4b",
         "url": "https://open.spotify.com/album/6XhYUm32PBkWZ6usgF5hce"
       },
       "artists": [

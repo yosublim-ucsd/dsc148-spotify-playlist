@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: UNE\(으네\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Luli Lee\(이루리\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-594 songs - 1 day 12 hr 23 min
+595 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-01-27 | 2022-02-17 |
 | [Bike](https://open.spotify.com/track/3B763uTyzLSz398fi7FIYe) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:44 | 2021-12-21 | 2022-04-13 |
 | [BLACK](https://open.spotify.com/track/5a4R9Amz7u9d6UHrAG2dda) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Space Project, Pt.1](https://open.spotify.com/album/1g43WE5cSvxO2vYHyUxbPq) | 3:07 | 2022-03-31 | 2022-04-19 |
-| [Blinded](https://open.spotify.com/track/3k5xWgRecbkY5XzhpjIJ65) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Blinded](https://open.spotify.com/album/5kM1pxqGfFhXBqbtFRjaTb) | 3:45 | 2023-07-17 |  |
+| [Blinded](https://open.spotify.com/track/3k5xWgRecbkY5XzhpjIJ65) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Blinded](https://open.spotify.com/album/5kM1pxqGfFhXBqbtFRjaTb) | 3:45 | 2023-07-17 | 2023-08-25 |
 | [Blue & Lemonade \(Feat\. Choi Cello\)](https://open.spotify.com/track/2YmnxhsvBJA08kyCAzQacz) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o), [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Blue & Lemonade \(Feat\. Choi Cello\)](https://open.spotify.com/album/285AagckaF30HANKbEQnxd) | 3:10 | 2022-03-18 | 2022-07-25 |
 | [Blue bird](https://open.spotify.com/track/1WlNLsdkbPm2tjwIgvkneM) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [Blue bird](https://open.spotify.com/album/79aVg7uljET5XuVio9dNFr) | 3:25 | 2021-12-21 | 2022-06-14 |
 | [blue snail](https://open.spotify.com/track/4Tk4Fac1Mfghv1sRvyvGW6) | [Choi Seong](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [psicosismu](https://open.spotify.com/album/6qeeRxn42rayvHbRKqyjxq) | 4:12 | 2023-05-04 | 2023-05-24 |
@@ -225,7 +225,7 @@
 | [I Don't Give A](https://open.spotify.com/track/2NmY7mgMgXewWoQLoUQC7p) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Even Though We Are Not the Same 우리의 감정이 같을 순 없지만](https://open.spotify.com/album/3isdFTW14WhOxUdOhFMHqP) | 3:10 | 2022-03-31 | 2022-04-04 |
 | [I don't know](https://open.spotify.com/track/2tjh87mXDZJJIKLOpqH97T) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [I don't know](https://open.spotify.com/album/7Dlz2hPB7zxz4nf1RFpxiy) | 4:08 | 2021-12-21 | 2022-07-29 |
 | [I know what is the love after broke up](https://open.spotify.com/track/1izGHQNj7Oh8dcGhY7xi3r) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [I know what is the love after broke up](https://open.spotify.com/album/7eUvhAWeEWVKrfnEAnlkfn) | 4:19 | 2022-04-12 | 2022-04-21 |
-| [I Know Where The Rainbow has Fallen](https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:42 | 2021-12-21 |  |
+| [I Know Where The Rainbow has Fallen](https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:42 | 2021-12-21 | 2023-08-25 |
 | [I Like You](https://open.spotify.com/track/2aON0GIWKXHxPe9zE0AD3e) | [J.Lee](https://open.spotify.com/artist/324dYLqc0sal9kI5GJdyfr) | [I Like You](https://open.spotify.com/album/0NEr71QL6BkbWoXrWUmQ2C) | 3:17 | 2022-07-22 | 2022-07-28 |
 | [I Love You \(Feat\. Silica Gel\)](https://open.spotify.com/track/7vgDknBIqfTkM2OiQQ1gXz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [I Love You](https://open.spotify.com/album/32ezQ6zwJCOmndh4V5PO4b) | 4:01 | 2023-02-16 | 2023-03-01 |
 | [I Miss You](https://open.spotify.com/track/4LdN7STvfeQCvpkCaLySWK) | [E Z Hyoung](https://open.spotify.com/artist/4vMoealzfru4Q1WOmi0aVs) | [I Miss You](https://open.spotify.com/album/7AgGa1CogEeoPi9o42X0QM) | 4:31 | 2022-03-31 | 2022-04-05 |
@@ -233,6 +233,7 @@
 | [I Thought I Was An Adult 어른인 줄 알았어](https://open.spotify.com/track/4JuldopgBVxrFgROeBU8y6) | [흔적 Heunjeok](https://open.spotify.com/artist/1JLEa6Ne72F5PpIsLdL1gW) | [200326](https://open.spotify.com/album/5EDCJR4y81CObk37e0xBio) | 2:29 | 2022-04-12 | 2022-04-19 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2021-12-21 | 2022-04-21 |
 | [I want to live with you 당신과 함께 살고 싶어요](https://open.spotify.com/track/4Jvgf76h1R9xRfLQAgjixK) | [jungumul 정우물](https://open.spotify.com/artist/4kkPYliE6UmXoj81Xzr4s6) | [I want to live with you 당신과 함께 살고 싶어요](https://open.spotify.com/album/1wvNe35sWSsk35B8hrFgcP) | 3:29 | 2022-04-12 | 2022-04-21 |
+| [I Want You](https://open.spotify.com/track/2r3lmIMjeiBVfurRKM2XXn) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [I Want You](https://open.spotify.com/album/6LYuWto4dMfk00uHWZkkLx) | 3:48 | 2023-08-24 |  |
 | [I was wrong](https://open.spotify.com/track/2Nudb9hCRVGqePHBBedTic) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Songs from a bed](https://open.spotify.com/album/3d8OKUqQ7KBBK7iFMnK1ZE) | 4:30 | 2021-12-12 | 2022-06-25 |
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2021-12-21 | 2022-06-23 |
 | [I'll Eat Up Your Darkness](https://open.spotify.com/track/4NKa7tW2N6mCdQSJKCP2hF) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Be Trapped In A Picture](https://open.spotify.com/album/6fhEPy3mHzSdp87i48Yono) | 3:35 | 2023-07-17 | 2023-07-28 |
@@ -340,7 +341,7 @@
 | [Myeongdong Calling](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [THE FAN 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 | 2021-12-21 | 2022-04-11 |
 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 | 2022-07-05 | 2022-07-09 |
 | [Name 이름](https://open.spotify.com/track/4CQhnpPfX9mX14VZlXI0q2) | [Azzul 아줄](https://open.spotify.com/artist/5nuzNvC1OBb7iFQMttCDGX) | [Afterimages 잔상들](https://open.spotify.com/album/3Su8wjhHX8RGeP6QgCUvkC) | 4:37 | 2022-03-31 | 2022-04-18 |
-| [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2021-12-12 | 2023-08-22 |
+| [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2021-12-12 |  |
 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 | 2022-03-31 | 2022-04-12 |
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-07-12 | 2022-08-19 |
 | [New York](https://open.spotify.com/track/538iD010hO1udTC76GIhZN) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [New York](https://open.spotify.com/album/4aBTnVXPMVeD7jrSAENlSb) | 4:19 | 2021-12-21 | 2022-04-17 |
@@ -434,7 +435,7 @@
 | [SHINING!](https://open.spotify.com/track/5puMsDHMS36xxIeWHGY7nX) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [The Hitchhiker's Guide to Time Travel, Pt.1](https://open.spotify.com/album/50APc4pcbqNcOfsy8QYyvp) | 3:51 | 2023-01-25 | 2023-02-15 |
 | [showtime](https://open.spotify.com/track/11Wb2mNcp7nKa2ZNpAuwoy) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [showtime](https://open.spotify.com/album/7vdRCKCLy1I5jGxyxFD0vl) | 3:12 | 2022-03-31 | 2022-04-19 |
 | [Silence](https://open.spotify.com/track/5bkf1sw9gqCNIFcRK7n4fu) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Silence](https://open.spotify.com/album/07E288F6ZcERFlP91gEGLQ) | 2:33 | 2022-03-31 | 2022-04-16 |
-| [Silk Shirts](https://open.spotify.com/track/3bl93mbQhNgi1IIeqGoGtT) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [Silk Shirts](https://open.spotify.com/album/7noNduIlKshv6sSpWiB9st) | 4:54 | 2023-07-27 |  |
+| [Silk Shirts](https://open.spotify.com/track/3bl93mbQhNgi1IIeqGoGtT) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [Silk Shirts](https://open.spotify.com/album/7noNduIlKshv6sSpWiB9st) | 4:54 | 2023-07-27 | 2023-08-25 |
 | [Silly Boy](https://open.spotify.com/track/5iz6tXxLi3KegCSXfnQLmq) | [IPSAEM](https://open.spotify.com/artist/7dSJnTru8DnLrTlj58ExxQ) | [Silly Boy](https://open.spotify.com/album/61Xu0EnlQY6j9iotMwR2e7) | 3:42 | 2022-07-04 | 2022-07-13 |
 | [Simulation](https://open.spotify.com/track/0Wg7v2z7wFx3CDi1DHYoqI) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 4:06 | 2022-03-31 | 2022-04-10 |
 | [Sink or Swim](https://open.spotify.com/track/7nbRp7GOxP6Y0tDCx6UU9j) | [Kang Soomin](https://open.spotify.com/artist/57TtAxK5tYOHcbcMFBxLHH) | [Sink or Swim](https://open.spotify.com/album/4ERUsXJCiE3H3ug4uwataj) | 3:07 | 2022-04-12 | 2022-04-20 |
@@ -584,7 +585,7 @@
 | [Young People](https://open.spotify.com/track/1T3kSXQGxdY144SzofbEQt) | [nijuu](https://open.spotify.com/artist/5DOwMhG96lFhlPpNG9oaWW) | [Young People](https://open.spotify.com/album/1Q1jrlmvrqpxQOLa7i9VGh) | 3:04 | 2022-03-31 | 2022-05-12 |
 | [Your Voice Makes Me Dream](https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK) | [Dinner Coat](https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV) | [Your Voice Makes Me Dream](https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n) | 4:00 | 2021-12-12 | 2022-07-27 |
 | [Youth](https://open.spotify.com/track/2LT8gtraNXInH6DZdP6jrt) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/22Isp3j1eaoVzQrUm5zbiq) | 6:01 | 2021-12-12 | 2022-07-29 |
-| [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 | 2022-07-27 | 2023-07-18 |
+| [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 | 2022-07-27 |  |
 | [Zero One](https://open.spotify.com/track/2MPynctIqjFhmRLKRpBamF) | [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Zero One](https://open.spotify.com/album/6hHfHInmTWnwDPyOUpzMXn) | 4:27 | 2022-03-31 | 2022-04-12 |
 | [각자의 밤 Night Night](https://open.spotify.com/track/3KZaT9PJu1rTrDYiK9OG0t) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [각자의 밤 Night Night](https://open.spotify.com/album/7s0Ari3SZ2pxqZtjWw57v9) | 3:45 | 2022-04-12 | 2022-04-21 |
 | [긴 꿈 A Long Dream](https://open.spotify.com/track/1UGChD0glZlsdVBbfWbjUH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [긴 꿈 A Long Dream](https://open.spotify.com/album/5gU9PA1qYEXUfjnp79q1rj) | 4:18 | 2021-12-21 | 2022-07-28 |

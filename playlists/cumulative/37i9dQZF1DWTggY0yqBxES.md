@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: tobi lou
 
-567 songs - 1 day 3 hr 43 min
+568 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,8 @@
 | [Vengeance](https://open.spotify.com/track/02rDTNjOl6voAmfx6dwu7J) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [Vengeance](https://open.spotify.com/album/7iv4XjSEqsLirUz2FxhJzB) | 2:22 | 2022-04-01 | 2022-07-27 |
 | [Voltron Joint \(feat\. Iman Omari & Ego Ella May\)](https://open.spotify.com/track/3DcIYYmXtk2QfJtDIuRIMq) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Studio Monk \(Deluxe Edition\)](https://open.spotify.com/album/60x0v6jgbl5230aYZJF9t6) | 3:35 | 2022-03-25 | 2022-05-27 |
 | [W4TN](https://open.spotify.com/track/49Ho47D2uHc3eYqTcwNHRb) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [W4TN](https://open.spotify.com/album/3dLaZiheWAG3mmBBDP0z1u) | 2:41 | 2022-09-30 | 2023-04-29 |
-| [WA\\VE](https://open.spotify.com/track/1EmCkwfm1dtz6t7nj9WT4C) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/2HOjaFJUdAbz4BuEzfeKtm) | 2:35 | 2023-08-18 |  |
+| [WA\\VE](https://open.spotify.com/track/1EmCkwfm1dtz6t7nj9WT4C) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/2HOjaFJUdAbz4BuEzfeKtm) | 2:35 | 2023-08-18 | 2023-08-25 |
+| [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 | 2023-08-18 |  |
 | [wake up](https://open.spotify.com/track/2oDZ1JaqdgbWzZJubJmYTT) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [wake up](https://open.spotify.com/album/1Ccs6phqIKRsl43VHLSpOs) | 2:40 | 2022-10-14 | 2023-05-06 |
 | [Walk The Beat](https://open.spotify.com/track/1MMO7ytenCjfcWSIFhWvql) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Walk The Beat](https://open.spotify.com/album/1ygm7W37eAOhhGvvSDdE2a) | 2:55 | 2021-09-03 | 2022-04-21 |
 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-03 | 2023-02-11 |

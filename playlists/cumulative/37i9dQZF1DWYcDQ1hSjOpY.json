@@ -484,7 +484,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 238500,
       "name": "apoapsis",
       "url": "https://open.spotify.com/track/4HeGTGqUfgIA98HEkIWTp2"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 181750,
       "name": "delta state",
       "url": "https://open.spotify.com/track/6D2fyFDu59UbQJO2rgcO9N"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 166800,
       "name": "Despertamiento",
       "url": "https://open.spotify.com/track/4qewZAWixuPZOcB3LbGpXZ"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 224000,
       "name": "Eleven Degrees North",
       "url": "https://open.spotify.com/track/1ytBTJUCVq3ljXsEri2Bel"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 173500,
       "name": "Fate",
       "url": "https://open.spotify.com/track/1Pxoyavrxw7aElGkMwWHVj"
@@ -3667,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/1Y2cUUmY6i4jUtm6vCMxeu"
+      },
+      "artists": [
+        {
+          "name": "Mikkel Boyer",
+          "url": "https://open.spotify.com/artist/1HhdV78nBxhhXAnJKVDEu8"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Into Oblivion",
+      "url": "https://open.spotify.com/track/2pleiYX4N2GUW4BkFw1bxz"
+    },
+    {
+      "album": {
         "name": "Somnium",
         "url": "https://open.spotify.com/album/5aty9Xj6OISEIv5Tn6Ik14"
       },
@@ -4344,7 +4362,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 223008,
       "name": "Melantonia",
       "url": "https://open.spotify.com/track/4QRKoVrx2OIfEOUamco5Uz"
@@ -4434,7 +4452,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 207857,
       "name": "Miraculous",
       "url": "https://open.spotify.com/track/39klOrreaNPjsYeh1zTFjh"
@@ -4722,7 +4740,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 197000,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/2sf4TXYzqSRdxfwu5auS6r"
@@ -6756,7 +6774,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 202000,
       "name": "Stelle",
       "url": "https://open.spotify.com/track/2akxDSUjKxkwuRfuc6HFNH"

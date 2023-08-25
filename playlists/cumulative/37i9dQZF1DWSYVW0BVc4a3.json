@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-19",
-  "description": "The stomping ground. Cover: Anyma",
+  "description": "The stomping ground. Cover: Mochakk",
   "name": "Open Air",
   "tracks": [
     {
@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Cala",
+        "url": "https://open.spotify.com/album/4i0wvUpKtMOz87aPtXXi8q"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238958,
+      "name": "Cala",
+      "url": "https://open.spotify.com/track/6eMVtHaCVxQTI4BhbYZX2w"
+    },
+    {
+      "album": {
         "name": "Camaleon",
         "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
       },
@@ -2648,7 +2666,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 368719,
       "name": "Disco Biscuit",
       "url": "https://open.spotify.com/track/6SkjT2oDXxWsXmLw08bpAc"
@@ -5303,6 +5321,24 @@
     },
     {
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256406,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "album": {
         "name": "Trick, Pt. 2",
         "url": "https://open.spotify.com/album/32EQU8Pm0tHEoKtasPVIkk"
       },
@@ -6408,7 +6444,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 256000,
       "name": "Magical Signs",
       "url": "https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG"
@@ -6948,7 +6984,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 338255,
       "name": "Move Your Hips",
       "url": "https://open.spotify.com/track/1XpYHVVnuwdFNr8tWftifm"
@@ -7164,6 +7200,28 @@
       "duration_ms": 390110,
       "name": "Nassau",
       "url": "https://open.spotify.com/track/2zR4OLdZOEgGb2QmJN1MMG"
+    },
+    {
+      "album": {
+        "name": "NCO",
+        "url": "https://open.spotify.com/album/3NKzpNqb56whzWmsc996AT"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Maori",
+          "url": "https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238080,
+      "name": "NCO",
+      "url": "https://open.spotify.com/track/7gsfjBakj8aTxZuW6vwUvT"
     },
     {
       "album": {
@@ -7616,6 +7674,24 @@
       "duration_ms": 267750,
       "name": "On Call",
       "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
+    },
+    {
+      "album": {
+        "name": "On The Line (Estiva Club Mix)",
+        "url": "https://open.spotify.com/album/4HwHXGHkpgUyiD2t3Hqzzb"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257419,
+      "name": "On The Line - Estiva Club Mix",
+      "url": "https://open.spotify.com/track/1mmvNvYV7JWOn6x0jbcIda"
     },
     {
       "album": {
@@ -8283,6 +8359,28 @@
     },
     {
       "album": {
+        "name": "R U FCKNG SERIOUS (2023 Remaster + Remixes)",
+        "url": "https://open.spotify.com/album/6DFJ1oSqV2bgw3tXiCdn22"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466560,
+      "name": "R U FCKNG SERIOUS - 2023 Remaster",
+      "url": "https://open.spotify.com/track/21uMpi0Ki8aFMXIq6mTjYj"
+    },
+    {
+      "album": {
         "name": "Raining Again (Eli & Fur Remix)",
         "url": "https://open.spotify.com/album/5ypkQ1ZZVfwNzzXdQOSI3N"
       },
@@ -8872,7 +8970,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 362848,
       "name": "Save Me - Tal Fussman Remix",
       "url": "https://open.spotify.com/track/6GLghjFnbkMvRKRHLmrA3X"
@@ -9032,7 +9130,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 379354,
       "name": "Sekvens",
       "url": "https://open.spotify.com/track/3umZflgf6RInAfLB3kAMbq"
@@ -9196,7 +9294,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 257424,
       "name": "Seven Six Four",
       "url": "https://open.spotify.com/track/6yXhA6Kpk7wNOGx7fqzVZ0"
@@ -9324,7 +9422,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 186240,
       "name": "Sikulambele",
       "url": "https://open.spotify.com/track/16xYVaMVqFIGajZWsng2lm"
@@ -9826,6 +9924,28 @@
       "duration_ms": 402593,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub"
+    },
+    {
+      "album": {
+        "name": "Spring Girl",
+        "url": "https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Maori",
+          "url": "https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Spring Girl",
+      "url": "https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8"
     },
     {
       "album": {
@@ -11296,6 +11416,32 @@
       "duration_ms": 493440,
       "name": "Timelapse",
       "url": "https://open.spotify.com/track/2ivnsOi3RcEbskFvTS9zt3"
+    },
+    {
+      "album": {
+        "name": "Time\u2019s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
+        "url": "https://open.spotify.com/album/1df48ZyihLZfWMVeeFipQ2"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Jeff Bhasker",
+          "url": "https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240060,
+      "name": "Time\u2019s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
+      "url": "https://open.spotify.com/track/51VlMC9AnJQmZqnAZQjfp5"
     },
     {
       "album": {

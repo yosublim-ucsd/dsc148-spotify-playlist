@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Itzza Primera
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,375 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,401 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 23 | [CERQUITA](https://open.spotify.com/track/2Xg3vz32NEuKWWU73Hi1mc) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p), [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [CERQUITA](https://open.spotify.com/album/3uj1zQCI0RiOEvqIAFIurW) | 2:39 |
 | 24 | [Brujería](https://open.spotify.com/track/335X50bC4WpFbQmMGBxi6a) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Brujería](https://open.spotify.com/album/5oaQ0wLZfmH8V7swwzZwHl) | 2:48 |
 | 25 | [A Tu Novia](https://open.spotify.com/track/5HGyi8k0gzxmvz5G1X9faK) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Antisocial](https://open.spotify.com/album/0fymQT4sKyeNdAJoQi79Gz) | 3:32 |
-| 26 | [Te Encontré](https://open.spotify.com/track/0OgEvHb3pNvg50nbocB0AK) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Te Encontré](https://open.spotify.com/album/3T1vAfySBdF7YX0NBA9Kkd) | 3:02 |
+| 26 | [Te Encontré \- En Vivo](https://open.spotify.com/track/1uuu2CW3jzAvTUPoLUcGxE) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [En Tu Cuarto](https://open.spotify.com/album/4t2DePJM6GQnvPBx3VDZZB) | 3:03 |
 | 27 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 |
 | 28 | [4 Favores](https://open.spotify.com/track/03SoqbCZhhiomtLUcF3xs6) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [4 Favores](https://open.spotify.com/album/5slWzJL029pVeEL5qDTkMB) | 1:50 |
 | 29 | [t kiero](https://open.spotify.com/track/5qVDPQyDtQSHBmFriKfT7S) | [astrid](https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm) | [t kiero](https://open.spotify.com/album/5TsreoljdE5hPAFPBGwc5W) | 2:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 59 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 60 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
 
-Snapshot ID: `MCxjODk4MzgyNjJlNWZiYmI1NDdkN2IyYzQ4NWEzMjM0NDM2YTg2NGJi`
+Snapshot ID: `MCxjOGVkYzc3MmEzZWFmZjhjMDdlNDRiNTYxYjkzMzU5YjBlYWI3MmJj`

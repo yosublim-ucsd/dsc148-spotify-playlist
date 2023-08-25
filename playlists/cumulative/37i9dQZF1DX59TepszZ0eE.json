@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7?si=-inelc4KTWyiF65c12fYEQ\">Oufadafada</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw\">Ayanda Ntanzi</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -112,6 +112,24 @@
       "duration_ms": 300714,
       "name": "Bayazibuza",
       "url": "https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh"
+    },
+    {
+      "album": {
+        "name": "Devotional Praise (Live)",
+        "url": "https://open.spotify.com/album/7ENrDmcs4C7hNhA9XNBszM"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271184,
+      "name": "Bayohlala Bejabula - Live",
+      "url": "https://open.spotify.com/track/7egEv6e5U0343tYtJWYJdW"
     },
     {
       "album": {
@@ -452,6 +470,24 @@
       "duration_ms": 287421,
       "name": "Ewe Jesu (feat. Mfana Kah Gogo & Minero)",
       "url": "https://open.spotify.com/track/2iCoygjcMM7kB05DKT5QcM"
+    },
+    {
+      "album": {
+        "name": "Ewe Jesu (Medley 1)",
+        "url": "https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346435,
+      "name": "Ewe Jesu - Medley 1",
+      "url": "https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV"
     },
     {
       "album": {
@@ -1267,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "Moy\u2019 Oyingcwele (Live)",
+        "url": "https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Ayanda Ntanzi",
+          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500087,
+      "name": "Moy\u2019 Oyingcwele (Live)",
+      "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
+    },
+    {
+      "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
         "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
       },
@@ -1358,6 +1416,24 @@
       "duration_ms": 271622,
       "name": "Ngena Noah",
       "url": "https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0"
+    },
+    {
+      "album": {
+        "name": "Ngiphe Baba Izindlebe",
+        "url": "https://open.spotify.com/album/6GstVqXZsRARDQqwYgftj2"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444760,
+      "name": "Ngiphe Baba Izindlebe",
+      "url": "https://open.spotify.com/track/7BEN78AfaIw5d7BXPanX9s"
     },
     {
       "album": {

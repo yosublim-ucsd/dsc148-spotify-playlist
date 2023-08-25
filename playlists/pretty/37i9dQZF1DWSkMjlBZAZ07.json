@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1971889,
+  "num_followers": 1972006,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmI0YjkzMTdmY2QxOGFlZmU5MDYxZGFjNDEzNTY4NDRmZDEwNTcy",
+  "snapshot_id": "MCxmMmEwMTUwY2RmNDYxZTcyZTg0YjBjNmM4ODNhMTU3YjU4ZGQxNWEw",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "McKenzie",
-      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Milo Greene",
         "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "McKenzie",
+      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Passing Through",
-        "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
-      },
-      "artists": [
-        {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
-        }
-      ],
-      "duration_ms": 215269,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 241706,
       "name": "Shake",
       "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Passing Through",
+        "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "duration_ms": 215269,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Seven Sisters",
-        "url": "https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 135560,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Flight of the Crow",
         "url": "https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 188453,
       "name": "Shape of Love",
       "url": "https://open.spotify.com/track/6eQYZ57P28uc8caJagxYcZ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Seven Sisters",
+        "url": "https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 135560,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "News from Nowhere",
         "url": "https://open.spotify.com/album/5HFjkWLcHmVHIwkMEgBltz"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 242000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3VEEWjzviZp6MIWpywkLRq"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
     },
     {
       "added_at": "2023-08-11 04:00:00",

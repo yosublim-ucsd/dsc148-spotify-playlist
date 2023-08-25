@@ -549,6 +549,40 @@
     },
     {
       "album": {
+        "name": "Four Women",
+        "url": "https://open.spotify.com/album/0G2btMDdrfof6lqNwXqfLb"
+      },
+      "artists": [
+        {
+          "name": "DJ Kenzhero & Tha_Muzik",
+          "url": "https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh"
+        },
+        {
+          "name": "Melo B Jones",
+          "url": "https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O"
+        },
+        {
+          "name": "Pilani Bubu",
+          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
+        },
+        {
+          "name": "Spha Mdlalose",
+          "url": "https://open.spotify.com/artist/5zgK9I4L2Nwjm4mk3lphMO"
+        },
+        {
+          "name": "Zarcia Zacheus",
+          "url": "https://open.spotify.com/artist/1NpQuiq9aJAefQDEEtgsjx"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323976,
+      "name": "Four Women",
+      "url": "https://open.spotify.com/track/5AXqTvyOjkZ6lJgygsUEdi"
+    },
+    {
+      "album": {
         "name": "Born Coloured, not Born-Free",
         "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
       },
@@ -2002,7 +2036,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 166000,
       "name": "The Rapture",
       "url": "https://open.spotify.com/track/7MHE2OM265GQ7TAGB5DnSo"

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-392 songs - 1 day 12 hr 12 min
+393 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Parole Parole](https://open.spotify.com/track/1vN6YNWnQcZ2K6YxZruYZ2) | [Moulin Roty Trio](https://open.spotify.com/artist/1I1PN78a9Sv7RiGsbLSnQl) | [Parole Parole](https://open.spotify.com/album/10glt1hIgdPws9IDxVqeC3) | 4:36 | 2023-08-03 |  |
 | [Part VII \- Live](https://open.spotify.com/track/21Jm2Njh72h2WWLSRmiGT5) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Part VII \(Live\)](https://open.spotify.com/album/5bJyXieDWqLEgJPvIleSrK) | 5:24 | 2020-10-01 |  |
 | [Part VIII \- Live](https://open.spotify.com/track/2JRTt8P8Orx1iSQS8t0DA3) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Part VIII \(Live\)](https://open.spotify.com/album/45UxbVT9bQtR6LvPFFqxWo) | 5:18 | 2020-12-04 |  |
-| [Penelope](https://open.spotify.com/track/2HeCmF80vTyRHBOVf1pc22) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Penelope](https://open.spotify.com/album/4o5ne7NeRh669BmqrUo6Qh) | 5:05 | 2023-08-03 |  |
+| [Penelope](https://open.spotify.com/track/2HeCmF80vTyRHBOVf1pc22) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Penelope](https://open.spotify.com/album/4o5ne7NeRh669BmqrUo6Qh) | 5:05 | 2023-08-03 | 2023-08-25 |
 | [Perfectly Unhappy](https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:41 | 2022-04-28 |  |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-03-10 | 2022-06-23 |
 | [Prelude](https://open.spotify.com/track/3nt2gUt7V9Z01aAljXZip2) | [Jacob Roved Quintet](https://open.spotify.com/artist/7GtNzyMUm0JLoKs8XrxqCB), [Jacob Roved](https://open.spotify.com/artist/4NuB9MixMoBdiyfcifI9A7) | [Dawn](https://open.spotify.com/album/6oPbbOKJyk9plm5gyA4psH) | 2:21 | 2022-09-06 |  |
@@ -329,6 +329,7 @@
 | [Tarde](https://open.spotify.com/track/2EXxg3UZwWqMCgs1gUHEgU) | [Ryan Keberle’s Collectiv do Brasil](https://open.spotify.com/artist/0PavNAppAaVNfy94CBCmWg) | [Sonhos da Esquina](https://open.spotify.com/album/7mKm2xYfdqz3DUzxOVaSAQ) | 5:32 | 2022-03-17 |  |
 | [Teardrop](https://open.spotify.com/track/1o6v06LkvEkYm0H4S12ejd) | [Avishai Cohen](https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp), [Big Vicious](https://open.spotify.com/artist/6WZmtYXnkegW8tmk9VpWr4) | [Teardrop](https://open.spotify.com/album/3M460rbozbQFxAPSSavwlD) | 7:24 | 2020-05-02\* | 2021-12-18 |
 | [Tears I Cannot Hide](https://open.spotify.com/track/3k2ZG7wOrvAJVfATe6t41E) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Tears I Cannot Hide](https://open.spotify.com/album/70bDvVWQoOm0WEFGeyDX9g) | 5:21 | 2023-08-03 | 2023-08-17 |
+| [Tears I Cannot Hide](https://open.spotify.com/track/4HKnG7MIciQ9MtJnYHrWm8) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z) | 5:21 | 2023-08-24 |  |
 | [Tell Me a Bedtime Story](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 5:01 | 2020-05-02\* | 2020-10-27 |
 | [That Old Feeling](https://open.spotify.com/track/2d64G7VaZdHQuAquz5HQNu) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:03 | 2020-06-12 | 2021-09-17 |
 | [The Astounding Eyes Of Rita](https://open.spotify.com/track/6NAXW6IwUyswJk9bHe4y9S) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [The Astounding Eyes Of Rita](https://open.spotify.com/album/23xoWiWxu8SmDFXwoBsLLw) | 8:41 | 2020-06-12 | 2021-07-27 |

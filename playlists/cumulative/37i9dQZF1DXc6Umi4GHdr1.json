@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 146867,
       "name": "Afternoon hovers",
       "url": "https://open.spotify.com/track/7JaU9CgUhv6I6DqryPyg1C"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 253662,
       "name": "Beber",
       "url": "https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 156781,
       "name": "I Still Believe In You",
       "url": "https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea"
@@ -2196,6 +2196,24 @@
       "duration_ms": 144640,
       "name": "Love Forever",
       "url": "https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY"
+    },
+    {
+      "album": {
+        "name": "Lumen",
+        "url": "https://open.spotify.com/album/6xUP4LUnifBek3FCwxXXiD"
+      },
+      "artists": [
+        {
+          "name": "Jo Rochford",
+          "url": "https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156727,
+      "name": "Lumen",
+      "url": "https://open.spotify.com/track/6GfVl6fqJjiWYtWbaRUysl"
     },
     {
       "album": {
@@ -3201,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "Sonora Sunshine",
+        "url": "https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT"
+      },
+      "artists": [
+        {
+          "name": "Cary Bestwood",
+          "url": "https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111533,
+      "name": "Sonora Sunshine",
+      "url": "https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN"
+    },
+    {
+      "album": {
         "name": "Soon Enough",
         "url": "https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV"
       },
@@ -4120,7 +4156,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 114400,
       "name": "Wees Hier",
       "url": "https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq"

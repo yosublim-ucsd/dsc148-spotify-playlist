@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 463286,
+  "num_followers": 463364,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGY3YTE3YzQ5ZjM0NWVlNzhiMTFmM2RlYTZhMGU1ZTU1ODcwOWVh",
+  "snapshot_id": "MCxiOGVlZDk0NDc2YTk0OGQ5ZWY0MGQ3NWYzYTcwNDU5MDk2ZjAyODBi",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "The Truth in Your Eyes",
         "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 212000,
       "name": "Empty Thoughts",
       "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "The Love You Let Too Close",
-        "url": "https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 202025,
-      "name": "Tradition",
-      "url": "https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 219900,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "The Love You Let Too Close",
+        "url": "https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "duration_ms": 202025,
+      "name": "Tradition",
+      "url": "https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Were You Nervous?",
-        "url": "https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q"
+        "name": "Name Your Price",
+        "url": "https://open.spotify.com/album/48k7va8R3kUJ2C9YzGFb73"
       },
       "artists": [
         {
-          "name": "Speech Patterns",
-          "url": "https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e"
+          "name": "The New Age",
+          "url": "https://open.spotify.com/artist/3gsxykUVQOCa9H0K6kryPp"
         }
       ],
-      "duration_ms": 208258,
-      "name": "Were You Nervous?",
-      "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"
+      "duration_ms": 172560,
+      "name": "Name Your Price",
+      "url": "https://open.spotify.com/track/1H5Rep5mTwWCw3o1dtAfO3"
     }
   ],
   "unique_name": "Crash Course",

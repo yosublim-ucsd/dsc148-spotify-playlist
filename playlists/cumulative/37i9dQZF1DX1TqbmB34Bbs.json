@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: BRYN X SINCE) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: NSW Yoon) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 146626,
       "name": "BACKSPACE",
       "url": "https://open.spotify.com/track/6iQgCeBCrVzq9SY4FH3NVb"
@@ -5496,6 +5496,36 @@
       "duration_ms": 196000,
       "name": "Counting (Feat. Kid Milli, The Quiett)",
       "url": "https://open.spotify.com/track/28JI1JK4SFLWdpokiEP7D2"
+    },
+    {
+      "album": {
+        "name": "GRATEFUL",
+        "url": "https://open.spotify.com/album/2H95gLvG1hO5ch9XK1npj9"
+      },
+      "artists": [
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "Boyz N The Stickz",
+          "url": "https://open.spotify.com/artist/27xdsB2xjO46G7OkPfFdpg"
+        },
+        {
+          "name": "Street Baby",
+          "url": "https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim"
+        },
+        {
+          "name": "YLN Foreign",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "Couple Alex (feat. Street Baby, YLN Foreign & Boyz N The Stickz)",
+      "url": "https://open.spotify.com/track/49zj66R29XVUAqQGNY6I5M"
     },
     {
       "album": {
@@ -12532,7 +12562,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 143283,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/4rr6XNdTh9HuqjlTGPWStU"
@@ -16053,6 +16083,28 @@
     },
     {
       "album": {
+        "name": "GRATEFUL",
+        "url": "https://open.spotify.com/album/2H95gLvG1hO5ch9XK1npj9"
+      },
+      "artists": [
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126341,
+      "name": "Oklessgo (feat. Leellamarz)",
+      "url": "https://open.spotify.com/track/0MVpvfROUfUj8bFTwizuKs"
+    },
+    {
+      "album": {
         "name": "Grown Ass Kid",
         "url": "https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ"
       },
@@ -16536,7 +16588,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 191634,
       "name": "Out the Mud Remix (Feat. Chillin Homie, Don mills, Los)",
       "url": "https://open.spotify.com/track/2p5qocymZhtWXqC8EbuTdY"
@@ -17000,7 +17052,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 194890,
       "name": "Pass the Rhyme (feat. Changmo, Dok2)",
       "url": "https://open.spotify.com/track/6j7LH26zch6rK1qxkuTZhb"

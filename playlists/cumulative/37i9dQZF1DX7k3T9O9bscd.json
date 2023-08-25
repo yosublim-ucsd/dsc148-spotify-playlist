@@ -84,10 +84,6 @@
         {
           "name": "Earthless",
           "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
-        },
-        {
-          "name": "Harsh Toke",
-          "url": "https://open.spotify.com/artist/1jgOyTj9tyYxec7HvnAEh5"
         }
       ],
       "date_added": "2021-11-12",
@@ -782,7 +778,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 364048,
       "name": "Burial",
       "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
@@ -5078,6 +5074,28 @@
       "duration_ms": 294761,
       "name": "We Were Kings",
       "url": "https://open.spotify.com/track/30aDz3teCTudFi7VsQDWua"
+    },
+    {
+      "album": {
+        "name": "We Were We Still Are",
+        "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "We Were We Still Are",
+      "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
     },
     {
       "album": {

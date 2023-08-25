@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: SIRUP + iri \*👉 <a href="https://spice.eplus.jp/articles/321367?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-2,804 songs - 7 day 1 hr 33 min
+2,805 songs - 7 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [First Love](https://open.spotify.com/track/66qxgF2M6rfGGMWjUMUmVZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [First Love](https://open.spotify.com/album/4fI3dDhZh8PAfbH6GdH5dx) | 3:13 | 2023-03-14 | 2023-03-22 |
 | [First Love \- Live 2023](https://open.spotify.com/track/25G9D018ogjlWt227UfnGB) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [40代はいろいろ \-Live from Metropolis Studios\-](https://open.spotify.com/album/61COWYjQQGvt8OAJFECk2R) | 3:57 | 2023-02-21 | 2023-03-01 |
 | [fish](https://open.spotify.com/track/01pnt8h0D97GIf443NsJVT) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [fish](https://open.spotify.com/album/0QKuyOH8ZvI2nqMfxyXUTL) | 2:46 | 2023-08-08 | 2023-08-16 |
+| [Flama](https://open.spotify.com/track/5OqClMQ6f801s7pZLryexS) | [CANDYGIRL](https://open.spotify.com/artist/6ljA8ttKB0d9eBUySPaSOZ) | [Flama](https://open.spotify.com/album/5NuoEgpOWJwfUdMXQoaZGG) | 2:57 | 2023-08-23 |  |
 | [FLASH](https://open.spotify.com/track/5FBjzAdXRTY8MV3f7vXwtE) | [Jam Fuzz Kid](https://open.spotify.com/artist/6GQODml23klZ80TrKLUOfv) | [FLASH](https://open.spotify.com/album/53h95LaMjbvS67NdTqNqOq) | 4:30 | 2023-07-04 | 2023-07-12 |
 | [Flash Light](https://open.spotify.com/track/4ek5ZvWO0MUWA6lLqjZXpR) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [Miori Ichikawa](https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb) | [Flash Light](https://open.spotify.com/album/7tMWwkwoxv6Iu0oQ8qbRN5) | 3:11 | 2023-04-25 | 2023-04-27 |
 | [Flash Light](https://open.spotify.com/track/1502rJ1m8tYycaTk7UMID3) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [Miori Ichikawa](https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb) | [Flash Light](https://open.spotify.com/album/6D2ywV4KDJnnWv3zMcz35m) | 3:11 | 2023-04-26 | 2023-05-03 |

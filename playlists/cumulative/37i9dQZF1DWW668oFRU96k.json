@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Icona Pop",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: D.O.D x Jax Jones",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -304,6 +304,32 @@
       "duration_ms": 137797,
       "name": "Aglow",
       "url": "https://open.spotify.com/track/5ytMbojsX5HtlvDPd5dam7"
+    },
+    {
+      "album": {
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/0vNmfGvW3m5cN8TIDA5XKI"
+      },
+      "artists": [
+        {
+          "name": "Hard Lights",
+          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129723,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/4bfHVv3l0nyvJU12zIDhtm"
     },
     {
       "album": {
@@ -2342,7 +2368,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 221142,
       "name": "dontstopme!",
       "url": "https://open.spotify.com/track/6CNXcjAeOvjTwJeNCEdfWs"
@@ -2456,6 +2482,54 @@
       "duration_ms": 147692,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
+    },
+    {
+      "album": {
+        "name": "Drinkin'",
+        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149545,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+    },
+    {
+      "album": {
+        "name": "Drinking by Myself",
+        "url": "https://open.spotify.com/album/2TeZIev67rGdFTr29yACE4"
+      },
+      "artists": [
+        {
+          "name": "JJD",
+          "url": "https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q"
+        },
+        {
+          "name": "Bluberry",
+          "url": "https://open.spotify.com/artist/5nAibo1H6bmiLo34baH47V"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142947,
+      "name": "Drinking by Myself",
+      "url": "https://open.spotify.com/track/5XdhKJaPX9tg5k6KTJjSxY"
     },
     {
       "album": {
@@ -2876,7 +2950,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 208676,
       "name": "feel something real",
       "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
@@ -3769,6 +3843,32 @@
     },
     {
       "album": {
+        "name": "HARDER (feat. Jackson Wang & Yultron)",
+        "url": "https://open.spotify.com/album/3SYaNfAAaSXCrHX2z3rsr1"
+      },
+      "artists": [
+        {
+          "name": "Amber Liu",
+          "url": "https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198213,
+      "name": "HARDER (feat. Jackson Wang & Yultron)",
+      "url": "https://open.spotify.com/track/42Q1oaujvRiRYRX3QupgBP"
+    },
+    {
+      "album": {
         "name": "Harley & Joker",
         "url": "https://open.spotify.com/album/47fto16ZiVWEy4MdEmgDxw"
       },
@@ -4524,7 +4624,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
@@ -4988,6 +5088,28 @@
       "duration_ms": 188160,
       "name": "Leave Me Like This",
       "url": "https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL"
+    },
+    {
+      "album": {
+        "name": "Leave This Town",
+        "url": "https://open.spotify.com/album/1r9cyizyjmuCxHiyitcf9G"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1ouSkfNp4WgTmwNqCQp3FZ"
+        },
+        {
+          "name": "Amin Salmee",
+          "url": "https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218928,
+      "name": "Leave This Town",
+      "url": "https://open.spotify.com/track/0ILi2NPbTXW01zew9Ba39J"
     },
     {
       "album": {
@@ -5523,6 +5645,28 @@
     },
     {
       "album": {
+        "name": "Mas Tequila",
+        "url": "https://open.spotify.com/album/0smKdQtS9xVCzUYc2igKi8"
+      },
+      "artists": [
+        {
+          "name": "Mafo",
+          "url": "https://open.spotify.com/artist/320pR8mB5EktKcwRSAm3Ms"
+        },
+        {
+          "name": "DENI",
+          "url": "https://open.spotify.com/artist/2A77Wy8CAABhLPgsDFRRs8"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142560,
+      "name": "Mas Tequila",
+      "url": "https://open.spotify.com/track/7AQXztj8nnK2x0jPhBEK5e"
+    },
+    {
+      "album": {
         "name": "Me and My Guitar",
         "url": "https://open.spotify.com/album/2aUjskRm4oj02ZUEymdPww"
       },
@@ -5630,7 +5774,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 195692,
       "name": "MIND YOUR BUSINESS",
       "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
@@ -5738,7 +5882,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 247272,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
@@ -6120,6 +6264,28 @@
       "duration_ms": 174375,
       "name": "My World",
       "url": "https://open.spotify.com/track/0A9lFZPyPmytyYSNcYBnDv"
+    },
+    {
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
     },
     {
       "album": {
@@ -6879,6 +7045,24 @@
     },
     {
       "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180213,
+      "name": "One with the Wolves",
+      "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
+    },
+    {
+      "album": {
         "name": "Only After Dark",
         "url": "https://open.spotify.com/album/1IUYZwz1iEDrX5OL334GeT"
       },
@@ -7081,6 +7265,24 @@
     },
     {
       "album": {
+        "name": "Eva Celia",
+        "url": "https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx"
+      },
+      "artists": [
+        {
+          "name": "Eva Celia",
+          "url": "https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200804,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/4zEXOewY4f3ITJd43MZ76u"
+    },
+    {
+      "album": {
         "name": "Partly Cloudy",
         "url": "https://open.spotify.com/album/2n7CxkctRVMmIQKB9hhDNi"
       },
@@ -7144,10 +7346,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 155076,
       "name": "Phone",
       "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
+    },
+    {
+      "album": {
+        "name": "Picture",
+        "url": "https://open.spotify.com/album/0Vh5Eq6XcrKL9McjUIyyqd"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198484,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/6sa8gVh0m5qFMeqk9liyXD"
     },
     {
       "album": {
@@ -8186,7 +8406,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 135706,
       "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
@@ -8947,6 +9167,28 @@
     },
     {
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/7IbY9AMzf8mVQ3IETBH4AC"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "Now O Later",
+          "url": "https://open.spotify.com/artist/7mXiVh1xuK89jd1QX0JuHS"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149187,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/5Gj9GytUHWNH3yN8r4Jn0r"
+    },
+    {
+      "album": {
         "name": "Tell to the Tail Light",
         "url": "https://open.spotify.com/album/3inV6PWedGoqVUFy9JSG1H"
       },
@@ -8992,6 +9234,32 @@
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh)",
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
+    },
+    {
+      "album": {
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/1sVOjksWKAB963CfPAi36A"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/6eqma9IlfnFFxpZFDooc3z"
     },
     {
       "album": {
@@ -9308,7 +9576,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 143622,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq"
@@ -9356,6 +9624,24 @@
       "duration_ms": 131736,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/1aM1JMFsQeMYT4Wgth8VFo"
+    },
+    {
+      "album": {
+        "name": "Tracid",
+        "url": "https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2"
+      },
+      "artists": [
+        {
+          "name": "Kai Tracid",
+          "url": "https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415037,
+      "name": "Tracid",
+      "url": "https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp"
     },
     {
       "album": {
@@ -9747,6 +10033,32 @@
     },
     {
       "album": {
+        "name": "Waterfall (feat. Justin J. Moore)",
+        "url": "https://open.spotify.com/album/4NzXnaVQQQ3wc4e16b3ChM"
+      },
+      "artists": [
+        {
+          "name": "Vigel",
+          "url": "https://open.spotify.com/artist/72S5xAuE30pC3FHJHaz5CQ"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+        },
+        {
+          "name": "Charlie Ray",
+          "url": "https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176691,
+      "name": "Waterfall (feat. Justin J. Moore)",
+      "url": "https://open.spotify.com/track/1KCAlocTNUke9jqkE2eFlB"
+    },
+    {
+      "album": {
         "name": "We Are All Equal",
         "url": "https://open.spotify.com/album/5PdRSh9BkRFPyGDsy9j3mu"
       },
@@ -10034,7 +10346,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 218040,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"

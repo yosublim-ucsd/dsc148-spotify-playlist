@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 9549,
+  "num_followers": 9568,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTVhY2I1MzBkZWYzOTg3YWQ2OTYxMjYxZTEzODY1NzkxMGUxYjU1",
+  "snapshot_id": "MCxlMmZlMDM1N2Y1ODYwNDZkOWFmZGRhYzZkYTZjMzkwZWMzYWExNjJj",
   "tracks": [
     {
       "added_at": "2023-08-18 03:03:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
+        "name": "Energy Sync",
+        "url": "https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0"
+      },
+      "artists": [
+        {
+          "name": "Terr",
+          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
+        }
+      ],
+      "duration_ms": 397107,
+      "name": "Energy Sync - Club Mix",
+      "url": "https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
         "name": "Rita Lee & Roberto - Classix Remix Vol. III",
         "url": "https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 421463,
       "name": "Caso S\u00e9rio - L_cio & Tessuto Remix",
       "url": "https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
-        "name": "Energy Sync",
-        "url": "https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0"
-      },
-      "artists": [
-        {
-          "name": "Terr",
-          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
-        }
-      ],
-      "duration_ms": 397107,
-      "name": "Energy Sync - Club Mix",
-      "url": "https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
+        "name": "Rock The Box",
+        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+      },
+      "artists": [
+        {
+          "name": "Vermelho",
+          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+        },
+        {
+          "name": "Ivana Wonder",
+          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+        }
+      ],
+      "duration_ms": 382204,
+      "name": "Rock The Box - Original",
+      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
         "name": "Laiarai\u00e1 (Remixes)",
         "url": "https://open.spotify.com/album/737UVySDRItiHv1XQIqygV"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 308000,
       "name": "Laiarai\u00e1 - LOV.ini Remix",
       "url": "https://open.spotify.com/track/7tlQjeD17zGnhKfg9YLwgK"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
-        "name": "Rock The Box",
-        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
-      },
-      "artists": [
-        {
-          "name": "Vermelho",
-          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
-        },
-        {
-          "name": "Ivana Wonder",
-          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
-        }
-      ],
-      "duration_ms": 382204,
-      "name": "Rock The Box - Original",
-      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
-        "name": "Easytiiger__001",
-        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
+        "name": "Quando o Tempo d\u00e1 um Tempo",
+        "url": "https://open.spotify.com/album/394surSicOxNpbQV6tMSDC"
       },
       "artists": [
         {
-          "name": "Mootron",
-          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
+          "name": "Kika Deeke",
+          "url": "https://open.spotify.com/artist/2h4JqVoUA7Td1SqC5fHaAE"
         }
       ],
-      "duration_ms": 386181,
-      "name": "No Rave",
-      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
+      "duration_ms": 308210,
+      "name": "Minguante",
+      "url": "https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0"
     }
   ],
   "unique_name": "Front BR",

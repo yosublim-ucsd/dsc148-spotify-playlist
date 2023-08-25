@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,495 likes - 83 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,533 likes - 83 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 63 | [Let Her Go](https://open.spotify.com/track/5PYR8kczV8VG6H3V6hlu5N) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D), [Bossanova Covers](https://open.spotify.com/artist/11FyPK488W0qoA3jpUj4oq) | [Bossa Nova Covers](https://open.spotify.com/album/4WWtF9vuBBzIcIITcynYNY) | 4:07 |
 | 64 | [Capital Letters \- Bossa Nova](https://open.spotify.com/track/1eNJTz948RfGSC2gIPqhbo) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Capital Letters \(Bossa Nova\)](https://open.spotify.com/album/6QiMiX7Rtxj0HmPXih3ski) | 3:45 |
 | 65 | [Feel It Still](https://open.spotify.com/track/742i8sKnLgkU8QFug7eGQ9) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Feel It Still](https://open.spotify.com/album/6ZTVVvfdenF1hpBfRfP5mp) | 2:30 |
-| 66 | [Mercy](https://open.spotify.com/track/7LEiyxIyeauXaURLRgqzBh) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossanova Dinner](https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf) | 3:23 |
-| 67 | [Happy](https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flora](https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK) | 3:27 |
-| 68 | [Boyfriend \- Bossa Nova](https://open.spotify.com/track/3LzIAzvutNe6RMl3q6ad5F) | [Bossalistix](https://open.spotify.com/artist/6JLsmh5MxY9n0nIhgfiJ6d) | [Boyfriend \(Bossa Nova\)](https://open.spotify.com/album/6kBAw2nCXHTeZxv6Pu1fgP) | 3:01 |
-| 69 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 |
-| 70 | [Pure Shores \- Bossa Nova](https://open.spotify.com/track/0ezFSlUTyj7SWQbZxUZXw9) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Pure Shores \(Bossa Nova\)](https://open.spotify.com/album/6Ey8qALZTyx9unCo71yEXu) | 3:19 |
+| 66 | [Happy](https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flora](https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK) | 3:27 |
+| 67 | [Boyfriend \- Bossa Nova](https://open.spotify.com/track/3LzIAzvutNe6RMl3q6ad5F) | [Bossalistix](https://open.spotify.com/artist/6JLsmh5MxY9n0nIhgfiJ6d) | [Boyfriend \(Bossa Nova\)](https://open.spotify.com/album/6kBAw2nCXHTeZxv6Pu1fgP) | 3:01 |
+| 68 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 |
+| 69 | [Pure Shores \- Bossa Nova](https://open.spotify.com/track/0ezFSlUTyj7SWQbZxUZXw9) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Pure Shores \(Bossa Nova\)](https://open.spotify.com/album/6Ey8qALZTyx9unCo71yEXu) | 3:19 |
+| 70 | [Mercy](https://open.spotify.com/track/7LEiyxIyeauXaURLRgqzBh) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossanova Dinner](https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf) | 3:23 |
 | 71 | [Slide \- Bossanova](https://open.spotify.com/track/08BnZm0xqnkkEEmKrmYwWk) | [Ensolarada](https://open.spotify.com/artist/6XMzyCi31KFN2dlSsd25D7) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 2:53 |
 | 72 | [The Look of Love](https://open.spotify.com/track/4QFWdoVXNASnP4bVOA3K5j) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [The Look of Love](https://open.spotify.com/album/30vVCXct2rsJHLGVVUW9pT) | 2:21 |
 | 73 | [I'm Not In Love](https://open.spotify.com/track/6B9hL79uAga4MbKPHlTEJ6) | [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V), [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81) | [I'm Not In Love](https://open.spotify.com/album/7zQrgdNXkKwGUV0d1XjVkF) | 2:43 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 82 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 |
 | 83 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 |
 
-Snapshot ID: `MCw1MWZmNWU5ZmJhYzFjODc0NDQ5ZWYxZmUyMzJiMjMwOTEzMzRjODQz`
+Snapshot ID: `MCxkYzAxNTBmNjVkNDlkYTE5N2JkN2QxNjg2Y2U3NjY0MjhhMzEzYjdl`

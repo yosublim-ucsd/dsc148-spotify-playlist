@@ -49,6 +49,32 @@
     },
     {
       "album": {
+        "name": "Mkabayi",
+        "url": "https://open.spotify.com/album/0U8KEPzwdRROQUwsUigcOW"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        },
+        {
+          "name": "Airic",
+          "url": "https://open.spotify.com/artist/0S2ETsPPHUZzY2dR742NuO"
+        },
+        {
+          "name": "Luve Dubazane",
+          "url": "https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260017,
+      "name": "Akasangifuni",
+      "url": "https://open.spotify.com/track/3gFgWXXr5TO2WI2ykUeSxi"
+    },
+    {
+      "album": {
         "name": "Alusafani",
         "url": "https://open.spotify.com/album/4u56tBvuMwxuyvgE4VsnXn"
       },
@@ -812,6 +838,24 @@
       "duration_ms": 222515,
       "name": "Hlala Nam",
       "url": "https://open.spotify.com/track/0nPqPgBHcvVCmajDTxwsNr"
+    },
+    {
+      "album": {
+        "name": "I'm Happy",
+        "url": "https://open.spotify.com/album/0DpvdwG7l5D2TbDyibQzG6"
+      },
+      "artists": [
+        {
+          "name": "Shabalala Rhythm",
+          "url": "https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "I'm Happy",
+      "url": "https://open.spotify.com/track/5wuZ7biZx3qqGnO1YBvjiG"
     },
     {
       "album": {
@@ -2397,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "SONGENA NGODLAME",
+        "url": "https://open.spotify.com/album/7muraJoOyMyTgv3xHGQ4dx"
+      },
+      "artists": [
+        {
+          "name": "Isitha sama ex",
+          "url": "https://open.spotify.com/artist/2GOfe0DJ3DguIIisSvb7R0"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264724,
+      "name": "SONGENA NGODLAME",
+      "url": "https://open.spotify.com/track/15Bz72dEexfEuWTF5sZJjv"
+    },
+    {
+      "album": {
         "name": "Zingishiyil' Eziy'emhlangeni",
         "url": "https://open.spotify.com/album/4cwb1hs6tqaGnzySIFtw6I"
       },
@@ -2514,6 +2576,24 @@
       "duration_ms": 306247,
       "name": "Ubhuti Wabantu",
       "url": "https://open.spotify.com/track/30hNrNo7QjfXkwKT3AvNPU"
+    },
+    {
+      "album": {
+        "name": "Sizohlabelela",
+        "url": "https://open.spotify.com/album/2X6RQrGxetaRNPOdx1TgGo"
+      },
+      "artists": [
+        {
+          "name": "Madlala",
+          "url": "https://open.spotify.com/artist/0e7YfyK9v0fTHo43iJV8Oj"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234736,
+      "name": "uHerodi",
+      "url": "https://open.spotify.com/track/2OaiWMFJMnUSFLpdsYWgup"
     },
     {
       "album": {
@@ -2666,7 +2746,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 232500,
       "name": "Umcebo",
       "url": "https://open.spotify.com/track/4wPKQWzPiKBBf1AUmAQbA2"
@@ -2782,7 +2862,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 253246,
       "name": "Uthando Lunye",
       "url": "https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo"

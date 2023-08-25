@@ -2,7 +2,7 @@
 
 ### [This Is LE SSERAFIM](https://open.spotify.com/playlist/37i9dQZF1DX7pEH2GWGnSP)
 
-> Hear all of LE SSERAFIM's biggest and best hits in one playlist.
+> Hear all of LE SSERAFIM's biggest and best hits in one playlist..\. DODODOK!
 
 26 songs - 1 hr 16 min
 

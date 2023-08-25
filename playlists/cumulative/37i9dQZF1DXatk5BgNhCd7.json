@@ -9541,6 +9541,24 @@
     },
     {
       "album": {
+        "name": "Fiesta! Si Me Emborracho (Bachata Version)",
+        "url": "https://open.spotify.com/album/6VKtRsBXDnEP1ieZG8LqIz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Extra",
+          "url": "https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "Fiesta! Si Me Emborracho - Bachata Version",
+      "url": "https://open.spotify.com/track/4KZGfDuEXCO824srXcI6VM"
+    },
+    {
+      "album": {
         "name": "Fin de Semana Sin Ti",
         "url": "https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE"
       },
@@ -21998,24 +22016,6 @@
       "duration_ms": 159285,
       "name": "Si Me Duele Que Duela",
       "url": "https://open.spotify.com/track/5iDW3YN3foLkUzdK9mAAvk"
-    },
-    {
-      "album": {
-        "name": "Si Me Emborracho (Bachata Version)",
-        "url": "https://open.spotify.com/album/6VKtRsBXDnEP1ieZG8LqIz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Extra",
-          "url": "https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS"
-        }
-      ],
-      "date_added": "2023-08-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189375,
-      "name": "Si Me Emborracho - Bachata Version",
-      "url": "https://open.spotify.com/track/4KZGfDuEXCO824srXcI6VM"
     },
     {
       "album": {

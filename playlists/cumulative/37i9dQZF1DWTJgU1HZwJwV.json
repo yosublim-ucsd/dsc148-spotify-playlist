@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 161287,
       "name": "E perto do anoitecer",
       "url": "https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 161678,
       "name": "El Sue\u00f1o De La Mu\u00f1eca",
       "url": "https://open.spotify.com/track/4DLfSsfLAwl5mrqTg745qT"
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 144054,
       "name": "Gone to seed",
       "url": "https://open.spotify.com/track/0b4pX3JMLnJi1QY3W42zjN"
@@ -4390,7 +4390,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 136640,
       "name": "Notturno No. 3",
       "url": "https://open.spotify.com/track/7LUEs2TTMSiQiZAEYhOI63"
@@ -4754,7 +4754,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 127714,
       "name": "Plain Sight",
       "url": "https://open.spotify.com/track/77zMvw3GWNF8F8xaPW3lSX"
@@ -4862,7 +4862,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 136678,
       "name": "Prelude No. 22",
       "url": "https://open.spotify.com/track/5GQMvgcBHqQmiz3ZsU2apw"
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 213230,
       "name": "Put Some Coins In My Guitar Case",
       "url": "https://open.spotify.com/track/1VKSVewoEeEZSWGMmIHqJp"
@@ -5662,6 +5662,24 @@
       "duration_ms": 108029,
       "name": "Sommersby",
       "url": "https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR"
+    },
+    {
+      "album": {
+        "name": "Sonora Sunshine",
+        "url": "https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT"
+      },
+      "artists": [
+        {
+          "name": "Cary Bestwood",
+          "url": "https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111533,
+      "name": "Sonora Sunshine",
+      "url": "https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN"
     },
     {
       "album": {
@@ -6814,7 +6832,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 187000,
       "name": "Wallowa Lake",
       "url": "https://open.spotify.com/track/0viEXnrcsXF3nNj3HjROEG"

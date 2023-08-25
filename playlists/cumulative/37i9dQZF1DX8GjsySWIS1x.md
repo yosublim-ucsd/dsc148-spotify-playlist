@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-787 songs - 1 day 19 hr 38 min
+789 songs - 1 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Main Title Theme – Westworld](https://open.spotify.com/track/0zgJoIQOgK3aP6bS2yOAeD) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Selections from the HBO® Series\)](https://open.spotify.com/album/5UaeboVyWPWEdFB1TUEIc0) | 1:42 | 2019-09-29\* | 2021-03-14 |
 | [Main Title/Rebel Blockade Runner \- Medley](https://open.spotify.com/track/4aKAbknumzZGQq12xtJGC0) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars Episode IV: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/27UjNLbWBXc32wCZtuXMg5) | 2:14 | 2019-09-29\* | 2021-03-14 |
 | [Major Crimes](https://open.spotify.com/track/3nh5RSXnRSHWuQbOJvQr0g) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Window Weather](https://open.spotify.com/artist/78K1EiQnILFdD1o2vQdy3O) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 3:33 | 2021-03-14 | 2021-10-16 |
+| [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-08-24 |  |
 | [Mamba Mentality](https://open.spotify.com/track/7IcMlUAYurQwIOnZ9Mc7wO) | [Jevon Alexander](https://open.spotify.com/artist/72a1TYIB7JiWunZDYVy2bJ) | [Mamba Mentality](https://open.spotify.com/album/0wxoB9xAHN7cxlp3GB5uyI) | 3:00 | 2021-03-26 | 2021-04-15 |
 | [Married to the Bag](https://open.spotify.com/track/3FPMiCJXJjZxrRoB6WDFek) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Married to the Bag](https://open.spotify.com/album/797tRmfff6OHtJcDhzxqAk) | 2:23 | 2022-08-26 | 2023-06-17 |
 | [Mars](https://open.spotify.com/track/44CgM5My2vfkSv1KAQuEfk) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [The Martian: Original Motion Picture Score](https://open.spotify.com/album/17o7ljUmsa9MusgN2BjXwV) | 2:25 | 2019-09-29\* | 2021-03-14 |
@@ -762,6 +763,7 @@
 | [Waterfalls](https://open.spotify.com/track/7lliY6GonfFNnGuJqaKAPU) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [Less Gravity](https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe) | [Waterfalls](https://open.spotify.com/album/05e4qbxuuyM9Jbqb2YuP5y) | 1:55 | 2021-05-25 | 2022-02-12 |
 | [Wave](https://open.spotify.com/track/6tjN8gGLonTXsfg9tVSNOQ) | [Avidince](https://open.spotify.com/artist/1HHsUL5bRJ8fRAmr0EnZPC) | [Wave](https://open.spotify.com/album/65NR04DE4FDxprpRMFy83n) | 3:31 | 2021-03-26 | 2021-04-12 |
 | [We Are the Division](https://open.spotify.com/track/4shsCsVxXiTryOQFiSmkMR) | [Ola Strandh](https://open.spotify.com/artist/02YBuMdu6EUu4UuktqpqQX) | [Tom Clancy's The Division \(Original Game Soundtrack\)](https://open.spotify.com/album/5cIdK8l3v0B1jdtWlsvwS2) | 3:44 | 2019-09-29\* | 2021-03-11 |
+| [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 | 2023-08-24 |  |
 | [We Got U](https://open.spotify.com/track/1DOC9RFiw5zDRBm1w5IM6s) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [We Got U](https://open.spotify.com/album/6kpncs4uaaZCcOJUyJv9XQ) | 3:30 | 2021-05-25 | 2021-12-11 |
 | [Welcome To Los Santos](https://open.spotify.com/track/5ZZuiMFxl85qakgTZQapsc) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly) | 2:34 | 2021-03-14 | 2021-03-26 |
 | [Well Rested](https://open.spotify.com/track/2as0SjHe6BVgirrR7GMqzY) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation II](https://open.spotify.com/album/1IcnToegRv641JAVAR8IqS) | 7:10 | 2021-10-14 | 2021-10-22 |

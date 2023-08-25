@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Jessie Reyez & Miguel, Charlie Puth, Reneé Rapp and New West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,583 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,602 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Dirty Nights](https://open.spotify.com/track/0N2AfkjyJJj5mwoTPalU9h) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Dirty Nights](https://open.spotify.com/album/10SEyQdy8aBLJ2ZowCR4HS) | 2:51 |
 | 100 | [XTRDNR \(feat\. Boogát\)](https://open.spotify.com/track/1DdVrLHVEMKQdyQC1bGgOs) | [DJ Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [The Deadleez](https://open.spotify.com/album/4DsL01rmcJStmt2QewNrnl) | 2:41 |
 
-Snapshot ID: `MCwyYTdiYWVkODQ3NWNlNzM3ODcxMjgwMmVjOTRkNmU2MTJiZmE0Njkz`
+Snapshot ID: `MCxkNTQ5Mzc5YmQ3NzgyM2E4NmFjZTljYjNiMWNkYmViODE3MDkyMjkz`

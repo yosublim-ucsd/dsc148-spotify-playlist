@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Louis Albi",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Eddy de Pretto",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 190239,
       "name": "Hold Up (\u00e0 l'eau de rose)",
       "url": "https://open.spotify.com/track/6a0Ad99CVzcR9FS9XJr9VP"
@@ -346,6 +346,24 @@
       "duration_ms": 200906,
       "name": "Les insectes",
       "url": "https://open.spotify.com/track/17nHtKXQRXjyXb7YpFf9gB"
+    },
+    {
+      "album": {
+        "name": "Ma vie",
+        "url": "https://open.spotify.com/album/15yY2T81Oau56KQ5G7ePxC"
+      },
+      "artists": [
+        {
+          "name": "Madeleine",
+          "url": "https://open.spotify.com/artist/0IESREgJ9Ea8rMsXfmR2S8"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Ma vie",
+      "url": "https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31"
     },
     {
       "album": {
@@ -519,6 +537,24 @@
     },
     {
       "album": {
+        "name": "R+V",
+        "url": "https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89146,
+      "name": "R+V",
+      "url": "https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT"
+    },
+    {
+      "album": {
         "name": "Respire",
         "url": "https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW"
       },
@@ -566,7 +602,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 169925,
       "name": "Risques",
       "url": "https://open.spotify.com/track/5t3GDOOy9hhIPc5oTh5P6Z"

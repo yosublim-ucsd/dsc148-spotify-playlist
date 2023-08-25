@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Maulana Ardiansyah
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: ENVY\*
 
-163 songs - 10 hr 22 min
+164 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [BOY OF THE YEAR](https://open.spotify.com/track/6jRjPgWMFdYROlNXU5xUZQ) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [BOY OF THE YEAR](https://open.spotify.com/album/1PQd3NJjYgsG2pE88bwTwp) | 3:32 | 2022-07-28 | 2023-04-14 |
 | [Bye](https://open.spotify.com/track/5GoL66KMxK545exM1BR43t) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Bye](https://open.spotify.com/album/6qAjIPCAssJUpYidyXoIXp) | 3:46 | 2023-06-16 |  |
 | [cactus](https://open.spotify.com/track/7KMVvz2pgecZrUDkRJiFqY) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:52 | 2022-09-29 | 2023-04-14 |
+| [CAN’T TAKE ME OFF](https://open.spotify.com/track/3PnXpGJbl9Mvr9SQHEg1AO) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [CAN’T TAKE ME OFF](https://open.spotify.com/album/5sgeTuVkXDbyzTjl0fle53) | 4:05 | 2023-08-24 |  |
 | [Cara Mencintaimu](https://open.spotify.com/track/4MrfQarlWb9JspRGRVki2x) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Cara Mencintaimu](https://open.spotify.com/album/5wmdiXrcZzB9frQXrzpuAF) | 4:32 | 2023-04-13 |  |
 | [CHING](https://open.spotify.com/track/2SBD7hDiuVIRvngQ5tHCBa) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [CHING](https://open.spotify.com/album/6eFxr6XC0Aqn9phSP9E4BO) | 2:35 | 2021-11-25 | 2022-03-25 |
 | [Cinta](https://open.spotify.com/track/3mvISqUBTqdxV0EYVCxpii) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Cinta](https://open.spotify.com/album/2YxMCx1GU7Mrhp4e3qaQgc) | 2:54 | 2023-04-13 |  |

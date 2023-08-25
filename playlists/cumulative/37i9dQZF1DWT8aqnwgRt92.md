@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-860 songs - 2 day 6 hr 12 min
+861 songs - 2 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,9 +219,10 @@
 | [Irony \- From CrosSing](https://open.spotify.com/track/61zeExliFdY7LIiAYAFKW7) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Irony \- From CrosSing](https://open.spotify.com/album/1RkwCpcgPJkwaXFIeGRxt4) | 4:19 | 2022-10-25 | 2022-11-23 |
 | [irony \- from CrosSing](https://open.spotify.com/track/20luTPJsOleiRaFlAOogRE) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [irony \- from CrosSing](https://open.spotify.com/album/7o1ijK5UmH6NhdgClRsDOj) | 4:19 | 2022-10-25 | 2022-10-27 |
 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-15 | 2023-05-10 |
-| [It's My Soul](https://open.spotify.com/track/6DBJ85yCuh5oP6RIGbogaR) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [It's My Soul](https://open.spotify.com/album/5Jc3k5zbt7RDBYLneXlF6N) | 3:47 | 2023-07-11 |  |
+| [It's My Soul](https://open.spotify.com/track/6DBJ85yCuh5oP6RIGbogaR) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [It's My Soul](https://open.spotify.com/album/5Jc3k5zbt7RDBYLneXlF6N) | 3:47 | 2023-07-11 | 2023-08-25 |
 | [Itsu Aetara](https://open.spotify.com/track/7C2Tc4aJRphK6qUSWbnLyg) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Itsu Aetara](https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI) | 4:05 | 2023-04-11 | 2023-06-30 |
 | [ivory](https://open.spotify.com/track/566gHnAOFGLzHZRIctmODd) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ivory](https://open.spotify.com/album/7tYtj8EZfUDZO9EscKsuhp) | 3:30 | 2022-10-18 | 2022-10-20 |
+| [I’ll Be There](https://open.spotify.com/track/10woBXtt6mnTQPv8BDebtz) | [LINKL PLANET](https://open.spotify.com/artist/6sCkG9HLpaMHNATMZhHseS) | [I’ll Be There](https://open.spotify.com/album/0cmaPrUZmvXC9VoARtNIB5) | 3:57 | 2023-08-24 |  |
 | [I’m a Voice Actor \- Big Band version③](https://open.spotify.com/track/23iZwGBqHlO9ybMb4VD4jD) | [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [HATANO WATARU THE BEST](https://open.spotify.com/album/4lXNjJoVfpNhIjG2TDRK0W) | 4:42 | 2023-03-14 | 2023-04-09 |
 | [Judgement](https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Judgement](https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf) | 3:46 | 2023-01-17 | 2023-04-12 |
 | [Just a little bit](https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/7rBC4zRreOc5U16g48oOnh) | 3:47 | 2023-04-11 | 2023-06-01 |

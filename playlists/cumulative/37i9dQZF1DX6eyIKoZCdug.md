@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-118 songs - 11 hr 25 min
+119 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Better Days](https://open.spotify.com/track/2qQHhFuxRb3FL3wDfsi35O) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Better Days](https://open.spotify.com/album/0Lh1cfF3HY82AHQtJCJxMj) | 6:12 | 2021-10-21 | 2022-06-04 |
 | [Break Through](https://open.spotify.com/track/19mFJSm6EbG0CqP5WbYIBT) | [UNLIMITED SOUL](https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Break Through](https://open.spotify.com/album/746kHitSjl4A6lKrTvN1lu) | 6:52 | 2022-01-27 |  |
 | [Breakfast In Soweto](https://open.spotify.com/track/3aYv0tyHlIYUwCq2SwZDlT) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq), [Mandlin Beams](https://open.spotify.com/artist/7nR1JD6ljztZrEuxTNijpk) | [Breakfast In Soweto](https://open.spotify.com/album/3NfgQFaqUzxBCrvUME1iu7) | 7:14 | 2022-03-24 |  |
+| [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 | 2023-08-24 |  |
 | [Closer](https://open.spotify.com/track/7G4v7DqAAJTOu8PBtE1qsS) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Closer / Ma Vie Celeste](https://open.spotify.com/album/3mRuix6vGc5tDkZCao3LiJ) | 6:32 | 2021-10-14 | 2023-02-10 |
 | [Crazy Vibez](https://open.spotify.com/track/2nwXM9eHzj8eQBsuK9osbL) | [Luxury SA](https://open.spotify.com/artist/1KuiSB2g4gYQoyjmUy4cea) | [Crazy Vibez](https://open.spotify.com/album/5x20kr3HFbo8n8OT4LULjI) | 5:59 | 2023-02-09 |  |
 | [Dig Dig](https://open.spotify.com/track/2adtZMj7MVTG9AcV4Z0hxS) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Lagos to Jozi](https://open.spotify.com/album/2JfBHMbRioFcrq5ie7Rdwd) | 4:48 | 2021-11-11 | 2022-10-15 |

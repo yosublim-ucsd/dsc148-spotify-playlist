@@ -2,7 +2,7 @@
 
 ### [Música Mexicana Rising](https://open.spotify.com/playlist/37i9dQZF1DX10A9MXc7csF)
 
-> The new school of Música Mexicana\. Cover: Diferente Nivel
+> The new school of Música Mexicana\. Cover: Xavi
 
 474 songs - 1 day 0 hr 43 min
 

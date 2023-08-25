@@ -4,7 +4,7 @@
 
 > Awaken and connect through meditation with Theta frequencies.
 
-69 songs - 3 hr 44 min
+70 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Nearby \(Theta 120 Hz \- 126 Hz\)](https://open.spotify.com/track/3E887SSbVNvWwBVhHg5RvU) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Nearby & Lotus \(Theta Binaural\)](https://open.spotify.com/album/0wKyJxlJjCjQ4wmcD8fBNu) | 3:33 | 2023-03-16 |  |
 | [Neptunium Theta 4 Hz](https://open.spotify.com/track/1wxhO6Vf7NtlSHbl2ykH5z) | [Theta Time](https://open.spotify.com/artist/036o8KM9eLv1TI1xoclIXw) | [Neptunium Theta 4 Hz](https://open.spotify.com/album/5jUBUOqZODoiFcjdpjHFON) | 3:14 | 2023-03-16 |  |
 | [New Start \(Binaural Theta\)](https://open.spotify.com/track/2EekegJ4qOGkwpO4ENePIb) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [New Start \(Binaural Theta\)](https://open.spotify.com/album/7JmgbPfah3X5GIqwNbZlSX) | 3:05 | 2023-05-05 |  |
+| [Pasithea \(Binaural Theta\)](https://open.spotify.com/track/72WhvgusoYiMEjQ4JYkXhV) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Pasithea \(Binaural Theta\)](https://open.spotify.com/album/6kZRgUFymMFaXzbSHvrvNu) | 3:10 | 2023-08-24 |  |
 | [Purple Night \(Theta Binaural\)](https://open.spotify.com/track/4jMT24JGe191KtWPERax3D) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Theta for Sleep](https://open.spotify.com/album/7rpR7N25fNVUyqFZT32xAh) | 3:24 | 2023-03-16 |  |
 | [Relieving Stress \(Binaural Theta\)](https://open.spotify.com/track/1zJrYUIt1IIL6xz6lXjZgL) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Recenter Your Mind](https://open.spotify.com/album/2XAbBsUESUVWkQKY5zYGGM) | 3:28 | 2023-03-16 |  |
 | [Skies REM \(Theta version\)](https://open.spotify.com/track/0Eh77Tpr1WLlOEeLnCX0nj) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:41 | 2023-03-16 |  |

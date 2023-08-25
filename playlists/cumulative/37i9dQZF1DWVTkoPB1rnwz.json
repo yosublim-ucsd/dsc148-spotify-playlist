@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "blue moon",
+        "url": "https://open.spotify.com/album/439132aTNPy2bbctlYh3yN"
+      },
+      "artists": [
+        {
+          "name": "Delayde",
+          "url": "https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86292,
+      "name": "conversations with grandma",
+      "url": "https://open.spotify.com/track/5Hfp1A85EAcD3fqHmAPbpN"
+    },
+    {
+      "album": {
         "name": "Cotorra Serrana Occidental",
         "url": "https://open.spotify.com/album/6sNIjO6X2ZASJHE2SezX4l"
       },
@@ -4118,7 +4136,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 120058,
       "name": "Rainy Forest",
       "url": "https://open.spotify.com/track/0drWXcxlj3FlaxkFLFkASV"

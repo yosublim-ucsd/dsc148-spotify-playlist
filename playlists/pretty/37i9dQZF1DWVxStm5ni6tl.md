@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: MINOE, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 545 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 558 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 19 | [Easy Way Out](https://open.spotify.com/track/078iC5tJGrdjG99iJKgD4x) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Easy Way Out](https://open.spotify.com/album/29qTDZsuKLmh4CKum9IxGs) | 2:39 |
 | 20 | [Wake Up](https://open.spotify.com/track/5AC9M9QduXEjfDxdBP5DlC) | [Lucas Valeti](https://open.spotify.com/artist/6wV5n4EPrIQjvd5omUVIA0) | [Wake Up](https://open.spotify.com/album/2RGOTctmX2Te50dZpTxqa8) | 2:29 |
 | 21 | [Long Road Ahead](https://open.spotify.com/track/5QRnF1susEGh48AC4WzWvb) | [Maybel](https://open.spotify.com/artist/4vyc9XRUivKWefuHRepSQh) | [Long Road Ahead](https://open.spotify.com/album/1VT4RlcKgtGuOjx3DWVGyT) | 4:15 |
-| 22 | [Michaela Cahill \- Darlin'](https://open.spotify.com/track/3I3xdmnczabkVKgVcXXeTJ) | [Michaela Cahill](https://open.spotify.com/artist/1JPcMRkHD4ffcFmiHwV8k7) | [Darlin'](https://open.spotify.com/album/1v0dkSYLAImcmdDld2TwVm) | 2:49 |
+| 22 | [Darlin'](https://open.spotify.com/track/3I3xdmnczabkVKgVcXXeTJ) | [Michaela Cahill](https://open.spotify.com/artist/1JPcMRkHD4ffcFmiHwV8k7) | [Darlin'](https://open.spotify.com/album/1v0dkSYLAImcmdDld2TwVm) | 2:49 |
 | 23 | [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 |
 | 24 | [Welcome Home](https://open.spotify.com/track/7jzVOlbpf6nvCfBjeSTrGs) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Welcome Home](https://open.spotify.com/album/158YxdCcdybuPJxsnFNg3d) | 2:58 |
 | 25 | [What This Life About](https://open.spotify.com/track/1Q07CWQfRAiBoJ512W8Dr5) | [Klee Magor](https://open.spotify.com/artist/3J3m74kmSGT3MeJR4Lryse), [AnP](https://open.spotify.com/artist/7rKlPRhX7qBzRwVJJex7LS), [King Peru](https://open.spotify.com/artist/2csVVzB0TlrhisJetgd5y0) | [What This Life About](https://open.spotify.com/album/1v0WZiCciL856kXB3yYNN7) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Marionettes](https://open.spotify.com/track/0kcUGNxAsq95ON6Pp6nafS) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [No Label No Budget \(Season 5\)](https://open.spotify.com/album/3QvpYOLSIUHL3IbGmYmkB6) | 2:03 |
 | 80 | [Nightmares of my Summer Days](https://open.spotify.com/track/4w6BDvSuQQmHEYe8ANuycd) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH) | [Nightmares of my Summer Days](https://open.spotify.com/album/0pW0OxH3BTl0C9NSigoeVN) | 2:41 |
 
-Snapshot ID: `MCw0YTc4OTM2NTg0YzU2ZjFhZTc3M2E5MTVhMjMzZmY4MTIyMjI5NDdm`
+Snapshot ID: `MCxhM2M5Y2U1YTYwNmIwNDdlZGNjZTE0YWY1M2EzMTNlZTA0ZjAwYjZm`

@@ -2,7 +2,7 @@
 
 ### [This Is Jung Kook](https://open.spotify.com/playlist/37i9dQZF1DXdVUsw2RlcPf)
 
-> This Is Jung Kook\. The essential tracks, all in one playlist.
+> Are you ready to listen JK's songs for 7 DAYS?
 
 34 songs - 1 hr 28 min
 

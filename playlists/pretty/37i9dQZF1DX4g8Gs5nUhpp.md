@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Wren Evans
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,225 likes - 57 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,323 likes - 57 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 43 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 |
 | 44 | [Không Thể Say](https://open.spotify.com/track/4W2poMwGzKQHtpNCthoGhC) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [Không Thể Say](https://open.spotify.com/album/6hRCNOEDljXmus24tlnzRx) | 3:48 |
 | 45 | [Ngã Tư Không Đèn](https://open.spotify.com/track/73fFRs03s0gtjggfMW213L) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b), [Khoa Vũ](https://open.spotify.com/artist/4OqYnPUq6VwNMacIwwbWGw) | [Chỉ Có Thể Là Anh](https://open.spotify.com/album/1Ln8SYXthP1VIVaQPDmZH9) | 3:38 |
-| 46 | [Như Anh Đã Thấy Em](https://open.spotify.com/track/7h2zqUH4bYyknNUxsYnS5V) | [PhucXP](https://open.spotify.com/artist/6fCJf6pkYTHfW1XPc1d4vO), [Freak D](https://open.spotify.com/artist/1yNjtowTJs05S2Xp2g7stg) | [Như Anh Đã Thấy Em](https://open.spotify.com/album/2FwiyoWhDcZlR7Cr6PMHLF) | 5:02 |
+| 46 | [Như Anh Đã Thấy Em](https://open.spotify.com/track/7h2zqUH4bYyknNUxsYnS5V) | [PhucXp](https://open.spotify.com/artist/6fCJf6pkYTHfW1XPc1d4vO), [Freak D](https://open.spotify.com/artist/1yNjtowTJs05S2Xp2g7stg) | [Như Anh Đã Thấy Em](https://open.spotify.com/album/2FwiyoWhDcZlR7Cr6PMHLF) | 5:02 |
 | 47 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
 | 48 | [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 |
 | 49 | [từ thích thích thành thương thương](https://open.spotify.com/track/1fh5Sf3fFESFOS8D82RQiI) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [dreAMEE \(acoustic\)](https://open.spotify.com/album/7Aifj5a3xjW2k9E3sEREtV) | 3:24 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 56 | [Mưa Tháng Sáu](https://open.spotify.com/track/23SUnSd024ACX7u1AUXsGc) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Mưa Tháng Sáu](https://open.spotify.com/album/4yBg6jOe3H4YWlqwLOj3Jp) | 4:17 |
 | 57 | [Bật Tình Yêu Lên](https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ), [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8) | [Bật Tình Yêu Lên](https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB) | 3:23 |
 
-Snapshot ID: `MCw3YmE3MDg4OGVmYmJlMTE5NTlkMWM1NGNlZTMwYzlkNzQyM2RiZDY5`
+Snapshot ID: `MCw5NDJjNGI1NDlhNzBjYTcwNTZiNDM2ZWVhZmY3MWRkZjM3ZDc4ODNh`

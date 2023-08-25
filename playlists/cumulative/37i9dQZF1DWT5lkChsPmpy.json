@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 185739,
       "name": "Flic-en-Flac",
       "url": "https://open.spotify.com/track/4xDeeLhlfZkp0fvEDirlvl"
@@ -4224,6 +4224,24 @@
       "duration_ms": 100975,
       "name": "love triangles",
       "url": "https://open.spotify.com/track/0WJj3kLVjvHCB5Pf2bkgXE"
+    },
+    {
+      "album": {
+        "name": "loving",
+        "url": "https://open.spotify.com/album/7bRrqZ9yNKXnd0uKhzlx9G"
+      },
+      "artists": [
+        {
+          "name": "Midnight Moon",
+          "url": "https://open.spotify.com/artist/2rAbGV9R426clLWzjOQhIB"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "loving",
+      "url": "https://open.spotify.com/track/6KlU7wdqB6FuYzdr2nG8tl"
     },
     {
       "album": {

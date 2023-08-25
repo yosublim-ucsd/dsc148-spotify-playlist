@@ -2,21 +2,21 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: GEMINI\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: 알레프\)
 
-317 songs - 17 hr 43 min
+318 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24hour \(feat\. Ja Mezz\)](https://open.spotify.com/track/2V6XaeK3xFzkLvxcuRc5Dh) | [ALT](https://open.spotify.com/artist/2zOevuLrvNQ7BLD5hXUqrb), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [월요일에 만든 앨범](https://open.spotify.com/album/4f6F0WhyVESbxoNYpDTgJ2) | 2:33 | 2022-06-13 | 2022-07-04 |
 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 | 2022-05-27 |  |
 | [3M](https://open.spotify.com/track/3aGC8ZMyeY67mY58teyDhx) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/469dXmC2yUOjk5UsyYHLX0) | 2:42 | 2022-05-27 | 2022-07-28 |
-| [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 | 2022-07-08 |  |
+| [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 | 2022-07-08 | 2023-08-25 |
 | [777MOON \(Feat\. D\-Hack\)](https://open.spotify.com/track/0kW6m2qeol7QYoH9psIukp) | [DJ MIU](https://open.spotify.com/artist/1LLEkxsHQUep2jjDmRBDyJ), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [777MOON](https://open.spotify.com/album/31S0LHcMowyOLeZcHqAcDF) | 2:58 | 2023-05-02 | 2023-06-09 |
 | [?](https://open.spotify.com/track/6kfwGHY3NnomOV3H9V4Fod) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [?!](https://open.spotify.com/album/1uhyHd8foilSr6qLYjzEwc) | 2:24 | 2022-05-27 | 2022-07-28 |
 | [ahhhh!](https://open.spotify.com/track/0geKjVzgIl2u3uYuDK2aAL) | [Noogi](https://open.spotify.com/artist/0qTiUGFdEu8yRwmwHvMizq) | [ahhhh!](https://open.spotify.com/album/2B27lXYV4HidrCn3kGkaqO) | 2:52 | 2022-05-27 | 2022-07-26 |
 | [ALL RIGHT \- Remix](https://open.spotify.com/track/0njAAvNO3XYddlosJSZEgx) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [No Identity](https://open.spotify.com/artist/2aiZMGWnX1W2QvWdr7Euco), [FRNK](https://open.spotify.com/artist/7a7NQmIrfbLVAaukUgtepx) | [ALL RIGHT \(Remix\)](https://open.spotify.com/album/5VcmHlJiK0H7MDw1dnHbPg) | 2:29 | 2022-05-27 | 2022-07-17 |
-| [always get lonely](https://open.spotify.com/track/3n7yfICjsQoCV66J403qms) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:26 | 2023-04-22 |  |
+| [always get lonely](https://open.spotify.com/track/3n7yfICjsQoCV66J403qms) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:26 | 2023-04-22 | 2023-08-25 |
 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 | 2022-05-27 |  |
 | [And It's Over](https://open.spotify.com/track/1rnsLPSOHmNegyegIxoUgK) | [SURYEON](https://open.spotify.com/artist/5jyPaTMuPzds0MAd8WtxAd) | [IMPERFECT](https://open.spotify.com/album/3MuXy7w4uc8qGUWkxtDRXw) | 2:52 | 2022-06-18 | 2022-07-29 |
 | [aromatherapy \(feat\. Telefonist\)](https://open.spotify.com/track/6Z7EQCTRd1xvYNQA4e8cXu) | [hyangni](https://open.spotify.com/artist/3cJZkGtAEEajyDOnbYe42O), [Telefonist](https://open.spotify.com/artist/3ICg4qSKMB3EuuEjiyuVIw) | [aromatherapy \(feat\. Telefonist\)](https://open.spotify.com/album/1a91fUH02ghx9W49pD7Kfx) | 3:19 | 2022-05-27 | 2022-07-27 |
@@ -234,7 +234,7 @@
 | [Run](https://open.spotify.com/track/2UhrSRZm7vWaW7vuCn774a) | [Ohelen&Choisol 오헬렌&최솔](https://open.spotify.com/artist/0iYMqodMaL5BWNL1wARuiq) | [Run](https://open.spotify.com/album/0ZPx46vKkeFtJjUsxMeIGe) | 3:41 | 2022-05-27 | 2022-07-24 |
 | [Run](https://open.spotify.com/track/7zPRN16rgONinstnUSgVon) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [My Dangerous Wife Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yEXeCAWeDlEAmJyU8rDhC) | 3:16 | 2022-05-27 | 2022-07-29 |
 | [Sad Pain](https://open.spotify.com/track/3T7oPtt1IL0vS1ZtNhfiHc) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Sad Pain](https://open.spotify.com/album/7leggjXrUh9Nj4CSHOzTWC) | 4:27 | 2022-05-27 | 2022-06-22 |
-| [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 | 2022-06-29 | 2023-08-24 |
+| [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 | 2022-06-29 |  |
 | [SAYx3 ft\. Dbo](https://open.spotify.com/track/1dNmiMBjO9qt7X6e3AxVzb) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [XX,](https://open.spotify.com/album/7xYCdFkWmsGYBpWSLDUYNQ) | 3:17 | 2022-05-27 | 2022-07-28 |
 | [Sea of Love](https://open.spotify.com/track/5niSEAzP4pRaCBmzJ2slZd) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Sea of Love](https://open.spotify.com/album/3Bhjt2W3ZfMTlGGM2qH7zF) | 4:35 | 2022-05-27 | 2022-07-28 |
 | [SEA SPARKLE \(feat\. HUNJIYA & Choi Junheui\)](https://open.spotify.com/track/6p1BkJW9GZpiOBOFIHb1pX) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Choi Junheui](https://open.spotify.com/artist/5jqbDV7xuxjQsS10nlf8O5), [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 3:29 | 2023-06-13 | 2023-07-22 |
@@ -274,6 +274,7 @@
 | [time](https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [balaclava](https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX) | 3:20 | 2023-02-13 |  |
 | [time \(2022\)](https://open.spotify.com/track/1oOF8dd6AReyMJlWRwPgSc) | [KOREAN](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [convalescent\#1](https://open.spotify.com/album/5U0jGwxYmeRQMSkJCSYVN4) | 2:22 | 2022-05-27 | 2022-07-18 |
 | [Time Will Tell](https://open.spotify.com/track/3kCpImnMl45TgFHAsi5e5a) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0) | [Time Will Tell](https://open.spotify.com/album/7xAFMrJ5IA2Ay5dH0zT0qa) | 3:53 | 2022-05-27 | 2022-07-29 |
+| [To summer didn’t shine for us](https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [To summer didn’t shine for us](https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9) | 2:59 | 2023-08-24 |  |
 | [too bad](https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:45 | 2023-04-22 |  |
 | [Too Old to Die Young](https://open.spotify.com/track/5iI0tp0KVruemN3fYxtAHy) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Too Old to Die Young](https://open.spotify.com/album/7JTbqte3AMxeFC67F062OD) | 4:12 | 2022-06-18 | 2022-06-28 |
 | [Touch](https://open.spotify.com/track/2xSMlL2I4yhoH31tl3xCY4) | [Malitabu](https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb) | [TOUCH](https://open.spotify.com/album/0oWu5pZekjFtOiMJverkSS) | 3:23 | 2022-08-12 | 2022-09-06 |

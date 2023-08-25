@@ -4,7 +4,7 @@
 
 > Selections of North Indian classical music.
 
-66 songs - 19 hr 18 min
+67 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Raga Tilak Kamod](https://open.spotify.com/track/0xyEZc2ntQg5ss0i8vJ8PF) | [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Maestro's Choice](https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y) | 15:05 | 2021-12-06 |  |
 | [Romantic Dhun](https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl), [Sukhvinder Singh Namdhari](https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h) | [Saradamani](https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII) | 10:43 | 2021-12-06 |  |
 | [Romantic Maru Bihag \- Jaagu Main Sari Raina](https://open.spotify.com/track/1Kq8fBd6WKbr7BEDCLweND) | [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc), [Tejovrush Joshi](https://open.spotify.com/artist/1IKhVfKv1Hh0l6XwygDEpi) | [Navyaa](https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49) | 9:40 | 2021-12-06 |  |
+| [Rut Badle](https://open.spotify.com/track/1V16KVo3SNhjsasMgHH7LQ) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Om Bongane](https://open.spotify.com/artist/5CbfjjzYQsnMAIBUBFuL0q) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:16 | 2023-08-24 |  |
 | [Rāg Mīyā kī Todī](https://open.spotify.com/track/3fTFxU65ADeMwBgyVX97YI) | [Imrat Khan](https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg), [Shafaatullah Khan](https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp), [Wajahat Khan](https://open.spotify.com/artist/6fdCOQgyq1Pxw6LrJL54Uw) | [Rāg Mīyā kī Todī / Rāg Bilāskhānī Todī](https://open.spotify.com/album/0okl3bTNr5H1pw7XR9KNzS) | 38:14 | 2021-12-06 | 2022-07-29 |
 | [Shiva Shankara](https://open.spotify.com/track/3RRAr1F7Oap2CwLE1q6nqD) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Aditya Srinivasan](https://open.spotify.com/artist/1uOca0AYJrCRaEsf3lEwZx) | [Shiva Shankara](https://open.spotify.com/album/07yZ6g1QTLfys8PHs6Dd1l) | 10:18 | 2021-12-06 |  |
 | [Sur Sukh Khani, Natyageet](https://open.spotify.com/track/1GSYhLtmtU1hKqfk0GYf1U) | [Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk), [Purushottam Walawalkar](https://open.spotify.com/artist/7C5NA726B5bcUP5N4NHtZQ) | [Natyasangeet](https://open.spotify.com/album/6XI48xvEXJZ4djjqhmKWnj) | 13:33 | 2021-12-06 |  |

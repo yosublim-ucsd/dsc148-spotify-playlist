@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2Ca9Q0E4D7d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2Ca9Q0E4D7d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2Ca9Q0E4D7d)
 
-### [Binaural Beats: Flow State](https://open.spotify.com/playlist/37i9dQZF1DX2Ca9Q0E4D7d)
+### [Binaural Beats: Study](https://open.spotify.com/playlist/37i9dQZF1DX2Ca9Q0E4D7d)
 
-> Beta frequencies for increased concentration.
+> Find your flow state with Beta frequencies for increased concentration.
 
 72 songs - 3 hr 46 min
 

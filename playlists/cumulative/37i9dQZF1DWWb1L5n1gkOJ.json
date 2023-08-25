@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Amber Sun",
+        "url": "https://open.spotify.com/album/2phTexnn2abTJL2NpJfNZZ"
+      },
+      "artists": [
+        {
+          "name": "Stellar Serenity",
+          "url": "https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135374,
+      "name": "Amber Sun",
+      "url": "https://open.spotify.com/track/78gZJ45rQzIuu4JSCSvVpz"
+    },
+    {
+      "album": {
         "name": "Among The Pines",
         "url": "https://open.spotify.com/album/22aZul65rFrWztnDT2NB7F"
       },

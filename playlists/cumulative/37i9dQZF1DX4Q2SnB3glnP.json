@@ -3949,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "Submerged",
+        "url": "https://open.spotify.com/album/6AS1ccXorg5PEKALw5wttV"
+      },
+      "artists": [
+        {
+          "name": "Rizzolo",
+          "url": "https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197111,
+      "name": "Submerged",
+      "url": "https://open.spotify.com/track/6Ldcbpyvgs11PgWMcjeqmW"
+    },
+    {
+      "album": {
         "name": "Liquid Universe",
         "url": "https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq"
       },
@@ -4104,7 +4122,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 243909,
       "name": "The Glimmer Behind",
       "url": "https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0"

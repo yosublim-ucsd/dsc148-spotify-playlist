@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 211422,
       "name": "Almannagj\u00e1",
       "url": "https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY"
@@ -2623,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/36CyD4SKkrmxVSTgbeBO4h"
+      },
+      "artists": [
+        {
+          "name": "Dia Louge",
+          "url": "https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224859,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/2WKzfYp7e8cqSVmM2I3f1t"
+    },
+    {
+      "album": {
         "name": "landmark",
         "url": "https://open.spotify.com/album/7ESxNjevisGOGbywz7nXdy"
       },
@@ -4153,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "Rockets",
+        "url": "https://open.spotify.com/album/4QVmui6Q84vTPTxxFFGPz8"
+      },
+      "artists": [
+        {
+          "name": "tow kee o",
+          "url": "https://open.spotify.com/artist/2V8knumvJeLvlxvpywJm03"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "Rockets",
+      "url": "https://open.spotify.com/track/7yEQXNsjQeCyQ0YgLLyZkf"
+    },
+    {
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o"
       },
@@ -4518,10 +4554,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 263624,
       "name": "shot in the dark",
       "url": "https://open.spotify.com/track/4hULKxQ5vbKsYbADaBt79H"
+    },
+    {
+      "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/2vMOTd4uSddo7HT2xXy6BU"
+      },
+      "artists": [
+        {
+          "name": "silvershore",
+          "url": "https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt"
+        },
+        {
+          "name": "Anki",
+          "url": "https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263624,
+      "name": "shot in the dark",
+      "url": "https://open.spotify.com/track/5dS4VNWntUKePgcRosnHDA"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: 1tbsp",
+  "description": "a new world of alternative electronic music. Cover: Barry Can't Swim",
   "name": "Portal",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 247234,
       "name": "2M3 2U",
       "url": "https://open.spotify.com/track/11wmWBDltWMVsHDIDRWVCc"
+    },
+    {
+      "album": {
+        "name": "2special",
+        "url": "https://open.spotify.com/album/72eL8kWXS0TxMGu8puh5yn"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167248,
+      "name": "2special",
+      "url": "https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x"
     },
     {
       "album": {
@@ -360,7 +378,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 307117,
       "name": "All Like That",
       "url": "https://open.spotify.com/track/5TU66tcM0upCqT3CD69kcg"
@@ -862,7 +880,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 266558,
       "name": "Blackbox Life Recorder 21f",
       "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 413618,
       "name": "Draa Valley",
       "url": "https://open.spotify.com/track/1jr8bYCcgn0b0GsHztL3nd"
@@ -2013,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/0L1fZgjQTboP65QTburanO"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332571,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6"
+    },
+    {
+      "album": {
         "name": "Everything I Do",
         "url": "https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc"
       },
@@ -2068,6 +2104,24 @@
       "duration_ms": 230440,
       "name": "Eye Contact",
       "url": "https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy"
+    },
+    {
+      "album": {
+        "name": "Eyes Ablaze EP",
+        "url": "https://open.spotify.com/album/1gvzF7UWZqhWz0T5R6YryB"
+      },
+      "artists": [
+        {
+          "name": "Blake.08",
+          "url": "https://open.spotify.com/artist/7J6WMh4LEpLud71vkMUb2U"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196414,
+      "name": "Eyes Ablaze",
+      "url": "https://open.spotify.com/track/2XyONYSVdVe78Ecdtfy09t"
     },
     {
       "album": {
@@ -2349,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/5eKWupqx2kfK4w9eEmUn6n"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277200,
+      "name": "Fly Away XTC",
+      "url": "https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn"
+    },
+    {
+      "album": {
         "name": "focus",
         "url": "https://open.spotify.com/album/3wsAhTbmmsqC8AjAl3VWHx"
       },
@@ -2440,7 +2512,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 225000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk"
@@ -3103,6 +3175,24 @@
     },
     {
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+    },
+    {
+      "album": {
         "name": "One Night, One Time",
         "url": "https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc"
       },
@@ -3136,6 +3226,24 @@
       "duration_ms": 229743,
       "name": "I Know Your Present",
       "url": "https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P"
+    },
+    {
+      "album": {
+        "name": "I Like That (Jungle Music)",
+        "url": "https://open.spotify.com/album/3W1Cqs1zmAbkFKGH39IEx4"
+      },
+      "artists": [
+        {
+          "name": "Sempra",
+          "url": "https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239372,
+      "name": "I Like That (Jungle Music)",
+      "url": "https://open.spotify.com/track/7xNuZqcNRFoGAMafD20EbH"
     },
     {
       "album": {
@@ -3372,6 +3480,24 @@
       "duration_ms": 358200,
       "name": "Jobi - Kareem Ali Remix",
       "url": "https://open.spotify.com/track/1WmrJR4SP796Q35Ik4aGYq"
+    },
+    {
+      "album": {
+        "name": "Unsolicited Joints",
+        "url": "https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r"
+      },
+      "artists": [
+        {
+          "name": "Unsolicited Joints",
+          "url": "https://open.spotify.com/artist/7p5UQv94mUY8N9MSvJshlB"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378461,
+      "name": "Joint 2",
+      "url": "https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz"
     },
     {
       "album": {
@@ -3632,7 +3758,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 200244,
       "name": "let you go",
       "url": "https://open.spotify.com/track/2S7gtwp6NctXZqA413ZZBh"
@@ -4234,7 +4360,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 303714,
       "name": "Mutant Sunflowers",
       "url": "https://open.spotify.com/track/2Y2k1f46wWkCVspSWO3M8A"
@@ -4274,6 +4400,28 @@
       "duration_ms": 236336,
       "name": "MYSM",
       "url": "https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba"
+    },
+    {
+      "album": {
+        "name": "Naked (1-800-Girls Remix)",
+        "url": "https://open.spotify.com/album/4x1ACDaFwrOKIPvU5IKgZ7"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "1-800-GIRLS",
+          "url": "https://open.spotify.com/artist/09XCSviVAFm7kXPl3d5E5k"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325126,
+      "name": "Naked - 1-800-Girls Remix",
+      "url": "https://open.spotify.com/track/2Lf4zUwZAP11mjgJGh2O4s"
     },
     {
       "album": {
@@ -4729,6 +4877,28 @@
     },
     {
       "album": {
+        "name": "Out There",
+        "url": "https://open.spotify.com/album/5ICjtBnkNj6qaNI2gp72e0"
+      },
+      "artists": [
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261738,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/72FDwBVy3bw7o9qf8S9Ghq"
+    },
+    {
+      "album": {
         "name": "OVERTAKE )",
         "url": "https://open.spotify.com/album/4N8yGZ4yAlRaqNMLf9IIeu"
       },
@@ -4784,7 +4954,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 486733,
       "name": "Perfect Shelving Technique",
       "url": "https://open.spotify.com/track/05HUGauZEUiTPhPfCJUGCk"
@@ -5960,7 +6130,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 270093,
       "name": "So Real",
       "url": "https://open.spotify.com/track/7Iy9nquGdO3knVC4PW9xKk"
@@ -6783,6 +6953,32 @@
     },
     {
       "album": {
+        "name": "Too Close",
+        "url": "https://open.spotify.com/album/3WxC9B4azmE7Y4RpwPx39b"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224839,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/0FlYCmQM5q3TcdvwRT53Tt"
+    },
+    {
+      "album": {
         "name": "What I Breathe (Deluxe)",
         "url": "https://open.spotify.com/album/696j98HfflKXkJ1jDIzaJI"
       },
@@ -7018,7 +7214,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 269640,
       "name": "Verde (Jennifer Loveless Remix)",
       "url": "https://open.spotify.com/track/6fpJ7wTHo36RrNkh5UwcZE"
@@ -7414,7 +7610,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 232057,
       "name": "Woman",
       "url": "https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n"

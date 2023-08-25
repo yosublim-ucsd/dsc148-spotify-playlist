@@ -6315,6 +6315,24 @@
     },
     {
       "album": {
+        "name": "Lumen",
+        "url": "https://open.spotify.com/album/6xUP4LUnifBek3FCwxXXiD"
+      },
+      "artists": [
+        {
+          "name": "Jo Rochford",
+          "url": "https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156727,
+      "name": "Lumen",
+      "url": "https://open.spotify.com/track/6GfVl6fqJjiWYtWbaRUysl"
+    },
+    {
+      "album": {
         "name": "luminous",
         "url": "https://open.spotify.com/album/02BK5YS4DVi2adBR0grygQ"
       },
@@ -9447,6 +9465,24 @@
     },
     {
       "album": {
+        "name": "Soft Water",
+        "url": "https://open.spotify.com/album/2Ri8R8XqX5lrptfAJ1cSfF"
+      },
+      "artists": [
+        {
+          "name": "John Henriksson",
+          "url": "https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100924,
+      "name": "Soft Water",
+      "url": "https://open.spotify.com/track/1lrY2ajxDQK8NzKtcE60Nv"
+    },
+    {
+      "album": {
         "name": "Softly Spoken - Guitar Version",
         "url": "https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr"
       },
@@ -9606,6 +9642,24 @@
       "duration_ms": 154750,
       "name": "Sonnen Diamant",
       "url": "https://open.spotify.com/track/5QSUroBMs5XaGfNqzObDEs"
+    },
+    {
+      "album": {
+        "name": "Sonora Sunshine",
+        "url": "https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT"
+      },
+      "artists": [
+        {
+          "name": "Cary Bestwood",
+          "url": "https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111533,
+      "name": "Sonora Sunshine",
+      "url": "https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN"
     },
     {
       "album": {

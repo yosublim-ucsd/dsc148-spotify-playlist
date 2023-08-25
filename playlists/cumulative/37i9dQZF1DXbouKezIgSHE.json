@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Where drum & bass comes alive. Cover: Hermitude",
+  "description": "Where drum & bass comes alive. Cover: B.O.M",
   "name": "Long Live DnB",
   "tracks": [
     {
@@ -104,6 +104,28 @@
       "duration_ms": 207400,
       "name": "All We Got",
       "url": "https://open.spotify.com/track/6Amc3m1OJiQvtrSbWu6qjf"
+    },
+    {
+      "album": {
+        "name": "Always Dancin' (Fitch Remix)",
+        "url": "https://open.spotify.com/album/3Bx5ZPS0USx7NB5jFYr5wx"
+      },
+      "artists": [
+        {
+          "name": "BAVHU",
+          "url": "https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd"
+        },
+        {
+          "name": "Fitch",
+          "url": "https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Always Dancin' - Fitch Remix",
+      "url": "https://open.spotify.com/track/6LSFcSRDEOONtBFuZnYd1C"
     },
     {
       "album": {
@@ -404,7 +426,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 204137,
       "name": "CNCNTRTN",
       "url": "https://open.spotify.com/track/6CyWYoGbXYDaWzgVtDWFfJ"
@@ -560,7 +582,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 251348,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2zZMNnWQbHrUs10LkB9PQK"
@@ -656,7 +678,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 275862,
       "name": "Don't You Stasis - V O E Remix",
       "url": "https://open.spotify.com/track/17U3HZ4ajAmuFRR7uiKsdz"
@@ -797,6 +819,28 @@
     },
     {
       "album": {
+        "name": "FALLING (Montell2099 Remix)",
+        "url": "https://open.spotify.com/album/770hUl6aOKXGmwTRPCL6uw"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        },
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231954,
+      "name": "FALLING (Montell2099 Remix)",
+      "url": "https://open.spotify.com/track/3Qpcna4kilzf6YUNskGCaI"
+    },
+    {
+      "album": {
         "name": "Fateful Hour",
         "url": "https://open.spotify.com/album/0jkK70i3xZ2y3qeHBWSQ4T"
       },
@@ -812,7 +856,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 277241,
       "name": "Fateful Hour",
       "url": "https://open.spotify.com/track/5ZwvPXsvqWOr2XcDZ1ohu6"
@@ -928,7 +972,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 248244,
       "name": "Free Your Mind - Original",
       "url": "https://open.spotify.com/track/2M1LSALo5PGjGeMIazRuhb"
@@ -1106,7 +1150,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 207000,
       "name": "HALO JUMP",
       "url": "https://open.spotify.com/track/2hMihSmiIFfMAlDBYDZIpR"
@@ -1540,7 +1584,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 314482,
       "name": "Mecha City",
       "url": "https://open.spotify.com/track/5CnPR1Cx5GuRzjEbUFW2Vq"
@@ -1912,7 +1956,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 294068,
       "name": "Ripsaw",
       "url": "https://open.spotify.com/track/1ZOQ0OFZzmcPnF0JSPXLPO"
@@ -1952,7 +1996,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 277241,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/3vj5EMdE1ZlbJbYSFLqOwF"
@@ -1988,7 +2032,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 240344,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/7C0AmMGDeLY4JaDNZcBC4b"
@@ -2032,7 +2076,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 290240,
       "name": "Shibuya Pet Store",
       "url": "https://open.spotify.com/track/38hFp6SVQX1Wgo4c29qQXL"
@@ -2274,7 +2318,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 251208,
       "name": "Stars Will Fall",
       "url": "https://open.spotify.com/track/2DbqtwgllIvbvpCAINsO9i"
@@ -2314,7 +2358,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 248917,
       "name": "Surface - Original",
       "url": "https://open.spotify.com/track/3tWmWRpXzqzSEs5b34fWh9"
@@ -2441,6 +2485,28 @@
     },
     {
       "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/0Y6zjrRGbHph1lwFeaXKhd"
+      },
+      "artists": [
+        {
+          "name": "Jai Piccone",
+          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
+        },
+        {
+          "name": "Tora",
+          "url": "https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211029,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/46TMFTXUkbZEZmfxjsH5a1"
+    },
+    {
+      "album": {
         "name": "Thinkin About",
         "url": "https://open.spotify.com/album/32eqsdJ2XYeHt8FQhO7wlM"
       },
@@ -2508,6 +2574,24 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "album": {
+        "name": "No Starz in the City",
+        "url": "https://open.spotify.com/album/5QrseBDyDnPaSU9GQRSY7u"
+      },
+      "artists": [
+        {
+          "name": "Gabriel LCR",
+          "url": "https://open.spotify.com/artist/07SDf1XAm27AoAODF470jW"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168508,
+      "name": "TRY DO BETTER",
+      "url": "https://open.spotify.com/track/1XJ7K6Hlxcy3vx8pGXiw3h"
     },
     {
       "album": {
@@ -2712,7 +2796,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 297451,
       "name": "We Got It - S.P.Y Remix",
       "url": "https://open.spotify.com/track/1Iuo5rSPfXDVKxCyl2ePbW"

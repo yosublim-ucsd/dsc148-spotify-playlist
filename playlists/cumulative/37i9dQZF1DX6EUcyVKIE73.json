@@ -1217,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "Goldfish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
+      },
+      "artists": [
+        {
+          "name": "Tapas Relia",
+          "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
+        },
+        {
+          "name": "Om Bongane",
+          "url": "https://open.spotify.com/artist/5CbfjjzYQsnMAIBUBFuL0q"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376901,
+      "name": "Rut Badle",
+      "url": "https://open.spotify.com/track/1V16KVo3SNhjsasMgHH7LQ"
+    },
+    {
+      "album": {
         "name": "R\u0101g M\u012by\u0101 k\u012b Tod\u012b / R\u0101g Bil\u0101skh\u0101n\u012b Tod\u012b",
         "url": "https://open.spotify.com/album/0okl3bTNr5H1pw7XR9KNzS"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Sofía Campos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,678 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,701 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Volando](https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [En Tus Aguas](https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP) | 3:48 |
 | 50 | [no es amor](https://open.spotify.com/track/0PcqL0VXNlFxZX6kOEgGWx) | [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [no es amor](https://open.spotify.com/album/6YBjATNKxPO71x7DjPRVjE) | 2:56 |
 
-Snapshot ID: `MCwxZmZmMTdjMzA1MDIyMTc1OGRmYjI0MWFkOTQwOWI1YWFjZDQ1Njhh`
+Snapshot ID: `MCxiOWUyY2FlZGMyMTQyODFmN2NmZmQyNjY0YzdlZjZhNWZlNDM1ZGYw`

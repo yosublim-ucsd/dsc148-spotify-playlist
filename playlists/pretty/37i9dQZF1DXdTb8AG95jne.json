@@ -1,15 +1,47 @@
 {
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: UNE(\uc73c\ub124)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 451513,
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Luli Lee(\uc774\ub8e8\ub9ac)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 451640,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWNjMWZkNzU1ZTljZTc0YWQ4ZmUwYzJiN2FiMjAyYTllY2UzZWQ0",
+  "snapshot_id": "MCw1MmUxNWFmNTE1NjRiZGU2ZWJmOTVlNWRjYWIzNjg0M2MyMTU5MGRk",
   "tracks": [
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/6LYuWto4dMfk00uHWZkkLx"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/2r3lmIMjeiBVfurRKM2XXn"
+    },
+    {
+      "added_at": "2023-08-24 15:43:35",
+      "album": {
+        "name": "Ending Fairy",
+        "url": "https://open.spotify.com/album/2LOL3OgncHJQCLYubXQrAB"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "duration_ms": 199354,
+      "name": "Ending Fairy",
+      "url": "https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x"
+    },
+    {
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "The Lost Diary",
         "url": "https://open.spotify.com/album/4pjO2nn8tUlr1EvOv5UYgn"
@@ -29,55 +61,7 @@
       "url": "https://open.spotify.com/track/70K4mtZntJmqSr4fLrGhJi"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
-      "album": {
-        "name": "Ending Fairy",
-        "url": "https://open.spotify.com/album/2LOL3OgncHJQCLYubXQrAB"
-      },
-      "artists": [
-        {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
-        }
-      ],
-      "duration_ms": 199354,
-      "name": "Ending Fairy",
-      "url": "https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x"
-    },
-    {
-      "added_at": "2023-08-16 09:21:16",
-      "album": {
-        "name": "Silk Shirts",
-        "url": "https://open.spotify.com/album/7noNduIlKshv6sSpWiB9st"
-      },
-      "artists": [
-        {
-          "name": "\uc704\ub304\uc2a4 Wedance",
-          "url": "https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG"
-        }
-      ],
-      "duration_ms": 294705,
-      "name": "Silk Shirts",
-      "url": "https://open.spotify.com/track/3bl93mbQhNgi1IIeqGoGtT"
-    },
-    {
-      "added_at": "2023-08-16 09:21:16",
-      "album": {
-        "name": "Blinded",
-        "url": "https://open.spotify.com/album/5kM1pxqGfFhXBqbtFRjaTb"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/3k5xWgRecbkY5XzhpjIJ65"
-    },
-    {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
@@ -101,7 +85,7 @@
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
@@ -117,7 +101,7 @@
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
@@ -137,7 +121,7 @@
       "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Okinawa",
         "url": "https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6"
@@ -153,7 +137,7 @@
       "url": "https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Dawn Defibrillation, Vol.1",
         "url": "https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7"
@@ -173,7 +157,7 @@
       "url": "https://open.spotify.com/track/7tr6WuxHOWyWQl0W8YfBtq"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Lovers In The Night",
         "url": "https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv"
@@ -189,7 +173,7 @@
       "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
@@ -205,7 +189,7 @@
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO"
@@ -221,7 +205,7 @@
       "url": "https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Dear My All",
         "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
@@ -237,7 +221,7 @@
       "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "GAUSSIAN",
         "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
@@ -253,7 +237,7 @@
       "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Nonadaptation \ube44\uc801\uc751",
         "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
@@ -269,7 +253,7 @@
       "url": "https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
@@ -285,7 +269,23 @@
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
+      "album": {
+        "name": "Baby I Need You",
+        "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Baby I Need You",
+      "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
+    },
+    {
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
@@ -305,23 +305,7 @@
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
-      "album": {
-        "name": "Baby I Need You",
-        "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Baby I Need You",
-      "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
-    },
-    {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
@@ -337,7 +321,7 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "fool",
         "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
@@ -361,7 +345,23 @@
       "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
+      "album": {
+        "name": "Rawww",
+        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Rawww",
+      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+    },
+    {
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "5.2 (Feat. LEE SUHYUN)",
         "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "friend to lover",
         "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
@@ -397,23 +397,7 @@
       "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
-      "album": {
-        "name": "Rawww",
-        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "Rawww",
-      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
-    },
-    {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
@@ -429,7 +413,7 @@
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "The night we parted",
         "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
@@ -445,7 +429,7 @@
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Puberty Book\u2161 Pum",
         "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
@@ -465,7 +449,7 @@
       "url": "https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Stroll",
         "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
@@ -481,7 +465,7 @@
       "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Hollywood",
         "url": "https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0"
@@ -497,7 +481,7 @@
       "url": "https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "FROM : X",
         "url": "https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn"
@@ -513,7 +497,7 @@
       "url": "https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
@@ -533,7 +517,7 @@
       "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Koh",
         "url": "https://open.spotify.com/album/6W50Ympy4qBEahumF57RyF"
@@ -549,7 +533,7 @@
       "url": "https://open.spotify.com/track/17U7z9PG0iOa7YfR5pzZ6m"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Closely Far Away",
         "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
@@ -565,7 +549,7 @@
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "A Long Dream",
         "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
@@ -581,7 +565,7 @@
       "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "3108",
         "url": "https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw"
@@ -597,7 +581,7 @@
       "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
         "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
@@ -613,7 +597,7 @@
       "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/1uBSQRIdCFLgfaipqfVXp2"
@@ -629,7 +613,7 @@
       "url": "https://open.spotify.com/track/5toMPAVWtyrI1R6THYKhiE"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "RECONNECT",
         "url": "https://open.spotify.com/album/5xll0TV8daHI8mPW3R9SyC"
@@ -653,7 +637,7 @@
       "url": "https://open.spotify.com/track/2yPFwTJ1tUSLH0D28u3153"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Esprit",
         "url": "https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt"
@@ -669,7 +653,7 @@
       "url": "https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Answer",
         "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
@@ -685,7 +669,7 @@
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "A Call from My Dream",
         "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
@@ -701,39 +685,7 @@
       "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
-      "album": {
-        "name": "pony",
-        "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "pony",
-      "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
-    },
-    {
-      "added_at": "2023-08-16 09:21:16",
-      "album": {
-        "name": "in the bed",
-        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 265058,
-      "name": "in the bed",
-      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
-    },
-    {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Calibrate",
         "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
@@ -749,7 +701,23 @@
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
+      "album": {
+        "name": "in the bed",
+        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 265058,
+      "name": "in the bed",
+      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Hate Everything",
         "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
@@ -765,7 +733,23 @@
       "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
+      "album": {
+        "name": "pony",
+        "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "pony",
+      "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
+    },
+    {
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "RAL 9002",
         "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
@@ -785,7 +769,7 @@
       "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Do You Think Of Me? (4.4)",
         "url": "https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V"
@@ -801,7 +785,7 @@
       "url": "https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Don't be sad",
         "url": "https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc"
@@ -817,23 +801,7 @@
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
-      "album": {
-        "name": "The Land of Fantasy",
-        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 222999,
-      "name": "I Know Where The Rainbow has Fallen",
-      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
-    },
-    {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Orange, You\u2019re Not a Joke to Me!",
         "url": "https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o"
@@ -849,7 +817,7 @@
       "url": "https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9"
     },
     {
-      "added_at": "2023-08-16 09:21:16",
+      "added_at": "2023-08-24 15:43:35",
       "album": {
         "name": "Puberty Book\u2161 Pum",
         "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
@@ -863,6 +831,42 @@
       "duration_ms": 186120,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"
+    },
+    {
+      "added_at": "2023-08-24 15:43:35",
+      "album": {
+        "name": "naps!",
+        "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
+      },
+      "artists": [
+        {
+          "name": "1415",
+          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
+        },
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "naps!",
+      "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
+    },
+    {
+      "added_at": "2023-08-24 15:43:35",
+      "album": {
+        "name": "YOUTH",
+        "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
+      },
+      "artists": [
+        {
+          "name": "Dasutt",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "duration_ms": 361426,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
     }
   ],
   "unique_name": "In The K-Indie",

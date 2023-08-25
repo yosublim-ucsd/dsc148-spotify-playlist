@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Anupam Rahasya",
+        "url": "https://open.spotify.com/album/0w3gxbpQLCho2phuTzK1Ec"
+      },
+      "artists": [
+        {
+          "name": "Ganesh Punja",
+          "url": "https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277852,
+      "name": "Anupam Rahasya",
+      "url": "https://open.spotify.com/track/3xg08C7H2cgIQ96lpA5gBB"
+    },
+    {
+      "album": {
         "name": "At Peace",
         "url": "https://open.spotify.com/album/6cXHYUCWRcIiP7hkSuhC4p"
       },
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 256946,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y"

@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 16755,
+  "num_followers": 16778,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjU5MjA2NTg2MGZlZGJiNjU0MmYwNTRjMzJkYTBmMmNhOTA4NWI3",
+  "snapshot_id": "MCw1MDAzNDY4YTNhZmNjZjVkMjg4ZjBhYzM2ODUzYWU0ZDRiYzZhYzIw",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -523,18 +523,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw"
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
       },
       "artists": [
         {
-          "name": "Rubby Perez",
-          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
         }
       ],
-      "duration_ms": 255120,
-      "name": "Sobrevivire",
-      "url": "https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ"
+      "duration_ms": 259519,
+      "name": "Cobarde, Cobarde",
+      "url": "https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -555,18 +555,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Buscando Tus Besos",
-        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw"
       },
       "artists": [
         {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
         }
       ],
-      "duration_ms": 259519,
-      "name": "Cobarde, Cobarde",
-      "url": "https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI"
+      "duration_ms": 255120,
+      "name": "Sobrevivire",
+      "url": "https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -715,18 +715,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Mamwali, Vol. 2",
-        "url": "https://open.spotify.com/album/3dcYjalrQeUe4ed4FHxa6e"
+        "name": "Milly & Company",
+        "url": "https://open.spotify.com/album/1WaHdAxCGI2q58gva4gSrB"
       },
       "artists": [
         {
-          "name": "Ala Jaza",
-          "url": "https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW"
+          "name": "Milly Quezada",
+          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
+        },
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
         }
       ],
-      "duration_ms": 211017,
-      "name": "Coraz\u00f3n en Soledad",
-      "url": "https://open.spotify.com/track/0HID2RX44WWmKz1pEqtA4L"
+      "duration_ms": 220893,
+      "name": "Con Los Ojos Cerrados",
+      "url": "https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -747,22 +751,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Milly & Company",
-        "url": "https://open.spotify.com/album/1WaHdAxCGI2q58gva4gSrB"
+        "name": "Mamwali, Vol. 2",
+        "url": "https://open.spotify.com/album/3dcYjalrQeUe4ed4FHxa6e"
       },
       "artists": [
         {
-          "name": "Milly Quezada",
-          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
-        },
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+          "name": "Ala Jaza",
+          "url": "https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW"
         }
       ],
-      "duration_ms": 220893,
-      "name": "Con Los Ojos Cerrados",
-      "url": "https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk"
+      "duration_ms": 211017,
+      "name": "Coraz\u00f3n en Soledad",
+      "url": "https://open.spotify.com/track/0HID2RX44WWmKz1pEqtA4L"
     },
     {
       "added_at": "2021-10-19 17:28:22",

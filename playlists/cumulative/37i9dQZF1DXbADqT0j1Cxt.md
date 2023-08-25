@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-476 songs - 14 hr 16 min
+477 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Molly Magnolia](https://open.spotify.com/track/5ZGhoByLt6UbmZkX34kGEK) | [Dana McGowen](https://open.spotify.com/artist/4VsnumFuiW1YdUCHgENYUB) | [Molly Magnolia](https://open.spotify.com/album/2mZp0lrSzb6sdTKgRXs9fm) | 1:42 | 2021-10-07 |  |
 | [Mommy Turn the Daylight On](https://open.spotify.com/track/4BnTacOCGVq0PLgiIR4O2C) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Waltz for My Darling](https://open.spotify.com/album/5GwKf7p20Cqoj93J7OXSHw) | 1:36 | 2022-10-28 |  |
 | [Moonflight](https://open.spotify.com/track/3s9zIXife8Pdx8SjMg07Ju) | [Georgia Faingold](https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V) | [Moonflight](https://open.spotify.com/album/1vjAiGVrTiGoYUNbhBMoi2) | 1:40 | 2023-08-10 |  |
+| [Moonlight Song](https://open.spotify.com/track/1Yc2Y64xHLpc6tQ1UFphI1) | [Maria Mangasson](https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ) | [Moonlight Song](https://open.spotify.com/album/3IxrV08Irf96q0d7FL9W7d) | 1:46 | 2023-08-24 |  |
 | [Moonlit Cradle](https://open.spotify.com/track/7JJ8VKdFWMD14OYxishmdi) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Rainbow Sky](https://open.spotify.com/album/3e9Nts6SRxn1htmBr06L3n) | 1:42 | 2023-03-17 |  |
 | [Morning will come](https://open.spotify.com/track/7HuxnLOb1gqmH6hdmRNr4M) | [Dave Zavier](https://open.spotify.com/artist/5eHdr3iDhoa3RwHXlmO8gT) | [Morning will come](https://open.spotify.com/album/2pE6Ib6LycaztnHAzIFHF8) | 1:37 | 2021-10-07 |  |
 | [Mój Anioł](https://open.spotify.com/track/6vuyQpRo2hobQiVXfYrhBl) | [Jolanda Novak](https://open.spotify.com/artist/12Jx6Bt5MqHJS4AtWJl6JB) | [Mój Anioł](https://open.spotify.com/album/5DjpUSAvFfIwZcuNWNHwbf) | 1:37 | 2021-10-07 |  |

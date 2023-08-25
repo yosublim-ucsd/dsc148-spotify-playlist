@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 240000,
       "name": "Mind-Drift",
       "url": "https://open.spotify.com/track/53sNuDhuyhtVTPNXbk4dEN"
@@ -2324,6 +2324,24 @@
       "duration_ms": 206624,
       "name": "Sammram",
       "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+    },
+    {
+      "album": {
+        "name": "Igneous",
+        "url": "https://open.spotify.com/album/3zMLyAYO1EUJoyGtclS4E9"
+      },
+      "artists": [
+        {
+          "name": "Zooids",
+          "url": "https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Scoria",
+      "url": "https://open.spotify.com/track/6MISpRnytMunw2NdoT8CRn"
     },
     {
       "album": {

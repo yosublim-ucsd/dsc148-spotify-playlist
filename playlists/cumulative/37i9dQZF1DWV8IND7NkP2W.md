@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-645 songs - 1 day 5 hr 1 min
+646 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Blind](https://open.spotify.com/track/2YUO217Ns1r4xxkTBzHt93) | [Masaki Hori](https://open.spotify.com/artist/2LgAFgAkcwMa98ZgWvBDzv) | [Blind](https://open.spotify.com/album/10VDDuEmifDwbRl3IIcSmr) | 2:23 | 2021-12-23 | 2022-07-29 |
 | [Blossom](https://open.spotify.com/track/1ADXpTiELHI676vSwznCUs) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [Blossom](https://open.spotify.com/album/79vp5Qy9ttIlc4ijeaSM0H) | 2:30 | 2021-12-23 | 2022-07-25 |
 | [Blue bird](https://open.spotify.com/track/6KlKbt570ht0FhgRZHkm8K) | [KOYANMUSIC](https://open.spotify.com/artist/19rxuAEQkRaSpW53OyHqzu) | [DOSER](https://open.spotify.com/album/3W1Jm1zBBkpXL2XTMby5Rg) | 2:38 | 2021-12-23 | 2022-06-29 |
+| [blue forest](https://open.spotify.com/track/3aWloCwU0VyguYLhUBx9rH) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [blue forest](https://open.spotify.com/album/2lbnzHjf7JB8oad6alpw78) | 2:10 | 2023-08-24 |  |
 | [BLUE MOON](https://open.spotify.com/track/2gt5R59niPj7cFflsCNBEI) | [DJ ZEEK](https://open.spotify.com/artist/6jX9IZnwPeKQyuAMkJE8OK) | [BLUE MOON](https://open.spotify.com/album/6wya2peFBrgmH7VhYvh9DF) | 3:05 | 2021-12-23 | 2022-02-09 |
 | [Blue Ocean](https://open.spotify.com/track/7Ez0jBEB4kzZpOxlrmnfrm) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Blue Ocean](https://open.spotify.com/album/7eFZkyETGlx6hrzExVHplF) | 3:00 | 2022-12-01 | 2022-12-16 |
 | [Bocuk](https://open.spotify.com/track/1lTfFxZjZG3Xagd4clrCBj) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Bocuk](https://open.spotify.com/album/2n9E01iiTHEtmLZmjKWj6B) | 2:17 | 2023-07-25 | 2023-08-18 |
@@ -610,7 +611,7 @@
 | [Unikko](https://open.spotify.com/track/0e6Zp0zDbIpBqrp6R2i4ha) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/0et5c9eLd0MQCMvCtBLjFX) | 3:14 | 2023-04-13 | 2023-04-15 |
 | [Unikko](https://open.spotify.com/track/6rUOgQWnD98GNU8ZhPs8fp) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/00MXzpmAv1p9Accr8ryODd) | 3:14 | 2023-04-13 |  |
 | [Universal Grammar](https://open.spotify.com/track/1btMhHpEB4OvHpKFePAxqa) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Universal Grammar](https://open.spotify.com/album/0BXbhd7CVpSr4qFkfapK0q) | 1:54 | 2022-02-24 | 2022-04-21 |
-| [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 | 2023-05-25 |  |
+| [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 | 2023-05-25 | 2023-08-25 |
 | [utsuroi](https://open.spotify.com/track/3AgJ12XgvmFmyFZEBx3auH) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [utsuroi](https://open.spotify.com/album/71CddnY001Q5e6BebJrfIs) | 2:29 | 2023-04-13 | 2023-04-28 |
 | [Views \- Instrumental](https://open.spotify.com/track/2T2V3tQ742UrCPMfYrMxz5) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views \(Instrumental\)](https://open.spotify.com/album/56WEsAYBimDZwH5cfMkkkh) | 1:51 | 2021-12-23 | 2022-07-23 |
 | [Void](https://open.spotify.com/track/1tBS3K8IdJSF556lcdnMHj) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/5tWnUMtomZthQIgvjDLypc) | 1:25 | 2022-01-27 | 2022-07-06 |

@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels. Cover: Babsy.",
-  "num_followers": 18158,
+  "num_followers": 18294,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2VkZGJhMzJkNjdiODcxODhiOTgwYzQ1MTRhMGYzODY5YTczOTFh",
+  "snapshot_id": "MCwxMzVmZWViZTM0MzkyNzhmYzVjMDcwMTRjOTAxMjU1ZGMyOGVhMzk4",
   "tracks": [
     {
       "added_at": "2023-08-17 22:02:00",
@@ -71,6 +71,26 @@
       "duration_ms": 225142,
       "name": "Mysoul",
       "url": "https://open.spotify.com/track/6ntoVaDBf5Hc6cOIYBcaJg"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/4Teix1bIpmh3moHcHFcEQr"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        }
+      ],
+      "duration_ms": 182421,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/11xY5dCeBsU1reDOfJdwjq"
     },
     {
       "added_at": "2023-08-10 22:01:00",
@@ -159,6 +179,42 @@
       "duration_ms": 165000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Think About Me",
+        "url": "https://open.spotify.com/album/7083s09Camu5zbVWYuzVbo"
+      },
+      "artists": [
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        },
+        {
+          "name": "Swedish Red Elephant",
+          "url": "https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ"
+        }
+      ],
+      "duration_ms": 187808,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/7axdUvn03RFWqD7mnJGoir"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/41p1g2DoL55ttVaqfQ9mpM"
+      },
+      "artists": [
+        {
+          "name": "Jess Ball",
+          "url": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
+        }
+      ],
+      "duration_ms": 153650,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2EphCkHwxnplLCvPslzS74"
     },
     {
       "added_at": "2023-08-03 22:00:00",

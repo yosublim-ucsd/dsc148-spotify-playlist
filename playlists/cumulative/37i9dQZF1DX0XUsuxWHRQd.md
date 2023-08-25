@@ -4,7 +4,7 @@
 
 > New music from Quavo, Polo G and Lil Durk.
 
-1,740 songs - 3 day 17 hr 52 min
+1,741 songs - 3 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Every Balmain](https://open.spotify.com/track/4m8A7W9qdLhpxh1ePW6tUN) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Every Balmain](https://open.spotify.com/album/5KpXrrCr4CUtNVzXZqlsNj) | 3:21 | 2021-02-06 | 2021-02-12 |
 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2021-04-30 | 2021-09-04 |
 | [Everything Different](https://open.spotify.com/track/41WFnZg6LOFNnapyT0y2sP) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Everything Different](https://open.spotify.com/album/5TIteJSF6npZIaT5ioODRe) | 3:15 | 2021-05-29 | 2021-06-05 |
+| [Everything Is Everything](https://open.spotify.com/track/7t86fVeDAd63ThaR0ZkxXS) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 4:53 | 2023-08-24 |  |
 | [Everything We Need](https://open.spotify.com/track/24bnCCysWnbNRNUT4LpHcP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:56 | 2019-10-26 | 2019-11-01 |
 | [Excitement](https://open.spotify.com/track/3WnTQDd9A3bpBfzCziElU9) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Excitement](https://open.spotify.com/album/7rcMHNqNbQxF5TaPMHFoKu) | 4:43 | 2020-05-15 | 2020-05-29 |
 | [Exotic](https://open.spotify.com/track/2WpSRYU2BFZpDFpbiOQjVL) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Exotic](https://open.spotify.com/album/42qV2hZ4XTdqYZZfd38MLh) | 2:45 | 2020-02-07 | 2020-02-21 |

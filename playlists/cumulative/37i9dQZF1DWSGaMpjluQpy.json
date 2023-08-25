@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Mist",
+        "url": "https://open.spotify.com/album/32wjNexQ2ZLD5qU9SQRzo7"
+      },
+      "artists": [
+        {
+          "name": "Archie Taylor",
+          "url": "https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255905,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/5iM3nPaF06Dp4dGEzEKA1U"
+    },
+    {
+      "album": {
         "name": "Midnight Midtown Jazz (Rain)",
         "url": "https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC"
       },

@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-474 songs - 1 day 13 hr 47 min
+475 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [834.194](https://open.spotify.com/track/1YXaeVEk9RtWW2WFlCOctn) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 7:11 | 2022-04-26 | 2022-07-12 |
 | [8mm](https://open.spotify.com/track/2S2ABEaSUPLTRkSjvOKa2o) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [ATAK017 Sacrifice Soundtrack for Seiji “Fish on Land”](https://open.spotify.com/album/1ojg2QmChXLKHJH2keznqe) | 3:04 | 2022-03-31 | 2022-07-28 |
 | [8・31](https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 2:35 | 2022-03-31 | 2022-07-24 |
-| [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 | 2022-04-07 |  |
+| [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 | 2022-04-07 | 2023-08-25 |
 | [A Change of a Cityscape](https://open.spotify.com/track/2bQAefezv7y3MI6YumnjMc) | [Motoro Faam](https://open.spotify.com/artist/56TgrV3HK0Dt21DsSTMd92) | [Fragments](https://open.spotify.com/album/3j4kFmNhEp4kNZdltepUbT) | 7:56 | 2022-03-31 | 2022-07-02 |
 | [a few walks](https://open.spotify.com/track/3E5fgDgI17xqZzP1GNGxym) | [Ryoichi Kurokawa](https://open.spotify.com/artist/6ZWwBZl0boEJ7SOZFOlZNv) | [copynature](https://open.spotify.com/album/02WVXDLRKCh4gvuWRn8XyI) | 6:39 | 2022-03-31 | 2022-04-21 |
 | [A graca economica de Deus](https://open.spotify.com/track/1CFsbOndaV2w76Ikg1xGun) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Janis Crunch](https://open.spotify.com/artist/57E9fnySsCbg4lFkU8msYJ) | [12 & 1 SONG \(Remastered 2022\)](https://open.spotify.com/album/2DJ7kqNTU47JKFoflue4H7) | 3:58 | 2022-12-22 |  |
@@ -105,6 +105,7 @@
 | [Day After Day](https://open.spotify.com/track/3bFAzCnVbbpYXvU7QIdkNx) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Views](https://open.spotify.com/album/2tGZZZlAyHAw90nTFQZ3By) | 4:22 | 2022-04-16 | 2022-06-14 |
 | [Day Dreams](https://open.spotify.com/track/06KKWJl0kxoN8wlt2imSXf) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 1](https://open.spotify.com/album/20sAgx3TsYnW5HffCebCMG) | 5:29 | 2022-03-30 | 2022-04-18 |
 | [Daydream \(4:00A.M.\)](https://open.spotify.com/track/5ZKrK5I1uYCCTp0faejrJr) | [ヨシカワミノリ](https://open.spotify.com/artist/5JnrRCxGkwDPN8LKxVfn4e), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Reality](https://open.spotify.com/album/0dXRnPki3MRVyngC6dq76v) | 3:53 | 2022-03-31 | 2022-07-25 |
+| [Dear \- Haruhisa Tanaka Remix](https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD), [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dear \(Haruhisa Tanaka Remix\)](https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3) | 2:10 | 2023-08-24 |  |
 | [Denden](https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [On the Quakefish](https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj) | 3:55 | 2022-03-31 | 2022-07-09 |
 | [DNA](https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [In The Dark Woods](https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw) | 5:16 | 2022-03-31 |  |
 | [DOLPHINS](https://open.spotify.com/track/4yJAbkC1MfvoyRwtToIw4m) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Esperanto](https://open.spotify.com/album/2zZysv8QqhFQh71PcmDPfa) | 3:21 | 2022-03-31 | 2022-06-15 |

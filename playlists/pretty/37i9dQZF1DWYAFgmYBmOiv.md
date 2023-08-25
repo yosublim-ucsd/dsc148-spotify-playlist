@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov: you're finding yourself in a new country\. Cover: Anna Cathcart
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,771 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,969 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 29 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 |
 | 30 | [Older](https://open.spotify.com/track/4r6lnU74031FEZU6vxKgCn) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [成长 \(Older\)](https://open.spotify.com/album/669snHkGUxtc0a7JHJT0pb) | 2:44 |
 
-Snapshot ID: `MCw3YTg1OTJmNjVkMTQ5ZDViOTNkNmQ0NWI4YzM2N2U5ZTk5NmNkZGJl`
+Snapshot ID: `MCw3ZjJhNDFlNGExMzU4OTE4MjhlZTUyN2ZlNWNhODk0YjlkMTNjN2Y2`

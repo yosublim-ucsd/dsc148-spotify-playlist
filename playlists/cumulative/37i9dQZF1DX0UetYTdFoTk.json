@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 195283,
       "name": "Ana Maik",
       "url": "https://open.spotify.com/track/2QRylGpN3j7IoeKJIjzEUL"
@@ -1996,6 +1996,24 @@
       "duration_ms": 248405,
       "name": "\u0623\u0646\u0627 \u0648\u0628\u0633",
       "url": "https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0639\u0642\u062f",
+        "url": "https://open.spotify.com/album/5hgr34kHjft85noGjE7Ufp"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218322,
+      "name": "\u0627\u0644\u0639\u0642\u062f",
+      "url": "https://open.spotify.com/track/57Nvx4s6yYRyaIO1V6tF1R"
     },
     {
       "album": {

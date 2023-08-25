@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Echothane",
+        "url": "https://open.spotify.com/album/6BfImpZCnKbU0hw8uv79Vf"
+      },
+      "artists": [
+        {
+          "name": "Enormousness",
+          "url": "https://open.spotify.com/artist/7H1K6r71caJTKrd0oFLYN2"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190857,
+      "name": "Echothane",
+      "url": "https://open.spotify.com/track/7KDuavfltk861z14QiGwCJ"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ"
       },
@@ -3722,6 +3740,24 @@
       "duration_ms": 183659,
       "name": "Patience",
       "url": "https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8"
+    },
+    {
+      "album": {
+        "name": "pattern",
+        "url": "https://open.spotify.com/album/6ttEjZOmv5fSeiEz0QTmIC"
+      },
+      "artists": [
+        {
+          "name": "Sofia Garcia",
+          "url": "https://open.spotify.com/artist/513qG0sPNTxFlWOkWyFpGi"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "pattern",
+      "url": "https://open.spotify.com/track/2zuxJxGXamWbjgiTF6a7rA"
     },
     {
       "album": {

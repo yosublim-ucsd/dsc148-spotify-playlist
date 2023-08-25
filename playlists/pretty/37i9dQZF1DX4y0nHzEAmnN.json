@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjM2ZDYyYmM1ODZhNzc4YjUwNGRjNzc2MjNmNjZhMGFiOWJlNjJm",
+  "snapshot_id": "MCwzZmNhMGNhOTFkNGE0ZjBlZWE5MGM4MzVlZjgyMGRmNjI2MTdjZmZk",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "My First Album",
-        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
-      },
-      "artists": [
-        {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
-        }
-      ],
-      "duration_ms": 125904,
-      "name": "Let's Get Ready!",
-      "url": "https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Ralph's World",
         "url": "https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 169440,
       "name": "Drivin' in My Car",
       "url": "https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 125904,
+      "name": "Let's Get Ready!",
+      "url": "https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F"
     },
     {
       "added_at": "2023-03-17 09:43:03",

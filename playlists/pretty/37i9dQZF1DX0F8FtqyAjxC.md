@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,801 likes - 80 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,851 likes - 80 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 79 | [We Can Make It \(feat\. Kathy Summers\)](https://open.spotify.com/track/6nQZnTKPJElBkerDefqi8W) | [UBQ Project](https://open.spotify.com/artist/2fIoxlW3uyZvTcjMWSMK8y), [Kathy Summers](https://open.spotify.com/artist/7J6IdDizyly2eDTGNCwSqV) | [718 Sessions](https://open.spotify.com/album/5X0H2FQm2VwheHUVH8y3X9) | 4:13 |
 | 80 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/7dcs4YfIp7PDDw76rWja2t) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [A Night to Remember \(Mixed By Tony Okungbowa & Jojoflores\)](https://open.spotify.com/album/1EaATYESKxC3pW4Whf2VvE) | 4:12 |
 
-Snapshot ID: `MCw4YzA4NTc0MDlkZjU0OWRkNzhmMDE3MWZjZWM1ZmJhNDA3ZjA3ZGQx`
+Snapshot ID: `MCxkNjI2ZDc0NjUyMDhhNGE1M2IzMTRkYTA0ODVhNDJhNTgzMTEyYTlj`

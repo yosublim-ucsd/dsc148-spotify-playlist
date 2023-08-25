@@ -1,12 +1,12 @@
 {
   "description": "Let these contemplative couplets take you away.",
-  "num_followers": 73897,
+  "num_followers": 73960,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjM1ODg1YjkzOWZhZjU0ZGM3Y2JlZDVjYzFhOTBlMmU3YjhiZTFi",
+  "snapshot_id": "MCw0ZmNmM2M1MzViMTdjYmRlMGYzOGFmMjMxNDI0YjQ0YzdhOWU3MWNh",
   "tracks": [
     {
       "added_at": "2023-08-22 06:24:19",
@@ -161,20 +161,24 @@
       "url": "https://open.spotify.com/track/776QLSBeutwuBJukKGsb7I"
     },
     {
-      "added_at": "2023-08-22 06:24:19",
+      "added_at": "2023-08-24 12:18:57",
       "album": {
-        "name": "Gumshuda",
-        "url": "https://open.spotify.com/album/4lEWszwJldkVUZigfwccng"
+        "name": "Khudaayaa",
+        "url": "https://open.spotify.com/album/4bATha5n5JjVwlrxxt5sbZ"
       },
       "artists": [
         {
-          "name": "Anindito Paul",
-          "url": "https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6"
+          "name": "Avra Banerjee",
+          "url": "https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
         }
       ],
-      "duration_ms": 228100,
-      "name": "Gumshuda",
-      "url": "https://open.spotify.com/track/29Av2mRoqWqApghX2BmhdA"
+      "duration_ms": 296250,
+      "name": "Khudaayaa",
+      "url": "https://open.spotify.com/track/1a6DsCiooKH1PLKP6eDOAE"
     },
     {
       "added_at": "2023-08-22 06:24:19",
@@ -263,6 +267,22 @@
       "duration_ms": 229462,
       "name": "Ravi",
       "url": "https://open.spotify.com/track/0sT56zcByY6pW1EQcNDCla"
+    },
+    {
+      "added_at": "2023-08-22 06:24:19",
+      "album": {
+        "name": "Gumshuda",
+        "url": "https://open.spotify.com/album/4lEWszwJldkVUZigfwccng"
+      },
+      "artists": [
+        {
+          "name": "Anindito Paul",
+          "url": "https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6"
+        }
+      ],
+      "duration_ms": 228100,
+      "name": "Gumshuda",
+      "url": "https://open.spotify.com/track/29Av2mRoqWqApghX2BmhdA"
     },
     {
       "added_at": "2023-08-22 06:24:19",
@@ -835,22 +855,6 @@
       "duration_ms": 411010,
       "name": "Shayad Main Zindagi Ki Sahar",
       "url": "https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T"
-    },
-    {
-      "added_at": "2023-08-22 06:24:19",
-      "album": {
-        "name": "Ghazals To Remember Vol -1",
-        "url": "https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Hassan",
-          "url": "https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4"
-        }
-      ],
-      "duration_ms": 368520,
-      "name": "Tumhein Dil Hi Dil",
-      "url": "https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x"
     },
     {
       "added_at": "2023-08-22 06:24:19",

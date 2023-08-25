@@ -4,7 +4,7 @@
 
 > The best in house music
 
-344 songs - 1 day 0 hr 26 min
+345 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,13 +112,14 @@
 | [Friends](https://open.spotify.com/track/1IbNYr8ByXsgwGbmOxLBXP) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Friends](https://open.spotify.com/album/4THASIy2X16riMpZINnTTz) | 9:07 | 2022-07-28 | 2022-09-16 |
 | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj) | 3:01 | 2023-01-27 |  |
 | [Gently](https://open.spotify.com/track/5AvukMTsiC7b12MJW2wXwE) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [Gently](https://open.spotify.com/album/0B2JXdbYYbnwQcSCLfceX7) | 6:16 | 2022-04-20 | 2022-07-29 |
+| [Get Me High](https://open.spotify.com/track/6kiNRgtGWVSV3lyLBSizY6) | [Mia More](https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Get Me High](https://open.spotify.com/album/1yvjNoutqvda6wMMVSp2sN) | 2:25 | 2023-08-24 |  |
 | [Get On Out](https://open.spotify.com/track/5VCogJESrsrOsX2yejotIb) | [4NEY](https://open.spotify.com/artist/6DVJ9PbSQ673wgYUvqPRXh) | [Get On Out](https://open.spotify.com/album/7AHZAKEbSfL7HlM8RZwGGU) | 2:58 | 2022-04-20 | 2022-07-29 |
 | [Gettin' Started](https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx), [Labi Ramaj](https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Gettin' Started](https://open.spotify.com/album/76ycOB9AAFMv3qRhG4Xrvn) | 2:36 | 2022-05-05 | 2023-04-25 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-03-09 |  |
 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-07-03 |  |
 | [Good Morning Gorgeous \(Emmaculate Remix\)](https://open.spotify.com/track/0pWn3bA7mOP38Vmx1lQNco) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Good Morning Gorgeous \(Emmaculate Remix\)](https://open.spotify.com/album/2hHgzsGpk9K4cebpE2VibI) | 4:30 | 2022-09-19 | 2022-10-07 |
 | [Good Times \- Radio Edit](https://open.spotify.com/track/2oVeXlWPMaRxwZzcVwqTmv) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ben Rainey](https://open.spotify.com/artist/7n7VU5WFgmKTwDIXHZSQgN) | [Good Times](https://open.spotify.com/album/23CkTM2VAbypE4c3RCHb9W) | 3:12 | 2022-04-14 | 2023-05-26 |
-| [Good Woman \- Edit](https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm) | 3:35 | 2023-04-06 |  |
+| [Good Woman \- Edit](https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm) | 3:35 | 2023-04-06 | 2023-08-25 |
 | [Good Woman \- Edit](https://open.spotify.com/track/69gBITZ6WnJFUIe1b2EMeg) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/6d9RyDwoZCI52HG5sQVUbz) | 3:35 | 2022-09-01 | 2023-03-09 |
 | [Gotta Dance](https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Gotta Dance](https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP) | 3:17 | 2023-01-12 |  |
 | [H O U S E](https://open.spotify.com/track/7zbqPeaFvWCKwkITKFI8V7) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [H O U S E](https://open.spotify.com/album/4LBcLvu0gELWABBgO4DwfA) | 5:42 | 2022-04-14 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,447 songs - 3 day 7 hr 25 min
+1,448 songs - 3 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Dínamít](https://open.spotify.com/track/3808LH7NVd0ZaGCZpKcNRc) | [Úlfur Úlfur](https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Dínamít](https://open.spotify.com/album/76Z5RaiRyQEA0jLeTCntht) | 4:24 | 2022-09-23 | 2022-09-25 |
 | [Dínamít](https://open.spotify.com/track/7gGRbOhWFyWmjYD6xzauQ0) | [Úlfur Úlfur](https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Dínamít](https://open.spotify.com/album/5LKCy2Xp5V8VKiKBFvSpJF) | 4:24 | 2022-09-24 | 2022-09-26 |
 | [Dómsdags dans](https://open.spotify.com/track/2M45HQmK4fkeDyBnce3fHt) | [Celebs](https://open.spotify.com/artist/6FX8zqZ4QQsnFduMkk0080) | [Söngvakeppnin 2023](https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd) | 2:55 | 2023-02-20 | 2023-03-08 |
-| [Dýrð í dauðaþögn](https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Stór Agnarögn](https://open.spotify.com/album/7cIX2BGfObw0EjEX85eqTf) | 3:19 | 2023-06-06 |  |
+| [Dýrð í dauðaþögn](https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Stór Agnarögn](https://open.spotify.com/album/7cIX2BGfObw0EjEX85eqTf) | 3:19 | 2023-06-06 | 2023-08-25 |
 | [Dýrð í dauðaþögn](https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Stór agnarögn](https://open.spotify.com/album/3kD0eb4wgmccYXYOhFZoL1) | 3:19 | 2022-08-17 | 2023-06-07 |
 | [E45](https://open.spotify.com/track/4Bl4PdFzrDvmFJvKJrHqGg) | [Sultan Den Første](https://open.spotify.com/artist/1tv6vH2AmEXZUvQ8mqCY3U) | [E45](https://open.spotify.com/album/7ydZPJ4rPU3jgDkQYEppgq) | 3:18 | 2023-01-25 | 2023-01-27 |
 | [EAEA](https://open.spotify.com/track/1NzoDUn5bLqpS36GD00Smi) | [Blanca Paloma](https://open.spotify.com/artist/4wm4mhiGnYPzCerFg3venQ) | [EAEA](https://open.spotify.com/album/713ABLvroU275mKkUgr6ZJ) | 2:59 | 2023-05-14 | 2023-05-16 |
@@ -1017,6 +1017,7 @@
 | [Reputation](https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:08 | 2022-06-04 | 2022-06-10 |
 | [Rich \- Interlude](https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 1:43 | 2022-05-14 | 2022-05-16 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2023-03-25 |
+| [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-24 |  |
 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-06-30 | 2022-07-03 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-20 |
 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-04-09 | 2022-04-11 |

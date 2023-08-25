@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Leellamarz\(릴러말즈\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: 0WAVE\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-636 songs - 1 day 10 hr 31 min
+637 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Call Me Up \(Feat\. Claire Hau\)](https://open.spotify.com/track/7kbNPLs7bvIkywVodFz3g5) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:22 | 2022-07-14 | 2022-07-19 |
 | [CAMO\_TrenChill K\-Hip Hop](https://open.spotify.com/track/6Ma87EYYI8jXtjdm8KllXT) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [TrenChill K\-Hip Hop Audio Liner](https://open.spotify.com/album/14yjVbmRBeAQ30Ptoa4Dll) | 0:03 | 2023-03-22 |  |
 | [CANTSAY](https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [VELVETMOTH](https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx) | 3:16 | 2022-05-05 | 2022-05-12 |
+| [care4u](https://open.spotify.com/track/5FSTzoypjKQHjwBc21tNii) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [ITULT](https://open.spotify.com/album/6JnnOgTI2O8X2UOMI83TLK) | 2:31 | 2023-08-24 |  |
 | [Celebrate](https://open.spotify.com/track/1d219co69sYkVNGY07WoA9) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Star](https://open.spotify.com/album/3JOPFaUPMNSZigHMxXDpOI) | 3:17 | 2022-11-22 | 2022-11-24 |
 | [Celebrate](https://open.spotify.com/track/668qGPFc6wHY9RBP5gwGUy) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Star](https://open.spotify.com/album/1brcpHqPe9vSLjy4mpl7zh) | 3:17 | 2022-11-22 | 2022-12-07 |
 | [Ceremony](https://open.spotify.com/track/4yMeebFYtbx7BP4GOiBfTK) | [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Ceremony](https://open.spotify.com/album/7Ejo0LEshrxBDqd3T2xfTA) | 3:02 | 2022-04-21 | 2022-07-29 |
@@ -589,7 +590,7 @@
 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 | 2022-09-05 |  |
 | [UH\-RA? \(feat\. dress\)](https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [UH\-RA? with KozyPop](https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib) | 3:37 | 2022-08-12 | 2022-10-01 |
 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 | 2022-09-28 | 2022-10-08 |
-| [untitled 1](https://open.spotify.com/track/5bxnGZhG83y4VCwimcMQwf) | [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [untitled 1](https://open.spotify.com/album/59QQcQnIjJAiKCFUhoeID3) | 3:23 | 2023-08-16 |  |
+| [untitled 1](https://open.spotify.com/track/5bxnGZhG83y4VCwimcMQwf) | [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [untitled 1](https://open.spotify.com/album/59QQcQnIjJAiKCFUhoeID3) | 3:23 | 2023-08-16 | 2023-08-25 |
 | [Used](https://open.spotify.com/track/1ihB9RzGn3IrdnsHZ2e7qv) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Used](https://open.spotify.com/album/5GoH6H1Aq60j0HRApDWHqr) | 3:53 | 2023-01-10 | 2023-01-26 |
 | [V](https://open.spotify.com/track/0QwWVdreIp1dJZLPHxhLpX) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii) | 3:47 | 2022-04-01 | 2022-04-21 |
 | [V](https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:47 | 2022-07-24 |  |

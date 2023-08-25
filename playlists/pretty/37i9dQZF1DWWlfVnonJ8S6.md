@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,143 likes - 105 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,321 likes - 105 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 12 | [Daayre \- Lofi Flip](https://open.spotify.com/track/2fLNGqqgtVvshXJE6ARsmT) | [Kritiman Mishra](https://open.spotify.com/artist/5OD147PIZedUodUrxiEqEX), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Daayre \(Lofi Flip\)](https://open.spotify.com/album/0OqGNoguOy3MODEVsGNyMK) | 2:31 |
 | 13 | [Pehli Nazar Mein \(Lofi Mix\)](https://open.spotify.com/track/2HKFoMC6jXuDwavUOdpuky) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Pehli Nazar Mein \(Lofi Mix\)](https://open.spotify.com/album/3M8vCvMzlzZIKee35sY73U) | 2:28 |
 | 14 | [Kesariya \- Lofi Flip](https://open.spotify.com/track/7nsjBUVRQTUEvCReXAtVPi) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Kesariya \(Lofi Flip\)](https://open.spotify.com/album/1b5dv6YOO0glGJLoCBv8Le) | 4:00 |
-| 15 | [Piya O Re Piya \(Lofi Mix\)](https://open.spotify.com/track/4XdgtQ0wt7fikgV4xvR5tm) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Piya O Re Piya \(Lofi Mix\)](https://open.spotify.com/album/45Es99pRgwLJqraVg4NzcJ) | 2:57 |
+| 15 | [Piya O Re Piya \(Lofi Mix\)](https://open.spotify.com/track/4XdgtQ0wt7fikgV4xvR5tm) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Piya O Re Piya \(Lofi Mix\)](https://open.spotify.com/album/45Es99pRgwLJqraVg4NzcJ) | 2:57 |
 | 16 | [Paniya](https://open.spotify.com/track/0UaDj2d7v1a1CzyMeigKiX) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Paniya](https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW) | 6:50 |
 | 17 | [Iktara \- Lofi Flip](https://open.spotify.com/track/7JOFplrLQfYkuEcWCASZDo) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Iktara \(Lofi Flip\)](https://open.spotify.com/album/21bNH0z2JgCevs7f6gNRgJ) | 2:53 |
 | 18 | [Mere Bina \- Lofi Flip](https://open.spotify.com/track/5f4CDQSxZJ8GuYdwMdz37V) | [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Mere Bina \(Lofi Flip\)](https://open.spotify.com/album/26rVmBZboEcYit9RfGAWBr) | 2:42 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 104 | [Aao Phir Se](https://open.spotify.com/track/1wgC0hW1abXgmgoASyieVw) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Aao Phir Se](https://open.spotify.com/album/05zQVq7VECKbmpyyBBXhPj) | 2:50 |
 | 105 | [Habit \- Chill Mix](https://open.spotify.com/track/2V7vcrIWa5FlFB3dcxg32F) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [Habit \- Chill Mix \- Single](https://open.spotify.com/album/58iaUALu3vmAgpzcCmjLAT) | 3:26 |
 
-Snapshot ID: `MCw4NjBjNmUxODk2ZjNjYmU3YzNlZmMzZjE2NTExN2IzY2M5N2ZkZGZj`
+Snapshot ID: `MCw3M2VmOWU3MDY0ZTNiOTljMGZjMDk3Yzk0NDBhMDFiMTQ4NDFiNjA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,177 likes - 500 songs - 19 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,361 likes - 500 songs - 19 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 499 | [Dreams Of The Broken](https://open.spotify.com/track/3Mt7n41cPt3oRsG9tp26LD) | [Broken Embrace](https://open.spotify.com/artist/5xJZJn5NZIKZ6A25TwDQu8) | [Dreams Of The Broken](https://open.spotify.com/album/71nnTtdqPoBvXzderwdhc3) | 1:57 |
 | 500 | [Unité](https://open.spotify.com/track/6Jlc02b7tLgqFqH0vXCeJ5) | [Her Name is Sage](https://open.spotify.com/artist/6OVjImRqgRTTCRYi4vTHs9) | [Unité](https://open.spotify.com/album/0oGkWxnTIWWYLcC4CmLa0c) | 2:00 |
 
-Snapshot ID: `MCxmNzRjNmQ3NzFkYmQ5MDMyYzUxMTBhYjJlZjk3MTU0MTIzNmJmZTgx`
+Snapshot ID: `MCw4MjIwM2EwODRmNTk5NzJhM2IxNjdlMGNmM2UzODkxZjE0ZGQyYjI5`

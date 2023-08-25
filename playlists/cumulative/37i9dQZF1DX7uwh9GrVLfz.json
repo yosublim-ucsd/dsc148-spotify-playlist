@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/2xa9dMz7X1q3jonUFjGEFP"
+      },
+      "artists": [
+        {
+          "name": "matsuri",
+          "url": "https://open.spotify.com/artist/2uiEH6IIPxjVLp4VJUr0iV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225329,
+      "name": "262",
+      "url": "https://open.spotify.com/track/0BS35g5cQj8eweznR29blw"
+    },
+    {
+      "album": {
         "name": "2\u6642\u9593\u306a\u3093\u3082\u3057\u306a\u304b\u3063\u305f",
         "url": "https://open.spotify.com/album/68Nvqg30WnytdBgACaK9o3"
       },
@@ -3620,7 +3638,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 146908,
       "name": "Live today only",
       "url": "https://open.spotify.com/track/6rbTRiarfvA5nn4Vhda7bZ"

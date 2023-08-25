@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Chroniques d\u2019un cupidon",
+        "url": "https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Des milliers de je t'aime",
+      "url": "https://open.spotify.com/track/1NwjfTd5fsvRFtYGERuKzA"
+    },
+    {
+      "album": {
         "name": "Voyou (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 185053,
       "name": "Ici et l\u00e0",
       "url": "https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz"
@@ -594,7 +612,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 268600,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
@@ -710,6 +728,24 @@
       "duration_ms": 258189,
       "name": "La vie ne m'apprend rien",
       "url": "https://open.spotify.com/track/6qdFHfgUPmngzK7oTeflgs"
+    },
+    {
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199426,
+      "name": "Le bateau coule",
+      "url": "https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO"
     },
     {
       "album": {
@@ -840,7 +876,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 207040,
       "name": "Les p'tites jolies choses",
       "url": "https://open.spotify.com/track/79X8l247aT8r4cKON18nMX"
@@ -1111,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Premier amour",
+        "url": "https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv"
+      },
+      "artists": [
+        {
+          "name": "Nour",
+          "url": "https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188408,
+      "name": "Premier amour",
+      "url": "https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P"
+    },
+    {
+      "album": {
         "name": "La tarentelle",
         "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
       },
@@ -1212,7 +1266,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 210138,
       "name": "R\u00e9tine",
       "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
@@ -1259,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj"
+    },
+    {
+      "album": {
         "name": "The Songs (Acoustic)",
         "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
       },
@@ -1274,6 +1346,24 @@
       "duration_ms": 231835,
       "name": "Sensualit\u00e9",
       "url": "https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud"
+    },
+    {
+      "album": {
+        "name": "Si j'avais su",
+        "url": "https://open.spotify.com/album/6667kpHZNMQUH3wGZwNqU3"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "Si j'avais su",
+      "url": "https://open.spotify.com/track/7B6z0HrxAByztLfgzkoxBw"
     },
     {
       "album": {
@@ -1436,7 +1526,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 174400,
       "name": "Ton visage - Acoustic",
       "url": "https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR"

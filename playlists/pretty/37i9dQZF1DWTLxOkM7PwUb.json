@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 27790,
+  "num_followers": 27946,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjY1ODFkZmE1ODZjZTU4ZTYzODNiMDMwZTA2YTYwZjMzZWFhYTAw",
+  "snapshot_id": "MCxlOWM2YTQ3ODFlNzI1MWJmNDJmNjQ1ZjBhZWY4OGNkNDRkMGE5MGZj",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Estrellas",
+        "url": "https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Estrellas",
+      "url": "https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "PUNKDEMIA",
         "url": "https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 245677,
       "name": "TU CINTURA",
       "url": "https://open.spotify.com/track/35rGCxanzxooL6R32BuMu6"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Estrellas",
-        "url": "https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Estrellas",
-      "url": "https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv"
     },
     {
       "added_at": "2022-12-09 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 
 > Chill to the familiar classical pieces featured in award\-winning films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,384 likes - 69 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,489 likes - 69 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 | 17 | [Because This Must Be](https://open.spotify.com/track/4CJUL27qGiX5MfHFcFpr38) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Graz](https://open.spotify.com/album/6zg9Xz3Xi9a3dIbyRDjJux) | 2:45 |
 | 18 | [Also sprach Zarathustra, Op\. 30, TrV 176: I\. Prelude \(Sonnenaufgang\)](https://open.spotify.com/track/6IA8E2Q5ttcpbuahIejO74) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Karl Böhm](https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A) | [The 50 Most Essential Classical Music Pieces Ever](https://open.spotify.com/album/6QeCspxUcE9xum4txWInJ0) | 1:45 |
 | 19 | [Purcell: March and Canzona for Queen Mary's Funeral, Z\. 860: March](https://open.spotify.com/track/56DNA8j0EiyV7o8wA9HAEJ) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [John Eliot Gardiner](https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi), [Equale Brass Ensemble](https://open.spotify.com/artist/0cotMOUT2NoWt4WZ8UldfY), [Monteverdi Orchestra](https://open.spotify.com/artist/56z47m9Q8BJUWo8aVgm6J2) | [Purcell: Musique pour les funérailles de la Reine Mary](https://open.spotify.com/album/19MO8SGru79gzjbvc141oL) | 2:17 |
-| 20 | [Tristan und Isolde, WWV 90, Act III: Prelude \- Live](https://open.spotify.com/track/6w1R2g4HFGoEYmBdPekhHq) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Bavarian Radio Symphony Orchestra](https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm), [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [Wagner: Tristan und Isolde](https://open.spotify.com/album/0EGfzKnX0HmZNYNRCZJC5E) | 8:03 |
+| 20 | [Tristan und Isolde, WWV 90, Act III: Prelude – Hirtenreigen \- Live](https://open.spotify.com/track/6w1R2g4HFGoEYmBdPekhHq) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Bavarian Radio Symphony Orchestra](https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm), [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [Wagner: Tristan und Isolde](https://open.spotify.com/album/0EGfzKnX0HmZNYNRCZJC5E) | 8:03 |
 | 21 | [Mozart: Clarinet Concerto In A major, K622 \(Adagio\)](https://open.spotify.com/track/665XLDRwQueQYBn4cnyxWW) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Out Of Africa](https://open.spotify.com/album/5ppl86U4zfpfE72zidbDiK) | 7:42 |
 | 22 | [Das Rheingold: Einzug der Götter in Walhall](https://open.spotify.com/track/6y5U4NlIAuLFWqt3lRbe5j) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Simón Bolívar Symphony Orchestra Of Venezuela](https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Wagner \- Dudamel](https://open.spotify.com/album/1l8Ten3NTzrN50y7cuDrd6) | 8:43 |
 | 23 | [The Ride Of The Valkyries](https://open.spotify.com/track/3RVpd1YvoSXj8Xi5izMs07) | [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y) | [Wagner \- Ride Of The Valkyries](https://open.spotify.com/album/5olZ5Ynw50lmGD3oaLFW8e) | 5:42 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 | 68 | [Concerto For Clarinet & String Orchestra](https://open.spotify.com/track/7jmaYAqOm1jV782F84HeDI) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Aaron Copland](https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU) | [The War: A Ken Burns Film \- The Soundtrack](https://open.spotify.com/album/2hhJvyE5fXeLWYNiOhZFhv) | 7:42 |
 | 69 | [Concerto grosso in G Minor, Op\. 6 No\. 8, "Christmas Concerto": Adagio \(Arr\. Davies, Gordon and Tognetti\)](https://open.spotify.com/track/53BYTz0hIZ8fYqLVZarA6R) | [Arcangelo Corelli](https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF), [Richard Tognetti](https://open.spotify.com/artist/0kdjTXFwhF9w9Cuscbgccu) | [Música Clásica Para Leer](https://open.spotify.com/album/3kHQIbIevRiOVVPxmBtA9M) | 1:55 |
 
-Snapshot ID: `MCxjODNiYjc3NzBjZDZmYTU3NzkzMjdhOWVjY2FiZWJjYzZjMDJmN2M5`
+Snapshot ID: `MCxiYjk2ZmRmMjEyYmUwYWNhMzc0OGJkNDg4ZTBmNWM3MWU0Yzc0OTI0`

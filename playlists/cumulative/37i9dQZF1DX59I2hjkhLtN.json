@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 228989,
       "name": "Alguma Coisa",
       "url": "https://open.spotify.com/track/4ULccleyqLIrQkl8YwmWLl"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 228480,
       "name": "Batman",
       "url": "https://open.spotify.com/track/0ayIPRFUCmv1Z2P9COFDzy"
@@ -4246,7 +4246,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 197208,
       "name": "Guerra",
       "url": "https://open.spotify.com/track/5H4NAUHT2nRXCOzOt38VLP"
@@ -5805,6 +5805,24 @@
     },
     {
       "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/0WMbrRzC1yrmI0ekXDLQjN"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127659,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/5tlGgE0AFqtH5jKq93MEqI"
+    },
+    {
+      "album": {
         "name": "MATRIX",
         "url": "https://open.spotify.com/album/6cQ5oKuWprEU9Hw7rR5Qae"
       },
@@ -6192,7 +6210,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 184000,
       "name": "Money Talk",
       "url": "https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a"
@@ -8097,6 +8115,24 @@
     },
     {
       "album": {
+        "name": "Planeta do Doonie",
+        "url": "https://open.spotify.com/album/3tRIVg4ojP1dqBsqWXOjhk"
+      },
+      "artists": [
+        {
+          "name": "$PASH",
+          "url": "https://open.spotify.com/artist/1XMJ21SqyJB3T8T0srssfP"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103793,
+      "name": "Planeta do Doonie",
+      "url": "https://open.spotify.com/track/5ChohcgQ8KNG6rICMvhEIp"
+    },
+    {
+      "album": {
         "name": "Plata",
         "url": "https://open.spotify.com/album/4RAM7flKVPIdE64Y0kUJwO"
       },
@@ -8344,6 +8380,24 @@
       "duration_ms": 212009,
       "name": "Props",
       "url": "https://open.spotify.com/track/6sjcNE994V0OxAgaLOg8Kd"
+    },
+    {
+      "album": {
+        "name": "psic00patha",
+        "url": "https://open.spotify.com/album/3Qmk7q9PtZNOK1XCUn1LMb"
+      },
+      "artists": [
+        {
+          "name": "Diepretty Merc\u00e9des",
+          "url": "https://open.spotify.com/artist/5wRAwalZoDe0kmLnpy4gwY"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159361,
+      "name": "psic00patha",
+      "url": "https://open.spotify.com/track/4EUk8B3kVRKCnQkvCHJAhD"
     },
     {
       "album": {
@@ -10884,6 +10938,24 @@
       "duration_ms": 153809,
       "name": "Viagem Sick Bby",
       "url": "https://open.spotify.com/track/6qGRdOUuKsOx4l89fdcyit"
+    },
+    {
+      "album": {
+        "name": "DRV. I",
+        "url": "https://open.spotify.com/album/6hQjpz86B9cdxuArWZLbs2"
+      },
+      "artists": [
+        {
+          "name": "C57",
+          "url": "https://open.spotify.com/artist/3A3a9O9OLay8KocxjNKlyP"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187546,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/23vKk3FIUkFIm87HDkmQW7"
     },
     {
       "album": {

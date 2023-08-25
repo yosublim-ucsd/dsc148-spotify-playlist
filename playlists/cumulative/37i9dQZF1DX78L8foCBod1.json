@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Mess (English Ver.)",
+        "url": "https://open.spotify.com/album/2TodryWsmoKontqzBjDsy1"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202805,
+      "name": "Beautiful Mess - English Ver.",
+      "url": "https://open.spotify.com/track/2i4pR6necpYkVnKcaHxQt7"
+    },
+    {
+      "album": {
         "name": "\u30ad\u30eb\u30e9\u30ad\u30eb \u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6"
       },

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ2MTU0NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ2MjQxNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Quem \u00e9 Louco Entre N\u00f3s?",
         "url": "https://open.spotify.com/album/5AGcCnLfs7ij6W40K0Y9Fu"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2jtZW3fCrJSCM7dfjG73Xv"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Dentro do Carro Me Mamando",
         "url": "https://open.spotify.com/album/54MlcvioXAKh9I4WnObkdR"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/4ubt1S2q2iMgXDpJv9wS1J"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "RITMO BRUTALISMO (Sped Up)",
         "url": "https://open.spotify.com/album/4w8hhYFmueIlPtBmLT1sNC"
@@ -81,23 +81,7 @@
       "url": "https://open.spotify.com/track/1uCDg9WDXzG5j1tVqnFNBR"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "O BAGULHO MUDOU MULTIPLICOU",
-        "url": "https://open.spotify.com/album/3oqHjh67DPcQtIbWAfjj8n"
-      },
-      "artists": [
-        {
-          "name": "TROPA DO SUPREMO",
-          "url": "https://open.spotify.com/artist/6mat94i2aGjdXK7MCkeVK4"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "O BAGULHO MUDOU MULTIPLICOU",
-      "url": "https://open.spotify.com/track/72FMy7t0w5aTGnm8yeX4Fn"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Paladar Infantil",
         "url": "https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx"
@@ -125,7 +109,23 @@
       "url": "https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "O BAGULHO MUDOU MULTIPLICOU",
+        "url": "https://open.spotify.com/album/3oqHjh67DPcQtIbWAfjj8n"
+      },
+      "artists": [
+        {
+          "name": "TROPA DO SUPREMO",
+          "url": "https://open.spotify.com/artist/6mat94i2aGjdXK7MCkeVK4"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "O BAGULHO MUDOU MULTIPLICOU",
+      "url": "https://open.spotify.com/track/72FMy7t0w5aTGnm8yeX4Fn"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Pivete do Arrocha Funk",
         "url": "https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Autodom\u00ednio",
         "url": "https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/5i91iDdOjC7sexvXV3MlRc"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Preta",
         "url": "https://open.spotify.com/album/0eETaCTE3z3Jcc3fqxB15E"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/57w75cw5ROGxHeDmZ9S0mS"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "The Automotivo Infernal 1.0",
         "url": "https://open.spotify.com/album/0F4VNLWhlhnOz4JzEt6xZ8"
@@ -205,63 +205,7 @@
       "url": "https://open.spotify.com/track/684yJVwS41anCimZla5jk9"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "Fetiche",
-        "url": "https://open.spotify.com/album/659lNGwYSZkbjRVWGahBDB"
-      },
-      "artists": [
-        {
-          "name": "yung vegan",
-          "url": "https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV"
-        },
-        {
-          "name": "Bolin Batidas",
-          "url": "https://open.spotify.com/artist/0N8qBEsNM25AnKi6bMF91j"
-        }
-      ],
-      "duration_ms": 160862,
-      "name": "Polo Usa",
-      "url": "https://open.spotify.com/track/7GIOobAlKojSiQ6ytFlxdU"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "Faz um Vuk Vuk (Teto Espelhado)",
-        "url": "https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Dj Nk Da Serra",
-          "url": "https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Faz um Vuk Vuk (Teto Espelhado)",
-      "url": "https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "Cad\u00ea o After? Pt. 1",
-        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Toca o Trompete",
-      "url": "https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Ela Vai Se Atracando",
         "url": "https://open.spotify.com/album/7MMhDNIuEGKnfjxyy2ug5e"
@@ -281,7 +225,43 @@
       "url": "https://open.spotify.com/track/1I1FhpzUlsSyAyOfWsDwJO"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "Fetiche",
+        "url": "https://open.spotify.com/album/659lNGwYSZkbjRVWGahBDB"
+      },
+      "artists": [
+        {
+          "name": "yung vegan",
+          "url": "https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV"
+        },
+        {
+          "name": "Bolin Batidas",
+          "url": "https://open.spotify.com/artist/0N8qBEsNM25AnKi6bMF91j"
+        }
+      ],
+      "duration_ms": 160862,
+      "name": "Polo Usa",
+      "url": "https://open.spotify.com/track/7GIOobAlKojSiQ6ytFlxdU"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "Cad\u00ea o After? Pt. 1",
+        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Toca o Trompete",
+      "url": "https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "At\u00e9 Que o Senhor Venha",
         "url": "https://open.spotify.com/album/4BwYDW9Drm8tWaFdCglz2E"
@@ -305,7 +285,83 @@
       "url": "https://open.spotify.com/track/596cTE5s4LL3YEXuo6nTew"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "Faz um Vuk Vuk (Teto Espelhado)",
+        "url": "https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Dj Nk Da Serra",
+          "url": "https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Faz um Vuk Vuk (Teto Espelhado)",
+      "url": "https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "Click!",
+        "url": "https://open.spotify.com/album/2aoqjfAG14nc6z3AMlkDGV"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "d.silvestre",
+          "url": "https://open.spotify.com/artist/1Ry5NkSxX1Ye7kTfUuLL2c"
+        }
+      ],
+      "duration_ms": 83538,
+      "name": "Onlyfans",
+      "url": "https://open.spotify.com/track/0W7zEjC3dFwaLAvWw6aShS"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "O Pipoqueiro - Agressivo Reliquia",
+        "url": "https://open.spotify.com/album/5ZAs8UnYklBOerWAF8LIVv"
+      },
+      "artists": [
+        {
+          "name": "Mc Colibri",
+          "url": "https://open.spotify.com/artist/5xxO4esjc53XReijAKikY5"
+        },
+        {
+          "name": "DJ GUILHERME DUARTE",
+          "url": "https://open.spotify.com/artist/36bD6Tr7rBa8rpA2GvO5F6"
+        }
+      ],
+      "duration_ms": 191817,
+      "name": "O Pipoqueiro - Agressivo Reliquia",
+      "url": "https://open.spotify.com/track/2GdKSEQw5vgWwGh5kqEsd8"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "3x3",
         "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
@@ -325,7 +381,31 @@
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "TAURUS",
+        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "99 Problemas",
+      "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
@@ -357,7 +437,39 @@
       "url": "https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Fode Bem",
         "url": "https://open.spotify.com/album/2Sky04WIU47r6SZ4AGGOzE"
@@ -377,99 +489,7 @@
       "url": "https://open.spotify.com/track/7lTVXJfNK4xaJSUXCUac6a"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "O Pipoqueiro - Agressivo Reliquia",
-        "url": "https://open.spotify.com/album/5ZAs8UnYklBOerWAF8LIVv"
-      },
-      "artists": [
-        {
-          "name": "Mc Colibri",
-          "url": "https://open.spotify.com/artist/5xxO4esjc53XReijAKikY5"
-        },
-        {
-          "name": "DJ GUILHERME DUARTE",
-          "url": "https://open.spotify.com/artist/36bD6Tr7rBa8rpA2GvO5F6"
-        }
-      ],
-      "duration_ms": 191817,
-      "name": "O Pipoqueiro - Agressivo Reliquia",
-      "url": "https://open.spotify.com/track/2GdKSEQw5vgWwGh5kqEsd8"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "TAURUS",
-        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "99 Problemas",
-      "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Indom\u00e1vel",
         "url": "https://open.spotify.com/album/6MBx194n7gvVy5s7KTGm4B"
@@ -489,27 +509,23 @@
       "url": "https://open.spotify.com/track/0lZp0muwBhwatS2psDYezn"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
-        "name": "Click!",
-        "url": "https://open.spotify.com/album/2aoqjfAG14nc6z3AMlkDGV"
+        "name": "Terra de Ningu\u00e9m",
+        "url": "https://open.spotify.com/album/1jy7oM1IDer13ttPyJ0Z7p"
       },
       "artists": [
         {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        },
-        {
-          "name": "d.silvestre",
-          "url": "https://open.spotify.com/artist/1Ry5NkSxX1Ye7kTfUuLL2c"
+          "name": "Caio Ocean",
+          "url": "https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q"
         }
       ],
-      "duration_ms": 83538,
-      "name": "Onlyfans",
-      "url": "https://open.spotify.com/track/0W7zEjC3dFwaLAvWw6aShS"
+      "duration_ms": 76043,
+      "name": "Terra de Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/4G16WCeGenrxlO3x3WfuY4"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Vem Quebrando",
         "url": "https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Idiota Raiz (Deixa Ir)",
         "url": "https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM"
@@ -573,23 +589,7 @@
       "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "Terra de Ningu\u00e9m",
-        "url": "https://open.spotify.com/album/1jy7oM1IDer13ttPyJ0Z7p"
-      },
-      "artists": [
-        {
-          "name": "Caio Ocean",
-          "url": "https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q"
-        }
-      ],
-      "duration_ms": 76043,
-      "name": "Terra de Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/4G16WCeGenrxlO3x3WfuY4"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Victor Era Meu Nome de Nerd",
         "url": "https://open.spotify.com/album/5KJ9Lm5YJEqTVaW8OFCnaL"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/2uGk60j3LR5bp6tGq9vtII"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Agora Fudeu Virei 157 Vs Mete Com For\u00e7a",
         "url": "https://open.spotify.com/album/0XmbEdLreBuXjO4MUGBXxW"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/7IOeWNbgtBm4SzHRRO6P1W"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3"
@@ -653,27 +653,23 @@
       "url": "https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
@@ -697,7 +693,43 @@
       "url": "https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "Te vi de canto",
+        "url": "https://open.spotify.com/album/0MTuIQpLoSuhW5gSgfXYoS"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "Te vi de canto",
+      "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Do not touch",
+      "url": "https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
@@ -717,7 +749,7 @@
       "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Quem \u00c9 o Louco Entre N\u00f3s",
         "url": "https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV"
@@ -733,23 +765,7 @@
       "url": "https://open.spotify.com/track/07wcQ1j2RrORokWq3HaXex"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "ERREJOTACULTDRILL, Vol. 2 - Esquema Novo",
         "url": "https://open.spotify.com/album/0PwwCnbPX0A6AiiRolXUJm"
@@ -781,99 +797,27 @@
       "url": "https://open.spotify.com/track/1zPrPaYao8QKaGRimp68ZM"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
-        "name": "P\u00e9talas",
-        "url": "https://open.spotify.com/album/7JjshWPwUrtfI9KM3MxQMY"
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
       },
       "artists": [
         {
-          "name": "Tavin",
-          "url": "https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         },
         {
-          "name": "Lerym",
-          "url": "https://open.spotify.com/artist/3MrkfEHXUASPYRgRzzeZHb"
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
         }
       ],
-      "duration_ms": 198000,
-      "name": "P\u00e9talas",
-      "url": "https://open.spotify.com/track/2kwHhz44tvQNedKd0G0ZW6"
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ"
-      },
-      "artists": [
-        {
-          "name": "MISAMO",
-          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Do not touch",
-      "url": "https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "barbie de chap\u00e9u (funk)",
-        "url": "https://open.spotify.com/album/2gMfiCskXsisEV7LsqFLaB"
-      },
-      "artists": [
-        {
-          "name": "Dj Paiva",
-          "url": "https://open.spotify.com/artist/2383IwhdilQ7mXGRSR5VvM"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "barbie de chap\u00e9u - funk",
-      "url": "https://open.spotify.com/track/4MB8rQqtjrIrQw4ThCPf8e"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "Te vi de canto",
-        "url": "https://open.spotify.com/album/0MTuIQpLoSuhW5gSgfXYoS"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Te vi de canto",
-      "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "Succubus Imortal",
-        "url": "https://open.spotify.com/album/2AWt019TdSzstDXfl3sNVf"
-      },
-      "artists": [
-        {
-          "name": "Kinechan",
-          "url": "https://open.spotify.com/artist/6av4qugr2BXsFc4BDGUzPF"
-        },
-        {
-          "name": "Dj Brunin XM",
-          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
-        }
-      ],
-      "duration_ms": 134068,
-      "name": "Succubus Imortal",
-      "url": "https://open.spotify.com/track/7plwzRRKiLgjtkB6LQU2Yk"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "PANICO NO SUBMUNDO",
         "url": "https://open.spotify.com/album/1LxVZkncq7swaP0uQA0C99"
@@ -893,7 +837,43 @@
       "url": "https://open.spotify.com/track/4B9EMKysjUxcJgIiBOD8Xb"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "P\u00e9talas",
+        "url": "https://open.spotify.com/album/7JjshWPwUrtfI9KM3MxQMY"
+      },
+      "artists": [
+        {
+          "name": "Tavin",
+          "url": "https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw"
+        },
+        {
+          "name": "Lerym",
+          "url": "https://open.spotify.com/artist/3MrkfEHXUASPYRgRzzeZHb"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "P\u00e9talas",
+      "url": "https://open.spotify.com/track/2kwHhz44tvQNedKd0G0ZW6"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "barbie de chap\u00e9u (funk)",
+        "url": "https://open.spotify.com/album/2gMfiCskXsisEV7LsqFLaB"
+      },
+      "artists": [
+        {
+          "name": "Dj Paiva",
+          "url": "https://open.spotify.com/artist/2383IwhdilQ7mXGRSR5VvM"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "barbie de chap\u00e9u - funk",
+      "url": "https://open.spotify.com/track/4MB8rQqtjrIrQw4ThCPf8e"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "Os Meninos de Amsterdan",
         "url": "https://open.spotify.com/album/2F3WllbH27sW9YZJDZ2My2"
@@ -921,7 +901,27 @@
       "url": "https://open.spotify.com/track/2BTlKAF9NDEkTDrqc8wIzE"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "Succubus Imortal",
+        "url": "https://open.spotify.com/album/2AWt019TdSzstDXfl3sNVf"
+      },
+      "artists": [
+        {
+          "name": "Kinechan",
+          "url": "https://open.spotify.com/artist/6av4qugr2BXsFc4BDGUzPF"
+        },
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        }
+      ],
+      "duration_ms": 134068,
+      "name": "Succubus Imortal",
+      "url": "https://open.spotify.com/track/7plwzRRKiLgjtkB6LQU2Yk"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
@@ -953,7 +953,47 @@
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
     },
     {
-      "added_at": "2023-08-23 10:10:23",
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Congratulations (feat. Bilal)",
+      "url": "https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
+      "album": {
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+    },
+    {
+      "added_at": "2023-08-24 10:54:05",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -975,42 +1015,6 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "Solteiro For\u00e7ado (Boiadeira Internacional)",
-        "url": "https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 194582,
-      "name": "Solteiro For\u00e7ado - Boiadeira Internacional",
-      "url": "https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR"
-    },
-    {
-      "added_at": "2023-08-23 10:10:23",
-      "album": {
-        "name": "GMFU (w/ 6arelyhuman)",
-        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "GMFU (w/ 6arelyhuman)",
-      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

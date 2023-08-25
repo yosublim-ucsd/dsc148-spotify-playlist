@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Movements
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,471 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,650 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 54 | [Repeat After Me](https://open.spotify.com/track/3O6ybQdHdiLgrAcrE5cPbJ) | [Finding Aurora](https://open.spotify.com/artist/5cg6ycryqQJewFOqeffsC0) | [Repeat After Me](https://open.spotify.com/album/7JHVAkXHLqvmpCQbPU9k3K) | 4:06 |
 | 55 | [Been Better](https://open.spotify.com/track/6Q959ampDmPu40NTGLC02p) | [Coal Bed](https://open.spotify.com/artist/2rEzca2bMYnIxSyQQRvT3D) | [Been Better](https://open.spotify.com/album/1GyCWCRk6Gq06dQlPJ2J9E) | 2:17 |
 
-Snapshot ID: `MCw0NzIzYmEyYWMyZDg0YmEwYWFiMmVmNWQzNjBhNzE4ZTQ3OGJjNDE1`
+Snapshot ID: `MCxjZTY4ZTEzMmFiNDU1ZmJiM2M2NWQ1ODVkYjQ2ZTViZThkZmZhZTcw`

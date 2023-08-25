@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 211764,
       "name": "Mind Tranquility",
       "url": "https://open.spotify.com/track/3CmE2zIMFmeEs3b6j4GDLy"
@@ -3134,6 +3134,24 @@
       "duration_ms": 200000,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/72KilUGrpXNCPE0yWjcSmN"
+    },
+    {
+      "album": {
+        "name": "pattern",
+        "url": "https://open.spotify.com/album/6ttEjZOmv5fSeiEz0QTmIC"
+      },
+      "artists": [
+        {
+          "name": "Sofia Garcia",
+          "url": "https://open.spotify.com/artist/513qG0sPNTxFlWOkWyFpGi"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "pattern",
+      "url": "https://open.spotify.com/track/2zuxJxGXamWbjgiTF6a7rA"
     },
     {
       "album": {

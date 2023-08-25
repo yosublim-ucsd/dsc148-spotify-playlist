@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-334 songs - 16 hr 45 min
+335 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Banzai](https://open.spotify.com/track/17vSg7KjpV5vHRYqlMcft7) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [D\-Bounce](https://open.spotify.com/album/1fYMSkZu4OweUq1yyj8038) | 4:35 | 2021-10-12 | 2022-02-12 |
 | [Base\-level Guilt](https://open.spotify.com/track/5zKasYyHSZ6oNpxdNGrGZg) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Base\-level Guilt](https://open.spotify.com/album/24d5RGnCIcRoIdcEzBHJMp) | 3:06 | 2022-08-19 |  |
 | [Beautiful](https://open.spotify.com/track/0daOdYBVZB8LlL7nuW5Bjv) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [Beautiful](https://open.spotify.com/album/6Hfb1zvf3pklz3DEGSPgeD) | 2:01 | 2022-09-09 |  |
-| [Becoming True](https://open.spotify.com/track/3wm0X0vHD5IqEwZP8ND2kR) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Becoming True](https://open.spotify.com/album/5hPgEH2bFnsZXUw4gFn3nP) | 2:58 | 2022-02-11 |  |
+| [Becoming True](https://open.spotify.com/track/3wm0X0vHD5IqEwZP8ND2kR) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Becoming True](https://open.spotify.com/album/5hPgEH2bFnsZXUw4gFn3nP) | 2:58 | 2022-02-11 | 2023-08-25 |
 | [Begin \(feat\. Wales\)](https://open.spotify.com/track/1v5J1L8FbUQya4SUQFCstk) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 4:02 | 2021-06-17 | 2022-02-12 |
 | [between eyes](https://open.spotify.com/track/3WzlaiEMtEOV36Lw35kUxR) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [between eyes](https://open.spotify.com/album/2iJzd1Ca4FL4xCl8nuhJQL) | 2:37 | 2022-10-14 |  |
 | [big heart](https://open.spotify.com/track/2tTEI9HzHglqVe3fthyZ4X) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [big heart](https://open.spotify.com/album/1z9alhP09uNHb8XzGi5Fp7) | 2:04 | 2022-12-09 |  |
@@ -165,7 +165,7 @@
 | [Lost Boys](https://open.spotify.com/track/4pCD8UePjCSLPBZMiWbV2R) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Lost Boys](https://open.spotify.com/album/3HsiVf90EsNt1Bjk0KAcH1) | 3:17 | 2022-08-12 | 2023-02-10 |
 | [Love and Fear](https://open.spotify.com/track/2yZLrdAVKZXS6dhWtnheXw) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Love and Fear](https://open.spotify.com/album/1iGrF9KFH0z04I75umd88i) | 2:13 | 2019-10-04 | 2022-02-12 |
 | [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 | 2022-02-11 | 2022-10-13 |
-| [Low \- Kaskade Remix](https://open.spotify.com/track/30WY6XV23tYQ3yBXGEgGcn) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/7e1njN30eJ5iKxl9e96XOK) | 5:40 | 2022-10-07 |  |
+| [Low \- Kaskade Remix](https://open.spotify.com/track/30WY6XV23tYQ3yBXGEgGcn) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/7e1njN30eJ5iKxl9e96XOK) | 5:40 | 2022-10-07 | 2023-08-25 |
 | [low grind](https://open.spotify.com/track/266jnj5ORkLKuBiPW75i7o) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [low grind](https://open.spotify.com/album/3TQY6YquTwex59VviOneWt) | 2:30 | 2022-10-07 | 2023-07-15 |
 | [Low Life](https://open.spotify.com/track/28BEwylPqT4eAmVYbhC3iL) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Low Life](https://open.spotify.com/album/1BctYb6UkgBUGhEKAJ5JyD) | 2:59 | 2019-10-04 | 2022-02-12 |
 | [Lujo](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI) | [DJ Duboise](https://open.spotify.com/artist/4rrvVP1Aeax1bAcLYpCBCN) | [Lujo](https://open.spotify.com/album/1oaJFXlAaPf1seL59yGGb7) | 2:37 | 2022-02-11 |  |
@@ -173,6 +173,7 @@
 | [lyfe tajm](https://open.spotify.com/track/6v2htzfSp1OLprdmiruRWg) | [ako](https://open.spotify.com/artist/7zWQGs8xfpyDzWJZA9WOXH) | [lyfe tajm](https://open.spotify.com/album/1q5fqKyTxLWsFxt62em7v8) | 1:39 | 2019-10-04 | 2022-02-12 |
 | [madrid mule](https://open.spotify.com/track/2TkI5tBjsp2Z4nGyQEujCI) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [madrid mule](https://open.spotify.com/album/5O5YKYULdiDb3A9U0ortSt) | 2:30 | 2022-11-25 | 2023-07-15 |
 | [magenta](https://open.spotify.com/track/1zwI0N6UzSBzRP4Q7YApsx) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [magenta](https://open.spotify.com/album/4HO9IaPmZRDwhrj608YTYr) | 3:07 | 2022-08-19 |  |
+| [Mar y Sol](https://open.spotify.com/track/7ET0GAyYAy35LEZJnFwFEa) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Mar y Sol](https://open.spotify.com/album/2zRJG1SeLJ2LzyULzKyUPj) | 3:28 | 2023-08-25 |  |
 | [Mare](https://open.spotify.com/track/6O56ptIydjWtGtQsQrEcfu) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Mare](https://open.spotify.com/album/5kMArzwEAveUKeNZZd5dNi) | 2:41 | 2022-02-11 |  |
 | [maseru](https://open.spotify.com/track/1OqjCvgq2huHFm5YuL6A8G) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [maseru](https://open.spotify.com/album/15h3ZjC8ZpBiDyWuJGap7f) | 1:53 | 2021-10-26 | 2022-02-12 |
 | [Maze](https://open.spotify.com/track/3fG4uUJ8yTCfe9KHUQM45W) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Maze](https://open.spotify.com/album/0803IoVPGn37OTU19kKF7z) | 2:06 | 2022-02-11 |  |
@@ -279,7 +280,7 @@
 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 | 2022-02-11 |  |
 | [The girl with broken dreams](https://open.spotify.com/track/0nrvM5kJIPTfSgNWXBU0TI) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/6cf3yxAhMR8j3J7JIAcdyp) | 2:35 | 2022-10-28 | 2022-12-15 |
 | [The girl with broken dreams](https://open.spotify.com/track/28xqa66vOcxPCXxFmPN1U2) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/7ymiir2WBV6HB2cEop3HWM) | 2:35 | 2022-09-02 | 2022-11-20 |
-| [The girl with broken dreams](https://open.spotify.com/track/7DzhgkrwVvnOfhTq1C3cYS) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/4hnNFdJQNdyMtUmsiNniEl) | 2:35 | 2022-12-09 |  |
+| [The girl with broken dreams](https://open.spotify.com/track/7DzhgkrwVvnOfhTq1C3cYS) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/4hnNFdJQNdyMtUmsiNniEl) | 2:35 | 2022-12-09 | 2023-08-25 |
 | [The Heavens](https://open.spotify.com/track/2BQPwEDYM8KLUaKncKQiZA) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [The Heavens](https://open.spotify.com/album/4SfOQIO0DjTwSYAzMGlyC1) | 3:36 | 2022-02-12 |  |
 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 | 2023-04-21 |  |
 | [They Do Exist](https://open.spotify.com/track/656iCGkgKBbDxvFs5EfzGK) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [They Do Exist](https://open.spotify.com/album/48I1k8R1X9Psk5XTrVDT2u) | 4:49 | 2022-02-12 | 2022-07-08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Sam Divine",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: D.O.D & Jax Jones",
   "name": "UK House Music",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 197254,
       "name": "All The Girls",
       "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 188280,
       "name": "Deep Deep Down - Radio Edit",
       "url": "https://open.spotify.com/track/0as4kO2ITP4MIsQSXcm9b7"
@@ -7245,6 +7245,28 @@
     },
     {
       "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
+    },
+    {
+      "album": {
         "name": "Neu",
         "url": "https://open.spotify.com/album/3nshtHpBdff4LeOVc8af30"
       },
@@ -9609,7 +9631,7 @@
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 207692,
+      "duration_ms": 208773,
       "name": "Step it Out",
       "url": "https://open.spotify.com/track/43owQJ67WtG6Euzu0Onhx3"
     },
@@ -11414,6 +11436,24 @@
       "duration_ms": 171145,
       "name": "Worst Enemy",
       "url": "https://open.spotify.com/track/3HNB7P3nnZlGzHKPPXXYix"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/2r1u4VFgE7pZvf28bgPizn"
+      },
+      "artists": [
+        {
+          "name": "Mason Maynard",
+          "url": "https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184782,
+      "name": "You - Edit",
+      "url": "https://open.spotify.com/track/61hQppufGvKelVZHZ3bnXk"
     },
     {
       "album": {

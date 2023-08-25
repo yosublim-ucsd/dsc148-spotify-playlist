@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "infinite money glitch",
+        "url": "https://open.spotify.com/album/3gFMu1LNaNQlyi5wzTwgj9"
+      },
+      "artists": [
+        {
+          "name": "Saint Lane",
+          "url": "https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "infinite money glitch",
+      "url": "https://open.spotify.com/track/5VnxkeWulq8p3DYzrvSoVP"
+    },
+    {
+      "album": {
         "name": "Meet The Woo 2",
         "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
       },
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 157128,
       "name": "YALLAH!",
       "url": "https://open.spotify.com/track/35xJ6qdU2LpbeQ6xODmraE"

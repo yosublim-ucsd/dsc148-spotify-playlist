@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=b_mUwu7XT4C-hexwhZx9Ag\">Makhadzi</a>",
+  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi?si=uejwEP8rROa-9m1wnIqgcQ\">Aubrey Qwana</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -226,10 +226,36 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 254189,
       "name": "Ahilweni",
       "url": "https://open.spotify.com/track/5k3YNp6FzXz5I47gcE1cnc"
+    },
+    {
+      "album": {
+        "name": "Mkabayi",
+        "url": "https://open.spotify.com/album/0U8KEPzwdRROQUwsUigcOW"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        },
+        {
+          "name": "Airic",
+          "url": "https://open.spotify.com/artist/0S2ETsPPHUZzY2dR742NuO"
+        },
+        {
+          "name": "Luve Dubazane",
+          "url": "https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260017,
+      "name": "Akasangifuni",
+      "url": "https://open.spotify.com/track/3gFgWXXr5TO2WI2ykUeSxi"
     },
     {
       "album": {
@@ -2497,6 +2523,28 @@
     },
     {
       "album": {
+        "name": "I Cant Give Up Now",
+        "url": "https://open.spotify.com/album/5GbAhxDtsxMeeoEMNJHpuT"
+      },
+      "artists": [
+        {
+          "name": "Oufadafada",
+          "url": "https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7"
+        },
+        {
+          "name": "Dj 8 Milli",
+          "url": "https://open.spotify.com/artist/40Au2AtBYDr6uYKqzV5Ryz"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466886,
+      "name": "I Can't Give Up Now",
+      "url": "https://open.spotify.com/track/3GiST92C7I4mfc1jkVNebP"
+    },
+    {
+      "album": {
         "name": "I'll Be Here For You",
         "url": "https://open.spotify.com/album/7uXOXyGuOf2EaNCJxE2yaR"
       },
@@ -2698,7 +2746,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 162548,
       "name": "Imali",
       "url": "https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1"
@@ -2922,6 +2970,28 @@
       "duration_ms": 245647,
       "name": "Induk'enhle",
       "url": "https://open.spotify.com/track/1XT5TH5qFcu5neQuqfmNFE"
+    },
+    {
+      "album": {
+        "name": "Ingunaphakade",
+        "url": "https://open.spotify.com/album/4Lp6BLJxkFi1PaELz9tFEo"
+      },
+      "artists": [
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246804,
+      "name": "Ingunaphakade",
+      "url": "https://open.spotify.com/track/6nkevgvV6dWJQ5GUGnJzFA"
     },
     {
       "album": {
@@ -3170,7 +3240,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 179936,
       "name": "Iqiniso",
       "url": "https://open.spotify.com/track/7kU1FOddAQbqFKT6uVumg6"
@@ -3327,6 +3397,36 @@
     },
     {
       "album": {
+        "name": "Pula EP",
+        "url": "https://open.spotify.com/album/5N4dc7uW6ZLkDdzHBVc59E"
+      },
+      "artists": [
+        {
+          "name": "Kekelingo",
+          "url": "https://open.spotify.com/artist/4tNXPWxHHch1TCCXilE1q2"
+        },
+        {
+          "name": "John Lundun",
+          "url": "https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk"
+        },
+        {
+          "name": "Leomile",
+          "url": "https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW"
+        },
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246288,
+      "name": "ithemba (Litsomo Version)",
+      "url": "https://open.spotify.com/track/0L40hQoFVhcdkkDftKhoNd"
+    },
+    {
+      "album": {
         "name": "Ithuba",
         "url": "https://open.spotify.com/album/1pYMs6qogXnmKzGoGlBwWQ"
       },
@@ -3416,6 +3516,28 @@
       "duration_ms": 341333,
       "name": "Izimpi",
       "url": "https://open.spotify.com/track/5HivUEOLwjCIpJQsXj0S9r"
+    },
+    {
+      "album": {
+        "name": "Music From & Inspired By Shaka iLembe (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Gk6DBu8HnLr41cGlQ4gIF"
+      },
+      "artists": [
+        {
+          "name": "Nonka",
+          "url": "https://open.spotify.com/artist/7owh85VxGfhYd41wHZ9nZA"
+        },
+        {
+          "name": "Shaka iLembe",
+          "url": "https://open.spotify.com/artist/6vNGQhQUVO0bFSBpa03aUz"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Izintuthwane",
+      "url": "https://open.spotify.com/track/7ikOr0lhauHZz0xBqcBqMv"
     },
     {
       "album": {
@@ -3650,7 +3772,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 314219,
       "name": "Ke Tshepile Wena - Amapiano Remix",
       "url": "https://open.spotify.com/track/17fvvpCD8y1DRmawmYPoR5"
@@ -4290,7 +4412,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 390870,
       "name": "Lerato La Pelo Yaka",
       "url": "https://open.spotify.com/track/07aRCwmKVS3q6stWVet62u"
@@ -4834,6 +4956,28 @@
       "duration_ms": 273600,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/2k7UG78CuqYBLP3jrCasMU"
+    },
+    {
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/3L3wfYaXljLoL3rQpGVrVk"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        },
+        {
+          "name": "Mthandazo Gatya",
+          "url": "https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/0el3u0ITa53lE6WMbxTrdA"
     },
     {
       "album": {
@@ -5489,6 +5633,28 @@
     },
     {
       "album": {
+        "name": "Ngibambe",
+        "url": "https://open.spotify.com/album/0iJlyUzbECV9mB2H6yGwgc"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        },
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Ngibambe",
+      "url": "https://open.spotify.com/track/0UMJY8DztWbb0xolqiTGGD"
+    },
+    {
+      "album": {
         "name": "Circle Groove Vol.2",
         "url": "https://open.spotify.com/album/0DWl5uGL7kEuylL9cSRqE5"
       },
@@ -5920,7 +6086,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 222500,
       "name": "Njalo Njalo",
       "url": "https://open.spotify.com/track/31OnQUIe0Ue1Wbd3MhFGC6"
@@ -6241,6 +6407,32 @@
     },
     {
       "album": {
+        "name": "Oe'Phihlile",
+        "url": "https://open.spotify.com/album/1yfa56Cp1nEXqs4h1elpLQ"
+      },
+      "artists": [
+        {
+          "name": "Lowsheen",
+          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
+        },
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Lioness Ratang",
+          "url": "https://open.spotify.com/artist/5qltS8SwpvIgYGfaWpEK8s"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402179,
+      "name": "Oe'Phihlile",
+      "url": "https://open.spotify.com/track/4Z14QJJqzQiYFXsEiJkPnF"
+    },
+    {
+      "album": {
         "name": "Oh Mama",
         "url": "https://open.spotify.com/album/7z7jzJ4js74BNUfFXvLREA"
       },
@@ -6434,7 +6626,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 277517,
       "name": "Part Ways",
       "url": "https://open.spotify.com/track/20BhX6XNITQEzASpkVomVJ"
@@ -6570,7 +6762,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 265531,
       "name": "Pula",
       "url": "https://open.spotify.com/track/7MvlJ8CAeoNuTnJgmiGcYV"
@@ -6764,7 +6956,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 247578,
       "name": "S'thandwasam",
       "url": "https://open.spotify.com/track/41Ja01RLcrxmoU18IecKJA"
@@ -7870,7 +8062,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 245185,
       "name": "Thath' Inhliziyo",
       "url": "https://open.spotify.com/track/0sqGsainZvCqZFVPYHLyp1"
@@ -8108,7 +8300,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 218031,
       "name": "Tshitshi Lami",
       "url": "https://open.spotify.com/track/69Tn0zfC37JFEQJJEUxRGH"
@@ -9608,7 +9800,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 192713,
       "name": "Your Figure",
       "url": "https://open.spotify.com/track/1Cjs5h9o9cE81TSzF8E2EX"

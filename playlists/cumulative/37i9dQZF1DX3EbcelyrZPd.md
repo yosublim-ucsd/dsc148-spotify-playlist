@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz & Koffi Olomide
 
-274 songs - 15 hr 40 min
+276 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bora Peke Yangu](https://open.spotify.com/track/0eIdUNkRBCxaouwoDRl2M4) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:55 | 2021-11-11 | 2022-03-04 |
 | [Chargie](https://open.spotify.com/track/2NiQLNa8zNji6hC0FagTDV) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Chargie](https://open.spotify.com/album/0UR1Tq0IKaA72XzuuG4lrt) | 2:44 | 2023-02-16 | 2023-07-28 |
 | [Chetu](https://open.spotify.com/track/13fP1icHklBUjnuOojaHbg) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Chetu](https://open.spotify.com/album/5Be8LuvZZ3PrdshDBBHo37) | 3:09 | 2022-01-20 | 2022-06-10 |
-| [Chitaki](https://open.spotify.com/track/5jCOopYA0S9mw18va3dRgU) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Chitaki](https://open.spotify.com/album/1pTjbJK5jXQ458VW7GAqFs) | 3:15 | 2023-01-06 |  |
+| [Chitaki](https://open.spotify.com/track/5jCOopYA0S9mw18va3dRgU) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Chitaki](https://open.spotify.com/album/1pTjbJK5jXQ458VW7GAqFs) | 3:15 | 2023-01-06 | 2023-08-25 |
 | [Chochea](https://open.spotify.com/track/2oHY0E1ew4snvK6ys5to63) | [Ability](https://open.spotify.com/artist/7KaKP5eucZGqTRCbBY3o9x), [Juma Nature](https://open.spotify.com/artist/2enoDeXvzvFmUbauQLAEc1) | [Chochea](https://open.spotify.com/album/0x5yL8jchQm4ijPnkia1ih) | 3:31 | 2021-06-25 | 2022-01-21 |
 | [Closer](https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Closer](https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm) | 3:18 | 2022-08-18 | 2023-05-12 |
 | [Comboraa](https://open.spotify.com/track/5tyXI0eHfeNeSpf1OQM55H) | [Whozu](https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3), [S2kizzy](https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc) | [Comboraa](https://open.spotify.com/album/0nGx68npium6L4Qth0a6Jv) | 3:50 | 2023-06-15 |  |
@@ -121,6 +121,7 @@
 | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z) | 3:08 | 2021-11-18 | 2022-11-11 |
 | [Manzese](https://open.spotify.com/track/3YShLver8yW2GFaVyyo53s) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Manzese](https://open.spotify.com/album/5Q7GATwyhV0GGRS9uA6HPo) | 3:20 | 2022-06-02 | 2023-03-18 |
 | [Maokoto](https://open.spotify.com/track/0ldVedbqs0hXp8ijwVUQoQ) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Maokoto](https://open.spotify.com/album/6pn4PsDQDZ5BE2f50TihaU) | 3:36 | 2023-08-03 |  |
+| [Maokoto](https://open.spotify.com/track/3n7rdIFLwOqDRzb634nuKg) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Maokoto](https://open.spotify.com/album/7sCHQ4iJsOkIsWGOjqTiRq) | 3:28 | 2023-08-24 |  |
 | [Mapenzi](https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Karata 3](https://open.spotify.com/album/0eJGPJNelIGnxeFMsbIlS4) | 3:17 | 2021-06-25 | 2022-01-21 |
 | [Mapopo \- Remix](https://open.spotify.com/track/6JQbozPXyjceIHVi6S1rzS) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mapopo \(Remix\)](https://open.spotify.com/album/3DS6T19UXoSLPa73O4Mlbh) | 2:48 | 2022-12-16 |  |
 | [Mchumba](https://open.spotify.com/track/2CNtq7md5SkG2mRge5Ruj1) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mchumba](https://open.spotify.com/album/6FKYjhPJ2o9VXmpbLm6Koo) | 3:36 | 2022-10-21 |  |
@@ -175,7 +176,7 @@
 | [Nibebe](https://open.spotify.com/track/0wAeptB1IYnjfmU4yP6Mxn) | [Mzee Yusuph](https://open.spotify.com/artist/1JyYRDJWdQMECFjJGWjMqm) | [Tamu Kwa Tamu](https://open.spotify.com/album/0VYGQMTaK2E8l8lWresCxq) | 4:08 | 2022-07-07 | 2022-12-10 |
 | [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 | 2022-08-11 | 2023-08-11 |
 | [Nidhibiti](https://open.spotify.com/track/6Zo7ymeK6BQOJ8Jf6gZeVJ) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 3:01 | 2022-11-24 | 2023-03-03 |
-| [Nihurumie](https://open.spotify.com/track/1SLVICOLKLKlkMf2v88TpO) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Nihurumie](https://open.spotify.com/album/6vtfyP6w25wF0dlQuMXb4k) | 2:59 | 2023-03-16 |  |
+| [Nihurumie](https://open.spotify.com/track/1SLVICOLKLKlkMf2v88TpO) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Nihurumie](https://open.spotify.com/album/6vtfyP6w25wF0dlQuMXb4k) | 2:59 | 2023-03-16 | 2023-08-25 |
 | [Nikazama](https://open.spotify.com/track/6VMAtn2t4kJhOH8woYEHqC) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [The Kid You Know \(Deluxe Edition\)](https://open.spotify.com/album/2hPp102Eyl86DTTLSlljd8) | 3:33 | 2023-05-11 |  |
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-09 | 2023-06-23 |
 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 | 2021-11-25 | 2022-02-25 |
@@ -197,6 +198,7 @@
 | [Okay](https://open.spotify.com/track/5Jgw4HpMpnetmRxc7P8Fm9) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Okay](https://open.spotify.com/album/3h3wSoFadNAYHiEF0XpRGj) | 3:33 | 2023-05-04 | 2023-07-28 |
 | [On Fire](https://open.spotify.com/track/1RzREeP3SPfTd4qMSTTUtg) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [On Fire](https://open.spotify.com/album/3UQRnsR6Ie8yozVIOoTHK8) | 3:27 | 2023-05-18 |  |
 | [Outside](https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 3:06 | 2021-11-11 | 2022-05-06 |
+| [Overdose](https://open.spotify.com/track/0cNyOijJPgdObogcoke87K) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Overdose](https://open.spotify.com/album/4xGL4Q7LrSA1KQxDv9S3wN) | 3:51 | 2023-08-24 |  |
 | [Oya Oya](https://open.spotify.com/track/5l1j75XxjCKV82YQRnfCNl) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:27 | 2021-10-07 | 2022-06-03 |
 | [Papaa](https://open.spotify.com/track/06MXbcZxZqPJPcFHaQLmkL) | [B Gway](https://open.spotify.com/artist/2McpxRWbFB0yp0zsh38XOZ) | [Papaa](https://open.spotify.com/album/77qytTZiJTwHdJTfANVsrk) | 2:13 | 2022-07-07 | 2022-10-08 |
 | [Papapu](https://open.spotify.com/track/6kEvmo6uQopt9H1qacjSTx) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Papapu](https://open.spotify.com/album/5vdqcmLs5OOvJzv0vilk09) | 4:36 | 2022-07-21 | 2023-03-11 |

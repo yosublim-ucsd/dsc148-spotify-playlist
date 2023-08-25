@@ -1,12 +1,12 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 34445,
+  "num_followers": 34466,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjI3MmRiOGQwNmJhMGE1ZjcwZjU1ODBlYTM2NGJmNmRhYjM1MmIx",
+  "snapshot_id": "MCxlMGRkYjczODMzMWRjODhjZTkxOTlkZmEwMWNmZjdjODE2NjFmYzhl",
   "tracks": [
     {
       "added_at": "2023-07-10 09:24:11",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-07-10 09:24:11",
       "album": {
-        "name": "Khalisni",
-        "url": "https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378"
-      },
-      "artists": [
-        {
-          "name": "Saud G",
-          "url": "https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ"
-        },
-        {
-          "name": "Ahmedoo Biggie",
-          "url": "https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy"
-        }
-      ],
-      "duration_ms": 189295,
-      "name": "Khalisni",
-      "url": "https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp"
-    },
-    {
-      "added_at": "2023-07-10 09:24:11",
-      "album": {
         "name": "Dabbaba",
         "url": "https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 129229,
       "name": "Dabbaba",
       "url": "https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh"
+    },
+    {
+      "added_at": "2023-07-10 09:24:11",
+      "album": {
+        "name": "Khalisni",
+        "url": "https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378"
+      },
+      "artists": [
+        {
+          "name": "Saud G",
+          "url": "https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ"
+        },
+        {
+          "name": "Ahmedoo Biggie",
+          "url": "https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy"
+        }
+      ],
+      "duration_ms": 189295,
+      "name": "Khalisni",
+      "url": "https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp"
     },
     {
       "added_at": "2023-07-10 09:24:11",

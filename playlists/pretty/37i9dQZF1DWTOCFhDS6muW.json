@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 20751,
+  "num_followers": 20760,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDAzNWRiYmEwM2M5NDBiNmM5ODk0OGE1OWMxNmY5MjBiNTRiNGQy",
+  "snapshot_id": "MCwwMGZmMGQzMTk2NGE0OGQ4MzU5NjI5OTFmMDU1Y2FiZWZhNGRmMWVk",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -547,6 +547,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "La Ametralladora",
+        "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+        }
+      ],
+      "duration_ms": 154476,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Mete Y Saca",
         "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 323436,
       "name": "Mete Y Saca",
       "url": "https://open.spotify.com/track/7tez2Argy2je4NUQM9eK3y"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "La Ametralladora",
-        "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Rolands",
-          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
-        }
-      ],
-      "duration_ms": 154476,
-      "name": "La Ametralladora",
-      "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
     },
     {
       "added_at": "2020-05-26 15:53:13",

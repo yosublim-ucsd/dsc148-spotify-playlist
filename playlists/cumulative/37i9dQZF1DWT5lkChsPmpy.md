@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-446 songs - 19 hr 53 min
+447 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Five Minutes](https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Five Minutes](https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8) | 3:12 | 2021-11-10 | 2022-09-24 |
 | [Flashlights Under A Blanket](https://open.spotify.com/track/1G1kr7sfoOdGIN5tihDans) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Course Correction](https://open.spotify.com/album/2laHbGZd6kNRvEyA5RTfBt) | 4:00 | 2022-06-10 | 2023-01-21 |
 | [FLAVOURS](https://open.spotify.com/track/3GCKncswL5O0MZfCuYaJWG) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [FLAVOURS](https://open.spotify.com/album/2kesWSxxpRTAMPSTQDpAiH) | 2:13 | 2022-09-02 |  |
-| [Flic\-en\-Flac](https://open.spotify.com/track/4xDeeLhlfZkp0fvEDirlvl) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Flic\-en\-Flac](https://open.spotify.com/album/2BynXAAYqXtPpbAclrbb7u) | 3:05 | 2021-11-10 |  |
+| [Flic\-en\-Flac](https://open.spotify.com/track/4xDeeLhlfZkp0fvEDirlvl) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Flic\-en\-Flac](https://open.spotify.com/album/2BynXAAYqXtPpbAclrbb7u) | 3:05 | 2021-11-10 | 2023-08-25 |
 | [Floating In My Dream](https://open.spotify.com/track/23JdwjvpPbxctQhxbBRWZN) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [Floating In My Dream](https://open.spotify.com/album/1l1GOgr2MU8WkToq57dsOk) | 2:16 | 2022-10-28 |  |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2021-11-10 | 2022-10-07 |
 | [floaty](https://open.spotify.com/track/6K250yvOotlfeDRzUyFdIK) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [floaty](https://open.spotify.com/album/6u13flQo08XtfdftYWNjY7) | 2:18 | 2022-10-28 |  |
@@ -239,6 +239,7 @@
 | [Lounges](https://open.spotify.com/track/1eJ6VriKLzktGdph6f06jT) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Lounges](https://open.spotify.com/album/2n8ETq2ybdSzRi15mGm4bt) | 1:56 | 2021-11-10 | 2023-07-29 |
 | [Love Is Blind](https://open.spotify.com/track/2RQAWyB9xieQQjJgTfr0h1) | [Mad Q](https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4) | [Love Is Blind](https://open.spotify.com/album/4juVHLFB6vng4oqDP0y24e) | 2:43 | 2022-05-10 |  |
 | [love triangles](https://open.spotify.com/track/0WJj3kLVjvHCB5Pf2bkgXE) | [Happy Trees](https://open.spotify.com/artist/1C9UmgndcdjzGA4YmV3Bmr) | [love triangles](https://open.spotify.com/album/1dIrPgFSe5PM08NJrWDpZD) | 1:40 | 2021-11-10 | 2023-01-21 |
+| [loving](https://open.spotify.com/track/6KlU7wdqB6FuYzdr2nG8tl) | [Midnight Moon](https://open.spotify.com/artist/2rAbGV9R426clLWzjOQhIB) | [loving](https://open.spotify.com/album/7bRrqZ9yNKXnd0uKhzlx9G) | 2:38 | 2023-08-24 |  |
 | [Low Ceiling, Dim Lights](https://open.spotify.com/track/2Bq5ki0TqqEGYlqevIPG31) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Sweat It Out](https://open.spotify.com/album/7uT8kKVNzc7Y8TqNzTiJzC) | 2:43 | 2023-01-20 |  |
 | [Luc Et Jean](https://open.spotify.com/track/6QCDeEAy58PKoRwmqscuZ9) | [Nosh Sank](https://open.spotify.com/artist/69L7WtIFxX2OylS42CC2qL) | [Luc Et Jean](https://open.spotify.com/album/3RCmcWwUkQCa4OvAW5xb9o) | 2:54 | 2021-11-10 | 2022-05-11 |
 | [Lucky Indigo](https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2) | [Ayimi](https://open.spotify.com/artist/6QTs7zcBWJY3Hst7yKkc2e) | [Lucky Indigo](https://open.spotify.com/album/5xldzhflovUqTs5lKCfhxG) | 3:05 | 2021-11-10 |  |

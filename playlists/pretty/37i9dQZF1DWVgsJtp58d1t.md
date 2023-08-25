@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32?si=d32ed1e805b04d7b">d4vd</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,956 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,941 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [FR FR](https://open.spotify.com/track/1i0xpTfKXdUvbB6nFKakRy) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Big Boss](https://open.spotify.com/album/0ZLuL6c8Kr4Vx2XTsWzTzQ) | 2:40 |
 | 120 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
 
-Snapshot ID: `MCwzYTU2NmFiODAzZWVkMTBiODM2MzU2Y2I5YmM3YTRhYTZhZDZlYmYw`
+Snapshot ID: `MCxlMzRjY2U1MTU5Mjc1ZjU1MjVmODRhNjJiYjYwMmY4ZjE0MjdlY2Yy`

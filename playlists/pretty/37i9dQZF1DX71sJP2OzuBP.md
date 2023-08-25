@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,564 likes - 103 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,578 likes - 103 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 16 | [Let Me Tell You](https://open.spotify.com/track/2jTrgeZe6B8Fbx52ECTc7x) | [NEOSO](https://open.spotify.com/artist/7zAyW4IBReORwCaBXxQfNd) | [Let Me Tell You](https://open.spotify.com/album/7E2CZqo3O0RVeKK1gm7Lld) | 3:24 |
 | 17 | [最最幸運的事情](https://open.spotify.com/track/72ioImTCSyLflr8Q1YymWd) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb) | [最最幸運的事情](https://open.spotify.com/album/55SFZZNUEAyCIvDXG6OnPn) | 3:46 |
 | 18 | [預感](https://open.spotify.com/track/7cd9FUyybSJX1gQ9ElPi2g) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 4:50 |
-| 19 | [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR大颖](https://open.spotify.com/artist/4JXihdUtQ4rRPxCdsrGnhu) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 |
+| 19 | [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 |
 | 20 | [給月亮的三行詩 \(《我要逆風去》電視劇片尾曲 \)](https://open.spotify.com/track/2qvw3TxW0AeGygQliu379B) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [給月亮的三行詩](https://open.spotify.com/album/2nHZoTwkHnpTVEEk1g8Hmn) | 3:30 |
 | 21 | [即使這個世界令人絕望](https://open.spotify.com/track/63lhU8p2u5ZtzvLRWjAyQt) | [Verity](https://open.spotify.com/artist/5u3xgkpRIAibSLXstBWJTf) | [即使這個世界令人絕望](https://open.spotify.com/album/5MysFAKmMxd05UGm5fMoxs) | 5:07 |
 | 22 | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe) | 4:07 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 102 | [一直都在 \- 《我的麻吉4個鬼》電影主題曲](https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [一直都在 \(《我的麻吉4個鬼》電影主題曲\)](https://open.spotify.com/album/4QhjNVOF6Fjbmmr7ujQv7a) | 3:41 |
 | 103 | [Roselia](https://open.spotify.com/track/4xMVyWjK7rvXNkUAVXCd3S) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [Roselia](https://open.spotify.com/album/21hUr3pkaozv93pAovUwBN) | 3:55 |
 
-Snapshot ID: `MCxlZGMxNjExMzQ1ZGQ4MGVkNmUxYzBlNjljYTVhMDhlOTI2YmY4OGJl`
+Snapshot ID: `MCxhZjdkYTYyMWUyOWM5NjQ3NGZlZjYzMTljYWJlZjI0YmZkOGMxZTE0`

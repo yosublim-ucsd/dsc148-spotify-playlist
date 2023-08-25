@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "pattern",
+        "url": "https://open.spotify.com/album/6ttEjZOmv5fSeiEz0QTmIC"
+      },
+      "artists": [
+        {
+          "name": "Sofia Garcia",
+          "url": "https://open.spotify.com/artist/513qG0sPNTxFlWOkWyFpGi"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "pattern",
+      "url": "https://open.spotify.com/track/2zuxJxGXamWbjgiTF6a7rA"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu"
       },

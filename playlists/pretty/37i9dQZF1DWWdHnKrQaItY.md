@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,832 likes - 68 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,836 likes - 68 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 2 | [Jump Up!](https://open.spotify.com/track/7LTaySawqIyeb0NJa0Bj7C) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Imagination Movers: For Those About to Hop](https://open.spotify.com/album/0Ycbxh5rx0Da1yEAMxp9UQ) | 1:05 |
 | 3 | [Let’s Get Loud \(Workout Mix\)](https://open.spotify.com/track/78SJJ9O5RDRM4KvYRTEygH) | [Fit Kids Allstars](https://open.spotify.com/artist/3ibCz6zRxB2znkpUmyHhw5) | [Kids Pop Workout Hits Vol\. 1 \(Music For Kids To Stay Fit\)](https://open.spotify.com/album/4gMQHDBKfxXo3vrR7NEsPO) | 4:09 |
 | 4 | [SiDE 2 SiDE \- DANCE MiX](https://open.spotify.com/track/0oft8qGAQLQsjMfV52oOuT) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [Get Active \(Movement Songs For Kids\)](https://open.spotify.com/album/0chaqHXFo1yKizeENc7Ak7) | 1:58 |
-| 5 | [Monster Moves](https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:55 |
+| 5 | [Monster Moves](https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:55 |
 | 6 | [Mother May I?](https://open.spotify.com/track/3KQu5t8RJ2UaEgrdfbotp8) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Everyone Together Now!](https://open.spotify.com/album/15zXp1K6Q2RlZxBhuBC9sK) | 3:33 |
 | 7 | [Thingamajig](https://open.spotify.com/track/5sXoGN56c1q4P4fGpk5iY0) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Lishy Lou and Lucky Too!](https://open.spotify.com/album/5eyeNOy5N5QvMa1ppNPdCY) | 3:25 |
 | 8 | [Merengue!](https://open.spotify.com/track/3T5DRtuj3RlqKM70IL5Dzu) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:15 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 31 | [Baby Shark](https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:20 |
 | 32 | [Best Friends Forever \- Single Version](https://open.spotify.com/track/0gLE9Q4nLeG6oDlQRJ0QOo) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [Best Friends Forever \(Single Version\)](https://open.spotify.com/album/1E0ZOLgPgswwxXp9kwEFE7) | 1:51 |
 | 33 | [If You're Happy and You Know It](https://open.spotify.com/track/6di5gMpHQIvHezmekFG3BK) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Kids' Favorite Songs 2](https://open.spotify.com/album/16aAKJ6cx1nA0S15UTyEJm) | 2:31 |
-| 34 | [My Jam](https://open.spotify.com/track/4r5ibfNn0SOvfF2Dh1znnH) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [My Jam](https://open.spotify.com/album/2d3S8K0TuX800sJc4sBB80) | 2:45 |
+| 34 | [My Jam](https://open.spotify.com/track/4r5ibfNn0SOvfF2Dh1znnH) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [My Jam](https://open.spotify.com/album/2d3S8K0TuX800sJc4sBB80) | 2:45 |
 | 35 | [Bunny Hop](https://open.spotify.com/track/7K44meuixBWcunotVpdwJf) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Shake It Up](https://open.spotify.com/album/4ebzMDMuPUQx53NkRxzT6J) | 2:30 |
 | 36 | [Shake Your Body Down](https://open.spotify.com/track/6vaxOLlCcMwkQnpsHsH4ee) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Ultimate Laurie Berkner Band Collection](https://open.spotify.com/album/76WdfWymaHkKBU84g37Mmb) | 3:06 |
 | 37 | [Clap Your Hands](https://open.spotify.com/track/663LGTeJco27vlEHFZsy3v) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [150 Preschool Songs](https://open.spotify.com/album/6vh3S6NVQ0pNEt70fj7oAf) | 1:43 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 41 | [Do the Funky Robot](https://open.spotify.com/track/7sLSjSDi92sRcG7L9xvkTv) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 3:16 |
 | 42 | [Getting Stronger](https://open.spotify.com/track/0kjTDM7NqT2XPJI3Xbi10c) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Imagination Movers: In a Big Warehouse](https://open.spotify.com/album/2MmbI5cNJ2twmLFWBTUcNq) | 1:27 |
 | 43 | [Rhythm of the Sway](https://open.spotify.com/track/1L9LumzTPzhFDS4eaRMgZ2) | [The Battersby Duo](https://open.spotify.com/artist/5KwmbOHKArPzgbmnGUWLmc) | [Sunny Days](https://open.spotify.com/album/73MDMbmuuEgkyv5LMiJV6w) | 2:30 |
-| 44 | [Wiggle It](https://open.spotify.com/track/4xHA5RyRlbVeT2sDslkczq) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [Space Bots & Tater Tots](https://open.spotify.com/album/4DZ9KDTVv1wvInrdqvKU6I) | 1:32 |
+| 44 | [Wiggle It](https://open.spotify.com/track/4xHA5RyRlbVeT2sDslkczq) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Space Bots & Tater Tots](https://open.spotify.com/album/4DZ9KDTVv1wvInrdqvKU6I) | 1:32 |
 | 45 | [Faster!](https://open.spotify.com/track/3PcemHi5mFgSWgNbBekunQ) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [The BeatBuds, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5j3GHHRBYeVKht6078KwoL) | 1:44 |
 | 46 | [Let's Play](https://open.spotify.com/track/1CI0KTzVhyXAZWBS4GSCrV) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Let's Play](https://open.spotify.com/album/3CKSBk4Ivxw1gwjQ2GW3Ch) | 2:43 |
 | 47 | [Trampoline](https://open.spotify.com/track/5goHB66d3gZBoC8L762CZ0) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Songs to Help Us Grow](https://open.spotify.com/album/6JSpITNyolbJT78dHSZotS) | 1:22 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 54 | [Party Rock Anthem](https://open.spotify.com/track/2oNJsgvVdw5YSqhn91p9Ta) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 21](https://open.spotify.com/album/272fQpCPOG9CcFHXs7dZyd) | 3:25 |
 | 55 | [STRETCH 2](https://open.spotify.com/track/2YqN1h7IdAWI11t9tTZwXt) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [Get Active \(Movement Songs For Kids\)](https://open.spotify.com/album/0chaqHXFo1yKizeENc7Ak7) | 1:49 |
 | 56 | [Do the Propeller!](https://open.spotify.com/track/77GQOehkChjV2fUWV4OmNf) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 1:54 |
-| 57 | [Double Scoop](https://open.spotify.com/track/5PvFCi0HVzzTOxVS94dzai) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:44 |
+| 57 | [Double Scoop](https://open.spotify.com/track/5PvFCi0HVzzTOxVS94dzai) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:44 |
 | 58 | [BIG JUMP, LITTLE JUMP](https://open.spotify.com/track/6BGC2Ybwt4uxkgkEmf9mlp) | [The Joy House](https://open.spotify.com/artist/7L7I47ZbZbgUtjqJHZuibP) | [BIG JUMP, LITTLE JUMP](https://open.spotify.com/album/5LXgOS2g91Kk1BHzDEVEed) | 5:34 |
-| 59 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
+| 59 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
 | 60 | [Gotta Get The Beat](https://open.spotify.com/track/3T6GLKOOeAwQ5rnFsiyEOv) | [Pam Donkin](https://open.spotify.com/artist/6Vb4EKTyuWa2cwRLSrrcxM) | [A Hop, Skip, And A Jump \- Activity Songs For The Very Young](https://open.spotify.com/album/6ZOwSZzPangSTtHAvGlGJ2) | 1:41 |
 | 61 | [Stand up, Sit Down](https://open.spotify.com/track/1VuC4DJJwk420tTk9P8bf6) | [Tumble Tots](https://open.spotify.com/artist/0NcZOCgglyAmOdkiM9kQuv) | [Action Songs: Wiggle & Shake](https://open.spotify.com/album/4w7h1lROwNkdKxjiikH6gC) | 1:41 |
 | 62 | [Get Ready to Wiggle](https://open.spotify.com/track/0O0pn82JUSSDzZvvqQCalX) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggle Time!](https://open.spotify.com/album/2J9sgiEk6WX2RMY3k30cVv) | 2:05 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 67 | [Dorothy's Dance Party](https://open.spotify.com/track/0YTFQsygHGEcBz7dkkuHRJ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 2:12 |
 | 68 | [Happy Tappin' with Elmo](https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Elmo's Dance Party](https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1) | 1:30 |
 
-Snapshot ID: `MCxmMTM5OTFmNjIyZDQ1MDVjMmE5N2UxMTYyM2Q2YmM0Y2Y0MmE4ZGFi`
+Snapshot ID: `MCw4ZjA0OGMxOGYzZmYxNDNhMzFiZGVjZjM3Y2I1ZTcxN2ViZWY2ZmRl`

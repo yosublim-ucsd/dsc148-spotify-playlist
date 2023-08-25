@@ -2496,10 +2496,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 182117,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/0OgEvHb3pNvg50nbocB0AK"
+    },
+    {
+      "album": {
+        "name": "En Tu Cuarto",
+        "url": "https://open.spotify.com/album/4t2DePJM6GQnvPBx3VDZZB"
+      },
+      "artists": [
+        {
+          "name": "Servando & Florentino",
+          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183206,
+      "name": "Te Encontr\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/1uuu2CW3jzAvTUPoLUcGxE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Matilda Lyn ",
-  "num_followers": 186504,
+  "num_followers": 186617,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWU0YTRkOTg2ZjU4MzIxOTVkNzU3OGI2YTZlMWY3NDUzODRmM2Jm",
+  "snapshot_id": "MCwzMjc0MTg4YTM0MjMyNDFjYTY5NjlhZTU4ZmJjZDIxMmI1ZWMwOWVh",
   "tracks": [
     {
       "added_at": "2023-08-08 23:33:32",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-08-23 05:27:37",
       "album": {
+        "name": "Whole Heart (2023)",
+        "url": "https://open.spotify.com/album/2aF3eJMOofdk9P6iuQrPqN"
+      },
+      "artists": [
+        {
+          "name": "People Museum",
+          "url": "https://open.spotify.com/artist/3av11PJ8Vn3kWtvJQ7QIzq"
+        }
+      ],
+      "duration_ms": 178301,
+      "name": "Whole Heart - 2023",
+      "url": "https://open.spotify.com/track/4tDJdSYtvqYx9cEfNWx2xe"
+    },
+    {
+      "added_at": "2023-08-23 05:27:37",
+      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/20qKO0e9lgfvrzzxZMNSKM"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 177310,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/71gPiMdEy9lcQ8sYpcK0Xv"
-    },
-    {
-      "added_at": "2023-08-23 05:27:37",
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/7AXLsVfxnrp1waIHzIYA8O"
-      },
-      "artists": [
-        {
-          "name": "Dog Park",
-          "url": "https://open.spotify.com/artist/6Kop7MbTrWy5WGNqxsi8Xl"
-        }
-      ],
-      "duration_ms": 189973,
-      "name": "cry/dance",
-      "url": "https://open.spotify.com/track/5xlqC38FzUI80czGvrLn8o"
     },
     {
       "added_at": "2023-08-08 23:33:32",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-08-23 05:27:37",
       "album": {
-        "name": "Through The Screen",
-        "url": "https://open.spotify.com/album/4qhG1gPdEtyzqpJjrFn6Cs"
-      },
-      "artists": [
-        {
-          "name": "Helladusty",
-          "url": "https://open.spotify.com/artist/1Y2m3Gboo5yXhnJHC6SWXm"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "Dramatic",
-      "url": "https://open.spotify.com/track/4rEmncAwkRTCAta68eprWs"
-    },
-    {
-      "added_at": "2023-08-23 05:27:37",
-      "album": {
         "name": "Let go",
         "url": "https://open.spotify.com/album/3uUwqFB6ZyBmS4h9gTv7Rg"
       },
@@ -315,38 +299,6 @@
       "duration_ms": 263225,
       "name": "Let go",
       "url": "https://open.spotify.com/track/7cmNF8uySo6WrjtbjS0ngo"
-    },
-    {
-      "added_at": "2023-08-23 05:27:37",
-      "album": {
-        "name": "Blue Angel Sparkling Silver",
-        "url": "https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 157551,
-      "name": "You Know That I've Stayed",
-      "url": "https://open.spotify.com/track/5TvcR7q7t62vNpBqVNlhr4"
-    },
-    {
-      "added_at": "2023-08-23 05:27:37",
-      "album": {
-        "name": "Whole Heart (2023)",
-        "url": "https://open.spotify.com/album/2aF3eJMOofdk9P6iuQrPqN"
-      },
-      "artists": [
-        {
-          "name": "People Museum",
-          "url": "https://open.spotify.com/artist/3av11PJ8Vn3kWtvJQ7QIzq"
-        }
-      ],
-      "duration_ms": 178301,
-      "name": "Whole Heart - 2023",
-      "url": "https://open.spotify.com/track/4tDJdSYtvqYx9cEfNWx2xe"
     },
     {
       "added_at": "2023-08-23 05:27:37",
@@ -415,6 +367,38 @@
       "duration_ms": 169235,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1idPrmJk9PlmFsupge2Xrf"
+    },
+    {
+      "added_at": "2023-08-23 05:27:37",
+      "album": {
+        "name": "Through The Screen",
+        "url": "https://open.spotify.com/album/4qhG1gPdEtyzqpJjrFn6Cs"
+      },
+      "artists": [
+        {
+          "name": "Helladusty",
+          "url": "https://open.spotify.com/artist/1Y2m3Gboo5yXhnJHC6SWXm"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "Dramatic",
+      "url": "https://open.spotify.com/track/4rEmncAwkRTCAta68eprWs"
+    },
+    {
+      "added_at": "2023-08-23 05:27:37",
+      "album": {
+        "name": "tattoos and jeans",
+        "url": "https://open.spotify.com/album/5oLvVoNLrYcrvz3jHh2Vuy"
+      },
+      "artists": [
+        {
+          "name": "Jackson Marshall",
+          "url": "https://open.spotify.com/artist/4sabxefSr7gXnTA6Lv3ILl"
+        }
+      ],
+      "duration_ms": 177940,
+      "name": "tattoos and jeans",
+      "url": "https://open.spotify.com/track/0yeKMJtAUmiIhoOL4IS6DJ"
     },
     {
       "added_at": "2023-08-23 05:27:37",
@@ -531,18 +515,34 @@
     {
       "added_at": "2023-08-23 05:27:37",
       "album": {
-        "name": "tattoos and jeans",
-        "url": "https://open.spotify.com/album/5oLvVoNLrYcrvz3jHh2Vuy"
+        "name": "Blue Angel Sparkling Silver",
+        "url": "https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65"
       },
       "artists": [
         {
-          "name": "Jackson Marshall",
-          "url": "https://open.spotify.com/artist/4sabxefSr7gXnTA6Lv3ILl"
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
         }
       ],
-      "duration_ms": 177940,
-      "name": "tattoos and jeans",
-      "url": "https://open.spotify.com/track/0yeKMJtAUmiIhoOL4IS6DJ"
+      "duration_ms": 157551,
+      "name": "You Know That I've Stayed",
+      "url": "https://open.spotify.com/track/5TvcR7q7t62vNpBqVNlhr4"
+    },
+    {
+      "added_at": "2023-08-23 05:27:37",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/7AXLsVfxnrp1waIHzIYA8O"
+      },
+      "artists": [
+        {
+          "name": "Dog Park",
+          "url": "https://open.spotify.com/artist/6Kop7MbTrWy5WGNqxsi8Xl"
+        }
+      ],
+      "duration_ms": 189973,
+      "name": "cry/dance",
+      "url": "https://open.spotify.com/track/5xlqC38FzUI80czGvrLn8o"
     },
     {
       "added_at": "2023-08-23 05:27:37",

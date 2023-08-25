@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 53210,
+  "num_followers": 53224,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzk5Njk2YzRhMGJlMmIyNDAyZjdmMzg3MjljZTRhOTQzMDEzYmI5",
+  "snapshot_id": "MCw3NjM4YmZjMmJjYTQ3NzI4ZjhmZjVmMzA5YjhiMmExOGQ1OTU0Nzc3",
   "tracks": [
     {
       "added_at": "2023-07-21 16:32:57",
@@ -283,22 +283,18 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "B\u00e1ilalo Mujer",
-        "url": "https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5"
+        "name": "S\u00e1tira",
+        "url": "https://open.spotify.com/album/4HsyhBMFmRLmTxEQeuROub"
       },
       "artists": [
         {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+          "name": "Chocolate Remix",
+          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
         }
       ],
-      "duration_ms": 172950,
-      "name": "B\u00e1ilalo Mujer",
-      "url": "https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD"
+      "duration_ms": 143505,
+      "name": "Ni una Menos",
+      "url": "https://open.spotify.com/track/73sv7ERsv0E9dFRJkmTroF"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -331,6 +327,26 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
+        "name": "B\u00e1ilalo Mujer",
+        "url": "https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 172950,
+      "name": "B\u00e1ilalo Mujer",
+      "url": "https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
-        "name": "S\u00e1tira",
-        "url": "https://open.spotify.com/album/4HsyhBMFmRLmTxEQeuROub"
-      },
-      "artists": [
-        {
-          "name": "Chocolate Remix",
-          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
-        }
-      ],
-      "duration_ms": 143505,
-      "name": "Ni una Menos",
-      "url": "https://open.spotify.com/track/73sv7ERsv0E9dFRJkmTroF"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
         "name": "Cuentas Pendientes",
         "url": "https://open.spotify.com/album/4DDnKiQFpoYi6kRZXZJSb6"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Quememos el Reino",
         "url": "https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 267520,
       "name": "Quememos el Reino",
       "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
-      },
-      "artists": [
-        {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
-        },
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO"
-        }
-      ],
-      "duration_ms": 251936,
-      "name": "Sacar los Tambores",
-      "url": "https://open.spotify.com/track/07T5hgGjxLeEDzrWp31jt3"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -867,6 +847,26 @@
       "duration_ms": 176500,
       "name": "Canci\u00f3n Sin Miedo - Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol",
       "url": "https://open.spotify.com/track/5VIDgMv9x9PfEHK9I1ukEA"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
+      },
+      "artists": [
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        },
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO"
+        }
+      ],
+      "duration_ms": 251936,
+      "name": "Sacar los Tambores",
+      "url": "https://open.spotify.com/track/07T5hgGjxLeEDzrWp31jt3"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
+      },
+      "artists": [
+        {
+          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
+          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
         "name": "D\u00e9jame de Matar",
         "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
-      },
-      "artists": [
-        {
-          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
-          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Somos Hermanas",
         "url": "https://open.spotify.com/album/2VdoxpDbGIyzgXJDMyKSPR"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "La Manada",
-        "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 164507,
-      "name": "La Manada",
-      "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Mi Fuerza Es Tuya",
         "url": "https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 245441,
       "name": "Mi Fuerza Es Tuya",
       "url": "https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "La Manada",
+        "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 164507,
+      "name": "La Manada",
+      "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Nunca Amor",
-        "url": "https://open.spotify.com/album/7c6CsAKYwhoAcNDcKJcx1z"
+        "name": "Marta",
+        "url": "https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR"
       },
       "artists": [
         {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+          "name": "Marta",
+          "url": "https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q"
         }
       ],
-      "duration_ms": 186315,
-      "name": "Nunca Amor",
-      "url": "https://open.spotify.com/track/4mZuInt5AIL6PqDF1I2zRt"
+      "duration_ms": 207452,
+      "name": "Otra Humanidad",
+      "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
     }
   ],
   "unique_name": "Himnos de Sororidad",

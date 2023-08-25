@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/0Of9Llbb7iRx5VChztCJdb?si=3X1ou878TYOgxX0wsc4LEw">Nicky Schrire</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,007 likes - 50 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,011 likes - 50 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heart Like A Wheel \(Radio Edit\)](https://open.spotify.com/track/65VznwzRGUWgyTCjitI9M7) | [Nicky Schrire](https://open.spotify.com/artist/0Of9Llbb7iRx5VChztCJdb) | [Heart Like a Wheel \(Radio Edit\)](https://open.spotify.com/album/3fPymuw7Kp8bewYmYqbMPP) | 3:25 |
 | 2 | [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 |
-| 3 | [The Rapture](https://open.spotify.com/track/7MHE2OM265GQ7TAGB5DnSo) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 2:46 |
+| 3 | [Four Women](https://open.spotify.com/track/5AXqTvyOjkZ6lJgygsUEdi) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [Spha Mdlalose](https://open.spotify.com/artist/5zgK9I4L2Nwjm4mk3lphMO), [Zarcia Zacheus](https://open.spotify.com/artist/1NpQuiq9aJAefQDEEtgsjx) | [Four Women](https://open.spotify.com/album/0G2btMDdrfof6lqNwXqfLb) | 5:23 |
 | 4 | [Tiya Mowa](https://open.spotify.com/track/6t6mUpSFj0AeLJuTSuAfud) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Tiya Mowa](https://open.spotify.com/album/41VmcZQLMt06F7UVVQ5zUd) | 4:35 |
 | 5 | [A Night in D.C](https://open.spotify.com/track/1cUBc1b5n74f4fzH4ol93o) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Two Sides,One Mirror](https://open.spotify.com/album/3cRaqxp2N4Bmw8m7jwGF3v) | 4:23 |
 | 6 | [Gijima](https://open.spotify.com/track/5I8Psd9E1pGHkGbRN3afav) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [The Past is Unpredictable, Only the Future is Certain](https://open.spotify.com/album/2zibe11zDGOVf9OfClY4re) | 10:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [Hold On](https://open.spotify.com/track/7l3IUci8Lmso5WNIUoF6Ml) | [Siya Makuzeni Sextet](https://open.spotify.com/artist/2G19JUF1zNF0IdKkQl8FEM) | [Out of This World](https://open.spotify.com/album/6ww7Y5vZUyaAcswPnpnMYe) | 11:47 |
 | 50 | [Thokozile Queen Mother](https://open.spotify.com/track/3xIveLdbKx5x1SbUXPfxUs) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Project ELO](https://open.spotify.com/album/22mdGQMdG58pswyb3GkZL2) | 6:12 |
 
-Snapshot ID: `MCw3NzAwNTIwZmNiNDgwODRlNzVjYWVjM2M2MzU0ZWI5YzNlOWQ1NTJh`
+Snapshot ID: `MCw0MTA5NjEzZjMyZmJjOTk4OTgyZmMyN2VjYjk1ZTE1OWI4OTc1MWQ5`

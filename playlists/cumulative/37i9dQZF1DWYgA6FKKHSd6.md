@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-215 songs - 15 hr 28 min
+216 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Melanin](https://open.spotify.com/track/1ebtnoXkPEF1wIUythB6ee) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [J.Michael O'neal](https://open.spotify.com/artist/1eQZjsM34F2TKTe9QusBOg) | [Balance](https://open.spotify.com/album/3zcz64J5R6sY8Mln7crKsI) | 4:00 | 2021-07-12 |  |
 | [ML Funk](https://open.spotify.com/track/3wTiWUgjbqyVZljheQ7Jeo) | [Marlon McClain](https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq), [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Funky Fridays, Vol\. 2](https://open.spotify.com/album/4a5MVwLUmqVeT9wGKvhsfi) | 3:19 | 2022-08-05 | 2023-02-21 |
 | [Mr\. Sexy Saxy](https://open.spotify.com/track/53iMwltgvGle3hdcsdrXqE) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr) | [Blow Your Mind](https://open.spotify.com/album/2Z30iNpI7qPBYH2OhtrCat) | 4:35 | 2021-07-12 |  |
-| [New Lives](https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A), [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [New Lives](https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R) | 4:11 | 2023-07-28 |  |
+| [New Lives](https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A), [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [New Lives](https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R) | 4:11 | 2023-07-28 | 2023-08-25 |
+| [New Lives \- Radio Edit](https://open.spotify.com/track/0UBFcH7kXYQ8GiPvuHFKJJ) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [New Lives \(Radio Edit\)](https://open.spotify.com/album/7iVn7hAbIRliWQUp7d1808) | 4:11 | 2023-07-28 |  |
 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 | 2022-04-15 |  |
 | [No Shade](https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q) | [Isaac Norris](https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G) | [No Shade](https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw) | 4:08 | 2021-10-08 |  |
 | [Nothing Ever Hurt Like You \- Smooth Summer Soul Mix](https://open.spotify.com/track/0H98E4Y8MnrfrrcBgk5yIZ) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Nothing Ever Hurt Like You \(Smooth Summer Soul Mix\)](https://open.spotify.com/album/1SqfQP57uSElTr0IhCAZLe) | 4:10 | 2022-08-12 |  |

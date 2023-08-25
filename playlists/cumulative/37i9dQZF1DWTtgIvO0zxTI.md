@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Itzza Primera
 
-132 songs - 7 hr 8 min
+133 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [sushi](https://open.spotify.com/track/0jzX7n7PuDiQkyfOZDXOww) | [Underaiki](https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo) | [sushi](https://open.spotify.com/album/0ViZdMgx1pyKvGN6fZfry7) | 2:03 | 2023-07-28 | 2023-08-12 |
 | [t kiero](https://open.spotify.com/track/5qVDPQyDtQSHBmFriKfT7S) | [astrid](https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm) | [t kiero](https://open.spotify.com/album/5TsreoljdE5hPAFPBGwc5W) | 2:28 | 2022-12-23 |  |
 | [Tampoco Poco](https://open.spotify.com/track/1SXuyuPNNXA61E60ucdAF7) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Despídeme De Todxs](https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl) | 3:00 | 2023-07-28 | 2023-08-12 |
-| [Te Encontré](https://open.spotify.com/track/0OgEvHb3pNvg50nbocB0AK) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Te Encontré](https://open.spotify.com/album/3T1vAfySBdF7YX0NBA9Kkd) | 3:02 | 2022-03-11 |  |
+| [Te Encontré](https://open.spotify.com/track/0OgEvHb3pNvg50nbocB0AK) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Te Encontré](https://open.spotify.com/album/3T1vAfySBdF7YX0NBA9Kkd) | 3:02 | 2022-03-11 | 2023-08-25 |
+| [Te Encontré \- En Vivo](https://open.spotify.com/track/1uuu2CW3jzAvTUPoLUcGxE) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [En Tu Cuarto](https://open.spotify.com/album/4t2DePJM6GQnvPBx3VDZZB) | 3:03 | 2023-08-16 |  |
 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2022-03-11 |  |
 | [Terapia](https://open.spotify.com/track/4lNqp5wlde1EtSO5q89vub) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Terapia](https://open.spotify.com/album/0Xa8TqM7ZKcFSbwJzK2xCr) | 2:53 | 2022-12-23 |  |
 | [Todo Va a Arder](https://open.spotify.com/track/4dlCh9iiWtOHx3oT6wxFdc) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Todo Va a Arder](https://open.spotify.com/album/5XQQIuj2Mdbiz0W8brVi9P) | 3:04 | 2022-03-11 | 2022-04-23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc?si=8AjZkSQ6TeeoDxZzUoQDHg\">Bisa KDei</a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy?si=MIJ4gUVgSQilplA68rEQFQ\">Kelvyn Boy</a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -1899,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Jara Jara",
+        "url": "https://open.spotify.com/album/4aiDLfgB5nCJELL4DIFiNK"
+      },
+      "artists": [
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135142,
+      "name": "Jara Jara",
+      "url": "https://open.spotify.com/track/2IvPHqPadGXpgNP0SziB3i"
+    },
+    {
+      "album": {
         "name": "Je M'appelle (feat. DaVido)",
         "url": "https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo"
       },
@@ -3304,6 +3322,28 @@
       "duration_ms": 188894,
       "name": "Road Clear",
       "url": "https://open.spotify.com/track/0XIhHYGnjN8wOlxsNbB0T2"
+    },
+    {
+      "album": {
+        "name": "For the Kulture",
+        "url": "https://open.spotify.com/album/4nrewczBwXf6d8PBs3fDV6"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/5HTcQgNskY36EEtdB4zMfr"
     },
     {
       "album": {

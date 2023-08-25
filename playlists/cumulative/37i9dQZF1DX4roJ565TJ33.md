@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-152 songs - 11 hr 39 min
+153 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Have a Day](https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Have a Day](https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k) | 6:23 | 2022-04-21 |  |
 | [Havsmelodi \(feat\. Filip Ekestubbe, Ludvig Eriksson and Ludwig Gustavsson\)](https://open.spotify.com/track/5kUOeYFGgy6IcBiA7twicw) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Askanäs Kammarkvartett](https://open.spotify.com/artist/7DUIwGmSZbOvlg7qakClCC), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Ludvig Eriksson](https://open.spotify.com/artist/7Cyxcco8pURt6wdRtAGiT5), [Ludwig Gustavsson](https://open.spotify.com/artist/6QPdFsa3QG0DLEKhfsD42i) | [Havsmelodi \(feat\. Filip Ekestubbe, Ludvig Eriksson and Ludwig Gustavsson\)](https://open.spotify.com/album/50PKsVQcaP239PGPYIpLyv) | 5:22 | 2022-05-26 |  |
 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 | 2021-11-08 | 2023-01-13 |
+| [Hermetic Boogey](https://open.spotify.com/track/0utXKhCXxreupSQICsuwkr) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Hermetic Boogey](https://open.spotify.com/album/6HsoNd9kAenZ7AcY2ptML5) | 6:13 | 2023-08-24 |  |
 | [Humankind](https://open.spotify.com/track/1eZUNGAKtNBE1JNOEWsTqs) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [The Clouds](https://open.spotify.com/album/5OjwtLOD0Bz7wymZc647bJ) | 3:14 | 2021-11-08 | 2022-04-22 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/0a8LOrGltmx7rWvK5ex8Nb) | [Svante Henryson](https://open.spotify.com/artist/5gD2IIwhFa7qrXTWCmvMPn), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [I Fall in Love Too Easily](https://open.spotify.com/album/1ARNBkNhtWFb7hdnBuXcM0) | 5:19 | 2021-11-08 |  |
 | [I Like the Sunrise](https://open.spotify.com/track/3MwvAPIcknBKEldIUrWkTd) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Daniel Karlsson](https://open.spotify.com/artist/133ujfci80J2umYb3Oas89) | [I Like the Sunrise](https://open.spotify.com/album/3EWL9JUyxVT46jd2HhIs3v) | 4:46 | 2021-11-08 |  |

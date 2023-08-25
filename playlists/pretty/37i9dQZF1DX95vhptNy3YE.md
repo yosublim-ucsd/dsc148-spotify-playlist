@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Senndy e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,340 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,482 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 37 | [gucci con tacchini!](https://open.spotify.com/track/3QIA1Kfl592xCUnN6It6Qs) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [UM Quebrada Inteligente](https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y) | 2:42 |
 | 38 | [Povoada \- Remix](https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Povoada \(Remix\)](https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi) | 4:17 |
 | 39 | [Lençol](https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Lençol](https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm) | 3:09 |
-| 40 | [Mun Rá](https://open.spotify.com/track/1SXLxcC5SBjYWfN94jIDOc) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Mun Rá](https://open.spotify.com/album/0txbns1JErYP5FQTiLijyl) | 3:28 |
-| 41 | [Zero Chances \- Ao Vivo](https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Zero Chances \(Ao Vivo\)](https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9) | 3:38 |
+| 40 | [Zero Chances \- Ao Vivo](https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Zero Chances \(Ao Vivo\)](https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9) | 3:38 |
+| 41 | [Mun Rá](https://open.spotify.com/track/1SXLxcC5SBjYWfN94jIDOc) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Mun Rá](https://open.spotify.com/album/0txbns1JErYP5FQTiLijyl) | 3:28 |
 | 42 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 43 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
 | 44 | [Chove Chuva](https://open.spotify.com/track/1pQ29ZLS28yXAiXW2LREyK) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Chove Chuva](https://open.spotify.com/album/39kN9xSE9LbuQAiXQAe52G) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Hoje Só Vai Dar Eu e Você \- Ao Vivo](https://open.spotify.com/track/2rW882pKQKDh62gCsMMEoJ) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r) | [Hoje Só Vai Dar Eu e Você \(Ao Vivo\)](https://open.spotify.com/album/7FKCGuTb7dxiFDeLwpr72O) | 3:34 |
 | 50 | [Superpoderes](https://open.spotify.com/track/6O5oJDDVR0U68K78uu5hn6) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Superpoderes](https://open.spotify.com/album/1zts5MyDUDW8EKTVMM4UkS) | 3:18 |
 
-Snapshot ID: `MCw4ZTMxYjEzMjI3NWFjNTExOGViOWQ2MTUyNGE4YjUzMzdiNjFmYTQ1`
+Snapshot ID: `MCwyY2VhM2U0ZWNkNmY2MGViMjUyZjE2YTVlYmY3NTI1MDZkZDYxZGRj`

@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 228694,
+  "num_followers": 228938,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzQ2YzQzNzllYmQ0NTQzMjlmYTM2ZGEwYmFjNzRhMjQ5NDNmMGRj",
+  "snapshot_id": "MCxiN2VkZTkwZDllYjk4ZmY3N2M5MzUxYzFjNjQ0NmU4NTYzMWNhZTMx",
   "tracks": [
     {
       "added_at": "2023-03-03 13:37:54",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "All About You",
-        "url": "https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/2KqyIbbCPKhNfqqzUVq9H9"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "How Many Drinks? (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa"
       },
@@ -1223,6 +1203,26 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2KqyIbbCPKhNfqqzUVq9H9"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX"
       },
@@ -1235,6 +1235,26 @@
       "duration_ms": 303720,
       "name": "Skin",
       "url": "https://open.spotify.com/track/62YAKv9ak7mxrNRdhe7Pe9"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "7 Series",
+        "url": "https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "F With U (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6mLfR7fHVDcCKpLwGLWCWw"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -1259,26 +1279,6 @@
       "duration_ms": 234589,
       "name": "Dangerous (feat. Jeremih and PnB Rock)",
       "url": "https://open.spotify.com/track/1lL7Sj9AitQT7YWXs6obEq"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "7 Series",
-        "url": "https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg"
-      },
-      "artists": [
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "F With U (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6mLfR7fHVDcCKpLwGLWCWw"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Late Nights: Red Roses",
-        "url": "https://open.spotify.com/album/0AM64fik2T2jcT1C8cuuYx"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/3Pfalb3fHDKpCvt05ZJraQ"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "About Time",
         "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 259918,
       "name": "Feel It (feat. Lloyd, Rich Homie Quan)",
       "url": "https://open.spotify.com/track/60A9cgTlUXxO7c2ucnen1x"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Late Nights: Red Roses",
+        "url": "https://open.spotify.com/album/0AM64fik2T2jcT1C8cuuYx"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/3Pfalb3fHDKpCvt05ZJraQ"
     },
     {
       "added_at": "2023-03-03 13:37:54",

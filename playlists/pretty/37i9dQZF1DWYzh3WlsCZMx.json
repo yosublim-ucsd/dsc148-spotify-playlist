@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 22390,
+  "num_followers": 22451,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzY0ZGE5ZGUzNWQ4YTEzYzQzNmViYjQwYWY5OGFiZjFjZDQ4MDRm",
+  "snapshot_id": "MCwxMWEyMzYzZjY0YWUwZmJmNWYzOTQxMWUzYWU3NGM1NGMxOTgxOGZm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -235,6 +235,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        },
+        {
+          "name": "Lazy Jay",
+          "url": "https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR"
+        }
+      ],
+      "duration_ms": 204956,
+      "name": "212",
+      "url": "https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "- TRAGEDY +",
         "url": "https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE"
       },
@@ -267,22 +287,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Cross Country Trappin",
-        "url": "https://open.spotify.com/album/4R64QNV35UNIjVeWjDSIJS"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/6FzjhVjXDoBGfq1sSdNq7S"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Tina Snow",
         "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
       },
@@ -299,22 +303,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Broke with Expensive Taste",
-        "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
+        "name": "Cross Country Trappin",
+        "url": "https://open.spotify.com/album/4R64QNV35UNIjVeWjDSIJS"
       },
       "artists": [
         {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        },
-        {
-          "name": "Lazy Jay",
-          "url": "https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR"
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
         }
       ],
-      "duration_ms": 204956,
-      "name": "212",
-      "url": "https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys"
+      "duration_ms": 206413,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/6FzjhVjXDoBGfq1sSdNq7S"
     },
     {
       "added_at": "2022-10-01 16:00:00",

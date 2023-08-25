@@ -4,7 +4,7 @@
 
 > The perfect jazz backdrop to the cocktails.
 
-81 songs - 4 hr 46 min
+82 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Springtime](https://open.spotify.com/track/4j5uqScA9Gv7rgRMwaoReo) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Springtime](https://open.spotify.com/album/3x04mNNTmBJjQs9jymhaGv) | 3:14 | 2023-05-10 |  |
 | [Stick Around](https://open.spotify.com/track/0fAm8fg0phPSokcYL4YCg9) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Stick Around](https://open.spotify.com/album/3OGuwr110zyVOAtdPVUKqe) | 3:02 | 2023-05-10 |  |
 | [Stillness is a Gift](https://open.spotify.com/track/4cPz5Fm127FenLUfTJ6G2l) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Stars in Your Eyes](https://open.spotify.com/album/0e1PjJ10JCgMQLAIUT4NJ4) | 4:15 | 2023-05-10 |  |
+| [Strolling With My Poodle](https://open.spotify.com/track/6484o0lZWJpQPsyRDx2oaC) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Strolling With My Poodle](https://open.spotify.com/album/06P4zROTzjwZ06mHs30mKQ) | 3:58 | 2023-08-24 |  |
 | [Sunset over Paris](https://open.spotify.com/track/4J7o5z21AHxX83IxXOGdWe) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Sunset over Paris](https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF) | 4:03 | 2023-05-10 |  |
 | [Sweet Lilyanne](https://open.spotify.com/track/2DX1gWF4hjdivWePjoP81G) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Sweet Lilyanne](https://open.spotify.com/album/1P3MpyYyLwr075pq33KiRk) | 3:13 | 2023-06-22 |  |
 | [That Old Feeling](https://open.spotify.com/track/2j8nvcUdCDr3VWL2uMlyyn) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [That Old Feeling](https://open.spotify.com/album/0DSCDie1N9Xej8MtsijDBf) | 1:50 | 2023-05-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bKim Do Hee(\uae40\ub3c4\ud76c)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bHYB(\ud5c8\uc6a9\ubcc4)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -608,6 +608,24 @@
       "duration_ms": 261146,
       "name": "Again, goodbye",
       "url": "https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0"
+    },
+    {
+      "album": {
+        "name": "Not Others, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1miqW2MgPi1rbkX1hS1nJC"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203266,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4EqZlbw5gy1MqN4CRYm77j"
     },
     {
       "album": {
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 225910,
       "name": "Blue night song",
       "url": "https://open.spotify.com/track/76HyXhCaHpv6O5pmR06s1B"
@@ -2708,7 +2726,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 225000,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/0ZgukDLNhyKfkBcIDD8Myh"
@@ -3482,7 +3500,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 215693,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/0TSHgdcpZdMFicNd3gsbTS"
@@ -5102,6 +5120,24 @@
       "duration_ms": 193560,
       "name": "HAPPEN",
       "url": "https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16"
+    },
+    {
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/2qobgmbXd3qd7RVFMFWsvU"
+      },
+      "artists": [
+        {
+          "name": "HYB (Huh Gak,Shin Yong Jae,Onestar)",
+          "url": "https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256760,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/1rguO7AsN5jYbXr5POizxK"
     },
     {
       "album": {
@@ -6910,7 +6946,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 267160,
       "name": "I'm well (Feat. Jung Seung Hwan)",
       "url": "https://open.spotify.com/track/7b9kjOw0vf4Ta1i2zBUgsg"
@@ -7721,6 +7757,24 @@
     },
     {
       "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
+      },
+      "artists": [
+        {
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203746,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
+    },
+    {
+      "album": {
         "name": "Life's still Good",
         "url": "https://open.spotify.com/album/2E7fy0z18imBJEWYMfZWMi"
       },
@@ -7866,7 +7920,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 221346,
       "name": "Just",
       "url": "https://open.spotify.com/track/4DR1sTHvsHjyKObD5PscKA"
@@ -8778,7 +8832,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 218870,
       "name": "Long Day",
       "url": "https://open.spotify.com/track/2u9dTwkJBYoIWAeW2IE5Cv"
@@ -8814,7 +8868,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 211240,
       "name": "Lost mind",
       "url": "https://open.spotify.com/track/4qp9FmYIcnvJQKuYM1DyF8"
@@ -9052,7 +9106,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 215546,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/5bwNwWLAtdfuvkiVHaPKkk"
@@ -9214,7 +9268,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 218066,
       "name": "Love Without Pain",
       "url": "https://open.spotify.com/track/114JstNdrTd5rsVce9lrpQ"
@@ -9509,6 +9563,24 @@
     },
     {
       "album": {
+        "name": "Chabak- Night of Murder and Romance, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1q7FUPWyrA2fjvFjcmUTc2"
+      },
+      "artists": [
+        {
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280520,
+      "name": "Meant to be",
+      "url": "https://open.spotify.com/track/2rH9qCs1Ok60cF0lOqn8Mk"
+    },
+    {
+      "album": {
         "name": "Meet him among them",
         "url": "https://open.spotify.com/album/3AB3AhRKi0xR5vAj0iuRaP"
       },
@@ -9556,7 +9628,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 211066,
       "name": "Melting",
       "url": "https://open.spotify.com/track/72JXhN9CABeVLNrt8VJm0l"
@@ -10105,6 +10177,24 @@
     },
     {
       "album": {
+        "name": "My Lovely Liar, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0KQD5f1uZuvqxdDIAXyd7n"
+      },
+      "artists": [
+        {
+          "name": "MIJOO",
+          "url": "https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245349,
+      "name": "My heart says",
+      "url": "https://open.spotify.com/track/2GUAkbWxTLNIyTMNUCqX54"
+    },
+    {
+      "album": {
         "name": "Dr. Romantic 2 OST Part.1",
         "url": "https://open.spotify.com/album/6hjVPB4sG0Gwme1e9hy62b"
       },
@@ -10380,7 +10470,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 240066,
       "name": "Need you (With Sung Si Kyung)",
       "url": "https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD"
@@ -10510,7 +10600,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 238413,
       "name": "No love",
       "url": "https://open.spotify.com/track/02r3fCsVlcFWgMZG9lGTz6"
@@ -13218,7 +13308,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 296080,
       "name": "Step",
       "url": "https://open.spotify.com/track/2ZML6XkrBnaauvtkwP8at1"
@@ -15510,7 +15600,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 282943,
       "name": "What do you think",
       "url": "https://open.spotify.com/track/67eDtcGNwhdNbjAJCuTd23"
@@ -15550,7 +15640,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 222146,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/15Q5vl5DsW913bGuVEsatQ"
@@ -15604,7 +15694,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 238333,
       "name": "When I Met You",
       "url": "https://open.spotify.com/track/6ROLp0Ha6q2qGThlvHtAj8"
@@ -16772,7 +16862,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 241453,
       "name": "You're My First Love",
       "url": "https://open.spotify.com/track/1yoEYdoA0EuNiz2eL4W06P"
@@ -17502,7 +17592,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 264461,
       "name": "\uc5b4\ub514\uc120\uac00 \ub098\ucc98\ub7fc \uc774 \ub178\ub7a0 \ub4e3\uace0 \uc788\uc744 \ub108\uc5d0\uac8c",
       "url": "https://open.spotify.com/track/1WXhJfb1BXQbaxQzVdS1zD"

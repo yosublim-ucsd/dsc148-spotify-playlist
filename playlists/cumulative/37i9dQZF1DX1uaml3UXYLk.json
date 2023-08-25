@@ -3092,7 +3092,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 199947,
       "name": "Feelings Pt. 2",
       "url": "https://open.spotify.com/track/1trBZuNfkopXnnvxgOr4tt"
@@ -8046,6 +8046,24 @@
       "duration_ms": 234250,
       "name": "Southern Sky",
       "url": "https://open.spotify.com/track/7b5JVYNwXrFVB94lBBqeQU"
+    },
+    {
+      "album": {
+        "name": "Spa Intervention",
+        "url": "https://open.spotify.com/album/6uWkafFEX0tuaryFKhYT8Q"
+      },
+      "artists": [
+        {
+          "name": "makers mask",
+          "url": "https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141315,
+      "name": "Spa Intervention",
+      "url": "https://open.spotify.com/track/3zHpn1533zXCxXqzHBn3cE"
     },
     {
       "album": {

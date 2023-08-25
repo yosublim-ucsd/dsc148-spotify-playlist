@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Ahsoka - End Credits (From \"Ahsoka\")",
+        "url": "https://open.spotify.com/album/71DGL0E8WZ0BAkVFOV3bIx"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223189,
+      "name": "Ahsoka - End Credits - From \"Ahsoka\"",
+      "url": "https://open.spotify.com/track/12RRnmIMkMDViOjYd5k2iy"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Clone Wars - The Final Season (Episodes 5-8) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5iMwKUFGkspWiP73jHIrZj"
       },

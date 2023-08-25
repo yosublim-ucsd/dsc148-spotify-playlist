@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Strolling With My Poodle",
+        "url": "https://open.spotify.com/album/06P4zROTzjwZ06mHs30mKQ"
+      },
+      "artists": [
+        {
+          "name": "Billy Hicks Quartet",
+          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238393,
+      "name": "Strolling With My Poodle",
+      "url": "https://open.spotify.com/track/6484o0lZWJpQPsyRDx2oaC"
+    },
+    {
+      "album": {
         "name": "Sunset over Paris",
         "url": "https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF"
       },

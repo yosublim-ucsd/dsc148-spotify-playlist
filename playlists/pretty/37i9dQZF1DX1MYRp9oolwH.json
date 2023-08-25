@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 104610,
+  "num_followers": 104784,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjJjYzNlNTg1MzFmMjNhOGNkODQzMTQxNzI3ZjkyY2I4M2QxMzA0",
+  "snapshot_id": "MCxmMTUyMDQxOTdhMDdiNzYzNzI5MmFkNDdkMTk4YzFjOWQ0OGVhZjRh",
   "tracks": [
     {
       "added_at": "2023-05-09 06:55:53",
@@ -91,6 +91,26 @@
       "duration_ms": 202401,
       "name": "Suttamla Soosi",
       "url": "https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO"
+    },
+    {
+      "added_at": "2023-08-24 13:07:37",
+      "album": {
+        "name": "King of Kotha (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/7waOK8PEbhNGfRvEJChxoZ"
+      },
+      "artists": [
+        {
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        }
+      ],
+      "duration_ms": 242583,
+      "name": "Naa Oopire",
+      "url": "https://open.spotify.com/track/7ADBx7IH4Egcmoe9C2Qkge"
     },
     {
       "added_at": "2022-12-20 12:37:49",
@@ -1043,30 +1063,6 @@
       "duration_ms": 213242,
       "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\")",
       "url": "https://open.spotify.com/track/3d4BUW2iX1HagWRRkat9l7"
-    },
-    {
-      "added_at": "2022-12-19 10:39:37",
-      "album": {
-        "name": "Sridevi Chiranjeevi (From \"Waltair Veerayya\")",
-        "url": "https://open.spotify.com/album/5zZZLjaf8sIf0aiYMeMtI5"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
-        },
-        {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
-        }
-      ],
-      "duration_ms": 178363,
-      "name": "Sridevi Chiranjeevi (From \"Waltair Veerayya\")",
-      "url": "https://open.spotify.com/track/417fjHB7tqIaovwPvWskHX"
     },
     {
       "added_at": "2023-01-19 14:38:53",

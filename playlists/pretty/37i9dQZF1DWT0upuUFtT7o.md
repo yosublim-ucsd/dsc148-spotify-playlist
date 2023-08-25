@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Matilda Lyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,504 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,617 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,29 +18,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 8 | [Heavy Eyes](https://open.spotify.com/track/5RJVBuN4yOO5oexIPo0flc) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [Grow On](https://open.spotify.com/album/2Zk9zjxFltVxqfO2Kyion4) | 4:42 |
 | 9 | [Putting On Airs](https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Nothing Sacred](https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO) | 2:30 |
 | 10 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
-| 11 | [Out of My Head](https://open.spotify.com/track/71gPiMdEy9lcQ8sYpcK0Xv) | [evvvie](https://open.spotify.com/artist/2yzLAaeqPYYN2FD8wM6Y9m) | [Out of My Head](https://open.spotify.com/album/20qKO0e9lgfvrzzxZMNSKM) | 2:57 |
-| 12 | [cry/dance](https://open.spotify.com/track/5xlqC38FzUI80czGvrLn8o) | [Dog Park](https://open.spotify.com/artist/6Kop7MbTrWy5WGNqxsi8Xl) | [Gemini](https://open.spotify.com/album/7AXLsVfxnrp1waIHzIYA8O) | 3:09 |
+| 11 | [Whole Heart \- 2023](https://open.spotify.com/track/4tDJdSYtvqYx9cEfNWx2xe) | [People Museum](https://open.spotify.com/artist/3av11PJ8Vn3kWtvJQ7QIzq) | [Whole Heart \(2023\)](https://open.spotify.com/album/2aF3eJMOofdk9P6iuQrPqN) | 2:58 |
+| 12 | [Out of My Head](https://open.spotify.com/track/71gPiMdEy9lcQ8sYpcK0Xv) | [evvvie](https://open.spotify.com/artist/2yzLAaeqPYYN2FD8wM6Y9m) | [Out of My Head](https://open.spotify.com/album/20qKO0e9lgfvrzzxZMNSKM) | 2:57 |
 | 13 | [Nothing Left To Lose](https://open.spotify.com/track/7KoTMZi3QqWlsq1Nve63tR) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Nothing Left To Lose](https://open.spotify.com/album/7bafTSha7WTSmnjwtxPAHW) | 3:18 |
 | 14 | [Day in the Tub](https://open.spotify.com/track/0a1gRc7rZrklbZYHZ7lj0Q) | [Muma Ganoush](https://open.spotify.com/artist/6jUyPfelDmD3AuNhAJWP3j) | [Day in the Tub](https://open.spotify.com/album/33h4pfrqDbnt9KgmhmPkk4) | 3:09 |
 | 15 | [Oh Darlin'](https://open.spotify.com/track/2gg1qS6anzlHRHD40RIbh1) | [Asiatica](https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw) | [When We Were](https://open.spotify.com/album/7MHlo3z7I7nWc2eytJUQ56) | 3:26 |
 | 16 | [Took One Look](https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ) | [Muunjuun](https://open.spotify.com/artist/32y328GZcvGkG3Ch2p89Q7) | [Took One Look](https://open.spotify.com/album/75I7QxTj9TMYpClUsBN21w) | 2:20 |
 | 17 | [Forever](https://open.spotify.com/track/2oHzClI2eL21stOTGTohBI) | [Claudia Fenoglio](https://open.spotify.com/artist/1cJOlvkdCy4jR2GhyFTX8V) | [Forever](https://open.spotify.com/album/7q2qZlp1nS7nbArI3jk5Y5) | 3:45 |
-| 18 | [Dramatic](https://open.spotify.com/track/4rEmncAwkRTCAta68eprWs) | [Helladusty](https://open.spotify.com/artist/1Y2m3Gboo5yXhnJHC6SWXm) | [Through The Screen](https://open.spotify.com/album/4qhG1gPdEtyzqpJjrFn6Cs) | 3:13 |
-| 19 | [Let go](https://open.spotify.com/track/7cmNF8uySo6WrjtbjS0ngo) | [Mora Michelle](https://open.spotify.com/artist/1wJSAHWxV34NbL4qAwDuvx) | [Let go](https://open.spotify.com/album/3uUwqFB6ZyBmS4h9gTv7Rg) | 4:23 |
-| 20 | [You Know That I've Stayed](https://open.spotify.com/track/5TvcR7q7t62vNpBqVNlhr4) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver](https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65) | 2:37 |
-| 21 | [Whole Heart \- 2023](https://open.spotify.com/track/4tDJdSYtvqYx9cEfNWx2xe) | [People Museum](https://open.spotify.com/artist/3av11PJ8Vn3kWtvJQ7QIzq) | [Whole Heart \(2023\)](https://open.spotify.com/album/2aF3eJMOofdk9P6iuQrPqN) | 2:58 |
-| 22 | [Swimming Pool](https://open.spotify.com/track/6VBWStlrhtYvuLPbO12NX5) | [Shane T](https://open.spotify.com/artist/1NOjRg9eVRh2kQ5HFoME1X) | [Swimming Pool](https://open.spotify.com/album/6ixzzzRuELqypzHlqhR6SD) | 3:20 |
-| 23 | [Girl I See in My Dreams](https://open.spotify.com/track/7pddvsjKPY1HGuFzonYRMZ) | [Twnie](https://open.spotify.com/artist/0BnBj9BOJEidMEuC4Bv3D4) | [Girl I See in My Dreams](https://open.spotify.com/album/4AkIsMhK16F1n2Qm5AhuBj) | 3:48 |
-| 24 | [Just Stay For Once](https://open.spotify.com/track/1Kaimjtef03VF7AQDLmwQ9) | [Imani Graham](https://open.spotify.com/artist/3z3RfAKT2rmzCfPoXSKfEA) | [Just Stay For Once](https://open.spotify.com/album/0CkS4LqIzZO5YOU1eMDOM5) | 3:36 |
-| 25 | [Pressure](https://open.spotify.com/track/1idPrmJk9PlmFsupge2Xrf) | [Miina](https://open.spotify.com/artist/2be45mouasgEeyH4Tgm4fB), [Carmanah](https://open.spotify.com/artist/6JThhhe0e1F4wFnsJpn8AS) | [Pressure](https://open.spotify.com/album/1pX9EsEOwkenls3ZZ37p70) | 2:49 |
-| 26 | [Supershot](https://open.spotify.com/track/2Ih6Fp7nlYaKLoTPO3AD7L) | [Unfamiliar Things](https://open.spotify.com/artist/17xF2fbsXDqdYchGI8Ydko) | [Supershot](https://open.spotify.com/album/0nSZiIzp5GUVMDemINwTsr) | 4:08 |
-| 27 | [This One](https://open.spotify.com/track/5Qp6SIUrqZFSyYZHJkb6I0) | [Reggie Pearl](https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe) | [This One](https://open.spotify.com/album/7xcV8IGE3Djn5vbk6ehdin) | 3:04 |
-| 28 | [Big Ole House](https://open.spotify.com/track/5FaYN5hSwvYg9UAobOnPEx) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Big Ole House](https://open.spotify.com/album/0IskuiwsYHY8OT6FrH68GC) | 2:35 |
-| 29 | [Wicked Love](https://open.spotify.com/track/2UbMqPrxBapGoDjUYTcnsr) | [Visit Neptune](https://open.spotify.com/artist/2NNwTJN1lpxq4k3m03HxeA) | [Wicked Love](https://open.spotify.com/album/1NFuvaVM8dLRRSWawm2bSl) | 4:08 |
-| 30 | [Jeff](https://open.spotify.com/track/2fNIBmtBMvgACNkLTxrYQC) | [Henry Hall](https://open.spotify.com/artist/2tRg9tU9VRKsmTr2ihZCEs) | [Jeff](https://open.spotify.com/album/1Kz5OvHWtPRTPZtJWLhDl6) | 4:10 |
-| 31 | [milkshake poem](https://open.spotify.com/track/3p2C43dgJHyT4BH9uLVP94) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [milkshake poem](https://open.spotify.com/album/5X9H0J36ZqaIssTCtBSWRj) | 2:31 |
-| 32 | [You Could Be My Home](https://open.spotify.com/track/1OGttz2y1tq6bzKfcnk8Ez) | [Dejima](https://open.spotify.com/artist/3cvyvssZnFHsTpwwHC9dji) | [You Could Be My Home](https://open.spotify.com/album/49PC9m4I8zF04shVOW7H0N) | 3:14 |
-| 33 | [tattoos and jeans](https://open.spotify.com/track/0yeKMJtAUmiIhoOL4IS6DJ) | [Jackson Marshall](https://open.spotify.com/artist/4sabxefSr7gXnTA6Lv3ILl) | [tattoos and jeans](https://open.spotify.com/album/5oLvVoNLrYcrvz3jHh2Vuy) | 2:57 |
+| 18 | [Let go](https://open.spotify.com/track/7cmNF8uySo6WrjtbjS0ngo) | [Mora Michelle](https://open.spotify.com/artist/1wJSAHWxV34NbL4qAwDuvx) | [Let go](https://open.spotify.com/album/3uUwqFB6ZyBmS4h9gTv7Rg) | 4:23 |
+| 19 | [Swimming Pool](https://open.spotify.com/track/6VBWStlrhtYvuLPbO12NX5) | [Shane T](https://open.spotify.com/artist/1NOjRg9eVRh2kQ5HFoME1X) | [Swimming Pool](https://open.spotify.com/album/6ixzzzRuELqypzHlqhR6SD) | 3:20 |
+| 20 | [Girl I See in My Dreams](https://open.spotify.com/track/7pddvsjKPY1HGuFzonYRMZ) | [Twnie](https://open.spotify.com/artist/0BnBj9BOJEidMEuC4Bv3D4) | [Girl I See in My Dreams](https://open.spotify.com/album/4AkIsMhK16F1n2Qm5AhuBj) | 3:48 |
+| 21 | [Just Stay For Once](https://open.spotify.com/track/1Kaimjtef03VF7AQDLmwQ9) | [Imani Graham](https://open.spotify.com/artist/3z3RfAKT2rmzCfPoXSKfEA) | [Just Stay For Once](https://open.spotify.com/album/0CkS4LqIzZO5YOU1eMDOM5) | 3:36 |
+| 22 | [Pressure](https://open.spotify.com/track/1idPrmJk9PlmFsupge2Xrf) | [Miina](https://open.spotify.com/artist/2be45mouasgEeyH4Tgm4fB), [Carmanah](https://open.spotify.com/artist/6JThhhe0e1F4wFnsJpn8AS) | [Pressure](https://open.spotify.com/album/1pX9EsEOwkenls3ZZ37p70) | 2:49 |
+| 23 | [Dramatic](https://open.spotify.com/track/4rEmncAwkRTCAta68eprWs) | [Helladusty](https://open.spotify.com/artist/1Y2m3Gboo5yXhnJHC6SWXm) | [Through The Screen](https://open.spotify.com/album/4qhG1gPdEtyzqpJjrFn6Cs) | 3:13 |
+| 24 | [tattoos and jeans](https://open.spotify.com/track/0yeKMJtAUmiIhoOL4IS6DJ) | [Jackson Marshall](https://open.spotify.com/artist/4sabxefSr7gXnTA6Lv3ILl) | [tattoos and jeans](https://open.spotify.com/album/5oLvVoNLrYcrvz3jHh2Vuy) | 2:57 |
+| 25 | [Supershot](https://open.spotify.com/track/2Ih6Fp7nlYaKLoTPO3AD7L) | [Unfamiliar Things](https://open.spotify.com/artist/17xF2fbsXDqdYchGI8Ydko) | [Supershot](https://open.spotify.com/album/0nSZiIzp5GUVMDemINwTsr) | 4:08 |
+| 26 | [This One](https://open.spotify.com/track/5Qp6SIUrqZFSyYZHJkb6I0) | [Reggie Pearl](https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe) | [This One](https://open.spotify.com/album/7xcV8IGE3Djn5vbk6ehdin) | 3:04 |
+| 27 | [Big Ole House](https://open.spotify.com/track/5FaYN5hSwvYg9UAobOnPEx) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Big Ole House](https://open.spotify.com/album/0IskuiwsYHY8OT6FrH68GC) | 2:35 |
+| 28 | [Wicked Love](https://open.spotify.com/track/2UbMqPrxBapGoDjUYTcnsr) | [Visit Neptune](https://open.spotify.com/artist/2NNwTJN1lpxq4k3m03HxeA) | [Wicked Love](https://open.spotify.com/album/1NFuvaVM8dLRRSWawm2bSl) | 4:08 |
+| 29 | [Jeff](https://open.spotify.com/track/2fNIBmtBMvgACNkLTxrYQC) | [Henry Hall](https://open.spotify.com/artist/2tRg9tU9VRKsmTr2ihZCEs) | [Jeff](https://open.spotify.com/album/1Kz5OvHWtPRTPZtJWLhDl6) | 4:10 |
+| 30 | [milkshake poem](https://open.spotify.com/track/3p2C43dgJHyT4BH9uLVP94) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [milkshake poem](https://open.spotify.com/album/5X9H0J36ZqaIssTCtBSWRj) | 2:31 |
+| 31 | [You Could Be My Home](https://open.spotify.com/track/1OGttz2y1tq6bzKfcnk8Ez) | [Dejima](https://open.spotify.com/artist/3cvyvssZnFHsTpwwHC9dji) | [You Could Be My Home](https://open.spotify.com/album/49PC9m4I8zF04shVOW7H0N) | 3:14 |
+| 32 | [You Know That I've Stayed](https://open.spotify.com/track/5TvcR7q7t62vNpBqVNlhr4) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver](https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65) | 2:37 |
+| 33 | [cry/dance](https://open.spotify.com/track/5xlqC38FzUI80czGvrLn8o) | [Dog Park](https://open.spotify.com/artist/6Kop7MbTrWy5WGNqxsi8Xl) | [Gemini](https://open.spotify.com/album/7AXLsVfxnrp1waIHzIYA8O) | 3:09 |
 | 34 | [So You Thought](https://open.spotify.com/track/4FDgRApaTV9dv8Y8PbwYtE) | [Hannah Sommer](https://open.spotify.com/artist/6lPs5Q3fsGvXW8F0BU1OLW) | [So You Thought](https://open.spotify.com/album/0zO1INTHf1VCK5cvXduXIB) | 4:19 |
 | 35 | [Loop](https://open.spotify.com/track/1egpWSqTh6h2mGd21AnuxF) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Loop](https://open.spotify.com/album/2qIPIaBGQRhJht5xa8ip0k) | 3:40 |
 | 36 | [Like Flowers](https://open.spotify.com/track/69jLc0ETDk9tUKo6dmuYA0) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Like Flowers](https://open.spotify.com/album/36RlDmrougdj5WIBzja3rf) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [bent](https://open.spotify.com/track/63wjDtMrtXEeZnHAccVyTE) | [Playdate](https://open.spotify.com/artist/6oIeF5buHoZuyuwiu4xz0B) | [bent](https://open.spotify.com/album/2GSjspn7Z3a41VThL7j0Y6) | 2:56 |
 | 100 | [You!](https://open.spotify.com/track/1OHfWdoYdRkvoEpEj4IKWj) | [Lauren Preuss](https://open.spotify.com/artist/33WjXTGX5zErPzZCoBQo1f) | [You!](https://open.spotify.com/album/7JadB3utzpjZJLojJdFw8z) | 3:23 |
 
-Snapshot ID: `MCxiMWU0YTRkOTg2ZjU4MzIxOTVkNzU3OGI2YTZlMWY3NDUzODRmM2Jm`
+Snapshot ID: `MCwzMjc0MTg4YTM0MjMyNDFjYTY5NjlhZTU4ZmJjZDIxMmI1ZWMwOWVh`

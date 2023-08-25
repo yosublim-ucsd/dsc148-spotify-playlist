@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-386 songs - 19 hr 36 min
+388 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Daft Kids](https://open.spotify.com/track/4nJvbH8x3yugwGtF2S0xfX) | [Sonaya](https://open.spotify.com/artist/6RUxinrtMPQKQElph9PaN9) | [Daft Kids](https://open.spotify.com/album/0sjg0cUWNvvaha0TvksAZW) | 2:54 | 2022-12-09 | 2023-06-03 |
 | [Dance The Occasion](https://open.spotify.com/track/30j0gaJZmJeIQGMKfrQN1Y) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Dance The Occasion](https://open.spotify.com/album/2FzVH5Ej9lHSJOzC0vs5qZ) | 3:11 | 2023-01-20 |  |
 | [David's House](https://open.spotify.com/track/3C2jaCNb0zckFTRiogJrmW) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [David's House](https://open.spotify.com/album/76saSRyM5eymCJFacvJYed) | 2:50 | 2022-10-14 |  |
+| [Day in the Sun](https://open.spotify.com/track/1bfxkN23k0KStToEYlTRNC) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Day in the Sun](https://open.spotify.com/album/0E1uImHFbIBHhGIaDGGO9g) | 2:53 | 2023-08-25 |  |
 | [Deep \- Dirk 81 Remix](https://open.spotify.com/track/23OHsWIvFTqOc8fOHBdTfp) | [Space Ghost](https://open.spotify.com/artist/3YfpfN9dOwJUoeqXoWazgi), [DIRK 81](https://open.spotify.com/artist/4q7ST2CYBFIK4TTL1sNCpk) | [Deep \(Dirk 81 Remix\)](https://open.spotify.com/album/6B02NazCKfqv0JZY7Yhrx3) | 4:42 | 2022-05-20 | 2022-05-27 |
 | [Deep Breathing](https://open.spotify.com/track/0oXG5zbpP09PiSXMp8cmnp) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Deep Breathing](https://open.spotify.com/album/1kXgBAdzlspc1qzyVo74G4) | 2:59 | 2022-04-05 | 2022-09-02 |
 | [Delta\-Omicron](https://open.spotify.com/track/4y3vErFuRlu6i2SyO0nkD1) | [Loell](https://open.spotify.com/artist/3jDHiq5XFmo97S6L5NtGsn) | [Delta\-Omicron](https://open.spotify.com/album/53NmGCs59O0EYT2uRNDW5x) | 2:51 | 2022-04-05 | 2022-05-20 |
@@ -198,6 +199,7 @@
 | [Lobby](https://open.spotify.com/track/2SYNph4RlGOSqW7h681G8D) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Lobby](https://open.spotify.com/album/53bhBGHmCq4XdN3lM785zZ) | 2:32 | 2022-10-28 |  |
 | [locking lips](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [locking lips](https://open.spotify.com/album/28M6S2X1BaPQI0IcJ6ju55) | 3:37 | 2022-10-14 |  |
 | [Long Time No See](https://open.spotify.com/track/4am2IwoKTQxH1yiHQWDbBF) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Long Time No See](https://open.spotify.com/album/5W9lOAVWxcyxbxi2nSX0Qv) | 3:36 | 2022-09-23 |  |
+| [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 | 2023-08-25 |  |
 | [Lost Lands](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ) | [Delta O](https://open.spotify.com/artist/3BYLxIFUAOJGEsV8lRkjSN) | [Lost Lands](https://open.spotify.com/album/0wyP4NGuJp6sI0j0SH7siA) | 3:53 | 2022-04-05 |  |
 | [Lost Sea](https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D) | [Sofachi](https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw) | [Lost Sea](https://open.spotify.com/album/0sUdcjrmiMOUGbFUhojfTe) | 3:07 | 2022-05-13 |  |
 | [Lucky Indigo](https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2) | [Ayimi](https://open.spotify.com/artist/6QTs7zcBWJY3Hst7yKkc2e) | [Lucky Indigo](https://open.spotify.com/album/5xldzhflovUqTs5lKCfhxG) | 3:05 | 2022-04-05 |  |

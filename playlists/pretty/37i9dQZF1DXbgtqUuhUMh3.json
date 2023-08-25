@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: Asmaa lmnawar\n\n",
-  "num_followers": 11173,
+  "num_followers": 11219,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTczMjk2ZDhiN2Y0ODQ1YTI5NTU1YTgzMzVlODU1ZmFiZWQ4ZWJl",
+  "snapshot_id": "MCwyMTJmYjFkZDAxYzExYjI0OWM4OWVhY2E3YTBhOTdmMDQ1Njg1ZTIx",
   "tracks": [
     {
       "added_at": "2023-08-23 02:48:13",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-08-23 02:48:13",
       "album": {
-        "name": "Baadni Bhebak",
-        "url": "https://open.spotify.com/album/1Zg9xXXVmJvySNnlA9DBqJ"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 178562,
-      "name": "Baadni Bhebak",
-      "url": "https://open.spotify.com/track/2LYvBpvjJXaLS3AzHhKCDK"
-    },
-    {
-      "added_at": "2023-08-23 02:48:13",
-      "album": {
         "name": "Ya Gamalak (Acoustic Version)",
         "url": "https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 208840,
       "name": "Wayyak",
       "url": "https://open.spotify.com/track/1zQBbLzIE77m5kjm7BPYet"
+    },
+    {
+      "added_at": "2023-08-23 02:48:13",
+      "album": {
+        "name": "Baadni Bhebak",
+        "url": "https://open.spotify.com/album/1Zg9xXXVmJvySNnlA9DBqJ"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 178562,
+      "name": "Baadni Bhebak",
+      "url": "https://open.spotify.com/track/2LYvBpvjJXaLS3AzHhKCDK"
     },
     {
       "added_at": "2023-08-23 02:48:13",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-23 02:48:13",
       "album": {
-        "name": "Ya Lali",
-        "url": "https://open.spotify.com/album/5h91hNUsiZ9hjuU99fERoi"
-      },
-      "artists": [
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Ya Lali",
-      "url": "https://open.spotify.com/track/0yTenAHL5lYER6mzMR00Wp"
-    },
-    {
-      "added_at": "2023-08-23 02:48:13",
-      "album": {
         "name": "Ghazaleh",
         "url": "https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 155930,
       "name": "Ghazaleh",
       "url": "https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ"
+    },
+    {
+      "added_at": "2023-08-23 02:48:13",
+      "album": {
+        "name": "Ya Lali",
+        "url": "https://open.spotify.com/album/5h91hNUsiZ9hjuU99fERoi"
+      },
+      "artists": [
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Ya Lali",
+      "url": "https://open.spotify.com/track/0yTenAHL5lYER6mzMR00Wp"
     },
     {
       "added_at": "2023-08-23 02:48:13",

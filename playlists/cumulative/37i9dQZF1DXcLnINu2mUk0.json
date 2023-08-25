@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Slow J.",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Julinho Ksd.",
   "name": "Seda",
   "tracks": [
     {
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 207873,
       "name": "Como Tu (feat. Ivandro)",
       "url": "https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin"
@@ -1628,6 +1628,24 @@
       "duration_ms": 186221,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6T0xKuYzSIz1AbfcCqcJNu"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1dav5pLvS9gKsxuCcH5M1j"
+      },
+      "artists": [
+        {
+          "name": "Nova Wave",
+          "url": "https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151026,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6vRa0xwMWiBR8fvGd7brnb"
     },
     {
       "album": {
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 210092,
       "name": "Eu At\u00e9 Percebo",
       "url": "https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 210337,
       "name": "Filhos",
       "url": "https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4"

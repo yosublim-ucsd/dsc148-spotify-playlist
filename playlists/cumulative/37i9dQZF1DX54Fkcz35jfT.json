@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: BABYMETAL",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: SiM",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 108775,
       "name": "basement",
       "url": "https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 185712,
       "name": "hellsong. (let it in)",
       "url": "https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 199160,
       "name": "Kodou",
       "url": "https://open.spotify.com/track/19A7WBwlU8wK0419zlQSFn"
@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Dance & Scream",
+        "url": "https://open.spotify.com/album/3FOmxufq21hJt1qWq0MABi"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252093,
+      "name": "Love at First Sight",
+      "url": "https://open.spotify.com/track/6NLHGKCYCnXt7pU6VQSrAf"
+    },
+    {
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/2tHhRVVI82FOCr0nEujtsY"
       },
@@ -998,6 +1016,24 @@
       "duration_ms": 156216,
       "name": "MAGIC TIME",
       "url": "https://open.spotify.com/track/5bNd9b7Uo65IBAf51un2QJ"
+    },
+    {
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "album": {
@@ -1160,7 +1196,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 202480,
       "name": "Neppa Mappa",
       "url": "https://open.spotify.com/track/1yk0SSa84LDFar4tcBLVDM"
@@ -1182,6 +1218,24 @@
       "duration_ms": 212745,
       "name": "NEW DAWN",
       "url": "https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG"
+    },
+    {
+      "album": {
+        "name": "of course",
+        "url": "https://open.spotify.com/album/68hagxENiIaUNAprO75WGC"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175756,
+      "name": "of course",
+      "url": "https://open.spotify.com/track/2FFf4WFv4oj0R8yenXXaNF"
     },
     {
       "album": {
@@ -1438,7 +1492,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 77863,
       "name": "Risin'",
       "url": "https://open.spotify.com/track/1lAnhwKFShmu4T0QniMKbe"
@@ -1460,7 +1514,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 187285,
       "name": "R\u2605STAR",
       "url": "https://open.spotify.com/track/786JuYz9Shz9pYpn0B8bdn"
@@ -1662,7 +1716,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 150180,
       "name": "Steady",
       "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
@@ -1716,7 +1770,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 188776,
       "name": "SYOKISHODO",
       "url": "https://open.spotify.com/track/08JA6xRSgOcycZ94PqzJoE"

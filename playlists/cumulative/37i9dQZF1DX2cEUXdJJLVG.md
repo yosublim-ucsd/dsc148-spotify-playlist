@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-265 songs - 16 hr 0 min
+266 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Omw](https://open.spotify.com/track/7CanFKpPTEgaxqIu6RXBIf) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 3:58 | 2022-10-12 | 2023-07-08 |
 | [On + On \(with Justine Skye\)](https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 2:49 | 2023-06-15 |  |
 | [On the Clouds](https://open.spotify.com/track/5j7H9imYIJriwyfnYOzP3a) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [On the Clouds](https://open.spotify.com/album/6cmzCN4gujE9G6F5nlvWKp) | 3:35 | 2022-09-09 |  |
+| [Onto Something](https://open.spotify.com/track/6x5RE5nzcVFbHSvnUzI6tX) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Onto Something](https://open.spotify.com/album/33dBJKFbqZWNwsXTUXnAcA) | 4:00 | 2023-08-24 |  |
 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 | 2022-09-09 |  |
 | [Original Classic](https://open.spotify.com/track/02ddQBxSIVhBZZHQTsXmgf) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Marbl](https://open.spotify.com/artist/7nal1FKs5ceRIALtj9DqA2), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Original Classic](https://open.spotify.com/album/1C7w8U2aScz7utdxA1bM4A) | 3:32 | 2022-09-09 |  |
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-09-09 |  |

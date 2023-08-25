@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-330 songs - 1 day 2 hr 50 min
+331 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 | 2022-08-14 |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2022-07-27 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 | 2023-01-19 |
-| [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 |  |
+| [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 | 2023-08-25 |
 | [Fog](https://open.spotify.com/track/1KBddz4B293HkDtfFnRbJQ) | [Flame 1](https://open.spotify.com/artist/5XHpF80rFg0bBBA6vq1sj4) | [Fog / Shrine](https://open.spotify.com/album/5VmAI2tGjo2OKDXwN2RVhT) | 5:13 | 2021-10-06 | 2022-07-06 |
 | [Footprints In Solid Rock \- Beatrice Dillon Remix](https://open.spotify.com/track/0pxLDHQqDqPhlnd7tAGIWj) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN), [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97) | [Remixes \- 2](https://open.spotify.com/album/4JY2xSBqgCapi5p6LDIJfV) | 5:38 | 2021-10-06 | 2022-07-14 |
 | [Ganbare](https://open.spotify.com/track/22kCwGTTD5j4vJOzTCVNp2) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Ganbare](https://open.spotify.com/album/1E6NFhurNt4TuYNAfCZzLX) | 6:37 | 2021-10-06 | 2022-07-28 |
@@ -314,6 +314,7 @@
 | [Vertiko](https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Vertiko](https://open.spotify.com/album/22pnMQDpiwnQe4vq0pWobB) | 4:59 | 2022-09-07 | 2022-12-24 |
 | [Victims of Victimless Crimes](https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE) | [Kübler\-Ross](https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy) | [Kübler\-Ross](https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH) | 4:18 | 2022-07-15 | 2023-01-10 |
 | [Vidrio Roto](https://open.spotify.com/track/6m1VL8mzWuPnlMAogYluy0) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Vidrio Roto](https://open.spotify.com/album/3YiWqsTiIlKh5et6TMi8ft) | 4:24 | 2021-10-06 | 2022-07-29 |
+| [Voyager](https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [Voyager](https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4) | 3:09 | 2023-08-24 |  |
 | [Walking Through Still Air](https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 5:22 | 2021-10-06 | 2022-08-02 |
 | [Walking Through Still Air](https://open.spotify.com/track/6XrnIr2rEUh0689dUNLMkR) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [Walking Through Still Air](https://open.spotify.com/album/6kfaYNYtxLrVh5vmBNf2vw) | 5:22 | 2021-10-06 | 2022-07-28 |
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2021-10-06 |  |

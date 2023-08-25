@@ -755,6 +755,28 @@
     },
     {
       "album": {
+        "name": "Dingu\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/3wqeNz3dhkiTOiR98SwK1T"
+      },
+      "artists": [
+        {
+          "name": "Bebi Philip",
+          "url": "https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt"
+        },
+        {
+          "name": "Lady Ponce",
+          "url": "https://open.spotify.com/artist/4WF183Kl7QhmBH35vvQnzM"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224509,
+      "name": "Dingu\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/2TcxT7BfOGhWMfEUsrSL6w"
+    },
+    {
+      "album": {
         "name": "Dis merci \u00e0 Dieu",
         "url": "https://open.spotify.com/album/3FWMC015RDd3VS86NUrohj"
       },
@@ -2142,7 +2164,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 238198,
       "name": "On me guette",
       "url": "https://open.spotify.com/track/7bKZl8qe0BnKh7rchIRSgt"

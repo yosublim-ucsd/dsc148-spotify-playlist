@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 69092,
+  "num_followers": 69152,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmRkNTI0MDkxOTJhNGY4MGYwNDkxYTFkYmIzZTdkZDA4NTAxYzNk",
+  "snapshot_id": "MCxkNTJhZmM1NzdmY2U1MmI4N2NlNDIzMzhmZmRhNWFiZWU0ZTcxNjhh",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "The Best Of Gospel Superfest (Live)",
-        "url": "https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N"
-      },
-      "artists": [
-        {
-          "name": "Melvin Williams",
-          "url": "https://open.spotify.com/artist/55ahFTOpj1ZVL4upoNwOqm"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Ooh Wee Another Blessing",
-      "url": "https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Yahweh / Yeshua Hamashiach",
         "url": "https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA"
       },
@@ -852,13 +836,29 @@
       },
       "artists": [
         {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+          "name": "Melvin Williams",
+          "url": "https://open.spotify.com/artist/55ahFTOpj1ZVL4upoNwOqm"
         }
       ],
-      "duration_ms": 379533,
-      "name": "It's Not Over",
-      "url": "https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf"
+      "duration_ms": 253293,
+      "name": "Ooh Wee Another Blessing",
+      "url": "https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Gospel's Best Live",
+        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "duration_ms": 445360,
+      "name": "Center Of My Joy - Live",
+      "url": "https://open.spotify.com/track/2oKFjzpOQrj2t0lwXlSrjV"
     }
   ],
   "unique_name": "Gospel Live",

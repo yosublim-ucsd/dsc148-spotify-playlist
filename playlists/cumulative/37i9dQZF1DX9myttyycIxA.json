@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Around Around Around",
+        "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321460,
+      "name": "Around Around Around",
+      "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
+    },
+    {
+      "album": {
         "name": "As Much as I Can",
         "url": "https://open.spotify.com/album/2YV7i7xj1SglQXBuJfeYVJ"
       },
@@ -2313,6 +2331,28 @@
     },
     {
       "album": {
+        "name": "BOTTOM FEEDER",
+        "url": "https://open.spotify.com/album/4iHDH5LnldQKdgJ26Xh7md"
+      },
+      "artists": [
+        {
+          "name": "Dafna",
+          "url": "https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP"
+        },
+        {
+          "name": "Nico Days",
+          "url": "https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "BOTTOM FEEDER",
+      "url": "https://open.spotify.com/track/4XBr4XoYKUe1ayGgnNtLyh"
+    },
+    {
+      "album": {
         "name": "Bound To Be",
         "url": "https://open.spotify.com/album/5lpFZntCTxHcHLAMqK7kwb"
       },
@@ -2732,6 +2772,24 @@
       "duration_ms": 210930,
       "name": "Can You See Me",
       "url": "https://open.spotify.com/track/5bcuh5urwoAEJ2FfoGextz"
+    },
+    {
+      "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/5Gqr5h8mLjgcs3hUSAY24E"
+      },
+      "artists": [
+        {
+          "name": "Another Michael",
+          "url": "https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188416,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/2Elr1Zc3CIhfAdxBA8oD58"
     },
     {
       "album": {
@@ -4007,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Crimson to Chrome b/w IN_OUT",
+        "url": "https://open.spotify.com/album/3SOjx5ALtCLxwMCeBrpZeD"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Crimson to Chrome",
+      "url": "https://open.spotify.com/track/4L8vpnqvHQucS2jakCHztD"
+    },
+    {
+      "album": {
         "name": "Crimson to Chrome",
         "url": "https://open.spotify.com/album/4AxFhcAdZ2mZQsijvKpcOr"
       },
@@ -4018,7 +4094,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 208640,
       "name": "Crimson to Chrome",
       "url": "https://open.spotify.com/track/51z0dKznDBCOYTumpGJXoj"
@@ -6974,7 +7050,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 314199,
       "name": "Glass Jaw",
       "url": "https://open.spotify.com/track/76koZv1MMQG2p9rypLMMl9"
@@ -7238,6 +7314,24 @@
       "duration_ms": 140997,
       "name": "green felt",
       "url": "https://open.spotify.com/track/3oN4POrCHruPnGHlzn3WQC"
+    },
+    {
+      "album": {
+        "name": "Greg Abbott's Maxi Pad",
+        "url": "https://open.spotify.com/album/5i4YyMtdpLfa9aMrszZL5D"
+      },
+      "artists": [
+        {
+          "name": "Farmer's Wife",
+          "url": "https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188138,
+      "name": "Greg Abbott's Maxi Pad",
+      "url": "https://open.spotify.com/track/21JwaGcxPE1KuAWgoasLL1"
     },
     {
       "album": {
@@ -8918,7 +9012,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 200000,
       "name": "I'm Always Here",
       "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
@@ -12414,6 +12508,24 @@
     {
       "album": {
         "name": "Orange",
+        "url": "https://open.spotify.com/album/6AQymuAGSvGCXV30K5nHDx"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270744,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/4gnrM7X1H8sDjyGSv6Y9az"
+    },
+    {
+      "album": {
+        "name": "Orange",
         "url": "https://open.spotify.com/album/4FSK9LM4KN6rza3sZjAMXI"
       },
       "artists": [
@@ -12526,6 +12638,24 @@
       "duration_ms": 196269,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/4qAIlXdkdXvQIOpkF9dC2f"
+    },
+    {
+      "album": {
+        "name": "Pale Blue",
+        "url": "https://open.spotify.com/album/21tRaGSWiv8i1d5PSQkBEr"
+      },
+      "artists": [
+        {
+          "name": "All Things Blue",
+          "url": "https://open.spotify.com/artist/01sLjLNQxogo8tXiVnuXty"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235673,
+      "name": "Pale Blue",
+      "url": "https://open.spotify.com/track/7uOINyletKxpHrSiWehjEy"
     },
     {
       "album": {
@@ -13262,7 +13392,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 188000,
       "name": "rainwater on the windowsill",
       "url": "https://open.spotify.com/track/6wufmQ6faZ2AV5Q33JQfdh"
@@ -13392,6 +13522,24 @@
       "duration_ms": 300000,
       "name": "reasons",
       "url": "https://open.spotify.com/track/0Zkgu2BputAbvd1HhoXMQC"
+    },
+    {
+      "album": {
+        "name": "Relics",
+        "url": "https://open.spotify.com/album/3mA6V7rbCAJY9zzUGH5wCc"
+      },
+      "artists": [
+        {
+          "name": "Patio",
+          "url": "https://open.spotify.com/artist/2mln4aJfJQaYzFUUQ3Ji9N"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156646,
+      "name": "Relics",
+      "url": "https://open.spotify.com/track/2Foq8SASEZqJD6daEew4Z0"
     },
     {
       "album": {
@@ -16439,6 +16587,24 @@
     },
     {
       "album": {
+        "name": "Theatre",
+        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179037,
+      "name": "Theatre",
+      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
+    },
+    {
+      "album": {
         "name": "there for you",
         "url": "https://open.spotify.com/album/1TvvBHVRmuhlQVxg6569Pi"
       },
@@ -17944,6 +18110,24 @@
       "duration_ms": 221720,
       "name": "We're Here, My Dear",
       "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
+    },
+    {
+      "album": {
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
     },
     {
       "album": {

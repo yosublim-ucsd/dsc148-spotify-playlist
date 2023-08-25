@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Lavora",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Guyon Waton",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -258,6 +258,24 @@
       "duration_ms": 328011,
       "name": "Bar Lebaran Tak Lamar",
       "url": "https://open.spotify.com/track/7pHfBvGfoyB62oYvAb9sDm"
+    },
+    {
+      "album": {
+        "name": "Blawur",
+        "url": "https://open.spotify.com/album/6EBNCFSMhyUhxnDwTDlmtP"
+      },
+      "artists": [
+        {
+          "name": "Pakdhe Baz",
+          "url": "https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337500,
+      "name": "Blawur",
+      "url": "https://open.spotify.com/track/3YSehtdz9NKV766UnWNFti"
     },
     {
       "album": {
@@ -2390,6 +2408,24 @@
       "duration_ms": 375018,
       "name": "Pedhot Janji",
       "url": "https://open.spotify.com/track/2Z8sz5V61e7mUQHl7WTP69"
+    },
+    {
+      "album": {
+        "name": "Pelanggaran",
+        "url": "https://open.spotify.com/album/74dbmkxOoWQE3h4RlXfPIK"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297230,
+      "name": "Pelanggaran",
+      "url": "https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l"
     },
     {
       "album": {

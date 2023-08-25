@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,257 likes - 124 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,297 likes - 124 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 61 | [Matter of Fact](https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [The Mouth](https://open.spotify.com/album/4KZHTM0tObhCZPckxqb4hA) | 2:24 |
 | 62 | [I Can Do Hard Things](https://open.spotify.com/track/2aBO3KmhLEkeVdV7VLL0M5) | [Narwhals and Waterfalls](https://open.spotify.com/artist/3bGbqC8l55hrX4dbovAMBX) | [Full Circle SEL](https://open.spotify.com/album/6FlI8EDPfBNj5c9kRCHO9f) | 3:17 |
 | 63 | [So Many Ideas \- David Gibb Remix](https://open.spotify.com/track/2z3QhFMwRIpfGBBjATxUAu) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6), [David Gibb](https://open.spotify.com/artist/52FYO0le6ZR0UpzqFtxSot) | [So Many Ideas \(David Gibb Remix\)](https://open.spotify.com/album/1ijDxXCzMW8b81cNe2QKdR) | 3:24 |
-| 64 | [The Coolest Person](https://open.spotify.com/track/2m7NtrQMIghZEUgsRVwjQV) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 3:14 |
+| 64 | [The Coolest Person](https://open.spotify.com/track/2m7NtrQMIghZEUgsRVwjQV) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 3:14 |
 | 65 | [Getting The Job Done](https://open.spotify.com/track/7LHPkrPgSFKyGO6Ru6tdDu) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:39 |
 | 66 | [Gather Round](https://open.spotify.com/track/2aFIt5maVUkdDMkafHFW4b) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:55 |
 | 67 | [The Road to Gettin' Better \(Is Not a Straight Line\)](https://open.spotify.com/track/6Pyfervdg8n1gKIoodYvjd) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [The Road to Gettin' Better](https://open.spotify.com/album/0qlhy1LzuxFCPdOsXfKxgC) | 2:52 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 86 | [Funky Leg](https://open.spotify.com/track/2aq4DbosfzQRYbDKCdatle) | [Shine and the Moonbeams](https://open.spotify.com/artist/5IwCPV7WRS7rIQN41cur1q) | [I Am](https://open.spotify.com/album/4ST8f5iI7KoSvYGYma4Yjp) | 2:43 |
 | 87 | [L.O.V.E\. Is a Rulebreaker](https://open.spotify.com/track/2S0gGozAu3wNDuBQtuyyfM) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [L.O.V.E\. Is a Rulebreaker](https://open.spotify.com/album/3BqW9M42B4w8fPbhYyH9nj) | 2:15 |
 | 88 | [Outside Time \(My Favourite Time of Day\)](https://open.spotify.com/track/62zIyjEJQV9ABAx9fc0ZoU) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Outside Time \(My Favourite Time of Day\)](https://open.spotify.com/album/4iKkWQIATd1PoWFU4xLrjv) | 2:20 |
-| 89 | [B\-E\-L\-I\-E\-V\-E](https://open.spotify.com/track/0L0OEEtf9fK15cFAsH2JYo) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [The Triangle of Success: A Motivational, Inspirational Audio Guide to Achieving Your Dreams](https://open.spotify.com/album/7k0NsygiRajqOD4aNnjxoX) | 3:15 |
+| 89 | [B\-E\-L\-I\-E\-V\-E](https://open.spotify.com/track/0L0OEEtf9fK15cFAsH2JYo) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [The Triangle of Success: A Motivational, Inspirational Audio Guide to Achieving Your Dreams](https://open.spotify.com/album/7k0NsygiRajqOD4aNnjxoX) | 3:15 |
 | 90 | [Make New Friends](https://open.spotify.com/track/023TXy52tzrzfR1JRXx4PL) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Carlitta Durand](https://open.spotify.com/artist/16VW2tIJ6vyhe06xfI3T7t) | [D.A.D](https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N) | 4:43 |
 | 91 | [Fam Jam](https://open.spotify.com/track/58pVNlzDwrddprihIMBKCd) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 2:54 |
 | 92 | [Cool to be Kind](https://open.spotify.com/track/6kRgdvCQsERuUwDI4CA0gZ) | [Moe & Friends](https://open.spotify.com/artist/5sEYIFfHFKl1JKnTSQSXjl) | [Songs from Moe & Friends](https://open.spotify.com/album/1hIpNLkTHI7GCux3aFILlo) | 2:01 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 123 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 |
 | 124 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 |
 
-Snapshot ID: `MCxjYzEyODc3NWVkZmRhZjQ2YTJmYzc4ZThiMmI1MjRiNzAyNzQ2MjQ4`
+Snapshot ID: `MCwzNjM5MjVmYzc5YWJhYWFkYzQ0Zjk1MjdiZDhkNjA2ZmZlZjFjZTA2`

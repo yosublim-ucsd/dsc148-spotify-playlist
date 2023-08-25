@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjM4MTQ4ZjY1ZmZjNDgzYzZlYWE5NDMxNmNhODY3ZTI1M2EwNzk0",
+  "snapshot_id": "MCxjNGJkNDliYWZjYzdhZThkZDI0MzRmYjMxNDAxY2NhZmIyMTVkYjg5",
   "tracks": [
     {
       "added_at": "2022-10-04 04:00:00",
@@ -598,6 +598,10 @@
         {
           "name": "Harry Fraud",
           "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Skylar Gudasz",
+          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
         }
       ],
       "duration_ms": 171645,

@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 153592,
+  "num_followers": 154031,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWYyMzg1ZGJhNWQxY2UyMzZmY2ZiZjgxZjdlZWVkOGFmODM4OGFm",
+  "snapshot_id": "MCw1NDRmNGRmNGY5MmQ1MzkwNmZhYzQ0ZmFhMTkwYzNiNTAwZmNjM2Vk",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
+        "name": "Hildegard",
+        "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
       },
       "artists": [
         {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
         }
       ],
-      "duration_ms": 404766,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
+      "duration_ms": 281840,
+      "name": "Hildegard",
+      "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
     }
   ],
   "unique_name": "Italo Disco",

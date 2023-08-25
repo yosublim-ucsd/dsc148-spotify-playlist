@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 91339,
+  "num_followers": 91410,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzNmOTYzODRkZWU3MGEwMzNlMWJlYzA1MGJjNGY4NGVhNGZjMzI0",
+  "snapshot_id": "MCwzMWY5MjdhZTc3MjE1ODc0ODY3YmQwZGIxY2IxN2ZmNmYzMjcyMzZm",
   "tracks": [
     {
       "added_at": "2023-04-12 09:27:22",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF"
-      },
-      "artists": [
-        {
-          "name": "Rachid Taha",
-          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
-        }
-      ],
-      "duration_ms": 374466,
-      "name": "Ya Rayah",
-      "url": "https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
         "name": "Alby Eshekha",
         "url": "https://open.spotify.com/album/75u5u50zTx0gw9RwVtwt90"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 344766,
       "name": "Albi Eshi\u2019ha",
       "url": "https://open.spotify.com/track/4xSukcHWU8LrtWSTjOInpM"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF"
+      },
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        }
+      ],
+      "duration_ms": 374466,
+      "name": "Ya Rayah",
+      "url": "https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2"
     },
     {
       "added_at": "2023-04-12 09:27:22",

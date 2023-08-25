@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 199240,
       "name": "Coward",
       "url": "https://open.spotify.com/track/73J2yNKB5ceGv9DKfOjcZc"
@@ -1744,6 +1744,24 @@
       "duration_ms": 167509,
       "name": "Ferris wheel",
       "url": "https://open.spotify.com/track/5xwCHbGZfIiqaWlmIsvnts"
+    },
+    {
+      "album": {
+        "name": "SANDARA PARK",
+        "url": "https://open.spotify.com/album/4OlfPaq5wGuzXHXioUAM4O"
+      },
+      "artists": [
+        {
+          "name": "Sandara Park",
+          "url": "https://open.spotify.com/artist/3LKVw6XQYcot0OZMFmf4IP"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "FESTIVAL",
+      "url": "https://open.spotify.com/track/5c1g69A9A2P9N6yCV4xvUo"
     },
     {
       "album": {
@@ -2999,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+    },
+    {
+      "album": {
         "name": "Kimchi Fried Rice",
         "url": "https://open.spotify.com/album/6K6hFeFn7o307wnhRrK84G"
       },
@@ -3954,7 +3990,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 151530,
       "name": "One and Only (Feat. KURO)",
       "url": "https://open.spotify.com/track/0GpK80YpKjNLA37FQ1JvDt"
@@ -4424,6 +4460,24 @@
       "duration_ms": 180360,
       "name": "Rock with you",
       "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
     },
     {
       "album": {
@@ -6108,7 +6162,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 184722,
       "name": "Where Are You From",
       "url": "https://open.spotify.com/track/3e8aYoRC99j7CJYQNpUmSl"

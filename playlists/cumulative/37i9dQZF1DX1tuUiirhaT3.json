@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9"
+      },
+      "artists": [
+        {
+          "name": "Hans Heeler",
+          "url": "https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y"
+    },
+    {
+      "album": {
         "name": "Everwoods",
         "url": "https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK"
       },
@@ -2222,6 +2240,24 @@
       "duration_ms": 231428,
       "name": "Life of Birds",
       "url": "https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB"
+    },
+    {
+      "album": {
+        "name": "Lighten",
+        "url": "https://open.spotify.com/album/6rdXPLnV2oX5aAZhK1ZyDR"
+      },
+      "artists": [
+        {
+          "name": "Aisher Rami",
+          "url": "https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186131,
+      "name": "Lighten",
+      "url": "https://open.spotify.com/track/4Q9hxYb7d3kCBRAdPikAL2"
     },
     {
       "album": {

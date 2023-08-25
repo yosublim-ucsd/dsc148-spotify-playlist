@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Bucket",
+        "url": "https://open.spotify.com/album/3Le6epBQsmsjeUH5XBWpv8"
+      },
+      "artists": [
+        {
+          "name": "Karibasava Tadakal",
+          "url": "https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270043,
+      "name": "Bucket",
+      "url": "https://open.spotify.com/track/31VSLnPSt72KHWns93bvzX"
+    },
+    {
+      "album": {
         "name": "Careless",
         "url": "https://open.spotify.com/album/4CqMVtBDarc1veEKP4NzVm"
       },
@@ -1469,6 +1487,32 @@
     },
     {
       "album": {
+        "name": "Live Lakshmi",
+        "url": "https://open.spotify.com/album/32fNJbDr7iUAZZx1dBi8f1"
+      },
+      "artists": [
+        {
+          "name": "Praveen Kadapatti",
+          "url": "https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst"
+        },
+        {
+          "name": "Kishor",
+          "url": "https://open.spotify.com/artist/6GYVBglYMAmbDVoLAX02kD"
+        },
+        {
+          "name": "Kavya SM",
+          "url": "https://open.spotify.com/artist/7HrXhvguvaak7G4Luv63yu"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Live Lakshmi",
+      "url": "https://open.spotify.com/track/1kgvfvXFjAEpUwKYqZcc54"
+    },
+    {
+      "album": {
         "name": "Lokada Kalaji (Rendition) [SKODA Deccan Beats]",
         "url": "https://open.spotify.com/album/6pIZpEbcqhKgVJJXw5CTxd"
       },
@@ -1524,7 +1568,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 249630,
       "name": "Maha Ganapathim",
       "url": "https://open.spotify.com/track/0DY2HqSTGGBtTFKfsshNYd"
@@ -2146,7 +2190,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 203750,
       "name": "Neene Illade",
       "url": "https://open.spotify.com/track/6lo8HaKpbucdA2eGaHFSYs"

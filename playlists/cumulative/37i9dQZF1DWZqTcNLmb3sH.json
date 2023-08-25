@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Anna From Mexico Theme Music (From \"Anna From Mexico\")",
+        "url": "https://open.spotify.com/album/0S6PTwkCcOssG17kDoNCex"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79062,
+      "name": "Anna From Mexico Theme Music (From \"Anna From Mexico\")",
+      "url": "https://open.spotify.com/track/4qyZzJdBO488eitGRUaWCE"
+    },
+    {
+      "album": {
         "name": "Nam Annayya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4uv4boWsopVsf1LQyU9g07"
       },
@@ -13316,7 +13334,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 212600,
       "name": "Ninage Sigalu Eedina (From \"Pranayam\")",
       "url": "https://open.spotify.com/track/3FSyxmCld0H3SCL1WQ1JVi"
@@ -16819,6 +16837,32 @@
     },
     {
       "album": {
+        "name": "Shruthiyagi Nee Seru (From \"Deadly Killer\")",
+        "url": "https://open.spotify.com/album/2wKvzn1oocG1xG6Jy4WoSj"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "Vinu Manasu",
+          "url": "https://open.spotify.com/artist/1ZibIIoDWcMC9UkJ4dHCfL"
+        },
+        {
+          "name": "Dr.Thriller Manju",
+          "url": "https://open.spotify.com/artist/3eWSRe5jojUY9N9cDjn5tQ"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "Shruthiyagi Nee Seru - From \"Deadly Killer\"",
+      "url": "https://open.spotify.com/track/0I8CTh6BC9jI1inrNIQCSf"
+    },
+    {
+      "album": {
         "name": "Silku Milku (From \"Inamdar\") - Single",
         "url": "https://open.spotify.com/album/2HCbacw7VHy1DA8cOa8ABz"
       },
@@ -17874,7 +17918,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 207076,
       "name": "Tun Tun Tun (from \"Elra Kaaleliyatte Kaala\")",
       "url": "https://open.spotify.com/track/1LGE5fbDTx4jQ3LBPph72i"

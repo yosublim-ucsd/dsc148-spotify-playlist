@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-274 songs - 14 hr 35 min
+276 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Equilibrium](https://open.spotify.com/track/1ZcQnf6WQyZK3kl3rSsd0m) | [Alina Hill](https://open.spotify.com/artist/2Ok5dXrKJa8fs1vSoOMHlQ) | [Equilibrium](https://open.spotify.com/album/6wIxeFFgRbTgKQXuvUnny3) | 3:06 | 2021-12-17 |  |
 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 | 2022-02-16 |  |
 | [Eucalyptus Breeze](https://open.spotify.com/track/41uYACY72buj6Bfp1BNDKP) | [Peaceful Clarity](https://open.spotify.com/artist/6FRjMYGzCyUD97xeWPWWq4) | [Eucalyptus Breeze](https://open.spotify.com/album/0gRSqJ6Wz9IgqVY5LTLTRr) | 2:49 | 2021-12-17 |  |
+| [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
 | [Everwoods](https://open.spotify.com/track/0Ny6iToeNH1UGeYko2Hfmx) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:30 | 2022-02-16 |  |
 | [Everything Flows](https://open.spotify.com/track/6rMAVA0k3aHJ3KOvL9nPhO) | [Cthulhu Ramón](https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW) | [Everything Flows](https://open.spotify.com/album/4Ht6QBEsGvB9DzzK7gOo5a) | 2:44 | 2022-09-30 |  |
 | [Evolution](https://open.spotify.com/track/3T4OHmowOZnJnBgXqg8YPQ) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 3:04 | 2023-03-03 |  |
@@ -130,6 +131,7 @@
 | [Le Djonk Calme](https://open.spotify.com/track/7pkLnul01bkK0QwuBqnAGK) | [Drew\-10](https://open.spotify.com/artist/0Xlsc8iACDFB2p9Y0XT6qs) | [Le Djonk Calme](https://open.spotify.com/album/7nPx5lxjFVVjmbpcAIVUJj) | 5:01 | 2021-12-17 | 2022-03-05 |
 | [Legacy Drift \- Nature Noise Version](https://open.spotify.com/track/3hnpbd1LlHPeCCw7ugjTsO) | [Aquaimo](https://open.spotify.com/artist/0TVxrxLRIiSOUrJdmjgg4f) | [Legacy Drift](https://open.spotify.com/album/6FOEczmgps7pqBfvGAXlcD) | 2:11 | 2022-02-16 |  |
 | [Life of Birds](https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:51 | 2021-12-17 | 2022-09-03 |
+| [Lighten](https://open.spotify.com/track/4Q9hxYb7d3kCBRAdPikAL2) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Lighten](https://open.spotify.com/album/6rdXPLnV2oX5aAZhK1ZyDR) | 3:06 | 2023-08-25 |  |
 | [Lion's Breath](https://open.spotify.com/track/0ifTzLcsRUIqaYH8DfiLbx) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Lion's Breath](https://open.spotify.com/album/3ckIgZZx3CZ6ItmoB6ETGd) | 3:11 | 2021-12-17 |  |
 | [Liquid Universe](https://open.spotify.com/track/6sSm3zcLb30wXnIvx19lnG) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 2:58 | 2021-12-17 | 2023-06-10 |
 | [Lofi Ocean Waves](https://open.spotify.com/track/24Vfojoe6FGWq32gPh6bTX) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Mijas](https://open.spotify.com/album/28JTLLbs086Y9R3LN1d3Qd) | 3:49 | 2021-12-17 |  |

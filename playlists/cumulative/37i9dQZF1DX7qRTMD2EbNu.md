@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=TohXHTvwSMGhjedgd0jbIw"> Black Sherif </a>
 
-277 songs - 14 hr 19 min
+278 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Frodo Baggins](https://open.spotify.com/track/1tANLsAscqWcdbEg7GzgSo) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/7tXVr3QOLpz8xUiXLbbpgs) | 4:36 | 2022-06-24 | 2023-02-26 |
 | [From Osu](https://open.spotify.com/track/6V6uaUFRJD73rWx5bjujan) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [From Osu](https://open.spotify.com/album/1qEx9aEwX3lrz0EX3Oro8z) | 3:24 | 2023-02-10 | 2023-03-03 |
 | [G\-Story](https://open.spotify.com/track/1hpWizyPRVLB0TkuGY8DD8) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [G\-Story](https://open.spotify.com/album/15Q01N2ssH6U5cMABEOquf) | 2:50 | 2023-07-14 |  |
+| [Gabba](https://open.spotify.com/track/3NRelBByiCm3PkDyyzKuvo) | [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Gabba](https://open.spotify.com/album/6UpnvQ4Qbj2OtHbeuE2Wh7) | 2:55 | 2023-08-24 |  |
 | [Gaga](https://open.spotify.com/track/3QPqrEOt48V8NHDt7rJkRp) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [PITJ](https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik) | 3:41 | 2023-08-10 |  |
 | [Gbedu](https://open.spotify.com/track/7rl0Xnk0GstBbkJ853xx41) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Snypa](https://open.spotify.com/artist/1wqYhpSZlIFP08MrmhKAQd), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Gbedu](https://open.spotify.com/album/2yitQbZzLOU5MhydiXzzC0) | 3:03 | 2022-08-12 | 2022-12-02 |
 | [Gbɛnzɛ](https://open.spotify.com/track/3NUuC18u7pSnEnh3kTORwI) | [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Gbɛnzɛ](https://open.spotify.com/album/24ECReEGfGhy68pgWTeh4i) | 3:00 | 2023-06-22 |  |
@@ -209,7 +210,7 @@
 | [Penny](https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Penny](https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR) | 3:03 | 2023-05-04 |  |
 | [Perfection](https://open.spotify.com/track/0j0TEjJfEvRyNS1jM2YnUg) | [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [David Hammond](https://open.spotify.com/artist/77dRhxijp3XSASVc3mYozX) | [The.rap.y](https://open.spotify.com/album/5imTQerf20f3s4TkWwlKaY) | 2:42 | 2023-04-14 | 2023-08-11 |
 | [Plan B](https://open.spotify.com/track/65UfDLUUQphi0TC8ja46nn) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Plan B](https://open.spotify.com/album/5BKLaEnrvktRKecn5Wqrem) | 3:08 | 2022-10-28 | 2022-11-19 |
-| [Prayed Up](https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q) | [Essilfie](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Prayed Up](https://open.spotify.com/album/60fjJwS5uH6QA7EU6u8yHB) | 2:48 | 2023-08-03 |  |
+| [Prayed Up](https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q) | [Essilfie](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Prayed Up](https://open.spotify.com/album/60fjJwS5uH6QA7EU6u8yHB) | 2:48 | 2023-08-03 | 2023-08-25 |
 | [Problem No Dey Finish](https://open.spotify.com/track/2N7hk4ffi927drqdKkbQSy) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Problem No Dey Finish](https://open.spotify.com/album/59LCfOZU4rPfSa08GVGvQ2) | 2:01 | 2022-06-24 | 2023-04-15 |
 | [Problem No Dey Finish \- Remix](https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Problem No Dey Finish \(Remix\)](https://open.spotify.com/album/3A17vHBPRt2EKhQ7kA8vZd) | 2:01 | 2022-10-13 | 2023-01-20 |
 | [Radio](https://open.spotify.com/track/3OJTZiHmdYT2USRnRglgnm) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/23XvGYaFe7fU1bRteOPIVj) | 2:52 | 2023-01-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: tobi lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,054 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,148 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 32 | [SS](https://open.spotify.com/track/0DGvzDTQ2cTNJbHAV7Ltz9) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [STILL \(Five & A F\*\*\* You\) \[Deluxe\]](https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8) | 2:27 |
 | 33 | [Honestly](https://open.spotify.com/track/2kWteBwRwwSCt4g4j8dTDJ) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Honestly](https://open.spotify.com/album/3fIjCjOqAc6Qiu53TOFdAN) | 1:58 |
 | 34 | [SOME THINGS](https://open.spotify.com/track/1nTDUAdKAsABK9BudqjL1M) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [SOME THINGS](https://open.spotify.com/album/2pAZLc3G7vtAKJ4Yq68O27) | 2:35 |
-| 35 | [WA\\VE](https://open.spotify.com/track/1EmCkwfm1dtz6t7nj9WT4C) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/2HOjaFJUdAbz4BuEzfeKtm) | 2:35 |
+| 35 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 |
 | 36 | [ICE COLD ZEL FREESTYLE \[Feat\. ICECOLDBISHOP\]](https://open.spotify.com/track/4P6ivDGUbbfXWpFJVyzV6s) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [BLOOD ON MY NIKEZ](https://open.spotify.com/album/6XJQyWSjUaPb0M30hX2QU8) | 1:39 |
 | 37 | [Wanna See](https://open.spotify.com/track/75yWv8THGXrm33F0Xf9ZHa) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH), [Trilly!](https://open.spotify.com/artist/1bVen5jaFAjfBMlBRh5pUi) | [Wanna See](https://open.spotify.com/album/5xBixOK53gsxGbe1qQzniq) | 2:48 |
 | 38 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 |
 | 100 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 
-Snapshot ID: `MCwxZjU0MWY2OTFjZDVkYzEzNzlkNTc4YjMxNDQ0OTkyM2ZlODQ0YmQz`
+Snapshot ID: `MCxmNDRjM2JjYmMwZTUxYWNiNWNjNGU4NDVlYTY3OWNhM2U3MWI2NzM2`

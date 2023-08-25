@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Djadja & Dinaz",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Oboy",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 205635,
       "name": "BUGUER",
       "url": "https://open.spotify.com/track/7pJSEsKNRDdUolUPTBds49"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 186666,
       "name": "D'une vie \u00e0 l'autre",
       "url": "https://open.spotify.com/track/6N64lJLiw3QqhWjZlhKJvB"
@@ -1492,6 +1492,24 @@
       "duration_ms": 206082,
       "name": "Et Toi",
       "url": "https://open.spotify.com/track/1dKMbHYfQld5oGdGsKX3nP"
+    },
+    {
+      "album": {
+        "name": "Etouff\u00e9",
+        "url": "https://open.spotify.com/album/507EZS1CDUgbm1uG69vTgn"
+      },
+      "artists": [
+        {
+          "name": "Klem Schen",
+          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179312,
+      "name": "Etouff\u00e9",
+      "url": "https://open.spotify.com/track/4T18N9sYHu9iMjXVOy3fHU"
     },
     {
       "album": {
@@ -2363,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "LA VIE EN ROSE",
+        "url": "https://open.spotify.com/album/2GS9ArL2nvGfO7zUyUFtYZ"
+      },
+      "artists": [
+        {
+          "name": "GR OMEGA",
+          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "LA VIE EN ROSE",
+      "url": "https://open.spotify.com/track/7A1dN4Vg7qyIdTBBvh04FV"
+    },
+    {
+      "album": {
         "name": "La Villa",
         "url": "https://open.spotify.com/album/3RmdxbQoyDJcGJYMUUsf54"
       },
@@ -3099,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "NO PASSION",
+        "url": "https://open.spotify.com/album/2UOOv8ZIeVZv6IowBZwdYS"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "NO PASSION",
+      "url": "https://open.spotify.com/track/393Tn6mkpkkfpXEAknAYOL"
+    },
+    {
+      "album": {
         "name": "OPAQUE",
         "url": "https://open.spotify.com/album/4Nkl8GoDDewl9lcvuyVqdk"
       },
@@ -3356,7 +3410,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 148571,
       "name": "PAS DE CE MONDE",
       "url": "https://open.spotify.com/track/3zGuHTIdqFnrNVkyE2YR1d"

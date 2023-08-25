@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-337 songs - 16 hr 4 min
+339 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Désir](https://open.spotify.com/track/3OHBNZSVpnXmKBiLkXIXZS) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Désir](https://open.spotify.com/album/5VZ4ldCoSnwvSLauCOeCYm) | 3:16 | 2020-10-20\* |  |
 | [Eau Rouge](https://open.spotify.com/track/0H9dq2PB8RxswjJaECzwoC) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Eau Rouge](https://open.spotify.com/album/3BC8lAsB5VUcdgIVhCdmZh) | 3:38 | 2020-10-27 |  |
 | [Echoes](https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Echoes](https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33) | 4:20 | 2020-10-20\* |  |
+| [Echothane](https://open.spotify.com/track/7KDuavfltk861z14QiGwCJ) | [Enormousness](https://open.spotify.com/artist/7H1K6r71caJTKrd0oFLYN2) | [Echothane](https://open.spotify.com/album/6BfImpZCnKbU0hw8uv79Vf) | 3:10 | 2023-08-24 |  |
 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 | 2021-10-28 |  |
 | [Eloquence](https://open.spotify.com/track/0ORCs88ABmuctkBdkAWRwF) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Eloquence](https://open.spotify.com/album/7nhKY56BddXIBgih1EJrfy) | 2:21 | 2022-03-21 |  |
 | [Emerald and Lime](https://open.spotify.com/track/5hbTbKQXJuZ0qFVerk6jRp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 3:02 | 2020-10-20\* | 2022-02-04 |
@@ -214,6 +215,7 @@
 | [Parallellities](https://open.spotify.com/track/4mV2e8xKbQme3MQeaBAFqA) | [Sidney Godot](https://open.spotify.com/artist/4JFlN8NQDGeVbbTi46bxGs) | [Abstractions](https://open.spotify.com/album/4KL1SK6meP2RMj4jsQwMf0) | 2:38 | 2020-10-20\* | 2022-08-13 |
 | [Passing By](https://open.spotify.com/track/3lp1LxiomQBtVIFZ3aU1Rj) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Breathe](https://open.spotify.com/album/0fiykhnGbXHEFwT6Z7xRsy) | 3:41 | 2020-10-20\* |  |
 | [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2020-10-20\* |  |
+| [pattern](https://open.spotify.com/track/2zuxJxGXamWbjgiTF6a7rA) | [Sofia Garcia](https://open.spotify.com/artist/513qG0sPNTxFlWOkWyFpGi) | [pattern](https://open.spotify.com/album/6ttEjZOmv5fSeiEz0QTmIC) | 2:24 | 2023-08-24 |  |
 | [Peace](https://open.spotify.com/track/55RlcgW6hojT3G1wMIovfA) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 3:02 | 2020-10-20\* | 2022-08-13 |
 | [Peace Of Mind](https://open.spotify.com/track/3MfwNWRuWAsdT1yIwHtRyz) | [MAVALA](https://open.spotify.com/artist/7v6MC0U94altKRU8VGL0j8) | [Ocean Deep](https://open.spotify.com/album/341k8e5u1rQ6xuDPqOIc2u) | 2:31 | 2020-10-20\* |  |
 | [Peaceful Instant](https://open.spotify.com/track/2u4RqOtADvonosxhSdS8eZ) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 2:55 | 2020-10-20\* |  |

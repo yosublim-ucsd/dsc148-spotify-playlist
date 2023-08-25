@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-314 songs - 15 hr 43 min
+317 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Agwé](https://open.spotify.com/track/3P1ZUO9ammzR0p0t0Ez67Q) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Lhotse](https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx) | 5:35 | 2022-07-01 |  |
 | [Alike](https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:15 | 2022-05-20 |  |
 | [All Now](https://open.spotify.com/track/7AfAtvY4rhcRAnFOtvqiPU) | [Time Lines](https://open.spotify.com/artist/2gckwTYh1Gf4GZ98mzOBfa) | [All Now](https://open.spotify.com/album/1qKCsPWmjirPcP8ZHaevgP) | 2:49 | 2022-05-20 |  |
-| [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-08-19 | 2023-08-24 |
+| [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-08-19 |  |
 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 | 2022-05-20 |  |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2022-05-20 | 2022-09-09 |
 | [Attakai](https://open.spotify.com/track/31oZ4m7CyWTwpYD7R6NPTz) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Attakai](https://open.spotify.com/album/53wJqYooEt4qWtG8fzLNoQ) | 3:13 | 2022-08-19 |  |
@@ -153,6 +153,7 @@
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2022-05-20 | 2022-09-02 |
 | [Koh Musica](https://open.spotify.com/track/77QMACo3pSn8I7lQD9nftm) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:36 | 2022-05-20 | 2022-09-09 |
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2022-05-20 |  |
+| [Lagoon](https://open.spotify.com/track/2WKzfYp7e8cqSVmM2I3f1t) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Lagoon](https://open.spotify.com/album/36CyD4SKkrmxVSTgbeBO4h) | 3:44 | 2023-08-25 |  |
 | [landmark](https://open.spotify.com/track/7j1038dVZUxFtSBCx0T3oG) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [landmark](https://open.spotify.com/album/7ESxNjevisGOGbywz7nXdy) | 2:51 | 2022-07-01 |  |
 | [Las Vegas](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx) | [Spiral Solace](https://open.spotify.com/artist/2NNajlXb9VSrYlESf8AlKG) | [Las Vegas](https://open.spotify.com/album/18Pt5mnL3AsrQHiIVgeMUc) | 3:40 | 2022-05-20 |  |
 | [late hours](https://open.spotify.com/track/7nBwHiPERl38w1mfBt6E6t) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [late hours](https://open.spotify.com/album/1xVZe1oQp8MzstqKoHCOgt) | 2:04 | 2022-10-07 |  |
@@ -238,6 +239,7 @@
 | [Readings](https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Readings](https://open.spotify.com/album/6n1vtw8Wjkec1HUpcyYckb) | 2:16 | 2022-09-02 |  |
 | [Rejuvenation](https://open.spotify.com/track/2OoSVZpPiO8fmzey4DV2vy) | [Slow Reveal](https://open.spotify.com/artist/4auJYfz4JXxJCbshIMPuVv) | [Rejuvenation](https://open.spotify.com/album/0yNijVFEBsj0Kv2eO1Wcqi) | 2:37 | 2022-05-20 | 2022-09-02 |
 | [Reverie](https://open.spotify.com/track/5UYHZL7Kvi8WMqGxFry4Hs) | [Liona Lotus](https://open.spotify.com/artist/30aieRomfqWYR79BigbnoI) | [Reverie](https://open.spotify.com/album/02gm1MgsEebvH23TcrB8y3) | 3:14 | 2022-05-20 | 2022-09-09 |
+| [Rockets](https://open.spotify.com/track/7yEQXNsjQeCyQ0YgLLyZkf) | [tow kee o](https://open.spotify.com/artist/2V8knumvJeLvlxvpywJm03) | [Rockets](https://open.spotify.com/album/4QVmui6Q84vTPTxxFFGPz8) | 1:56 | 2023-08-25 |  |
 | [Rooftop](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Rooftop](https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o) | 3:10 | 2022-05-20 | 2022-09-09 |
 | [Rose](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Rose](https://open.spotify.com/album/6O3C5aOvvsqxAVfcyL1nvV) | 2:59 | 2022-05-20 |  |
 | [Roses](https://open.spotify.com/track/0f7cYpEP7f7uwsNbaxcDHV) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Roses](https://open.spotify.com/album/2FLvGi2XNnLe3qLiFF5SQi) | 3:27 | 2022-09-23 |  |
@@ -257,7 +259,8 @@
 | [Sepia Story](https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X) | [Lose The Net EP](https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD) | 3:56 | 2022-05-20 |  |
 | [Shimmer](https://open.spotify.com/track/4Cii3rooOPgvklHGE3O8y2) | [Steve Residence](https://open.spotify.com/artist/3PGuQmihozoJRR9SeY7ldd) | [Shimmer](https://open.spotify.com/album/0UPoyslKIHed6kluQUuP7M) | 2:59 | 2022-05-20 | 2022-09-09 |
 | [Shizz](https://open.spotify.com/track/3TaNU6gtqHzEfNZMJXYM43) | [Mads Nielsen Stolt](https://open.spotify.com/artist/1F9o7boqKQEWTQRIorbiR4) | [Shizz](https://open.spotify.com/album/1fVNSTVc3lGbJpRZPkOFN0) | 2:33 | 2023-06-19 |  |
-| [shot in the dark](https://open.spotify.com/track/4hULKxQ5vbKsYbADaBt79H) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [home](https://open.spotify.com/album/1EYRql02lmzaaQU6eutZqm) | 4:23 | 2022-07-08 |  |
+| [shot in the dark](https://open.spotify.com/track/4hULKxQ5vbKsYbADaBt79H) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [home](https://open.spotify.com/album/1EYRql02lmzaaQU6eutZqm) | 4:23 | 2022-07-08 | 2023-08-25 |
+| [shot in the dark](https://open.spotify.com/track/5dS4VNWntUKePgcRosnHDA) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [home](https://open.spotify.com/album/2vMOTd4uSddo7HT2xXy6BU) | 4:23 | 2023-08-25 |  |
 | [Skates](https://open.spotify.com/track/6Z0TyMJQSNAVJcLuUMVCPp) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Skates](https://open.spotify.com/album/03cXL0nQ5J3J83Xd4bglkE) | 3:00 | 2022-09-02 |  |
 | [Skipping stones](https://open.spotify.com/track/7E1G2J3lWtBffyJRjJWxPh) | [Erin You](https://open.spotify.com/artist/2KRQoXL1x0PiRkKQPkPjWM) | [Skipping stones](https://open.spotify.com/album/3kv0XxzCtHMlyetslKtmBr) | 2:50 | 2022-10-07 |  |
 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2022-05-20 |  |

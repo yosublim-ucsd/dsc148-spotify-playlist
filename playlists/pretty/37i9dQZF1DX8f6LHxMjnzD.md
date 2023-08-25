@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Jessie Reyez & Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,693 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,741 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 29 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 |
 | 30 | [Come Close](https://open.spotify.com/track/68tTxn5ShJvck0knZtmc3R) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Come Close](https://open.spotify.com/album/7G7yRxThmQ63x62INWhbza) | 3:03 |
 
-Snapshot ID: `MCxjZmE0NDJmNzg5YmQ3NGU1NmQ0OThmYmRmMTBjODcwOGEzMDZkNjYx`
+Snapshot ID: `MCw0YjY0Y2ZmY2I2ODYxYTQ5Njk4MzI4MWE0ZDhhYzRlODUwOTAzNDNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,511 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,584 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 4 | [ルパン三世'80](https://open.spotify.com/track/273uFgAPSKdPioIGTPmpZb) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック3](https://open.spotify.com/album/7Hnnn5lTZeCIuG1UR1eUFG) | 3:40 |
 | 5 | [Tobe! GUNDAM](https://open.spotify.com/track/3aCxcbgfyNEde7l1zOFr97) | [Kou Ikeda](https://open.spotify.com/artist/1cK45E2ZB2IHyyUfC0eim8), [Feeling Free](https://open.spotify.com/artist/1JbNaQwAJWS3XUO3iV7yKK), [Music Creation](https://open.spotify.com/artist/26KfNrVfEweHZlOwHzKGq2) | [Tobe! GUNDAM](https://open.spotify.com/album/0KvKfTF2UudEyBlifDNYWU) | 2:45 |
 | 6 | [Get Wild](https://open.spotify.com/track/7MBCVS5iqoAY6F106jdLOb) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:00 |
-| 7 | [愛・おぼえていますか](https://open.spotify.com/track/6rfiZvgzmHoohZs5OCo3D7) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [palette\(パレット\)](https://open.spotify.com/album/2LI4KcqWZH9OT6aDnOpmpU) | 5:08 |
+| 7 | [愛・おぼえていますか](https://open.spotify.com/track/6rfiZvgzmHoohZs5OCo3D7) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [palette（パレット）](https://open.spotify.com/album/2LI4KcqWZH9OT6aDnOpmpU) | 5:08 |
 | 8 | [摩訶不思議アドベンチャー! \(2005 ver.\)](https://open.spotify.com/track/4auleowVdRUDSLGb4tm5Xz) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [アニソンNo.1](https://open.spotify.com/album/3Q80IekfQVdlXUnavNDuTI) | 3:51 |
 | 9 | [愛をとりもどせ!!](https://open.spotify.com/track/3ZiiqVTRW0DKrOnkbTdlrk) | [CRYSTALKING](https://open.spotify.com/artist/4ZkxyrVGZwQYwjEHO99njF) | [アニメ北斗の拳 オリジナルE.P.](https://open.spotify.com/album/3TXGqlSWEfrRPFZT1ccukx) | 2:56 |
 | 10 | [銀河鉄道999](https://open.spotify.com/track/1V2ajA7srKxFOTANKxBPkj) | [Godiego](https://open.spotify.com/artist/7agr01GMFpbX5ie9UsTGxe) | [GODIEGO GREAT BEST VOL.1 \-Japanese Version\-](https://open.spotify.com/album/5vOjykUiJvjx7aPajz1oNj) | 3:29 |
@@ -29,18 +29,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 19 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 |
 | 20 | [夏のミラージュ](https://open.spotify.com/track/25sBTXed49RPy1EVJsNNK5) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [City Pop Essetials \- Idols \-](https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o) | 4:31 |
 | 21 | [ロマンティックあげるよ \(21st century ver.\) \(ドラゴンボール\)](https://open.spotify.com/track/7mLJwAZidHg2NCZekzBb5k) | [橋本潮](https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q) | [イナズマchallenger](https://open.spotify.com/album/0hpMu2hY2AgNAdSAiTLJxk) | 3:59 |
-| 22 | [マクロス](https://open.spotify.com/track/59zFcJwbApXslmiReVTQj6) | [藤原誠](https://open.spotify.com/artist/4qXbRIljCeveb6lxk0zZx2) | [マクロス SONGコレクション 2002](https://open.spotify.com/album/57NFqW2IxIOqtSBR6uA1Wo) | 3:10 |
+| 22 | [マクロス](https://open.spotify.com/track/59zFcJwbApXslmiReVTQj6) | [藤原誠](https://open.spotify.com/artist/4qXbRIljCeveb6lxk0zZx2) | [マクロス　SONGコレクション 2002](https://open.spotify.com/album/57NFqW2IxIOqtSBR6uA1Wo) | 3:10 |
 | 23 | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823) | 3:41 |
 | 24 | [ペガサス幻想 \(21st century ver.\)](https://open.spotify.com/track/61XLSs4TKj8Ac0LFWz0j0L) | [Make\-Up](https://open.spotify.com/artist/0zCouXT81OzO9waNn1PjAh) | [The Voice From Yesterday](https://open.spotify.com/album/1upxJvZfXW9MotDke2YARu) | 3:37 |
 | 25 | [愛よ ファラウェイ](https://open.spotify.com/track/1wIZ1LQw6t2v9HLViT67TX) | [Rie Fujiwara](https://open.spotify.com/artist/61EJNeLSuvuA8n8As8YENc) | [青春したい](https://open.spotify.com/album/0QuyqSiuLLidVAr5sNyLfX) | 3:51 |
 | 26 | [Kanashimi wa Beat ni Kaete \~ Rise and Shine \~ \(Bonus Track\)](https://open.spotify.com/track/3RhVQ3218s7D8IigCIGWeD) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Lapis Lazuli](https://open.spotify.com/album/0Xt59Se0urYzrnJ0OjdVGD) | 5:00 |
 | 27 | [RUNNING TO HORIZON](https://open.spotify.com/track/2asLNnI5Kz68y83uS5aMav) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/4ClHbl3AUrQeGH5GEg7QgT) | 4:53 |
-| 28 | [燃えてヒーロー](https://open.spotify.com/track/177W3nNOUxB9eT32Qe6inf) | [Hiroyuki Okita](https://open.spotify.com/artist/2CiTSESk14vAYVy0g8PmUd) | [ゴールデン☆ベスト 沖田浩之](https://open.spotify.com/album/6XhYUm32PBkWZ6usgF5hce) | 3:00 |
+| 28 | [燃えてヒーロー](https://open.spotify.com/track/177W3nNOUxB9eT32Qe6inf) | [Hiroyuki Okita](https://open.spotify.com/artist/2CiTSESk14vAYVy0g8PmUd) | [ゴールデン☆ベスト　沖田浩之](https://open.spotify.com/album/6XhYUm32PBkWZ6usgF5hce) | 3:00 |
 | 29 | [Koi wa Question](https://open.spotify.com/track/3vfAwYTAn0ZnQEPpVGsQUp) | [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [Yume Catalog + Single Collection](https://open.spotify.com/album/6l4mUfoN9qk4Mmwy41WSMg) | 3:11 |
 | 30 | [正調 おそ松節](https://open.spotify.com/track/6iq0zO56ijjOVpbcP44e3v) | [Takashi Hosokawa](https://open.spotify.com/artist/0Ap43v8UntUyEB5kLb7vac) | [芸道40年記念 細川たかし全集 心のこり〜艶歌船](https://open.spotify.com/album/4Y5hOPaaQBHbXJQsKyebom) | 3:42 |
 | 31 | [孤独の唄](https://open.spotify.com/track/3n1gQLCZ6TkshUJ1h1ez87) | [Tomio Umezawa](https://open.spotify.com/artist/5JlC66Cy8ozai9xAtbehGz) | [孤独の唄/ココロの唄](https://open.spotify.com/album/5jOlf9LpsChScfCs5pnxXA) | 3:45 |
 | 32 | [Step](https://open.spotify.com/track/68iZdH6Vo4z8B5nYQMPJrt) | [a・chi\-a・chi](https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi) | [Mashin Hero Wataru Music Collection](https://open.spotify.com/album/4fOUhLvHujVNMBmtLyMArX) | 4:17 |
-| 33 | [TRANSFORMAR \~トランスフォーマー\~](https://open.spotify.com/track/1atzPmoTCzu2kAiazwkEMO) | [下成佐登子](https://open.spotify.com/artist/6wUc7IOOkKB2WJhZL1wmvy) | [日本テレビ 懐かしのアニメソング集](https://open.spotify.com/album/5m3o3dKcH1JpkzkXnVUtqT) | 3:40 |
+| 33 | [TRANSFORMAR ～トランスフォーマー～](https://open.spotify.com/track/1atzPmoTCzu2kAiazwkEMO) | [下成佐登子](https://open.spotify.com/artist/6wUc7IOOkKB2WJhZL1wmvy) | [日本テレビ 懐かしのアニメソング集](https://open.spotify.com/album/5m3o3dKcH1JpkzkXnVUtqT) | 3:40 |
 | 34 | [ぼくドラえもん](https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:17 |
 | 35 | [ニルスのふしぎな旅](https://open.spotify.com/track/1ox2VEg2wjLnc8l7Q6xGAf) | [Katsumi Kahashi](https://open.spotify.com/artist/6ESuChUdfvDtfNIhzQLmIP), [SSAAB](https://open.spotify.com/artist/2kL8Yf9VfmypuWZErTtZcL) | [ニルスのふしぎな旅 楽しいうたと音楽集](https://open.spotify.com/album/0c1fU2A9fyTVrxYwZJz8SP) | 3:17 |
 | 36 | [My Neighbor Totoro](https://open.spotify.com/track/4IdQZXMOooaIRoP7N2qCn8) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Image Song Collection](https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 49 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
 | 50 | [Meguriai](https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Meguriai](https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt) | 4:23 |
 
-Snapshot ID: `MCw1N2Y2NzQxMTAzNDhjNjc3MWMzZDljYzE4MzBmODIwNjJhN2YyMGRh`
+Snapshot ID: `MCw2MDEwYjdiODk2NmEwM2RmNmE4ODBmMGJhYTQ5YjdlNTU5NWVmODM5`

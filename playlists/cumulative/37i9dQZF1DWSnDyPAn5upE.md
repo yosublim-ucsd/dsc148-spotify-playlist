@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-161 songs - 12 hr 26 min
+162 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Fur & Feather](https://open.spotify.com/track/1V9na2MEGjOajhK1fTJRpS) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/17i8UBmNkp5UY0CLRHokyk) | 3:04 | 2022-12-02 | 2023-02-01 |
 | [Fur & Feather](https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 3:04 | 2022-05-18 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 | 2023-06-23 |  |
-| [Grass Grow](https://open.spotify.com/track/4yohulilOac5oAymyVOvaa) | [Dolphin Midwives](https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P) | [Grass Grow](https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl) | 4:29 | 2022-05-18 |  |
+| [Grass Grow](https://open.spotify.com/track/4yohulilOac5oAymyVOvaa) | [Dolphin Midwives](https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P) | [Grass Grow](https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl) | 4:29 | 2022-05-18 | 2023-08-25 |
 | [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-05-18 |  |
 | [Guiding Light](https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa), [Chris Lippincott](https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W) | [Guiding Light](https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE) | 3:14 | 2022-05-18 |  |
 | [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 | 2022-05-18 |  |
@@ -139,6 +139,7 @@
 | [Solari](https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Solari](https://open.spotify.com/album/16K2TOPALbZceZTYWUV2bu) | 2:45 | 2023-01-29 |  |
 | [Sorry](https://open.spotify.com/track/1VOsiZYiNHAUisapZtXpKh) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/4ltdtRBUlN4xym6T6Isnng) | 17:40 | 2022-05-18 | 2022-07-28 |
 | [Sorry](https://open.spotify.com/track/70wiCLAuAs2yjRQHkPuMN7) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/3jwdZ5aqNto6V6XY2ob6Vv) | 17:40 | 2022-12-02 | 2023-01-21 |
+| [Sospiro](https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 10:50 | 2023-08-25 |  |
 | [Soul Voices](https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s) | [SOUL VOICES](https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU) | 7:43 | 2023-03-24 |  |
 | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/track/5JiFKhr3UWiSHvHPci8kgZ) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/album/622E7ReGxO1WJc6lju3oLJ) | 2:51 | 2022-05-18 | 2022-07-29 |
 | [Spirit of the Forest](https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Spirit of the Forest](https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD) | 2:43 | 2022-05-18 |  |

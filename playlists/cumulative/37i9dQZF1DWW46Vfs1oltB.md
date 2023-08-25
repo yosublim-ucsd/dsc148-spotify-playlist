@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Sik\-K\)
 
-963 songs - 2 day 5 hr 1 min
+964 songs - 2 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,6 +560,7 @@
 | [Mi Vida Loca \(feat\. CK, Louie & DOPECHILD\)](https://open.spotify.com/track/2lelDLW1VD7KM97A6naUVh) | [Ray Hill](https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw), [CK](https://open.spotify.com/artist/7tjx9M3KfqqtH58LVTID3Q), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB), [DOPECHILD](https://open.spotify.com/artist/0tReHhczVsR4CyIoenFpQs) | [Renoi Chronicle](https://open.spotify.com/album/7iJ5ydlC5mLCgmyIUNs2WH) | 3:07 | 2022-09-08 | 2022-12-10 |
 | [MIC "The Hammer" \(feat\. Paloalto, Chin\)](https://open.spotify.com/track/7htJSkwcRU80KVxNCID024) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw) | [MIC "The Hammer" \(feat\. Paloalto, Chin\)](https://open.spotify.com/album/5myFuRRYgLrrpcJLvavoiZ) | 2:48 | 2022-03-31 | 2022-06-16 |
 | [Michael Jackson Remix \(Feat\. Jay Park\)](https://open.spotify.com/track/74cH1EoFKnaVJmqdU5fLR5) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Michael Jackson Remix](https://open.spotify.com/album/5WPTXczlD1GpoA7j2KelrH) | 3:58 | 2023-04-27 | 2023-06-14 |
+| [Mine \(Prod\. Seong Guk, Matt, niceshotnick\)](https://open.spotify.com/track/1bx3jwrwobANkqaV4sglkC) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi), [MASON HOME](https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [kweeel](https://open.spotify.com/artist/4W4TBHaPbtdJrXapmnUTdO) | [Monthly AP \- August, 2023](https://open.spotify.com/album/574cfUj6CqO31ASwf0jGUx) | 3:59 | 2023-08-24 |  |
 | [Mint Condition](https://open.spotify.com/track/3kcQHARwuV6u46zZ9gbgFs) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mint Condition](https://open.spotify.com/album/7gMpIdUlwWtAGf1I8fO9ZF) | 3:16 | 2022-03-26 | 2022-06-26 |
 | [MM \(feat\. Jay Park\)](https://open.spotify.com/track/5i4tOwRaSSXpsxXmklaKi5) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [...\-\-\-...](https://open.spotify.com/album/1XmvDE1a4kANsubYWUDxtP) | 2:58 | 2021-12-18 | 2022-07-01 |
 | [mm freestyle](https://open.spotify.com/track/0HnjWe6eGAx18doXz9E7bv) | [Feely](https://open.spotify.com/artist/54BWxeKc5FV1hulQ7uZI6U), [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM) | [FEELY AUDIO](https://open.spotify.com/album/4BSWlQZRLHeUDyvODQFrPh) | 2:18 | 2022-01-15 | 2022-04-19 |

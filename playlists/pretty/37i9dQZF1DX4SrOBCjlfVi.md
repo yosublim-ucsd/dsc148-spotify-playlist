@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, Lil Durk, and more\. Cover: Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,490 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,566 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 44 | [GOTTA BE \(feat\. Rocko Ballin\)](https://open.spotify.com/track/4tyo4d8XntrKsT4fccDAvJ) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x), [Rocko Ballin](https://open.spotify.com/artist/2nfqejhxPMiJPGf8d4fCjl) | [Still Drenchin](https://open.spotify.com/album/4Z1Rgqq0vk5bFGo9OOIejC) | 3:00 |
 | 45 | [Bigger Picture uh huh](https://open.spotify.com/track/4MJ5oUOpL1a4mA2DjSRLn1) | [Woodboy Gee](https://open.spotify.com/artist/1ZV2KmW1PKg82oqHxtAzbA), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Bigger Picture uh huh](https://open.spotify.com/album/0ugYQ239yyIJuFS3lGSqvj) | 3:20 |
 | 46 | [Know Sum](https://open.spotify.com/track/59X7S4JPGgGqg64ec6SVsP) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J) | [Us, Never Them](https://open.spotify.com/album/7vjabFNeSqcUYWR2BQN5VZ) | 3:29 |
-| 47 | [WA\\VE](https://open.spotify.com/track/1EmCkwfm1dtz6t7nj9WT4C) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/2HOjaFJUdAbz4BuEzfeKtm) | 2:35 |
+| 47 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 |
 | 48 | [Call You Back](https://open.spotify.com/track/5szHpSNNHyCWm1QAXSXNAI) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Call You Back](https://open.spotify.com/album/402rHWZJdaBEwHbq4whmJc) | 2:40 |
 | 49 | [LET'S PLAY](https://open.spotify.com/track/7hfumEP2zHYQPjO2iHxbA7) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [LET'S PLAY](https://open.spotify.com/album/2BnFxxVScuhiJgIS7TsxCV) | 2:07 |
 | 50 | [Mvplayer](https://open.spotify.com/track/2QFIFt26FE9F96zrrHKkej) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Head Coach](https://open.spotify.com/album/6VNky4zU67Xm2GyhLRBjke) | 3:01 |
 
-Snapshot ID: `MCxhODQwZTc0YzRmNTQ4MGQ0Y2I0NTVjY2YxMGE0ZTIxMTkzYWNjZWYz`
+Snapshot ID: `MCxiYWU1YzMzZmMyNzkzYWRiNmQyMjg3ZjNkMTI1ZGU0NmJmYzA2MGRk`

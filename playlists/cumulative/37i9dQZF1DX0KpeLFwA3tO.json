@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Shelf Lives",
+  "description": "The best new music from the wide world of punk. Cover: SOFT PLAY",
   "name": "All New Punk",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 172353,
       "name": "$wing",
       "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 221360,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 152658,
       "name": "Bathroom Floor",
       "url": "https://open.spotify.com/track/1m7lgJNH3l3vOm6DVs5QpZ"
@@ -3507,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "Find A Way Home",
+        "url": "https://open.spotify.com/album/58iPMpEF2hFTr5rBqFZOBP"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165066,
+      "name": "Cautious Optimistic",
+      "url": "https://open.spotify.com/track/4muT5sxG4pshsfgh94mWv1"
+    },
+    {
+      "album": {
         "name": "Cavalier",
         "url": "https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL"
       },
@@ -3846,7 +3864,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 156673,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA"
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 238791,
       "name": "Clean-Up Crew",
       "url": "https://open.spotify.com/track/4mrpZMkY5SeG0rD1T9Otm5"
@@ -4160,10 +4178,32 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 187885,
       "name": "COME AROUND AND FIND OUT",
       "url": "https://open.spotify.com/track/2KhZArbDcVl0LdzK1gH0v2"
+    },
+    {
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/31E9Vx9Il8LdlZsZYuhDVc"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        },
+        {
+          "name": "Patrick Miranda",
+          "url": "https://open.spotify.com/artist/3fzSiBL0wpt7sxX4Q9n4YI"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205813,
+      "name": "Coming Home (feat. Patrick Miranda)",
+      "url": "https://open.spotify.com/track/7rg2l98HzPTXC7yU7WeRix"
     },
     {
       "album": {
@@ -4506,7 +4546,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 137735,
       "name": "Crybaby (with phem)",
       "url": "https://open.spotify.com/track/2zKccghp1bpE6MFsCU9jbz"
@@ -5586,7 +5626,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 137333,
       "name": "DMFE",
       "url": "https://open.spotify.com/track/16NcyaTVaHx1jtXQ1DwL08"
@@ -6518,6 +6558,24 @@
       "duration_ms": 151268,
       "name": "Facedown",
       "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
+    },
+    {
+      "album": {
+        "name": "Factory Man",
+        "url": "https://open.spotify.com/album/2ba0dizHcrA2zRsDSi2O75"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193560,
+      "name": "Factory Man",
+      "url": "https://open.spotify.com/track/2YbtzmKKsxVUMCX65bTwLC"
     },
     {
       "album": {
@@ -8405,6 +8463,24 @@
     },
     {
       "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/5mAmP7fI9tN4hokOx94sxc"
+      },
+      "artists": [
+        {
+          "name": "Chastity",
+          "url": "https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149217,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/5Elhn0sv6jPtyaBxXwHYDM"
+    },
+    {
+      "album": {
         "name": "Hallucinate (feat. Josh Franceschi)",
         "url": "https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ"
       },
@@ -8442,7 +8518,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 177168,
       "name": "Hand Grenade",
       "url": "https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0"
@@ -9392,7 +9468,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 165173,
       "name": "How To Live With Yourself",
       "url": "https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY"
@@ -11509,6 +11585,24 @@
     },
     {
       "album": {
+        "name": "No Joy",
+        "url": "https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214869,
+      "name": "Lifers",
+      "url": "https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M"
+    },
+    {
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/0uAuIWSSbAmIxK4omHsljd"
       },
@@ -13118,7 +13212,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 212647,
       "name": "Miss Independent - Spotify Singles",
       "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
@@ -13202,6 +13296,24 @@
       "duration_ms": 216000,
       "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
       "url": "https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED"
+    },
+    {
+      "album": {
+        "name": "Perfect Saviors",
+        "url": "https://open.spotify.com/album/2QOtRB75B25O7pn6fAd3o9"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228854,
+      "name": "Modern Vanity",
+      "url": "https://open.spotify.com/track/6DLYYSwlzBms2L4Dqc3gEV"
     },
     {
       "album": {
@@ -13740,7 +13852,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 140027,
       "name": "Never Fucked Up Once",
       "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
@@ -13878,7 +13990,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 109387,
       "name": "New York Transit Queen",
       "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
@@ -14030,7 +14142,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 193933,
       "name": "No one's listening",
       "url": "https://open.spotify.com/track/5JLdzhZoRDbsw3UEBqSpzX"
@@ -16113,6 +16225,24 @@
     },
     {
       "album": {
+        "name": "Punk's Dead",
+        "url": "https://open.spotify.com/album/26CBoch8r0WmpjOYQedOnM"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Punk's Dead",
+      "url": "https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo"
+    },
+    {
+      "album": {
         "name": "Puppet",
         "url": "https://open.spotify.com/album/3uUgo5qKv6dzfBqvAhZ6KZ"
       },
@@ -16719,6 +16849,24 @@
     },
     {
       "album": {
+        "name": "respawn.",
+        "url": "https://open.spotify.com/album/6HKEsegEdDUp45zIn3OPAr"
+      },
+      "artists": [
+        {
+          "name": "LATE 90s",
+          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175440,
+      "name": "respawn.",
+      "url": "https://open.spotify.com/track/6N54fTcYiQH3gSoFChO7NS"
+    },
+    {
+      "album": {
         "name": "Reverse the Curse",
         "url": "https://open.spotify.com/album/5IlyN5Kvcomt1cR5Kv43Oo"
       },
@@ -16734,6 +16882,24 @@
       "duration_ms": 234760,
       "name": "Reverse the Curse",
       "url": "https://open.spotify.com/track/0618dwZ3KXzP71tuGsVhq0"
+    },
+    {
+      "album": {
+        "name": "Riddley Scott Walker",
+        "url": "https://open.spotify.com/album/7AHvFHz9RhgaLVAGJZbdlB"
+      },
+      "artists": [
+        {
+          "name": "JOHN (TIMESTWO)",
+          "url": "https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211213,
+      "name": "Riddley Scott Walker",
+      "url": "https://open.spotify.com/track/3Gt4U6B3TcaR93j7IE844s"
     },
     {
       "album": {
@@ -16972,7 +17138,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 200792,
       "name": "SABOTAGE//",
       "url": "https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd"
@@ -18482,7 +18648,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 183197,
       "name": "Someone You Don't Know",
       "url": "https://open.spotify.com/track/4UOd2lvPt4bUfpIwht4Guk"
@@ -19117,6 +19283,24 @@
     },
     {
       "album": {
+        "name": "STRAP!",
+        "url": "https://open.spotify.com/album/2tWnNwQCgwpDgVwuN9coKs"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118838,
+      "name": "STRAP!",
+      "url": "https://open.spotify.com/track/2qkf8hc9iDQPtJrin3CPiN"
+    },
+    {
+      "album": {
         "name": "Disposable Everything",
         "url": "https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc"
       },
@@ -19648,6 +19832,24 @@
       "duration_ms": 208615,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/5Ksj30jkBKURjP37bJHt6y"
+    },
+    {
+      "album": {
+        "name": "Talkin' On The Internet",
+        "url": "https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155280,
+      "name": "Talkin' On The Internet",
+      "url": "https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd"
     },
     {
       "album": {
@@ -20663,6 +20865,24 @@
     },
     {
       "album": {
+        "name": "The Weight",
+        "url": "https://open.spotify.com/album/6zbZGAJvFcdaLVgfYo8LDU"
+      },
+      "artists": [
+        {
+          "name": "With Honor",
+          "url": "https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130184,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/4YDcAzBJoWUPciONTYeWDv"
+    },
+    {
+      "album": {
         "name": "Worst Weekend Ever",
         "url": "https://open.spotify.com/album/3VZqXdo7YxzZCCP6tNP9Mo"
       },
@@ -21483,6 +21703,24 @@
     },
     {
       "album": {
+        "name": "Turn The Lights Off",
+        "url": "https://open.spotify.com/album/0bHSiFQKxzzUlAHJIYoYt1"
+      },
+      "artists": [
+        {
+          "name": "Try Again",
+          "url": "https://open.spotify.com/artist/0qa6JDkoQvWpF0hhPFPBGr"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154142,
+      "name": "Turn The Lights Off",
+      "url": "https://open.spotify.com/track/758nO1KOUiGEjnkGZqDHNX"
+    },
+    {
+      "album": {
         "name": "Two 6's Upside Down",
         "url": "https://open.spotify.com/album/1dhXWQIfmP8VH74NPsr4g5"
       },
@@ -22086,6 +22324,24 @@
       "duration_ms": 218675,
       "name": "Violent Faith",
       "url": "https://open.spotify.com/track/3DcwnJm8kwUHLXfFFeaIUy"
+    },
+    {
+      "album": {
+        "name": "HELLO I'M VULNERABLE",
+        "url": "https://open.spotify.com/album/1Bni919cGNJFTs6fuG3aOS"
+      },
+      "artists": [
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208101,
+      "name": "Virgo Summer",
+      "url": "https://open.spotify.com/track/0fYLTevvSDb3XF0AnYFtIF"
     },
     {
       "album": {
@@ -22830,7 +23086,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 197973,
       "name": "Who You Used to Be",
       "url": "https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx"

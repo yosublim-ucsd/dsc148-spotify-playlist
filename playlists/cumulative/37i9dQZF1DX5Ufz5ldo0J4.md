@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-287 songs - 13 hr 28 min
+288 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Midsommarnatt](https://open.spotify.com/track/6UyDL0wkh12ox8TJpvnQpu) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Midsommarnatt](https://open.spotify.com/album/4RaBFPWiRSoLrLEZJFO14K) | 2:14 | 2021-12-10 | 2022-11-23 |
 | [Midsummer Sun](https://open.spotify.com/track/6xxMpIFpWFlrCba55NU0e1) | [Louis Debreaux](https://open.spotify.com/artist/1AolHfMZcrDcuJEnoAis6B) | [Midsummer Sun](https://open.spotify.com/album/2zucXjha9af1Xs1FSi1bLF) | 2:43 | 2021-12-10 |  |
 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 | 2022-03-30 |  |
-| [Mind Tranquility](https://open.spotify.com/track/3CmE2zIMFmeEs3b6j4GDLy) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Mind Tranquility](https://open.spotify.com/album/7K7KWSKLSCSWYwqfzyPmjo) | 3:31 | 2021-12-10 |  |
+| [Mind Tranquility](https://open.spotify.com/track/3CmE2zIMFmeEs3b6j4GDLy) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Mind Tranquility](https://open.spotify.com/album/7K7KWSKLSCSWYwqfzyPmjo) | 3:31 | 2021-12-10 | 2023-08-25 |
 | [Mirror](https://open.spotify.com/track/5CzjtSulXdoCHPKNg6Ll9P) | [Ben Evans\-Parker](https://open.spotify.com/artist/5ItKNtikXXvdBrzYzwVplB) | [Mirror](https://open.spotify.com/album/39Uka5FLJKySlUA8RAfIMa) | 2:06 | 2021-12-10 | 2022-08-13 |
 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 | 2021-12-10 |  |
 | [Moment of Peace](https://open.spotify.com/track/3IvRypHZvFCKf6y7H4VLSX) | [Mediteight Dimensional](https://open.spotify.com/artist/2OeyY5gT2fNl8dQpBVpolj) | [Moment of Peace](https://open.spotify.com/album/5Wv1t9GPKKJUbVu7bzckgo) | 3:49 | 2021-12-10 | 2023-01-28 |
@@ -182,6 +182,7 @@
 | [Pas de deux](https://open.spotify.com/track/2LNOrSjCSR1Ap7QOZLbJnd) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Pas de deux](https://open.spotify.com/album/4M6aRGOphviow2KljOzsA9) | 2:18 | 2021-12-10 | 2022-10-15 |
 | [Passing](https://open.spotify.com/track/5zcpF7WRlnOavcP5fCqOlK) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:28 | 2021-12-10 |  |
 | [Past Lives](https://open.spotify.com/track/72KilUGrpXNCPE0yWjcSmN) | [Sandfires](https://open.spotify.com/artist/2OqTid1w1CFR9vQVd8EZoj) | [The Air Within](https://open.spotify.com/album/2aJZEWUnzQL9d9EvmAoeXf) | 3:20 | 2021-12-10 | 2022-09-03 |
+| [pattern](https://open.spotify.com/track/2zuxJxGXamWbjgiTF6a7rA) | [Sofia Garcia](https://open.spotify.com/artist/513qG0sPNTxFlWOkWyFpGi) | [pattern](https://open.spotify.com/album/6ttEjZOmv5fSeiEz0QTmIC) | 2:24 | 2023-08-24 |  |
 | [Pavane](https://open.spotify.com/track/07aNE412CtsxB66SOk0Nu3) | [Nikolaj Gaideur](https://open.spotify.com/artist/7BeOUN76z2LvYSqRpcXqvY) | [Pavane](https://open.spotify.com/album/3Jo5Nvkdjv3moW5bQPC4oP) | 2:11 | 2021-12-10 | 2022-08-13 |
 | [Peaceful](https://open.spotify.com/track/1ouVnpZfILngw8yFH1jOPd) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Peaceful](https://open.spotify.com/album/3vwkHMs6VtSUiqCLUA0aqC) | 2:04 | 2021-12-10 | 2023-02-10 |
 | [Peaceful Instant](https://open.spotify.com/track/2u4RqOtADvonosxhSdS8eZ) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 2:55 | 2021-12-10 |  |

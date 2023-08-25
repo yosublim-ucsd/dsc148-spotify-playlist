@@ -1969,6 +1969,28 @@
     },
     {
       "album": {
+        "name": "King of Kotha (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/7waOK8PEbhNGfRvEJChxoZ"
+      },
+      "artists": [
+        {
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242583,
+      "name": "Naa Oopire",
+      "url": "https://open.spotify.com/track/7ADBx7IH4Egcmoe9C2Qkge"
+    },
+    {
+      "album": {
         "name": "Naa Sasi (From \"Kanmani Rambo Khatija\")",
         "url": "https://open.spotify.com/album/5O2ntpQgCrO3HOKhnLeT2u"
       },
@@ -3364,7 +3386,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 178363,
       "name": "Sridevi Chiranjeevi (From \"Waltair Veerayya\")",
       "url": "https://open.spotify.com/track/417fjHB7tqIaovwPvWskHX"

@@ -2,7 +2,7 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\. Cover: Bahati
+> Exceptionally vivid Swahili love stories for you and yours\. Cover: Platform
 
 101 songs - 5 hr 50 min
 

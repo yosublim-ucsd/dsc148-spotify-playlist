@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 125624,
+  "num_followers": 125620,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjgyMjgxYzViODdkZDAxMzNhYjY2MzVmZGFmYTkwOWNhZTlkZGMx",
+  "snapshot_id": "MCwzNjY5ZmRlZjFjOGNiNjYzNThjYTU3YjRjM2NjYmM4NDJlZWI3NWEw",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -191,26 +191,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Kissin' In The Cold",
-        "url": "https://open.spotify.com/album/1HsifiywuteSStUutGfkpO"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 224083,
-      "name": "Kissin' In The Cold",
-      "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Holiday Inn (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 177480,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Kissin' In The Cold",
+        "url": "https://open.spotify.com/album/1HsifiywuteSStUutGfkpO"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 224083,
+      "name": "Kissin' In The Cold",
+      "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Confetti (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 192945,
-      "name": "One I've Been Missing",
-      "url": "https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Together With Cliff Richard",
         "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 245333,
       "name": "Mistletoe and Wine",
       "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Confetti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 192945,
+      "name": "One I've Been Missing",
+      "url": "https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
         "url": "https://open.spotify.com/album/3JbFpGAcLNqPYrJOlg9nM6"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 164600,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
+      "duration_ms": 260786,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 142000,
       "name": "At Christmas",
       "url": "https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Sister Winter B/W Rest",
-        "url": "https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Sister Winter",
-      "url": "https://open.spotify.com/track/1N0xDVB8oJ6rb10n2lA46b"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Give Love on Christmas Day (Piano Version) [Recorded Live at Spotify Studios NYC]",
         "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 225576,
       "name": "Give Love on Christmas Day (Piano Version) - Recorded Live at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Sister Winter B/W Rest",
+        "url": "https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Sister Winter",
+      "url": "https://open.spotify.com/track/1N0xDVB8oJ6rb10n2lA46b"
     },
     {
       "added_at": "2022-11-18 01:05:05",

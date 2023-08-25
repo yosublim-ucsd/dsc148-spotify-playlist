@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-598 songs - 1 day 1 hr 59 min
+602 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 | 2023-05-12 |  |
 | [A Quiet Triumph](https://open.spotify.com/track/6O85dw9qndgkrNcNabnUYH) | [Sylvain Lowe](https://open.spotify.com/artist/6R5QFCQdTlzmpIq18rRLw7) | [Nostalgia](https://open.spotify.com/album/7FOICAmy6YkVum07rk5tNJ) | 2:59 | 2021-12-08 | 2022-04-22 |
 | [A Smooth Moment](https://open.spotify.com/track/3XXSl8HvlM8Ty0lpuTzP5I) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [A Smooth Moment](https://open.spotify.com/album/2EPE95Zf4Okgij9QOotxL7) | 3:31 | 2021-12-08 |  |
-| [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 | 2023-03-24 |  |
+| [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 | 2023-03-24 | 2023-08-25 |
 | [A symptom of love](https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [A symptom of love](https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3) | 2:30 | 2023-02-24 |  |
 | [Acamchula Creeks](https://open.spotify.com/track/0nlYGpYrgVvtxy00ShqZ04) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Acamchula Creeks](https://open.spotify.com/album/3VjF1M6fwo4rYHScvsT1Md) | 2:31 | 2022-10-07 |  |
 | [Adelita](https://open.spotify.com/track/5qGYBd0wZHJ9Chu3YnvYvu) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Tres mazurcas](https://open.spotify.com/album/0gE3MUJGWkrAcnZtiQhzSD) | 1:38 | 2022-05-27 | 2022-07-29 |
@@ -66,6 +66,7 @@
 | [Black Orpheus](https://open.spotify.com/track/1F3JVqEYMtyfSDbdVPlXrW) | [Acoustic Connection](https://open.spotify.com/artist/4G9idcODSdGDMhkGJOIvFl) | [Black Orpheus](https://open.spotify.com/album/7rseTHCACqGwogO4FUmDWI) | 3:32 | 2021-12-08 | 2022-07-08 |
 | [Blame It On My Youth](https://open.spotify.com/track/4fNVjILYK5Qcaqh4N7HOye) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua), [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Blame It On My Youth](https://open.spotify.com/album/2SZYaprEBU5XyEHIT9jrKB) | 2:23 | 2021-12-08 | 2022-10-14 |
 | [Blank Canvas](https://open.spotify.com/track/7MrCRqn07YakEQfVkbuw1b) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Hourglass](https://open.spotify.com/album/0LfWOzgdT62OdRfTPo5KFA) | 2:29 | 2022-12-09 |  |
+| [Blank Stare Happy](https://open.spotify.com/track/2Vqg7SshnMUZJskFoxcYSE) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Seeking Song](https://open.spotify.com/album/1iIIoca3SIMmfa4hqgeyod) | 2:56 | 2023-08-24 |  |
 | [Bleakening Mood](https://open.spotify.com/track/0tMQKdAXIBidpkrNDEPm1y) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Bleakening Mood](https://open.spotify.com/album/21croP4dvlmwfLdymBKl29) | 2:43 | 2023-01-06 |  |
 | [Blossom on the Bush](https://open.spotify.com/track/5wo2ihBwsQ6Kf4PP15XZgA) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Blossom on the Bush](https://open.spotify.com/album/4aZP7ZkBYWRtTJRXfJhy0J) | 1:56 | 2022-11-18 | 2023-08-19 |
 | [Blue Bird](https://open.spotify.com/track/2QHSfJCTIE3xjA1zTPy5ka) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Blue Bird](https://open.spotify.com/album/5SXq73X3KJcrUIUU1t0JEa) | 2:44 | 2023-06-02 |  |
@@ -238,7 +239,7 @@
 | [I Found The Right Bottle Of Wine](https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [I Found The Right Bottle Of Wine](https://open.spotify.com/album/3s9PCTNI5xhZ5zgkcU7nOB) | 3:20 | 2022-03-04 | 2023-05-13 |
 | [I Got You](https://open.spotify.com/track/5J5CHiTWPVOWwi8zLoQcrx) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [I Got You](https://open.spotify.com/album/1jrQLRtO0UzxZPk9BkBtR9) | 2:29 | 2023-06-02 |  |
 | [I Have A Dream](https://open.spotify.com/track/10uaWAAYcUXBA0u3fhLvuO) | [Julius Reid](https://open.spotify.com/artist/0CKyUaC00wxvMDw4GVquX2) | [I Have A Dream](https://open.spotify.com/album/1Hu62lD5SgoxaROGS8SP7I) | 2:57 | 2022-10-07 |  |
-| [I Wanna Be Yours](https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [I Wanna Be Yours](https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR) | 2:36 | 2023-02-24 |  |
+| [I Wanna Be Yours](https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [I Wanna Be Yours](https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR) | 2:36 | 2023-02-24 | 2023-08-25 |
 | [I Wish It Stayed Like This](https://open.spotify.com/track/5wcnN9Ru1abQHVo6mPG9o4) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [I Wish It Stayed Like This](https://open.spotify.com/album/5aodQfmbnWGK7AsD4ngCI1) | 3:53 | 2022-07-29 | 2023-05-13 |
 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 | 2022-06-03 | 2022-09-17 |
 | [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 2:12 | 2021-12-08 |  |
@@ -315,6 +316,7 @@
 | [Lowlight \(Duet\)](https://open.spotify.com/track/5GQw0xJFMXme3lsU2zbOC7) | [Thomas Kessler](https://open.spotify.com/artist/7gladxebEaXEnycRmspgzJ), [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [Lowlight \(Duet\)](https://open.spotify.com/album/7CJZBVIvmNyX6WJNN9jKc0) | 2:21 | 2022-10-07 | 2022-12-10 |
 | [Lucent](https://open.spotify.com/track/7HvBZicMq8Vb4NGPMaEYnd) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Lucent](https://open.spotify.com/album/1ND7mdeP1jyfPC3bswQIdn) | 2:04 | 2023-02-24 |  |
 | [Luisa](https://open.spotify.com/track/4vjJEZHhvFvH8l2ZyKMHwI) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Luisa](https://open.spotify.com/album/6RYiBExjghtFaGMBsfvQbK) | 2:35 | 2022-11-25 |  |
+| [Lumen](https://open.spotify.com/track/6GfVl6fqJjiWYtWbaRUysl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Lumen](https://open.spotify.com/album/6xUP4LUnifBek3FCwxXXiD) | 2:36 | 2023-08-24 |  |
 | [Luna De Miel](https://open.spotify.com/track/4SZHMmupzClfrRXX96g4JD) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Luna De Miel](https://open.spotify.com/album/6LQLFCcKYZA43Mp2iIgwj3) | 2:26 | 2022-10-28 |  |
 | [Lyrical](https://open.spotify.com/track/0mWqjLtRwguVfNiPoVdgf8) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Lyrical](https://open.spotify.com/album/6mPcH5Fstf5uLLoSdEf4WA) | 1:54 | 2021-12-08 | 2022-07-22 |
 | [Lágrimas de amor](https://open.spotify.com/track/182ef9MHe22ir2OVFYvnKE) | [Esuperio](https://open.spotify.com/artist/4PvuTrnG35W97Lely4a37m) | [Lágrimas de amor](https://open.spotify.com/album/4yMe3gYZ4G9a8dTrtueyiH) | 3:00 | 2021-12-08 | 2022-06-10 |
@@ -465,6 +467,7 @@
 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 | 2023-02-24 |  |
 | [Sofia](https://open.spotify.com/track/67kLDQq8ItgqmAxvOgcgnJ) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:19 | 2023-04-21 |  |
 | [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 |  |
+| [Soft Water](https://open.spotify.com/track/1lrY2ajxDQK8NzKtcE60Nv) | [John Henriksson](https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij) | [Soft Water](https://open.spotify.com/album/2Ri8R8XqX5lrptfAJ1cSfF) | 1:40 | 2023-08-24 |  |
 | [Sognefjord](https://open.spotify.com/track/51FuKbJLNSBIY30sB8QOyA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sognefjord](https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH) | 2:40 | 2022-12-16 |  |
 | [Solitaire](https://open.spotify.com/track/0mpYde0CZ1SV1OMNlZiTf5) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Solitaire](https://open.spotify.com/album/1aY61d1qrLkO9C8roanTWK) | 2:08 | 2023-01-06 |  |
 | [Solus Iterum](https://open.spotify.com/track/4xFhPhpAFyMFMZkySfjcIC) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Solus Iterum](https://open.spotify.com/album/35rpeAjXlKdZnPbs6zrRyH) | 2:00 | 2022-09-02 |  |
@@ -477,6 +480,7 @@
 | [Song thrush](https://open.spotify.com/track/79OuL8BStm7FJJpYS5vulH) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [Song thrush](https://open.spotify.com/album/5LYoGrr8SR2VUUol7aolep) | 1:52 | 2021-12-08 | 2023-03-10 |
 | [Sonnen Diamant](https://open.spotify.com/track/5QSUroBMs5XaGfNqzObDEs) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Sonnen Diamant](https://open.spotify.com/album/62sKHUtfxZbVkZPe1TKqbT) | 2:34 | 2021-12-08 | 2022-07-22 |
 | [sonnenkerze](https://open.spotify.com/track/7kwwhAnyPuAFnMccLJwfB8) | [Alexander Mane](https://open.spotify.com/artist/5N2ZZuM02DNnOCXt94LFmu) | [moon tides](https://open.spotify.com/album/6oBU6aev2mlzkB6vkGcJfH) | 3:24 | 2021-12-08 |  |
+| [Sonora Sunshine](https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Sonora Sunshine](https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT) | 1:51 | 2023-08-24 |  |
 | [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |
 | [Sorrowful Disappearance](https://open.spotify.com/track/73N0xkf8N6FJQXBb6o6V0l) | [Sara Gadshill](https://open.spotify.com/artist/22RQ7nqf0fvL5ThmEP0cyD) | [Sorrowful Disappearance](https://open.spotify.com/album/5FWpJFZunTh3KsWAXwK5L8) | 2:29 | 2021-12-08 |  |
 | [SOS](https://open.spotify.com/track/4Bbp5cIa0seUWq4at7xblM) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [SOS](https://open.spotify.com/album/4W1mcPXdm2gLWJU2SChCcs) | 3:40 | 2022-08-12 | 2023-02-25 |

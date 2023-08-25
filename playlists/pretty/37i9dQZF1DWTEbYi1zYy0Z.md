@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,076 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,118 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 13 | [Solag](https://open.spotify.com/track/6NR43oOqDquzfkAVdldWJ7) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Solag](https://open.spotify.com/album/27L1aYTKh0rNNnOTt9fp9t) | 2:59 |
 | 14 | [Hub City Jam](https://open.spotify.com/track/1qSjM7DY7vgc2EcFJJyl2N) | [Tom Braxton](https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Hub City Jam](https://open.spotify.com/album/0NAhhMdZDZ1p454HhztrIi) | 4:09 |
 | 15 | [Ticket to Pittsburgh Roundtrip](https://open.spotify.com/track/03yIGoGXBosTeXJqBkuG5X) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh Roundtrip](https://open.spotify.com/album/6MbLLwq7JSEllOn6cEg103) | 8:29 |
-| 16 | [New Lives](https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A), [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [New Lives](https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R) | 4:11 |
+| 16 | [New Lives \- Radio Edit](https://open.spotify.com/track/0UBFcH7kXYQ8GiPvuHFKJJ) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [New Lives \(Radio Edit\)](https://open.spotify.com/album/7iVn7hAbIRliWQUp7d1808) | 4:11 |
 | 17 | [Barcelona](https://open.spotify.com/track/5ruzvCeaC09Mr6qkDvCN38) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Soul Connection](https://open.spotify.com/album/3zUlPoE9q6kZyW6UzyhlNs) | 3:45 |
 | 18 | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/album/2zVWak9gCSDkoCBPgMS4Zl) | 4:16 |
 | 19 | [Your Love Is Good](https://open.spotify.com/track/2Fc4A3KX4CHF7TC8JSvU6G) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [Your Love Is Good](https://open.spotify.com/album/4D6n2iAy5wcVGJ0u2bgPF5) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 | 100 | [Weekend Groove](https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [The Inauguration of Jtjazz \(Jesse Thompson the Man Behind the Keys\)](https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a) | 4:53 |
 
-Snapshot ID: `MCxjOGUzNTE0MjAzMDMxNDhiYWE2YjU1NGQ0N2FhMjI4ZGI3MWQzZGMz`
+Snapshot ID: `MCxmMTg2NmNjZTRlOGQ2NzliYmUyMzlmZDZjMWU2NGU0MWI0NGRlYjJk`

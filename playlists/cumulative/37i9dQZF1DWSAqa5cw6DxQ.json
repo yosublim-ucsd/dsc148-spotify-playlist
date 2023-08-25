@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Adrift (Meditation)",
+        "url": "https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh"
+      },
+      "artists": [
+        {
+          "name": "Treter",
+          "url": "https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145441,
+      "name": "Adrift (Meditation)",
+      "url": "https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY"
+    },
+    {
+      "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/1hom2yJ8gLUvbvSoIWEL1S"
       },
@@ -2760,7 +2778,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 261898,
       "name": "Zenya",
       "url": "https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA"

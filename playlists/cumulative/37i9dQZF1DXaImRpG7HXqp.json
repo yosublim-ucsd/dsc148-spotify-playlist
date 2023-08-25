@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 147874,
       "name": "A Sweet Portrait",
       "url": "https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY"
@@ -1058,6 +1058,24 @@
       "duration_ms": 149561,
       "name": "Blank Canvas",
       "url": "https://open.spotify.com/track/7MrCRqn07YakEQfVkbuw1b"
+    },
+    {
+      "album": {
+        "name": "Seeking Song",
+        "url": "https://open.spotify.com/album/1iIIoca3SIMmfa4hqgeyod"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176586,
+      "name": "Blank Stare Happy",
+      "url": "https://open.spotify.com/track/2Vqg7SshnMUZJskFoxcYSE"
     },
     {
       "album": {
@@ -4184,7 +4202,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 156643,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7"
@@ -5560,6 +5578,24 @@
       "duration_ms": 155501,
       "name": "Luisa",
       "url": "https://open.spotify.com/track/4vjJEZHhvFvH8l2ZyKMHwI"
+    },
+    {
+      "album": {
+        "name": "Lumen",
+        "url": "https://open.spotify.com/album/6xUP4LUnifBek3FCwxXXiD"
+      },
+      "artists": [
+        {
+          "name": "Jo Rochford",
+          "url": "https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156727,
+      "name": "Lumen",
+      "url": "https://open.spotify.com/track/6GfVl6fqJjiWYtWbaRUysl"
     },
     {
       "album": {
@@ -8267,6 +8303,24 @@
     },
     {
       "album": {
+        "name": "Soft Water",
+        "url": "https://open.spotify.com/album/2Ri8R8XqX5lrptfAJ1cSfF"
+      },
+      "artists": [
+        {
+          "name": "John Henriksson",
+          "url": "https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100924,
+      "name": "Soft Water",
+      "url": "https://open.spotify.com/track/1lrY2ajxDQK8NzKtcE60Nv"
+    },
+    {
+      "album": {
         "name": "Sognefjord",
         "url": "https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH"
       },
@@ -8480,6 +8534,24 @@
       "duration_ms": 204733,
       "name": "sonnenkerze",
       "url": "https://open.spotify.com/track/7kwwhAnyPuAFnMccLJwfB8"
+    },
+    {
+      "album": {
+        "name": "Sonora Sunshine",
+        "url": "https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT"
+      },
+      "artists": [
+        {
+          "name": "Cary Bestwood",
+          "url": "https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111533,
+      "name": "Sonora Sunshine",
+      "url": "https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN"
     },
     {
       "album": {

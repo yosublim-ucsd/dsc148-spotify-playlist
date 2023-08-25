@@ -1723,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Le Printemps Me Manque",
+        "url": "https://open.spotify.com/album/3P7c08Xkgb40avYxJQrzvE"
+      },
+      "artists": [
+        {
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234508,
+      "name": "Le Printemps Me Manque",
+      "url": "https://open.spotify.com/track/3sL8PRW9gZHGVqJiuBWnrJ"
+    },
+    {
+      "album": {
         "name": "Valse de la Rose",
         "url": "https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w"
       },

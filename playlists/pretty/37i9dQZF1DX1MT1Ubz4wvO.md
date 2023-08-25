@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Bloodstein en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,719 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,726 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Nuevos miedos](https://open.spotify.com/track/3bHZ80BbfY9cpXgOnZrlnX) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Nuevos miedos \- Nadie va a decidir por vos](https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN) | 2:20 |
 | 50 | [Universitario de Deportes](https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Camino al Infierno Esta Lleno de Buenas Intenciones](https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj) | 1:56 |
 
-Snapshot ID: `MCxlNmQ3MTNhNzU4MGQxMjg5Nzg2NjBiZDg5NGQ0MWViODNjYjBlODJk`
+Snapshot ID: `MCxkMWE5YzM2MTE0ZjZkYTA3ZjEyMTNiNWUyNzc1MzZmMmIwYmMzYjI3`

@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 163772,
       "name": "Midsummer Sun",
       "url": "https://open.spotify.com/track/6xxMpIFpWFlrCba55NU0e1"
@@ -4574,6 +4574,24 @@
       "duration_ms": 147089,
       "name": "Sotto La Superficie",
       "url": "https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR"
+    },
+    {
+      "album": {
+        "name": "Sovande",
+        "url": "https://open.spotify.com/album/1mnQAVjKz6Tjh001npCgKw"
+      },
+      "artists": [
+        {
+          "name": "Morgondimma",
+          "url": "https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147770,
+      "name": "Sovande",
+      "url": "https://open.spotify.com/track/1dJJWFg94Ogmq3aiILfwv8"
     },
     {
       "album": {

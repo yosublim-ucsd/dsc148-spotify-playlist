@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Carmen S\u00e1nchez Viamonte. Updates every Wednesday.",
-  "num_followers": 171920,
+  "num_followers": 171954,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzBmYjhmYTVjNmY0ZTAxMzExOWQzNTZiMjVlNjZiYzhkMTNhZDFl",
+  "snapshot_id": "MCwzZjUyMzQ5ZmIzMzkxMzk2ZWM0MDU0NGExZDAzODk5ODIwODg5N2Ux",
   "tracks": [
     {
       "added_at": "2023-08-23 02:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "OTRA MANERA",
-        "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "Otra Manera",
-      "url": "https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp"
-    },
-    {
-      "added_at": "2023-08-23 02:00:00",
-      "album": {
         "name": "Polos Vol. II",
         "url": "https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 232888,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk"
+    },
+    {
+      "added_at": "2023-08-23 02:00:00",
+      "album": {
+        "name": "OTRA MANERA",
+        "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "Otra Manera",
+      "url": "https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp"
     },
     {
       "added_at": "2023-08-23 02:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
+        "name": "La Vida No Quiso",
+        "url": "https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz"
+      },
+      "artists": [
+        {
+          "name": "Tania Matus",
+          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "La Vida No Quiso",
+      "url": "https://open.spotify.com/track/0Fbi1j0XLOqJgPu52qul4w"
+    },
+    {
+      "added_at": "2023-08-23 02:00:00",
+      "album": {
         "name": "Entr\u00e1",
         "url": "https://open.spotify.com/album/4yjujCVjUjlFxIpu4OaYh1"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "El Camino al Infierno Esta Lleno de Buenas Intenciones",
-        "url": "https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj"
-      },
-      "artists": [
-        {
-          "name": "Almirante Ackbar",
-          "url": "https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U"
-        }
-      ],
-      "duration_ms": 116084,
-      "name": "Universitario de Deportes",
-      "url": "https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91"
-    },
-    {
-      "added_at": "2023-08-23 02:00:00",
-      "album": {
         "name": "Anime",
         "url": "https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "Pedazos",
-        "url": "https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd"
+        "name": "El Camino al Infierno Esta Lleno de Buenas Intenciones",
+        "url": "https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj"
       },
       "artists": [
         {
-          "name": "Antonia Jones",
-          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
+          "name": "Almirante Ackbar",
+          "url": "https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U"
         }
       ],
-      "duration_ms": 177773,
-      "name": "Pedazos",
-      "url": "https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ"
+      "duration_ms": 116084,
+      "name": "Universitario de Deportes",
+      "url": "https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91"
     },
     {
       "added_at": "2023-08-23 02:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "La Vida No Quiso",
-        "url": "https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz"
+        "name": "Pedazos",
+        "url": "https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd"
       },
       "artists": [
         {
-          "name": "Tania Matus",
-          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+          "name": "Antonia Jones",
+          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
         }
       ],
-      "duration_ms": 216373,
-      "name": "La Vida No Quiso",
-      "url": "https://open.spotify.com/track/0Fbi1j0XLOqJgPu52qul4w"
+      "duration_ms": 177773,
+      "name": "Pedazos",
+      "url": "https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ"
     },
     {
       "added_at": "2023-08-23 02:00:00",

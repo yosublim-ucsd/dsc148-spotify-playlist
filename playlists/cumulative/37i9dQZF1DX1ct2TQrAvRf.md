@@ -2,7 +2,7 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> Best of Hip\-Hop from India\. Cover\- DG IMMORTALS & Elvish Yadav.
+> Best of Hip\-Hop from India\. Cover\- KING
 
 97 songs - 5 hr 27 min
 

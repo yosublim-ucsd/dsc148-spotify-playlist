@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 237090,
       "name": "The Two of Us (We Only Need)",
       "url": "https://open.spotify.com/track/7mKOhewqU0whbsRHw2vD3t"
@@ -3362,6 +3362,24 @@
       "duration_ms": 164312,
       "name": "Xasnas",
       "url": "https://open.spotify.com/track/0mNJT8uGm19Xwbormh0IXa"
+    },
+    {
+      "album": {
+        "name": "Xtraspicy",
+        "url": "https://open.spotify.com/album/2DKbaWzc8v4G2Vd62KTtvL"
+      },
+      "artists": [
+        {
+          "name": "Hoboken",
+          "url": "https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151674,
+      "name": "Xtraspicy",
+      "url": "https://open.spotify.com/track/3lVnP86We7owVYQRvcmhD5"
     },
     {
       "album": {

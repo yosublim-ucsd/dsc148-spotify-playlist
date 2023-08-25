@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 148173,
       "name": "All \u00f8llen eg drikke",
       "url": "https://open.spotify.com/track/2kMUeVstP7rQIgJmJ5Aho8"
@@ -3616,6 +3616,24 @@
       "duration_ms": 154533,
       "name": "Legevakta",
       "url": "https://open.spotify.com/track/5IczZgxpuYLHkQiEdGchNR"
+    },
+    {
+      "album": {
+        "name": "Leve 1000 ganger",
+        "url": "https://open.spotify.com/album/1XTxuZ06vAFTuD7S6s4Dt3"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189510,
+      "name": "Leve 1000 ganger",
+      "url": "https://open.spotify.com/track/5ihRXKlKNectm7d93ja6n7"
     },
     {
       "album": {

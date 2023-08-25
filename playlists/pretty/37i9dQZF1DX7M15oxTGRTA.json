@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 79534,
+  "num_followers": 79626,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmVhMDljNTY4ZDkzNTQwMWVjZGVlYTQ5MzUzMWZmMDFmZTc3ZDcw",
+  "snapshot_id": "MCxmMzQxZGQxMTQxMTZiZDdkOTgyMjZjMGM1NjUxODRjNGUxODgxMzZm",
   "tracks": [
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Very Special",
-        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
-      },
-      "artists": [
-        {
-          "name": "Debra Laws",
-          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "Very Special",
-      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Cold Blooded (Expanded Edition)",
         "url": "https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 307640,
       "name": "Ebony Eyes",
       "url": "https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Very Special",
+        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
+      },
+      "artists": [
+        {
+          "name": "Debra Laws",
+          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
+        }
+      ],
+      "duration_ms": 268173,
+      "name": "Very Special",
+      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
     },
     {
       "added_at": "2023-03-27 15:42:25",

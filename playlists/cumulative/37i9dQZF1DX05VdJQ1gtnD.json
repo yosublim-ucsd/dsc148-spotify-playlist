@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Seeking Song",
+        "url": "https://open.spotify.com/album/1iIIoca3SIMmfa4hqgeyod"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176586,
+      "name": "Blank Stare Happy",
+      "url": "https://open.spotify.com/track/2Vqg7SshnMUZJskFoxcYSE"
+    },
+    {
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/416NtowzaFvYLHbOcByhsE"
       },
@@ -2326,7 +2344,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 139283,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/5rU2PLiSUb2or6DqalZOUX"
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 139022,
       "name": "L'heure de l'harmonie",
       "url": "https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj"

@@ -4090,6 +4090,48 @@
     {
       "album": {
         "name": "Teca (Remix) [feat. Neo Pistea, Midel, Rei & Zecca]",
+        "url": "https://open.spotify.com/album/0CqOIOX1uBCu9napmYiPAA"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Midel",
+          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Zecca",
+          "url": "https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264109,
+      "name": "Teca (Remix) [feat. Neo Pistea, Midel, Rei & Zecca]",
+      "url": "https://open.spotify.com/track/0y8wA9l9ZfoPrWUYgqFg4U"
+    },
+    {
+      "album": {
+        "name": "Teca (Remix) [feat. Neo Pistea, Midel, Rei & Zecca]",
         "url": "https://open.spotify.com/album/6NyQQNGA9zfA1mlsFmPLaO"
       },
       "artists": [
@@ -4124,7 +4166,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 264109,
       "name": "Teca (Remix) [feat. Neo Pistea, Midel, Rei & Zecca]",
       "url": "https://open.spotify.com/track/4L9WoTpNvdFv8SPW7koxWC"

@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-71 songs - 3 hr 47 min
+72 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 | 2023-03-31 |  |
 | [Leave The Door Open \- Acoustic](https://open.spotify.com/track/65P0LJJh9vEa5yR6S2xIZR) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Leave The Door Open \(Acoustic\)](https://open.spotify.com/album/47GrZGrgepJsZqTuAhmkUD) | 3:06 | 2022-12-21 | 2023-03-10 |
 | [Let's Love \(feat\. Sia\) \- Acoustic](https://open.spotify.com/track/1CQH9bjtrHOnbXTGL4JzT7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love \(feat\. Sia\) \[Acoustic\]](https://open.spotify.com/album/5SwdV9W7iDZHPcns35goPD) | 3:25 | 2022-12-21 |  |
-| [Light Switch \- Acoustic](https://open.spotify.com/track/1Vq9QT96yzs3hNDaCpeiWx) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Acoustic Vibes](https://open.spotify.com/album/24TUp6UvuBpcWD1dimGe2y) | 3:06 | 2022-12-21 |  |
+| [Light Switch \- Acoustic](https://open.spotify.com/track/1Vq9QT96yzs3hNDaCpeiWx) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Acoustic Vibes](https://open.spotify.com/album/24TUp6UvuBpcWD1dimGe2y) | 3:06 | 2022-12-21 | 2023-08-25 |
 | [Light Switch \- Acoustic](https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Acoustic\)](https://open.spotify.com/album/0H6pdORxZ735HztupqklPx) | 3:06 | 2022-12-21 |  |
 | [Little Bit of Love \- Acoustic](https://open.spotify.com/track/6RsVs4RDuXsT1bV9UwWxNJ) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love \(Remixes\)](https://open.spotify.com/album/2Kb2nUdrSVtqmXXH3qeftu) | 3:36 | 2022-12-21 |  |
 | [Living In A Haze \- Acoustic Version](https://open.spotify.com/track/7xJWAuyry7xJnmySKUnMiu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze \(Acoustic Version\)](https://open.spotify.com/album/4Csna5Mo6vzOZlwCGCc2we) | 2:55 | 2023-06-02 |  |
@@ -64,6 +64,7 @@
 | [Onde Anda \- French Version \- Acoustic](https://open.spotify.com/track/3uy0p6o4ZEb5Oyom4zg337) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Onde Anda \(French Version \- Acoustic\)](https://open.spotify.com/album/4JvVLOqRPa2C1lpX7RxAFi) | 3:00 | 2023-06-02 |  |
 | [Peaches \- Acoustic](https://open.spotify.com/track/1ChZ4mrSLP8HImCY6IyImf) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Peaches \(Acoustic\)](https://open.spotify.com/album/3qfz0iDhRYXa0VFccGM8VY) | 3:10 | 2022-12-21 |  |
 | [Premier amour \- Version acoustique](https://open.spotify.com/track/1BxPyaqHGCAPUlfqtn5vuK) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Premier amour \(Version acoustique\)](https://open.spotify.com/album/1jRDvSPXUSi725IrT6FkvR) | 3:09 | 2023-03-09 |  |
+| [RUNAWAY \- Acoustic](https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY \(Acoustic\)](https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3) | 2:22 | 2023-08-24 |  |
 | [Running up That Hill](https://open.spotify.com/track/7w4YExaFOqzTGQ1Y5fCoNv) | [Joanie Loves Chachi](https://open.spotify.com/artist/0hZe6a2PBIKKqTkZt5vDHy) | [Acoustic](https://open.spotify.com/album/28rVoKui34rygR8weIfjVl) | 3:45 | 2022-12-21 |  |
 | [Save Your Tears](https://open.spotify.com/track/45SbQo5bq8f0hNdB70IyFC) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Save Your Tears](https://open.spotify.com/album/6qjjZeAIfKFBeudsyydI0S) | 3:36 | 2022-12-21 | 2023-03-10 |
 | [Selfish Love \(with Selena Gomez\) \- Acoustic Mix](https://open.spotify.com/track/4Am0QoksGA70r4ZdsgV2Y9) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Selfish Love \(with Selena Gomez\) EP](https://open.spotify.com/album/5gaTlwqxtq9ciRVqgOfusR) | 2:49 | 2022-12-21 |  |

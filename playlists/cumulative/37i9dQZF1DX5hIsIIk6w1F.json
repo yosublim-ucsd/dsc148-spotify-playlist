@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: El Jordan 23.",
+  "description": "Este Flow tiene otro Flow. Foto: Cris Mj.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -490,6 +490,24 @@
       "duration_ms": 235151,
       "name": "Ando a Lo Matatan",
       "url": "https://open.spotify.com/track/23emGFbPsc4UVLBUnNEiJ9"
+    },
+    {
+      "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/0VQXYA4do1nkiSjWzobyuw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/2oUQzfbM29kn5cknX57gzB"
     },
     {
       "album": {
@@ -1136,6 +1154,28 @@
       "duration_ms": 175716,
       "name": "Bon Appetit",
       "url": "https://open.spotify.com/track/6QQUBksnxXfbhdei3biVK8"
+    },
+    {
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/3MFURhMv3Ir089KC7AdQOP"
+      },
+      "artists": [
+        {
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196406,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/48ww1RXAxDm9XbePE72Gys"
     },
     {
       "album": {
@@ -1828,7 +1868,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 156069,
       "name": "Cuentame",
       "url": "https://open.spotify.com/track/2bgVRuGe3elcUxs1stflQI"
@@ -2306,6 +2346,28 @@
       "duration_ms": 188750,
       "name": "Discotete",
       "url": "https://open.spotify.com/track/5l78PGbrC8CPSIEMlhGNR4"
+    },
+    {
+      "album": {
+        "name": "Dispara",
+        "url": "https://open.spotify.com/album/5y68pPQQWrl2Ni3xAj46nC"
+      },
+      "artists": [
+        {
+          "name": "JulianoChieff",
+          "url": "https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l"
+        },
+        {
+          "name": "Araus Danesi",
+          "url": "https://open.spotify.com/artist/7nsDjXt3xtyKr2ms1bb5aK"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Dispara",
+      "url": "https://open.spotify.com/track/5M3EP1CzO1Fm8fJdrGWYCL"
     },
     {
       "album": {
@@ -4991,6 +5053,32 @@
     },
     {
       "album": {
+        "name": "Mamasita",
+        "url": "https://open.spotify.com/album/2Vtjeo2G6hWjiCosJuno4C"
+      },
+      "artists": [
+        {
+          "name": "Jhanking",
+          "url": "https://open.spotify.com/artist/7fRhybObNPxIN34edYhjYu"
+        },
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Mamasita",
+      "url": "https://open.spotify.com/track/2K3pVLetPLCcNTqYlACxab"
+    },
+    {
+      "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/24SQCfj1wJeepwquhHwgPz"
       },
@@ -5118,6 +5206,28 @@
       "duration_ms": 159000,
       "name": "Maniatica Sensual",
       "url": "https://open.spotify.com/track/2ebjQqjPlJVi3Ar9nPDvTh"
+    },
+    {
+      "album": {
+        "name": "Manolo Camina Solo",
+        "url": "https://open.spotify.com/album/6tjStmURaz1skCW8iUviZ1"
+      },
+      "artists": [
+        {
+          "name": "Valter Gallardo",
+          "url": "https://open.spotify.com/artist/5ROiDzaCVm2Vws0HSPsO4E"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187236,
+      "name": "Manolo Camina Solo",
+      "url": "https://open.spotify.com/track/5oBsXI28xw1MPJqKqJ6Ehz"
     },
     {
       "album": {
@@ -5482,6 +5592,28 @@
       "duration_ms": 220212,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/5T9aWINkvC8GtmcFI2TZAb"
+    },
+    {
+      "album": {
+        "name": "MI BANDIA",
+        "url": "https://open.spotify.com/album/0BydkeOu3qU8X6QDs8sJJ8"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "MI BANDIA'",
+      "url": "https://open.spotify.com/track/33T4fmo3C8fKwHNL3ZaW4l"
     },
     {
       "album": {
@@ -7887,6 +8019,48 @@
     },
     {
       "album": {
+        "name": "Puros Menores",
+        "url": "https://open.spotify.com/album/48lrDh4wrWyDSbp98yvY1f"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Yishark",
+          "url": "https://open.spotify.com/artist/2hp2lUfm32mmW4mMlhMQnW"
+        },
+        {
+          "name": "jairito a lo ganster",
+          "url": "https://open.spotify.com/artist/64FLxxgVqE5lzYiZhuniZX"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "Gringuitos Records",
+          "url": "https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV"
+        },
+        {
+          "name": "RF Music",
+          "url": "https://open.spotify.com/artist/3e2dC479m26OChgDRd25Z3"
+        },
+        {
+          "name": "DineroBBY",
+          "url": "https://open.spotify.com/artist/2ZnXAQcGAO6wucsP2tUsKG"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220798,
+      "name": "Puros Menores",
+      "url": "https://open.spotify.com/track/3UyXVOqLCtrUu12YS12uwS"
+    },
+    {
+      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
       },
@@ -10090,6 +10264,28 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "album": {
+        "name": "ULTRA(MEGA)MALVAO",
+        "url": "https://open.spotify.com/album/5HipMIOOJ3XIrEGlKDKhMx"
+      },
+      "artists": [
+        {
+          "name": "Kramps",
+          "url": "https://open.spotify.com/artist/3PfQ6I9p5qZKQv4WptY9mB"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134210,
+      "name": "ULTRA(MEGA)MALVAO",
+      "url": "https://open.spotify.com/track/56nV1pD0NGbf385hPLiHNT"
     },
     {
       "album": {

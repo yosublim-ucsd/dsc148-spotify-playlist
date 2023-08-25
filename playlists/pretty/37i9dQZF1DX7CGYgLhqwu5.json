@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 365235,
+  "num_followers": 365401,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzVmYjMzNjU0N2ZhYTZiYzAwN2IwMTQzNTY4NGEzYjUwYTM1NmJi",
+  "snapshot_id": "MCw4N2JmODAyNWM1Yjc0YzVkYTI4NDFiN2M4NmFlMDQzYmJhM2M3MDJm",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Other Woman",
-        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 168240,
-      "name": "Don't You Ever Get Tired of Hurting Me",
-      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Hello Walls",
         "url": "https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 144120,
       "name": "Wine Me Up",
       "url": "https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "The Other Woman",
+        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Don't You Ever Get Tired of Hurting Me",
+      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
     },
     {
       "added_at": "2023-05-19 04:01:00",

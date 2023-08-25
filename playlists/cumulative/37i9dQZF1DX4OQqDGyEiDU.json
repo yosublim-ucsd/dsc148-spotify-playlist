@@ -238,7 +238,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 181973,
       "name": "Alien Alien",
       "url": "https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 134151,
       "name": "CALIGULA ON THE G-LINE",
       "url": "https://open.spotify.com/track/6Ni196jf3C1WPX6gDzWdkS"
@@ -1239,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "HITO Mania",
+        "url": "https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "HITO Mania",
+      "url": "https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE"
+    },
+    {
+      "album": {
         "name": "Hungry song",
         "url": "https://open.spotify.com/album/7y8rGTJsU438lkwIBINbfq"
       },
@@ -1384,6 +1402,24 @@
       "duration_ms": 222000,
       "name": "Juumensou",
       "url": "https://open.spotify.com/track/7wIKr31uQ5ecXbLMDzYDYK"
+    },
+    {
+      "album": {
+        "name": "MEKAKUCITYDAYS",
+        "url": "https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234733,
+      "name": "Kagerou Days",
+      "url": "https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z"
     },
     {
       "album": {
@@ -2078,7 +2114,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 202858,
       "name": "Please Play-Bite",
       "url": "https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny"
@@ -2380,6 +2416,28 @@
       "duration_ms": 203680,
       "name": "Sayonara Hatsukoi",
       "url": "https://open.spotify.com/track/6UxVkptDWjv9ZUl7UTyh9s"
+    },
+    {
+      "album": {
+        "name": "SAYONARA!! VIRUS",
+        "url": "https://open.spotify.com/album/2JaHHYQFXbthVGeZEJHyU7"
+      },
+      "artists": [
+        {
+          "name": "kyuu",
+          "url": "https://open.spotify.com/artist/0R8xOm64gkT45fVbyygZji"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156081,
+      "name": "SAYONARA!! VIRUS",
+      "url": "https://open.spotify.com/track/5WOQxzb3aX0K7p6f86X5EJ"
     },
     {
       "album": {
@@ -6164,7 +6222,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 177103,
       "name": "\u30d6\u30fc\u30b1\u30ac\u30eb\u30cb",
       "url": "https://open.spotify.com/track/4HBcVPMS3Qj5rxeAFf58Ic"
@@ -7394,7 +7452,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"
@@ -8088,7 +8146,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 156533,
       "name": "\u5b87\u5b99\u6563\u6b69",
       "url": "https://open.spotify.com/track/3I3A9V9uWlop9PYPM8LrlB"
@@ -8298,7 +8356,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 342400,
       "name": "\u602a\u96fb\u8a71",
       "url": "https://open.spotify.com/track/1G11WncwuyUIBJXSTiy67J"
@@ -9256,7 +9314,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 192440,
       "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
       "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"
@@ -9662,7 +9720,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 195600,
       "name": "\u9b54\u5929\u697c",
       "url": "https://open.spotify.com/track/3LPkrY0tXzqY9dx7DodNCH"

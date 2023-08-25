@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,994 songs - 4 day 1 hr 46 min
+1,995 songs - 4 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,7 +802,7 @@
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 | 2023-08-06 |
 | [HÖR NICHT AUF \(feat\. Teesy\)](https://open.spotify.com/track/1CLYKdAae2TfCAHZM752sm) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Teesy](https://open.spotify.com/artist/0nSloWzkGWXwj1v8nOI0Ma) | [HÖR NICHT AUF \(feat\. Teesy\)](https://open.spotify.com/album/5JixD8qxq6O1AYXvppGKaC) | 4:01 | 2021-04-18 | 2021-04-22 |
 | [HÖR NICHT AUF \(feat\. Teesy\)](https://open.spotify.com/track/1t4HNI5XrtN3rq5zHDUbdT) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Teesy](https://open.spotify.com/artist/0nSloWzkGWXwj1v8nOI0Ma) | [trip](https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC) | 4:01 | 2021-05-03 | 2021-05-05 |
-| [Hör nie auf damit](https://open.spotify.com/track/60933NIkFKyI5O7cgMWjhA) | [Angela Asiana](https://open.spotify.com/artist/25vgYguyPkprd0hE2IRnZT) | [Hör nie auf damit](https://open.spotify.com/album/5Ta3w7wehddEGyQufUgMow) | 2:42 | 2023-08-13 |  |
+| [Hör nie auf damit](https://open.spotify.com/track/60933NIkFKyI5O7cgMWjhA) | [Angela Asiana](https://open.spotify.com/artist/25vgYguyPkprd0hE2IRnZT) | [Hör nie auf damit](https://open.spotify.com/album/5Ta3w7wehddEGyQufUgMow) | 2:42 | 2023-08-13 | 2023-08-25 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-04 | 2023-01-18 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-12-28 | 2022-01-08 |
 | [I Believe](https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [I Believe](https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv) | 2:27 | 2022-06-13 | 2022-09-11 |
@@ -1803,6 +1803,7 @@
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-11-23 | 2022-12-29 |
 | [Underrated](https://open.spotify.com/track/3lOD6clwrwGpqS0e3ACJvG) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Underrated](https://open.spotify.com/album/5eyWKDxNOfHfztG00UjoBh) | 2:54 | 2023-05-13 | 2023-05-16 |
 | [Une jam](https://open.spotify.com/track/2VvjtaAG5bne9Jn5UbJhfX) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Une jam](https://open.spotify.com/album/0BasM7faujnd5IORm9wczl) | 2:50 | 2021-05-16 | 2021-05-23 |
+| [Unendlichkeit](https://open.spotify.com/track/5oUaUa8t6ld88QUCyYFb2H) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Unendlichkeit](https://open.spotify.com/album/0DDedQfbStXhO5HzFh4uC3) | 3:18 | 2023-08-24 |  |
 | [UNGA UNGA](https://open.spotify.com/track/3vcBq2nnHDYKPOqPDu9tJg) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [UNGA UNGA](https://open.spotify.com/album/3jSGaWq4vbv6TxBTeexsMB) | 3:42 | 2022-11-26 | 2022-11-28 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-01-28 | 2023-04-29 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 | 2023-02-01 |

@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-146 songs - 8 hr 10 min
+147 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [The Eclipse](https://open.spotify.com/track/71wKe7nLKqkaq3JYAFEdna) | [Svalka](https://open.spotify.com/artist/3sKxosk24x3adgfDCvOBCr) | [The Eclipse](https://open.spotify.com/album/12mh93J0d59nHpqkWUEeqJ) | 2:34 | 2022-09-23 |  |
 | [The Life of an Empath](https://open.spotify.com/track/6SKHpIBF0zImsmqmRkgvwp) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:26 | 2022-09-23 |  |
 | [To Do List](https://open.spotify.com/track/2yboFvgwf9aj8kNpYzWFJb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Autograph](https://open.spotify.com/album/1RiVyB6YIkv3cwCtnzVwE9) | 3:17 | 2023-03-03 |  |
+| [too](https://open.spotify.com/track/7egRCR2SWh6a75o2eeWl6c) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [too](https://open.spotify.com/album/4rKCO49fIF93PsGXULoAND) | 2:56 | 2023-08-25 |  |
 | [Type 1](https://open.spotify.com/track/2Z515QtI12xintnkboGQZw) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Type 1](https://open.spotify.com/album/7w6fHYrIaKbqXDN96dbEJf) | 3:47 | 2022-11-25 |  |
 | [Vana](https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vana / Ocea](https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU) | 4:20 | 2022-10-07 |  |
 | [Vexed](https://open.spotify.com/track/1lBhMsLkgsaVQTsaoE8GEd) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Vexed](https://open.spotify.com/album/090RrN1MNhYqO6DWsFOwxT) | 2:33 | 2023-08-18 |  |

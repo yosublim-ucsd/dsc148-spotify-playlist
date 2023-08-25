@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 53440,
+  "num_followers": 53470,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVkM2EwZTk4NjNmMGEyYmMxMmM2ZDAyYTQxMTQzMzE0MTU3ZmY4",
+  "snapshot_id": "MCwxNDQ2YWJiMzZkYmM2NDRhOGQwNjg3YTg0NzVmM2Q0M2FhZjAzNTJl",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "6am in Brighton",
+        "url": "https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "6am in Brighton",
+      "url": "https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "Pisces",
         "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 160000,
       "name": "Pisces",
       "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "6am in Brighton",
-        "url": "https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW"
-      },
-      "artists": [
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 194366,
-      "name": "6am in Brighton",
-      "url": "https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA"
     },
     {
       "added_at": "2022-10-23 18:38:51",

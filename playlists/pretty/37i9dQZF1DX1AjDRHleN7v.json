@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 277431,
+  "num_followers": 277512,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzdhNDZjMzU4YzEzOTJkYTY4NDQ5MzQ2ZjM1NTRiODRiNmYyZmIz",
+  "snapshot_id": "MCxhYmM5MjBlZTJiYTg2Njc5YzRjZTVhYTNlNzBhNjBlMmNkNDE0MGQ4",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 190453,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Uma Noite E 1/2",
         "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 185470,
       "name": "Por a\u00ed",
       "url": "https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "P\u00f4r do Sol",
-        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 228844,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
-        "url": "https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Nin-jitsu",
-          "url": "https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
-      "url": "https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Deixa O Amor Fluir",
         "url": "https://open.spotify.com/album/7DLZbNQrrloT2jeEJJJJmo"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 209971,
       "name": "Sol da Meia-Noite",
       "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
+        "url": "https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Nin-jitsu",
+          "url": "https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
+      "url": "https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun"
     },
     {
       "added_at": "2023-08-18 03:01:00",

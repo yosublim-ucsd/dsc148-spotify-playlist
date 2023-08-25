@@ -1695,6 +1695,28 @@
     },
     {
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/4Teix1bIpmh3moHcHFcEQr"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182421,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/11xY5dCeBsU1reDOfJdwjq"
+    },
+    {
+      "album": {
         "name": "I Just Need (with Lyrah)",
         "url": "https://open.spotify.com/album/5UhCTYiNNiL26OSebdWUck"
       },
@@ -3849,6 +3871,28 @@
     },
     {
       "album": {
+        "name": "Think About Me",
+        "url": "https://open.spotify.com/album/7083s09Camu5zbVWYuzVbo"
+      },
+      "artists": [
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        },
+        {
+          "name": "Swedish Red Elephant",
+          "url": "https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187808,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/7axdUvn03RFWqD7mnJGoir"
+    },
+    {
+      "album": {
         "name": "thinkin' about you",
         "url": "https://open.spotify.com/album/03nqonZ3inIazXypenyqLl"
       },
@@ -3918,6 +3962,24 @@
       "duration_ms": 160840,
       "name": "Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/3P0Ic1PfrRQJWCNxzGcM2d"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/41p1g2DoL55ttVaqfQ9mpM"
+      },
+      "artists": [
+        {
+          "name": "Jess Ball",
+          "url": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153650,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2EphCkHwxnplLCvPslzS74"
     },
     {
       "album": {

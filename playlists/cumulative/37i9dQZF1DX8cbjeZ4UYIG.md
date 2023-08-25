@@ -4,7 +4,7 @@
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-117 songs - 10 hr 19 min
+117 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Don't Go \- Original Mix](https://open.spotify.com/track/7DOgJIDxCOsPYHXQZIuseF) | [Awesome 3](https://open.spotify.com/artist/4qonlcYcLvt22gP54K6oeL) | [Don't Go](https://open.spotify.com/album/70T1jyWOTEWxuvLIQjg1km) | 5:11 | 2020-10-06 |  |
 | [Don't You Want Me \- Edit](https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:09 | 2020-10-06 |  |
 | [Don’t Go \(Original Mix\)](https://open.spotify.com/track/3vvPzmRKwWXDosbNCkJ44P) | [Awesome 3](https://open.spotify.com/artist/4qonlcYcLvt22gP54K6oeL) | [Don’t Go](https://open.spotify.com/album/0IjSgtb2Mz2JMY6YmVQahI) | 5:11 | 2020-10-06 | 2022-07-29 |
-| [Dub War \- Chapter One](https://open.spotify.com/track/2rtwjd4U6T0lYiW9Snq324) | [Dance Conspiracy](https://open.spotify.com/artist/1Nk5VWJj0BIUvH89rzG9U1) | [Dub War](https://open.spotify.com/album/4w9IkRbFtVwwra4IhjXqj4) | 7:43 | 2020-10-06 |  |
+| [Dub War \- Chapter One](https://open.spotify.com/track/2rtwjd4U6T0lYiW9Snq324) | [Dance Conspiracy](https://open.spotify.com/artist/1Nk5VWJj0BIUvH89rzG9U1) | [Dub War](https://open.spotify.com/album/4w9IkRbFtVwwra4IhjXqj4) | 6:43 | 2020-10-06 |  |
 | [Dub War \- Chapter One](https://open.spotify.com/track/5sc9CDaEgyX1EDztFkS5p2) | [Dance Conspiracy](https://open.spotify.com/artist/1Nk5VWJj0BIUvH89rzG9U1) | [Dub War](https://open.spotify.com/album/5LBA3bnccnGPrfYdjWd5r4) | 7:48 | 2020-10-06 | 2022-07-29 |
 | [E\-Vapor\-8](https://open.spotify.com/track/4iAKdClYxItZVrTrwzkIvA) | [Altern 8](https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC) | [Greatest: Altern 8](https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe) | 5:21 | 2020-10-06 | 2022-07-29 |
 | [Ebeneezer Goode \(Beat Edit\)](https://open.spotify.com/track/48HOXQQZqlTty0cBIkUmT2) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Collection](https://open.spotify.com/album/4b1lwzHWCdXiMJqHI3l3QV) | 3:52 | 2020-10-06 | 2022-11-13 |

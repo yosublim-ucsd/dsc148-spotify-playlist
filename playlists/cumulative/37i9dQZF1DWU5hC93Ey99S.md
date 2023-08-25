@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels\. Cover: Babsy.
 
-227 songs - 12 hr 38 min
+230 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Hurricane \- Ryan Case Remix](https://open.spotify.com/track/5146r6RrR2ElhlrGr64Fuq) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Talia Rose](https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T), [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn) | [Hurricane \(Ryan Case Remix\)](https://open.spotify.com/album/6J62BG8YytAQ5zhRgOEb61) | 2:54 | 2023-06-22 |  |
 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 | 2023-07-14 |  |
 | [I CAN'T STOP](https://open.spotify.com/track/3rc030o1DJ1ILNdMPZoS7W) | [ASTRO](https://open.spotify.com/artist/5kZk6YdVhp9mtEyzhDxRqj) | [I CAN'T STOP](https://open.spotify.com/album/7j6c2keRodBMXiZExqLaQm) | 3:06 | 2023-05-26 |  |
+| [I Got You](https://open.spotify.com/track/11xY5dCeBsU1reDOfJdwjq) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [I Got You](https://open.spotify.com/album/4Teix1bIpmh3moHcHFcEQr) | 3:02 | 2023-08-24 |  |
 | [I Just Need \(with Lyrah\)](https://open.spotify.com/track/6JbeNVHHrvRGY9BjB8hmkR) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [I Just Need \(with Lyrah\)](https://open.spotify.com/album/5UhCTYiNNiL26OSebdWUck) | 2:26 | 2023-08-10 |  |
 | [I Know](https://open.spotify.com/track/1q5BcbGvoE0AhCk9CR9HeX) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT) | [Rollercoaster](https://open.spotify.com/album/4ePx0TFE05UMh5YCAo8niw) | 2:19 | 2023-06-08 |  |
 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 | 2023-04-13 |  |
@@ -198,10 +199,12 @@
 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 | 2023-04-13 |  |
 | [then i run :/](https://open.spotify.com/track/5EYKxUeaetAdCefb5UV6JK) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [then i run :/](https://open.spotify.com/album/3iAokiWChaHbgOzMil9WUm) | 3:15 | 2023-08-03 |  |
 | [There's Another Life 4 U](https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:33 | 2023-04-13 |  |
+| [Think About Me](https://open.spotify.com/track/7axdUvn03RFWqD7mnJGoir) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Swedish Red Elephant](https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ) | [Think About Me](https://open.spotify.com/album/7083s09Camu5zbVWYuzVbo) | 3:07 | 2023-08-24 |  |
 | [thinkin' about you](https://open.spotify.com/track/5IRzClFKHGNfPhQFhKD2IP) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [thinkin' about you](https://open.spotify.com/album/03nqonZ3inIazXypenyqLl) | 2:17 | 2023-07-28 |  |
 | [This Moment](https://open.spotify.com/track/0uIJFfYqzgyu5ayMTbP1Y8) | [Dizaro](https://open.spotify.com/artist/2atwG2TdLJ99UpJVxXi3E4) | [This Moment](https://open.spotify.com/album/0uQwnjpBl807th2SwP8P8F) | 2:06 | 2023-08-10 |  |
 | [tidal wave](https://open.spotify.com/track/0GEHapw4SVFDM65BXvcSDX) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [tidal wave](https://open.spotify.com/album/6zPPaj58GfZsIOGxeP3qUn) | 3:22 | 2023-06-08 | 2023-07-15 |
 | [Tomorrow Never Comes](https://open.spotify.com/track/3P0Ic1PfrRQJWCNxzGcM2d) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Tomorrow Never Comes](https://open.spotify.com/album/3g4I1lrC7oDxUhVysMfxZD) | 2:40 | 2023-08-03 |  |
+| [Too Much](https://open.spotify.com/track/2EphCkHwxnplLCvPslzS74) | [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Too Much](https://open.spotify.com/album/41p1g2DoL55ttVaqfQ9mpM) | 2:33 | 2023-08-24 |  |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc) | 4:27 | 2023-04-13 |  |
 | [Twēnty Minutēs in thē Futurē](https://open.spotify.com/track/1Xx5u7h6xIuMKDCnSeJSve) | [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Twēnty Minutēs in thē Futurē](https://open.spotify.com/album/3qUeV4hq55UtpDXUcGasm1) | 4:27 | 2023-05-16 |  |
 | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/track/41tVFPYF12LM42hypwG1Dz) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/album/1RQq3Vx56aNEnKHI1XXnkT) | 3:27 | 2023-04-27 |  |

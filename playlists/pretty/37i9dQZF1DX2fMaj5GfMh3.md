@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Reneé Rapp deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,601 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,618 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Anyway \(with Gavin James\)](https://open.spotify.com/track/1ge6mqL5LUcH09T3DucAHE) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Anyway](https://open.spotify.com/album/1v3SkefYGIub5ZyLYCr4Ow) | 3:27 |
 | 100 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 |
 
-Snapshot ID: `MCwwYmM0NzFhZTE3OGQxY2U1NjJjOGFkNDQxMmFmMDllYjM1YTUwM2Q3`
+Snapshot ID: `MCxhNGVlMjc4ZTZhOTMzMTBkM2U4ZmVjYTVhOTVkZGRjZWNhN2Q1OWNl`

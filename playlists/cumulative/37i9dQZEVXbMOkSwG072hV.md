@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,572 songs - 3 day 9 hr 8 min
+1,573 songs - 3 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Con La Brisa](https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:47 | 2022-11-29 | 2022-12-15 |
 | [Conexões de Máfia](https://open.spotify.com/track/1Zm4O5ZzMrOYiOohYX2tcj) | [Fero](https://open.spotify.com/artist/5T2pfFxY9Va3pKfRxs3weE), [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA) | [Conexões de Máfia](https://open.spotify.com/album/6e3XpW0ajuqXkeyFGpeJM5) | 3:20 | 2023-05-02 | 2023-05-05 |
 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 | 2023-05-24 | 2023-06-09 |
+| [Congratulations \(feat\. Bilal\)](https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:16 | 2023-08-24 |  |
 | [Contagem](https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH) | [G.AZINN](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Contagem](https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA) | 3:29 | 2022-10-18 | 2022-10-30 |
 | [Conto do Plug](https://open.spotify.com/track/3CDVijhs5pS7UPr9etzV2J) | [Menor da Vg](https://open.spotify.com/artist/4h0k2pROsakdsxVAHhVvqG) | [Conto do Plug](https://open.spotify.com/album/5LdjM3D2YAQRmMUOfs9enU) | 2:27 | 2022-02-15 | 2022-03-12 |
 | [Controle Sem Pilha](https://open.spotify.com/track/0p440TJqHnJ98G8nVK0DMV) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [DJ SCOBAR](https://open.spotify.com/artist/4dLUYBVk0uGKdvPgXXQHn9), [Bellagi](https://open.spotify.com/artist/4kocH0Bzv4FFzH8F6iuz6c) | [Controle Sem Pilha](https://open.spotify.com/album/2GtneFiwF26S3BoPJaBW4b) | 2:01 | 2022-11-06 | 2022-11-09 |
@@ -1302,7 +1303,7 @@
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-17 | 2022-02-09 |
 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 | 2023-01-26 | 2023-02-07 |
 | [Solta Minha Blusa](https://open.spotify.com/track/5i91iDdOjC7sexvXV3MlRc) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Autodomínio](https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc) | 1:57 | 2023-08-22 |  |
-| [Solteiro Forçado \- Boiadeira Internacional](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 | 2023-08-01 |  |
+| [Solteiro Forçado \- Boiadeira Internacional](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 | 2023-08-01 | 2023-08-25 |
 | [Something In The Way \- Remastered](https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ) | 3:52 | 2022-03-09 | 2022-04-08 |
 | [Somos Todas Bolsonaro](https://open.spotify.com/track/1O0lSAwmkjSEezMwS4Z7KC) | [Talita Caldas](https://open.spotify.com/artist/4WbE03BFgEEUS8WYuJsDyk) | [Somos Todas Bolsonaro](https://open.spotify.com/album/45QfZ7XTaEbvzsQCAoMrtA) | 2:13 | 2022-10-31 | 2022-11-08 |
 | [Sonho](https://open.spotify.com/track/6DuJzDbnQxVLbOv1Y1Ix9N) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Label 67 \(Ao Vivo\)](https://open.spotify.com/album/3EipZjFInVdWgrda8PgoZf) | 4:16 | 2023-03-24 | 2023-05-06 |

@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/0VjUnLN1LYk3zyV3Ai17K2"
+      },
+      "artists": [
+        {
+          "name": "Payton Howard",
+          "url": "https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162724,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/4i6crZJXCGOfv6TgbTWRKC"
+    },
+    {
+      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/04gl0kOqCvtYuN0FhVu1MD"
       },

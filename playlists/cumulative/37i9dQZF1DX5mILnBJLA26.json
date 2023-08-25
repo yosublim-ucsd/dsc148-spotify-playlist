@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ?si=LaNnTzhqR_6bLIU4BmZ_CA\">Young Stunna</a> ",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj?si=1O2XqTh6T5qdsBZks1oqeA\">Sfarzo Rtee</a>.",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -7877,6 +7877,36 @@
     },
     {
       "album": {
+        "name": "Gojasi",
+        "url": "https://open.spotify.com/album/1Ka5oUqNMuSUVbZmQmSUMf"
+      },
+      "artists": [
+        {
+          "name": "Musical Jazz",
+          "url": "https://open.spotify.com/artist/3khoe9PeLSPw1Q0db4TpWW"
+        },
+        {
+          "name": "Soul Revolver",
+          "url": "https://open.spotify.com/artist/1Z4N6qo86BmXMr5SqkHP1r"
+        },
+        {
+          "name": "Kgocee",
+          "url": "https://open.spotify.com/artist/4iy6CMH93Yek4eDd5KlxEy"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429034,
+      "name": "Gojasi",
+      "url": "https://open.spotify.com/track/0z2QglVOqge7D0Mo7Pqvow"
+    },
+    {
+      "album": {
         "name": "For The Groovists",
         "url": "https://open.spotify.com/album/0E3vtqZ8qIXu5bEDBbze8i"
       },
@@ -8108,6 +8138,40 @@
       "duration_ms": 488712,
       "name": "H.E.Y",
       "url": "https://open.spotify.com/track/56XVHCnAeK3mQ4X6ypfFaT"
+    },
+    {
+      "album": {
+        "name": "Habibi (Quantum Sound)",
+        "url": "https://open.spotify.com/album/1dIb3F7jjjyv5TatikaHV3"
+      },
+      "artists": [
+        {
+          "name": "Sizwe Nineteen",
+          "url": "https://open.spotify.com/artist/2c3QieTCPiVSzFF3RnmiOU"
+        },
+        {
+          "name": "R-Bee",
+          "url": "https://open.spotify.com/artist/1Q7Cjk0pNfOLij9zTULofB"
+        },
+        {
+          "name": "De\u2019vine 07",
+          "url": "https://open.spotify.com/artist/24cfPlwva5seVaDkD7oZlD"
+        },
+        {
+          "name": "Drumonade",
+          "url": "https://open.spotify.com/artist/1FrqPnLttkZLv5Ua8PIFGu"
+        },
+        {
+          "name": "Tumi Sdomane",
+          "url": "https://open.spotify.com/artist/23gF82fPg0ulReEVAKqVVn"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368640,
+      "name": "Habibi (Quantum Sound)",
+      "url": "https://open.spotify.com/track/0JtoyusgiISK10cXzX79uH"
     },
     {
       "album": {
@@ -8754,7 +8818,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 322831,
       "name": "I like your style (feat. Kyika DeSoul)",
       "url": "https://open.spotify.com/track/4vRE28THNRQoTzZLuwaGmh"
@@ -9476,6 +9540,32 @@
       "duration_ms": 378370,
       "name": "Impi Ye'ndlala",
       "url": "https://open.spotify.com/track/38YUp0CzOFHdSfM9kCXlLh"
+    },
+    {
+      "album": {
+        "name": "House Of Sgija II",
+        "url": "https://open.spotify.com/album/573zCE7mFeZNcuSrOkNLBJ"
+      },
+      "artists": [
+        {
+          "name": "Sfarzo Rtee",
+          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
+        },
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435442,
+      "name": "Impilo",
+      "url": "https://open.spotify.com/track/4Wnh8bWSMCRmGYvER8Va7u"
     },
     {
       "album": {
@@ -11088,7 +11178,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 428855,
       "name": "izolo",
       "url": "https://open.spotify.com/track/2pJ0o93KDCwxF7UMpVeLUx"
@@ -15744,7 +15834,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 336428,
       "name": "Myztro Ah Ah (feat. Xduppy, ShaunMusiQ & Ftears)",
       "url": "https://open.spotify.com/track/26rx4ek7zk05Q9wEUbN1NF"
@@ -17047,6 +17137,44 @@
     },
     {
       "album": {
+        "name": "Ngizwile",
+        "url": "https://open.spotify.com/album/01w1uOYCaLaQy12rIi5XJ1"
+      },
+      "artists": [
+        {
+          "name": "Deejaykgosi",
+          "url": "https://open.spotify.com/artist/5Od5IwIPUgfunOlyI5W5OG"
+        },
+        {
+          "name": "Baby Momo",
+          "url": "https://open.spotify.com/artist/4vvWw19AbXNRhTcJoNbzU6"
+        },
+        {
+          "name": "Lington",
+          "url": "https://open.spotify.com/artist/1px0sAtPicYWJbMN3yoa94"
+        },
+        {
+          "name": "Zee_nhle",
+          "url": "https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc"
+        },
+        {
+          "name": "iam.psalm",
+          "url": "https://open.spotify.com/artist/5SV8LM9R5vXcbiMc1hqD6p"
+        },
+        {
+          "name": "Phemelo Saxer",
+          "url": "https://open.spotify.com/artist/3lTwknAWayG7aB9f5K8D3T"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334419,
+      "name": "Ngizwile",
+      "url": "https://open.spotify.com/track/0AtUfScqL8UjpRGI2Mt4BI"
+    },
+    {
+      "album": {
         "name": "Umakhelwane",
         "url": "https://open.spotify.com/album/58AyWAgxxrRyiUbuuJJWTF"
       },
@@ -17904,6 +18032,32 @@
       "duration_ms": 438828,
       "name": "Obrigado",
       "url": "https://open.spotify.com/track/50gFlCehjs4T35SNkMQKDD"
+    },
+    {
+      "album": {
+        "name": "Oe'Phihlile",
+        "url": "https://open.spotify.com/album/1yfa56Cp1nEXqs4h1elpLQ"
+      },
+      "artists": [
+        {
+          "name": "Lowsheen",
+          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
+        },
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Lioness Ratang",
+          "url": "https://open.spotify.com/artist/5qltS8SwpvIgYGfaWpEK8s"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402179,
+      "name": "Oe'Phihlile",
+      "url": "https://open.spotify.com/track/4Z14QJJqzQiYFXsEiJkPnF"
     },
     {
       "album": {
@@ -23158,7 +23312,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 479290,
       "name": "The Game (Amapiano Bootleg)",
       "url": "https://open.spotify.com/track/2C25ZeenileLHXXSS9WZvT"

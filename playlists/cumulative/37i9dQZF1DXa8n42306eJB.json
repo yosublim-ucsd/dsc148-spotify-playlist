@@ -1638,10 +1638,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 276973,
       "name": "Party",
       "url": "https://open.spotify.com/track/2hrDu4B5sb10WXs1yLqDOo"
+    },
+    {
+      "album": {
+        "name": "Island Vibration",
+        "url": "https://open.spotify.com/album/01G2mx0ulpRXWEYr7jnVvI"
+      },
+      "artists": [
+        {
+          "name": "House Of Shem",
+          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277037,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0AHbwnfwocPdIN9CvQCYKr"
     },
     {
       "album": {

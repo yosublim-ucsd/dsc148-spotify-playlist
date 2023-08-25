@@ -538,7 +538,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 223000,
       "name": "Canes Venatici",
       "url": "https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5"
@@ -3466,6 +3466,24 @@
       "duration_ms": 123125,
       "name": "Sonno scintillante",
       "url": "https://open.spotify.com/track/5tmH0bmkkk5haZdbvWLzAk"
+    },
+    {
+      "album": {
+        "name": "Soothing Embrace",
+        "url": "https://open.spotify.com/album/275C7aqS47PWWERKOOXtYp"
+      },
+      "artists": [
+        {
+          "name": "Lion Thin",
+          "url": "https://open.spotify.com/artist/6ckx46cAYPJHRxDwYL2Cg6"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147560,
+      "name": "Soothing Embrace",
+      "url": "https://open.spotify.com/track/6qnt8H3eAY6784Ix1evQn8"
     },
     {
       "album": {

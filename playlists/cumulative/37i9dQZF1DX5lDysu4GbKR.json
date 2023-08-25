@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Lose Control (Piano Version)",
+        "url": "https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206426,
+      "name": "Lose Control - Piano Version",
+      "url": "https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB"
+    },
+    {
+      "album": {
         "name": "Love Is A Losing Game (Live at Stebbing Studio)",
         "url": "https://open.spotify.com/album/2jN0f3GV5cy6FONlqFkv6O"
       },
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-25",
       "duration_ms": 212690,
       "name": "None For You",
       "url": "https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir"

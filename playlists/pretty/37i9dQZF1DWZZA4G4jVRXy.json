@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 125071,
+  "num_followers": 125124,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2ZhZDYyMDljY2ZlZjRiOTM2MzI3YWU1MzllNGZmNDJlNTdlYzI4",
+  "snapshot_id": "MCwxYWE4ODY2ZjgyNDZmNzIxNDNkYzNlYTIzNjIwYTBjYTUzMmIzZTc5",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Golden Voice of Hawai'i, Vol. 1",
-        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
-      },
-      "artists": [
-        {
-          "name": "Dennis Pavao",
-          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "I Kona",
-      "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Blow Up presents Exclusive Blend Volume 2",
         "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 242226,
       "name": "Underlay No.3",
       "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Golden Voice of Hawai'i, Vol. 1",
+        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
+      },
+      "artists": [
+        {
+          "name": "Dennis Pavao",
+          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "I Kona",
+      "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Makani Olu'olu",
-        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
-      },
-      "artists": [
-        {
-          "name": "Na Palapalai",
-          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "Lepe Ula'ula",
-      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
         "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 128000,
       "name": "Melancholy Serenade - Remastered",
       "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Makani Olu'olu",
+        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+      },
+      "artists": [
+        {
+          "name": "Na Palapalai",
+          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Lepe Ula'ula",
+      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
     },
     {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "MGANGA!",
+        "url": "https://open.spotify.com/album/421iMthufbbRmsu87uHsOS"
+      },
+      "artists": [
+        {
+          "name": "Tak Shindo",
+          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Mombasa Love Song",
+      "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
+    },
+    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "The Unforgettable Sounds of Esquivel",
@@ -719,22 +735,6 @@
       "duration_ms": 162721,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "MGANGA!",
-        "url": "https://open.spotify.com/album/421iMthufbbRmsu87uHsOS"
-      },
-      "artists": [
-        {
-          "name": "Tak Shindo",
-          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Mombasa Love Song",
-      "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
-        "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
-      },
-      "artists": [
-        {
-          "name": "Hawaii Calls Orchestra",
-          "url": "https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
-      "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Days Of Wine And Roses",
         "url": "https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 185493,
       "name": "Slow And Easy",
       "url": "https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
+        "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
+      },
+      "artists": [
+        {
+          "name": "Hawaii Calls Orchestra",
+          "url": "https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
+      "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
     },
     {
       "added_at": "2021-01-20 03:50:53",

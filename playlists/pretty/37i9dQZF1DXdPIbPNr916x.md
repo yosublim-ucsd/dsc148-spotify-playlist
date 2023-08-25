@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPIbPNr916x.md) - [plain]
 
 > Your ultimate easy\-listening soundtrack for the summer months.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,463 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,473 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPIbPNr916x.md) - [plain]
 | 49 | [Last Time \- Acoustic](https://open.spotify.com/track/54u4wxyfvWnAIdSs0HIvsm) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time \(Acoustic\)](https://open.spotify.com/album/2DlqdE27WObFru19qf8fvU) | 3:43 |
 | 50 | [Midsummer](https://open.spotify.com/track/2Zcg6pgij0lXOqwcrIWV4i) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Midsummer](https://open.spotify.com/album/2rvZJlegqF9Cz7UBtIK78X) | 3:19 |
 
-Snapshot ID: `MCw3NzljMWEzZWJkMGQwZDhiZGI5MzkyMmU5YjU5OGFlOGVmOTNhZGNi`
+Snapshot ID: `MCw3ZDA0NjUwOGVkYzQ2YWQwZDA3MzhlZmQyNTljMWQ4MmRmNzhiN2Rm`

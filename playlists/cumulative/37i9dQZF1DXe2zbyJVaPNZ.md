@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-177 songs - 11 hr 50 min
+179 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-09-08 |  |
 | [Astral Plane](https://open.spotify.com/track/5RJra53XMmKPR3VBCkYh7G) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Soothing Ambient Sleep](https://open.spotify.com/album/2pwOmopA3nknPWsgtO3o4i) | 3:02 | 2023-02-24 |  |
 | [axtupaku](https://open.spotify.com/track/6E1tkX5vsU0vJQ9e57eKBD) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Sei](https://open.spotify.com/album/067nCk1Y6niI3HwdR2d2q3) | 2:33 | 2023-07-13 |  |
+| [Balance and Serenity for Sleep](https://open.spotify.com/track/1n46LZ0g6q8TfVLUoRHqFI) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh), [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [Balance and Serenity for Sleep](https://open.spotify.com/album/4rK2eia8RbWKD1TtjZIbN7) | 3:38 | 2023-08-25 |  |
 | [Be Still My Gentle Dream](https://open.spotify.com/track/5CNClGUyb9WXVGJf1xRhoC) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Slumbertrain](https://open.spotify.com/album/39aJDQNU5JJUlCI3NH485F) | 3:22 | 2022-09-08 |  |
 | [Being](https://open.spotify.com/track/1EEDHsrBnIEwgv3Tx0f4mU) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Being](https://open.spotify.com/album/2XuXdx0PWF9MRZ6jI1jJrR) | 3:21 | 2022-11-11 |  |
 | [Beyond Infinity](https://open.spotify.com/track/07Ugt4jjKXkCfmVZEbQ55a) | [SerenitySounds](https://open.spotify.com/artist/5IxUd3eKUM5TboSJkc5cVQ) | [Beyond Infinity](https://open.spotify.com/album/1NbO4sSRArJd0qqUKM1LWD) | 4:37 | 2022-11-11 |  |
@@ -91,6 +92,7 @@
 | [Iridescent Path](https://open.spotify.com/track/4tHjZx4Z77XSC64Zhai6MG) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Somnolent](https://open.spotify.com/album/7mtYE21I5eKozv4spdgauR) | 5:51 | 2022-08-05 | 2023-04-07 |
 | [Isolation Horizon](https://open.spotify.com/track/5jPLFbehCOcUgkD0rZT2en) | [Alonefold](https://open.spotify.com/artist/1QUEqlh17KdAgKrkMuakMp) | [Remote Textures](https://open.spotify.com/album/2Ac2UuDsnSC90hooCxxQkD) | 8:52 | 2022-08-05 | 2023-04-29 |
 | [Kalas](https://open.spotify.com/track/2GeVtbxY76CiqZDhEyQCRw) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Naer](https://open.spotify.com/album/46gUlev9vSy4mLtR9Ec5Vl) | 3:19 | 2022-10-14 |  |
+| [kawarusi](https://open.spotify.com/track/4Ry4yU8MIaiQHzbcPYDYVi) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Peta](https://open.spotify.com/album/7vqe4Oi2TFVgpWwwFqA3kV) | 2:33 | 2023-08-25 |  |
 | [Klass \(Robot Koch Rework\)](https://open.spotify.com/track/4yvlSGZem0ssbw2zIf6rr6) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [k o : d a](https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2) | 6:08 | 2023-03-09 | 2023-08-19 |
 | [Klass \- Robot Koch Rework](https://open.spotify.com/track/6QcorNxAJIo0IXFVI0JMg1) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Klass \(Robot Koch Rework\)](https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD) | 6:08 | 2022-08-05 | 2023-03-10 |
 | [Kuiper belt](https://open.spotify.com/track/2b0MHeSdp440JkGSrJxPqF) | [Domy Castellano](https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO) | [Kuiper belt](https://open.spotify.com/album/2MNGukyyOcFsxTDLiub8kC) | 3:35 | 2022-08-05 |  |

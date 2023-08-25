@@ -4,12 +4,12 @@
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-62 songs - 4 hr 23 min
+63 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Life Worth Living \(Kesariyo\)](https://open.spotify.com/track/5L8GHat4FQUdZWQRET5PyS) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Chotu Khan](https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p), [Salman Khan](https://open.spotify.com/artist/68ePdYvtRgq9CiPzv6fapI), [Triplicane K\. Sekar](https://open.spotify.com/artist/2OaA4iqVxw33eqX9axg8BK) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:04 | 2023-03-10 |  |
-| [Aaj Rang Hai](https://open.spotify.com/track/2T02TsMZTTEVJeuSwCyD1w) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Aaj Rang Hai](https://open.spotify.com/album/1BSSoO2kKSgWCUpXuM34tC) | 2:22 | 2023-08-10 |  |
+| [Aaj Rang Hai](https://open.spotify.com/track/2T02TsMZTTEVJeuSwCyD1w) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Aaj Rang Hai](https://open.spotify.com/album/1BSSoO2kKSgWCUpXuM34tC) | 2:22 | 2023-08-10 | 2023-08-25 |
 | [Ae Re Sakhi](https://open.spotify.com/track/7h5jBU18CqXNhDUKRr6y7h) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Ae Re Sakhi](https://open.spotify.com/album/29kxXKLyYDcl0vJvnSLvcI) | 3:42 | 2023-03-10 |  |
 | [Aisi Mhari Preet \(Eternal Love\) \- Sabr](https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7) | [Aisi Mhari Preet \(Eternal Love\) \[Sabr\]](https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND) | 5:32 | 2023-03-10 | 2023-06-03 |
 | [Asadh Mein](https://open.spotify.com/track/4oYF9CjA5kaUNXtjHe6Gkd) | [Zubaan Music](https://open.spotify.com/artist/0hk5o3q3aoaTgq5RPtVYd9), [Chandan Tiwari](https://open.spotify.com/artist/1tjgaRT3lAX7OJqTrFsKN6), [Kavish Seth](https://open.spotify.com/artist/4CBseQM3qyCTbkDqxTDTsV) | [Asadh Mein](https://open.spotify.com/album/7lU5oWhj6hJsrRGRDzHB3w) | 3:35 | 2023-03-10 | 2023-08-09 |
@@ -44,6 +44,7 @@
 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 | 2023-03-10 |  |
 | [Maye Ni Meriye](https://open.spotify.com/track/4ibRGHSHOS6D08Im4bLaYD) | [Britto Khangchian](https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk) | [Maye Ni Meriye](https://open.spotify.com/album/6sc04EqX9CJW4k1Q6pPiDW) | 4:25 | 2023-03-10 |  |
 | [Mehndi Te Vavi](https://open.spotify.com/track/1yBbcWXOsl2tCcNg2prkEh) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Mehndi Te Vavi](https://open.spotify.com/album/5fxKel0n6EsDMfuIkeaw0W) | 2:29 | 2023-03-10 |  |
+| [Mere Makaan](https://open.spotify.com/track/6NwACkuYB1ofC2fBwvj0eb) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Mere Makaan](https://open.spotify.com/album/3nMDW1FquZfMaXTYg5l2ej) | 7:14 | 2023-08-24 |  |
 | [Mitho Laage \- The Dewarists, Season 5](https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Mitho Laage \(The Dewarists, Season 5\)](https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp) | 4:40 | 2023-03-10 |  |
 | [Mooch \(From Sonic Roots \- Songs of Soil\)](https://open.spotify.com/track/5Ahp1Ru3jrl1pDTyFmFVFa) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Ruchika Chauhan](https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1) | [Mooch \(From Sonic Roots \- Songs of Soil\)](https://open.spotify.com/album/063gO0cVwsM9Yq0agVVHLj) | 3:42 | 2023-03-10 |  |
 | [Moti Veraana \(From Songs of Faith\)](https://open.spotify.com/track/6qhTVtHIsK8WVf7biagk7O) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Moti Veraana \(From Songs of Faith\)](https://open.spotify.com/album/0nRRqy5mEGsEudNBHfCXvu) | 4:16 | 2023-03-10 |  |

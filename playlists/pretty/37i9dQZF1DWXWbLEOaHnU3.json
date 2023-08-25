@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 504571,
+  "num_followers": 504869,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjEzYzlhODMyMjFiYzljNDg4MzMxYTg5ZWRjNjQzZmFjMWY2ODZi",
+  "snapshot_id": "MCwwZWM1YTM0MzRhNWFmZTFkNzJlNmVlMGIzM2RjMTU4OTMyNGUzNjUy",
   "tracks": [
     {
       "added_at": "2023-05-26 09:00:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz"
-      },
-      "artists": [
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Mira Feder",
-          "url": "https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL"
-        }
-      ],
-      "duration_ms": 201739,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/16V8meQabrUEUI5GRC8x4K"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Drivin Me Insane",
         "url": "https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 195724,
       "name": "Drivin Me Insane",
       "url": "https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Mira Feder",
+          "url": "https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL"
+        }
+      ],
+      "duration_ms": 201739,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/16V8meQabrUEUI5GRC8x4K"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
+        "name": "Dark Oscillator",
+        "url": "https://open.spotify.com/album/6EDTw2MWFNcjpY9H71p3vF"
+      },
+      "artists": [
+        {
+          "name": "Audiomatic",
+          "url": "https://open.spotify.com/artist/1EVqYQzE00Z8L5ly9oNxiV"
+        }
+      ],
+      "duration_ms": 379130,
+      "name": "Dark Oscillator",
+      "url": "https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
         "name": "Transparent",
         "url": "https://open.spotify.com/album/0xS7jOcqVLx6WgAFdapjSw"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 257142,
       "name": "Transparent",
       "url": "https://open.spotify.com/track/0GoFoDacevapONRmdyTmgh"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
-        "name": "Dark Oscillator",
-        "url": "https://open.spotify.com/album/6EDTw2MWFNcjpY9H71p3vF"
-      },
-      "artists": [
-        {
-          "name": "Audiomatic",
-          "url": "https://open.spotify.com/artist/1EVqYQzE00Z8L5ly9oNxiV"
-        }
-      ],
-      "duration_ms": 379130,
-      "name": "Dark Oscillator",
-      "url": "https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Parallels",
-        "url": "https://open.spotify.com/album/5RsJYaaEgSqv7KbK81HDoe"
+        "name": "Way Down",
+        "url": "https://open.spotify.com/album/6k5XMwU0mIwIgRmCZVKKwI"
       },
       "artists": [
         {
-          "name": "Day Din",
-          "url": "https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9"
-        },
-        {
-          "name": "Gaudium",
-          "url": "https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg"
+          "name": "Cloud7",
+          "url": "https://open.spotify.com/artist/1v58vTDfehAnHXZ3pvvkbs"
         }
       ],
-      "duration_ms": 404317,
-      "name": "Parallels",
-      "url": "https://open.spotify.com/track/1yJ6dZFRecONfZHGnIrYru"
+      "duration_ms": 379300,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/3vQurSrefHhu4M7f71U0is"
     }
   ],
   "unique_name": "Psytrance Supernova",

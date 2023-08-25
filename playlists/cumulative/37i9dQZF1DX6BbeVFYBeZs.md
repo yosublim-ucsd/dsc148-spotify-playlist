@@ -4,7 +4,7 @@
 
 > The beautiful sound of guitar to help you wind down.
 
-306 songs - 13 hr 28 min
+308 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Deeper](https://open.spotify.com/track/7iH6zlWiaIJFcAnMG0k6kE) | [Lárus Jacinda](https://open.spotify.com/artist/5Erm6RBvYLKo4Wm6okqRJs) | [Deeper](https://open.spotify.com/album/5TQLX18OrELQ5Ps9xidigz) | 2:40 | 2022-11-18 |  |
 | [Del Alma](https://open.spotify.com/track/0AsmtlXXgI1hugFJPQKEZd) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Del Alma](https://open.spotify.com/album/3lARxNjOobsA9r56G5kDTf) | 2:37 | 2022-06-17 | 2022-07-29 |
 | [Del Alma](https://open.spotify.com/track/3VYUGuPuqZiKEd7NKwV7PI) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Del Alma](https://open.spotify.com/album/26rKW6kKbLSdKh0DFnlQfo) | 2:37 | 2022-07-29 | 2022-08-18 |
-| [Del Barrio](https://open.spotify.com/track/1PtRT6TUiXfDcVpm7w7LXk) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Del Barrio](https://open.spotify.com/album/3wXfiZLFeJXriFIMMC1Ti4) | 2:02 | 2022-06-17 |  |
+| [Del Barrio](https://open.spotify.com/track/1PtRT6TUiXfDcVpm7w7LXk) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Del Barrio](https://open.spotify.com/album/3wXfiZLFeJXriFIMMC1Ti4) | 2:02 | 2022-06-17 | 2023-08-25 |
 | [Delicate Love](https://open.spotify.com/track/19NC6JIZJJ88CHJBZkF2o2) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Delicate Love](https://open.spotify.com/album/5Ujv5ySO7k7d373Yjx1k6y) | 2:21 | 2022-07-29 |  |
 | [Delicate Love](https://open.spotify.com/track/6uJFme7KrCugSiNLtv6D5v) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Delicate Love](https://open.spotify.com/album/1WtNJblFHyHS5oo6oqbpHI) | 2:21 | 2022-06-17 | 2022-08-04 |
 | [Demelza](https://open.spotify.com/track/4ENWUdGVKTUKpwLVcW7wCW) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Demelza](https://open.spotify.com/album/3I4jdlp5h4GbDV5OOletTP) | 3:25 | 2023-03-10 |  |
@@ -174,6 +174,7 @@
 | [Love In Distance](https://open.spotify.com/track/08eRZ1EP3sSTuu9CBuWSIS) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Love In Distance](https://open.spotify.com/album/4wmuigjrfEGY1OdoUzmKx0) | 1:56 | 2023-03-31 |  |
 | [Love Is A Prison](https://open.spotify.com/track/3n0tTzx7hU375khQC1SmDl) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Love Is A Prison](https://open.spotify.com/album/2wCznnuPomzia6n2VxsbfO) | 3:42 | 2023-03-31 |  |
 | [Lozana](https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Lozana](https://open.spotify.com/album/4iHmLYrL4zab3KOyydNKNb) | 2:09 | 2022-06-17 |  |
+| [Lumen](https://open.spotify.com/track/6GfVl6fqJjiWYtWbaRUysl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Lumen](https://open.spotify.com/album/6xUP4LUnifBek3FCwxXXiD) | 2:36 | 2023-08-24 |  |
 | [Luz Oculta](https://open.spotify.com/track/0u7uSvFJUQ4iOVU1MORvBm) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Luz Oculta](https://open.spotify.com/album/5LIoNLXzODduC2rShCaG2J) | 2:40 | 2022-09-02 |  |
 | [Mahndorfer See](https://open.spotify.com/track/1xrIPprG8FaVGP8CfVtOMp) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Meissen](https://open.spotify.com/album/3S7Q0wC5L9FDxNhYIaImGN) | 2:36 | 2023-03-31 |  |
 | [Manha De Carnaval](https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Manha De Carnaval](https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK) | 2:26 | 2022-08-17 |  |
@@ -245,6 +246,7 @@
 | [Sierra Blanca](https://open.spotify.com/track/7siStEUpB8qicWuum3Ly2u) | [Rosa Gonzales](https://open.spotify.com/artist/6E8WeGatw7QpqYZzLeqZyi) | [Sierra Blanca](https://open.spotify.com/album/4sAhmphKQOaGLsQqhsmem4) | 2:33 | 2022-06-17 | 2023-03-31 |
 | [Silent Senses](https://open.spotify.com/track/25OjmtlPiAxOBYVK9RJpEB) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [Silent Senses](https://open.spotify.com/album/6FM9tmXDgP3cOofFRSFZ8b) | 2:19 | 2023-02-24 |  |
 | [Silva](https://open.spotify.com/track/0OGklcrx4tR6kMuK4dDoK8) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Silva](https://open.spotify.com/album/3IvvUji5JDqhVyBk1PvU6V) | 1:50 | 2022-06-17 |  |
+| [Soft Water](https://open.spotify.com/track/1lrY2ajxDQK8NzKtcE60Nv) | [John Henriksson](https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij) | [Soft Water](https://open.spotify.com/album/2Ri8R8XqX5lrptfAJ1cSfF) | 1:40 | 2023-08-24 |  |
 | [Sofía](https://open.spotify.com/track/6VMtKaNm36Dty9QxZfWWO4) | [Roy De Paz](https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg) | [Sofía](https://open.spotify.com/album/6UAasZMdWOZf78BSSY6gkW) | 1:52 | 2022-10-07 |  |
 | [Sol de medianoche](https://open.spotify.com/track/1kA41wXyC5knLXtUHJYokH) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Sol de medianoche](https://open.spotify.com/album/6YDejeG2RxP2S6HidOS4Mq) | 2:11 | 2022-06-17 |  |
 | [Solitaria](https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Solitaria](https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF) | 2:16 | 2022-08-05 | 2023-05-13 |

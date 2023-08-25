@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,861 likes - 107 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,862 likes - 107 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 11 | [梅](https://open.spotify.com/track/0OCnqdysdBgBQrPFoQO0vq) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [中人](https://open.spotify.com/album/4cgScdHc1ORAy4GgyoZXoz) | 4:16 |
 | 12 | [行くぜっ!怪盗少女 \-ZZ ver.\-](https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 3:48 |
 | 13 | [Hyouriittai](https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Shinsekai](https://open.spotify.com/album/2R5uRvmQGlvwYDzpl7pK63) | 5:36 |
-| 14 | [となりのバナナ\(ひまわり組\)](https://open.spotify.com/track/1TfTaYHLN8znTDlhcCzQ6K) | [AKB48](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) | [AKB48 ひまわり組 2nd stage 「夢を死なせるわけにいかない」 \~studio recordings コレクション\~](https://open.spotify.com/album/7eTgH1IvY1IyvJ5lS7BGpd) | 3:51 |
+| 14 | [となりのバナナ\(ひまわり組\)](https://open.spotify.com/track/1TfTaYHLN8znTDlhcCzQ6K) | [AKB48](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) | [AKB48 ひまわり組 2nd stage 「夢を死なせるわけにいかない」 ～studio recordings コレクション～](https://open.spotify.com/album/7eTgH1IvY1IyvJ5lS7BGpd) | 3:51 |
 | 15 | [君しか](https://open.spotify.com/track/3KiNTcxH5cIVqogpiq0A8M) | [ノースリーブス](https://open.spotify.com/artist/2VM81ux8Ip6Vq2RsDdeGXW) | [君しか](https://open.spotify.com/album/7dFHpzpaQUMbI6KVq4dHAD) | 4:34 |
 | 16 | [ヒャダインのじょーじょーゆーじょー](https://open.spotify.com/track/4o6lx73KC3AmKI73fDV6ZU) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [ヒャダインのじょーじょーゆーじょー](https://open.spotify.com/album/4st9h1Rs5AZPrdLP4A5QkB) | 4:10 |
 | 17 | [ワニとシャンプー \-ZZ ver.\-](https://open.spotify.com/track/0vtd2nklEKpg0q2SbK12qK) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's Ⅱ](https://open.spotify.com/album/61SioPFNQ2moIbC7BaZIZK) | 4:03 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 67 | [6 PACK PARADISE \~序章\~](https://open.spotify.com/track/1q6XN7vHKWJ3SvGlIi4Dfc) | [Fischer’s](https://open.spotify.com/artist/6jzUFgPUi6cl92JOaM6gbF) | [6 PACK PARADISE \~序章\~](https://open.spotify.com/album/2Rm7PgT6eEPPXggyaaPY0s) | 4:44 |
 | 68 | [Link](https://open.spotify.com/track/4HOZQQ1cDRi6gimI4CSLPM) | [RYUCHELL](https://open.spotify.com/artist/69B2I8O3kvspdJVrBc2toJ) | [Link](https://open.spotify.com/album/7uAnOnRPCXNjvfde9zvfP0) | 4:11 |
 | 69 | [Owaranai Uta](https://open.spotify.com/track/2OxXrvNPvi5Re4BIazEuqV) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Towa](https://open.spotify.com/album/0SJZLC4rrnMg4YgdWvUK9J) | 3:41 |
-| 70 | [帆を上げろ!](https://open.spotify.com/track/2cj8h4l2Mkc8a19gctQJ7I) | [BOYS AND MEN](https://open.spotify.com/artist/3VZOHWaJbouQwpHvfP47Lo) | [友ありて・・](https://open.spotify.com/album/3scNiDBwNDv6J6xp9ThUfE) | 4:25 |
+| 70 | [帆を上げろ！](https://open.spotify.com/track/2cj8h4l2Mkc8a19gctQJ7I) | [BOYS AND MEN](https://open.spotify.com/artist/3VZOHWaJbouQwpHvfP47Lo) | [友ありて・・](https://open.spotify.com/album/3scNiDBwNDv6J6xp9ThUfE) | 4:25 |
 | 71 | [RED BLAZE : BLUE FLAME](https://open.spotify.com/track/20M5MWt8cLxaeHWEMvHLZ7) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Belle révolte](https://open.spotify.com/album/7iJPRedEjkEwmI0cNPWV8X) | 4:08 |
 | 72 | [純情エクスタシィ](https://open.spotify.com/track/4349NJ84hgXnpCECVIFulf) | [危険日チャレンジガールズ!](https://open.spotify.com/artist/0lTgvNB4GOIwow433FyPJG), [Negicco](https://open.spotify.com/artist/4PoAqzGXLjpuYMmTRv24q6) | [YATSUI MATOME \~SELECTION\~](https://open.spotify.com/album/5iQP3f2uDFFPGcSsq1GRte) | 3:36 |
 | 73 | [クラムチャウダーが冷めちゃう月曜日](https://open.spotify.com/track/1DVDsz6DpiuZEZaQv8trpH) | [SUPER☆GiRLS](https://open.spotify.com/artist/4zthDDKQvX4jJtGfo4ouKr) | [SUPER★CASTLE](https://open.spotify.com/album/1Y7NV0fz3PLrTXDw4S0gb6) | 3:39 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 81 | [canvas](https://open.spotify.com/track/343kCGzVLTw4PsqqjweJIX) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [ヒーロー](https://open.spotify.com/album/66NumpiSIw7X07nSObB3ti) | 5:04 |
 | 82 | [最後の恋](https://open.spotify.com/track/3ppA5RIUkVK29mPa5T9erB) | [Keiko Masuda](https://open.spotify.com/artist/7Er8Al0qkSET67raBdRo9Y) | [最後の恋 / 富士山だ](https://open.spotify.com/album/29pgOADoOPzU5Mj52M3JkI) | 3:37 |
 | 83 | [星より先に見つけてあげる](https://open.spotify.com/track/4JfFC0KteCysB94ooYSbli) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [蒼い生命](https://open.spotify.com/album/3NHgyxIWN5N5xA42fxTG2F) | 3:52 |
-| 84 | [エボレボ!](https://open.spotify.com/track/6HswcaRzGTe6gpKuVSon6e) | [Hayabusa](https://open.spotify.com/artist/27IFBw3ZBFCCNSJtkTlK5S) | [はやぶさファースト](https://open.spotify.com/album/3dueZbZSTA4jCvRHfwQBNC) | 4:17 |
-| 85 | [魔法アラ・ドーモ!](https://open.spotify.com/track/32kJsFb0lcQaivhF0aUupg) | [キュアミラクル\(CV:高橋李依\)](https://open.spotify.com/artist/4gYWBgUXLALfeBzmEzjGyH), [キュアフェリーチェ\(CV:早見沙織\)](https://open.spotify.com/artist/2GLeq74jvezGdIZIhOJQIM), [キュアマジカル\(CV:堀江由衣\)](https://open.spotify.com/artist/41hujDAS4f36WggPeqQFWk) | [魔法つかいプリキュア!ボーカルベストアルバム てのひらのおくりもの](https://open.spotify.com/album/3nhyacnkpYH8ll2sluKeEH) | 4:16 |
+| 84 | [エボレボ！](https://open.spotify.com/track/6HswcaRzGTe6gpKuVSon6e) | [Hayabusa](https://open.spotify.com/artist/27IFBw3ZBFCCNSJtkTlK5S) | [はやぶさファースト](https://open.spotify.com/album/3dueZbZSTA4jCvRHfwQBNC) | 4:17 |
+| 85 | [魔法アラ・ドーモ！](https://open.spotify.com/track/32kJsFb0lcQaivhF0aUupg) | [キュアミラクル\(CV:高橋李依\)](https://open.spotify.com/artist/4gYWBgUXLALfeBzmEzjGyH), [キュアフェリーチェ\(CV:早見沙織\)](https://open.spotify.com/artist/2GLeq74jvezGdIZIhOJQIM), [キュアマジカル\(CV:堀江由衣\)](https://open.spotify.com/artist/41hujDAS4f36WggPeqQFWk) | [魔法つかいプリキュア！ボーカルベストアルバム てのひらのおくりもの](https://open.spotify.com/album/3nhyacnkpYH8ll2sluKeEH) | 4:16 |
 | 86 | [ステキのキセキ](https://open.spotify.com/track/3ANDJ4TjFzjrDSmc9kBou1) | [Hiromi Ota](https://open.spotify.com/artist/0GNTARZTnzrhp9l0c1QJTq) | [ヒロミ☆デラックス Mini](https://open.spotify.com/album/6WayZeCEXHF92515uKs1Kq) | 3:44 |
 | 87 | [FiX YOUR TEETH](https://open.spotify.com/track/6nT1NXb2i6lu5wCjWTaK8C) | [GANG PARADE](https://open.spotify.com/artist/221zNlzeMJxLOPMYUIAaLx) | [涙のステージ / FiX YOUR TEETH](https://open.spotify.com/album/3Pbh5S94wuqc5TwIMWyLsG) | 3:31 |
 | 88 | [Choose me](https://open.spotify.com/track/1Hw1011LomqKrWZ1SDLXdF) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/album/1KoYnGSN4VVXBXYtB3KF1W) | 3:59 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 106 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 107 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MCxiMmIzYzZiZGFjZDQ2MzkyYjdjYjM2NTMyMjVjNmZiYTNmNmU0NGNk`
+Snapshot ID: `MCxiOGUzNGExMmUyNzcyNzMwMWFmNTllNjA1ZGRhOWYyNzRmZTQ2NDBm`

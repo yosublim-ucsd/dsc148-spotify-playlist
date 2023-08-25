@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-187 songs - 9 hr 45 min
+188 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [The man from Belvedere](https://open.spotify.com/track/1FejRJLhghkDcEEoxDpA6s) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [The man from Belvedere](https://open.spotify.com/album/3gl6i7N9soagDkaOrImZVk) | 2:54 | 2023-05-05 |  |
 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 | 2023-05-05 |  |
 | [The Same \(Edit\)](https://open.spotify.com/track/0aqEZp0UaK15stGpUn8fNS) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [The Same \(Edit\)](https://open.spotify.com/album/1zHwX4q5vNJzewIvnYbaNr) | 4:11 | 2023-05-05 |  |
-| [The Two of Us \(We Only Need\)](https://open.spotify.com/track/7mKOhewqU0whbsRHw2vD3t) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [The Two of Us \(We Only Need\)](https://open.spotify.com/album/7hA8pFcuyGgljiYegOCr3b) | 3:57 | 2023-05-05 |  |
+| [The Two of Us \(We Only Need\)](https://open.spotify.com/track/7mKOhewqU0whbsRHw2vD3t) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [The Two of Us \(We Only Need\)](https://open.spotify.com/album/7hA8pFcuyGgljiYegOCr3b) | 3:57 | 2023-05-05 | 2023-08-25 |
 | [This Feelin \(feat\. Andy Allo\)](https://open.spotify.com/track/00beHO2oTWTZMfcGukiHo2) | [Miguel Migs](https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi), [Andy Allo](https://open.spotify.com/artist/4oEWPXhZkFvFOJhaWZSLBx) | [Dim Division](https://open.spotify.com/album/3OQONOxy6x3pmChYfg0heS) | 5:18 | 2023-05-05 |  |
 | [Tide](https://open.spotify.com/track/4BBlimMXFek1ZFyCafeEVY) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys) | [Tide](https://open.spotify.com/album/4gDzDcwlRZ5zDGfduf9lJw) | 3:11 | 2023-05-05 |  |
 | [Time On You](https://open.spotify.com/track/6kimjJ50NnZjkzoSs6oYMk) | [Purple Motive](https://open.spotify.com/artist/6dXR6tFXPIoJBljuOKJK53) | [Time On You](https://open.spotify.com/album/0kVYwamSZUeI3XAOvlWwpA) | 2:10 | 2023-05-05 |  |
@@ -192,6 +192,7 @@
 | [What We Feel](https://open.spotify.com/track/6hAskKId0Hh1WZV5TjYvZo) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG) | [What We Feel EP](https://open.spotify.com/album/0gGvz7mwgTMkzQAJDwtwZG) | 5:23 | 2023-05-05 |  |
 | [Woodmaster](https://open.spotify.com/track/790hZ79j8JYhutdtJFOAWU) | [Petr Serkin](https://open.spotify.com/artist/5ywnDPnFteS7NhVDFfONop) | [Woodmaster](https://open.spotify.com/album/1c1MjLFLnW3piY8wwUjssp) | 5:22 | 2023-05-05 |  |
 | [Xasnas](https://open.spotify.com/track/0mNJT8uGm19Xwbormh0IXa) | [Crisp Nibblets](https://open.spotify.com/artist/1DDHk8crK8M6gY3cVcGtJn) | [Xasnas](https://open.spotify.com/album/4r4k0QLD3W7hlVeFVNROrO) | 2:44 | 2023-05-05 |  |
+| [Xtraspicy](https://open.spotify.com/track/3lVnP86We7owVYQRvcmhD5) | [Hoboken](https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH) | [Xtraspicy](https://open.spotify.com/album/2DKbaWzc8v4G2Vd62KTtvL) | 2:31 | 2023-08-25 |  |
 | [Yachting](https://open.spotify.com/track/3QVyMXKaLUi0np0VlDXWps) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Yachting / Late Call](https://open.spotify.com/album/50YVlsGB9Pq8cApNnicodI) | 3:09 | 2023-05-05 |  |
 | [You Like Sun](https://open.spotify.com/track/4sk0X4nfFMsMvpvDbC3rmM) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Apes At The Beachclub](https://open.spotify.com/album/4D3k6glS6pDDQyK9ymmom0) | 2:43 | 2023-07-21 |  |
 | [Zellos](https://open.spotify.com/track/5adfcYLs3LlZicwHg4dhRG) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Zellos](https://open.spotify.com/album/6csN1zLPLXVW04XWd2E611) | 2:08 | 2023-05-05 |  |

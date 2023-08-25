@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX455rqxvhRwQ.md) - [plain]
 
 > Learn something new as Joe talks with academics, experts, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,748 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 9,746 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCwwMTkxMGFkZGMxZjIxYjE0ZWM0YzVkNmU1MWQ0MTJkNzU1ODZiNTNl`
+Snapshot ID: `MCxlZWRhYzFlYjAwODk3Yjc0NThmMzVhYTM4MTNiYzcwNTBjOTlkMjQ1`

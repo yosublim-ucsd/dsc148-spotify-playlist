@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,693,181 likes - 298 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,693,290 likes - 298 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 9 | [Figures](https://open.spotify.com/track/3gW3k4nrod4POzhmV742rt) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Figures](https://open.spotify.com/album/0NAtQR6It2XhpFsD8DNgJg) | 2:48 |
 | 10 | [The Hills](https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [The Hills / True Fours](https://open.spotify.com/album/3onF7nhMqEh590IaLt6ZMp) | 2:40 |
 | 11 | [Traveler](https://open.spotify.com/track/7sYFnDDJrJLBarGGTyvGfQ) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [Traveler](https://open.spotify.com/album/7E48JRsxUqZgrz1E5AWxpN) | 2:12 |
-| 12 | [Fortunella](https://open.spotify.com/track/2jrkuEIxCZjB4Q8nazTCBN) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Fortunella](https://open.spotify.com/album/6caqarK76FDpmIeJmU7TMH) | 2:59 |
-| 13 | [Solar Healing](https://open.spotify.com/track/7lQa9uhOiN5eD2rM75tHry) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Curated Light](https://open.spotify.com/album/4P6gdXh3u8854etdrkx8O5) | 3:16 |
-| 14 | [Grayson](https://open.spotify.com/track/36XVAEtyB6gBrBso9ZDUcw) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Grayson](https://open.spotify.com/album/5kK3qRTcUDnYgt7IYqdCgD) | 3:13 |
-| 15 | [Slightly Irregular](https://open.spotify.com/track/2c04Oaz220QLDR3mP5xC6j) | [longwayfromhome](https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh) | [Slightly Irregular](https://open.spotify.com/album/4DaNYBdickKB4XtsKGRBJw) | 2:56 |
-| 16 | [Cloud Rotation](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Cloud Rotation](https://open.spotify.com/album/54Un2f1WLwQniWGOzELWnV) | 2:36 |
-| 17 | [They Were Always Here](https://open.spotify.com/track/79zkDBN7aTXvU9pVRPyO9I) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [They Were Always Here](https://open.spotify.com/album/7298JP39sHxMRN6qYftTn7) | 2:39 |
-| 18 | [Catch](https://open.spotify.com/track/0avqD9l3aBJnuMDZMyFPwl) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 4:03 |
+| 12 | [Skipper's Tale](https://open.spotify.com/track/41CUgsSWTYxMf7Tu6ed1e7) | [Tree House Club](https://open.spotify.com/artist/1ghseo4S7q5vSLnammn0vE) | [Skipper's Tale](https://open.spotify.com/album/5Mgyt4mxPFGBPhcLXnkAuI) | 2:56 |
+| 13 | [Fortunella](https://open.spotify.com/track/2jrkuEIxCZjB4Q8nazTCBN) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Fortunella](https://open.spotify.com/album/6caqarK76FDpmIeJmU7TMH) | 2:59 |
+| 14 | [Solar Healing](https://open.spotify.com/track/7lQa9uhOiN5eD2rM75tHry) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Curated Light](https://open.spotify.com/album/4P6gdXh3u8854etdrkx8O5) | 3:16 |
+| 15 | [Grayson](https://open.spotify.com/track/36XVAEtyB6gBrBso9ZDUcw) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Grayson](https://open.spotify.com/album/5kK3qRTcUDnYgt7IYqdCgD) | 3:13 |
+| 16 | [Slightly Irregular](https://open.spotify.com/track/2c04Oaz220QLDR3mP5xC6j) | [longwayfromhome](https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh) | [Slightly Irregular](https://open.spotify.com/album/4DaNYBdickKB4XtsKGRBJw) | 2:56 |
+| 17 | [Cloud Rotation](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Cloud Rotation](https://open.spotify.com/album/54Un2f1WLwQniWGOzELWnV) | 2:36 |
+| 18 | [They Were Always Here](https://open.spotify.com/track/79zkDBN7aTXvU9pVRPyO9I) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [They Were Always Here](https://open.spotify.com/album/7298JP39sHxMRN6qYftTn7) | 2:39 |
 | 19 | [Sima Deli](https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U) | [Stockset](https://open.spotify.com/artist/2GsMlo9UOvZ2YcVoFtTOpt) | [Sima Deli](https://open.spotify.com/album/2ughtucDJA558sqUjSpcNM) | 2:15 |
 | 20 | [Lunar Soil](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Lunar Soil](https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv) | 2:40 |
 | 21 | [Wave](https://open.spotify.com/track/1FlM7RtsyIkjL5Qbs7sS2A) | [Mandarin Low](https://open.spotify.com/artist/4oMzoetQDxMqMdmTSFFi3l) | [Wave](https://open.spotify.com/album/37FcIM2FcHdF2sEEfgPqEr) | 2:06 |
@@ -307,4 +307,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 297 | [Clouds & Rainbows](https://open.spotify.com/track/6srEPAMJQ8JaVK9IvXmlCS) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 3:09 |
 | 298 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 |
 
-Snapshot ID: `MCwzMGNlYWUzOTAzMjRiNjliZjQ2MzRlOGZlYzFjZWEyZGU1NmJhZDNh`
+Snapshot ID: `MCwwNDZiYjBiOTc1ZjhlMzA4YWQ4YmQwYTc2NDdlYjdlNzIwM2VhMTgy`

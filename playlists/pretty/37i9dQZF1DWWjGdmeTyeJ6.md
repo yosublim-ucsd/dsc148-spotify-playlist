@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: slimdan\. Updates every Wednesday\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,175 likes - 54 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,279 likes - 53 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,20 +47,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 37 | [Deserve It](https://open.spotify.com/track/0RF7g1wMkAeoWPN08ZLz39) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [Brand New](https://open.spotify.com/album/1had6G93RK7fsOQrE9zF1h) | 2:05 |
 | 38 | [Swimming Pool](https://open.spotify.com/track/6VBWStlrhtYvuLPbO12NX5) | [Shane T](https://open.spotify.com/artist/1NOjRg9eVRh2kQ5HFoME1X) | [Swimming Pool](https://open.spotify.com/album/6ixzzzRuELqypzHlqhR6SD) | 3:20 |
 | 39 | [cry/dance](https://open.spotify.com/track/5xlqC38FzUI80czGvrLn8o) | [Dog Park](https://open.spotify.com/artist/6Kop7MbTrWy5WGNqxsi8Xl) | [Gemini](https://open.spotify.com/album/7AXLsVfxnrp1waIHzIYA8O) | 3:09 |
-| 40 | [Festive Day](https://open.spotify.com/track/4JLRH65PoifRK6wwunuOBh) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:51 |
-| 41 | [Big Ole House](https://open.spotify.com/track/5FaYN5hSwvYg9UAobOnPEx) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Big Ole House](https://open.spotify.com/album/0IskuiwsYHY8OT6FrH68GC) | 2:35 |
-| 42 | [HOW I FEEL](https://open.spotify.com/track/48TLG2RjHOv8cI6lpOLzSq) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [HOW I FEEL](https://open.spotify.com/album/0WfFqvoSu5IvbUYDgDxBLl) | 2:59 |
-| 43 | [Not Giving Up](https://open.spotify.com/track/23z5l8S8RSnk4nXUnWpGND) | [Pleasure Pill](https://open.spotify.com/artist/4xCsBqQhsFzLIuuJNkoxB8) | [Not Giving Up](https://open.spotify.com/album/4xERPaWA5vhJAzqkcQPyTO) | 4:40 |
-| 44 | [milkshake poem](https://open.spotify.com/track/3p2C43dgJHyT4BH9uLVP94) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [milkshake poem](https://open.spotify.com/album/5X9H0J36ZqaIssTCtBSWRj) | 2:31 |
-| 45 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
-| 46 | [Doberman](https://open.spotify.com/track/03YmsROBsElQMIyQCOGXwc) | [Push Ups](https://open.spotify.com/artist/4FfErbZ5piaImVT2YTdA1z) | [Push Ups Was Here](https://open.spotify.com/album/2t2uTZniaPG3uiZbGwxAzO) | 3:03 |
-| 47 | [Dump All Your Worries on the Dance Floor](https://open.spotify.com/track/4WXYOKcqr4OTiUpIrcX7RV) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Dump All Your Worries on the Dance Floor](https://open.spotify.com/album/0Jcwe17QFJrA8Yny6hJxy4) | 2:37 |
-| 48 | [I'm Bach \(Feelin' like yak\)](https://open.spotify.com/track/7lwyaNYc0IU5XVr8LxRzAX) | [PM FRVR](https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X) | [I'm Bach \(Feelin' like yak\)](https://open.spotify.com/album/1Kn4A42jYU9a2cs0XIOhPP) | 2:29 |
-| 49 | [Forever](https://open.spotify.com/track/2oHzClI2eL21stOTGTohBI) | [Claudia Fenoglio](https://open.spotify.com/artist/1cJOlvkdCy4jR2GhyFTX8V) | [Forever](https://open.spotify.com/album/7q2qZlp1nS7nbArI3jk5Y5) | 3:45 |
-| 50 | [Different](https://open.spotify.com/track/70L61yj3bxVojr86c7xUJ1) | [soft serve](https://open.spotify.com/artist/3zIgLbjYZS3ClwVgN8NQ4B) | [Different](https://open.spotify.com/album/300kNCtYC2PieuVvjzh65J) | 3:59 |
-| 51 | [New World Back](https://open.spotify.com/track/3MWPcF16vFhvIUYTfcVoyS) | [Babytooth](https://open.spotify.com/artist/1qOs0GjofPiGwLs3hOFR4M) | [Babytooth](https://open.spotify.com/album/25NEizm1s9EIs13f5jqtn5) | 3:28 |
-| 52 | [Lima](https://open.spotify.com/track/0UyCfILValztCwbv4DmbXX) | [Malen](https://open.spotify.com/artist/2T3sYqqFKWb8v6eAneWEfP) | [Lima](https://open.spotify.com/album/30BjQ0xLtsv7YK53zd2V0e) | 2:18 |
-| 53 | [Bellyful](https://open.spotify.com/track/3YpyknW4X52wtKCctSUVBt) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Bellyful](https://open.spotify.com/album/0U5xkWeqVYXT20zsLFJHWX) | 4:23 |
-| 54 | [sleepyhead](https://open.spotify.com/track/3L4UnwOaFrV8NYuQpm0G4y) | [Daphne Jane](https://open.spotify.com/artist/2mUtRX2ziq9cTa7O7MB10S) | [sleepyhead](https://open.spotify.com/album/2rNW22n72F9AaikgC4S4sy) | 3:41 |
+| 40 | [Big Ole House](https://open.spotify.com/track/5FaYN5hSwvYg9UAobOnPEx) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Big Ole House](https://open.spotify.com/album/0IskuiwsYHY8OT6FrH68GC) | 2:35 |
+| 41 | [HOW I FEEL](https://open.spotify.com/track/48TLG2RjHOv8cI6lpOLzSq) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [HOW I FEEL](https://open.spotify.com/album/0WfFqvoSu5IvbUYDgDxBLl) | 2:59 |
+| 42 | [Not Giving Up](https://open.spotify.com/track/23z5l8S8RSnk4nXUnWpGND) | [Pleasure Pill](https://open.spotify.com/artist/4xCsBqQhsFzLIuuJNkoxB8) | [Not Giving Up](https://open.spotify.com/album/4xERPaWA5vhJAzqkcQPyTO) | 4:40 |
+| 43 | [milkshake poem](https://open.spotify.com/track/3p2C43dgJHyT4BH9uLVP94) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [milkshake poem](https://open.spotify.com/album/5X9H0J36ZqaIssTCtBSWRj) | 2:31 |
+| 44 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
+| 45 | [Doberman](https://open.spotify.com/track/03YmsROBsElQMIyQCOGXwc) | [Push Ups](https://open.spotify.com/artist/4FfErbZ5piaImVT2YTdA1z) | [Push Ups Was Here](https://open.spotify.com/album/2t2uTZniaPG3uiZbGwxAzO) | 3:03 |
+| 46 | [Dump All Your Worries on the Dance Floor](https://open.spotify.com/track/4WXYOKcqr4OTiUpIrcX7RV) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Dump All Your Worries on the Dance Floor](https://open.spotify.com/album/0Jcwe17QFJrA8Yny6hJxy4) | 2:37 |
+| 47 | [I'm Bach \(Feelin' like yak\)](https://open.spotify.com/track/7lwyaNYc0IU5XVr8LxRzAX) | [PM FRVR](https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X) | [I'm Bach \(Feelin' like yak\)](https://open.spotify.com/album/1Kn4A42jYU9a2cs0XIOhPP) | 2:29 |
+| 48 | [Forever](https://open.spotify.com/track/2oHzClI2eL21stOTGTohBI) | [Claudia Fenoglio](https://open.spotify.com/artist/1cJOlvkdCy4jR2GhyFTX8V) | [Forever](https://open.spotify.com/album/7q2qZlp1nS7nbArI3jk5Y5) | 3:45 |
+| 49 | [Different](https://open.spotify.com/track/70L61yj3bxVojr86c7xUJ1) | [soft serve](https://open.spotify.com/artist/3zIgLbjYZS3ClwVgN8NQ4B) | [Different](https://open.spotify.com/album/300kNCtYC2PieuVvjzh65J) | 3:59 |
+| 50 | [New World Back](https://open.spotify.com/track/3MWPcF16vFhvIUYTfcVoyS) | [Babytooth](https://open.spotify.com/artist/1qOs0GjofPiGwLs3hOFR4M) | [Babytooth](https://open.spotify.com/album/25NEizm1s9EIs13f5jqtn5) | 3:28 |
+| 51 | [Lima](https://open.spotify.com/track/0UyCfILValztCwbv4DmbXX) | [Malen](https://open.spotify.com/artist/2T3sYqqFKWb8v6eAneWEfP) | [Lima](https://open.spotify.com/album/30BjQ0xLtsv7YK53zd2V0e) | 2:18 |
+| 52 | [Bellyful](https://open.spotify.com/track/3YpyknW4X52wtKCctSUVBt) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Bellyful](https://open.spotify.com/album/0U5xkWeqVYXT20zsLFJHWX) | 4:23 |
+| 53 | [sleepyhead](https://open.spotify.com/track/3L4UnwOaFrV8NYuQpm0G4y) | [Daphne Jane](https://open.spotify.com/artist/2mUtRX2ziq9cTa7O7MB10S) | [sleepyhead](https://open.spotify.com/album/2rNW22n72F9AaikgC4S4sy) | 3:41 |
 
-Snapshot ID: `MCxjZGZlYTgxNTJlNWZkYTc5MzIyMjg3ZmFhNGQxYzQ5MjdhNWVjNDYz`
+Snapshot ID: `MCw5YzA1YzE2ZWJmOGE3NzA4NjI4ZmE3OGU4YjI4OTM2NzBlYTYzMjFl`

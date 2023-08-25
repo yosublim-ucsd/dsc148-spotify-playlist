@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2641712,
+  "num_followers": 2641985,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTMzODExZWRkNDFhYTQxOWY0NmQwOTUwMTRkMzU3ZWIwODRiMjMw",
+  "snapshot_id": "MCwxYjZhY2Q4ODk2MTNkZTM5Zjg1ZmQ2YmIyMWY3NmE3MDExNTAwMjk0",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
     },
     {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 380533,
+      "name": "All The Things (Your Man Won't Do)",
+      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
+    },
+    {
       "added_at": "2023-02-02 23:22:15",
       "album": {
         "name": "A Day in the Life",
@@ -303,22 +319,6 @@
       "duration_ms": 276013,
       "name": "Spend My Life With You",
       "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "All That I Am",
-        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
-      },
-      "artists": [
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 380533,
-      "name": "All The Things (Your Man Won't Do)",
-      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
       "added_at": "2023-02-02 23:04:07",

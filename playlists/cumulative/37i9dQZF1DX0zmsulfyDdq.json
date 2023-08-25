@@ -1841,6 +1841,32 @@
     },
     {
       "album": {
+        "name": "Look for the Light (From \"Only Murders in the Building: Season 3\")",
+        "url": "https://open.spotify.com/album/2R27J49gUYfWu6T7PGKeXW"
+      },
+      "artists": [
+        {
+          "name": "Only Murders in the Building \u2013 Cast",
+          "url": "https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih"
+        },
+        {
+          "name": "Meryl Streep",
+          "url": "https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2"
+        },
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150805,
+      "name": "Look for the Light - From \"Only Murders in the Building: Season 3\"",
+      "url": "https://open.spotify.com/track/0nqrVlkPbsRi5gnwNdUPu9"
+    },
+    {
+      "album": {
         "name": "Disney Guitar: Tranquility",
         "url": "https://open.spotify.com/album/1BX9U1imsmf6lImnV63Xkb"
       },
